@@ -28,9 +28,24 @@ concordances:
 count:
 	find ./data -name '*.geojson' -print | wc -l
 
+docs:
+	curl -s -o LICENSE.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/LICENSE-SHORT.md
+	curl -s -o CONTRIBUTING.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/CONTRIBUTING.md
+
 gitignore:
 	mv .gitignore .gitignore.$(YMD)
 	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/.gitignore
+
+gitlf:
+	if ! test -f .gitattributes; then touch .gitattributes; fi
+ifeq ($(shell grep '*.geojson text eol=lf' .gitattributes | wc -l), 0)
+	cp .gitattributes .gitattributes.tmp
+	perl -pe 'chomp if eof' .gitattributes.tmp
+	echo "*.geojson text eol=lf" >> .gitattributes.tmp
+	mv .gitattributes.tmp .gitattributes
+else
+	@echo "Git linefeed hoohah already set"
+endif
 
 # https://internetarchive.readthedocs.org/en/latest/cli.html#upload
 # https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
@@ -47,11 +62,17 @@ list-empty:
 	find data -type d -empty -print
 
 makefile:
-	mv Makefile Makefile.$(YMD)
 	curl -s -o Makefile https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/make/Makefile
 
 postbuffer:
 	git config http.postBuffer 104857600
+
+# As in this: https://github.com/whosonfirst/git-whosonfirst-data
+
+post-pull:
+	./.git/hooks/pre-commit --start-commit $(commit)
+	./.git/hooks/post-commit --start-commit $(commit)
+	./.git/hooks/post-push-async --start-commit $(commit)
 
 prune:
 	git gc --aggressive --prune
