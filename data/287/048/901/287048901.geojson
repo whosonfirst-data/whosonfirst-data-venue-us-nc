@@ -2,13 +2,14 @@
   "id": 287048901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.83356,35.787347,-78.83356,35.787347",
     "geom:latitude":35.787347,
     "geom:longitude":-78.83356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Olympic Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287048901,
-    "wof:lastmodified":1449000970,
+    "wof:lastmodified":1466643922,
     "wof:name":"Rajon Properties LLC",
     "wof:parent_id":85843101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-78.83356,35.787347,-78.83356,35.787347],
-  "geometry": {"coordinates":[-78.83356,35.787347],"type":"Point"}
+  "bbox": [
+    -78.83356,
+    35.787347,
+    -78.83356,
+    35.787347
+],
+  "geometry": {"coordinates":[-78.83356000000001,35.787347],"type":"Point"}
 }

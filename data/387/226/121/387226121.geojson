@@ -2,13 +2,14 @@
   "id": 387226121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949438,36.054091,-77.949438,36.054091",
     "geom:latitude":36.054091,
     "geom:longitude":-77.949438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5636 Red Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387226121,
-    "wof:lastmodified":1449058869,
+    "wof:lastmodified":1466652850,
     "wof:name":"Smitty's Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.949438,36.054091,-77.949438,36.054091],
+  "bbox": [
+    -77.949438,
+    36.054091,
+    -77.949438,
+    36.054091
+],
   "geometry": {"coordinates":[-77.949438,36.054091],"type":"Point"}
 }

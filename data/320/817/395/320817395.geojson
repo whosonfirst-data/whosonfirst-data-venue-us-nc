@@ -2,13 +2,14 @@
   "id": 320817395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.622228,35.651033,-82.622228,35.651033",
     "geom:latitude":35.651033,
     "geom:longitude":-82.622228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Olivette Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320817395,
-    "wof:lastmodified":1449014237,
+    "wof:lastmodified":1466656494,
     "wof:name":"Idea Consulting",
     "wof:parent_id":85817793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineering"
     ]
 },
-  "bbox": [-82.622228,35.651033,-82.622228,35.651033],
-  "geometry": {"coordinates":[-82.622228,35.651033],"type":"Point"}
+  "bbox": [
+    -82.622228,
+    35.651033,
+    -82.622228,
+    35.651033
+],
+  "geometry": {"coordinates":[-82.62222800000001,35.651033],"type":"Point"}
 }

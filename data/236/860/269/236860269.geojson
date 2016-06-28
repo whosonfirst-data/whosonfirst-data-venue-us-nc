@@ -2,13 +2,14 @@
   "id": 236860269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.37838,35.579683,-77.37838,35.579683",
     "geom:latitude":35.579683,
     "geom:longitude":-77.37838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Greenville Blvd SE",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236860269,
-    "wof:lastmodified":1449003060,
+    "wof:lastmodified":1466650923,
     "wof:name":"Tippy's Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "doe"
     ]
 },
-  "bbox": [-77.37838,35.579683,-77.37838,35.579683],
-  "geometry": {"coordinates":[-77.37838,35.579683],"type":"Point"}
+  "bbox": [
+    -77.37838,
+    35.579683,
+    -77.37838,
+    35.579683
+],
+  "geometry": {"coordinates":[-77.37838000000001,35.579683],"type":"Point"}
 }

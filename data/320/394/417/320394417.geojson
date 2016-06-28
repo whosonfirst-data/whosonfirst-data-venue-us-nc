@@ -2,13 +2,14 @@
   "id": 320394417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.606721,35.272655,-77.606721,35.272655",
     "geom:latitude":35.272655,
     "geom:longitude":-77.606721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Hardee Rd",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320394417,
-    "wof:lastmodified":1449011984,
+    "wof:lastmodified":1466650842,
     "wof:name":"Kinston Board of Realtors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.606721,35.272655,-77.606721,35.272655],
-  "geometry": {"coordinates":[-77.606721,35.272655],"type":"Point"}
+  "bbox": [
+    -77.606721,
+    35.272655,
+    -77.606721,
+    35.272655
+],
+  "geometry": {"coordinates":[-77.60672099999999,35.272655],"type":"Point"}
 }

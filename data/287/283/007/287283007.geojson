@@ -2,13 +2,14 @@
   "id": 287283007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.525241,34.977342,-80.525241,34.977342",
     "geom:latitude":34.977342,
     "geom:longitude":-80.525241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Dove St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287283007,
-    "wof:lastmodified":1449000912,
+    "wof:lastmodified":1466647235,
     "wof:name":"Anderson Family Medicine",
     "wof:parent_id":85840585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.525241,34.977342,-80.525241,34.977342],
-  "geometry": {"coordinates":[-80.525241,34.977342],"type":"Point"}
+  "bbox": [
+    -80.525241,
+    34.977342,
+    -80.525241,
+    34.977342
+],
+  "geometry": {"coordinates":[-80.52524099999999,34.977342],"type":"Point"}
 }

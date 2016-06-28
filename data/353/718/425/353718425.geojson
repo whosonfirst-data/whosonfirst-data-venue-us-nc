@@ -2,13 +2,14 @@
   "id": 353718425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.021381,35.935204,-79.021381,35.935204",
     "geom:latitude":35.935204,
     "geom:longitude":-79.021381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 Legion Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353718425,
-    "wof:lastmodified":1449018817,
+    "wof:lastmodified":1466650838,
     "wof:name":"Britthaven",
     "wof:parent_id":85852075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [-79.021381,35.935204,-79.021381,35.935204],
-  "geometry": {"coordinates":[-79.021381,35.935204],"type":"Point"}
+  "bbox": [
+    -79.021381,
+    35.935204,
+    -79.021381,
+    35.935204
+],
+  "geometry": {"coordinates":[-79.02138100000001,35.935204],"type":"Point"}
 }

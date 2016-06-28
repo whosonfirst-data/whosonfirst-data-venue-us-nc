@@ -2,13 +2,14 @@
   "id": 354371007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.789093,35.588126,-80.789093,35.588126",
     "geom:latitude":35.588126,
     "geom:longitude":-80.789093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Linwood Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354371007,
-    "wof:lastmodified":1449067254,
+    "wof:lastmodified":1466651841,
     "wof:name":"Eastside Baptist Church",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.789093,35.588126,-80.789093,35.588126],
-  "geometry": {"coordinates":[-80.789093,35.588126],"type":"Point"}
+  "bbox": [
+    -80.789093,
+    35.588126,
+    -80.789093,
+    35.588126
+],
+  "geometry": {"coordinates":[-80.78909299999999,35.588126],"type":"Point"}
 }

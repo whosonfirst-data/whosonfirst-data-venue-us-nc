@@ -2,13 +2,14 @@
   "id": 253481999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.832614,36.086121,-79.832614,36.086121",
     "geom:latitude":36.086121,
     "geom:longitude":-79.832614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 Grandview Ave",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253481999,
-    "wof:lastmodified":1449065393,
+    "wof:lastmodified":1466648146,
     "wof:name":"Rag Poets Societe",
     "wof:parent_id":85851563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.832614,36.086121,-79.832614,36.086121],
-  "geometry": {"coordinates":[-79.832614,36.086121],"type":"Point"}
+  "bbox": [
+    -79.832614,
+    36.086121,
+    -79.832614,
+    36.086121
+],
+  "geometry": {"coordinates":[-79.83261400000001,36.086121],"type":"Point"}
 }

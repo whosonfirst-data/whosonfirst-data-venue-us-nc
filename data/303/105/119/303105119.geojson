@@ -2,13 +2,14 @@
   "id": 303105119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.11291,35.643681,-80.11291,35.643681",
     "geom:latitude":35.643681,
     "geom:longitude":-80.11291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 A R Morris Rd",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303105119,
-    "wof:lastmodified":1448999048,
+    "wof:lastmodified":1466644770,
     "wof:name":"Denton Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-80.11291,35.643681,-80.11291,35.643681],
+  "bbox": [
+    -80.11291,
+    35.643681,
+    -80.11291,
+    35.643681
+],
   "geometry": {"coordinates":[-80.11291,35.643681],"type":"Point"}
 }

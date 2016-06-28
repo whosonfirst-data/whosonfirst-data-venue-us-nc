@@ -2,13 +2,14 @@
   "id": 387265747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.88281,36.068011,-79.88281,36.068011",
     "geom:latitude":36.068011,
     "geom:longitude":-79.88281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Winola Ct",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387265747,
-    "wof:lastmodified":1449057393,
+    "wof:lastmodified":1466653362,
     "wof:name":"R D Holmberg MD PA",
     "wof:parent_id":85877997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-79.88281,36.068011,-79.88281,36.068011],
-  "geometry": {"coordinates":[-79.88281,36.068011],"type":"Point"}
+  "bbox": [
+    -79.88281,
+    36.068011,
+    -79.88281,
+    36.068011
+],
+  "geometry": {"coordinates":[-79.88281000000001,36.068011],"type":"Point"}
 }

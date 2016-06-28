@@ -2,13 +2,14 @@
   "id": 286570523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.502389,36.07935,-79.502389,36.07935",
     "geom:latitude":36.07935,
     "geom:longitude":-79.502389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Elk St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286570523,
-    "wof:lastmodified":1449016938,
+    "wof:lastmodified":1466647329,
     "wof:name":"Sunnybrook Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.502389,36.07935,-79.502389,36.07935],
-  "geometry": {"coordinates":[-79.502389,36.07935],"type":"Point"}
+  "bbox": [
+    -79.502389,
+    36.07935,
+    -79.502389,
+    36.07935
+],
+  "geometry": {"coordinates":[-79.50238899999999,36.07935],"type":"Point"}
 }

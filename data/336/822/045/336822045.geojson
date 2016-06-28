@@ -2,13 +2,14 @@
   "id": 336822045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.557929,33.902643,-78.557929,33.902643",
     "geom:latitude":33.902643,
     "geom:longitude":-78.557929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 Thomasboro Rd SW",
     "sg:city":"Calabash",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336822045,
-    "wof:lastmodified":1448997969,
+    "wof:lastmodified":1466649215,
     "wof:name":"Village At Calabash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.557929,33.902643,-78.557929,33.902643],
+  "bbox": [
+    -78.557929,
+    33.902643,
+    -78.557929,
+    33.902643
+],
   "geometry": {"coordinates":[-78.557929,33.902643],"type":"Point"}
 }

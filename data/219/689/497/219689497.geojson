@@ -2,13 +2,14 @@
   "id": 219689497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.355419,35.495329,-78.355419,35.495329",
     "geom:latitude":35.495329,
     "geom:longitude":-78.355419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 S Brightleaf Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219689497,
-    "wof:lastmodified":1449073328,
+    "wof:lastmodified":1466646260,
     "wof:name":"Direct Distributors",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-78.355419,35.495329,-78.355419,35.495329],
+  "bbox": [
+    -78.355419,
+    35.495329,
+    -78.355419,
+    35.495329
+],
   "geometry": {"coordinates":[-78.355419,35.495329],"type":"Point"}
 }

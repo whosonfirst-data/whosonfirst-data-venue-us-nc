@@ -2,13 +2,14 @@
   "id": 269718549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.083988,35.624143,-77.083988,35.624143",
     "geom:latitude":35.624143,
     "geom:longitude":-77.083988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2168 Wharton Station Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269718549,
-    "wof:lastmodified":1449036668,
+    "wof:lastmodified":1466646001,
     "wof:name":"William S Williamson",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-77.083988,35.624143,-77.083988,35.624143],
-  "geometry": {"coordinates":[-77.083988,35.624143],"type":"Point"}
+  "bbox": [
+    -77.083988,
+    35.624143,
+    -77.083988,
+    35.624143
+],
+  "geometry": {"coordinates":[-77.08398800000001,35.624143],"type":"Point"}
 }

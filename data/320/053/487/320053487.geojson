@@ -2,13 +2,14 @@
   "id": 320053487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.868235,35.505585,-80.868235,35.505585",
     "geom:latitude":35.505585,
     "geom:longitude":-80.868235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Harbor Pl",
     "sg:city":"Davidson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320053487,
-    "wof:lastmodified":1449011962,
+    "wof:lastmodified":1466646081,
     "wof:name":"Elite Display",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.868235,35.505585,-80.868235,35.505585],
+  "bbox": [
+    -80.868235,
+    35.505585,
+    -80.868235,
+    35.505585
+],
   "geometry": {"coordinates":[-80.868235,35.505585],"type":"Point"}
 }

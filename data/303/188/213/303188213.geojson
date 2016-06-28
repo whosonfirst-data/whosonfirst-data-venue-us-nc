@@ -2,13 +2,14 @@
   "id": 303188213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.841997,36.062762,-79.841997,36.062762",
     "geom:latitude":36.062762,
     "geom:longitude":-79.841997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3017 Collier Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303188213,
-    "wof:lastmodified":1448999329,
+    "wof:lastmodified":1466646037,
     "wof:name":"Barry Shoemaker Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.841997,36.062762,-79.841997,36.062762],
-  "geometry": {"coordinates":[-79.841997,36.062762],"type":"Point"}
+  "bbox": [
+    -79.841997,
+    36.062762,
+    -79.841997,
+    36.062762
+],
+  "geometry": {"coordinates":[-79.84199700000001,36.062762],"type":"Point"}
 }

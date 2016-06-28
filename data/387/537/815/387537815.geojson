@@ -2,13 +2,14 @@
   "id": 387537815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.886203,35.307711,-81.886203,35.307711",
     "geom:latitude":35.307711,
     "geom:longitude":-81.886203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 McDonald Rd",
     "sg:city":"Forest City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387537815,
-    "wof:lastmodified":1449057039,
+    "wof:lastmodified":1466656315,
     "wof:name":"Learning Tree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.886203,35.307711,-81.886203,35.307711],
-  "geometry": {"coordinates":[-81.886203,35.307711],"type":"Point"}
+  "bbox": [
+    -81.886203,
+    35.307711,
+    -81.886203,
+    35.307711
+],
+  "geometry": {"coordinates":[-81.88620299999999,35.307711],"type":"Point"}
 }

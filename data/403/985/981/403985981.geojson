@@ -2,13 +2,14 @@
   "id": 403985981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.497278,35.800835,-78.497278,35.800835",
     "geom:latitude":35.800835,
     "geom:longitude":-78.497278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Great Falls Ct",
     "sg:city":"Knightdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403985981,
-    "wof:lastmodified":1449055298,
+    "wof:lastmodified":1466654013,
     "wof:name":"Auto Dr's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.497278,35.800835,-78.497278,35.800835],
-  "geometry": {"coordinates":[-78.497278,35.800835],"type":"Point"}
+  "bbox": [
+    -78.497278,
+    35.800835,
+    -78.497278,
+    35.800835
+],
+  "geometry": {"coordinates":[-78.49727799999999,35.800835],"type":"Point"}
 }

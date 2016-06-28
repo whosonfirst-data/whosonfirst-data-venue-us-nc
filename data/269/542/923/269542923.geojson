@@ -2,13 +2,14 @@
   "id": 269542923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.932758,34.184965,-77.932758,34.184965",
     "geom:latitude":34.184965,
     "geom:longitude":-77.932758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Landmark Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269542923,
-    "wof:lastmodified":1449038298,
+    "wof:lastmodified":1466643897,
     "wof:name":"Pinnacle Business Svc",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.932758,34.184965,-77.932758,34.184965],
-  "geometry": {"coordinates":[-77.932758,34.184965],"type":"Point"}
+  "bbox": [
+    -77.932758,
+    34.184965,
+    -77.932758,
+    34.184965
+],
+  "geometry": {"coordinates":[-77.93275800000001,34.184965],"type":"Point"}
 }

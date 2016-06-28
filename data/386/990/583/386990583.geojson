@@ -2,13 +2,14 @@
   "id": 386990583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.246599,36.34005,-76.246599,36.34005",
     "geom:latitude":36.34005,
     "geom:longitude":-76.246599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1733 N Road St",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":386990583,
-    "wof:lastmodified":1449028829,
+    "wof:lastmodified":1466650194,
     "wof:name":"Fellowship Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-76.246599,36.34005,-76.246599,36.34005],
+  "bbox": [
+    -76.246599,
+    36.34005,
+    -76.246599,
+    36.34005
+],
   "geometry": {"coordinates":[-76.246599,36.34005],"type":"Point"}
 }

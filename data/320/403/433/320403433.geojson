@@ -2,13 +2,14 @@
   "id": 320403433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.35675,35.239309,-81.35675,35.239309",
     "geom:latitude":35.239309,
     "geom:longitude":-81.35675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 W Mountain St",
     "sg:city":"Kings Mountain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320403433,
-    "wof:lastmodified":1449014452,
+    "wof:lastmodified":1466650972,
     "wof:name":"Mountain Street Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.35675,35.239309,-81.35675,35.239309],
-  "geometry": {"coordinates":[-81.35675,35.239309],"type":"Point"}
+  "bbox": [
+    -81.35675,
+    35.239309,
+    -81.35675,
+    35.239309
+],
+  "geometry": {"coordinates":[-81.35675000000001,35.239309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270032813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.543562,35.609689,-82.543562,35.609689",
     "geom:latitude":35.609689,
     "geom:longitude":-82.543562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Oak Ln",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270032813,
-    "wof:lastmodified":1449009829,
+    "wof:lastmodified":1466643572,
     "wof:name":"King & Assoc",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.543562,35.609689,-82.543562,35.609689],
-  "geometry": {"coordinates":[-82.543562,35.609689],"type":"Point"}
+  "bbox": [
+    -82.543562,
+    35.609689,
+    -82.543562,
+    35.609689
+],
+  "geometry": {"coordinates":[-82.54356199999999,35.609689],"type":"Point"}
 }

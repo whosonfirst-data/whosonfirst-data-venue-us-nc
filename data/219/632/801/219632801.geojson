@@ -2,13 +2,14 @@
   "id": 219632801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.110541,35.095521,-77.110541,35.095521",
     "geom:latitude":35.095521,
     "geom:longitude":-77.110541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 M L King Jr Blvd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219632801,
-    "wof:lastmodified":1449072640,
+    "wof:lastmodified":1466645836,
     "wof:name":"Forestry Dept District Hq",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-77.110541,35.095521,-77.110541,35.095521],
+  "bbox": [
+    -77.110541,
+    35.095521,
+    -77.110541,
+    35.095521
+],
   "geometry": {"coordinates":[-77.110541,35.095521],"type":"Point"}
 }

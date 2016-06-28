@@ -2,13 +2,14 @@
   "id": 303910063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.119982,35.42326,-79.119982,35.42326",
     "geom:latitude":35.42326,
     "geom:longitude":-79.119982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4546 State Hwy 87 S",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303910063,
-    "wof:lastmodified":1448999138,
+    "wof:lastmodified":1466656067,
     "wof:name":"Carolina Internal Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.119982,35.42326,-79.119982,35.42326],
-  "geometry": {"coordinates":[-79.119982,35.42326],"type":"Point"}
+  "bbox": [
+    -79.119982,
+    35.42326,
+    -79.119982,
+    35.42326
+],
+  "geometry": {"coordinates":[-79.11998199999999,35.42326],"type":"Point"}
 }

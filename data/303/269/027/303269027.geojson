@@ -2,13 +2,14 @@
   "id": 303269027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.96107,35.069519,-78.96107,35.069519",
     "geom:latitude":35.069519,
     "geom:longitude":-78.96107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 Morganton Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303269027,
-    "wof:lastmodified":1448999654,
+    "wof:lastmodified":1466647229,
     "wof:name":"Tag It Custom Designs",
     "wof:parent_id":85852083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "accessory"
     ]
 },
-  "bbox": [-78.96107,35.069519,-78.96107,35.069519],
-  "geometry": {"coordinates":[-78.96107,35.069519],"type":"Point"}
+  "bbox": [
+    -78.96107,
+    35.069519,
+    -78.96107,
+    35.069519
+],
+  "geometry": {"coordinates":[-78.96107000000001,35.069519],"type":"Point"}
 }

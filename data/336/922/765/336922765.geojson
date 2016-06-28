@@ -2,13 +2,14 @@
   "id": 336922765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.972439,34.807612,-78.972439,34.807612",
     "geom:latitude":34.807612,
     "geom:longitude":-78.972439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 N 2nd St",
     "sg:city":"St Pauls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336922765,
-    "wof:lastmodified":1448997029,
+    "wof:lastmodified":1466650763,
     "wof:name":"Schultz Ellis Chiropractic Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.972439,34.807612,-78.972439,34.807612],
-  "geometry": {"coordinates":[-78.972439,34.807612],"type":"Point"}
+  "bbox": [
+    -78.972439,
+    34.807612,
+    -78.972439,
+    34.807612
+],
+  "geometry": {"coordinates":[-78.97243899999999,34.807612],"type":"Point"}
 }

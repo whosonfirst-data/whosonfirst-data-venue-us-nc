@@ -2,13 +2,14 @@
   "id": 236866001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.934001,35.824583,-78.934001,35.824583",
     "geom:latitude":35.824583,
     "geom:longitude":-78.934001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Markham Plantation",
     "sg:city":"Apex",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236866001,
-    "wof:lastmodified":1449003173,
+    "wof:lastmodified":1466650971,
     "wof:name":"Roger D Blevins",
     "wof:parent_id":85891755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.934001,35.824583,-78.934001,35.824583],
-  "geometry": {"coordinates":[-78.934001,35.824583],"type":"Point"}
+  "bbox": [
+    -78.934001,
+    35.824583,
+    -78.934001,
+    35.824583
+],
+  "geometry": {"coordinates":[-78.93400099999999,35.824583],"type":"Point"}
 }

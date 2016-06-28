@@ -2,13 +2,14 @@
   "id": 303331109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.912647,35.040856,-78.912647,35.040856",
     "geom:latitude":35.040856,
     "geom:longitude":-78.912647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1327 Robeson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303331109,
-    "wof:lastmodified":1448999606,
+    "wof:lastmodified":1466648084,
     "wof:name":"International Minute Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-78.912647,35.040856,-78.912647,35.040856],
-  "geometry": {"coordinates":[-78.912647,35.040856],"type":"Point"}
+  "bbox": [
+    -78.912647,
+    35.040856,
+    -78.912647,
+    35.040856
+],
+  "geometry": {"coordinates":[-78.91264700000001,35.040856],"type":"Point"}
 }

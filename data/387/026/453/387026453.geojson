@@ -2,13 +2,14 @@
   "id": 387026453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.532648,34.831774,-77.532648,34.831774",
     "geom:latitude":34.831774,
     "geom:longitude":-77.532648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Mc Gowan Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387026453,
-    "wof:lastmodified":1449058352,
+    "wof:lastmodified":1466650213,
     "wof:name":"Johnny Whitfield Concrete Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.532648,34.831774,-77.532648,34.831774],
-  "geometry": {"coordinates":[-77.532648,34.831774],"type":"Point"}
+  "bbox": [
+    -77.532648,
+    34.831774,
+    -77.532648,
+    34.831774
+],
+  "geometry": {"coordinates":[-77.53264799999999,34.831774],"type":"Point"}
 }

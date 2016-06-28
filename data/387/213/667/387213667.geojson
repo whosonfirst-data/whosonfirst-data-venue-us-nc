@@ -2,13 +2,14 @@
   "id": 387213667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.933221,34.549559,-77.933221,34.549559",
     "geom:latitude":34.549559,
     "geom:longitude":-77.933221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 W Wilmington St",
     "sg:city":"Burgaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387213667,
-    "wof:lastmodified":1449056162,
+    "wof:lastmodified":1466652679,
     "wof:name":"Rogers Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "prefab"
     ]
 },
-  "bbox": [-77.933221,34.549559,-77.933221,34.549559],
+  "bbox": [
+    -77.933221,
+    34.549559,
+    -77.933221,
+    34.549559
+],
   "geometry": {"coordinates":[-77.933221,34.549559],"type":"Point"}
 }

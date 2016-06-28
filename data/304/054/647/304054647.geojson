@@ -2,13 +2,14 @@
   "id": 304054647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.758519,36.087326,-79.758519,36.087326",
     "geom:latitude":36.087326,
     "geom:longitude":-79.758519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 E Wendover Ave",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304054647,
-    "wof:lastmodified":1449043812,
+    "wof:lastmodified":1466644931,
     "wof:name":"Wendover Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-79.758519,36.087326,-79.758519,36.087326],
-  "geometry": {"coordinates":[-79.758519,36.087326],"type":"Point"}
+  "bbox": [
+    -79.758519,
+    36.087326,
+    -79.758519,
+    36.087326
+],
+  "geometry": {"coordinates":[-79.75851900000001,36.087326],"type":"Point"}
 }

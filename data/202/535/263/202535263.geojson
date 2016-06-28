@@ -2,13 +2,14 @@
   "id": 202535263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.724911,35.765431,-78.724911,35.765431",
     "geom:latitude":35.765431,
     "geom:longitude":-78.724911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1131 Lupine Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202535263,
-    "wof:lastmodified":1449060564,
+    "wof:lastmodified":1466655215,
     "wof:name":"Planning Alliance",
     "wof:parent_id":85854885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.724911,35.765431,-78.724911,35.765431],
-  "geometry": {"coordinates":[-78.724911,35.765431],"type":"Point"}
+  "bbox": [
+    -78.724911,
+    35.765431,
+    -78.724911,
+    35.765431
+],
+  "geometry": {"coordinates":[-78.72491100000001,35.765431],"type":"Point"}
 }

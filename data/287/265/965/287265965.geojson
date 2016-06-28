@@ -2,13 +2,14 @@
   "id": 287265965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.25515,35.825416,-80.25515,35.825416",
     "geom:latitude":35.825416,
     "geom:longitude":-80.25515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 W Center St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287265965,
-    "wof:lastmodified":1449000962,
+    "wof:lastmodified":1466647000,
     "wof:name":"Zachary Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.25515,35.825416,-80.25515,35.825416],
+  "bbox": [
+    -80.25515,
+    35.825416,
+    -80.25515,
+    35.825416
+],
   "geometry": {"coordinates":[-80.25515,35.825416],"type":"Point"}
 }

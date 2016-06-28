@@ -2,13 +2,14 @@
   "id": 336673309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.304856,35.701256,-81.304856,35.701256",
     "geom:latitude":35.701256,
     "geom:longitude":-81.304856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1856 Catawba Valley Blvd SE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336673309,
-    "wof:lastmodified":1448997368,
+    "wof:lastmodified":1466646973,
     "wof:name":"Babies R Us",
     "wof:parent_id":85818467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-81.304856,35.701256,-81.304856,35.701256],
+  "bbox": [
+    -81.304856,
+    35.701256,
+    -81.304856,
+    35.701256
+],
   "geometry": {"coordinates":[-81.304856,35.701256],"type":"Point"}
 }

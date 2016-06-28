@@ -2,13 +2,14 @@
   "id": 387919115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.580053,35.645151,-82.580053,35.645151",
     "geom:latitude":35.645151,
     "geom:longitude":-82.580053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Weaverville Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387919115,
-    "wof:lastmodified":1449058981,
+    "wof:lastmodified":1466658000,
     "wof:name":"Economy Oil Station",
     "wof:parent_id":85868557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-82.580053,35.645151,-82.580053,35.645151],
-  "geometry": {"coordinates":[-82.580053,35.645151],"type":"Point"}
+  "bbox": [
+    -82.580053,
+    35.645151,
+    -82.580053,
+    35.645151
+],
+  "geometry": {"coordinates":[-82.58005300000001,35.645151],"type":"Point"}
 }

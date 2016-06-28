@@ -2,13 +2,14 @@
   "id": 387286305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.468033,35.668905,-80.468033,35.668905",
     "geom:latitude":35.668905,
     "geom:longitude":-80.468033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 N Main St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387286305,
-    "wof:lastmodified":1449057098,
+    "wof:lastmodified":1466653618,
     "wof:name":"Rowan County Sheriff Records",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-80.468033,35.668905,-80.468033,35.668905],
-  "geometry": {"coordinates":[-80.468033,35.668905],"type":"Point"}
+  "bbox": [
+    -80.468033,
+    35.668905,
+    -80.468033,
+    35.668905
+],
+  "geometry": {"coordinates":[-80.46803300000001,35.668905],"type":"Point"}
 }

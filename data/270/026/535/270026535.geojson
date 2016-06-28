@@ -2,13 +2,14 @@
   "id": 270026535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.544611,35.576867,-82.544611,35.576867",
     "geom:latitude":35.576867,
     "geom:longitude":-82.544611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Forest Hill Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270026535,
-    "wof:lastmodified":1449010090,
+    "wof:lastmodified":1466643503,
     "wof:name":"Antioch Christian Church",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.544611,35.576867,-82.544611,35.576867],
+  "bbox": [
+    -82.544611,
+    35.576867,
+    -82.544611,
+    35.576867
+],
   "geometry": {"coordinates":[-82.544611,35.576867],"type":"Point"}
 }

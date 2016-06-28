@@ -2,13 +2,14 @@
   "id": 320789653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.378661,35.379221,-81.378661,35.379221",
     "geom:latitude":35.379221,
     "geom:longitude":-81.378661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Main St",
     "sg:city":"Cherryville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320789653,
-    "wof:lastmodified":1449012935,
+    "wof:lastmodified":1466656409,
     "wof:name":"Houser Drug Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.378661,35.379221,-81.378661,35.379221],
-  "geometry": {"coordinates":[-81.378661,35.379221],"type":"Point"}
+  "bbox": [
+    -81.378661,
+    35.379221,
+    -81.378661,
+    35.379221
+],
+  "geometry": {"coordinates":[-81.37866099999999,35.379221],"type":"Point"}
 }

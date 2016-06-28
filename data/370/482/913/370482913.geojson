@@ -2,13 +2,14 @@
   "id": 370482913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.653523,36.432561,-77.653523,36.432561",
     "geom:latitude":36.432561,
     "geom:longitude":-77.653523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Anna Louise Ln",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370482913,
-    "wof:lastmodified":1449030291,
+    "wof:lastmodified":1466652337,
     "wof:name":"Park Avenue Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.653523,36.432561,-77.653523,36.432561],
-  "geometry": {"coordinates":[-77.653523,36.432561],"type":"Point"}
+  "bbox": [
+    -77.653523,
+    36.432561,
+    -77.653523,
+    36.432561
+],
+  "geometry": {"coordinates":[-77.65352300000001,36.432561],"type":"Point"}
 }

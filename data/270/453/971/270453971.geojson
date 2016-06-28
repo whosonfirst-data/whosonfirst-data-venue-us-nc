@@ -2,13 +2,14 @@
   "id": 270453971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.419953,36.136659,-77.419953,36.136659",
     "geom:latitude":36.136659,
     "geom:longitude":-77.419953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Main St",
     "sg:city":"Scotland Neck",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270453971,
-    "wof:lastmodified":1449010474,
+    "wof:lastmodified":1466648827,
     "wof:name":"Scotland Neck Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.419953,36.136659,-77.419953,36.136659],
-  "geometry": {"coordinates":[-77.419953,36.136659],"type":"Point"}
+  "bbox": [
+    -77.419953,
+    36.136659,
+    -77.419953,
+    36.136659
+],
+  "geometry": {"coordinates":[-77.41995300000001,36.136659],"type":"Point"}
 }

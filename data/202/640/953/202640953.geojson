@@ -2,13 +2,14 @@
   "id": 202640953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.600383,35.272881,-77.600383,35.272881",
     "geom:latitude":35.272881,
     "geom:longitude":-77.600383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Carolina Ave",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202640953,
-    "wof:lastmodified":1449061224,
+    "wof:lastmodified":1466655677,
     "wof:name":"Helping Hands Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.600383,35.272881,-77.600383,35.272881],
-  "geometry": {"coordinates":[-77.600383,35.272881],"type":"Point"}
+  "bbox": [
+    -77.600383,
+    35.272881,
+    -77.600383,
+    35.272881
+],
+  "geometry": {"coordinates":[-77.60038299999999,35.272881],"type":"Point"}
 }

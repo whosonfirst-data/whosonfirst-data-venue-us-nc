@@ -2,13 +2,14 @@
   "id": 387498345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.08446,35.123379,-77.08446,35.123379",
     "geom:latitude":35.123379,
     "geom:longitude":-77.08446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2822 Neuse Blvd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387498345,
-    "wof:lastmodified":1449058990,
+    "wof:lastmodified":1466656219,
     "wof:name":"Craven Area Rural Transit Sys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-77.08446,35.123379,-77.08446,35.123379],
-  "geometry": {"coordinates":[-77.08446,35.123379],"type":"Point"}
+  "bbox": [
+    -77.08446,
+    35.123379,
+    -77.08446,
+    35.123379
+],
+  "geometry": {"coordinates":[-77.08446000000001,35.123379],"type":"Point"}
 }

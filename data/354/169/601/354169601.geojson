@@ -2,13 +2,14 @@
   "id": 354169601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.649203,35.353947,-80.649203,35.353947",
     "geom:latitude":35.353947,
     "geom:longitude":-80.649203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4119 Carolina Pointe Ct SW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354169601,
-    "wof:lastmodified":1449066990,
+    "wof:lastmodified":1466649528,
     "wof:name":"Money Mailer Inc",
     "wof:parent_id":85845223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-80.649203,35.353947,-80.649203,35.353947],
+  "bbox": [
+    -80.649203,
+    35.353947,
+    -80.649203,
+    35.353947
+],
   "geometry": {"coordinates":[-80.649203,35.353947],"type":"Point"}
 }

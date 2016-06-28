@@ -2,13 +2,14 @@
   "id": 354026623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.223273,36.294624,-76.223273,36.294624",
     "geom:latitude":36.294624,
     "geom:longitude":-76.223273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 S Road St",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354026623,
-    "wof:lastmodified":1449066950,
+    "wof:lastmodified":1466647853,
     "wof:name":"Holy Trinity Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-76.223273,36.294624,-76.223273,36.294624],
-  "geometry": {"coordinates":[-76.223273,36.294624],"type":"Point"}
+  "bbox": [
+    -76.223273,
+    36.294624,
+    -76.223273,
+    36.294624
+],
+  "geometry": {"coordinates":[-76.22327300000001,36.294624],"type":"Point"}
 }

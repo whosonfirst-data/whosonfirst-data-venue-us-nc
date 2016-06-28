@@ -2,13 +2,14 @@
   "id": 320562577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.649274,36.146205,-79.649274,36.146205",
     "geom:latitude":36.146205,
     "geom:longitude":-79.649274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2966 Huffine Mill Rd",
     "sg:city":"Gibsonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320562577,
-    "wof:lastmodified":1449013242,
+    "wof:lastmodified":1466653281,
     "wof:name":"Rice Monolithic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.649274,36.146205,-79.649274,36.146205],
-  "geometry": {"coordinates":[-79.649274,36.146205],"type":"Point"}
+  "bbox": [
+    -79.649274,
+    36.146205,
+    -79.649274,
+    36.146205
+],
+  "geometry": {"coordinates":[-79.64927400000001,36.146205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370793299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949963,34.248447,-77.949963,34.248447",
     "geom:latitude":34.248447,
     "geom:longitude":-77.949963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cowan St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370793299,
-    "wof:lastmodified":1449030931,
+    "wof:lastmodified":1466656307,
     "wof:name":"Dean Hardwoods",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.949963,34.248447,-77.949963,34.248447],
+  "bbox": [
+    -77.949963,
+    34.248447,
+    -77.949963,
+    34.248447
+],
   "geometry": {"coordinates":[-77.949963,34.248447],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270385243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.409815,36.037529,-80.409815,36.037529",
     "geom:latitude":36.037529,
     "geom:longitude":-80.409815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8052 Glengarriff Rd",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270385243,
-    "wof:lastmodified":1449010099,
+    "wof:lastmodified":1466647949,
     "wof:name":"Global Golf",
     "wof:parent_id":85840801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.409815,36.037529,-80.409815,36.037529],
-  "geometry": {"coordinates":[-80.409815,36.037529],"type":"Point"}
+  "bbox": [
+    -80.409815,
+    36.037529,
+    -80.409815,
+    36.037529
+],
+  "geometry": {"coordinates":[-80.40981499999999,36.037529],"type":"Point"}
 }

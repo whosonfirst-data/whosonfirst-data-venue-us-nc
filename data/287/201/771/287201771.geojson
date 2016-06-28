@@ -2,13 +2,14 @@
   "id": 287201771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.663913,35.81343,-78.663913,35.81343",
     "geom:latitude":35.81343,
     "geom:longitude":-78.663913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2718 Cambridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287201771,
-    "wof:lastmodified":1449001455,
+    "wof:lastmodified":1466646110,
     "wof:name":"Iatridis Design",
     "wof:parent_id":85808353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.663913,35.81343,-78.663913,35.81343],
-  "geometry": {"coordinates":[-78.663913,35.81343],"type":"Point"}
+  "bbox": [
+    -78.663913,
+    35.81343,
+    -78.663913,
+    35.81343
+],
+  "geometry": {"coordinates":[-78.66391299999999,35.81343],"type":"Point"}
 }

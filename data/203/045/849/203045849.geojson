@@ -2,13 +2,14 @@
   "id": 203045849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.98587,36.287895,-76.98587,36.287895",
     "geom:latitude":36.287895,
     "geom:longitude":-76.98587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 1st St",
     "sg:city":"Ahoskie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203045849,
-    "wof:lastmodified":1449026647,
+    "wof:lastmodified":1466654482,
     "wof:name":"D Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.98587,36.287895,-76.98587,36.287895],
-  "geometry": {"coordinates":[-76.98587,36.287895],"type":"Point"}
+  "bbox": [
+    -76.98587,
+    36.287895,
+    -76.98587,
+    36.287895
+],
+  "geometry": {"coordinates":[-76.98587000000001,36.287895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320055575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.554679,35.610422,-82.554679,35.610422",
     "geom:latitude":35.610422,
     "geom:longitude":-82.554679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Merrimon Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320055575,
-    "wof:lastmodified":1449012096,
+    "wof:lastmodified":1466646108,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85859101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "typesetting"
     ]
 },
-  "bbox": [-82.554679,35.610422,-82.554679,35.610422],
-  "geometry": {"coordinates":[-82.554679,35.610422],"type":"Point"}
+  "bbox": [
+    -82.554679,
+    35.610422,
+    -82.554679,
+    35.610422
+],
+  "geometry": {"coordinates":[-82.55467899999999,35.610422],"type":"Point"}
 }

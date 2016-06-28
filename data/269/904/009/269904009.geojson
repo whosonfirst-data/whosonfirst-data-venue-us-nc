@@ -2,13 +2,14 @@
   "id": 269904009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.48238,36.059603,-78.48238,36.059603",
     "geom:latitude":36.059603,
     "geom:longitude":-78.48238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Bert Winston Rd",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269904009,
-    "wof:lastmodified":1449039042,
+    "wof:lastmodified":1466648160,
     "wof:name":"Parallax Instruments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-78.48238,36.059603,-78.48238,36.059603],
-  "geometry": {"coordinates":[-78.48238,36.059603],"type":"Point"}
+  "bbox": [
+    -78.48238,
+    36.059603,
+    -78.48238,
+    36.059603
+],
+  "geometry": {"coordinates":[-78.48238000000001,36.059603],"type":"Point"}
 }

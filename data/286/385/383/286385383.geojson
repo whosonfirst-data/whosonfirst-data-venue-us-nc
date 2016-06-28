@@ -2,13 +2,14 @@
   "id": 286385383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.804126,35.587887,-80.804126,35.587887",
     "geom:latitude":35.587887,
     "geom:longitude":-80.804126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 W Statesville Ave",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286385383,
-    "wof:lastmodified":1449016942,
+    "wof:lastmodified":1466644823,
     "wof:name":"Feed Bucket",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-80.804126,35.587887,-80.804126,35.587887],
+  "bbox": [
+    -80.804126,
+    35.587887,
+    -80.804126,
+    35.587887
+],
   "geometry": {"coordinates":[-80.804126,35.587887],"type":"Point"}
 }

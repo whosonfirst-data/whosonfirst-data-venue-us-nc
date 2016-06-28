@@ -2,13 +2,14 @@
   "id": 370222427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.910719,34.886038,-76.910719,34.886038",
     "geom:latitude":34.886038,
     "geom:longitude":-76.910719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Jackson Dr",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370222427,
-    "wof:lastmodified":1449031341,
+    "wof:lastmodified":1466649050,
     "wof:name":"Hunt Building LLC",
     "wof:parent_id":85832211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-76.910719,34.886038,-76.910719,34.886038],
+  "bbox": [
+    -76.910719,
+    34.886038,
+    -76.910719,
+    34.886038
+],
   "geometry": {"coordinates":[-76.910719,34.886038],"type":"Point"}
 }

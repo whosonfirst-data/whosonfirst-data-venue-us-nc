@@ -2,13 +2,14 @@
   "id": 202610309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.384459,36.029096,-80.384459,36.029096",
     "geom:latitude":36.029096,
     "geom:longitude":-80.384459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2513 Neudorf Rd",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202610309,
-    "wof:lastmodified":1449062595,
+    "wof:lastmodified":1466655556,
     "wof:name":"Foxfire Auction Company",
     "wof:parent_id":85845791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-80.384459,36.029096,-80.384459,36.029096],
-  "geometry": {"coordinates":[-80.384459,36.029096],"type":"Point"}
+  "bbox": [
+    -80.384459,
+    36.029096,
+    -80.384459,
+    36.029096
+],
+  "geometry": {"coordinates":[-80.38445900000001,36.029096],"type":"Point"}
 }

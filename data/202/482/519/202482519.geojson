@@ -2,13 +2,14 @@
   "id": 202482519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.642018,35.767201,-78.642018,35.767201",
     "geom:latitude":35.767201,
     "geom:longitude":-78.642018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Lee St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202482519,
-    "wof:lastmodified":1449061006,
+    "wof:lastmodified":1466654871,
     "wof:name":"Walnut Terrace Child Dev Ctr",
     "wof:parent_id":85854379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "day"
     ]
 },
-  "bbox": [-78.642018,35.767201,-78.642018,35.767201],
-  "geometry": {"coordinates":[-78.642018,35.767201],"type":"Point"}
+  "bbox": [
+    -78.642018,
+    35.767201,
+    -78.642018,
+    35.767201
+],
+  "geometry": {"coordinates":[-78.64201799999999,35.767201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387328309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803024,35.690896,-79.803024,35.690896",
     "geom:latitude":35.690896,
     "geom:longitude":-79.803024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 E Dixie Dr",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387328309,
-    "wof:lastmodified":1449058345,
+    "wof:lastmodified":1466654187,
     "wof:name":"Baby World",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-79.803024,35.690896,-79.803024,35.690896],
-  "geometry": {"coordinates":[-79.803024,35.690896],"type":"Point"}
+  "bbox": [
+    -79.803024,
+    35.690896,
+    -79.803024,
+    35.690896
+],
+  "geometry": {"coordinates":[-79.80302399999999,35.690896],"type":"Point"}
 }

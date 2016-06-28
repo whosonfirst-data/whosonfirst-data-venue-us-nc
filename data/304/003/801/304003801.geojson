@@ -2,13 +2,14 @@
   "id": 304003801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.536865,34.953421,-80.536865,34.953421",
     "geom:latitude":34.953421,
     "geom:longitude":-80.536865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Hillside Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304003801,
-    "wof:lastmodified":1449044125,
+    "wof:lastmodified":1466644229,
     "wof:name":"Savoy Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "management"
     ]
 },
-  "bbox": [-80.536865,34.953421,-80.536865,34.953421],
-  "geometry": {"coordinates":[-80.536865,34.953421],"type":"Point"}
+  "bbox": [
+    -80.536865,
+    34.953421,
+    -80.536865,
+    34.953421
+],
+  "geometry": {"coordinates":[-80.53686500000001,34.953421],"type":"Point"}
 }

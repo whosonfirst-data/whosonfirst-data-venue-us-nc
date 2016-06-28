@@ -2,13 +2,14 @@
   "id": 202942481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.507443,35.017251,-78.507443,35.017251",
     "geom:latitude":35.017251,
     "geom:longitude":-78.507443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Faculty St",
     "sg:city":"Salemburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202942481,
-    "wof:lastmodified":1449061284,
+    "wof:lastmodified":1466645274,
     "wof:name":"Shaw Food Svc Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-78.507443,35.017251,-78.507443,35.017251],
-  "geometry": {"coordinates":[-78.507443,35.017251],"type":"Point"}
+  "bbox": [
+    -78.507443,
+    35.017251,
+    -78.507443,
+    35.017251
+],
+  "geometry": {"coordinates":[-78.50744299999999,35.017251],"type":"Point"}
 }

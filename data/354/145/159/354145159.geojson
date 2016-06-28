@@ -2,13 +2,14 @@
   "id": 354145159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.385477,34.764341,-77.385477,34.764341",
     "geom:latitude":34.764341,
     "geom:longitude":-77.385477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Memorial Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354145159,
-    "wof:lastmodified":1449066420,
+    "wof:lastmodified":1466649242,
     "wof:name":"Urgent Care Of Jacksonville",
     "wof:parent_id":85812495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-77.385477,34.764341,-77.385477,34.764341],
-  "geometry": {"coordinates":[-77.385477,34.764341],"type":"Point"}
+  "bbox": [
+    -77.385477,
+    34.764341,
+    -77.385477,
+    34.764341
+],
+  "geometry": {"coordinates":[-77.38547699999999,34.764341],"type":"Point"}
 }

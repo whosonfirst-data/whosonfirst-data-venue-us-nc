@@ -2,13 +2,14 @@
   "id": 220020203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.111257,36.078641,-79.111257,36.078641",
     "geom:latitude":36.078641,
     "geom:longitude":-79.111257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Queen St",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220020203,
-    "wof:lastmodified":1449074393,
+    "wof:lastmodified":1466643368,
     "wof:name":"Villines Rest Home",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "residential"
     ]
 },
-  "bbox": [-79.111257,36.078641,-79.111257,36.078641],
-  "geometry": {"coordinates":[-79.111257,36.078641],"type":"Point"}
+  "bbox": [
+    -79.111257,
+    36.078641,
+    -79.111257,
+    36.078641
+],
+  "geometry": {"coordinates":[-79.11125699999999,36.078641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336769031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.60371,35.819183,-78.60371,35.819183",
     "geom:latitude":35.819183,
     "geom:longitude":-78.60371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3125 Poplarwood Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336769031,
-    "wof:lastmodified":1448997291,
+    "wof:lastmodified":1466648402,
     "wof:name":"N C Phase II Tobacco Crtfctn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.60371,35.819183,-78.60371,35.819183],
-  "geometry": {"coordinates":[-78.60371,35.819183],"type":"Point"}
+  "bbox": [
+    -78.60371,
+    35.819183,
+    -78.60371,
+    35.819183
+],
+  "geometry": {"coordinates":[-78.60371000000001,35.819183],"type":"Point"}
 }

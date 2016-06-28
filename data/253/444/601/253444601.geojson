@@ -2,13 +2,14 @@
   "id": 253444601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.343921,35.503213,-78.343921,35.503213",
     "geom:latitude":35.503213,
     "geom:longitude":-78.343921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 S Brightleaf Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253444601,
-    "wof:lastmodified":1449065370,
+    "wof:lastmodified":1466647683,
     "wof:name":"Wheels & Deals of Smithfield",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-78.343921,35.503213,-78.343921,35.503213],
-  "geometry": {"coordinates":[-78.343921,35.503213],"type":"Point"}
+  "bbox": [
+    -78.343921,
+    35.503213,
+    -78.343921,
+    35.503213
+],
+  "geometry": {"coordinates":[-78.34392099999999,35.503213],"type":"Point"}
 }

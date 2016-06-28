@@ -2,13 +2,14 @@
   "id": 286519193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.598475,35.271853,-82.598475,35.271853",
     "geom:latitude":35.271853,
     "geom:longitude":-82.598475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Little Willow Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286519193,
-    "wof:lastmodified":1449017894,
+    "wof:lastmodified":1466646603,
     "wof:name":"DWV Contractors",
     "wof:parent_id":85851321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.598475,35.271853,-82.598475,35.271853],
-  "geometry": {"coordinates":[-82.598475,35.271853],"type":"Point"}
+  "bbox": [
+    -82.598475,
+    35.271853,
+    -82.598475,
+    35.271853
+],
+  "geometry": {"coordinates":[-82.59847499999999,35.271853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270429013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.529997,34.978583,-80.529997,34.978583",
     "geom:latitude":34.978583,
     "geom:longitude":-80.529997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 W Park Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270429013,
-    "wof:lastmodified":1449010994,
+    "wof:lastmodified":1466648505,
     "wof:name":"Clean-View",
     "wof:parent_id":85840585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-80.529997,34.978583,-80.529997,34.978583],
-  "geometry": {"coordinates":[-80.529997,34.978583],"type":"Point"}
+  "bbox": [
+    -80.529997,
+    34.978583,
+    -80.529997,
+    34.978583
+],
+  "geometry": {"coordinates":[-80.52999699999999,34.978583],"type":"Point"}
 }

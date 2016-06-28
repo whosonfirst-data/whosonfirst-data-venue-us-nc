@@ -2,13 +2,14 @@
   "id": 303535325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.538907,35.871244,-78.538907,35.871244",
     "geom:latitude":35.871244,
     "geom:longitude":-78.538907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6608 Virgilia Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303535325,
-    "wof:lastmodified":1448998561,
+    "wof:lastmodified":1466651016,
     "wof:name":"Grace Assembly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.538907,35.871244,-78.538907,35.871244],
-  "geometry": {"coordinates":[-78.538907,35.871244],"type":"Point"}
+  "bbox": [
+    -78.538907,
+    35.871244,
+    -78.538907,
+    35.871244
+],
+  "geometry": {"coordinates":[-78.53890699999999,35.871244],"type":"Point"}
 }

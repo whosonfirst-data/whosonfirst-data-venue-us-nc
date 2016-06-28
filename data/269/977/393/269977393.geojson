@@ -2,13 +2,14 @@
   "id": 269977393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.464261,35.32449,-82.464261,35.32449",
     "geom:latitude":35.32449,
     "geom:longitude":-82.464261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Asheville Hwy",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269977393,
-    "wof:lastmodified":1449039046,
+    "wof:lastmodified":1466649068,
     "wof:name":"Safeco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-82.464261,35.32449,-82.464261,35.32449],
-  "geometry": {"coordinates":[-82.464261,35.32449],"type":"Point"}
+  "bbox": [
+    -82.464261,
+    35.32449,
+    -82.464261,
+    35.32449
+],
+  "geometry": {"coordinates":[-82.46426099999999,35.32449],"type":"Point"}
 }

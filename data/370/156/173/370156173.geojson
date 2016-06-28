@@ -2,13 +2,14 @@
   "id": 370156173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.545521,35.886253,-80.545521,35.886253",
     "geom:latitude":35.886253,
     "geom:longitude":-80.545521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Fairmont Dr",
     "sg:city":"Mocksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370156173,
-    "wof:lastmodified":1449029759,
+    "wof:lastmodified":1466648196,
     "wof:name":"RHA Twinbrooks Group Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "group"
     ]
 },
-  "bbox": [-80.545521,35.886253,-80.545521,35.886253],
-  "geometry": {"coordinates":[-80.545521,35.886253],"type":"Point"}
+  "bbox": [
+    -80.545521,
+    35.886253,
+    -80.545521,
+    35.886253
+],
+  "geometry": {"coordinates":[-80.54552099999999,35.886253],"type":"Point"}
 }

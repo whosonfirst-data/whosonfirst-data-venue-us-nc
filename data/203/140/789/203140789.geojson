@@ -2,13 +2,14 @@
   "id": 203140789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.901109,34.349193,-77.901109,34.349193",
     "geom:latitude":34.349193,
     "geom:longitude":-77.901109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5311 Castle Hayne Rd",
     "sg:city":"Castle Hayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203140789,
-    "wof:lastmodified":1449025205,
+    "wof:lastmodified":1466654977,
     "wof:name":"Castle Hayne Volunteer Fire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-77.901109,34.349193,-77.901109,34.349193],
-  "geometry": {"coordinates":[-77.901109,34.349193],"type":"Point"}
+  "bbox": [
+    -77.901109,
+    34.349193,
+    -77.901109,
+    34.349193
+],
+  "geometry": {"coordinates":[-77.90110900000001,34.349193],"type":"Point"}
 }

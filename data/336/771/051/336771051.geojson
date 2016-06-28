@@ -2,13 +2,14 @@
   "id": 336771051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.136806,35.071824,-77.136806,35.071824",
     "geom:latitude":35.071824,
     "geom:longitude":-77.136806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Gull Pointe",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336771051,
-    "wof:lastmodified":1448997528,
+    "wof:lastmodified":1466648438,
     "wof:name":"Twilight Limousine Svc",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-77.136806,35.071824,-77.136806,35.071824],
-  "geometry": {"coordinates":[-77.136806,35.071824],"type":"Point"}
+  "bbox": [
+    -77.136806,
+    35.071824,
+    -77.136806,
+    35.071824
+],
+  "geometry": {"coordinates":[-77.13680600000001,35.071824],"type":"Point"}
 }

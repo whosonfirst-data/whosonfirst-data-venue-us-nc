@@ -2,13 +2,14 @@
   "id": 286623781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.84376,34.290573,-77.84376,34.290573",
     "geom:latitude":34.290573,
     "geom:longitude":-77.84376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Potomac Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286623781,
-    "wof:lastmodified":1449017247,
+    "wof:lastmodified":1466648050,
     "wof:name":"Carlton Properties",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.84376,34.290573,-77.84376,34.290573],
+  "bbox": [
+    -77.84376,
+    34.290573,
+    -77.84376,
+    34.290573
+],
   "geometry": {"coordinates":[-77.84376,34.290573],"type":"Point"}
 }

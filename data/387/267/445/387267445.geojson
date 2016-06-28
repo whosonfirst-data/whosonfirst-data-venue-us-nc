@@ -2,13 +2,14 @@
   "id": 387267445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.846723,35.405642,-77.846723,35.405642",
     "geom:latitude":35.405642,
     "geom:longitude":-77.846723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Greene Rd",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387267445,
-    "wof:lastmodified":1449059570,
+    "wof:lastmodified":1466653382,
     "wof:name":"King Construction",
     "wof:parent_id":85822855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-77.846723,35.405642,-77.846723,35.405642],
+  "bbox": [
+    -77.846723,
+    35.405642,
+    -77.846723,
+    35.405642
+],
   "geometry": {"coordinates":[-77.846723,35.405642],"type":"Point"}
 }

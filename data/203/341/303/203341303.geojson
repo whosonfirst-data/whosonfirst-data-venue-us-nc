@@ -2,13 +2,14 @@
   "id": 203341303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.455882,34.817977,-77.455882,34.817977",
     "geom:latitude":34.817977,
     "geom:longitude":-77.455882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4355 Gum Branch Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203341303,
-    "wof:lastmodified":1449026786,
+    "wof:lastmodified":1466643539,
     "wof:name":"Teachable Moments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.455882,34.817977,-77.455882,34.817977],
+  "bbox": [
+    -77.455882,
+    34.817977,
+    -77.455882,
+    34.817977
+],
   "geometry": {"coordinates":[-77.455882,34.817977],"type":"Point"}
 }

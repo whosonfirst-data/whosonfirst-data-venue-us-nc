@@ -2,13 +2,14 @@
   "id": 202476379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.525889,35.626637,-80.525889,35.626637",
     "geom:latitude":35.626637,
     "geom:longitude":-80.525889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4235 S Main St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202476379,
-    "wof:lastmodified":1449061140,
+    "wof:lastmodified":1466654804,
     "wof:name":"On Track Auto Sales & Body",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.525889,35.626637,-80.525889,35.626637],
-  "geometry": {"coordinates":[-80.525889,35.626637],"type":"Point"}
+  "bbox": [
+    -80.525889,
+    35.626637,
+    -80.525889,
+    35.626637
+],
+  "geometry": {"coordinates":[-80.52588900000001,35.626637],"type":"Point"}
 }

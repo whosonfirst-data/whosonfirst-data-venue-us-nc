@@ -2,13 +2,14 @@
   "id": 253010779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.655279,34.488597,-78.655279,34.488597",
     "geom:latitude":34.488597,
     "geom:longitude":-78.655279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10413 N College St",
     "sg:city":"Clarkton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253010779,
-    "wof:lastmodified":1449064657,
+    "wof:lastmodified":1466643282,
     "wof:name":"Clarkton Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.655279,34.488597,-78.655279,34.488597],
-  "geometry": {"coordinates":[-78.655279,34.488597],"type":"Point"}
+  "bbox": [
+    -78.655279,
+    34.488597,
+    -78.655279,
+    34.488597
+],
+  "geometry": {"coordinates":[-78.65527899999999,34.488597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203395233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.90506,35.10201,-80.90506,35.10201",
     "geom:latitude":35.10201,
     "geom:longitude":-80.90506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Eagleton Downs Dr",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203395233,
-    "wof:lastmodified":1449026574,
+    "wof:lastmodified":1466643952,
     "wof:name":"STI",
     "wof:parent_id":85851011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-80.90506,35.10201,-80.90506,35.10201],
-  "geometry": {"coordinates":[-80.90506,35.10201],"type":"Point"}
+  "bbox": [
+    -80.90506,
+    35.10201,
+    -80.90506,
+    35.10201
+],
+  "geometry": {"coordinates":[-80.90506000000001,35.10201],"type":"Point"}
 }

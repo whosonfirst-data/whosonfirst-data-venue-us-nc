@@ -2,13 +2,14 @@
   "id": 303823141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.462853,35.721804,-79.462853,35.721804",
     "geom:latitude":35.721804,
     "geom:longitude":-79.462853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Chatham Ave",
     "sg:city":"Siler City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303823141,
-    "wof:lastmodified":1449000544,
+    "wof:lastmodified":1466655189,
     "wof:name":"Edwards & Atwater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.462853,35.721804,-79.462853,35.721804],
+  "bbox": [
+    -79.462853,
+    35.721804,
+    -79.462853,
+    35.721804
+],
   "geometry": {"coordinates":[-79.462853,35.721804],"type":"Point"}
 }

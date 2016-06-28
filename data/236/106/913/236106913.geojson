@@ -2,13 +2,14 @@
   "id": 236106913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.098037,35.618398,-77.098037,35.618398",
     "geom:latitude":35.618398,
     "geom:longitude":-77.098037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1878 Cherry Run Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236106913,
-    "wof:lastmodified":1449001642,
+    "wof:lastmodified":1466644173,
     "wof:name":"Washington Heights Ch Of God",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.098037,35.618398,-77.098037,35.618398],
-  "geometry": {"coordinates":[-77.098037,35.618398],"type":"Point"}
+  "bbox": [
+    -77.098037,
+    35.618398,
+    -77.098037,
+    35.618398
+],
+  "geometry": {"coordinates":[-77.09803700000001,35.618398],"type":"Point"}
 }

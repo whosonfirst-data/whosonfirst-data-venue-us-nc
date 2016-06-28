@@ -2,13 +2,14 @@
   "id": 336828619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.59032,36.491302,-81.59032,36.491302",
     "geom:latitude":36.491302,
     "geom:longitude":-81.59032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2690 W Mill Creek Rd",
     "sg:city":"Warrensville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336828619,
-    "wof:lastmodified":1448997500,
+    "wof:lastmodified":1466649308,
     "wof:name":"Appalachian Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.59032,36.491302,-81.59032,36.491302],
-  "geometry": {"coordinates":[-81.59032,36.491302],"type":"Point"}
+  "bbox": [
+    -81.59032,
+    36.491302,
+    -81.59032,
+    36.491302
+],
+  "geometry": {"coordinates":[-81.59032000000001,36.491302],"type":"Point"}
 }

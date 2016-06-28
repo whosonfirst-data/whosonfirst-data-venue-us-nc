@@ -2,13 +2,14 @@
   "id": 370907467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.203415,36.125025,-80.203415,36.125025",
     "geom:latitude":36.125025,
     "geom:longitude":-80.203415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3737 Spaulding Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370907467,
-    "wof:lastmodified":1449032211,
+    "wof:lastmodified":1466656822,
     "wof:name":"Willard L McCloud",
     "wof:parent_id":85881829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.203415,36.125025,-80.203415,36.125025],
-  "geometry": {"coordinates":[-80.203415,36.125025],"type":"Point"}
+  "bbox": [
+    -80.203415,
+    36.125025,
+    -80.203415,
+    36.125025
+],
+  "geometry": {"coordinates":[-80.20341500000001,36.125025],"type":"Point"}
 }

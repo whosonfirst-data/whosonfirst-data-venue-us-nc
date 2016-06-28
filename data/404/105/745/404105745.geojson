@@ -2,13 +2,14 @@
   "id": 404105745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.157064,36.158539,-81.157064,36.158539",
     "geom:latitude":36.158539,
     "geom:longitude":-81.157064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 W D St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404105745,
-    "wof:lastmodified":1449039492,
+    "wof:lastmodified":1466652610,
     "wof:name":"Wilkes Auto Auction",
     "wof:parent_id":85828719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-81.157064,36.158539,-81.157064,36.158539],
-  "geometry": {"coordinates":[-81.157064,36.158539],"type":"Point"}
+  "bbox": [
+    -81.157064,
+    36.158539,
+    -81.157064,
+    36.158539
+],
+  "geometry": {"coordinates":[-81.15706400000001,36.158539],"type":"Point"}
 }

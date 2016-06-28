@@ -2,13 +2,14 @@
   "id": 286687805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.561191,34.888873,-77.561191,34.888873",
     "geom:latitude":34.888873,
     "geom:longitude":-77.561191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 River Dr",
     "sg:city":"Richlands",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286687805,
-    "wof:lastmodified":1449016011,
+    "wof:lastmodified":1466648931,
     "wof:name":"Richland Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-77.561191,34.888873,-77.561191,34.888873],
-  "geometry": {"coordinates":[-77.561191,34.888873],"type":"Point"}
+  "bbox": [
+    -77.561191,
+    34.888873,
+    -77.561191,
+    34.888873
+],
+  "geometry": {"coordinates":[-77.56119099999999,34.888873],"type":"Point"}
 }

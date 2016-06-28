@@ -2,13 +2,14 @@
   "id": 303678233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.018894,35.067234,-77.018894,35.067234",
     "geom:latitude":35.067234,
     "geom:longitude":-77.018894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 E Grantham Rd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303678233,
-    "wof:lastmodified":1448999300,
+    "wof:lastmodified":1466653103,
     "wof:name":"Grantham Group Home",
     "wof:parent_id":85822561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-77.018894,35.067234,-77.018894,35.067234],
+  "bbox": [
+    -77.018894,
+    35.067234,
+    -77.018894,
+    35.067234
+],
   "geometry": {"coordinates":[-77.018894,35.067234],"type":"Point"}
 }

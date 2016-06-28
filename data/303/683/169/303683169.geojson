@@ -2,13 +2,14 @@
   "id": 303683169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.686777,35.010578,-78.686777,35.010578",
     "geom:latitude":35.010578,
     "geom:longitude":-78.686777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7213 Clinton Rd",
     "sg:city":"Stedman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303683169,
-    "wof:lastmodified":1448999017,
+    "wof:lastmodified":1466653177,
     "wof:name":"Forts Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-78.686777,35.010578,-78.686777,35.010578],
-  "geometry": {"coordinates":[-78.686777,35.010578],"type":"Point"}
+  "bbox": [
+    -78.686777,
+    35.010578,
+    -78.686777,
+    35.010578
+],
+  "geometry": {"coordinates":[-78.68677700000001,35.010578],"type":"Point"}
 }

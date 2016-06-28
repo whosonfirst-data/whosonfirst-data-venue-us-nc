@@ -2,13 +2,14 @@
   "id": 253420637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.021369,35.247417,-81.021369,35.247417",
     "geom:latitude":35.247417,
     "geom:longitude":-81.021369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Alice Ave",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253420637,
-    "wof:lastmodified":1449064238,
+    "wof:lastmodified":1466647390,
     "wof:name":"Hazels Grill",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.021369,35.247417,-81.021369,35.247417],
-  "geometry": {"coordinates":[-81.021369,35.247417],"type":"Point"}
+  "bbox": [
+    -81.021369,
+    35.247417,
+    -81.021369,
+    35.247417
+],
+  "geometry": {"coordinates":[-81.02136900000001,35.247417],"type":"Point"}
 }

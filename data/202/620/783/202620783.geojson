@@ -2,13 +2,14 @@
   "id": 202620783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.631265,35.826185,-80.631265,35.826185",
     "geom:latitude":35.826185,
     "geom:longitude":-80.631265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2880 S River Church Rd",
     "sg:city":"Woodleaf",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202620783,
-    "wof:lastmodified":1449062432,
+    "wof:lastmodified":1466655591,
     "wof:name":"South River Methodist Church",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.631265,35.826185,-80.631265,35.826185],
+  "bbox": [
+    -80.631265,
+    35.826185,
+    -80.631265,
+    35.826185
+],
   "geometry": {"coordinates":[-80.631265,35.826185],"type":"Point"}
 }

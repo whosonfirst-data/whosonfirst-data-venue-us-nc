@@ -2,13 +2,14 @@
   "id": 370805313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.861352,34.211606,-77.861352,34.211606",
     "geom:latitude":34.211606,
     "geom:longitude":-77.861352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5317 Wrightsville Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370805313,
-    "wof:lastmodified":1449030226,
+    "wof:lastmodified":1466656190,
     "wof:name":"Print Works",
     "wof:parent_id":85838865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-77.861352,34.211606,-77.861352,34.211606],
+  "bbox": [
+    -77.861352,
+    34.211606,
+    -77.861352,
+    34.211606
+],
   "geometry": {"coordinates":[-77.861352,34.211606],"type":"Point"}
 }

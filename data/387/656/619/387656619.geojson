@@ -2,13 +2,14 @@
   "id": 387656619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.235402,36.07005,-80.235402,36.07005",
     "geom:latitude":36.07005,
     "geom:longitude":-80.235402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 Sunnyside Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387656619,
-    "wof:lastmodified":1449058588,
+    "wof:lastmodified":1466656996,
     "wof:name":"Metropolitan Limousine Svc",
     "wof:parent_id":85851481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-80.235402,36.07005,-80.235402,36.07005],
-  "geometry": {"coordinates":[-80.235402,36.07005],"type":"Point"}
+  "bbox": [
+    -80.235402,
+    36.07005,
+    -80.235402,
+    36.07005
+],
+  "geometry": {"coordinates":[-80.23540199999999,36.07005],"type":"Point"}
 }

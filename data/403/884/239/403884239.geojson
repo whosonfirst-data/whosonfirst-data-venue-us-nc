@@ -2,13 +2,14 @@
   "id": 403884239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.818711,36.123421,-79.818711,36.123421",
     "geom:latitude":36.123421,
     "geom:longitude":-79.818711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3012 Pisgah Pl",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403884239,
-    "wof:lastmodified":1449055706,
+    "wof:lastmodified":1466652710,
     "wof:name":"Ryan Scott Inc",
     "wof:parent_id":85812537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-79.818711,36.123421,-79.818711,36.123421],
-  "geometry": {"coordinates":[-79.818711,36.123421],"type":"Point"}
+  "bbox": [
+    -79.818711,
+    36.123421,
+    -79.818711,
+    36.123421
+],
+  "geometry": {"coordinates":[-79.81871099999999,36.123421],"type":"Point"}
 }

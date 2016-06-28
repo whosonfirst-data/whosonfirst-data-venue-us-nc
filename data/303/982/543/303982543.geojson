@@ -2,13 +2,14 @@
   "id": 303982543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.744915,35.076972,-80.744915,35.076972",
     "geom:latitude":35.076972,
     "geom:longitude":-80.744915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2317 Corrine Ct",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303982543,
-    "wof:lastmodified":1448998534,
+    "wof:lastmodified":1466656706,
     "wof:name":"Psychiatric Medical Care",
     "wof:parent_id":85843235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.744915,35.076972,-80.744915,35.076972],
-  "geometry": {"coordinates":[-80.744915,35.076972],"type":"Point"}
+  "bbox": [
+    -80.744915,
+    35.076972,
+    -80.744915,
+    35.076972
+],
+  "geometry": {"coordinates":[-80.74491500000001,35.076972],"type":"Point"}
 }

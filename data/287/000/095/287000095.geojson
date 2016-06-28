@@ -2,13 +2,14 @@
   "id": 287000095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.296717,36.078202,-80.296717,36.078202",
     "geom:latitude":36.078202,
     "geom:longitude":-80.296717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 S Hawthorne Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287000095,
-    "wof:lastmodified":1449000803,
+    "wof:lastmodified":1466655832,
     "wof:name":"Pain Mangement",
     "wof:parent_id":85856059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.296717,36.078202,-80.296717,36.078202],
+  "bbox": [
+    -80.296717,
+    36.078202,
+    -80.296717,
+    36.078202
+],
   "geometry": {"coordinates":[-80.296717,36.078202],"type":"Point"}
 }

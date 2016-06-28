@@ -2,13 +2,14 @@
   "id": 236135197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.737404,36.489741,-79.737404,36.489741",
     "geom:latitude":36.489741,
     "geom:longitude":-79.737404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Linden Dr",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236135197,
-    "wof:lastmodified":1449002818,
+    "wof:lastmodified":1466644409,
     "wof:name":"Sleep Disorders Center",
     "wof:parent_id":85805077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "neurology"
     ]
 },
-  "bbox": [-79.737404,36.489741,-79.737404,36.489741],
+  "bbox": [
+    -79.737404,
+    36.489741,
+    -79.737404,
+    36.489741
+],
   "geometry": {"coordinates":[-79.737404,36.489741],"type":"Point"}
 }

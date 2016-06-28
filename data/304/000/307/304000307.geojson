@@ -2,13 +2,14 @@
   "id": 304000307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.858035,35.215373,-80.858035,35.215373",
     "geom:latitude":35.215373,
     "geom:longitude":-80.858035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 S Tryon St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304000307,
-    "wof:lastmodified":1449043646,
+    "wof:lastmodified":1466655839,
     "wof:name":"Marvin Windows & Doors",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-80.858035,35.215373,-80.858035,35.215373],
+  "bbox": [
+    -80.858035,
+    35.215373,
+    -80.858035,
+    35.215373
+],
   "geometry": {"coordinates":[-80.858035,35.215373],"type":"Point"}
 }

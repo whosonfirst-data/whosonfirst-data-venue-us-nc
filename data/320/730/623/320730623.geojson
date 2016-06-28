@@ -2,13 +2,14 @@
   "id": 320730623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.796966,35.951171,-77.796966,35.951171",
     "geom:latitude":35.951171,
     "geom:longitude":-77.796966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 Falls Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320730623,
-    "wof:lastmodified":1449014372,
+    "wof:lastmodified":1466655687,
     "wof:name":"NALC Merged",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.796966,35.951171,-77.796966,35.951171],
+  "bbox": [
+    -77.796966,
+    35.951171,
+    -77.796966,
+    35.951171
+],
   "geometry": {"coordinates":[-77.796966,35.951171],"type":"Point"}
 }

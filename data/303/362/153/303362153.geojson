@@ -2,13 +2,14 @@
   "id": 303362153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.135928,35.444843,-79.135928,35.444843",
     "geom:latitude":35.444843,
     "geom:longitude":-79.135928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Wilson Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303362153,
-    "wof:lastmodified":1448999699,
+    "wof:lastmodified":1466648530,
     "wof:name":"Wilson Holder Associates",
     "wof:parent_id":85827995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [-79.135928,35.444843,-79.135928,35.444843],
-  "geometry": {"coordinates":[-79.135928,35.444843],"type":"Point"}
+  "bbox": [
+    -79.135928,
+    35.444843,
+    -79.135928,
+    35.444843
+],
+  "geometry": {"coordinates":[-79.13592800000001,35.444843],"type":"Point"}
 }

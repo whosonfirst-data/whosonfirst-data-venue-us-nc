@@ -2,13 +2,14 @@
   "id": 286502233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.570748,35.79234,-78.570748,35.79234",
     "geom:latitude":35.79234,
     "geom:longitude":-78.570748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Commerce Park Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286502233,
-    "wof:lastmodified":1449016539,
+    "wof:lastmodified":1466646368,
     "wof:name":"Down To Earth Designs Inc",
     "wof:parent_id":85805025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.570748,35.79234,-78.570748,35.79234],
-  "geometry": {"coordinates":[-78.570748,35.79234],"type":"Point"}
+  "bbox": [
+    -78.570748,
+    35.79234,
+    -78.570748,
+    35.79234
+],
+  "geometry": {"coordinates":[-78.57074799999999,35.79234],"type":"Point"}
 }

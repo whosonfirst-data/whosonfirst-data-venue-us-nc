@@ -2,13 +2,14 @@
   "id": 287257647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101628,35.385226,-81.101628,35.385226",
     "geom:latitude":35.385226,
     "geom:longitude":-81.101628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3842 Charles Raper Jonas Hwy",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287257647,
-    "wof:lastmodified":1449000906,
+    "wof:lastmodified":1466646889,
     "wof:name":"G & L Storage",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-81.101628,35.385226,-81.101628,35.385226],
-  "geometry": {"coordinates":[-81.101628,35.385226],"type":"Point"}
+  "bbox": [
+    -81.101628,
+    35.385226,
+    -81.101628,
+    35.385226
+],
+  "geometry": {"coordinates":[-81.10162800000001,35.385226],"type":"Point"}
 }

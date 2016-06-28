@@ -2,13 +2,14 @@
   "id": 320322351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.873629,35.200464,-80.873629,35.200464",
     "geom:latitude":35.200464,
     "geom:longitude":-80.873629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 S Tryon St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320322351,
-    "wof:lastmodified":1449011221,
+    "wof:lastmodified":1466649801,
     "wof:name":"Associated Materials",
     "wof:parent_id":85891853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "siding"
     ]
 },
-  "bbox": [-80.873629,35.200464,-80.873629,35.200464],
-  "geometry": {"coordinates":[-80.873629,35.200464],"type":"Point"}
+  "bbox": [
+    -80.873629,
+    35.200464,
+    -80.873629,
+    35.200464
+],
+  "geometry": {"coordinates":[-80.87362899999999,35.200464],"type":"Point"}
 }

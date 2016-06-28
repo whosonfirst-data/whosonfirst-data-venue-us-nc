@@ -2,13 +2,14 @@
   "id": 387214223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.964587,36.50752,-77.964587,36.50752",
     "geom:latitude":36.50752,
     "geom:longitude":-77.964587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1847 Eaton Ferry Rd",
     "sg:city":"Littleton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387214223,
-    "wof:lastmodified":1449059797,
+    "wof:lastmodified":1466652685,
     "wof:name":"Sea Tow Lake Gaston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.964587,36.50752,-77.964587,36.50752],
-  "geometry": {"coordinates":[-77.964587,36.50752],"type":"Point"}
+  "bbox": [
+    -77.964587,
+    36.50752,
+    -77.964587,
+    36.50752
+],
+  "geometry": {"coordinates":[-77.96458699999999,36.50752],"type":"Point"}
 }

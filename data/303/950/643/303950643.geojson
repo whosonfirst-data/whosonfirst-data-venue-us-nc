@@ -2,13 +2,14 @@
   "id": 303950643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.799649,35.80134,-79.799649,35.80134",
     "geom:latitude":35.80134,
     "geom:longitude":-79.799649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3374 Rumbley Pine St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303950643,
-    "wof:lastmodified":1448999071,
+    "wof:lastmodified":1466656642,
     "wof:name":"Midway Wesleyan Church",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.799649,35.80134,-79.799649,35.80134],
+  "bbox": [
+    -79.799649,
+    35.80134,
+    -79.799649,
+    35.80134
+],
   "geometry": {"coordinates":[-79.799649,35.80134],"type":"Point"}
 }

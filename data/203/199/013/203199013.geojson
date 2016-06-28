@@ -2,13 +2,14 @@
   "id": 203199013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.913396,35.728416,-77.913396,35.728416",
     "geom:latitude":35.728416,
     "geom:longitude":-77.913396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Nash St NE",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203199013,
-    "wof:lastmodified":1449025130,
+    "wof:lastmodified":1466655199,
     "wof:name":"Wilson Praise & Worship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.913396,35.728416,-77.913396,35.728416],
-  "geometry": {"coordinates":[-77.913396,35.728416],"type":"Point"}
+  "bbox": [
+    -77.913396,
+    35.728416,
+    -77.913396,
+    35.728416
+],
+  "geometry": {"coordinates":[-77.91339600000001,35.728416],"type":"Point"}
 }

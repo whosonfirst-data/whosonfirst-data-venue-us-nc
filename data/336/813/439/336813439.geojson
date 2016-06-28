@@ -2,13 +2,14 @@
   "id": 336813439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.05187,35.106702,-77.05187,35.106702",
     "geom:latitude":35.106702,
     "geom:longitude":-77.05187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Pollock St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336813439,
-    "wof:lastmodified":1448997222,
+    "wof:lastmodified":1466649086,
     "wof:name":"BLG Electric Supply Co Inc",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.05187,35.106702,-77.05187,35.106702],
-  "geometry": {"coordinates":[-77.05187,35.106702],"type":"Point"}
+  "bbox": [
+    -77.05187,
+    35.106702,
+    -77.05187,
+    35.106702
+],
+  "geometry": {"coordinates":[-77.05186999999999,35.106702],"type":"Point"}
 }

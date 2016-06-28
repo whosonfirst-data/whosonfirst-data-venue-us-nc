@@ -2,13 +2,14 @@
   "id": 220140319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.695523,35.751574,-81.695523,35.751574",
     "geom:latitude":35.751574,
     "geom:longitude":-81.695523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Roper St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220140319,
-    "wof:lastmodified":1449074143,
+    "wof:lastmodified":1466644313,
     "wof:name":"American Legion",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-81.695523,35.751574,-81.695523,35.751574],
-  "geometry": {"coordinates":[-81.695523,35.751574],"type":"Point"}
+  "bbox": [
+    -81.695523,
+    35.751574,
+    -81.695523,
+    35.751574
+],
+  "geometry": {"coordinates":[-81.69552299999999,35.751574],"type":"Point"}
 }

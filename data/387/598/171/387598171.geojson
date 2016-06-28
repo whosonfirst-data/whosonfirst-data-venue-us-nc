@@ -2,13 +2,14 @@
   "id": 387598171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.536917,35.539532,-82.536917,35.539532",
     "geom:latitude":35.539532,
     "geom:longitude":-82.536917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Vanderbilt Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387598171,
-    "wof:lastmodified":1449056319,
+    "wof:lastmodified":1466656870,
     "wof:name":"Public Works",
     "wof:parent_id":85808373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-82.536917,35.539532,-82.536917,35.539532],
+  "bbox": [
+    -82.536917,
+    35.539532,
+    -82.536917,
+    35.539532
+],
   "geometry": {"coordinates":[-82.536917,35.539532],"type":"Point"}
 }

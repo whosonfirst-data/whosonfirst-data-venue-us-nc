@@ -2,13 +2,14 @@
   "id": 236328821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.59798,33.908744,-78.59798,33.908744",
     "geom:latitude":33.908744,
     "geom:longitude":-78.59798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Koolabrew Dr NW",
     "sg:city":"Calabash",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236328821,
-    "wof:lastmodified":1449003620,
+    "wof:lastmodified":1466646120,
     "wof:name":"Carolina Creations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-78.59798,33.908744,-78.59798,33.908744],
-  "geometry": {"coordinates":[-78.59798,33.908744],"type":"Point"}
+  "bbox": [
+    -78.59798,
+    33.908744,
+    -78.59798,
+    33.908744
+],
+  "geometry": {"coordinates":[-78.59798000000001,33.908744],"type":"Point"}
 }

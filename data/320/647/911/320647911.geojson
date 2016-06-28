@@ -2,13 +2,14 @@
   "id": 320647911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.652201,35.841308,-78.652201,35.841308",
     "geom:latitude":35.841308,
     "geom:longitude":-78.652201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4308 Yadkin Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320647911,
-    "wof:lastmodified":1449013028,
+    "wof:lastmodified":1466654516,
     "wof:name":"Dominion Health Care Svc",
     "wof:parent_id":85807295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-78.652201,35.841308,-78.652201,35.841308],
-  "geometry": {"coordinates":[-78.652201,35.841308],"type":"Point"}
+  "bbox": [
+    -78.652201,
+    35.841308,
+    -78.652201,
+    35.841308
+],
+  "geometry": {"coordinates":[-78.65220100000001,35.841308],"type":"Point"}
 }

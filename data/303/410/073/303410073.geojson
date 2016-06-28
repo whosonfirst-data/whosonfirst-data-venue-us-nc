@@ -2,13 +2,14 @@
   "id": 303410073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.821079,36.052363,-79.821079,36.052363",
     "geom:latitude":36.052363,
     "geom:longitude":-79.821079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 W Florida St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303410073,
-    "wof:lastmodified":1448998151,
+    "wof:lastmodified":1466649214,
     "wof:name":"All Around Fence",
     "wof:parent_id":85841537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-79.821079,36.052363,-79.821079,36.052363],
+  "bbox": [
+    -79.821079,
+    36.052363,
+    -79.821079,
+    36.052363
+],
   "geometry": {"coordinates":[-79.821079,36.052363],"type":"Point"}
 }

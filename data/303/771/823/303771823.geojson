@@ -2,13 +2,14 @@
   "id": 303771823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.465921,35.733324,-79.465921,35.733324",
     "geom:latitude":35.733324,
     "geom:longitude":-79.465921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E 11th St",
     "sg:city":"Siler City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303771823,
-    "wof:lastmodified":1448999448,
+    "wof:lastmodified":1466654459,
     "wof:name":"Hayley-Bales Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.465921,35.733324,-79.465921,35.733324],
-  "geometry": {"coordinates":[-79.465921,35.733324],"type":"Point"}
+  "bbox": [
+    -79.465921,
+    35.733324,
+    -79.465921,
+    35.733324
+],
+  "geometry": {"coordinates":[-79.46592099999999,35.733324],"type":"Point"}
 }

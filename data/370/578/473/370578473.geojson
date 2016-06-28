@@ -2,13 +2,14 @@
   "id": 370578473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.89481,35.367704,-79.89481,35.367704",
     "geom:latitude":35.367704,
     "geom:longitude":-79.89481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N Main St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370578473,
-    "wof:lastmodified":1449029949,
+    "wof:lastmodified":1466653600,
     "wof:name":"Montgomery Farm & Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-79.89481,35.367704,-79.89481,35.367704],
-  "geometry": {"coordinates":[-79.89481,35.367704],"type":"Point"}
+  "bbox": [
+    -79.89481,
+    35.367704,
+    -79.89481,
+    35.367704
+],
+  "geometry": {"coordinates":[-79.89481000000001,35.367704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353721391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.599544,35.852713,-78.599544,35.852713",
     "geom:latitude":35.852713,
     "geom:longitude":-78.599544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5217 Atlantic Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353721391,
-    "wof:lastmodified":1449020787,
+    "wof:lastmodified":1466650873,
     "wof:name":"Atlantic Ave Orchid & Grdn Ctr",
     "wof:parent_id":85854217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-78.599544,35.852713,-78.599544,35.852713],
-  "geometry": {"coordinates":[-78.599544,35.852713],"type":"Point"}
+  "bbox": [
+    -78.599544,
+    35.852713,
+    -78.599544,
+    35.852713
+],
+  "geometry": {"coordinates":[-78.59954399999999,35.852713],"type":"Point"}
 }

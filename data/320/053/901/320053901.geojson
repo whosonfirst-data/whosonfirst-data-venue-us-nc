@@ -2,13 +2,14 @@
   "id": 320053901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.263004,35.831336,-80.263004,35.831336",
     "geom:latitude":35.831336,
     "geom:longitude":-80.263004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 W Center St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320053901,
-    "wof:lastmodified":1449011965,
+    "wof:lastmodified":1466646088,
     "wof:name":"Smith Companies",
     "wof:parent_id":85837937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-80.263004,35.831336,-80.263004,35.831336],
+  "bbox": [
+    -80.263004,
+    35.831336,
+    -80.263004,
+    35.831336
+],
   "geometry": {"coordinates":[-80.263004,35.831336],"type":"Point"}
 }

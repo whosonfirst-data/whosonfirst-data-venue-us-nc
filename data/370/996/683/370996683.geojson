@@ -2,13 +2,14 @@
   "id": 370996683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.154626,35.228957,-81.154626,35.228957",
     "geom:latitude":35.228957,
     "geom:longitude":-81.154626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2551 Robinwood Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370996683,
-    "wof:lastmodified":1449030009,
+    "wof:lastmodified":1466657348,
     "wof:name":"Sportsman Spot Ltd",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sport"
     ]
 },
-  "bbox": [-81.154626,35.228957,-81.154626,35.228957],
-  "geometry": {"coordinates":[-81.154626,35.228957],"type":"Point"}
+  "bbox": [
+    -81.154626,
+    35.228957,
+    -81.154626,
+    35.228957
+],
+  "geometry": {"coordinates":[-81.15462599999999,35.228957],"type":"Point"}
 }

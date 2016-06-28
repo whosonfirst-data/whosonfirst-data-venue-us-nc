@@ -2,13 +2,14 @@
   "id": 371036703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.779193,35.787508,-78.779193,35.787508",
     "geom:latitude":35.787508,
     "geom:longitude":-78.779193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Chatham St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371036703,
-    "wof:lastmodified":1449049262,
+    "wof:lastmodified":1466649294,
     "wof:name":"Bouldin Williams Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.779193,35.787508,-78.779193,35.787508],
-  "geometry": {"coordinates":[-78.779193,35.787508],"type":"Point"}
+  "bbox": [
+    -78.779193,
+    35.787508,
+    -78.779193,
+    35.787508
+],
+  "geometry": {"coordinates":[-78.77919300000001,35.787508],"type":"Point"}
 }

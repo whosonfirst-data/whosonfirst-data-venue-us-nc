@@ -2,13 +2,14 @@
   "id": 320678133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.842796,35.312101,-77.842796,35.312101",
     "geom:latitude":35.312101,
     "geom:longitude":-77.842796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Darrel Rd",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320678133,
-    "wof:lastmodified":1449013063,
+    "wof:lastmodified":1466654951,
     "wof:name":"Ambleside Inc",
     "wof:parent_id":85822855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-77.842796,35.312101,-77.842796,35.312101],
-  "geometry": {"coordinates":[-77.842796,35.312101],"type":"Point"}
+  "bbox": [
+    -77.842796,
+    35.312101,
+    -77.842796,
+    35.312101
+],
+  "geometry": {"coordinates":[-77.84279600000001,35.312101],"type":"Point"}
 }

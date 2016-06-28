@@ -2,13 +2,14 @@
   "id": 370601767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.850552,35.77175,-78.850552,35.77175",
     "geom:latitude":35.77175,
     "geom:longitude":-78.850552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Deep Gap Run",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370601767,
-    "wof:lastmodified":1449030609,
+    "wof:lastmodified":1466653896,
     "wof:name":"Domex Technology Company",
     "wof:parent_id":85840759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-78.850552,35.77175,-78.850552,35.77175],
-  "geometry": {"coordinates":[-78.850552,35.77175],"type":"Point"}
+  "bbox": [
+    -78.850552,
+    35.77175,
+    -78.850552,
+    35.77175
+],
+  "geometry": {"coordinates":[-78.85055199999999,35.77175],"type":"Point"}
 }

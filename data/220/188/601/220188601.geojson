@@ -2,13 +2,14 @@
   "id": 220188601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.631993,35.793269,-78.631993,35.793269",
     "geom:latitude":35.793269,
     "geom:longitude":-78.631993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Wake Forest Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220188601,
-    "wof:lastmodified":1449074434,
+    "wof:lastmodified":1466644705,
     "wof:name":"A H Danielson Antiques LTD",
     "wof:parent_id":85873465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-78.631993,35.793269,-78.631993,35.793269],
-  "geometry": {"coordinates":[-78.631993,35.793269],"type":"Point"}
+  "bbox": [
+    -78.631993,
+    35.793269,
+    -78.631993,
+    35.793269
+],
+  "geometry": {"coordinates":[-78.63199299999999,35.793269],"type":"Point"}
 }

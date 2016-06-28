@@ -2,13 +2,14 @@
   "id": 319963819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.509104,35.40143,-82.509104,35.40143",
     "geom:latitude":35.40143,
     "geom:longitude":-82.509104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5990 Asheville Hwy",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":319963819,
-    "wof:lastmodified":1449024184,
+    "wof:lastmodified":1466646946,
     "wof:name":"International Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.509104,35.40143,-82.509104,35.40143],
-  "geometry": {"coordinates":[-82.509104,35.40143],"type":"Point"}
+  "bbox": [
+    -82.509104,
+    35.40143,
+    -82.509104,
+    35.40143
+],
+  "geometry": {"coordinates":[-82.50910399999999,35.40143],"type":"Point"}
 }

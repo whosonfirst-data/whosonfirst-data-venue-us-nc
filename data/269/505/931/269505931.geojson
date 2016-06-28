@@ -2,13 +2,14 @@
   "id": 269505931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.026513,36.209196,-80.026513,36.209196",
     "geom:latitude":36.209196,
     "geom:longitude":-80.026513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7552 Happy Hill Rd",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269505931,
-    "wof:lastmodified":1449038456,
+    "wof:lastmodified":1466643480,
     "wof:name":"Church Of The Living God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.026513,36.209196,-80.026513,36.209196],
-  "geometry": {"coordinates":[-80.026513,36.209196],"type":"Point"}
+  "bbox": [
+    -80.026513,
+    36.209196,
+    -80.026513,
+    36.209196
+],
+  "geometry": {"coordinates":[-80.02651299999999,36.209196],"type":"Point"}
 }

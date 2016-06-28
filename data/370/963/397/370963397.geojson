@@ -2,13 +2,14 @@
   "id": 370963397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.007913,35.532808,-77.007913,35.532808",
     "geom:latitude":35.532808,
     "geom:longitude":-77.007913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Canterbury Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370963397,
-    "wof:lastmodified":1449029411,
+    "wof:lastmodified":1466657281,
     "wof:name":"NC Wildlife Resources",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-77.007913,35.532808,-77.007913,35.532808],
+  "bbox": [
+    -77.007913,
+    35.532808,
+    -77.007913,
+    35.532808
+],
   "geometry": {"coordinates":[-77.007913,35.532808],"type":"Point"}
 }

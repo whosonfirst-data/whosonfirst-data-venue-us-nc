@@ -2,13 +2,14 @@
   "id": 303998127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.066876,36.399976,-77.066876,36.399976",
     "geom:latitude":36.399976,
     "geom:longitude":-77.066876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 E Woodrow School Rd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303998127,
-    "wof:lastmodified":1448998927,
+    "wof:lastmodified":1466656832,
     "wof:name":"A & J Poultry Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.066876,36.399976,-77.066876,36.399976],
-  "geometry": {"coordinates":[-77.066876,36.399976],"type":"Point"}
+  "bbox": [
+    -77.066876,
+    36.399976,
+    -77.066876,
+    36.399976
+],
+  "geometry": {"coordinates":[-77.06687599999999,36.399976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370300807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.115239,35.107993,-77.115239,35.107993",
     "geom:latitude":35.107993,
     "geom:longitude":-77.115239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Pine Valley Dr",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370300807,
-    "wof:lastmodified":1449030976,
+    "wof:lastmodified":1466650041,
     "wof:name":"Skinner Tax Svc",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-77.115239,35.107993,-77.115239,35.107993],
+  "bbox": [
+    -77.115239,
+    35.107993,
+    -77.115239,
+    35.107993
+],
   "geometry": {"coordinates":[-77.115239,35.107993],"type":"Point"}
 }

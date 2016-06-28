@@ -2,13 +2,14 @@
   "id": 236358163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.603299,35.930095,-78.603299,35.930095",
     "geom:latitude":35.930095,
     "geom:longitude":-78.603299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Stone Falls Trl",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236358163,
-    "wof:lastmodified":1449002967,
+    "wof:lastmodified":1466646378,
     "wof:name":"Richard Miano Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.603299,35.930095,-78.603299,35.930095],
-  "geometry": {"coordinates":[-78.603299,35.930095],"type":"Point"}
+  "bbox": [
+    -78.603299,
+    35.930095,
+    -78.603299,
+    35.930095
+],
+  "geometry": {"coordinates":[-78.60329900000001,35.930095],"type":"Point"}
 }

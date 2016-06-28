@@ -2,13 +2,14 @@
   "id": 303751087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.786932,36.033956,-76.786932,36.033956",
     "geom:latitude":36.033956,
     "geom:longitude":-76.786932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 US Hwy 17 N",
     "sg:city":"Merry Hill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303751087,
-    "wof:lastmodified":1448998257,
+    "wof:lastmodified":1466654153,
     "wof:name":"Kirby Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-76.786932,36.033956,-76.786932,36.033956],
-  "geometry": {"coordinates":[-76.786932,36.033956],"type":"Point"}
+  "bbox": [
+    -76.786932,
+    36.033956,
+    -76.786932,
+    36.033956
+],
+  "geometry": {"coordinates":[-76.78693199999999,36.033956],"type":"Point"}
 }

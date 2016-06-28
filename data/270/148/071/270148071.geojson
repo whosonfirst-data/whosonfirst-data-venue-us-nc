@@ -2,13 +2,14 @@
   "id": 270148071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.586745,35.576727,-82.586745,35.576727",
     "geom:latitude":35.576727,
     "geom:longitude":-82.586745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 State St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270148071,
-    "wof:lastmodified":1449010689,
+    "wof:lastmodified":1466644952,
     "wof:name":"Spearman Refrigeration Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-82.586745,35.576727,-82.586745,35.576727],
-  "geometry": {"coordinates":[-82.586745,35.576727],"type":"Point"}
+  "bbox": [
+    -82.586745,
+    35.576727,
+    -82.586745,
+    35.576727
+],
+  "geometry": {"coordinates":[-82.58674499999999,35.576727],"type":"Point"}
 }

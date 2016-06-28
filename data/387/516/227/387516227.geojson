@@ -2,13 +2,14 @@
   "id": 387516227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.671123,35.894998,-78.671123,35.894998",
     "geom:latitude":35.894998,
     "geom:longitude":-78.671123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8629 Abbotsbury Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387516227,
-    "wof:lastmodified":1449056826,
+    "wof:lastmodified":1466656160,
     "wof:name":"Wayne Douglas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tract"
     ]
 },
-  "bbox": [-78.671123,35.894998,-78.671123,35.894998],
-  "geometry": {"coordinates":[-78.671123,35.894998],"type":"Point"}
+  "bbox": [
+    -78.671123,
+    35.894998,
+    -78.671123,
+    35.894998
+],
+  "geometry": {"coordinates":[-78.67112299999999,35.894998],"type":"Point"}
 }

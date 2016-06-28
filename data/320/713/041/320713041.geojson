@@ -2,13 +2,14 @@
   "id": 320713041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.790151,35.239079,-80.790151,35.239079",
     "geom:latitude":35.239079,
     "geom:longitude":-80.790151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Patio Ct",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320713041,
-    "wof:lastmodified":1449014615,
+    "wof:lastmodified":1466655440,
     "wof:name":"Creekside Apartments",
     "wof:parent_id":85834157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.790151,35.239079,-80.790151,35.239079],
-  "geometry": {"coordinates":[-80.790151,35.239079],"type":"Point"}
+  "bbox": [
+    -80.790151,
+    35.239079,
+    -80.790151,
+    35.239079
+],
+  "geometry": {"coordinates":[-80.79015099999999,35.239079],"type":"Point"}
 }

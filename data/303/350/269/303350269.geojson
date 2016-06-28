@@ -2,13 +2,14 @@
   "id": 303350269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.622092,35.801275,-78.622092,35.801275",
     "geom:latitude":35.801275,
     "geom:longitude":-78.622092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1634 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303350269,
-    "wof:lastmodified":1448999367,
+    "wof:lastmodified":1466648350,
     "wof:name":"Capital Grille of Boston Inc",
     "wof:parent_id":85868009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-78.622092,35.801275,-78.622092,35.801275],
-  "geometry": {"coordinates":[-78.622092,35.801275],"type":"Point"}
+  "bbox": [
+    -78.622092,
+    35.801275,
+    -78.622092,
+    35.801275
+],
+  "geometry": {"coordinates":[-78.62209199999999,35.801275],"type":"Point"}
 }

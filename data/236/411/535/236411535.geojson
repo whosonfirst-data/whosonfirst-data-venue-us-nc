@@ -2,13 +2,14 @@
   "id": 236411535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.931565,36.012749,-78.931565,36.012749",
     "geom:latitude":36.012749,
     "geom:longitude":-78.931565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2719 Hillsborough Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236411535,
-    "wof:lastmodified":1449001793,
+    "wof:lastmodified":1466646829,
     "wof:name":"ACR Supply Inc",
     "wof:parent_id":85877171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.931565,36.012749,-78.931565,36.012749],
-  "geometry": {"coordinates":[-78.931565,36.012749],"type":"Point"}
+  "bbox": [
+    -78.931565,
+    36.012749,
+    -78.931565,
+    36.012749
+],
+  "geometry": {"coordinates":[-78.93156500000001,36.012749],"type":"Point"}
 }

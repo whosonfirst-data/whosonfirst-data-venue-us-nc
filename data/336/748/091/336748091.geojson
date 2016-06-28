@@ -2,13 +2,14 @@
   "id": 336748091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.88225,34.337077,-77.88225,34.337077",
     "geom:latitude":34.337077,
     "geom:longitude":-77.88225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Ballard Dr",
     "sg:city":"Castle Hayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336748091,
-    "wof:lastmodified":1448997750,
+    "wof:lastmodified":1466648074,
     "wof:name":"Becky's Cleaning Svc",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-77.88225,34.337077,-77.88225,34.337077],
+  "bbox": [
+    -77.88225,
+    34.337077,
+    -77.88225,
+    34.337077
+],
   "geometry": {"coordinates":[-77.88225,34.337077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203168279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.879382,35.060253,-78.879382,35.060253",
     "geom:latitude":35.060253,
     "geom:longitude":-78.879382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Ray Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203168279,
-    "wof:lastmodified":1449025927,
+    "wof:lastmodified":1466655094,
     "wof:name":"Williams Office Environments",
     "wof:parent_id":85877377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.879382,35.060253,-78.879382,35.060253],
-  "geometry": {"coordinates":[-78.879382,35.060253],"type":"Point"}
+  "bbox": [
+    -78.879382,
+    35.060253,
+    -78.879382,
+    35.060253
+],
+  "geometry": {"coordinates":[-78.87938200000001,35.060253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303902683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.933855,35.379844,-77.933855,35.379844",
     "geom:latitude":35.379844,
     "geom:longitude":-77.933855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Royall Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303902683,
-    "wof:lastmodified":1448999929,
+    "wof:lastmodified":1466656195,
     "wof:name":"Goldsboro Record Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-77.933855,35.379844,-77.933855,35.379844],
-  "geometry": {"coordinates":[-77.933855,35.379844],"type":"Point"}
+  "bbox": [
+    -77.933855,
+    35.379844,
+    -77.933855,
+    35.379844
+],
+  "geometry": {"coordinates":[-77.93385499999999,35.379844],"type":"Point"}
 }

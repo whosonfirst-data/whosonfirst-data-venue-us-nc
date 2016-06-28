@@ -2,13 +2,14 @@
   "id": 387374719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.891456,35.440718,-80.891456,35.440718",
     "geom:latitude":35.440718,
     "geom:longitude":-80.891456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16507 Grapperhall Dr",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387374719,
-    "wof:lastmodified":1449057766,
+    "wof:lastmodified":1466654781,
     "wof:name":"Sharpe Image",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-80.891456,35.440718,-80.891456,35.440718],
-  "geometry": {"coordinates":[-80.891456,35.440718],"type":"Point"}
+  "bbox": [
+    -80.891456,
+    35.440718,
+    -80.891456,
+    35.440718
+],
+  "geometry": {"coordinates":[-80.89145600000001,35.440718],"type":"Point"}
 }

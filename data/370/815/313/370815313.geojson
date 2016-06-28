@@ -2,13 +2,14 @@
   "id": 370815313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.228522,36.160022,-80.228522,36.160022",
     "geom:latitude":36.160022,
     "geom:longitude":-80.228522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4920 Old Rural Hall Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370815313,
-    "wof:lastmodified":1449030731,
+    "wof:lastmodified":1466656289,
     "wof:name":"A & S Electric",
     "wof:parent_id":85835089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-80.228522,36.160022,-80.228522,36.160022],
+  "bbox": [
+    -80.228522,
+    36.160022,
+    -80.228522,
+    36.160022
+],
   "geometry": {"coordinates":[-80.228522,36.160022],"type":"Point"}
 }

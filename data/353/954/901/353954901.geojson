@@ -2,13 +2,14 @@
   "id": 353954901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945285,34.241208,-77.945285,34.241208",
     "geom:latitude":34.241208,
     "geom:longitude":-77.945285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N 4th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353954901,
-    "wof:lastmodified":1449020479,
+    "wof:lastmodified":1466653569,
     "wof:name":"Wilmington Printing Co",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-77.945285,34.241208,-77.945285,34.241208],
+  "bbox": [
+    -77.945285,
+    34.241208,
+    -77.945285,
+    34.241208
+],
   "geometry": {"coordinates":[-77.945285,34.241208],"type":"Point"}
 }

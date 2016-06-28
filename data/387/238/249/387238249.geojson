@@ -2,13 +2,14 @@
   "id": 387238249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.960057,35.369934,-77.960057,35.369934",
     "geom:latitude":35.369934,
     "geom:longitude":-77.960057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 S Spence Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387238249,
-    "wof:lastmodified":1449057529,
+    "wof:lastmodified":1466653006,
     "wof:name":"Chem Dry Of Wayne County",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-77.960057,35.369934,-77.960057,35.369934],
-  "geometry": {"coordinates":[-77.960057,35.369934],"type":"Point"}
+  "bbox": [
+    -77.960057,
+    35.369934,
+    -77.960057,
+    35.369934
+],
+  "geometry": {"coordinates":[-77.96005700000001,35.369934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354050425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.972536,35.166417,-78.972536,35.166417",
     "geom:latitude":35.166417,
     "geom:longitude":-78.972536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 S Bragg Blvd",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354050425,
-    "wof:lastmodified":1449066879,
+    "wof:lastmodified":1466648143,
     "wof:name":"Spring Lake Auto Svc",
     "wof:parent_id":85804723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-78.972536,35.166417,-78.972536,35.166417],
-  "geometry": {"coordinates":[-78.972536,35.166417],"type":"Point"}
+  "bbox": [
+    -78.972536,
+    35.166417,
+    -78.972536,
+    35.166417
+],
+  "geometry": {"coordinates":[-78.97253600000001,35.166417],"type":"Point"}
 }

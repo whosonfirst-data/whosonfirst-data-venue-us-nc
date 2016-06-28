@@ -2,13 +2,14 @@
   "id": 303879801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.875177,34.26755,-77.875177,34.26755",
     "geom:latitude":34.26755,
     "geom:longitude":-77.875177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4514 Noland Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303879801,
-    "wof:lastmodified":1448998140,
+    "wof:lastmodified":1466656008,
     "wof:name":"Dolly Armstrong",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.875177,34.26755,-77.875177,34.26755],
-  "geometry": {"coordinates":[-77.875177,34.26755],"type":"Point"}
+  "bbox": [
+    -77.875177,
+    34.26755,
+    -77.875177,
+    34.26755
+],
+  "geometry": {"coordinates":[-77.87517699999999,34.26755],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353667595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.757601,36.086658,-79.757601,36.086658",
     "geom:latitude":36.086658,
     "geom:longitude":-79.757601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 N Raleigh St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353667595,
-    "wof:lastmodified":1449019913,
+    "wof:lastmodified":1466650210,
     "wof:name":"Artios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-79.757601,36.086658,-79.757601,36.086658],
-  "geometry": {"coordinates":[-79.757601,36.086658],"type":"Point"}
+  "bbox": [
+    -79.757601,
+    36.086658,
+    -79.757601,
+    36.086658
+],
+  "geometry": {"coordinates":[-79.75760099999999,36.086658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353467905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.997441,35.390496,-77.997441,35.390496",
     "geom:latitude":35.390496,
     "geom:longitude":-77.997441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N George St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353467905,
-    "wof:lastmodified":1449020274,
+    "wof:lastmodified":1466647899,
     "wof:name":"T & T Dealer Svc",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-77.997441,35.390496,-77.997441,35.390496],
-  "geometry": {"coordinates":[-77.997441,35.390496],"type":"Point"}
+  "bbox": [
+    -77.997441,
+    35.390496,
+    -77.997441,
+    35.390496
+],
+  "geometry": {"coordinates":[-77.99744099999999,35.390496],"type":"Point"}
 }

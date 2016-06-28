@@ -2,13 +2,14 @@
   "id": 303874293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.71225,34.313484,-78.71225,34.313484",
     "geom:latitude":34.313484,
     "geom:longitude":-78.71225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 S J K Powell Blvd",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303874293,
-    "wof:lastmodified":1449000407,
+    "wof:lastmodified":1466655976,
     "wof:name":"Via Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.71225,34.313484,-78.71225,34.313484],
+  "bbox": [
+    -78.71225,
+    34.313484,
+    -78.71225,
+    34.313484
+],
   "geometry": {"coordinates":[-78.71225,34.313484],"type":"Point"}
 }

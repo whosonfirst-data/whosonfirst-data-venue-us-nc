@@ -2,13 +2,14 @@
   "id": 404115423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.899786,35.994488,-78.899786,35.994488",
     "geom:latitude":35.994488,
     "geom:longitude":-78.899786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 E Main St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404115423,
-    "wof:lastmodified":1449039074,
+    "wof:lastmodified":1466652736,
     "wof:name":"Daniel K Shatz",
     "wof:parent_id":85877155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.899786,35.994488,-78.899786,35.994488],
-  "geometry": {"coordinates":[-78.899786,35.994488],"type":"Point"}
+  "bbox": [
+    -78.899786,
+    35.994488,
+    -78.899786,
+    35.994488
+],
+  "geometry": {"coordinates":[-78.89978600000001,35.994488],"type":"Point"}
 }

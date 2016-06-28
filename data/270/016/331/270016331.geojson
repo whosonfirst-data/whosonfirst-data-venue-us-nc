@@ -2,13 +2,14 @@
   "id": 270016331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.960491,35.113645,-80.960491,35.113645",
     "geom:latitude":35.113645,
     "geom:longitude":-80.960491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13310 S Ridge Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270016331,
-    "wof:lastmodified":1449009066,
+    "wof:lastmodified":1466643393,
     "wof:name":"Power Engineering Co",
     "wof:parent_id":85823197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.960491,35.113645,-80.960491,35.113645],
+  "bbox": [
+    -80.960491,
+    35.113645,
+    -80.960491,
+    35.113645
+],
   "geometry": {"coordinates":[-80.960491,35.113645],"type":"Point"}
 }

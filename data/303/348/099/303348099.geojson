@@ -2,13 +2,14 @@
   "id": 303348099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.666654,35.805254,-78.666654,35.805254",
     "geom:latitude":35.805254,
     "geom:longitude":-78.666654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Mayfair Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303348099,
-    "wof:lastmodified":1448998223,
+    "wof:lastmodified":1466648320,
     "wof:name":"Better Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-78.666654,35.805254,-78.666654,35.805254],
-  "geometry": {"coordinates":[-78.666654,35.805254],"type":"Point"}
+  "bbox": [
+    -78.666654,
+    35.805254,
+    -78.666654,
+    35.805254
+],
+  "geometry": {"coordinates":[-78.66665399999999,35.805254],"type":"Point"}
 }

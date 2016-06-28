@@ -2,13 +2,14 @@
   "id": 236428235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.548125,35.870272,-78.548125,35.870272",
     "geom:latitude":35.870272,
     "geom:longitude":-78.548125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7508 Fox Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236428235,
-    "wof:lastmodified":1449004981,
+    "wof:lastmodified":1466646976,
     "wof:name":"Knight Trucking",
     "wof:parent_id":85857779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.548125,35.870272,-78.548125,35.870272],
+  "bbox": [
+    -78.548125,
+    35.870272,
+    -78.548125,
+    35.870272
+],
   "geometry": {"coordinates":[-78.548125,35.870272],"type":"Point"}
 }

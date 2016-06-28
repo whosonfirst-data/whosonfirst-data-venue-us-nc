@@ -2,13 +2,14 @@
   "id": 353637331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.830058,36.023537,-79.830058,36.023537",
     "geom:latitude":36.023537,
     "geom:longitude":-79.830058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 Four Seasons Blvd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353637331,
-    "wof:lastmodified":1449018265,
+    "wof:lastmodified":1466655855,
     "wof:name":"Christ United",
     "wof:parent_id":85845739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.830058,36.023537,-79.830058,36.023537],
-  "geometry": {"coordinates":[-79.830058,36.023537],"type":"Point"}
+  "bbox": [
+    -79.830058,
+    36.023537,
+    -79.830058,
+    36.023537
+],
+  "geometry": {"coordinates":[-79.83005799999999,36.023537],"type":"Point"}
 }

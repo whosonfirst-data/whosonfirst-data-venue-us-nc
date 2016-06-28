@@ -2,13 +2,14 @@
   "id": 370534233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.625183,35.478147,-80.625183,35.478147",
     "geom:latitude":35.478147,
     "geom:longitude":-80.625183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 S Main St",
     "sg:city":"Kannapolis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370534233,
-    "wof:lastmodified":1449029981,
+    "wof:lastmodified":1466653005,
     "wof:name":"Mid States Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.625183,35.478147,-80.625183,35.478147],
-  "geometry": {"coordinates":[-80.625183,35.478147],"type":"Point"}
+  "bbox": [
+    -80.625183,
+    35.478147,
+    -80.625183,
+    35.478147
+],
+  "geometry": {"coordinates":[-80.62518300000001,35.478147],"type":"Point"}
 }

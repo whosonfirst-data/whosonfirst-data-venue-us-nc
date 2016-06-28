@@ -2,13 +2,14 @@
   "id": 236674405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.659027,36.241175,-81.659027,36.241175",
     "geom:latitude":36.241175,
     "geom:longitude":-81.659027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Howard's Creek Rd",
     "sg:city":"Boone",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236674405,
-    "wof:lastmodified":1449004244,
+    "wof:lastmodified":1466649223,
     "wof:name":"Sewing & Vacuum Svc",
     "wof:parent_id":85836725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewing"
     ]
 },
-  "bbox": [-81.659027,36.241175,-81.659027,36.241175],
-  "geometry": {"coordinates":[-81.659027,36.241175],"type":"Point"}
+  "bbox": [
+    -81.659027,
+    36.241175,
+    -81.659027,
+    36.241175
+],
+  "geometry": {"coordinates":[-81.65902699999999,36.241175],"type":"Point"}
 }

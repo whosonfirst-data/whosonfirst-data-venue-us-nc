@@ -2,13 +2,14 @@
   "id": 387212395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.416197,34.749197,-77.416197,34.749197",
     "geom:latitude":34.749197,
     "geom:longitude":-77.416197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Hargett St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387212395,
-    "wof:lastmodified":1449058574,
+    "wof:lastmodified":1466652662,
     "wof:name":"WNTC",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-77.416197,34.749197,-77.416197,34.749197],
+  "bbox": [
+    -77.416197,
+    34.749197,
+    -77.416197,
+    34.749197
+],
   "geometry": {"coordinates":[-77.416197,34.749197],"type":"Point"}
 }

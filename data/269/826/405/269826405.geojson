@@ -2,13 +2,14 @@
   "id": 269826405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.698147,36.145221,-77.698147,36.145221",
     "geom:latitude":36.145221,
     "geom:longitude":-77.698147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Bricks Ln",
     "sg:city":"Whitakers",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269826405,
-    "wof:lastmodified":1449037968,
+    "wof:lastmodified":1466647238,
     "wof:name":"Franklinton Center At Bricks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "center"
     ]
 },
-  "bbox": [-77.698147,36.145221,-77.698147,36.145221],
-  "geometry": {"coordinates":[-77.698147,36.145221],"type":"Point"}
+  "bbox": [
+    -77.698147,
+    36.145221,
+    -77.698147,
+    36.145221
+],
+  "geometry": {"coordinates":[-77.69814700000001,36.145221],"type":"Point"}
 }

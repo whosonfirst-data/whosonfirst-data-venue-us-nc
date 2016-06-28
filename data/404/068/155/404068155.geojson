@@ -2,13 +2,14 @@
   "id": 404068155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.904751,34.329179,-77.904751,34.329179",
     "geom:latitude":34.329179,
     "geom:longitude":-77.904751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Madeline Trask Dr",
     "sg:city":"Castle Hayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404068155,
-    "wof:lastmodified":1449039722,
+    "wof:lastmodified":1466652154,
     "wof:name":"Eastern Septic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "septic"
     ]
 },
-  "bbox": [-77.904751,34.329179,-77.904751,34.329179],
+  "bbox": [
+    -77.904751,
+    34.329179,
+    -77.904751,
+    34.329179
+],
   "geometry": {"coordinates":[-77.904751,34.329179],"type":"Point"}
 }

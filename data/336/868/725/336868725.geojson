@@ -2,13 +2,14 @@
   "id": 336868725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862279,35.505777,-80.862279,35.505777",
     "geom:latitude":35.505777,
     "geom:longitude":-80.862279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Jetton St",
     "sg:city":"Davidson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336868725,
-    "wof:lastmodified":1448996959,
+    "wof:lastmodified":1466649945,
     "wof:name":"American Counseling Ctr",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-80.862279,35.505777,-80.862279,35.505777],
+  "bbox": [
+    -80.862279,
+    35.505777,
+    -80.862279,
+    35.505777
+],
   "geometry": {"coordinates":[-80.862279,35.505777],"type":"Point"}
 }

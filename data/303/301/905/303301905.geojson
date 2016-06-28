@@ -2,13 +2,14 @@
   "id": 303301905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.949257,35.967028,-78.949257,35.967028",
     "geom:latitude":35.967028,
     "geom:longitude":-78.949257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3611 University Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303301905,
-    "wof:lastmodified":1448998736,
+    "wof:lastmodified":1466647696,
     "wof:name":"Pinnacle Ridge Apartments",
     "wof:parent_id":85877193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.949257,35.967028,-78.949257,35.967028],
+  "bbox": [
+    -78.949257,
+    35.967028,
+    -78.949257,
+    35.967028
+],
   "geometry": {"coordinates":[-78.949257,35.967028],"type":"Point"}
 }

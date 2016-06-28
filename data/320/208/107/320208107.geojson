@@ -2,13 +2,14 @@
   "id": 320208107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.61849,34.623053,-78.61849,34.623053",
     "geom:latitude":34.623053,
     "geom:longitude":-78.61849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 McKoy St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320208107,
-    "wof:lastmodified":1449011680,
+    "wof:lastmodified":1466648203,
     "wof:name":"Shelby A Stephenson MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.61849,34.623053,-78.61849,34.623053],
-  "geometry": {"coordinates":[-78.61849,34.623053],"type":"Point"}
+  "bbox": [
+    -78.61849,
+    34.623053,
+    -78.61849,
+    34.623053
+],
+  "geometry": {"coordinates":[-78.61848999999999,34.623053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286598409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.063466,35.910083,-79.063466,35.910083",
     "geom:latitude":35.910083,
     "geom:longitude":-79.063466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 State Rd 54 Bus",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286598409,
-    "wof:lastmodified":1449015323,
+    "wof:lastmodified":1466647701,
     "wof:name":"Smith-Congleton Hardware",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-79.063466,35.910083,-79.063466,35.910083],
-  "geometry": {"coordinates":[-79.063466,35.910083],"type":"Point"}
+  "bbox": [
+    -79.063466,
+    35.910083,
+    -79.063466,
+    35.910083
+],
+  "geometry": {"coordinates":[-79.06346600000001,35.910083],"type":"Point"}
 }

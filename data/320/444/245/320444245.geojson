@@ -2,13 +2,14 @@
   "id": 320444245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.973808,35.39326,-77.973808,35.39326",
     "geom:latitude":35.39326,
     "geom:longitude":-77.973808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Wayne Memorial Dr",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320444245,
-    "wof:lastmodified":1449014465,
+    "wof:lastmodified":1466651561,
     "wof:name":"Animal Care Crematory & Burial",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-77.973808,35.39326,-77.973808,35.39326],
-  "geometry": {"coordinates":[-77.973808,35.39326],"type":"Point"}
+  "bbox": [
+    -77.973808,
+    35.39326,
+    -77.973808,
+    35.39326
+],
+  "geometry": {"coordinates":[-77.97380800000001,35.39326],"type":"Point"}
 }

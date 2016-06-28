@@ -2,13 +2,14 @@
   "id": 203038783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.929344,35.213484,-80.929344,35.213484",
     "geom:latitude":35.213484,
     "geom:longitude":-80.929344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5305 Morris Field Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203038783,
-    "wof:lastmodified":1449026188,
+    "wof:lastmodified":1466654438,
     "wof:name":"SPX Flight Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.929344,35.213484,-80.929344,35.213484],
+  "bbox": [
+    -80.929344,
+    35.213484,
+    -80.929344,
+    35.213484
+],
   "geometry": {"coordinates":[-80.929344,35.213484],"type":"Point"}
 }

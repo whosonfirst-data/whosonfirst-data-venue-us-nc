@@ -2,13 +2,14 @@
   "id": 303702889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.802996,35.820605,-79.802996,35.820605",
     "geom:latitude":35.820605,
     "geom:longitude":-79.802996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 N Main St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303702889,
-    "wof:lastmodified":1448999338,
+    "wof:lastmodified":1466653455,
     "wof:name":"Riverside Auto Parts",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-79.802996,35.820605,-79.802996,35.820605],
-  "geometry": {"coordinates":[-79.802996,35.820605],"type":"Point"}
+  "bbox": [
+    -79.802996,
+    35.820605,
+    -79.802996,
+    35.820605
+],
+  "geometry": {"coordinates":[-79.80299599999999,35.820605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269490541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.181744,35.25409,-81.181744,35.25409",
     "geom:latitude":35.25409,
     "geom:longitude":-81.181744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 S Marietta St",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269490541,
-    "wof:lastmodified":1449038738,
+    "wof:lastmodified":1466643291,
     "wof:name":"Byers Engineering Co",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.181744,35.25409,-81.181744,35.25409],
-  "geometry": {"coordinates":[-81.181744,35.25409],"type":"Point"}
+  "bbox": [
+    -81.181744,
+    35.25409,
+    -81.181744,
+    35.25409
+],
+  "geometry": {"coordinates":[-81.18174399999999,35.25409],"type":"Point"}
 }

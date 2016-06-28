@@ -2,13 +2,14 @@
   "id": 186529179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.369942,35.648581,-77.369942,35.648581",
     "geom:latitude":35.648581,
     "geom:longitude":-77.369942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Greenfield Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186529179,
-    "wof:lastmodified":1449051548,
+    "wof:lastmodified":1466654550,
     "wof:name":"Whichards Chapel Church",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.369942,35.648581,-77.369942,35.648581],
-  "geometry": {"coordinates":[-77.369942,35.648581],"type":"Point"}
+  "bbox": [
+    -77.369942,
+    35.648581,
+    -77.369942,
+    35.648581
+],
+  "geometry": {"coordinates":[-77.36994199999999,35.648581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353816693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.549382,35.86062,-80.549382,35.86062",
     "geom:latitude":35.86062,
     "geom:longitude":-80.549382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1670 US Hwy 601",
     "sg:city":"Mocksville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353816693,
-    "wof:lastmodified":1449019755,
+    "wof:lastmodified":1466651957,
     "wof:name":"Horn's Auto Truck Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stops"
     ]
 },
-  "bbox": [-80.549382,35.86062,-80.549382,35.86062],
-  "geometry": {"coordinates":[-80.549382,35.86062],"type":"Point"}
+  "bbox": [
+    -80.549382,
+    35.86062,
+    -80.549382,
+    35.86062
+],
+  "geometry": {"coordinates":[-80.54938199999999,35.86062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336923395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.023314,35.925597,-79.023314,35.925597",
     "geom:latitude":35.925597,
     "geom:longitude":-79.023314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Ridgefield Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336923395,
-    "wof:lastmodified":1448997966,
+    "wof:lastmodified":1466650773,
     "wof:name":"Jon Wurster",
     "wof:parent_id":85868007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-79.023314,35.925597,-79.023314,35.925597],
+  "bbox": [
+    -79.023314,
+    35.925597,
+    -79.023314,
+    35.925597
+],
   "geometry": {"coordinates":[-79.023314,35.925597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354172399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.840237,35.687151,-79.840237,35.687151",
     "geom:latitude":35.687151,
     "geom:longitude":-79.840237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1172 US Hwy 64 W",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354172399,
-    "wof:lastmodified":1449066603,
+    "wof:lastmodified":1466649561,
     "wof:name":"Heritage Diner",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.840237,35.687151,-79.840237,35.687151],
+  "bbox": [
+    -79.840237,
+    35.687151,
+    -79.840237,
+    35.687151
+],
   "geometry": {"coordinates":[-79.840237,35.687151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269789015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.185522,35.269722,-81.185522,35.269722",
     "geom:latitude":35.269722,
     "geom:longitude":-81.185522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N York St",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269789015,
-    "wof:lastmodified":1449037221,
+    "wof:lastmodified":1466646830,
     "wof:name":"Martin's Funeral Home",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "operates"
     ]
 },
-  "bbox": [-81.185522,35.269722,-81.185522,35.269722],
-  "geometry": {"coordinates":[-81.185522,35.269722],"type":"Point"}
+  "bbox": [
+    -81.185522,
+    35.269722,
+    -81.185522,
+    35.269722
+],
+  "geometry": {"coordinates":[-81.18552200000001,35.269722],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320525211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.198968,35.053397,-83.198968,35.053397",
     "geom:latitude":35.053397,
     "geom:longitude":-83.198968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Main St",
     "sg:city":"Highlands",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320525211,
-    "wof:lastmodified":1449014187,
+    "wof:lastmodified":1466652731,
     "wof:name":"Grinning Frog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.198968,35.053397,-83.198968,35.053397],
-  "geometry": {"coordinates":[-83.198968,35.053397],"type":"Point"}
+  "bbox": [
+    -83.198968,
+    35.053397,
+    -83.198968,
+    35.053397
+],
+  "geometry": {"coordinates":[-83.19896799999999,35.053397],"type":"Point"}
 }

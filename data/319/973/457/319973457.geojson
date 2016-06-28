@@ -2,13 +2,14 @@
   "id": 319973457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.47974,34.703443,-77.47974,34.703443",
     "geom:latitude":34.703443,
     "geom:longitude":-77.47974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2570 Wilmington Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":319973457,
-    "wof:lastmodified":1449024563,
+    "wof:lastmodified":1466647085,
     "wof:name":"Buceks Plumbing Company",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.47974,34.703443,-77.47974,34.703443],
-  "geometry": {"coordinates":[-77.47974,34.703443],"type":"Point"}
+  "bbox": [
+    -77.47974,
+    34.703443,
+    -77.47974,
+    34.703443
+],
+  "geometry": {"coordinates":[-77.47974000000001,34.703443],"type":"Point"}
 }

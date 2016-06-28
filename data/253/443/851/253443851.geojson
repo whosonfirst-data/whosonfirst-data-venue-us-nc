@@ -2,13 +2,14 @@
   "id": 253443851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.733016,34.741621,-76.733016,34.741621",
     "geom:latitude":34.741621,
     "geom:longitude":-76.733016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Keeter Ct",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253443851,
-    "wof:lastmodified":1449065220,
+    "wof:lastmodified":1466647675,
     "wof:name":"Harry Kahn Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "library"
     ]
 },
-  "bbox": [-76.733016,34.741621,-76.733016,34.741621],
-  "geometry": {"coordinates":[-76.733016,34.741621],"type":"Point"}
+  "bbox": [
+    -76.733016,
+    34.741621,
+    -76.733016,
+    34.741621
+],
+  "geometry": {"coordinates":[-76.73301600000001,34.741621],"type":"Point"}
 }

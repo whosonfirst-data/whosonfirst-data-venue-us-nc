@@ -2,13 +2,14 @@
   "id": 387957893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.532649,35.702595,-80.532649,35.702595",
     "geom:latitude":35.702595,
     "geom:longitude":-80.532649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Elmwood Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387957893,
-    "wof:lastmodified":1449059360,
+    "wof:lastmodified":1466658117,
     "wof:name":"Acp Inc",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-80.532649,35.702595,-80.532649,35.702595],
-  "geometry": {"coordinates":[-80.532649,35.702595],"type":"Point"}
+  "bbox": [
+    -80.532649,
+    35.702595,
+    -80.532649,
+    35.702595
+],
+  "geometry": {"coordinates":[-80.53264900000001,35.702595],"type":"Point"}
 }

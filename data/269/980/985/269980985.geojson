@@ -2,13 +2,14 @@
   "id": 269980985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.507156,35.921081,-81.507156,35.921081",
     "geom:latitude":35.921081,
     "geom:longitude":-81.507156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Wilkesboro Blvd SE",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269980985,
-    "wof:lastmodified":1449036315,
+    "wof:lastmodified":1466649107,
     "wof:name":"Ambrosia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diet"
     ]
 },
-  "bbox": [-81.507156,35.921081,-81.507156,35.921081],
-  "geometry": {"coordinates":[-81.507156,35.921081],"type":"Point"}
+  "bbox": [
+    -81.507156,
+    35.921081,
+    -81.507156,
+    35.921081
+],
+  "geometry": {"coordinates":[-81.50715599999999,35.921081],"type":"Point"}
 }

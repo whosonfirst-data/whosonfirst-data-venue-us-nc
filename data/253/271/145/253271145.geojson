@@ -2,13 +2,14 @@
   "id": 253271145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.005635,35.928401,-79.005635,35.928401",
     "geom:latitude":35.928401,
     "geom:longitude":-79.005635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Alder Pl",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253271145,
-    "wof:lastmodified":1449064370,
+    "wof:lastmodified":1466645745,
     "wof:name":"Kennihan Appraisal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-79.005635,35.928401,-79.005635,35.928401],
+  "bbox": [
+    -79.005635,
+    35.928401,
+    -79.005635,
+    35.928401
+],
   "geometry": {"coordinates":[-79.005635,35.928401],"type":"Point"}
 }

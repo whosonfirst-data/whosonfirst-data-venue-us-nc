@@ -2,13 +2,14 @@
   "id": 303551905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.908583,35.070003,-78.908583,35.070003",
     "geom:latitude":35.070003,
     "geom:longitude":-78.908583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Cape Fear Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303551905,
-    "wof:lastmodified":1448998606,
+    "wof:lastmodified":1466651265,
     "wof:name":"Alpine Fresh Cleaning",
     "wof:parent_id":85824371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-78.908583,35.070003,-78.908583,35.070003],
-  "geometry": {"coordinates":[-78.908583,35.070003],"type":"Point"}
+  "bbox": [
+    -78.908583,
+    35.070003,
+    -78.908583,
+    35.070003
+],
+  "geometry": {"coordinates":[-78.90858299999999,35.070003],"type":"Point"}
 }

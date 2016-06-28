@@ -2,13 +2,14 @@
   "id": 303551171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.606406,35.753763,-78.606406,35.753763",
     "geom:latitude":35.753763,
     "geom:longitude":-78.606406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 Atkins Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303551171,
-    "wof:lastmodified":1448998607,
+    "wof:lastmodified":1466651256,
     "wof:name":"Grandview Entertainment",
     "wof:parent_id":85850267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-78.606406,35.753763,-78.606406,35.753763],
-  "geometry": {"coordinates":[-78.606406,35.753763],"type":"Point"}
+  "bbox": [
+    -78.606406,
+    35.753763,
+    -78.606406,
+    35.753763
+],
+  "geometry": {"coordinates":[-78.60640600000001,35.753763],"type":"Point"}
 }

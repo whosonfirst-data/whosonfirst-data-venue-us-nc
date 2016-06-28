@@ -2,13 +2,14 @@
   "id": 303294659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.401902,35.717909,-81.401902,35.717909",
     "geom:latitude":35.717909,
     "geom:longitude":-81.401902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 US Hwy 70 E",
     "sg:city":"Hildebran",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303294659,
-    "wof:lastmodified":1448999859,
+    "wof:lastmodified":1466647596,
     "wof:name":"Parson Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.401902,35.717909,-81.401902,35.717909],
-  "geometry": {"coordinates":[-81.401902,35.717909],"type":"Point"}
+  "bbox": [
+    -81.401902,
+    35.717909,
+    -81.401902,
+    35.717909
+],
+  "geometry": {"coordinates":[-81.40190200000001,35.717909],"type":"Point"}
 }

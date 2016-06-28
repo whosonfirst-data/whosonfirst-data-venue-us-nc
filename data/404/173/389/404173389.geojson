@@ -2,13 +2,14 @@
   "id": 404173389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.463468,35.578352,-82.463468,35.578352",
     "geom:latitude":35.578352,
     "geom:longitude":-82.463468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Porters Cove Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404173389,
-    "wof:lastmodified":1449039286,
+    "wof:lastmodified":1466653489,
     "wof:name":"Cove",
     "wof:parent_id":85804127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-82.463468,35.578352,-82.463468,35.578352],
-  "geometry": {"coordinates":[-82.463468,35.578352],"type":"Point"}
+  "bbox": [
+    -82.463468,
+    35.578352,
+    -82.463468,
+    35.578352
+],
+  "geometry": {"coordinates":[-82.46346800000001,35.578352],"type":"Point"}
 }

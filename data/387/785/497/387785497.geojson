@@ -2,13 +2,14 @@
   "id": 387785497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.491397,35.194518,-78.491397,35.194518",
     "geom:latitude":35.194518,
     "geom:longitude":-78.491397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Fayetteville Hwy",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387785497,
-    "wof:lastmodified":1449059273,
+    "wof:lastmodified":1466657640,
     "wof:name":"B & B Farm Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.491397,35.194518,-78.491397,35.194518],
-  "geometry": {"coordinates":[-78.491397,35.194518],"type":"Point"}
+  "bbox": [
+    -78.491397,
+    35.194518,
+    -78.491397,
+    35.194518
+],
+  "geometry": {"coordinates":[-78.49139700000001,35.194518],"type":"Point"}
 }

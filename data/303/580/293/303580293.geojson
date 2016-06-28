@@ -2,13 +2,14 @@
   "id": 303580293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.365012,35.098128,-80.365012,35.098128",
     "geom:latitude":35.098128,
     "geom:longitude":-80.365012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4611 Stewart Farm Rd",
     "sg:city":"Marshville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303580293,
-    "wof:lastmodified":1448999766,
+    "wof:lastmodified":1466651669,
     "wof:name":"Byron Stewart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-80.365012,35.098128,-80.365012,35.098128],
-  "geometry": {"coordinates":[-80.365012,35.098128],"type":"Point"}
+  "bbox": [
+    -80.365012,
+    35.098128,
+    -80.365012,
+    35.098128
+],
+  "geometry": {"coordinates":[-80.36501199999999,35.098128],"type":"Point"}
 }

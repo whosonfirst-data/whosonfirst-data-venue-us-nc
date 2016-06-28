@@ -2,13 +2,14 @@
   "id": 370311295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.573357,35.568251,-82.573357,35.568251",
     "geom:latitude":35.568251,
     "geom:longitude":-82.573357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Moore Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370311295,
-    "wof:lastmodified":1449029884,
+    "wof:lastmodified":1466650152,
     "wof:name":"Asheville General Store",
     "wof:parent_id":85842077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.573357,35.568251,-82.573357,35.568251],
+  "bbox": [
+    -82.573357,
+    35.568251,
+    -82.573357,
+    35.568251
+],
   "geometry": {"coordinates":[-82.573357,35.568251],"type":"Point"}
 }

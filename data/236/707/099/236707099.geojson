@@ -2,13 +2,14 @@
   "id": 236707099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.610571,35.755975,-78.610571,35.755975",
     "geom:latitude":35.755975,
     "geom:longitude":-78.610571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 Curtis Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236707099,
-    "wof:lastmodified":1449004623,
+    "wof:lastmodified":1466649542,
     "wof:name":"Gwendolyns Inc",
     "wof:parent_id":85850267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-78.610571,35.755975,-78.610571,35.755975],
-  "geometry": {"coordinates":[-78.610571,35.755975],"type":"Point"}
+  "bbox": [
+    -78.610571,
+    35.755975,
+    -78.610571,
+    35.755975
+],
+  "geometry": {"coordinates":[-78.61057099999999,35.755975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303722083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.264056,36.09101,-80.264056,36.09101",
     "geom:latitude":36.09101,
     "geom:longitude":-80.264056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Lockland Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303722083,
-    "wof:lastmodified":1448998977,
+    "wof:lastmodified":1466653737,
     "wof:name":"Charlotte Broughton DDS",
     "wof:parent_id":85803439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.264056,36.09101,-80.264056,36.09101],
+  "bbox": [
+    -80.264056,
+    36.09101,
+    -80.264056,
+    36.09101
+],
   "geometry": {"coordinates":[-80.264056,36.09101],"type":"Point"}
 }

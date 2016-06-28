@@ -2,13 +2,14 @@
   "id": 320497867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.657271,35.809468,-78.657271,35.809468",
     "geom:latitude":35.809468,
     "geom:longitude":-78.657271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Fairview Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320497867,
-    "wof:lastmodified":1449014912,
+    "wof:lastmodified":1466652334,
     "wof:name":"Hunt Management Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-78.657271,35.809468,-78.657271,35.809468],
-  "geometry": {"coordinates":[-78.657271,35.809468],"type":"Point"}
+  "bbox": [
+    -78.657271,
+    35.809468,
+    -78.657271,
+    35.809468
+],
+  "geometry": {"coordinates":[-78.65727099999999,35.809468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320297705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.850457,35.493548,-80.850457,35.493548",
     "geom:latitude":35.493548,
     "geom:longitude":-80.850457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Walnut St",
     "sg:city":"Davidson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320297705,
-    "wof:lastmodified":1449013638,
+    "wof:lastmodified":1466649449,
     "wof:name":"Accuwealth Inc",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-80.850457,35.493548,-80.850457,35.493548],
-  "geometry": {"coordinates":[-80.850457,35.493548],"type":"Point"}
+  "bbox": [
+    -80.850457,
+    35.493548,
+    -80.850457,
+    35.493548
+],
+  "geometry": {"coordinates":[-80.85045700000001,35.493548],"type":"Point"}
 }

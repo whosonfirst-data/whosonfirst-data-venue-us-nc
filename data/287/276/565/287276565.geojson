@@ -2,13 +2,14 @@
   "id": 287276565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.930045,35.980944,-78.930045,35.980944",
     "geom:latitude":35.980944,
     "geom:longitude":-78.930045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2351 Huron St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287276565,
-    "wof:lastmodified":1449000702,
+    "wof:lastmodified":1466647145,
     "wof:name":"Thin Red Line Editing",
     "wof:parent_id":85877191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-78.930045,35.980944,-78.930045,35.980944],
-  "geometry": {"coordinates":[-78.930045,35.980944],"type":"Point"}
+  "bbox": [
+    -78.930045,
+    35.980944,
+    -78.930045,
+    35.980944
+],
+  "geometry": {"coordinates":[-78.93004500000001,35.980944],"type":"Point"}
 }

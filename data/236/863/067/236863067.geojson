@@ -2,13 +2,14 @@
   "id": 236863067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.080542,35.501641,-77.080542,35.501641",
     "geom:latitude":35.501641,
     "geom:longitude":-77.080542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1781 State Hwy 33 E",
     "sg:city":"Chocowinity",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236863067,
-    "wof:lastmodified":1449004020,
+    "wof:lastmodified":1466650951,
     "wof:name":"L-Cheapo's Cab Svc",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-77.080542,35.501641,-77.080542,35.501641],
-  "geometry": {"coordinates":[-77.080542,35.501641],"type":"Point"}
+  "bbox": [
+    -77.080542,
+    35.501641,
+    -77.080542,
+    35.501641
+],
+  "geometry": {"coordinates":[-77.08054199999999,35.501641],"type":"Point"}
 }

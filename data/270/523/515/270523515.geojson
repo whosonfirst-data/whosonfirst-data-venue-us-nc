@@ -2,13 +2,14 @@
   "id": 270523515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.525635,35.51437,-82.525635,35.51437",
     "geom:latitude":35.51437,
     "geom:longitude":-82.525635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Peachtree Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270523515,
-    "wof:lastmodified":1449010066,
+    "wof:lastmodified":1466649757,
     "wof:name":"Cornerstone Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.525635,35.51437,-82.525635,35.51437],
-  "geometry": {"coordinates":[-82.525635,35.51437],"type":"Point"}
+  "bbox": [
+    -82.525635,
+    35.51437,
+    -82.525635,
+    35.51437
+],
+  "geometry": {"coordinates":[-82.52563499999999,35.51437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320405179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.792729,34.544679,-78.792729,34.544679",
     "geom:latitude":34.544679,
     "geom:longitude":-78.792729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Butler Mill Rd",
     "sg:city":"Bladenboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320405179,
-    "wof:lastmodified":1449014649,
+    "wof:lastmodified":1466650997,
     "wof:name":"New Light Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.792729,34.544679,-78.792729,34.544679],
-  "geometry": {"coordinates":[-78.792729,34.544679],"type":"Point"}
+  "bbox": [
+    -78.792729,
+    34.544679,
+    -78.792729,
+    34.544679
+],
+  "geometry": {"coordinates":[-78.79272899999999,34.544679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253668901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.305754,36.237323,-76.305754,36.237323",
     "geom:latitude":36.237323,
     "geom:longitude":-76.305754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Halls Creek Rd",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253668901,
-    "wof:lastmodified":1449064901,
+    "wof:lastmodified":1466650375,
     "wof:name":"Laser Imaging",
     "wof:parent_id":85840077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-76.305754,36.237323,-76.305754,36.237323],
-  "geometry": {"coordinates":[-76.305754,36.237323],"type":"Point"}
+  "bbox": [
+    -76.305754,
+    36.237323,
+    -76.305754,
+    36.237323
+],
+  "geometry": {"coordinates":[-76.30575399999999,36.237323],"type":"Point"}
 }

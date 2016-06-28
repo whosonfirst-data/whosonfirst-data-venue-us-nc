@@ -2,13 +2,14 @@
   "id": 286865115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.315739,35.523803,-78.315739,35.523803",
     "geom:latitude":35.523803,
     "geom:longitude":-78.315739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1652 E Booker Dairy Rd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286865115,
-    "wof:lastmodified":1449017401,
+    "wof:lastmodified":1466651358,
     "wof:name":"Alpha Omega Health Inc",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-78.315739,35.523803,-78.315739,35.523803],
-  "geometry": {"coordinates":[-78.315739,35.523803],"type":"Point"}
+  "bbox": [
+    -78.315739,
+    35.523803,
+    -78.315739,
+    35.523803
+],
+  "geometry": {"coordinates":[-78.31573899999999,35.523803],"type":"Point"}
 }

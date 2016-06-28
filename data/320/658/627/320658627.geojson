@@ -2,13 +2,14 @@
   "id": 320658627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.539544,35.951591,-78.539544,35.951591",
     "geom:latitude":35.951591,
     "geom:longitude":-78.539544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11216 Capital Blvd",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320658627,
-    "wof:lastmodified":1449011185,
+    "wof:lastmodified":1466654674,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":85892179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-78.539544,35.951591,-78.539544,35.951591],
-  "geometry": {"coordinates":[-78.539544,35.951591],"type":"Point"}
+  "bbox": [
+    -78.539544,
+    35.951591,
+    -78.539544,
+    35.951591
+],
+  "geometry": {"coordinates":[-78.53954400000001,35.951591],"type":"Point"}
 }

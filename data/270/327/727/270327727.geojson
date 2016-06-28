@@ -2,13 +2,14 @@
   "id": 270327727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.548865,35.6121,-82.548865,35.6121",
     "geom:latitude":35.6121,
     "geom:longitude":-82.548865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Katherine Pl",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270327727,
-    "wof:lastmodified":1449008828,
+    "wof:lastmodified":1466647216,
     "wof:name":"Natural Floor",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.548865,35.6121,-82.548865,35.6121],
-  "geometry": {"coordinates":[-82.548865,35.6121],"type":"Point"}
+  "bbox": [
+    -82.548865,
+    35.6121,
+    -82.548865,
+    35.6121
+],
+  "geometry": {"coordinates":[-82.54886500000001,35.6121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404085443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.668371,36.411159,-81.668371,36.411159",
     "geom:latitude":36.411159,
     "geom:longitude":-81.668371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Ballou Rd",
     "sg:city":"Elk Park",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404085443,
-    "wof:lastmodified":1449039344,
+    "wof:lastmodified":1466652366,
     "wof:name":"Blue Ridge Cabin Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rental"
     ]
 },
-  "bbox": [-81.668371,36.411159,-81.668371,36.411159],
-  "geometry": {"coordinates":[-81.668371,36.411159],"type":"Point"}
+  "bbox": [
+    -81.668371,
+    36.411159,
+    -81.668371,
+    36.411159
+],
+  "geometry": {"coordinates":[-81.66837099999999,36.411159],"type":"Point"}
 }

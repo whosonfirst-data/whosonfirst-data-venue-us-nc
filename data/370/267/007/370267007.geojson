@@ -2,13 +2,14 @@
   "id": 370267007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.905571,35.718424,-77.905571,35.718424",
     "geom:latitude":35.718424,
     "geom:longitude":-77.905571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Pender St SE",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370267007,
-    "wof:lastmodified":1449032168,
+    "wof:lastmodified":1466649615,
     "wof:name":"Jordan Supermarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.905571,35.718424,-77.905571,35.718424],
-  "geometry": {"coordinates":[-77.905571,35.718424],"type":"Point"}
+  "bbox": [
+    -77.905571,
+    35.718424,
+    -77.905571,
+    35.718424
+],
+  "geometry": {"coordinates":[-77.90557099999999,35.718424],"type":"Point"}
 }

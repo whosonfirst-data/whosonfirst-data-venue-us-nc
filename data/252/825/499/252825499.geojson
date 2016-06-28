@@ -2,13 +2,14 @@
   "id": 252825499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.58366,35.849881,-78.58366,35.849881",
     "geom:latitude":35.849881,
     "geom:longitude":-78.58366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4810 Signet Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252825499,
-    "wof:lastmodified":1449005437,
+    "wof:lastmodified":1466644258,
     "wof:name":"Nc Inspection Ctr",
     "wof:parent_id":85824473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-78.58366,35.849881,-78.58366,35.849881],
-  "geometry": {"coordinates":[-78.58366,35.849881],"type":"Point"}
+  "bbox": [
+    -78.58366,
+    35.849881,
+    -78.58366,
+    35.849881
+],
+  "geometry": {"coordinates":[-78.58365999999999,35.849881],"type":"Point"}
 }

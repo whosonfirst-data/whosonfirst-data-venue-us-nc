@@ -2,13 +2,14 @@
   "id": 370596711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.555467,35.448305,-80.555467,35.448305",
     "geom:latitude":35.448305,
     "geom:longitude":-80.555467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2355 Brickstone Cir",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370596711,
-    "wof:lastmodified":1449030818,
+    "wof:lastmodified":1466653839,
     "wof:name":"Blankenship & Blankenship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.555467,35.448305,-80.555467,35.448305],
-  "geometry": {"coordinates":[-80.555467,35.448305],"type":"Point"}
+  "bbox": [
+    -80.555467,
+    35.448305,
+    -80.555467,
+    35.448305
+],
+  "geometry": {"coordinates":[-80.55546699999999,35.448305],"type":"Point"}
 }

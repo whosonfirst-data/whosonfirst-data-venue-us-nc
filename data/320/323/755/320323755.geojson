@@ -2,13 +2,14 @@
   "id": 320323755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.981817,35.900741,-78.981817,35.900741",
     "geom:latitude":35.900741,
     "geom:longitude":-78.981817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6807 Knotty Pine Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320323755,
-    "wof:lastmodified":1449011565,
+    "wof:lastmodified":1466649821,
     "wof:name":"Barry Associates",
     "wof:parent_id":85818839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-78.981817,35.900741,-78.981817,35.900741],
-  "geometry": {"coordinates":[-78.981817,35.900741],"type":"Point"}
+  "bbox": [
+    -78.981817,
+    35.900741,
+    -78.981817,
+    35.900741
+],
+  "geometry": {"coordinates":[-78.98181700000001,35.900741],"type":"Point"}
 }

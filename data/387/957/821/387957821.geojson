@@ -2,13 +2,14 @@
   "id": 387957821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.775557,35.94205,-77.775557,35.94205",
     "geom:latitude":35.94205,
     "geom:longitude":-77.775557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 N Fairview Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387957821,
-    "wof:lastmodified":1449059358,
+    "wof:lastmodified":1466658116,
     "wof:name":"Army Reserve Office",
     "wof:parent_id":85833373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-77.775557,35.94205,-77.775557,35.94205],
-  "geometry": {"coordinates":[-77.775557,35.94205],"type":"Point"}
+  "bbox": [
+    -77.775557,
+    35.94205,
+    -77.775557,
+    35.94205
+],
+  "geometry": {"coordinates":[-77.77555700000001,35.94205],"type":"Point"}
 }

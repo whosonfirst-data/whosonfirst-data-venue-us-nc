@@ -2,13 +2,14 @@
   "id": 370372443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.007556,35.683921,-82.007556,35.683921",
     "geom:latitude":35.683921,
     "geom:longitude":-82.007556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 S Garden St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370372443,
-    "wof:lastmodified":1449031140,
+    "wof:lastmodified":1466650903,
     "wof:name":"Poole & Assoc Insurance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.007556,35.683921,-82.007556,35.683921],
-  "geometry": {"coordinates":[-82.007556,35.683921],"type":"Point"}
+  "bbox": [
+    -82.007556,
+    35.683921,
+    -82.007556,
+    35.683921
+],
+  "geometry": {"coordinates":[-82.00755599999999,35.683921],"type":"Point"}
 }

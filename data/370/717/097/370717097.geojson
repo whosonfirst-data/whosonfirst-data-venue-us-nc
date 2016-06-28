@@ -2,13 +2,14 @@
   "id": 370717097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.789588,35.72669,-78.789588,35.72669",
     "geom:latitude":35.72669,
     "geom:longitude":-78.789588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Lions Gate Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370717097,
-    "wof:lastmodified":1449029152,
+    "wof:lastmodified":1466655413,
     "wof:name":"Wasco Technical Consulting",
     "wof:parent_id":85891825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-78.789588,35.72669,-78.789588,35.72669],
-  "geometry": {"coordinates":[-78.789588,35.72669],"type":"Point"}
+  "bbox": [
+    -78.789588,
+    35.72669,
+    -78.789588,
+    35.72669
+],
+  "geometry": {"coordinates":[-78.78958799999999,35.72669],"type":"Point"}
 }

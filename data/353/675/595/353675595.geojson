@@ -2,13 +2,14 @@
   "id": 353675595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.35356,35.369545,-77.35356,35.369545",
     "geom:latitude":35.369545,
     "geom:longitude":-77.35356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 Cannon Price Rd",
     "sg:city":"Grifton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353675595,
-    "wof:lastmodified":1449019571,
+    "wof:lastmodified":1466650300,
     "wof:name":"Cannon Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.35356,35.369545,-77.35356,35.369545],
+  "bbox": [
+    -77.35356,
+    35.369545,
+    -77.35356,
+    35.369545
+],
   "geometry": {"coordinates":[-77.35356,35.369545],"type":"Point"}
 }

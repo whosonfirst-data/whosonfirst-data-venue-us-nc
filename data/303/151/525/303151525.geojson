@@ -2,13 +2,14 @@
   "id": 303151525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.646173,35.432403,-80.646173,35.432403",
     "geom:latitude":35.432403,
     "geom:longitude":-80.646173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 Deerfield Dr NW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303151525,
-    "wof:lastmodified":1448998145,
+    "wof:lastmodified":1466645494,
     "wof:name":"Telmex Communications",
     "wof:parent_id":85842735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "prepaid"
     ]
 },
-  "bbox": [-80.646173,35.432403,-80.646173,35.432403],
+  "bbox": [
+    -80.646173,
+    35.432403,
+    -80.646173,
+    35.432403
+],
   "geometry": {"coordinates":[-80.646173,35.432403],"type":"Point"}
 }

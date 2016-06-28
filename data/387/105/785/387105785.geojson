@@ -2,13 +2,14 @@
   "id": 387105785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.719591,36.233295,-80.719591,36.233295",
     "geom:latitude":36.233295,
     "geom:longitude":-80.719591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"463 W Main St",
     "sg:city":"Boonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387105785,
-    "wof:lastmodified":1449057557,
+    "wof:lastmodified":1466651229,
     "wof:name":"William's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-80.719591,36.233295,-80.719591,36.233295],
-  "geometry": {"coordinates":[-80.719591,36.233295],"type":"Point"}
+  "bbox": [
+    -80.719591,
+    36.233295,
+    -80.719591,
+    36.233295
+],
+  "geometry": {"coordinates":[-80.71959099999999,36.233295],"type":"Point"}
 }

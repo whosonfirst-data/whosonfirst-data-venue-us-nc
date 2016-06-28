@@ -2,13 +2,14 @@
   "id": 370958905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.004933,35.953328,-79.004933,35.953328",
     "geom:latitude":35.953328,
     "geom:longitude":-79.004933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Cloister Ct",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370958905,
-    "wof:lastmodified":1449031738,
+    "wof:lastmodified":1466657012,
     "wof:name":"Terrie S Baker Ccsw Lcsw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.004933,35.953328,-79.004933,35.953328],
-  "geometry": {"coordinates":[-79.004933,35.953328],"type":"Point"}
+  "bbox": [
+    -79.004933,
+    35.953328,
+    -79.004933,
+    35.953328
+],
+  "geometry": {"coordinates":[-79.00493299999999,35.953328],"type":"Point"}
 }

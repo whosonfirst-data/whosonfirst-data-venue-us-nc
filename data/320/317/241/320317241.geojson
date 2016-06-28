@@ -2,13 +2,14 @@
   "id": 320317241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.895963,35.993763,-78.895963,35.993763",
     "geom:latitude":35.993763,
     "geom:longitude":-78.895963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Queen St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320317241,
-    "wof:lastmodified":1449012963,
+    "wof:lastmodified":1466649722,
     "wof:name":"Urban Ministries Ctr",
     "wof:parent_id":85877155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.895963,35.993763,-78.895963,35.993763],
-  "geometry": {"coordinates":[-78.895963,35.993763],"type":"Point"}
+  "bbox": [
+    -78.895963,
+    35.993763,
+    -78.895963,
+    35.993763
+],
+  "geometry": {"coordinates":[-78.89596299999999,35.993763],"type":"Point"}
 }

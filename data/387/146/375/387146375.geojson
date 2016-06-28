@@ -2,13 +2,14 @@
   "id": 387146375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.083998,33.906485,-78.083998,33.906485",
     "geom:latitude":33.906485,
     "geom:longitude":-78.083998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Sherrill Ave",
     "sg:city":"Oak Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387146375,
-    "wof:lastmodified":1449057678,
+    "wof:lastmodified":1466651754,
     "wof:name":"Oak Island Services",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.083998,33.906485,-78.083998,33.906485],
-  "geometry": {"coordinates":[-78.083998,33.906485],"type":"Point"}
+  "bbox": [
+    -78.083998,
+    33.906485,
+    -78.083998,
+    33.906485
+],
+  "geometry": {"coordinates":[-78.08399799999999,33.906485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202400677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246946,35.817216,-80.246946,35.817216",
     "geom:latitude":35.817216,
     "geom:longitude":-80.246946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Center St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202400677,
-    "wof:lastmodified":1449060360,
+    "wof:lastmodified":1466654230,
     "wof:name":"Quick Pit Inc",
     "wof:parent_id":85849547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-80.246946,35.817216,-80.246946,35.817216],
-  "geometry": {"coordinates":[-80.246946,35.817216],"type":"Point"}
+  "bbox": [
+    -80.246946,
+    35.817216,
+    -80.246946,
+    35.817216
+],
+  "geometry": {"coordinates":[-80.24694599999999,35.817216],"type":"Point"}
 }

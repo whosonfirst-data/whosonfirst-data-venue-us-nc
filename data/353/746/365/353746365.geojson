@@ -2,13 +2,14 @@
   "id": 353746365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.195321,35.050859,-83.195321,35.050859",
     "geom:latitude":35.050859,
     "geom:longitude":-83.195321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Smallwood Ave",
     "sg:city":"Highlands",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353746365,
-    "wof:lastmodified":1449018231,
+    "wof:lastmodified":1466651153,
     "wof:name":"John R Mayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-83.195321,35.050859,-83.195321,35.050859],
-  "geometry": {"coordinates":[-83.195321,35.050859],"type":"Point"}
+  "bbox": [
+    -83.195321,
+    35.050859,
+    -83.195321,
+    35.050859
+],
+  "geometry": {"coordinates":[-83.19532100000001,35.050859],"type":"Point"}
 }

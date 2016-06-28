@@ -2,13 +2,14 @@
   "id": 320485741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.45304,34.787247,-79.45304,34.787247",
     "geom:latitude":34.787247,
     "geom:longitude":-79.45304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 N Main St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320485741,
-    "wof:lastmodified":1449013525,
+    "wof:lastmodified":1466652152,
     "wof:name":"Mike's Detail Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-79.45304,34.787247,-79.45304,34.787247],
+  "bbox": [
+    -79.45304,
+    34.787247,
+    -79.45304,
+    34.787247
+],
   "geometry": {"coordinates":[-79.45304,34.787247],"type":"Point"}
 }

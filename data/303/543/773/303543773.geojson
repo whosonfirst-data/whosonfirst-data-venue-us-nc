@@ -2,13 +2,14 @@
   "id": 303543773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.911718,35.560246,-80.911718,35.560246",
     "geom:latitude":35.560246,
     "geom:longitude":-80.911718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Easton Dr",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303543773,
-    "wof:lastmodified":1448998591,
+    "wof:lastmodified":1466651147,
     "wof:name":"Jackson Watts Consulting Inc",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-80.911718,35.560246,-80.911718,35.560246],
-  "geometry": {"coordinates":[-80.911718,35.560246],"type":"Point"}
+  "bbox": [
+    -80.911718,
+    35.560246,
+    -80.911718,
+    35.560246
+],
+  "geometry": {"coordinates":[-80.91171799999999,35.560246],"type":"Point"}
 }

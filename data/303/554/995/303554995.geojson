@@ -2,13 +2,14 @@
   "id": 303554995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.477105,36.380201,-80.477105,36.380201",
     "geom:latitude":36.380201,
     "geom:longitude":-80.477105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 S Key St",
     "sg:city":"Pilot Mountain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303554995,
-    "wof:lastmodified":1448998620,
+    "wof:lastmodified":1466651313,
     "wof:name":"Juvenile Justice District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-80.477105,36.380201,-80.477105,36.380201],
-  "geometry": {"coordinates":[-80.477105,36.380201],"type":"Point"}
+  "bbox": [
+    -80.477105,
+    36.380201,
+    -80.477105,
+    36.380201
+],
+  "geometry": {"coordinates":[-80.47710499999999,36.380201],"type":"Point"}
 }

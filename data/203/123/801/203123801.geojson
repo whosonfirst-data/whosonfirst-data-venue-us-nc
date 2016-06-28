@@ -2,13 +2,14 @@
   "id": 203123801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.806276,35.767053,-78.806276,35.767053",
     "geom:latitude":35.767053,
     "geom:longitude":-78.806276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Balmoral Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203123801,
-    "wof:lastmodified":1449025478,
+    "wof:lastmodified":1466654903,
     "wof:name":"Broker Realtor Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.806276,35.767053,-78.806276,35.767053],
+  "bbox": [
+    -78.806276,
+    35.767053,
+    -78.806276,
+    35.767053
+],
   "geometry": {"coordinates":[-78.806276,35.767053],"type":"Point"}
 }

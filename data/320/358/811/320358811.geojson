@@ -2,13 +2,14 @@
   "id": 320358811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.573952,35.638063,-82.573952,35.638063",
     "geom:latitude":35.638063,
     "geom:longitude":-82.573952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Elkmont Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320358811,
-    "wof:lastmodified":1449012828,
+    "wof:lastmodified":1466650329,
     "wof:name":"Scientific Clean Air",
     "wof:parent_id":85868557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.573952,35.638063,-82.573952,35.638063],
-  "geometry": {"coordinates":[-82.573952,35.638063],"type":"Point"}
+  "bbox": [
+    -82.573952,
+    35.638063,
+    -82.573952,
+    35.638063
+],
+  "geometry": {"coordinates":[-82.57395200000001,35.638063],"type":"Point"}
 }

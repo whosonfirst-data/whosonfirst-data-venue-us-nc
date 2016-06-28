@@ -2,13 +2,14 @@
   "id": 404101055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.840159,35.531414,-82.840159,35.531414",
     "geom:latitude":35.531414,
     "geom:longitude":-82.840159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Main St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404101055,
-    "wof:lastmodified":1449039752,
+    "wof:lastmodified":1466652551,
     "wof:name":"Canton Auction",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-82.840159,35.531414,-82.840159,35.531414],
+  "bbox": [
+    -82.840159,
+    35.531414,
+    -82.840159,
+    35.531414
+],
   "geometry": {"coordinates":[-82.840159,35.531414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253641911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.648576,35.790085,-78.648576,35.790085",
     "geom:latitude":35.790085,
     "geom:longitude":-78.648576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Devereux St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253641911,
-    "wof:lastmodified":1449065054,
+    "wof:lastmodified":1466650053,
     "wof:name":"ISC Bioexpress",
     "wof:parent_id":85873453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.648576,35.790085,-78.648576,35.790085],
-  "geometry": {"coordinates":[-78.648576,35.790085],"type":"Point"}
+  "bbox": [
+    -78.648576,
+    35.790085,
+    -78.648576,
+    35.790085
+],
+  "geometry": {"coordinates":[-78.64857600000001,35.790085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370912049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.307674,36.31386,-78.307674,36.31386",
     "geom:latitude":36.31386,
     "geom:longitude":-78.307674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Vintage Ln",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370912049,
-    "wof:lastmodified":1449030753,
+    "wof:lastmodified":1466656974,
     "wof:name":"Vineyard Square Hoa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.307674,36.31386,-78.307674,36.31386],
-  "geometry": {"coordinates":[-78.307674,36.31386],"type":"Point"}
+  "bbox": [
+    -78.307674,
+    36.31386,
+    -78.307674,
+    36.31386
+],
+  "geometry": {"coordinates":[-78.30767400000001,36.31386],"type":"Point"}
 }

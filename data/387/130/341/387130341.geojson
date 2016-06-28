@@ -2,13 +2,14 @@
   "id": 387130341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.239286,36.363027,-77.239286,36.363027",
     "geom:latitude":36.363027,
     "geom:longitude":-77.239286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3173 State Hwy 35",
     "sg:city":"Potecasi",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387130341,
-    "wof:lastmodified":1449057409,
+    "wof:lastmodified":1466651545,
     "wof:name":"M & N Quik Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.239286,36.363027,-77.239286,36.363027],
-  "geometry": {"coordinates":[-77.239286,36.363027],"type":"Point"}
+  "bbox": [
+    -77.239286,
+    36.363027,
+    -77.239286,
+    36.363027
+],
+  "geometry": {"coordinates":[-77.23928600000001,36.363027],"type":"Point"}
 }

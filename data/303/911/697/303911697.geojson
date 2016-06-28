@@ -2,13 +2,14 @@
   "id": 303911697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.570558,35.786566,-82.570558,35.786566",
     "geom:latitude":35.786566,
     "geom:longitude":-82.570558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2559 Lower Gabriels Creek Rd",
     "sg:city":"Mars Hill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303911697,
-    "wof:lastmodified":1449000162,
+    "wof:lastmodified":1466656303,
     "wof:name":"Name One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-82.570558,35.786566,-82.570558,35.786566],
-  "geometry": {"coordinates":[-82.570558,35.786566],"type":"Point"}
+  "bbox": [
+    -82.570558,
+    35.786566,
+    -82.570558,
+    35.786566
+],
+  "geometry": {"coordinates":[-82.57055800000001,35.786566],"type":"Point"}
 }

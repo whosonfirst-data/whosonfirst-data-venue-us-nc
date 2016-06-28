@@ -2,13 +2,14 @@
   "id": 320064607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.451129,36.077667,-79.451129,36.077667",
     "geom:latitude":36.077667,
     "geom:longitude":-79.451129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 S Mebane St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320064607,
-    "wof:lastmodified":1449012585,
+    "wof:lastmodified":1466646222,
     "wof:name":"Triad Property Management",
     "wof:parent_id":85839987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.451129,36.077667,-79.451129,36.077667],
-  "geometry": {"coordinates":[-79.451129,36.077667],"type":"Point"}
+  "bbox": [
+    -79.451129,
+    36.077667,
+    -79.451129,
+    36.077667
+],
+  "geometry": {"coordinates":[-79.45112899999999,36.077667],"type":"Point"}
 }

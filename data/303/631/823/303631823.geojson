@@ -2,13 +2,14 @@
   "id": 303631823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.991582,35.501951,-77.991582,35.501951",
     "geom:latitude":35.501951,
     "geom:longitude":-77.991582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Collingwood Dr",
     "sg:city":"Pikeville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303631823,
-    "wof:lastmodified":1448998872,
+    "wof:lastmodified":1466652431,
     "wof:name":"Atlantic Appliance Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-77.991582,35.501951,-77.991582,35.501951],
-  "geometry": {"coordinates":[-77.991582,35.501951],"type":"Point"}
+  "bbox": [
+    -77.991582,
+    35.501951,
+    -77.991582,
+    35.501951
+],
+  "geometry": {"coordinates":[-77.99158199999999,35.501951],"type":"Point"}
 }

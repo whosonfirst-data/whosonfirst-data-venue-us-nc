@@ -2,13 +2,14 @@
   "id": 404162053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.618023,35.74326,-78.618023,35.74326",
     "geom:latitude":35.74326,
     "geom:longitude":-78.618023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Hazelnut Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404162053,
-    "wof:lastmodified":1449040136,
+    "wof:lastmodified":1466653345,
     "wof:name":"McM Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.618023,35.74326,-78.618023,35.74326],
-  "geometry": {"coordinates":[-78.618023,35.74326],"type":"Point"}
+  "bbox": [
+    -78.618023,
+    35.74326,
+    -78.618023,
+    35.74326
+],
+  "geometry": {"coordinates":[-78.61802299999999,35.74326],"type":"Point"}
 }

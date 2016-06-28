@@ -2,13 +2,14 @@
   "id": 253445965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.829664,34.227698,-77.829664,34.227698",
     "geom:latitude":34.227698,
     "geom:longitude":-77.829664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Eastwood Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253445965,
-    "wof:lastmodified":1449063215,
+    "wof:lastmodified":1466647702,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85830827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.829664,34.227698,-77.829664,34.227698],
-  "geometry": {"coordinates":[-77.829664,34.227698],"type":"Point"}
+  "bbox": [
+    -77.829664,
+    34.227698,
+    -77.829664,
+    34.227698
+],
+  "geometry": {"coordinates":[-77.82966399999999,34.227698],"type":"Point"}
 }

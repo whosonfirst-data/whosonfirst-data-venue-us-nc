@@ -2,13 +2,14 @@
   "id": 303510389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.422333,35.430472,-83.422333,35.430472",
     "geom:latitude":35.430472,
     "geom:longitude":-83.422333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 Main St",
     "sg:city":"Bryson City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303510389,
-    "wof:lastmodified":1448999592,
+    "wof:lastmodified":1466650669,
     "wof:name":"Kirklands Creek Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.422333,35.430472,-83.422333,35.430472],
-  "geometry": {"coordinates":[-83.422333,35.430472],"type":"Point"}
+  "bbox": [
+    -83.422333,
+    35.430472,
+    -83.422333,
+    35.430472
+],
+  "geometry": {"coordinates":[-83.42233299999999,35.430472],"type":"Point"}
 }

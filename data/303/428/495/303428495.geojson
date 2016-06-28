@@ -2,13 +2,14 @@
   "id": 303428495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.550317,34.980552,-80.550317,34.980552",
     "geom:latitude":34.980552,
     "geom:longitude":-80.550317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 S Main St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303428495,
-    "wof:lastmodified":1449000400,
+    "wof:lastmodified":1466649483,
     "wof:name":"Wes Distributing",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-80.550317,34.980552,-80.550317,34.980552],
-  "geometry": {"coordinates":[-80.550317,34.980552],"type":"Point"}
+  "bbox": [
+    -80.550317,
+    34.980552,
+    -80.550317,
+    34.980552
+],
+  "geometry": {"coordinates":[-80.55031700000001,34.980552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370653117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.815796,35.210892,-80.815796,35.210892",
     "geom:latitude":35.210892,
     "geom:longitude":-80.815796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2123 E 7th St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370653117,
-    "wof:lastmodified":1449029328,
+    "wof:lastmodified":1466654574,
     "wof:name":"Studio A",
     "wof:parent_id":85817775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.815796,35.210892,-80.815796,35.210892],
-  "geometry": {"coordinates":[-80.815796,35.210892],"type":"Point"}
+  "bbox": [
+    -80.815796,
+    35.210892,
+    -80.815796,
+    35.210892
+],
+  "geometry": {"coordinates":[-80.81579600000001,35.210892],"type":"Point"}
 }

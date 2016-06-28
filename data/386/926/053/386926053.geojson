@@ -2,13 +2,14 @@
   "id": 386926053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.926032,35.179568,-80.926032,35.179568",
     "geom:latitude":35.179568,
     "geom:longitude":-80.926032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Cross Beam Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":386926053,
-    "wof:lastmodified":1449028736,
+    "wof:lastmodified":1466649333,
     "wof:name":"St Marks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.926032,35.179568,-80.926032,35.179568],
-  "geometry": {"coordinates":[-80.926032,35.179568],"type":"Point"}
+  "bbox": [
+    -80.926032,
+    35.179568,
+    -80.926032,
+    35.179568
+],
+  "geometry": {"coordinates":[-80.92603200000001,35.179568],"type":"Point"}
 }

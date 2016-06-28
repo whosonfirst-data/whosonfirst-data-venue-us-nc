@@ -2,13 +2,14 @@
   "id": 370478219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.819605,35.722385,-79.819605,35.722385",
     "geom:latitude":35.722385,
     "geom:longitude":-79.819605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Heather Ct",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370478219,
-    "wof:lastmodified":1449029179,
+    "wof:lastmodified":1466652279,
     "wof:name":"Quick-Writer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-79.819605,35.722385,-79.819605,35.722385],
+  "bbox": [
+    -79.819605,
+    35.722385,
+    -79.819605,
+    35.722385
+],
   "geometry": {"coordinates":[-79.819605,35.722385],"type":"Point"}
 }

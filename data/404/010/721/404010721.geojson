@@ -2,13 +2,14 @@
   "id": 404010721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.61546,34.630202,-78.61546,34.630202",
     "geom:latitude":34.630202,
     "geom:longitude":-78.61546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 W King St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404010721,
-    "wof:lastmodified":1449039860,
+    "wof:lastmodified":1466651440,
     "wof:name":"Bladen County Recreation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-78.61546,34.630202,-78.61546,34.630202],
+  "bbox": [
+    -78.61546,
+    34.630202,
+    -78.61546,
+    34.630202
+],
   "geometry": {"coordinates":[-78.61546,34.630202],"type":"Point"}
 }

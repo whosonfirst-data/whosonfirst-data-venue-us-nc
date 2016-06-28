@@ -2,13 +2,14 @@
   "id": 303800299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.553203,35.621383,-82.553203,35.621383",
     "geom:latitude":35.621383,
     "geom:longitude":-82.553203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Long St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303800299,
-    "wof:lastmodified":1448998312,
+    "wof:lastmodified":1466654865,
     "wof:name":"Rose Consulting",
     "wof:parent_id":85859101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-82.553203,35.621383,-82.553203,35.621383],
+  "bbox": [
+    -82.553203,
+    35.621383,
+    -82.553203,
+    35.621383
+],
   "geometry": {"coordinates":[-82.553203,35.621383],"type":"Point"}
 }

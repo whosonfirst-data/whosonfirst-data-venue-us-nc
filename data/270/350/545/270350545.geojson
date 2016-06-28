@@ -2,13 +2,14 @@
   "id": 270350545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.988244,35.502098,-82.988244,35.502098",
     "geom:latitude":35.502098,
     "geom:longitude":-82.988244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Howell Mill Rd",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270350545,
-    "wof:lastmodified":1449009879,
+    "wof:lastmodified":1466647510,
     "wof:name":"Maggie's Galley Oyster Bar",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.988244,35.502098,-82.988244,35.502098],
-  "geometry": {"coordinates":[-82.988244,35.502098],"type":"Point"}
+  "bbox": [
+    -82.988244,
+    35.502098,
+    -82.988244,
+    35.502098
+],
+  "geometry": {"coordinates":[-82.98824399999999,35.502098],"type":"Point"}
 }

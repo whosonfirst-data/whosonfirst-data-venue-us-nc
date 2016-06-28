@@ -2,13 +2,14 @@
   "id": 387835843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.608853,35.443301,-80.608853,35.443301",
     "geom:latitude":35.443301,
     "geom:longitude":-80.608853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1567 Concord Pkwy N",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387835843,
-    "wof:lastmodified":1449056644,
+    "wof:lastmodified":1466657846,
     "wof:name":"B T Cleaners",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.608853,35.443301,-80.608853,35.443301],
+  "bbox": [
+    -80.608853,
+    35.443301,
+    -80.608853,
+    35.443301
+],
   "geometry": {"coordinates":[-80.608853,35.443301],"type":"Point"}
 }

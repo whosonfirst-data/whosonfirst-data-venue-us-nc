@@ -2,13 +2,14 @@
   "id": 269870331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.650134,35.352398,-80.650134,35.352398",
     "geom:latitude":35.352398,
     "geom:longitude":-80.650134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Double Eagle St SW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269870331,
-    "wof:lastmodified":1449036789,
+    "wof:lastmodified":1466647741,
     "wof:name":"Leading Edge",
     "wof:parent_id":85845223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-80.650134,35.352398,-80.650134,35.352398],
-  "geometry": {"coordinates":[-80.650134,35.352398],"type":"Point"}
+  "bbox": [
+    -80.650134,
+    35.352398,
+    -80.650134,
+    35.352398
+],
+  "geometry": {"coordinates":[-80.65013399999999,35.352398],"type":"Point"}
 }

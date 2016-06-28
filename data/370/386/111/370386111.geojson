@@ -2,13 +2,14 @@
   "id": 370386111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.407708,35.166959,-83.407708,35.166959",
     "geom:latitude":35.166959,
     "geom:longitude":-83.407708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Sloan Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370386111,
-    "wof:lastmodified":1449030858,
+    "wof:lastmodified":1466651086,
     "wof:name":"Casual Consignments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-83.407708,35.166959,-83.407708,35.166959],
+  "bbox": [
+    -83.407708,
+    35.166959,
+    -83.407708,
+    35.166959
+],
   "geometry": {"coordinates":[-83.407708,35.166959],"type":"Point"}
 }

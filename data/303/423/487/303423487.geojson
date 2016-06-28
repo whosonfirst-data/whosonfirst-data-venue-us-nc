@@ -2,13 +2,14 @@
   "id": 303423487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.540188,35.290463,-81.540188,35.290463",
     "geom:latitude":35.290463,
     "geom:longitude":-81.540188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 S Lafayette St",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303423487,
-    "wof:lastmodified":1448998521,
+    "wof:lastmodified":1466649414,
     "wof:name":"Joe's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.540188,35.290463,-81.540188,35.290463],
+  "bbox": [
+    -81.540188,
+    35.290463,
+    -81.540188,
+    35.290463
+],
   "geometry": {"coordinates":[-81.540188,35.290463],"type":"Point"}
 }

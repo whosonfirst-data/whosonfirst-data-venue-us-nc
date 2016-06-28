@@ -2,13 +2,14 @@
   "id": 235991553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.080183,35.295196,-79.080183,35.295196",
     "geom:latitude":35.295196,
     "geom:longitude":-79.080183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"985 State Hwy 87 S",
     "sg:city":"Cameron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235991553,
-    "wof:lastmodified":1449008358,
+    "wof:lastmodified":1466643726,
     "wof:name":"Benhaven Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.080183,35.295196,-79.080183,35.295196],
-  "geometry": {"coordinates":[-79.080183,35.295196],"type":"Point"}
+  "bbox": [
+    -79.080183,
+    35.295196,
+    -79.080183,
+    35.295196
+],
+  "geometry": {"coordinates":[-79.08018300000001,35.295196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370559561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.755862,34.535372,-78.755862,34.535372",
     "geom:latitude":34.535372,
     "geom:longitude":-78.755862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4336 Burney Rd",
     "sg:city":"Bladenboro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370559561,
-    "wof:lastmodified":1449031742,
+    "wof:lastmodified":1466653351,
     "wof:name":"Wintergreen Hunting Preserve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hunting"
     ]
 },
-  "bbox": [-78.755862,34.535372,-78.755862,34.535372],
-  "geometry": {"coordinates":[-78.755862,34.535372],"type":"Point"}
+  "bbox": [
+    -78.755862,
+    34.535372,
+    -78.755862,
+    34.535372
+],
+  "geometry": {"coordinates":[-78.75586199999999,34.535372],"type":"Point"}
 }

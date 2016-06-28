@@ -2,13 +2,14 @@
   "id": 404019485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.830266,35.053382,-80.830266,35.053382",
     "geom:latitude":35.053382,
     "geom:longitude":-80.830266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9330 Whispering Wind Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404019485,
-    "wof:lastmodified":1449039821,
+    "wof:lastmodified":1466651549,
     "wof:name":"Emerging Art",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-80.830266,35.053382,-80.830266,35.053382],
-  "geometry": {"coordinates":[-80.830266,35.053382],"type":"Point"}
+  "bbox": [
+    -80.830266,
+    35.053382,
+    -80.830266,
+    35.053382
+],
+  "geometry": {"coordinates":[-80.83026599999999,35.053382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370782213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.608888,36.502895,-80.608888,36.502895",
     "geom:latitude":36.502895,
     "geom:longitude":-80.608888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 N Main St",
     "sg:city":"Mount Airy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370782213,
-    "wof:lastmodified":1449029049,
+    "wof:lastmodified":1466656028,
     "wof:name":"H & R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-80.608888,36.502895,-80.608888,36.502895],
-  "geometry": {"coordinates":[-80.608888,36.502895],"type":"Point"}
+  "bbox": [
+    -80.608888,
+    36.502895,
+    -80.608888,
+    36.502895
+],
+  "geometry": {"coordinates":[-80.60888799999999,36.502895],"type":"Point"}
 }

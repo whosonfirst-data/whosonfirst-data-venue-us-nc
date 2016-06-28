@@ -2,13 +2,14 @@
   "id": 320665031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.333385,34.770395,-77.333385,34.770395",
     "geom:latitude":34.770395,
     "geom:longitude":-77.333385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Penguin Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320665031,
-    "wof:lastmodified":1449012409,
+    "wof:lastmodified":1466654763,
     "wof:name":"Sanders Service Co",
     "wof:parent_id":85834913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-77.333385,34.770395,-77.333385,34.770395],
-  "geometry": {"coordinates":[-77.333385,34.770395],"type":"Point"}
+  "bbox": [
+    -77.333385,
+    34.770395,
+    -77.333385,
+    34.770395
+],
+  "geometry": {"coordinates":[-77.33338500000001,34.770395],"type":"Point"}
 }

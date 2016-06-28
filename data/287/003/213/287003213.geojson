@@ -2,13 +2,14 @@
   "id": 287003213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951539,36.237159,-79.951539,36.237159",
     "geom:latitude":36.237159,
     "geom:longitude":-79.951539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7220 US Hwy 158",
     "sg:city":"Stokesdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287003213,
-    "wof:lastmodified":1449001513,
+    "wof:lastmodified":1466643261,
     "wof:name":"Triangle Warehouse",
     "wof:parent_id":85877983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-79.951539,36.237159,-79.951539,36.237159],
+  "bbox": [
+    -79.951539,
+    36.237159,
+    -79.951539,
+    36.237159
+],
   "geometry": {"coordinates":[-79.951539,36.237159],"type":"Point"}
 }

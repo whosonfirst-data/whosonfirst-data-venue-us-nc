@@ -2,13 +2,14 @@
   "id": 370220383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.873669,34.244616,-77.873669,34.244616",
     "geom:latitude":34.244616,
     "geom:longitude":-77.873669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Vann Campen Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370220383,
-    "wof:lastmodified":1449032352,
+    "wof:lastmodified":1466649023,
     "wof:name":"Courtyard-Wilmington",
     "wof:parent_id":85811739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.873669,34.244616,-77.873669,34.244616],
-  "geometry": {"coordinates":[-77.873669,34.244616],"type":"Point"}
+  "bbox": [
+    -77.873669,
+    34.244616,
+    -77.873669,
+    34.244616
+],
+  "geometry": {"coordinates":[-77.87366900000001,34.244616],"type":"Point"}
 }

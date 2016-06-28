@@ -2,13 +2,14 @@
   "id": 303396915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.07945,34.463007,-79.07945,34.463007",
     "geom:latitude":34.463007,
     "geom:longitude":-79.07945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Leggett Rd",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303396915,
-    "wof:lastmodified":1448999725,
+    "wof:lastmodified":1466649028,
     "wof:name":"G & B Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "machinery"
     ]
 },
-  "bbox": [-79.07945,34.463007,-79.07945,34.463007],
-  "geometry": {"coordinates":[-79.07945,34.463007],"type":"Point"}
+  "bbox": [
+    -79.07945,
+    34.463007,
+    -79.07945,
+    34.463007
+],
+  "geometry": {"coordinates":[-79.07944999999999,34.463007],"type":"Point"}
 }

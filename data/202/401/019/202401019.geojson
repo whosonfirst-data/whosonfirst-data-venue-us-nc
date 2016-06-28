@@ -2,13 +2,14 @@
   "id": 202401019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.999767,34.6601,-78.999767,34.6601",
     "geom:latitude":34.6601,
     "geom:longitude":-78.999767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Oakridge Blvd",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202401019,
-    "wof:lastmodified":1449062285,
+    "wof:lastmodified":1466654232,
     "wof:name":"Edward V Hickman DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-78.999767,34.6601,-78.999767,34.6601],
-  "geometry": {"coordinates":[-78.999767,34.6601],"type":"Point"}
+  "bbox": [
+    -78.999767,
+    34.6601,
+    -78.999767,
+    34.6601
+],
+  "geometry": {"coordinates":[-78.99976700000001,34.6601],"type":"Point"}
 }

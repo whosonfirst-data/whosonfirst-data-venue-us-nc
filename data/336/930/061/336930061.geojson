@@ -2,13 +2,14 @@
   "id": 336930061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.110547,36.109005,-79.110547,36.109005",
     "geom:latitude":36.109005,
     "geom:longitude":-79.110547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 N State Hwy 86",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336930061,
-    "wof:lastmodified":1448997285,
+    "wof:lastmodified":1466650875,
     "wof:name":"Major Business Systems Inc",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.110547,36.109005,-79.110547,36.109005],
+  "bbox": [
+    -79.110547,
+    36.109005,
+    -79.110547,
+    36.109005
+],
   "geometry": {"coordinates":[-79.110547,36.109005],"type":"Point"}
 }

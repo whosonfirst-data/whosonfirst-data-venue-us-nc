@@ -2,13 +2,14 @@
   "id": 269561101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.801777,35.162949,-80.801777,35.162949",
     "geom:latitude":35.162949,
     "geom:longitude":-80.801777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 Cavendish Ct",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269561101,
-    "wof:lastmodified":1449037883,
+    "wof:lastmodified":1466644094,
     "wof:name":"Daniel Crowley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-80.801777,35.162949,-80.801777,35.162949],
+  "bbox": [
+    -80.801777,
+    35.162949,
+    -80.801777,
+    35.162949
+],
   "geometry": {"coordinates":[-80.801777,35.162949],"type":"Point"}
 }

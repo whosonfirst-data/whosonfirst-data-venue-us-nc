@@ -2,13 +2,14 @@
   "id": 270035693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.99884,35.486444,-82.99884,35.486444",
     "geom:latitude":35.486444,
     "geom:longitude":-82.99884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 Brown Ave",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270035693,
-    "wof:lastmodified":1449010592,
+    "wof:lastmodified":1466643607,
     "wof:name":"Waynesville Parks & Recreation",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-82.99884,35.486444,-82.99884,35.486444],
+  "bbox": [
+    -82.99884,
+    35.486444,
+    -82.99884,
+    35.486444
+],
   "geometry": {"coordinates":[-82.99884,35.486444],"type":"Point"}
 }

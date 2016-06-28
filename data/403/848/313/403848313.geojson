@@ -2,13 +2,14 @@
   "id": 403848313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.512571,36.141793,-80.512571,36.141793",
     "geom:latitude":36.141793,
     "geom:longitude":-80.512571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4113 Cornelius Rd",
     "sg:city":"East Bend",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403848313,
-    "wof:lastmodified":1449054810,
+    "wof:lastmodified":1466652250,
     "wof:name":"Freddie Doub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-80.512571,36.141793,-80.512571,36.141793],
-  "geometry": {"coordinates":[-80.512571,36.141793],"type":"Point"}
+  "bbox": [
+    -80.512571,
+    36.141793,
+    -80.512571,
+    36.141793
+],
+  "geometry": {"coordinates":[-80.51257099999999,36.141793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236790267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.448896,34.752071,-77.448896,34.752071",
     "geom:latitude":34.752071,
     "geom:longitude":-77.448896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Wilmington Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236790267,
-    "wof:lastmodified":1449004323,
+    "wof:lastmodified":1466650333,
     "wof:name":"Jacksonville Veterinary Hosp",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-77.448896,34.752071,-77.448896,34.752071],
+  "bbox": [
+    -77.448896,
+    34.752071,
+    -77.448896,
+    34.752071
+],
   "geometry": {"coordinates":[-77.448896,34.752071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387144703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.014716,34.686308,-79.014716,34.686308",
     "geom:latitude":34.686308,
     "geom:longitude":-79.014716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Arbor Ln",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387144703,
-    "wof:lastmodified":1449058893,
+    "wof:lastmodified":1466651733,
     "wof:name":"Walters Convenient Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.014716,34.686308,-79.014716,34.686308],
-  "geometry": {"coordinates":[-79.014716,34.686308],"type":"Point"}
+  "bbox": [
+    -79.014716,
+    34.686308,
+    -79.014716,
+    34.686308
+],
+  "geometry": {"coordinates":[-79.01471600000001,34.686308],"type":"Point"}
 }

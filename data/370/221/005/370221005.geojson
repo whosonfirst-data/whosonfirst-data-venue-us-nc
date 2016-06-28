@@ -2,13 +2,14 @@
   "id": 370221005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.961452,36.516014,-77.961452,36.516014",
     "geom:latitude":36.516014,
     "geom:longitude":-77.961452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1881 Eaton Ferry Rd",
     "sg:city":"Littleton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370221005,
-    "wof:lastmodified":1449030585,
+    "wof:lastmodified":1466649030,
     "wof:name":"Lakeview Log Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cabin"
     ]
 },
-  "bbox": [-77.961452,36.516014,-77.961452,36.516014],
-  "geometry": {"coordinates":[-77.961452,36.516014],"type":"Point"}
+  "bbox": [
+    -77.961452,
+    36.516014,
+    -77.961452,
+    36.516014
+],
+  "geometry": {"coordinates":[-77.96145199999999,36.516014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270192989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.659703,35.327987,-78.659703,35.327987",
     "geom:latitude":35.327987,
     "geom:longitude":-78.659703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 E Jackson Blvd",
     "sg:city":"Erwin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270192989,
-    "wof:lastmodified":1449010383,
+    "wof:lastmodified":1466645539,
     "wof:name":"Cottle Farms Inc",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.659703,35.327987,-78.659703,35.327987],
-  "geometry": {"coordinates":[-78.659703,35.327987],"type":"Point"}
+  "bbox": [
+    -78.659703,
+    35.327987,
+    -78.659703,
+    35.327987
+],
+  "geometry": {"coordinates":[-78.65970299999999,35.327987],"type":"Point"}
 }

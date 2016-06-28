@@ -2,13 +2,14 @@
   "id": 404150107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.820304,35.702351,-79.820304,35.702351",
     "geom:latitude":35.702351,
     "geom:longitude":-79.820304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 W Wainman Ave",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":404150107,
-    "wof:lastmodified":1449039103,
+    "wof:lastmodified":1466653189,
     "wof:name":"Asheboro Housing Auth Section",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "housing"
     ]
 },
-  "bbox": [-79.820304,35.702351,-79.820304,35.702351],
-  "geometry": {"coordinates":[-79.820304,35.702351],"type":"Point"}
+  "bbox": [
+    -79.820304,
+    35.702351,
+    -79.820304,
+    35.702351
+],
+  "geometry": {"coordinates":[-79.82030399999999,35.702351],"type":"Point"}
 }

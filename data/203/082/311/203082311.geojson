@@ -2,13 +2,14 @@
   "id": 203082311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.479047,35.798957,-78.479047,35.798957",
     "geom:latitude":35.798957,
     "geom:longitude":-78.479047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7419 US Hwy 64 E",
     "sg:city":"Knightdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203082311,
-    "wof:lastmodified":1449024998,
+    "wof:lastmodified":1466654718,
     "wof:name":"Sunshine Seniors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-78.479047,35.798957,-78.479047,35.798957],
-  "geometry": {"coordinates":[-78.479047,35.798957],"type":"Point"}
+  "bbox": [
+    -78.479047,
+    35.798957,
+    -78.479047,
+    35.798957
+],
+  "geometry": {"coordinates":[-78.47904699999999,35.798957],"type":"Point"}
 }

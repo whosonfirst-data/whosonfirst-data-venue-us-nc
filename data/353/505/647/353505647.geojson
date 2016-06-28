@@ -2,13 +2,14 @@
   "id": 353505647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.200115,35.25235,-81.200115,35.25235",
     "geom:latitude":35.25235,
     "geom:longitude":-81.200115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 W Ashton Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353505647,
-    "wof:lastmodified":1449020403,
+    "wof:lastmodified":1466648223,
     "wof:name":"Rhyne Grocery Store",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.200115,35.25235,-81.200115,35.25235],
+  "bbox": [
+    -81.200115,
+    35.25235,
+    -81.200115,
+    35.25235
+],
   "geometry": {"coordinates":[-81.200115,35.25235],"type":"Point"}
 }

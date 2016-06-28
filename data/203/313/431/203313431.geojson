@@ -2,13 +2,14 @@
   "id": 203313431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.802251,35.187688,-80.802251,35.187688",
     "geom:latitude":35.187688,
     "geom:longitude":-80.802251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4033 Churchill Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203313431,
-    "wof:lastmodified":1449025007,
+    "wof:lastmodified":1466643337,
     "wof:name":"Soundpost LLC",
     "wof:parent_id":85812387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-80.802251,35.187688,-80.802251,35.187688],
+  "bbox": [
+    -80.802251,
+    35.187688,
+    -80.802251,
+    35.187688
+],
   "geometry": {"coordinates":[-80.802251,35.187688],"type":"Point"}
 }

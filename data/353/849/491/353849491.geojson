@@ -2,13 +2,14 @@
   "id": 353849491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.915243,35.38052,-77.915243,35.38052",
     "geom:latitude":35.38052,
     "geom:longitude":-77.915243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Sanborn Ln",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353849491,
-    "wof:lastmodified":1449018718,
+    "wof:lastmodified":1466652319,
     "wof:name":"Auto Express",
     "wof:parent_id":85843871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-77.915243,35.38052,-77.915243,35.38052],
+  "bbox": [
+    -77.915243,
+    35.38052,
+    -77.915243,
+    35.38052
+],
   "geometry": {"coordinates":[-77.915243,35.38052],"type":"Point"}
 }

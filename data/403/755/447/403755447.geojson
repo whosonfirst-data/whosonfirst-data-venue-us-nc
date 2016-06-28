@@ -2,13 +2,14 @@
   "id": 403755447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.661803,35.861331,-78.661803,35.861331",
     "geom:latitude":35.861331,
     "geom:longitude":-78.661803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6215 Lookout Loop",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403755447,
-    "wof:lastmodified":1449055015,
+    "wof:lastmodified":1466651008,
     "wof:name":"Lizari Apparel Inc",
     "wof:parent_id":85807097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.661803,35.861331,-78.661803,35.861331],
-  "geometry": {"coordinates":[-78.661803,35.861331],"type":"Point"}
+  "bbox": [
+    -78.661803,
+    35.861331,
+    -78.661803,
+    35.861331
+],
+  "geometry": {"coordinates":[-78.66180300000001,35.861331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253387995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.667189,36.360425,-79.667189,36.360425",
     "geom:latitude":36.360425,
     "geom:longitude":-79.667189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Gilmer St",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253387995,
-    "wof:lastmodified":1449065376,
+    "wof:lastmodified":1466647021,
     "wof:name":"Rockingham Gastroenterology",
     "wof:parent_id":85858481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.667189,36.360425,-79.667189,36.360425],
-  "geometry": {"coordinates":[-79.667189,36.360425],"type":"Point"}
+  "bbox": [
+    -79.667189,
+    36.360425,
+    -79.667189,
+    36.360425
+],
+  "geometry": {"coordinates":[-79.66718899999999,36.360425],"type":"Point"}
 }

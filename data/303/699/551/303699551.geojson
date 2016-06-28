@@ -2,13 +2,14 @@
   "id": 303699551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.375519,35.728508,-81.375519,35.728508",
     "geom:latitude":35.728508,
     "geom:longitude":-81.375519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 21st St SW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303699551,
-    "wof:lastmodified":1448998452,
+    "wof:lastmodified":1466653409,
     "wof:name":"Longview Waste Water Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.375519,35.728508,-81.375519,35.728508],
+  "bbox": [
+    -81.375519,
+    35.728508,
+    -81.375519,
+    35.728508
+],
   "geometry": {"coordinates":[-81.375519,35.728508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386978953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.183912,33.921512,-78.183912,33.921512",
     "geom:latitude":33.921512,
     "geom:longitude":-78.183912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 SW 23rd St",
     "sg:city":"Oak Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386978953,
-    "wof:lastmodified":1449028803,
+    "wof:lastmodified":1466650044,
     "wof:name":"Us Coastal Leasing Inc",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-78.183912,33.921512,-78.183912,33.921512],
-  "geometry": {"coordinates":[-78.183912,33.921512],"type":"Point"}
+  "bbox": [
+    -78.183912,
+    33.921512,
+    -78.183912,
+    33.921512
+],
+  "geometry": {"coordinates":[-78.18391200000001,33.921512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270238481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.798169,35.300943,-80.798169,35.300943",
     "geom:latitude":35.300943,
     "geom:longitude":-80.798169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 Forest Pond Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270238481,
-    "wof:lastmodified":1449009552,
+    "wof:lastmodified":1466646062,
     "wof:name":"VIP Homes Properties",
     "wof:parent_id":85802775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.798169,35.300943,-80.798169,35.300943],
+  "bbox": [
+    -80.798169,
+    35.300943,
+    -80.798169,
+    35.300943
+],
   "geometry": {"coordinates":[-80.798169,35.300943],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303553841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.896325,34.219391,-77.896325,34.219391",
     "geom:latitude":34.219391,
     "geom:longitude":-77.896325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3803 Wrightsville Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303553841,
-    "wof:lastmodified":1448998129,
+    "wof:lastmodified":1466651293,
     "wof:name":"Robbins & Fisscher CPA",
     "wof:parent_id":85830591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-77.896325,34.219391,-77.896325,34.219391],
+  "bbox": [
+    -77.896325,
+    34.219391,
+    -77.896325,
+    34.219391
+],
   "geometry": {"coordinates":[-77.896325,34.219391],"type":"Point"}
 }

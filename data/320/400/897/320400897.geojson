@@ -2,13 +2,14 @@
   "id": 320400897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.836289,34.746961,-76.836289,34.746961",
     "geom:latitude":34.746961,
     "geom:longitude":-76.836289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 McCabe Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320400897,
-    "wof:lastmodified":1449011603,
+    "wof:lastmodified":1466650935,
     "wof:name":"Douglas Bridgers",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.836289,34.746961,-76.836289,34.746961],
-  "geometry": {"coordinates":[-76.836289,34.746961],"type":"Point"}
+  "bbox": [
+    -76.836289,
+    34.746961,
+    -76.836289,
+    34.746961
+],
+  "geometry": {"coordinates":[-76.83628899999999,34.746961],"type":"Point"}
 }

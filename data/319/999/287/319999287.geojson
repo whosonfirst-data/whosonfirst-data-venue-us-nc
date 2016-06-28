@@ -2,13 +2,14 @@
   "id": 319999287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.805557,34.213797,-77.805557,34.213797",
     "geom:latitude":34.213797,
     "geom:longitude":-77.805557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Causeway Dr",
     "sg:city":"Wrightsville Bch",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":319999287,
-    "wof:lastmodified":1449024790,
+    "wof:lastmodified":1466647456,
     "wof:name":"Matrix Consultants Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "consultant"
     ]
 },
-  "bbox": [-77.805557,34.213797,-77.805557,34.213797],
-  "geometry": {"coordinates":[-77.805557,34.213797],"type":"Point"}
+  "bbox": [
+    -77.805557,
+    34.213797,
+    -77.805557,
+    34.213797
+],
+  "geometry": {"coordinates":[-77.80555699999999,34.213797],"type":"Point"}
 }

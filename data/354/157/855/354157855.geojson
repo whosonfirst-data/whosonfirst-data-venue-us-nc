@@ -2,13 +2,14 @@
   "id": 354157855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.516669,35.920559,-78.516669,35.920559",
     "geom:latitude":35.920559,
     "geom:longitude":-78.516669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 Buck Run Trl",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354157855,
-    "wof:lastmodified":1449067421,
+    "wof:lastmodified":1466649380,
     "wof:name":"Inspections In Alert Home",
     "wof:parent_id":85892171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.516669,35.920559,-78.516669,35.920559],
-  "geometry": {"coordinates":[-78.516669,35.920559],"type":"Point"}
+  "bbox": [
+    -78.516669,
+    35.920559,
+    -78.516669,
+    35.920559
+],
+  "geometry": {"coordinates":[-78.51666899999999,35.920559],"type":"Point"}
 }

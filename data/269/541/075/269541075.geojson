@@ -2,13 +2,14 @@
   "id": 269541075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.721663,35.788839,-78.721663,35.788839",
     "geom:latitude":35.788839,
     "geom:longitude":-78.721663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5706 Chapel Hill Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269541075,
-    "wof:lastmodified":1449036409,
+    "wof:lastmodified":1466643873,
     "wof:name":"BRT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-78.721663,35.788839,-78.721663,35.788839],
-  "geometry": {"coordinates":[-78.721663,35.788839],"type":"Point"}
+  "bbox": [
+    -78.721663,
+    35.788839,
+    -78.721663,
+    35.788839
+],
+  "geometry": {"coordinates":[-78.72166300000001,35.788839],"type":"Point"}
 }

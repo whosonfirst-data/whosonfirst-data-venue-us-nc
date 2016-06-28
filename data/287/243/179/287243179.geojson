@@ -2,13 +2,14 @@
   "id": 287243179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530397,35.57224,-82.530397,35.57224",
     "geom:latitude":35.57224,
     "geom:longitude":-82.530397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Swannanoa River Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287243179,
-    "wof:lastmodified":1449000947,
+    "wof:lastmodified":1466646699,
     "wof:name":"NYBE Inspections",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspection"
     ]
 },
-  "bbox": [-82.530397,35.57224,-82.530397,35.57224],
-  "geometry": {"coordinates":[-82.530397,35.57224],"type":"Point"}
+  "bbox": [
+    -82.530397,
+    35.57224,
+    -82.530397,
+    35.57224
+],
+  "geometry": {"coordinates":[-82.53039699999999,35.57224],"type":"Point"}
 }

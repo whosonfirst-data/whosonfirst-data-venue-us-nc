@@ -2,13 +2,14 @@
   "id": 403774627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.064821,35.911048,-79.064821,35.911048",
     "geom:latitude":35.911048,
     "geom:longitude":-79.064821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Graham St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403774627,
-    "wof:lastmodified":1449055153,
+    "wof:lastmodified":1466651250,
     "wof:name":"Identity Books",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-79.064821,35.911048,-79.064821,35.911048],
-  "geometry": {"coordinates":[-79.064821,35.911048],"type":"Point"}
+  "bbox": [
+    -79.064821,
+    35.911048,
+    -79.064821,
+    35.911048
+],
+  "geometry": {"coordinates":[-79.06482099999999,35.911048],"type":"Point"}
 }

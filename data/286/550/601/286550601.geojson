@@ -2,13 +2,14 @@
   "id": 286550601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.087707,36.414469,-79.087707,36.414469",
     "geom:latitude":36.414469,
     "geom:longitude":-79.087707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 John Brewer Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286550601,
-    "wof:lastmodified":1449016773,
+    "wof:lastmodified":1466647050,
     "wof:name":"Emerys Trucking",
     "wof:parent_id":85808801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.087707,36.414469,-79.087707,36.414469],
-  "geometry": {"coordinates":[-79.087707,36.414469],"type":"Point"}
+  "bbox": [
+    -79.087707,
+    36.414469,
+    -79.087707,
+    36.414469
+],
+  "geometry": {"coordinates":[-79.08770699999999,36.414469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253035379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.359445,35.74162,-81.359445,35.74162",
     "geom:latitude":35.74162,
     "geom:longitude":-81.359445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"588 11th St NW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253035379,
-    "wof:lastmodified":1449065198,
+    "wof:lastmodified":1466643503,
     "wof:name":"North Carolina Title Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-81.359445,35.74162,-81.359445,35.74162],
-  "geometry": {"coordinates":[-81.359445,35.74162],"type":"Point"}
+  "bbox": [
+    -81.359445,
+    35.74162,
+    -81.359445,
+    35.74162
+],
+  "geometry": {"coordinates":[-81.35944499999999,35.74162],"type":"Point"}
 }

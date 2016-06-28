@@ -2,13 +2,14 @@
   "id": 320445055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.308039,35.921386,-82.308039,35.921386",
     "geom:latitude":35.921386,
     "geom:longitude":-82.308039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Laurel St",
     "sg:city":"Burnsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320445055,
-    "wof:lastmodified":1449011749,
+    "wof:lastmodified":1466651574,
     "wof:name":"Burnsville Guttering & Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gutter"
     ]
 },
-  "bbox": [-82.308039,35.921386,-82.308039,35.921386],
-  "geometry": {"coordinates":[-82.308039,35.921386],"type":"Point"}
+  "bbox": [
+    -82.308039,
+    35.921386,
+    -82.308039,
+    35.921386
+],
+  "geometry": {"coordinates":[-82.30803899999999,35.921386],"type":"Point"}
 }

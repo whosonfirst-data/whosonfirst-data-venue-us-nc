@@ -2,13 +2,14 @@
   "id": 286631571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.147434,36.168101,-81.147434,36.168101",
     "geom:latitude":36.168101,
     "geom:longitude":-81.147434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Hinshaw St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286631571,
-    "wof:lastmodified":1449016098,
+    "wof:lastmodified":1466648165,
     "wof:name":"Johnson Produce",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-81.147434,36.168101,-81.147434,36.168101],
+  "bbox": [
+    -81.147434,
+    36.168101,
+    -81.147434,
+    36.168101
+],
   "geometry": {"coordinates":[-81.147434,36.168101],"type":"Point"}
 }

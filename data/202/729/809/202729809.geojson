@@ -2,13 +2,14 @@
   "id": 202729809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.644956,35.49107,-80.644956,35.49107",
     "geom:latitude":35.49107,
     "geom:longitude":-80.644956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1239 Mooresville Rd",
     "sg:city":"Kannapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202729809,
-    "wof:lastmodified":1449061402,
+    "wof:lastmodified":1466643645,
     "wof:name":"US Lawns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-80.644956,35.49107,-80.644956,35.49107],
-  "geometry": {"coordinates":[-80.644956,35.49107],"type":"Point"}
+  "bbox": [
+    -80.644956,
+    35.49107,
+    -80.644956,
+    35.49107
+],
+  "geometry": {"coordinates":[-80.64495599999999,35.49107],"type":"Point"}
 }

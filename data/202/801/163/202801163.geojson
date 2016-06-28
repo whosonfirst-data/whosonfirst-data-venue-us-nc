@@ -2,13 +2,14 @@
   "id": 202801163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.901412,35.996302,-78.901412,35.996302",
     "geom:latitude":35.996302,
     "geom:longitude":-78.901412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Parrish St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202801163,
-    "wof:lastmodified":1449062226,
+    "wof:lastmodified":1466644177,
     "wof:name":"Partnership For Sight",
     "wof:parent_id":85877139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "screening"
     ]
 },
-  "bbox": [-78.901412,35.996302,-78.901412,35.996302],
-  "geometry": {"coordinates":[-78.901412,35.996302],"type":"Point"}
+  "bbox": [
+    -78.901412,
+    35.996302,
+    -78.901412,
+    35.996302
+],
+  "geometry": {"coordinates":[-78.90141199999999,35.996302],"type":"Point"}
 }

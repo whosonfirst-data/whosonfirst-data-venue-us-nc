@@ -2,13 +2,14 @@
   "id": 287090601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.660136,35.728096,-81.660136,35.728096",
     "geom:latitude":35.728096,
     "geom:longitude":-81.660136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Parker Rd",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287090601,
-    "wof:lastmodified":1449001369,
+    "wof:lastmodified":1466644557,
     "wof:name":"Blue Ridge Radiology Assoc",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.660136,35.728096,-81.660136,35.728096],
-  "geometry": {"coordinates":[-81.660136,35.728096],"type":"Point"}
+  "bbox": [
+    -81.660136,
+    35.728096,
+    -81.660136,
+    35.728096
+],
+  "geometry": {"coordinates":[-81.66013599999999,35.728096],"type":"Point"}
 }

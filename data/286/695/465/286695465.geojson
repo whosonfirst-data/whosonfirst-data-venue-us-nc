@@ -2,13 +2,14 @@
   "id": 286695465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.70521,35.816458,-78.70521,35.816458",
     "geom:latitude":35.816458,
     "geom:longitude":-78.70521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 Blue Ridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286695465,
-    "wof:lastmodified":1449016295,
+    "wof:lastmodified":1466649028,
     "wof:name":"Blue Ridge Family Physicians",
     "wof:parent_id":85833803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.70521,35.816458,-78.70521,35.816458],
-  "geometry": {"coordinates":[-78.70521,35.816458],"type":"Point"}
+  "bbox": [
+    -78.70521,
+    35.816458,
+    -78.70521,
+    35.816458
+],
+  "geometry": {"coordinates":[-78.70520999999999,35.816458],"type":"Point"}
 }

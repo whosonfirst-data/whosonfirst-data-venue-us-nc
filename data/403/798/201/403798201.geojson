@@ -2,13 +2,14 @@
   "id": 403798201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.844341,35.550687,-80.844341,35.550687",
     "geom:latitude":35.550687,
     "geom:longitude":-80.844341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 Mecklenburg Hwy",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403798201,
-    "wof:lastmodified":1449054885,
+    "wof:lastmodified":1466651549,
     "wof:name":"Studio 115",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.844341,35.550687,-80.844341,35.550687],
+  "bbox": [
+    -80.844341,
+    35.550687,
+    -80.844341,
+    35.550687
+],
   "geometry": {"coordinates":[-80.844341,35.550687],"type":"Point"}
 }

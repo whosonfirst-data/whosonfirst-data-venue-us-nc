@@ -2,13 +2,14 @@
   "id": 253419043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.96989,35.680226,-79.96989,35.680226",
     "geom:latitude":35.680226,
     "geom:longitude":-79.96989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5391 Jackson Creek Rd",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253419043,
-    "wof:lastmodified":1449065754,
+    "wof:lastmodified":1466647370,
     "wof:name":"Line Design Fencing",
     "wof:parent_id":85844107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-79.96989,35.680226,-79.96989,35.680226],
-  "geometry": {"coordinates":[-79.96989,35.680226],"type":"Point"}
+  "bbox": [
+    -79.96989,
+    35.680226,
+    -79.96989,
+    35.680226
+],
+  "geometry": {"coordinates":[-79.96989000000001,35.680226],"type":"Point"}
 }

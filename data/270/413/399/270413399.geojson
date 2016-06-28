@@ -2,13 +2,14 @@
   "id": 270413399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.257325,35.901724,-80.257325,35.901724",
     "geom:latitude":35.901724,
     "geom:longitude":-80.257325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5630 Old US Hwy 52",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270413399,
-    "wof:lastmodified":1449009008,
+    "wof:lastmodified":1466648302,
     "wof:name":"Lex-Car Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.257325,35.901724,-80.257325,35.901724],
-  "geometry": {"coordinates":[-80.257325,35.901724],"type":"Point"}
+  "bbox": [
+    -80.257325,
+    35.901724,
+    -80.257325,
+    35.901724
+],
+  "geometry": {"coordinates":[-80.25732499999999,35.901724],"type":"Point"}
 }

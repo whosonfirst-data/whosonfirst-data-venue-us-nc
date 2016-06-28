@@ -2,13 +2,14 @@
   "id": 370548057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.866054,34.656362,-78.866054,34.656362",
     "geom:latitude":34.656362,
     "geom:longitude":-78.866054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Smith Mill Rd",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370548057,
-    "wof:lastmodified":1449031423,
+    "wof:lastmodified":1466653189,
     "wof:name":"Gabriels Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.866054,34.656362,-78.866054,34.656362],
-  "geometry": {"coordinates":[-78.866054,34.656362],"type":"Point"}
+  "bbox": [
+    -78.866054,
+    34.656362,
+    -78.866054,
+    34.656362
+],
+  "geometry": {"coordinates":[-78.86605400000001,34.656362],"type":"Point"}
 }

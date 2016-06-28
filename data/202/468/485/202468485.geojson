@@ -2,13 +2,14 @@
   "id": 202468485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.993096,35.692383,-81.993096,35.692383",
     "geom:latitude":35.692383,
     "geom:longitude":-81.993096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 E Court St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202468485,
-    "wof:lastmodified":1449061914,
+    "wof:lastmodified":1466654683,
     "wof:name":"Dr Hensley & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.993096,35.692383,-81.993096,35.692383],
-  "geometry": {"coordinates":[-81.993096,35.692383],"type":"Point"}
+  "bbox": [
+    -81.993096,
+    35.692383,
+    -81.993096,
+    35.692383
+],
+  "geometry": {"coordinates":[-81.99309599999999,35.692383],"type":"Point"}
 }

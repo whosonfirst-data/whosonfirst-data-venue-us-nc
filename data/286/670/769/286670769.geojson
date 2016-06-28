@@ -2,13 +2,14 @@
   "id": 286670769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.542391,34.99531,-80.542391,34.99531",
     "geom:latitude":34.99531,
     "geom:longitude":-80.542391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Roosevelt Blvd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":286670769,
-    "wof:lastmodified":1449015602,
+    "wof:lastmodified":1466648701,
     "wof:name":"Iron Horse Motorcycles",
     "wof:parent_id":85879029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.542391,34.99531,-80.542391,34.99531],
-  "geometry": {"coordinates":[-80.542391,34.99531],"type":"Point"}
+  "bbox": [
+    -80.542391,
+    34.99531,
+    -80.542391,
+    34.99531
+],
+  "geometry": {"coordinates":[-80.54239099999999,34.99531],"type":"Point"}
 }

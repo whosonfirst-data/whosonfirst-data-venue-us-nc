@@ -2,13 +2,14 @@
   "id": 387268833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.908215,36.017044,-78.908215,36.017044",
     "geom:latitude":36.017044,
     "geom:longitude":-78.908215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 N Gregson St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387268833,
-    "wof:lastmodified":1449058270,
+    "wof:lastmodified":1466653400,
     "wof:name":"Southeastern Medical Mgt",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.908215,36.017044,-78.908215,36.017044],
+  "bbox": [
+    -78.908215,
+    36.017044,
+    -78.908215,
+    36.017044
+],
   "geometry": {"coordinates":[-78.908215,36.017044],"type":"Point"}
 }

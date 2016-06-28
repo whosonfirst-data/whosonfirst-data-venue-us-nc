@@ -2,13 +2,14 @@
   "id": 303600331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.104003,36.08706,-79.104003,36.08706",
     "geom:latitude":36.08706,
     "geom:longitude":-79.104003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 US Hwy 70",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303600331,
-    "wof:lastmodified":1448998344,
+    "wof:lastmodified":1466651957,
     "wof:name":"Crown Associates",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.104003,36.08706,-79.104003,36.08706],
-  "geometry": {"coordinates":[-79.104003,36.08706],"type":"Point"}
+  "bbox": [
+    -79.104003,
+    36.08706,
+    -79.104003,
+    36.08706
+],
+  "geometry": {"coordinates":[-79.10400300000001,36.08706],"type":"Point"}
 }

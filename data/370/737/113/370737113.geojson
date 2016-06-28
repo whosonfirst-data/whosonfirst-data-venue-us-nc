@@ -2,13 +2,14 @@
   "id": 370737113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.01484,35.479354,-83.01484,35.479354",
     "geom:latitude":35.479354,
     "geom:longitude":-83.01484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Plott Creek Rd",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370737113,
-    "wof:lastmodified":1449029857,
+    "wof:lastmodified":1466655669,
     "wof:name":"Hazelwood Elementary School",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.01484,35.479354,-83.01484,35.479354],
-  "geometry": {"coordinates":[-83.01484,35.479354],"type":"Point"}
+  "bbox": [
+    -83.01484,
+    35.479354,
+    -83.01484,
+    35.479354
+],
+  "geometry": {"coordinates":[-83.01484000000001,35.479354],"type":"Point"}
 }

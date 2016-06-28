@@ -2,13 +2,14 @@
   "id": 320053729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.542199,35.603343,-80.542199,35.603343",
     "geom:latitude":35.603343,
     "geom:longitude":-80.542199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5710 S Main St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320053729,
-    "wof:lastmodified":1449011964,
+    "wof:lastmodified":1466646085,
     "wof:name":"Hot Spot",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.542199,35.603343,-80.542199,35.603343],
+  "bbox": [
+    -80.542199,
+    35.603343,
+    -80.542199,
+    35.603343
+],
   "geometry": {"coordinates":[-80.542199,35.603343],"type":"Point"}
 }

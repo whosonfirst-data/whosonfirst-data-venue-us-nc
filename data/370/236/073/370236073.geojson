@@ -2,13 +2,14 @@
   "id": 370236073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.606459,35.301007,-78.606459,35.301007",
     "geom:latitude":35.301007,
     "geom:longitude":-78.606459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Spring Branch Rd",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370236073,
-    "wof:lastmodified":1449029449,
+    "wof:lastmodified":1466649233,
     "wof:name":"Williams Building & Home",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.606459,35.301007,-78.606459,35.301007],
+  "bbox": [
+    -78.606459,
+    35.301007,
+    -78.606459,
+    35.301007
+],
   "geometry": {"coordinates":[-78.606459,35.301007],"type":"Point"}
 }

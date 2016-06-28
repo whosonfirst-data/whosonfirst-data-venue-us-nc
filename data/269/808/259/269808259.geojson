@@ -2,13 +2,14 @@
   "id": 269808259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.338224,36.080665,-80.338224,36.080665",
     "geom:latitude":36.080665,
     "geom:longitude":-80.338224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4752 Country Club Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269808259,
-    "wof:lastmodified":1449036239,
+    "wof:lastmodified":1466647043,
     "wof:name":"Mock Beroth Tire & Auto Inc",
     "wof:parent_id":85881845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-80.338224,36.080665,-80.338224,36.080665],
+  "bbox": [
+    -80.338224,
+    36.080665,
+    -80.338224,
+    36.080665
+],
   "geometry": {"coordinates":[-80.338224,36.080665],"type":"Point"}
 }

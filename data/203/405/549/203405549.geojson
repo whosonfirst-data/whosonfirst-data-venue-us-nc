@@ -2,13 +2,14 @@
   "id": 203405549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.812638,35.595527,-79.812638,35.595527",
     "geom:latitude":35.595527,
     "geom:longitude":-79.812638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 New Hope Church Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203405549,
-    "wof:lastmodified":1449026697,
+    "wof:lastmodified":1466644045,
     "wof:name":"Quality Electrical Wiring",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.812638,35.595527,-79.812638,35.595527],
-  "geometry": {"coordinates":[-79.812638,35.595527],"type":"Point"}
+  "bbox": [
+    -79.812638,
+    35.595527,
+    -79.812638,
+    35.595527
+],
+  "geometry": {"coordinates":[-79.81263800000001,35.595527],"type":"Point"}
 }

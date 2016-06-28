@@ -2,13 +2,14 @@
   "id": 253508471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.245567,35.513679,-78.245567,35.513679",
     "geom:latitude":35.513679,
     "geom:longitude":-78.245567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Main St",
     "sg:city":"Pine Level",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253508471,
-    "wof:lastmodified":1449064482,
+    "wof:lastmodified":1466648478,
     "wof:name":"All Seasons Cooling Htg Plmbg",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.245567,35.513679,-78.245567,35.513679],
-  "geometry": {"coordinates":[-78.245567,35.513679],"type":"Point"}
+  "bbox": [
+    -78.245567,
+    35.513679,
+    -78.245567,
+    35.513679
+],
+  "geometry": {"coordinates":[-78.24556699999999,35.513679],"type":"Point"}
 }

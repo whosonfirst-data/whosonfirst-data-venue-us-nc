@@ -2,13 +2,14 @@
   "id": 236104081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.78014,35.831382,-78.78014,35.831382",
     "geom:latitude":35.831382,
     "geom:longitude":-78.78014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Weston Pkwy",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236104081,
-    "wof:lastmodified":1449002926,
+    "wof:lastmodified":1466644147,
     "wof:name":"WCI Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.78014,35.831382,-78.78014,35.831382],
+  "bbox": [
+    -78.78014,
+    35.831382,
+    -78.78014,
+    35.831382
+],
   "geometry": {"coordinates":[-78.78014,35.831382],"type":"Point"}
 }

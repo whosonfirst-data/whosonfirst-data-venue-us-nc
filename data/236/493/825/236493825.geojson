@@ -2,13 +2,14 @@
   "id": 236493825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.211833,34.777394,-77.211833,34.777394",
     "geom:latitude":34.777394,
     "geom:longitude":-77.211833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Smith Rd",
     "sg:city":"Maysville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236493825,
-    "wof:lastmodified":1449002535,
+    "wof:lastmodified":1466647533,
     "wof:name":"Church Of The Lord Jesus",
     "wof:parent_id":85834913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.211833,34.777394,-77.211833,34.777394],
+  "bbox": [
+    -77.211833,
+    34.777394,
+    -77.211833,
+    34.777394
+],
   "geometry": {"coordinates":[-77.211833,34.777394],"type":"Point"}
 }

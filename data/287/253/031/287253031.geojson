@@ -2,13 +2,14 @@
   "id": 287253031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.043397,35.500462,-77.043397,35.500462",
     "geom:latitude":35.500462,
     "geom:longitude":-77.043397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Pamlico Ln",
     "sg:city":"Chocowinity",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287253031,
-    "wof:lastmodified":1449001468,
+    "wof:lastmodified":1466646825,
     "wof:name":"CRS Plumbing",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.043397,35.500462,-77.043397,35.500462],
+  "bbox": [
+    -77.043397,
+    35.500462,
+    -77.043397,
+    35.500462
+],
   "geometry": {"coordinates":[-77.043397,35.500462],"type":"Point"}
 }

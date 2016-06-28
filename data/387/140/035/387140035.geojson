@@ -2,13 +2,14 @@
   "id": 387140035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.85413,35.21483,-80.85413,35.21483",
     "geom:latitude":35.21483,
     "geom:longitude":-80.85413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 South Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387140035,
-    "wof:lastmodified":1449056654,
+    "wof:lastmodified":1466651670,
     "wof:name":"AA/Alcoholics Anonymous",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "treatment"
     ]
 },
-  "bbox": [-80.85413,35.21483,-80.85413,35.21483],
+  "bbox": [
+    -80.85413,
+    35.21483,
+    -80.85413,
+    35.21483
+],
   "geometry": {"coordinates":[-80.85413,35.21483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370785853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.941447,35.252419,-80.941447,35.252419",
     "geom:latitude":35.252419,
     "geom:longitude":-80.941447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Little Rock Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370785853,
-    "wof:lastmodified":1449031892,
+    "wof:lastmodified":1466656284,
     "wof:name":"Gabriel Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.941447,35.252419,-80.941447,35.252419],
+  "bbox": [
+    -80.941447,
+    35.252419,
+    -80.941447,
+    35.252419
+],
   "geometry": {"coordinates":[-80.941447,35.252419],"type":"Point"}
 }

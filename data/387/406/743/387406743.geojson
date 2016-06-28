@@ -2,13 +2,14 @@
   "id": 387406743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.207293,35.376027,-81.207293,35.376027",
     "geom:latitude":35.376027,
     "geom:longitude":-81.207293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5308 Dallas High Shoals Hwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387406743,
-    "wof:lastmodified":1449058152,
+    "wof:lastmodified":1466655203,
     "wof:name":"Harding Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.207293,35.376027,-81.207293,35.376027],
-  "geometry": {"coordinates":[-81.207293,35.376027],"type":"Point"}
+  "bbox": [
+    -81.207293,
+    35.376027,
+    -81.207293,
+    35.376027
+],
+  "geometry": {"coordinates":[-81.20729300000001,35.376027],"type":"Point"}
 }

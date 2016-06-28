@@ -2,13 +2,14 @@
   "id": 353784633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.015801,35.065064,-77.015801,35.065064",
     "geom:latitude":35.065064,
     "geom:longitude":-77.015801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Old Cherry Point Rd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353784633,
-    "wof:lastmodified":1449019951,
+    "wof:lastmodified":1466651593,
     "wof:name":"Britthaven Of New Bern",
     "wof:parent_id":85806875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-77.015801,35.065064,-77.015801,35.065064],
+  "bbox": [
+    -77.015801,
+    35.065064,
+    -77.015801,
+    35.065064
+],
   "geometry": {"coordinates":[-77.015801,35.065064],"type":"Point"}
 }

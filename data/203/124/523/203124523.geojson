@@ -2,13 +2,14 @@
   "id": 203124523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.81289,34.220688,-77.81289,34.220688",
     "geom:latitude":34.220688,
     "geom:longitude":-77.81289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Summer Rest Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203124523,
-    "wof:lastmodified":1449026725,
+    "wof:lastmodified":1466654902,
     "wof:name":"Britthaven",
     "wof:parent_id":85830827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-77.81289,34.220688,-77.81289,34.220688],
+  "bbox": [
+    -77.81289,
+    34.220688,
+    -77.81289,
+    34.220688
+],
   "geometry": {"coordinates":[-77.81289,34.220688],"type":"Point"}
 }

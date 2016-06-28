@@ -2,13 +2,14 @@
   "id": 303331561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.537562,35.136723,-80.537562,35.136723",
     "geom:latitude":35.136723,
     "geom:longitude":-80.537562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7402 Concord Hwy",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303331561,
-    "wof:lastmodified":1448999607,
+    "wof:lastmodified":1466648091,
     "wof:name":"Fairview Fire Prevention",
     "wof:parent_id":85812565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-80.537562,35.136723,-80.537562,35.136723],
-  "geometry": {"coordinates":[-80.537562,35.136723],"type":"Point"}
+  "bbox": [
+    -80.537562,
+    35.136723,
+    -80.537562,
+    35.136723
+],
+  "geometry": {"coordinates":[-80.53756199999999,35.136723],"type":"Point"}
 }

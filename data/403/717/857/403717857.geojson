@@ -2,13 +2,14 @@
   "id": 403717857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.871435,35.115028,-80.871435,35.115028",
     "geom:latitude":35.115028,
     "geom:longitude":-80.871435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Pewsbury Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403717857,
-    "wof:lastmodified":1449054656,
+    "wof:lastmodified":1466650521,
     "wof:name":"HMS Enterprises",
     "wof:parent_id":85851011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.871435,35.115028,-80.871435,35.115028],
-  "geometry": {"coordinates":[-80.871435,35.115028],"type":"Point"}
+  "bbox": [
+    -80.871435,
+    35.115028,
+    -80.871435,
+    35.115028
+],
+  "geometry": {"coordinates":[-80.87143500000001,35.115028],"type":"Point"}
 }

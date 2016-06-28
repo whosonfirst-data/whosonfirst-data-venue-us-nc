@@ -2,13 +2,14 @@
   "id": 371189125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.056114,35.961348,-79.056114,35.961348",
     "geom:latitude":35.961348,
     "geom:longitude":-79.056114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Westminster Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371189125,
-    "wof:lastmodified":1449049791,
+    "wof:lastmodified":1466651227,
     "wof:name":"Procopio Music",
     "wof:parent_id":85838755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-79.056114,35.961348,-79.056114,35.961348],
-  "geometry": {"coordinates":[-79.056114,35.961348],"type":"Point"}
+  "bbox": [
+    -79.056114,
+    35.961348,
+    -79.056114,
+    35.961348
+],
+  "geometry": {"coordinates":[-79.05611399999999,35.961348],"type":"Point"}
 }

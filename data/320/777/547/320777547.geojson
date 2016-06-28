@@ -2,13 +2,14 @@
   "id": 320777547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.771228,34.334847,-78.771228,34.334847",
     "geom:latitude":34.334847,
     "geom:longitude":-78.771228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Industrial Blvd",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320777547,
-    "wof:lastmodified":1449013229,
+    "wof:lastmodified":1466656122,
     "wof:name":"Coca-Cola Bottling Co Cnsldtd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bottler"
     ]
 },
-  "bbox": [-78.771228,34.334847,-78.771228,34.334847],
-  "geometry": {"coordinates":[-78.771228,34.334847],"type":"Point"}
+  "bbox": [
+    -78.771228,
+    34.334847,
+    -78.771228,
+    34.334847
+],
+  "geometry": {"coordinates":[-78.77122799999999,34.334847],"type":"Point"}
 }

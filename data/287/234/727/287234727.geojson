@@ -2,13 +2,14 @@
   "id": 287234727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.25208,35.823,-80.25208,35.823",
     "geom:latitude":35.823,
     "geom:longitude":-80.25208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Center St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":287234727,
-    "wof:lastmodified":1449001541,
+    "wof:lastmodified":1466646573,
     "wof:name":"Bank Of North Carolina",
     "wof:parent_id":85849547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.25208,35.823,-80.25208,35.823],
-  "geometry": {"coordinates":[-80.25208,35.823],"type":"Point"}
+  "bbox": [
+    -80.25208,
+    35.823,
+    -80.25208,
+    35.823
+],
+  "geometry": {"coordinates":[-80.25208000000001,35.823],"type":"Point"}
 }

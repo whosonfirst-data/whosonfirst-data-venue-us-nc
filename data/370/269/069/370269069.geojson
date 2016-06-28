@@ -2,13 +2,14 @@
   "id": 370269069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.447629,36.076265,-79.447629,36.076265",
     "geom:latitude":36.076265,
     "geom:longitude":-79.447629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Chapel Hill Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370269069,
-    "wof:lastmodified":1449031206,
+    "wof:lastmodified":1466649637,
     "wof:name":"Keck Co Inc",
     "wof:parent_id":85839987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.447629,36.076265,-79.447629,36.076265],
-  "geometry": {"coordinates":[-79.447629,36.076265],"type":"Point"}
+  "bbox": [
+    -79.447629,
+    36.076265,
+    -79.447629,
+    36.076265
+],
+  "geometry": {"coordinates":[-79.44762900000001,36.076265],"type":"Point"}
 }

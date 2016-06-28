@@ -2,13 +2,14 @@
   "id": 320412281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.51173,35.889253,-77.51173,35.889253",
     "geom:latitude":35.889253,
     "geom:longitude":-77.51173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"646 State Hwy 111 N",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320412281,
-    "wof:lastmodified":1449012024,
+    "wof:lastmodified":1466651104,
     "wof:name":"Joyners Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.51173,35.889253,-77.51173,35.889253],
+  "bbox": [
+    -77.51173,
+    35.889253,
+    -77.51173,
+    35.889253
+],
   "geometry": {"coordinates":[-77.51173,35.889253],"type":"Point"}
 }

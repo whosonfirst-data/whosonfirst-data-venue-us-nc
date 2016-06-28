@@ -2,13 +2,14 @@
   "id": 303825871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.795994,34.206908,-77.795994,34.206908",
     "geom:latitude":34.206908,
     "geom:longitude":-77.795994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S Lumina Ave",
     "sg:city":"Wrightsville Bch",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303825871,
-    "wof:lastmodified":1448998213,
+    "wof:lastmodified":1466655228,
     "wof:name":"Trolly Stop",
     "wof:parent_id":85859171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.795994,34.206908,-77.795994,34.206908],
-  "geometry": {"coordinates":[-77.795994,34.206908],"type":"Point"}
+  "bbox": [
+    -77.795994,
+    34.206908,
+    -77.795994,
+    34.206908
+],
+  "geometry": {"coordinates":[-77.79599399999999,34.206908],"type":"Point"}
 }

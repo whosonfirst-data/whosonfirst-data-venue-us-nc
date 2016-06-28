@@ -2,13 +2,14 @@
   "id": 387022621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.555343,35.67713,-78.555343,35.67713",
     "geom:latitude":35.67713,
     "geom:longitude":-78.555343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Sigma Dr",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387022621,
-    "wof:lastmodified":1449057360,
+    "wof:lastmodified":1466650168,
     "wof:name":"Circle Trim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "molding"
     ]
 },
-  "bbox": [-78.555343,35.67713,-78.555343,35.67713],
-  "geometry": {"coordinates":[-78.555343,35.67713],"type":"Point"}
+  "bbox": [
+    -78.555343,
+    35.67713,
+    -78.555343,
+    35.67713
+],
+  "geometry": {"coordinates":[-78.55534299999999,35.67713],"type":"Point"}
 }

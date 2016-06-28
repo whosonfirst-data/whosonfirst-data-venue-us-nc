@@ -2,13 +2,14 @@
   "id": 303780953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.553806,35.702337,-77.553806,35.702337",
     "geom:latitude":35.702337,
     "geom:longitude":-77.553806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4417 State Hwy 222",
     "sg:city":"Fountain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303780953,
-    "wof:lastmodified":1448999950,
+    "wof:lastmodified":1466654584,
     "wof:name":"H & J Photography",
     "wof:parent_id":85843963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-77.553806,35.702337,-77.553806,35.702337],
-  "geometry": {"coordinates":[-77.553806,35.702337],"type":"Point"}
+  "bbox": [
+    -77.553806,
+    35.702337,
+    -77.553806,
+    35.702337
+],
+  "geometry": {"coordinates":[-77.55380599999999,35.702337],"type":"Point"}
 }

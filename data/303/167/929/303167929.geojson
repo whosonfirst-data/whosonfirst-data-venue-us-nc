@@ -2,13 +2,14 @@
   "id": 303167929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.819221,35.822181,-79.819221,35.822181",
     "geom:latitude":35.822181,
     "geom:longitude":-79.819221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 W Academy St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303167929,
-    "wof:lastmodified":1448999391,
+    "wof:lastmodified":1466645726,
     "wof:name":"QDI Inc",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.819221,35.822181,-79.819221,35.822181],
+  "bbox": [
+    -79.819221,
+    35.822181,
+    -79.819221,
+    35.822181
+],
   "geometry": {"coordinates":[-79.819221,35.822181],"type":"Point"}
 }

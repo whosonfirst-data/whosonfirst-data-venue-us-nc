@@ -2,13 +2,14 @@
   "id": 387563457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.610143,35.776228,-78.610143,35.776228",
     "geom:latitude":35.776228,
     "geom:longitude":-78.610143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Poole Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387563457,
-    "wof:lastmodified":1449056175,
+    "wof:lastmodified":1466656610,
     "wof:name":"King's Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.610143,35.776228,-78.610143,35.776228],
-  "geometry": {"coordinates":[-78.610143,35.776228],"type":"Point"}
+  "bbox": [
+    -78.610143,
+    35.776228,
+    -78.610143,
+    35.776228
+],
+  "geometry": {"coordinates":[-78.61014299999999,35.776228],"type":"Point"}
 }

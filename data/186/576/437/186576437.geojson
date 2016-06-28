@@ -2,13 +2,14 @@
   "id": 186576437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.960873,35.354369,-81.960873,35.354369",
     "geom:latitude":35.354369,
     "geom:longitude":-81.960873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Main St",
     "sg:city":"Rutherfordton",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":186576437,
-    "wof:lastmodified":1449052384,
+    "wof:lastmodified":1466654789,
     "wof:name":"Circle A Food Store Inc",
     "wof:parent_id":85819215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.960873,35.354369,-81.960873,35.354369],
-  "geometry": {"coordinates":[-81.960873,35.354369],"type":"Point"}
+  "bbox": [
+    -81.960873,
+    35.354369,
+    -81.960873,
+    35.354369
+],
+  "geometry": {"coordinates":[-81.96087300000001,35.354369],"type":"Point"}
 }

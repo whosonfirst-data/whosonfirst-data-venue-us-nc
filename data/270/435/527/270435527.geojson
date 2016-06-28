@@ -2,13 +2,14 @@
   "id": 270435527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.953831,35.255661,-80.953831,35.255661",
     "geom:latitude":35.255661,
     "geom:longitude":-80.953831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Rayecliff Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270435527,
-    "wof:lastmodified":1449010869,
+    "wof:lastmodified":1466648592,
     "wof:name":"Rooster Express",
     "wof:parent_id":85891883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-80.953831,35.255661,-80.953831,35.255661],
-  "geometry": {"coordinates":[-80.953831,35.255661],"type":"Point"}
+  "bbox": [
+    -80.953831,
+    35.255661,
+    -80.953831,
+    35.255661
+],
+  "geometry": {"coordinates":[-80.95383099999999,35.255661],"type":"Point"}
 }

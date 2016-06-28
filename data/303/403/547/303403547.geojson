@@ -2,13 +2,14 @@
   "id": 303403547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.840813,35.198905,-80.840813,35.198905",
     "geom:latitude":35.198905,
     "geom:longitude":-80.840813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 Lombardy Cir",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303403547,
-    "wof:lastmodified":1449000218,
+    "wof:lastmodified":1466649116,
     "wof:name":"Eli Medical",
     "wof:parent_id":85814539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.840813,35.198905,-80.840813,35.198905],
+  "bbox": [
+    -80.840813,
+    35.198905,
+    -80.840813,
+    35.198905
+],
   "geometry": {"coordinates":[-80.840813,35.198905],"type":"Point"}
 }

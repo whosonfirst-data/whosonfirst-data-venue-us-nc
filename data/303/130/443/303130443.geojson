@@ -2,13 +2,14 @@
   "id": 303130443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.671871,34.840966,-77.671871,34.840966",
     "geom:latitude":34.840966,
     "geom:longitude":-77.671871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1698 Fountaintown Rd",
     "sg:city":"Chinquapin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303130443,
-    "wof:lastmodified":1448998959,
+    "wof:lastmodified":1466645165,
     "wof:name":"Fountain Town Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-77.671871,34.840966,-77.671871,34.840966],
+  "bbox": [
+    -77.671871,
+    34.840966,
+    -77.671871,
+    34.840966
+],
   "geometry": {"coordinates":[-77.671871,34.840966],"type":"Point"}
 }

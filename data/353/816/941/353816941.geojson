@@ -2,13 +2,14 @@
   "id": 353816941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.177304,35.245168,-78.177304,35.245168",
     "geom:latitude":35.245168,
     "geom:longitude":-78.177304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1487 Grantham School Rd",
     "sg:city":"Mount Olive",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353816941,
-    "wof:lastmodified":1449019758,
+    "wof:lastmodified":1466651960,
     "wof:name":"Kenneth Coker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpentry"
     ]
 },
-  "bbox": [-78.177304,35.245168,-78.177304,35.245168],
-  "geometry": {"coordinates":[-78.177304,35.245168],"type":"Point"}
+  "bbox": [
+    -78.177304,
+    35.245168,
+    -78.177304,
+    35.245168
+],
+  "geometry": {"coordinates":[-78.17730400000001,35.245168],"type":"Point"}
 }

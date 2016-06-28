@@ -2,13 +2,14 @@
   "id": 336865843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.080123,35.002299,-78.080123,35.002299",
     "geom:latitude":35.002299,
     "geom:longitude":-78.080123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Kenansville Hwy",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336865843,
-    "wof:lastmodified":1448997758,
+    "wof:lastmodified":1466649898,
     "wof:name":"Friendly Mart Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.080123,35.002299,-78.080123,35.002299],
+  "bbox": [
+    -78.080123,
+    35.002299,
+    -78.080123,
+    35.002299
+],
   "geometry": {"coordinates":[-78.080123,35.002299],"type":"Point"}
 }

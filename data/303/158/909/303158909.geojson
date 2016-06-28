@@ -2,13 +2,14 @@
   "id": 303158909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.371017,35.451456,-76.371017,35.451456",
     "geom:latitude":35.451456,
     "geom:longitude":-76.371017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13431 US Hwy 264",
     "sg:city":"Swanquarter",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303158909,
-    "wof:lastmodified":1448999748,
+    "wof:lastmodified":1466645597,
     "wof:name":"Hyde County Farm Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.371017,35.451456,-76.371017,35.451456],
-  "geometry": {"coordinates":[-76.371017,35.451456],"type":"Point"}
+  "bbox": [
+    -76.371017,
+    35.451456,
+    -76.371017,
+    35.451456
+],
+  "geometry": {"coordinates":[-76.37101699999999,35.451456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387043629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.702175,35.792231,-78.702175,35.792231",
     "geom:latitude":35.792231,
     "geom:longitude":-78.702175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Hutton St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387043629,
-    "wof:lastmodified":1449058950,
+    "wof:lastmodified":1466650426,
     "wof:name":"Raleigh Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-78.702175,35.792231,-78.702175,35.792231],
+  "bbox": [
+    -78.702175,
+    35.792231,
+    -78.702175,
+    35.792231
+],
   "geometry": {"coordinates":[-78.702175,35.792231],"type":"Point"}
 }

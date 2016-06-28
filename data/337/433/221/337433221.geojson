@@ -2,13 +2,14 @@
   "id": 337433221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.884762,34.222882,-77.884762,34.222882",
     "geom:latitude":34.222882,
     "geom:longitude":-77.884762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4526 Fountain Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337433221,
-    "wof:lastmodified":1449027031,
+    "wof:lastmodified":1466647004,
     "wof:name":"Solutions Nc",
     "wof:parent_id":85842005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-77.884762,34.222882,-77.884762,34.222882],
-  "geometry": {"coordinates":[-77.884762,34.222882],"type":"Point"}
+  "bbox": [
+    -77.884762,
+    34.222882,
+    -77.884762,
+    34.222882
+],
+  "geometry": {"coordinates":[-77.88476199999999,34.222882],"type":"Point"}
 }

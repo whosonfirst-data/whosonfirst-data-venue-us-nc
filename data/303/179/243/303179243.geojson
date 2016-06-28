@@ -2,13 +2,14 @@
   "id": 303179243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.873222,35.226867,-80.873222,35.226867",
     "geom:latitude":35.226867,
     "geom:longitude":-80.873222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Julian Price Pl",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303179243,
-    "wof:lastmodified":1449000317,
+    "wof:lastmodified":1466645896,
     "wof:name":"CBS",
     "wof:parent_id":85891893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "syndicate"
     ]
 },
-  "bbox": [-80.873222,35.226867,-80.873222,35.226867],
+  "bbox": [
+    -80.873222,
+    35.226867,
+    -80.873222,
+    35.226867
+],
   "geometry": {"coordinates":[-80.873222,35.226867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303610165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.288124,35.835535,-80.288124,35.835535",
     "geom:latitude":35.835535,
     "geom:longitude":-80.288124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"499 Happy Hill Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303610165,
-    "wof:lastmodified":1449000527,
+    "wof:lastmodified":1466652100,
     "wof:name":"Happy Hill Towing & Recovery",
     "wof:parent_id":85855127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.288124,35.835535,-80.288124,35.835535],
+  "bbox": [
+    -80.288124,
+    35.835535,
+    -80.288124,
+    35.835535
+],
   "geometry": {"coordinates":[-80.288124,35.835535],"type":"Point"}
 }

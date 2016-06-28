@@ -2,13 +2,14 @@
   "id": 203285121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.918776,34.231181,-77.918776,34.231181",
     "geom:latitude":34.231181,
     "geom:longitude":-77.918776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Fowler St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203285121,
-    "wof:lastmodified":1449025002,
+    "wof:lastmodified":1466655778,
     "wof:name":"Woodbury Plumbing Co",
     "wof:parent_id":85814197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.918776,34.231181,-77.918776,34.231181],
-  "geometry": {"coordinates":[-77.918776,34.231181],"type":"Point"}
+  "bbox": [
+    -77.918776,
+    34.231181,
+    -77.918776,
+    34.231181
+],
+  "geometry": {"coordinates":[-77.91877599999999,34.231181],"type":"Point"}
 }

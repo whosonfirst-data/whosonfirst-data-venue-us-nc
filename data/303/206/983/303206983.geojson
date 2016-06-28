@@ -2,13 +2,14 @@
   "id": 303206983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.572225,35.816515,-78.572225,35.816515",
     "geom:latitude":35.816515,
     "geom:longitude":-78.572225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Wester Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303206983,
-    "wof:lastmodified":1448999779,
+    "wof:lastmodified":1466646315,
     "wof:name":"Eastern Carolina Radiographics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apparatus"
     ]
 },
-  "bbox": [-78.572225,35.816515,-78.572225,35.816515],
+  "bbox": [
+    -78.572225,
+    35.816515,
+    -78.572225,
+    35.816515
+],
   "geometry": {"coordinates":[-78.572225,35.816515],"type":"Point"}
 }

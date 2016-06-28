@@ -2,13 +2,14 @@
   "id": 203315011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.431379,34.789926,-77.431379,34.789926",
     "geom:latitude":34.789926,
     "geom:longitude":-77.431379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Gum Branch Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203315011,
-    "wof:lastmodified":1449026773,
+    "wof:lastmodified":1466643350,
     "wof:name":"River Of Life Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.431379,34.789926,-77.431379,34.789926],
-  "geometry": {"coordinates":[-77.431379,34.789926],"type":"Point"}
+  "bbox": [
+    -77.431379,
+    34.789926,
+    -77.431379,
+    34.789926
+],
+  "geometry": {"coordinates":[-77.43137900000001,34.789926],"type":"Point"}
 }

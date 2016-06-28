@@ -2,13 +2,14 @@
   "id": 303528485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.313408,36.148451,-80.313408,36.148451",
     "geom:latitude":36.148451,
     "geom:longitude":-80.313408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4124 Greenmead Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303528485,
-    "wof:lastmodified":1448998767,
+    "wof:lastmodified":1466650922,
     "wof:name":"Biogenex Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-80.313408,36.148451,-80.313408,36.148451],
+  "bbox": [
+    -80.313408,
+    36.148451,
+    -80.313408,
+    36.148451
+],
   "geometry": {"coordinates":[-80.313408,36.148451],"type":"Point"}
 }

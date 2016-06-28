@@ -2,13 +2,14 @@
   "id": 286837079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.649313,35.766287,-78.649313,35.766287",
     "geom:latitude":35.766287,
     "geom:longitude":-78.649313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Hammell Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286837079,
-    "wof:lastmodified":1449015627,
+    "wof:lastmodified":1466650968,
     "wof:name":"Cabinet Works of Raleigh Inc",
     "wof:parent_id":85854379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-78.649313,35.766287,-78.649313,35.766287],
-  "geometry": {"coordinates":[-78.649313,35.766287],"type":"Point"}
+  "bbox": [
+    -78.649313,
+    35.766287,
+    -78.649313,
+    35.766287
+],
+  "geometry": {"coordinates":[-78.64931300000001,35.766287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370420273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.041424,35.91325,-79.041424,35.91325",
     "geom:latitude":35.91325,
     "geom:longitude":-79.041424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Glandon Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370420273,
-    "wof:lastmodified":1449030713,
+    "wof:lastmodified":1466651536,
     "wof:name":"Paintbox Press LLC",
     "wof:parent_id":85813631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "publishing"
     ]
 },
-  "bbox": [-79.041424,35.91325,-79.041424,35.91325],
-  "geometry": {"coordinates":[-79.041424,35.91325],"type":"Point"}
+  "bbox": [
+    -79.041424,
+    35.91325,
+    -79.041424,
+    35.91325
+],
+  "geometry": {"coordinates":[-79.04142400000001,35.91325],"type":"Point"}
 }

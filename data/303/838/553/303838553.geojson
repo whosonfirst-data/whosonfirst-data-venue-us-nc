@@ -2,13 +2,14 @@
   "id": 303838553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.855123,35.048959,-78.855123,35.048959",
     "geom:latitude":35.048959,
     "geom:longitude":-78.855123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Dunn Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303838553,
-    "wof:lastmodified":1448998415,
+    "wof:lastmodified":1466655422,
     "wof:name":"Bar",
     "wof:parent_id":85825067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.855123,35.048959,-78.855123,35.048959],
-  "geometry": {"coordinates":[-78.855123,35.048959],"type":"Point"}
+  "bbox": [
+    -78.855123,
+    35.048959,
+    -78.855123,
+    35.048959
+],
+  "geometry": {"coordinates":[-78.85512300000001,35.048959],"type":"Point"}
 }

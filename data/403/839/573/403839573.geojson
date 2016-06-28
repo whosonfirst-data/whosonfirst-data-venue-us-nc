@@ -2,13 +2,14 @@
   "id": 403839573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.625308,35.806766,-78.625308,35.806766",
     "geom:latitude":35.806766,
     "geom:longitude":-78.625308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 Fairfield Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403839573,
-    "wof:lastmodified":1449055455,
+    "wof:lastmodified":1466652133,
     "wof:name":"Michael Lewis Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-78.625308,35.806766,-78.625308,35.806766],
+  "bbox": [
+    -78.625308,
+    35.806766,
+    -78.625308,
+    35.806766
+],
   "geometry": {"coordinates":[-78.625308,35.806766],"type":"Point"}
 }

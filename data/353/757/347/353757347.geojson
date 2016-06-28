@@ -2,13 +2,14 @@
   "id": 353757347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.456097,35.511642,-77.456097,35.511642",
     "geom:latitude":35.511642,
     "geom:longitude":-77.456097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3678 State Hwy 903 S",
     "sg:city":"Winterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353757347,
-    "wof:lastmodified":1449019693,
+    "wof:lastmodified":1466651281,
     "wof:name":"Baker's Grocery",
     "wof:parent_id":85820763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.456097,35.511642,-77.456097,35.511642],
+  "bbox": [
+    -77.456097,
+    35.511642,
+    -77.456097,
+    35.511642
+],
   "geometry": {"coordinates":[-77.456097,35.511642],"type":"Point"}
 }

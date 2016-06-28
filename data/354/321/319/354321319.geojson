@@ -2,13 +2,14 @@
   "id": 354321319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.630462,35.830989,-78.630462,35.830989",
     "geom:latitude":35.830989,
     "geom:longitude":-78.630462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3824 Barrett Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354321319,
-    "wof:lastmodified":1449065977,
+    "wof:lastmodified":1466651275,
     "wof:name":"North Carolina Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.630462,35.830989,-78.630462,35.830989],
-  "geometry": {"coordinates":[-78.630462,35.830989],"type":"Point"}
+  "bbox": [
+    -78.630462,
+    35.830989,
+    -78.630462,
+    35.830989
+],
+  "geometry": {"coordinates":[-78.63046199999999,35.830989],"type":"Point"}
 }

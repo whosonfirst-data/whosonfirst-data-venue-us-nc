@@ -2,13 +2,14 @@
   "id": 304058865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.102488,35.565026,-77.102488,35.565026",
     "geom:latitude":35.565026,
     "geom:longitude":-77.102488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6731 Clarks Neck Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":304058865,
-    "wof:lastmodified":1449043641,
+    "wof:lastmodified":1466644991,
     "wof:name":"Rivercreek Develop Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.102488,35.565026,-77.102488,35.565026],
-  "geometry": {"coordinates":[-77.102488,35.565026],"type":"Point"}
+  "bbox": [
+    -77.102488,
+    35.565026,
+    -77.102488,
+    35.565026
+],
+  "geometry": {"coordinates":[-77.10248799999999,35.565026],"type":"Point"}
 }

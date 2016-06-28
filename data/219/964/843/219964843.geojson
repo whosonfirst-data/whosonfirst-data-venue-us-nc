@@ -2,13 +2,14 @@
   "id": 219964843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.177303,35.249931,-81.177303,35.249931",
     "geom:latitude":35.249931,
     "geom:longitude":-81.177303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Oxford St",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219964843,
-    "wof:lastmodified":1449073060,
+    "wof:lastmodified":1466648535,
     "wof:name":"Public Works-Fleet Maintenance",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.177303,35.249931,-81.177303,35.249931],
-  "geometry": {"coordinates":[-81.177303,35.249931],"type":"Point"}
+  "bbox": [
+    -81.177303,
+    35.249931,
+    -81.177303,
+    35.249931
+],
+  "geometry": {"coordinates":[-81.17730299999999,35.249931],"type":"Point"}
 }

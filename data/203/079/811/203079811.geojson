@@ -2,13 +2,14 @@
   "id": 203079811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.876045,35.171429,-80.876045,35.171429",
     "geom:latitude":35.171429,
     "geom:longitude":-80.876045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 South Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203079811,
-    "wof:lastmodified":1449026530,
+    "wof:lastmodified":1466654718,
     "wof:name":"Pep Boys",
     "wof:parent_id":85813241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.876045,35.171429,-80.876045,35.171429],
+  "bbox": [
+    -80.876045,
+    35.171429,
+    -80.876045,
+    35.171429
+],
   "geometry": {"coordinates":[-80.876045,35.171429],"type":"Point"}
 }

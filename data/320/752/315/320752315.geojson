@@ -2,13 +2,14 @@
   "id": 320752315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.789163,35.984344,-77.789163,35.984344",
     "geom:latitude":35.984344,
     "geom:longitude":-77.789163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Fenner Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320752315,
-    "wof:lastmodified":1449011889,
+    "wof:lastmodified":1466656294,
     "wof:name":"Coastal Wrecker Svc",
     "wof:parent_id":85851697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-77.789163,35.984344,-77.789163,35.984344],
+  "bbox": [
+    -77.789163,
+    35.984344,
+    -77.789163,
+    35.984344
+],
   "geometry": {"coordinates":[-77.789163,35.984344],"type":"Point"}
 }

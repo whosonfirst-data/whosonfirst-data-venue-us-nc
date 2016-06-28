@@ -2,13 +2,14 @@
   "id": 303468221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.828161,36.025586,-79.828161,36.025586",
     "geom:latitude":36.025586,
     "geom:longitude":-79.828161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2208 Jones Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303468221,
-    "wof:lastmodified":1448999870,
+    "wof:lastmodified":1466650072,
     "wof:name":"Rain or Shine Auto Detailing",
     "wof:parent_id":85845739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-79.828161,36.025586,-79.828161,36.025586],
-  "geometry": {"coordinates":[-79.828161,36.025586],"type":"Point"}
+  "bbox": [
+    -79.828161,
+    36.025586,
+    -79.828161,
+    36.025586
+],
+  "geometry": {"coordinates":[-79.82816099999999,36.025586],"type":"Point"}
 }

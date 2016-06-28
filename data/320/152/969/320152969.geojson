@@ -2,13 +2,14 @@
   "id": 320152969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.67662,35.698568,-81.67662,35.698568",
     "geom:latitude":35.698568,
     "geom:longitude":-81.67662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Arnold Dr",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320152969,
-    "wof:lastmodified":1449014108,
+    "wof:lastmodified":1466647442,
     "wof:name":"AXE Software",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.67662,35.698568,-81.67662,35.698568],
+  "bbox": [
+    -81.67662,
+    35.698568,
+    -81.67662,
+    35.698568
+],
   "geometry": {"coordinates":[-81.67662,35.698568],"type":"Point"}
 }

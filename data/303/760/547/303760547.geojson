@@ -2,13 +2,14 @@
   "id": 303760547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.866532,35.317205,-81.866532,35.317205",
     "geom:latitude":35.317205,
     "geom:longitude":-81.866532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Frontage Rd",
     "sg:city":"Forest City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303760547,
-    "wof:lastmodified":1449000472,
+    "wof:lastmodified":1466654297,
     "wof:name":"Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "market"
     ]
 },
-  "bbox": [-81.866532,35.317205,-81.866532,35.317205],
-  "geometry": {"coordinates":[-81.866532,35.317205],"type":"Point"}
+  "bbox": [
+    -81.866532,
+    35.317205,
+    -81.866532,
+    35.317205
+],
+  "geometry": {"coordinates":[-81.86653200000001,35.317205],"type":"Point"}
 }

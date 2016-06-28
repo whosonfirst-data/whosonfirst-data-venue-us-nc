@@ -2,13 +2,14 @@
   "id": 303636161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.469569,35.691612,-82.469569,35.691612",
     "geom:latitude":35.691612,
     "geom:longitude":-82.469569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Ballard Branch Rd",
     "sg:city":"Weaverville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303636161,
-    "wof:lastmodified":1448999090,
+    "wof:lastmodified":1466652495,
     "wof:name":"Blue Ridge Bison",
     "wof:parent_id":85892197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.469569,35.691612,-82.469569,35.691612],
-  "geometry": {"coordinates":[-82.469569,35.691612],"type":"Point"}
+  "bbox": [
+    -82.469569,
+    35.691612,
+    -82.469569,
+    35.691612
+],
+  "geometry": {"coordinates":[-82.46956900000001,35.691612],"type":"Point"}
 }

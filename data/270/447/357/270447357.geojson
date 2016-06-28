@@ -2,13 +2,14 @@
   "id": 270447357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.339447,35.567106,-78.339447,35.567106",
     "geom:latitude":35.567106,
     "geom:longitude":-78.339447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 US Hwy 70 W",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270447357,
-    "wof:lastmodified":1449010374,
+    "wof:lastmodified":1466648741,
     "wof:name":"Edwards Used Cars",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-78.339447,35.567106,-78.339447,35.567106],
-  "geometry": {"coordinates":[-78.339447,35.567106],"type":"Point"}
+  "bbox": [
+    -78.339447,
+    35.567106,
+    -78.339447,
+    35.567106
+],
+  "geometry": {"coordinates":[-78.33944700000001,35.567106],"type":"Point"}
 }

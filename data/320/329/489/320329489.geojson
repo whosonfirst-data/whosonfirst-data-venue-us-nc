@@ -2,13 +2,14 @@
   "id": 320329489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.254044,34.671459,-78.254044,34.671459",
     "geom:latitude":34.671459,
     "geom:longitude":-78.254044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5527 Wildcat Rd",
     "sg:city":"Harrells",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320329489,
-    "wof:lastmodified":1449012297,
+    "wof:lastmodified":1466649912,
     "wof:name":"C H Bass Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-78.254044,34.671459,-78.254044,34.671459],
-  "geometry": {"coordinates":[-78.254044,34.671459],"type":"Point"}
+  "bbox": [
+    -78.254044,
+    34.671459,
+    -78.254044,
+    34.671459
+],
+  "geometry": {"coordinates":[-78.25404399999999,34.671459],"type":"Point"}
 }

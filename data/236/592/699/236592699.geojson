@@ -2,13 +2,14 @@
   "id": 236592699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.691043,35.268234,-80.691043,35.268234",
     "geom:latitude":35.268234,
     "geom:longitude":-80.691043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9411 Willowglen Trl",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236592699,
-    "wof:lastmodified":1449003560,
+    "wof:lastmodified":1466648471,
     "wof:name":"Richard Kuklentz",
     "wof:parent_id":85857395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.691043,35.268234,-80.691043,35.268234],
-  "geometry": {"coordinates":[-80.691043,35.268234],"type":"Point"}
+  "bbox": [
+    -80.691043,
+    35.268234,
+    -80.691043,
+    35.268234
+],
+  "geometry": {"coordinates":[-80.69104299999999,35.268234],"type":"Point"}
 }

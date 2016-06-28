@@ -2,13 +2,14 @@
   "id": 320060569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.606296,34.627476,-78.606296,34.627476",
     "geom:latitude":34.627476,
     "geom:longitude":-78.606296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 S Poplar St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320060569,
-    "wof:lastmodified":1449014626,
+    "wof:lastmodified":1466646175,
     "wof:name":"Video Rentals Of Elizabethtown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "video"
     ]
 },
-  "bbox": [-78.606296,34.627476,-78.606296,34.627476],
+  "bbox": [
+    -78.606296,
+    34.627476,
+    -78.606296,
+    34.627476
+],
   "geometry": {"coordinates":[-78.606296,34.627476],"type":"Point"}
 }

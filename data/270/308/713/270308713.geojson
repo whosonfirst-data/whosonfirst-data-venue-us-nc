@@ -2,13 +2,14 @@
   "id": 270308713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.108244,35.225192,-81.108244,35.225192",
     "geom:latitude":35.225192,
     "geom:longitude":-81.108244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 S New Hope Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270308713,
-    "wof:lastmodified":1449011160,
+    "wof:lastmodified":1466646982,
     "wof:name":"Grocery Discount",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.108244,35.225192,-81.108244,35.225192],
+  "bbox": [
+    -81.108244,
+    35.225192,
+    -81.108244,
+    35.225192
+],
   "geometry": {"coordinates":[-81.108244,35.225192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270369793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.142744,36.159513,-81.142744,36.159513",
     "geom:latitude":36.159513,
     "geom:longitude":-81.142744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Wilkesboro Ave",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270369793,
-    "wof:lastmodified":1449011002,
+    "wof:lastmodified":1466647761,
     "wof:name":"The Mower Shop",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-81.142744,36.159513,-81.142744,36.159513],
-  "geometry": {"coordinates":[-81.142744,36.159513],"type":"Point"}
+  "bbox": [
+    -81.142744,
+    36.159513,
+    -81.142744,
+    36.159513
+],
+  "geometry": {"coordinates":[-81.14274399999999,36.159513],"type":"Point"}
 }

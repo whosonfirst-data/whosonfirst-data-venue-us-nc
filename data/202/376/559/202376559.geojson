@@ -2,13 +2,14 @@
   "id": 202376559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.496265,35.440862,-82.496265,35.440862",
     "geom:latitude":35.440862,
     "geom:longitude":-82.496265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Continuum Dr",
     "sg:city":"Fletcher",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202376559,
-    "wof:lastmodified":1449060978,
+    "wof:lastmodified":1466649879,
     "wof:name":"G & K Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.496265,35.440862,-82.496265,35.440862],
-  "geometry": {"coordinates":[-82.496265,35.440862],"type":"Point"}
+  "bbox": [
+    -82.496265,
+    35.440862,
+    -82.496265,
+    35.440862
+],
+  "geometry": {"coordinates":[-82.49626499999999,35.440862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353586083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.528664,36.08054,-79.528664,36.08054",
     "geom:latitude":36.08054,
     "geom:longitude":-79.528664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3804 S Church St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353586083,
-    "wof:lastmodified":1449020511,
+    "wof:lastmodified":1466649233,
     "wof:name":"Burlington Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.528664,36.08054,-79.528664,36.08054],
-  "geometry": {"coordinates":[-79.528664,36.08054],"type":"Point"}
+  "bbox": [
+    -79.528664,
+    36.08054,
+    -79.528664,
+    36.08054
+],
+  "geometry": {"coordinates":[-79.52866400000001,36.08054],"type":"Point"}
 }

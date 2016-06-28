@@ -2,13 +2,14 @@
   "id": 353642519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.639393,35.77609,-78.639393,35.77609",
     "geom:latitude":35.77609,
     "geom:longitude":-78.639393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Fayetteville Street Mall",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353642519,
-    "wof:lastmodified":1449018403,
+    "wof:lastmodified":1466649919,
     "wof:name":"Wake County Land Dev Planning",
     "wof:parent_id":85873451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.639393,35.77609,-78.639393,35.77609],
+  "bbox": [
+    -78.639393,
+    35.77609,
+    -78.639393,
+    35.77609
+],
   "geometry": {"coordinates":[-78.639393,35.77609],"type":"Point"}
 }

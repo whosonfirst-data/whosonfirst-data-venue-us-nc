@@ -2,13 +2,14 @@
   "id": 270520289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.710439,35.851618,-78.710439,35.851618",
     "geom:latitude":35.851618,
     "geom:longitude":-78.710439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5434 Sharpe Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270520289,
-    "wof:lastmodified":1449009444,
+    "wof:lastmodified":1466649718,
     "wof:name":"Butler Floral Design",
     "wof:parent_id":85821697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.710439,35.851618,-78.710439,35.851618],
-  "geometry": {"coordinates":[-78.710439,35.851618],"type":"Point"}
+  "bbox": [
+    -78.710439,
+    35.851618,
+    -78.710439,
+    35.851618
+],
+  "geometry": {"coordinates":[-78.71043899999999,35.851618],"type":"Point"}
 }

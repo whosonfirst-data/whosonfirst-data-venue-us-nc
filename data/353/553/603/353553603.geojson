@@ -2,13 +2,14 @@
   "id": 353553603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.639812,35.698625,-78.639812,35.698625",
     "geom:latitude":35.698625,
     "geom:longitude":-78.639812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2385 Timber Dr",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353553603,
-    "wof:lastmodified":1449018274,
+    "wof:lastmodified":1466648799,
     "wof:name":"Kevin Arthur DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-78.639812,35.698625,-78.639812,35.698625],
-  "geometry": {"coordinates":[-78.639812,35.698625],"type":"Point"}
+  "bbox": [
+    -78.639812,
+    35.698625,
+    -78.639812,
+    35.698625
+],
+  "geometry": {"coordinates":[-78.63981200000001,35.698625],"type":"Point"}
 }

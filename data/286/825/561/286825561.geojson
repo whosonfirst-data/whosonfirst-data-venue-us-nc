@@ -2,13 +2,14 @@
   "id": 286825561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.331403,34.380375,-78.331403,34.380375",
     "geom:latitude":34.380375,
     "geom:longitude":-78.331403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 E Arcadia Rd",
     "sg:city":"Riegelwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286825561,
-    "wof:lastmodified":1449015278,
+    "wof:lastmodified":1466650794,
     "wof:name":"East Arcadia Senior Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-78.331403,34.380375,-78.331403,34.380375],
-  "geometry": {"coordinates":[-78.331403,34.380375],"type":"Point"}
+  "bbox": [
+    -78.331403,
+    34.380375,
+    -78.331403,
+    34.380375
+],
+  "geometry": {"coordinates":[-78.33140299999999,34.380375],"type":"Point"}
 }

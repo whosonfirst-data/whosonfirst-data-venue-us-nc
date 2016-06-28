@@ -2,13 +2,14 @@
   "id": 387818485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.884809,34.885977,-76.884809,34.885977",
     "geom:latitude":34.885977,
     "geom:longitude":-76.884809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Cunningham Pl",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387818485,
-    "wof:lastmodified":1449057949,
+    "wof:lastmodified":1466657809,
     "wof:name":"Building Inspectors",
     "wof:parent_id":85824245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspection"
     ]
 },
-  "bbox": [-76.884809,34.885977,-76.884809,34.885977],
+  "bbox": [
+    -76.884809,
+    34.885977,
+    -76.884809,
+    34.885977
+],
   "geometry": {"coordinates":[-76.884809,34.885977],"type":"Point"}
 }

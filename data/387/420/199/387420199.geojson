@@ -2,13 +2,14 @@
   "id": 387420199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.884014,35.178562,-80.884014,35.178562",
     "geom:latitude":35.178562,
     "geom:longitude":-80.884014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5019 Nations Crossing Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387420199,
-    "wof:lastmodified":1449057920,
+    "wof:lastmodified":1466655373,
     "wof:name":"Transland Financial Srvc",
     "wof:parent_id":85859391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "advisory"
     ]
 },
-  "bbox": [-80.884014,35.178562,-80.884014,35.178562],
-  "geometry": {"coordinates":[-80.884014,35.178562],"type":"Point"}
+  "bbox": [
+    -80.884014,
+    35.178562,
+    -80.884014,
+    35.178562
+],
+  "geometry": {"coordinates":[-80.88401399999999,35.178562],"type":"Point"}
 }

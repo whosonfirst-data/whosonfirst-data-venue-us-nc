@@ -2,13 +2,14 @@
   "id": 269762197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.77384,36.064482,-79.77384,36.064482",
     "geom:latitude":36.064482,
     "geom:longitude":-79.77384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 E Lee St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269762197,
-    "wof:lastmodified":1449037878,
+    "wof:lastmodified":1466646501,
     "wof:name":"Salvation Army Boys & Girls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.77384,36.064482,-79.77384,36.064482],
-  "geometry": {"coordinates":[-79.77384,36.064482],"type":"Point"}
+  "bbox": [
+    -79.77384,
+    36.064482,
+    -79.77384,
+    36.064482
+],
+  "geometry": {"coordinates":[-79.77384000000001,36.064482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320203727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.668506,34.718469,-76.668506,34.718469",
     "geom:latitude":34.718469,
     "geom:longitude":-76.668506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Front St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320203727,
-    "wof:lastmodified":1449012909,
+    "wof:lastmodified":1466648139,
     "wof:name":"Bird Shoal Peddlers",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.668506,34.718469,-76.668506,34.718469],
-  "geometry": {"coordinates":[-76.668506,34.718469],"type":"Point"}
+  "bbox": [
+    -76.668506,
+    34.718469,
+    -76.668506,
+    34.718469
+],
+  "geometry": {"coordinates":[-76.66850599999999,34.718469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236004079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.460343,35.317595,-82.460343,35.317595",
     "geom:latitude":35.317595,
     "geom:longitude":-82.460343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 N Main St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236004079,
-    "wof:lastmodified":1449002736,
+    "wof:lastmodified":1466643255,
     "wof:name":"Purple Sage",
     "wof:parent_id":85804503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cookware"
     ]
 },
-  "bbox": [-82.460343,35.317595,-82.460343,35.317595],
-  "geometry": {"coordinates":[-82.460343,35.317595],"type":"Point"}
+  "bbox": [
+    -82.460343,
+    35.317595,
+    -82.460343,
+    35.317595
+],
+  "geometry": {"coordinates":[-82.46034299999999,35.317595],"type":"Point"}
 }

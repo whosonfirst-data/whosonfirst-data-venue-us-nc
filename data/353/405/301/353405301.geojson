@@ -2,13 +2,14 @@
   "id": 353405301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.921168,36.034774,-79.921168,36.034774",
     "geom:latitude":36.034774,
     "geom:longitude":-79.921168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Guilford College Rd",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353405301,
-    "wof:lastmodified":1449020600,
+    "wof:lastmodified":1466647633,
     "wof:name":"Dean Studio",
     "wof:parent_id":85802417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-79.921168,36.034774,-79.921168,36.034774],
-  "geometry": {"coordinates":[-79.921168,36.034774],"type":"Point"}
+  "bbox": [
+    -79.921168,
+    36.034774,
+    -79.921168,
+    36.034774
+],
+  "geometry": {"coordinates":[-79.92116799999999,36.034774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370383031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.546309,35.924365,-81.546309,35.924365",
     "geom:latitude":35.924365,
     "geom:longitude":-81.546309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"839 Creekway Dr NW",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370383031,
-    "wof:lastmodified":1449030516,
+    "wof:lastmodified":1466651047,
     "wof:name":"Wright-Way Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.546309,35.924365,-81.546309,35.924365],
-  "geometry": {"coordinates":[-81.546309,35.924365],"type":"Point"}
+  "bbox": [
+    -81.546309,
+    35.924365,
+    -81.546309,
+    35.924365
+],
+  "geometry": {"coordinates":[-81.54630899999999,35.924365],"type":"Point"}
 }

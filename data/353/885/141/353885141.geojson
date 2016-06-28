@@ -2,13 +2,14 @@
   "id": 353885141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.487355,35.249119,-82.487355,35.249119",
     "geom:latitude":35.249119,
     "geom:longitude":-82.487355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Northside Ln",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353885141,
-    "wof:lastmodified":1449019614,
+    "wof:lastmodified":1466652729,
     "wof:name":"Jackie Murray",
     "wof:parent_id":85851321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.487355,35.249119,-82.487355,35.249119],
-  "geometry": {"coordinates":[-82.487355,35.249119],"type":"Point"}
+  "bbox": [
+    -82.487355,
+    35.249119,
+    -82.487355,
+    35.249119
+],
+  "geometry": {"coordinates":[-82.48735499999999,35.249119],"type":"Point"}
 }

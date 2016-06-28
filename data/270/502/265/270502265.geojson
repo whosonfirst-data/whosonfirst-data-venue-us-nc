@@ -2,13 +2,14 @@
   "id": 270502265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.485405,35.334553,-82.485405,35.334553",
     "geom:latitude":35.334553,
     "geom:longitude":-82.485405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Greenwood Dr",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270502265,
-    "wof:lastmodified":1449009749,
+    "wof:lastmodified":1466649479,
     "wof:name":"Dellwood Garden Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.485405,35.334553,-82.485405,35.334553],
+  "bbox": [
+    -82.485405,
+    35.334553,
+    -82.485405,
+    35.334553
+],
   "geometry": {"coordinates":[-82.485405,35.334553],"type":"Point"}
 }

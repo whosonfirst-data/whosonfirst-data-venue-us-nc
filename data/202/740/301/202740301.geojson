@@ -2,13 +2,14 @@
   "id": 202740301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.602824,35.313525,-78.602824,35.313525",
     "geom:latitude":35.313525,
     "geom:longitude":-78.602824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N Clinton Ave",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202740301,
-    "wof:lastmodified":1449061280,
+    "wof:lastmodified":1466643727,
     "wof:name":"Lou Chapel Church",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.602824,35.313525,-78.602824,35.313525],
+  "bbox": [
+    -78.602824,
+    35.313525,
+    -78.602824,
+    35.313525
+],
   "geometry": {"coordinates":[-78.602824,35.313525],"type":"Point"}
 }

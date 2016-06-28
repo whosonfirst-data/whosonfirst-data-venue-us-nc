@@ -2,13 +2,14 @@
   "id": 387423595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.638297,34.731428,-76.638297,34.731428",
     "geom:latitude":34.731428,
     "geom:longitude":-76.638297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Live Oak St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387423595,
-    "wof:lastmodified":1449056733,
+    "wof:lastmodified":1466655419,
     "wof:name":"John Vesco Real Estate",
     "wof:parent_id":85805099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.638297,34.731428,-76.638297,34.731428],
-  "geometry": {"coordinates":[-76.638297,34.731428],"type":"Point"}
+  "bbox": [
+    -76.638297,
+    34.731428,
+    -76.638297,
+    34.731428
+],
+  "geometry": {"coordinates":[-76.63829699999999,34.731428],"type":"Point"}
 }

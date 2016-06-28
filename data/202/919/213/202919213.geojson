@@ -2,13 +2,14 @@
   "id": 202919213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.688876,35.378112,-80.688876,35.378112",
     "geom:latitude":35.378112,
     "geom:longitude":-80.688876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Riverglen Dr NW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":202919213,
-    "wof:lastmodified":1449062032,
+    "wof:lastmodified":1466645095,
     "wof:name":"Bradford Income Tax Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-80.688876,35.378112,-80.688876,35.378112],
-  "geometry": {"coordinates":[-80.688876,35.378112],"type":"Point"}
+  "bbox": [
+    -80.688876,
+    35.378112,
+    -80.688876,
+    35.378112
+],
+  "geometry": {"coordinates":[-80.68887599999999,35.378112],"type":"Point"}
 }

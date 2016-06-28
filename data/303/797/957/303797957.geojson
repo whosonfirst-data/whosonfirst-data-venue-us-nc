@@ -2,13 +2,14 @@
   "id": 303797957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.419046,35.59825,-80.419046,35.59825",
     "geom:latitude":35.59825,
     "geom:longitude":-80.419046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Scotland Ln",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303797957,
-    "wof:lastmodified":1449000327,
+    "wof:lastmodified":1466654835,
     "wof:name":"NC State Hwy Patrol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-80.419046,35.59825,-80.419046,35.59825],
-  "geometry": {"coordinates":[-80.419046,35.59825],"type":"Point"}
+  "bbox": [
+    -80.419046,
+    35.59825,
+    -80.419046,
+    35.59825
+],
+  "geometry": {"coordinates":[-80.41904599999999,35.59825],"type":"Point"}
 }

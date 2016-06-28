@@ -2,13 +2,14 @@
   "id": 354132291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.156472,36.158738,-81.156472,36.158738",
     "geom:latitude":36.158738,
     "geom:longitude":-81.156472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 W D St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354132291,
-    "wof:lastmodified":1449066746,
+    "wof:lastmodified":1466649089,
     "wof:name":"Stratford Hearing Aid Center",
     "wof:parent_id":85828719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "impaired"
     ]
 },
-  "bbox": [-81.156472,36.158738,-81.156472,36.158738],
-  "geometry": {"coordinates":[-81.156472,36.158738],"type":"Point"}
+  "bbox": [
+    -81.156472,
+    36.158738,
+    -81.156472,
+    36.158738
+],
+  "geometry": {"coordinates":[-81.15647199999999,36.158738],"type":"Point"}
 }

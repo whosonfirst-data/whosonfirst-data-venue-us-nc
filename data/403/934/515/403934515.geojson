@@ -2,13 +2,14 @@
   "id": 403934515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.160536,34.335901,-78.160536,34.335901",
     "geom:latitude":34.335901,
     "geom:longitude":-78.160536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 Goose Neck Rd NE",
     "sg:city":"Riegelwood",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403934515,
-    "wof:lastmodified":1449054694,
+    "wof:lastmodified":1466653347,
     "wof:name":"Platinum Paint Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-78.160536,34.335901,-78.160536,34.335901],
-  "geometry": {"coordinates":[-78.160536,34.335901],"type":"Point"}
+  "bbox": [
+    -78.160536,
+    34.335901,
+    -78.160536,
+    34.335901
+],
+  "geometry": {"coordinates":[-78.16053599999999,34.335901],"type":"Point"}
 }

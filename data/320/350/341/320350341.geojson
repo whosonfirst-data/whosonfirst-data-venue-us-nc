@@ -2,13 +2,14 @@
   "id": 320350341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.475365,35.64759,-80.475365,35.64759",
     "geom:latitude":35.64759,
     "geom:longitude":-80.475365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 Lutheran Synod Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320350341,
-    "wof:lastmodified":1449013161,
+    "wof:lastmodified":1466650213,
     "wof:name":"Salisbury Moving & Storage",
     "wof:parent_id":85818723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.475365,35.64759,-80.475365,35.64759],
+  "bbox": [
+    -80.475365,
+    35.64759,
+    -80.475365,
+    35.64759
+],
   "geometry": {"coordinates":[-80.475365,35.64759],"type":"Point"}
 }

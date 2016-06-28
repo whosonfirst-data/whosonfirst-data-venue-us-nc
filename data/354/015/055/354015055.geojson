@@ -2,13 +2,14 @@
   "id": 354015055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.030212,35.934127,-79.030212,35.934127",
     "geom:latitude":35.934127,
     "geom:longitude":-79.030212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 E Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354015055,
-    "wof:lastmodified":1449066316,
+    "wof:lastmodified":1466647730,
     "wof:name":"Applebee's Neighborhood Grill",
     "wof:parent_id":85868007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.030212,35.934127,-79.030212,35.934127],
-  "geometry": {"coordinates":[-79.030212,35.934127],"type":"Point"}
+  "bbox": [
+    -79.030212,
+    35.934127,
+    -79.030212,
+    35.934127
+],
+  "geometry": {"coordinates":[-79.03021200000001,35.934127],"type":"Point"}
 }

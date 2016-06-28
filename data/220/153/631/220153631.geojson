@@ -2,13 +2,14 @@
   "id": 220153631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.65762,35.763263,-78.65762,35.763263",
     "geom:latitude":35.763263,
     "geom:longitude":-78.65762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Mercury St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220153631,
-    "wof:lastmodified":1449074606,
+    "wof:lastmodified":1466644423,
     "wof:name":"Brink's Inc",
     "wof:parent_id":85873461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "armored"
     ]
 },
-  "bbox": [-78.65762,35.763263,-78.65762,35.763263],
-  "geometry": {"coordinates":[-78.65762,35.763263],"type":"Point"}
+  "bbox": [
+    -78.65762,
+    35.763263,
+    -78.65762,
+    35.763263
+],
+  "geometry": {"coordinates":[-78.65761999999999,35.763263],"type":"Point"}
 }

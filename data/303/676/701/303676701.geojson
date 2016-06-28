@@ -2,13 +2,14 @@
   "id": 303676701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.911668,35.558155,-79.911668,35.558155",
     "geom:latitude":35.558155,
     "geom:longitude":-79.911668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5516 High Pine Church Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303676701,
-    "wof:lastmodified":1448999687,
+    "wof:lastmodified":1466653076,
     "wof:name":"Precision Forklift Svc",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [-79.911668,35.558155,-79.911668,35.558155],
-  "geometry": {"coordinates":[-79.911668,35.558155],"type":"Point"}
+  "bbox": [
+    -79.911668,
+    35.558155,
+    -79.911668,
+    35.558155
+],
+  "geometry": {"coordinates":[-79.91166800000001,35.558155],"type":"Point"}
 }

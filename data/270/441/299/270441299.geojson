@@ -2,13 +2,14 @@
   "id": 270441299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.581505,35.304095,-76.581505,35.304095",
     "geom:latitude":35.304095,
     "geom:longitude":-76.581505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5889 Lowland Rd",
     "sg:city":"Lowland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270441299,
-    "wof:lastmodified":1449008837,
+    "wof:lastmodified":1466648664,
     "wof:name":"Ray Luptons Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-76.581505,35.304095,-76.581505,35.304095],
-  "geometry": {"coordinates":[-76.581505,35.304095],"type":"Point"}
+  "bbox": [
+    -76.581505,
+    35.304095,
+    -76.581505,
+    35.304095
+],
+  "geometry": {"coordinates":[-76.58150500000001,35.304095],"type":"Point"}
 }

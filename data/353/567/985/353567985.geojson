@@ -2,13 +2,14 @@
   "id": 353567985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.914038,35.47895,-80.914038,35.47895",
     "geom:latitude":35.47895,
     "geom:longitude":-80.914038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19611 Meta Rd",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353567985,
-    "wof:lastmodified":1449020816,
+    "wof:lastmodified":1466649001,
     "wof:name":"LAKENORMAN.COM",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tourist"
     ]
 },
-  "bbox": [-80.914038,35.47895,-80.914038,35.47895],
-  "geometry": {"coordinates":[-80.914038,35.47895],"type":"Point"}
+  "bbox": [
+    -80.914038,
+    35.47895,
+    -80.914038,
+    35.47895
+],
+  "geometry": {"coordinates":[-80.91403800000001,35.47895],"type":"Point"}
 }

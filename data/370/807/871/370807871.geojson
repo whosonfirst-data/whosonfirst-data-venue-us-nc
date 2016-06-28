@@ -2,13 +2,14 @@
   "id": 370807871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.153135,34.929769,-78.153135,34.929769",
     "geom:latitude":34.929769,
     "geom:longitude":-78.153135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4161 Cornwallis Rd",
     "sg:city":"Turkey",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370807871,
-    "wof:lastmodified":1449029963,
+    "wof:lastmodified":1466656221,
     "wof:name":"Murphy-Brown LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-78.153135,34.929769,-78.153135,34.929769],
-  "geometry": {"coordinates":[-78.153135,34.929769],"type":"Point"}
+  "bbox": [
+    -78.153135,
+    34.929769,
+    -78.153135,
+    34.929769
+],
+  "geometry": {"coordinates":[-78.15313500000001,34.929769],"type":"Point"}
 }

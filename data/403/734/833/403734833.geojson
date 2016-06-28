@@ -2,13 +2,14 @@
   "id": 403734833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.807713,35.751599,-78.807713,35.751599",
     "geom:latitude":35.751599,
     "geom:longitude":-78.807713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Devimy Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403734833,
-    "wof:lastmodified":1449055801,
+    "wof:lastmodified":1466650745,
     "wof:name":"Nottingham Resource Group",
     "wof:parent_id":85831865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-78.807713,35.751599,-78.807713,35.751599],
-  "geometry": {"coordinates":[-78.807713,35.751599],"type":"Point"}
+  "bbox": [
+    -78.807713,
+    35.751599,
+    -78.807713,
+    35.751599
+],
+  "geometry": {"coordinates":[-78.80771300000001,35.751599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286606275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.383176,35.091095,-83.383176,35.091095",
     "geom:latitude":35.091095,
     "geom:longitude":-83.383176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Georgia Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286606275,
-    "wof:lastmodified":1449015621,
+    "wof:lastmodified":1466647818,
     "wof:name":"Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "family"
     ]
 },
-  "bbox": [-83.383176,35.091095,-83.383176,35.091095],
-  "geometry": {"coordinates":[-83.383176,35.091095],"type":"Point"}
+  "bbox": [
+    -83.383176,
+    35.091095,
+    -83.383176,
+    35.091095
+],
+  "geometry": {"coordinates":[-83.38317600000001,35.091095],"type":"Point"}
 }

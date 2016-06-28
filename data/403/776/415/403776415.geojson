@@ -2,13 +2,14 @@
   "id": 403776415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.816361,35.908045,-79.816361,35.908045",
     "geom:latitude":35.908045,
     "geom:longitude":-79.816361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Colonial Loop",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403776415,
-    "wof:lastmodified":1449054940,
+    "wof:lastmodified":1466651272,
     "wof:name":"Jack Cleary Photo",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-79.816361,35.908045,-79.816361,35.908045],
+  "bbox": [
+    -79.816361,
+    35.908045,
+    -79.816361,
+    35.908045
+],
   "geometry": {"coordinates":[-79.816361,35.908045],"type":"Point"}
 }

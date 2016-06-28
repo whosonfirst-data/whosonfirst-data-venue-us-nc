@@ -2,13 +2,14 @@
   "id": 353951209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080753,35.868707,-80.080753,35.868707",
     "geom:latitude":35.868707,
     "geom:longitude":-80.080753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Holly Hill Rd",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353951209,
-    "wof:lastmodified":1449018352,
+    "wof:lastmodified":1466653522,
     "wof:name":"Holly Hill Memorial Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-80.080753,35.868707,-80.080753,35.868707],
+  "bbox": [
+    -80.080753,
+    35.868707,
+    -80.080753,
+    35.868707
+],
   "geometry": {"coordinates":[-80.080753,35.868707],"type":"Point"}
 }

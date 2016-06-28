@@ -2,13 +2,14 @@
   "id": 354000621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.465001,35.328575,-82.465001,35.328575",
     "geom:latitude":35.328575,
     "geom:longitude":-82.465001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Highland Ave",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354000621,
-    "wof:lastmodified":1449066204,
+    "wof:lastmodified":1466655851,
     "wof:name":"5 Points Restaurant",
     "wof:parent_id":85815273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.465001,35.328575,-82.465001,35.328575],
+  "bbox": [
+    -82.465001,
+    35.328575,
+    -82.465001,
+    35.328575
+],
   "geometry": {"coordinates":[-82.465001,35.328575],"type":"Point"}
 }

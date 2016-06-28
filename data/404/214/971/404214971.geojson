@@ -2,13 +2,14 @@
   "id": 404214971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.79233,35.608096,-80.79233,35.608096",
     "geom:latitude":35.608096,
     "geom:longitude":-80.79233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"893 Oakridge Farm Hwy",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404214971,
-    "wof:lastmodified":1449040289,
+    "wof:lastmodified":1466654033,
     "wof:name":"Motor Sports Max",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-80.79233,35.608096,-80.79233,35.608096],
-  "geometry": {"coordinates":[-80.79233,35.608096],"type":"Point"}
+  "bbox": [
+    -80.79233,
+    35.608096,
+    -80.79233,
+    35.608096
+],
+  "geometry": {"coordinates":[-80.79233000000001,35.608096],"type":"Point"}
 }

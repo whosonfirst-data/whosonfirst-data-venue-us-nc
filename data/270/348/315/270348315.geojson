@@ -2,13 +2,14 @@
   "id": 270348315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.617629,36.407799,-79.617629,36.407799",
     "geom:latitude":36.407799,
     "geom:longitude":-79.617629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6830 US Hwy 29 Bus",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270348315,
-    "wof:lastmodified":1449008789,
+    "wof:lastmodified":1466647478,
     "wof:name":"Sadler Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.617629,36.407799,-79.617629,36.407799],
-  "geometry": {"coordinates":[-79.617629,36.407799],"type":"Point"}
+  "bbox": [
+    -79.617629,
+    36.407799,
+    -79.617629,
+    36.407799
+],
+  "geometry": {"coordinates":[-79.61762899999999,36.407799],"type":"Point"}
 }

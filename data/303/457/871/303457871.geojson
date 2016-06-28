@@ -2,13 +2,14 @@
   "id": 303457871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.055422,35.899388,-80.055422,35.899388",
     "geom:latitude":35.899388,
     "geom:longitude":-80.055422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Terry Dr",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303457871,
-    "wof:lastmodified":1448999760,
+    "wof:lastmodified":1466649923,
     "wof:name":"Tolberts Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.055422,35.899388,-80.055422,35.899388],
-  "geometry": {"coordinates":[-80.055422,35.899388],"type":"Point"}
+  "bbox": [
+    -80.055422,
+    35.899388,
+    -80.055422,
+    35.899388
+],
+  "geometry": {"coordinates":[-80.05542199999999,35.899388],"type":"Point"}
 }

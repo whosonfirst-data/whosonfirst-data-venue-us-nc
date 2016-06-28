@@ -2,13 +2,14 @@
   "id": 370716159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.549546,34.983423,-80.549546,34.983423",
     "geom:latitude":34.983423,
     "geom:longitude":-80.549546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Jefferson St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370716159,
-    "wof:lastmodified":1449029571,
+    "wof:lastmodified":1466655402,
     "wof:name":"F Donald Lawrence Surveyor",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-80.549546,34.983423,-80.549546,34.983423],
-  "geometry": {"coordinates":[-80.549546,34.983423],"type":"Point"}
+  "bbox": [
+    -80.549546,
+    34.983423,
+    -80.549546,
+    34.983423
+],
+  "geometry": {"coordinates":[-80.54954600000001,34.983423],"type":"Point"}
 }

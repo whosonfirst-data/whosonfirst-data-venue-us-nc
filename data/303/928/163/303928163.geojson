@@ -2,13 +2,14 @@
   "id": 303928163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.811889,35.270581,-80.811889,35.270581",
     "geom:latitude":35.270581,
     "geom:longitude":-80.811889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4150 Pebble St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303928163,
-    "wof:lastmodified":1449000221,
+    "wof:lastmodified":1466656274,
     "wof:name":"Pike Electric Incorporated",
     "wof:parent_id":85891889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.811889,35.270581,-80.811889,35.270581],
-  "geometry": {"coordinates":[-80.811889,35.270581],"type":"Point"}
+  "bbox": [
+    -80.811889,
+    35.270581,
+    -80.811889,
+    35.270581
+],
+  "geometry": {"coordinates":[-80.81188899999999,35.270581],"type":"Point"}
 }

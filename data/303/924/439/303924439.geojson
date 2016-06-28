@@ -2,13 +2,14 @@
   "id": 303924439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.993148,35.393104,-78.993148,35.393104",
     "geom:latitude":35.393104,
     "geom:longitude":-78.993148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4684 McArthur Rd",
     "sg:city":"Broadway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303924439,
-    "wof:lastmodified":1448998789,
+    "wof:lastmodified":1466656221,
     "wof:name":"Cameron Lc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.993148,35.393104,-78.993148,35.393104],
-  "geometry": {"coordinates":[-78.993148,35.393104],"type":"Point"}
+  "bbox": [
+    -78.993148,
+    35.393104,
+    -78.993148,
+    35.393104
+],
+  "geometry": {"coordinates":[-78.99314800000001,35.393104],"type":"Point"}
 }

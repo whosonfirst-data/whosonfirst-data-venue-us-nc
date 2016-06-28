@@ -2,13 +2,14 @@
   "id": 404116865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031568,35.815248,-81.031568,35.815248",
     "geom:latitude":35.815248,
     "geom:longitude":-81.031568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Carnell Ln",
     "sg:city":"Stony Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404116865,
-    "wof:lastmodified":1449039188,
+    "wof:lastmodified":1466652756,
     "wof:name":"Finished Touch",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.031568,35.815248,-81.031568,35.815248],
-  "geometry": {"coordinates":[-81.031568,35.815248],"type":"Point"}
+  "bbox": [
+    -81.031568,
+    35.815248,
+    -81.031568,
+    35.815248
+],
+  "geometry": {"coordinates":[-81.03156799999999,35.815248],"type":"Point"}
 }

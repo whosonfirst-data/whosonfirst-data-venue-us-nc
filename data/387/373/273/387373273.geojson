@@ -2,13 +2,14 @@
   "id": 387373273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.89006,35.703982,-78.89006,35.703982",
     "geom:latitude":35.703982,
     "geom:longitude":-78.89006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Winding Creek Rd",
     "sg:city":"Apex",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387373273,
-    "wof:lastmodified":1449058077,
+    "wof:lastmodified":1466654765,
     "wof:name":"Atkins Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.89006,35.703982,-78.89006,35.703982],
-  "geometry": {"coordinates":[-78.89006,35.703982],"type":"Point"}
+  "bbox": [
+    -78.89006,
+    35.703982,
+    -78.89006,
+    35.703982
+],
+  "geometry": {"coordinates":[-78.89006000000001,35.703982],"type":"Point"}
 }

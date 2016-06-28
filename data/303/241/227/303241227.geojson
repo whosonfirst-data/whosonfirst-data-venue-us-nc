@@ -2,13 +2,14 @@
   "id": 303241227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.320963,35.884747,-78.320963,35.884747",
     "geom:latitude":35.884747,
     "geom:longitude":-78.320963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9120 Dukes Lake Rd",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303241227,
-    "wof:lastmodified":1449000502,
+    "wof:lastmodified":1466646816,
     "wof:name":"A Free Rein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tack"
     ]
 },
-  "bbox": [-78.320963,35.884747,-78.320963,35.884747],
-  "geometry": {"coordinates":[-78.320963,35.884747],"type":"Point"}
+  "bbox": [
+    -78.320963,
+    35.884747,
+    -78.320963,
+    35.884747
+],
+  "geometry": {"coordinates":[-78.32096300000001,35.884747],"type":"Point"}
 }

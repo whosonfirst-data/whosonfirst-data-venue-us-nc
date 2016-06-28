@@ -2,13 +2,14 @@
   "id": 303930739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.589508,35.441616,-80.589508,35.441616",
     "geom:latitude":35.441616,
     "geom:longitude":-80.589508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"758 Williamsburg Dr NE",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303930739,
-    "wof:lastmodified":1448998895,
+    "wof:lastmodified":1466656304,
     "wof:name":"William M Cottrell Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.589508,35.441616,-80.589508,35.441616],
+  "bbox": [
+    -80.589508,
+    35.441616,
+    -80.589508,
+    35.441616
+],
   "geometry": {"coordinates":[-80.589508,35.441616],"type":"Point"}
 }

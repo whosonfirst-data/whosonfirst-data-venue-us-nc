@@ -2,13 +2,14 @@
   "id": 269569875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.304544,35.521175,-78.304544,35.521175",
     "geom:latitude":35.521175,
     "geom:longitude":-78.304544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Noble St",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269569875,
-    "wof:lastmodified":1449038857,
+    "wof:lastmodified":1466644211,
     "wof:name":"Stan B Inc",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-78.304544,35.521175,-78.304544,35.521175],
-  "geometry": {"coordinates":[-78.304544,35.521175],"type":"Point"}
+  "bbox": [
+    -78.304544,
+    35.521175,
+    -78.304544,
+    35.521175
+],
+  "geometry": {"coordinates":[-78.30454400000001,35.521175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404024053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.957496,36.174999,-79.957496,36.174999",
     "geom:latitude":36.174999,
     "geom:longitude":-79.957496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 Briar Rd",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404024053,
-    "wof:lastmodified":1449039586,
+    "wof:lastmodified":1466651605,
     "wof:name":"Joanne Groulex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-79.957496,36.174999,-79.957496,36.174999],
-  "geometry": {"coordinates":[-79.957496,36.174999],"type":"Point"}
+  "bbox": [
+    -79.957496,
+    36.174999,
+    -79.957496,
+    36.174999
+],
+  "geometry": {"coordinates":[-79.95749600000001,36.174999],"type":"Point"}
 }

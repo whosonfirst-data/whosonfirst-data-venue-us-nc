@@ -2,13 +2,14 @@
   "id": 354167169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.866431,35.782041,-78.866431,35.782041",
     "geom:latitude":35.782041,
     "geom:longitude":-78.866431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Parkmeadow Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354167169,
-    "wof:lastmodified":1449066817,
+    "wof:lastmodified":1466649495,
     "wof:name":"CPC Vending Incorporated",
     "wof:parent_id":85857127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-78.866431,35.782041,-78.866431,35.782041],
-  "geometry": {"coordinates":[-78.866431,35.782041],"type":"Point"}
+  "bbox": [
+    -78.866431,
+    35.782041,
+    -78.866431,
+    35.782041
+],
+  "geometry": {"coordinates":[-78.86643100000001,35.782041],"type":"Point"}
 }

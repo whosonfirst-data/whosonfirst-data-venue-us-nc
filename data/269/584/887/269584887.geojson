@@ -2,13 +2,14 @@
   "id": 269584887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.42991,36.067724,-79.42991,36.067724",
     "geom:latitude":36.067724,
     "geom:longitude":-79.42991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2042 Chapel Hill Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269584887,
-    "wof:lastmodified":1449036406,
+    "wof:lastmodified":1466644409,
     "wof:name":"Four Cooks' Delight",
     "wof:parent_id":85828709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-79.42991,36.067724,-79.42991,36.067724],
-  "geometry": {"coordinates":[-79.42991,36.067724],"type":"Point"}
+  "bbox": [
+    -79.42991,
+    36.067724,
+    -79.42991,
+    36.067724
+],
+  "geometry": {"coordinates":[-79.42991000000001,36.067724],"type":"Point"}
 }

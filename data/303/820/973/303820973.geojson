@@ -2,13 +2,14 @@
   "id": 303820973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.189985,35.387817,-79.189985,35.387817",
     "geom:latitude":35.387817,
     "geom:longitude":-79.189985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"874 Greenwood Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303820973,
-    "wof:lastmodified":1448999383,
+    "wof:lastmodified":1466655163,
     "wof:name":"True Bread Fellowship Church",
     "wof:parent_id":85852511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.189985,35.387817,-79.189985,35.387817],
-  "geometry": {"coordinates":[-79.189985,35.387817],"type":"Point"}
+  "bbox": [
+    -79.189985,
+    35.387817,
+    -79.189985,
+    35.387817
+],
+  "geometry": {"coordinates":[-79.18998499999999,35.387817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336724705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.021345,33.920004,-78.021345,33.920004",
     "geom:latitude":33.920004,
     "geom:longitude":-78.021345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Lord St",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336724705,
-    "wof:lastmodified":1448997978,
+    "wof:lastmodified":1466647727,
     "wof:name":"M L Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.021345,33.920004,-78.021345,33.920004],
+  "bbox": [
+    -78.021345,
+    33.920004,
+    -78.021345,
+    33.920004
+],
   "geometry": {"coordinates":[-78.021345,33.920004],"type":"Point"}
 }

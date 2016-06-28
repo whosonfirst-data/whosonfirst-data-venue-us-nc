@@ -2,13 +2,14 @@
   "id": 220131731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.85832,35.966854,-77.85832,35.966854",
     "geom:latitude":35.966854,
     "geom:longitude":-77.85832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Candlewood Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220131731,
-    "wof:lastmodified":1449074261,
+    "wof:lastmodified":1466644256,
     "wof:name":"Ottinger & Norwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-77.85832,35.966854,-77.85832,35.966854],
-  "geometry": {"coordinates":[-77.85832,35.966854],"type":"Point"}
+  "bbox": [
+    -77.85832,
+    35.966854,
+    -77.85832,
+    35.966854
+],
+  "geometry": {"coordinates":[-77.85832000000001,35.966854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336919445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.155965,35.872341,-80.155965,35.872341",
     "geom:latitude":35.872341,
     "geom:longitude":-80.155965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Evans Rd",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336919445,
-    "wof:lastmodified":1448997760,
+    "wof:lastmodified":1466650707,
     "wof:name":"Evans Road Box Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "patrol"
     ]
 },
-  "bbox": [-80.155965,35.872341,-80.155965,35.872341],
-  "geometry": {"coordinates":[-80.155965,35.872341],"type":"Point"}
+  "bbox": [
+    -80.155965,
+    35.872341,
+    -80.155965,
+    35.872341
+],
+  "geometry": {"coordinates":[-80.15596499999999,35.872341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236546353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.476295,36.117516,-79.476295,36.117516",
     "geom:latitude":36.117516,
     "geom:longitude":-79.476295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 McArthur Ln",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236546353,
-    "wof:lastmodified":1449001670,
+    "wof:lastmodified":1466648040,
     "wof:name":"Carolina Chem-Strip",
     "wof:parent_id":85845553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "customizing"
     ]
 },
-  "bbox": [-79.476295,36.117516,-79.476295,36.117516],
-  "geometry": {"coordinates":[-79.476295,36.117516],"type":"Point"}
+  "bbox": [
+    -79.476295,
+    36.117516,
+    -79.476295,
+    36.117516
+],
+  "geometry": {"coordinates":[-79.47629499999999,36.117516],"type":"Point"}
 }

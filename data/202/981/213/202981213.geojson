@@ -2,13 +2,14 @@
   "id": 202981213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.848471,35.159281,-80.848471,35.159281",
     "geom:latitude":35.159281,
     "geom:longitude":-80.848471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3717 Selwyn Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202981213,
-    "wof:lastmodified":1449062701,
+    "wof:lastmodified":1466645584,
     "wof:name":"Java Joes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.848471,35.159281,-80.848471,35.159281],
+  "bbox": [
+    -80.848471,
+    35.159281,
+    -80.848471,
+    35.159281
+],
   "geometry": {"coordinates":[-80.848471,35.159281],"type":"Point"}
 }

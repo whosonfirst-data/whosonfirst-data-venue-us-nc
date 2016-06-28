@@ -2,13 +2,14 @@
   "id": 353719365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.735639,36.046834,-78.735639,36.046834",
     "geom:latitude":36.046834,
     "geom:longitude":-78.735639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5037 Curl Ln",
     "sg:city":"Creedmoor",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353719365,
-    "wof:lastmodified":1449018580,
+    "wof:lastmodified":1466650849,
     "wof:name":"Richard Well Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-78.735639,36.046834,-78.735639,36.046834],
-  "geometry": {"coordinates":[-78.735639,36.046834],"type":"Point"}
+  "bbox": [
+    -78.735639,
+    36.046834,
+    -78.735639,
+    36.046834
+],
+  "geometry": {"coordinates":[-78.73563900000001,36.046834],"type":"Point"}
 }

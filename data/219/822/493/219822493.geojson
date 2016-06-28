@@ -2,13 +2,14 @@
   "id": 219822493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.146527,35.447783,-79.146527,35.447783",
     "geom:latitude":35.447783,
     "geom:longitude":-79.146527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2960 Industrial Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219822493,
-    "wof:lastmodified":1449073806,
+    "wof:lastmodified":1466647363,
     "wof:name":"Tacos LA Fogata",
     "wof:parent_id":85827995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.146527,35.447783,-79.146527,35.447783],
-  "geometry": {"coordinates":[-79.146527,35.447783],"type":"Point"}
+  "bbox": [
+    -79.146527,
+    35.447783,
+    -79.146527,
+    35.447783
+],
+  "geometry": {"coordinates":[-79.14652700000001,35.447783],"type":"Point"}
 }

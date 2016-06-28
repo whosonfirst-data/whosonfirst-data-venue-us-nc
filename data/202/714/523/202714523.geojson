@@ -2,13 +2,14 @@
   "id": 202714523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.616913,34.354499,-78.616913,34.354499",
     "geom:latitude":34.354499,
     "geom:longitude":-78.616913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"874 Batten-Sasser Rd",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202714523,
-    "wof:lastmodified":1449061374,
+    "wof:lastmodified":1466643533,
     "wof:name":"Country Side Mobile Home Park",
     "wof:parent_id":85846389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-78.616913,34.354499,-78.616913,34.354499],
+  "bbox": [
+    -78.616913,
+    34.354499,
+    -78.616913,
+    34.354499
+],
   "geometry": {"coordinates":[-78.616913,34.354499],"type":"Point"}
 }

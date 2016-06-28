@@ -2,13 +2,14 @@
   "id": 370882121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.27335,35.816168,-80.27335,35.816168",
     "geom:latitude":35.816168,
     "geom:longitude":-80.27335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Hunters Way",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370882121,
-    "wof:lastmodified":1449029699,
+    "wof:lastmodified":1466656602,
     "wof:name":"Davidson",
     "wof:parent_id":85849547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-80.27335,35.816168,-80.27335,35.816168],
-  "geometry": {"coordinates":[-80.27335,35.816168],"type":"Point"}
+  "bbox": [
+    -80.27335,
+    35.816168,
+    -80.27335,
+    35.816168
+],
+  "geometry": {"coordinates":[-80.27334999999999,35.816168],"type":"Point"}
 }

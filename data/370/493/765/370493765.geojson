@@ -2,13 +2,14 @@
   "id": 370493765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.755384,35.216379,-80.755384,35.216379",
     "geom:latitude":35.216379,
     "geom:longitude":-80.755384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 Auburndale Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370493765,
-    "wof:lastmodified":1449030171,
+    "wof:lastmodified":1466652475,
     "wof:name":"KATS Transportation Svc Inc",
     "wof:parent_id":85882269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-80.755384,35.216379,-80.755384,35.216379],
-  "geometry": {"coordinates":[-80.755384,35.216379],"type":"Point"}
+  "bbox": [
+    -80.755384,
+    35.216379,
+    -80.755384,
+    35.216379
+],
+  "geometry": {"coordinates":[-80.75538400000001,35.216379],"type":"Point"}
 }

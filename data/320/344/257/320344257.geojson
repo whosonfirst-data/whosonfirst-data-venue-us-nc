@@ -2,13 +2,14 @@
   "id": 320344257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.357942,35.781442,-81.357942,35.781442",
     "geom:latitude":35.781442,
     "geom:longitude":-81.357942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5917 Flintlock Ct",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320344257,
-    "wof:lastmodified":1449011435,
+    "wof:lastmodified":1466650120,
     "wof:name":"Michael K Wimberly Dr PC",
     "wof:parent_id":85822593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.357942,35.781442,-81.357942,35.781442],
-  "geometry": {"coordinates":[-81.357942,35.781442],"type":"Point"}
+  "bbox": [
+    -81.357942,
+    35.781442,
+    -81.357942,
+    35.781442
+],
+  "geometry": {"coordinates":[-81.35794199999999,35.781442],"type":"Point"}
 }

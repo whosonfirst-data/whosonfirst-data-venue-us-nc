@@ -2,13 +2,14 @@
   "id": 403726937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.270423,35.473023,-80.270423,35.473023",
     "geom:latitude":35.473023,
     "geom:longitude":-80.270423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48380 US Hwy 52",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403726937,
-    "wof:lastmodified":1449055516,
+    "wof:lastmodified":1466650642,
     "wof:name":"Sodexho-Marriott Food Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-80.270423,35.473023,-80.270423,35.473023],
-  "geometry": {"coordinates":[-80.270423,35.473023],"type":"Point"}
+  "bbox": [
+    -80.270423,
+    35.473023,
+    -80.270423,
+    35.473023
+],
+  "geometry": {"coordinates":[-80.27042299999999,35.473023],"type":"Point"}
 }

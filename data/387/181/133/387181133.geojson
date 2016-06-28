@@ -2,13 +2,14 @@
   "id": 387181133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.604768,36.452158,-79.604768,36.452158",
     "geom:latitude":36.452158,
     "geom:longitude":-79.604768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2155 Worsham Mill Rd",
     "sg:city":"Ruffin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387181133,
-    "wof:lastmodified":1449058438,
+    "wof:lastmodified":1466652239,
     "wof:name":"Cox Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-79.604768,36.452158,-79.604768,36.452158],
-  "geometry": {"coordinates":[-79.604768,36.452158],"type":"Point"}
+  "bbox": [
+    -79.604768,
+    36.452158,
+    -79.604768,
+    36.452158
+],
+  "geometry": {"coordinates":[-79.60476800000001,36.452158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370551153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.375149,35.792675,-78.375149,35.792675",
     "geom:latitude":35.792675,
     "geom:longitude":-78.375149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Hanor Ln",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370551153,
-    "wof:lastmodified":1449029777,
+    "wof:lastmodified":1466653233,
     "wof:name":"Robinwood At Wendell",
     "wof:parent_id":85833417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.375149,35.792675,-78.375149,35.792675],
-  "geometry": {"coordinates":[-78.375149,35.792675],"type":"Point"}
+  "bbox": [
+    -78.375149,
+    35.792675,
+    -78.375149,
+    35.792675
+],
+  "geometry": {"coordinates":[-78.37514899999999,35.792675],"type":"Point"}
 }

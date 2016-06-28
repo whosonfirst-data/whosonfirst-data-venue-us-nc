@@ -2,13 +2,14 @@
   "id": 303892387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.27347,36.060562,-80.27347,36.060562",
     "geom:latitude":36.060562,
     "geom:longitude":-80.27347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Salem Crest Ln",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303892387,
-    "wof:lastmodified":1448998482,
+    "wof:lastmodified":1466656125,
     "wof:name":"Salem Crest Apartments",
     "wof:parent_id":85807309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.27347,36.060562,-80.27347,36.060562],
+  "bbox": [
+    -80.27347,
+    36.060562,
+    -80.27347,
+    36.060562
+],
   "geometry": {"coordinates":[-80.27347,36.060562],"type":"Point"}
 }

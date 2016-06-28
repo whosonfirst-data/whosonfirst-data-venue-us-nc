@@ -2,13 +2,14 @@
   "id": 303426283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.630024,35.772646,-78.630024,35.772646",
     "geom:latitude":35.772646,
     "geom:longitude":-78.630024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"568 E Lenoir St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303426283,
-    "wof:lastmodified":1448998636,
+    "wof:lastmodified":1466649452,
     "wof:name":"Best Friends Volunteer Program",
     "wof:parent_id":85873459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-78.630024,35.772646,-78.630024,35.772646],
-  "geometry": {"coordinates":[-78.630024,35.772646],"type":"Point"}
+  "bbox": [
+    -78.630024,
+    35.772646,
+    -78.630024,
+    35.772646
+],
+  "geometry": {"coordinates":[-78.63002400000001,35.772646],"type":"Point"}
 }

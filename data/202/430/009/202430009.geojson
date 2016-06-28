@@ -2,13 +2,14 @@
   "id": 202430009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.82377,36.063059,-79.82377,36.063059",
     "geom:latitude":36.063059,
     "geom:longitude":-79.82377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 S Chapman St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202430009,
-    "wof:lastmodified":1449061706,
+    "wof:lastmodified":1466655896,
     "wof:name":"E S C Recording",
     "wof:parent_id":85877959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.82377,36.063059,-79.82377,36.063059],
+  "bbox": [
+    -79.82377,
+    36.063059,
+    -79.82377,
+    36.063059
+],
   "geometry": {"coordinates":[-79.82377,36.063059],"type":"Point"}
 }

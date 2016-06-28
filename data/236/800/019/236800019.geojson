@@ -2,13 +2,14 @@
   "id": 236800019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.933312,35.124983,-80.933312,35.124983",
     "geom:latitude":35.124983,
     "geom:longitude":-80.933312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 S Commerce Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236800019,
-    "wof:lastmodified":1449001872,
+    "wof:lastmodified":1466650419,
     "wof:name":"Tekra Corporation",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.933312,35.124983,-80.933312,35.124983],
+  "bbox": [
+    -80.933312,
+    35.124983,
+    -80.933312,
+    35.124983
+],
   "geometry": {"coordinates":[-80.933312,35.124983],"type":"Point"}
 }

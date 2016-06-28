@@ -2,13 +2,14 @@
   "id": 370396465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.398271,35.512375,-78.398271,35.512375",
     "geom:latitude":35.512375,
     "geom:longitude":-78.398271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Willow Ln",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370396465,
-    "wof:lastmodified":1449031299,
+    "wof:lastmodified":1466651233,
     "wof:name":"Jorge Moreno Afiguenoa",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.398271,35.512375,-78.398271,35.512375],
-  "geometry": {"coordinates":[-78.398271,35.512375],"type":"Point"}
+  "bbox": [
+    -78.398271,
+    35.512375,
+    -78.398271,
+    35.512375
+],
+  "geometry": {"coordinates":[-78.39827099999999,35.512375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370625257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.193849,35.495257,-81.193849,35.495257",
     "geom:latitude":35.495257,
     "geom:longitude":-81.193849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2858 State Rd 150",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370625257,
-    "wof:lastmodified":1449032529,
+    "wof:lastmodified":1466654205,
     "wof:name":"Forest Lawn Cemetery",
     "wof:parent_id":85822267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-81.193849,35.495257,-81.193849,35.495257],
+  "bbox": [
+    -81.193849,
+    35.495257,
+    -81.193849,
+    35.495257
+],
   "geometry": {"coordinates":[-81.193849,35.495257],"type":"Point"}
 }

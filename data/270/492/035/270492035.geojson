@@ -2,13 +2,14 @@
   "id": 270492035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.394275,35.609598,-77.394275,35.609598",
     "geom:latitude":35.609598,
     "geom:longitude":-77.394275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 S Memorial Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":270492035,
-    "wof:lastmodified":1449008662,
+    "wof:lastmodified":1466649343,
     "wof:name":"Cambridge Behavioral Health",
     "wof:parent_id":85853845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-77.394275,35.609598,-77.394275,35.609598],
-  "geometry": {"coordinates":[-77.394275,35.609598],"type":"Point"}
+  "bbox": [
+    -77.394275,
+    35.609598,
+    -77.394275,
+    35.609598
+],
+  "geometry": {"coordinates":[-77.39427499999999,35.609598],"type":"Point"}
 }

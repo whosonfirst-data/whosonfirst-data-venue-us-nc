@@ -2,13 +2,14 @@
   "id": 354280571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.874426,35.199441,-80.874426,35.199441",
     "geom:latitude":35.199441,
     "geom:longitude":-80.874426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 S Tryon St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354280571,
-    "wof:lastmodified":1449066758,
+    "wof:lastmodified":1466650775,
     "wof:name":"Charlotte Area Transit Systems",
     "wof:parent_id":85847687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "program"
     ]
 },
-  "bbox": [-80.874426,35.199441,-80.874426,35.199441],
+  "bbox": [
+    -80.874426,
+    35.199441,
+    -80.874426,
+    35.199441
+],
   "geometry": {"coordinates":[-80.874426,35.199441],"type":"Point"}
 }

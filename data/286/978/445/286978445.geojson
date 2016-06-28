@@ -2,13 +2,14 @@
   "id": 286978445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.370761,34.778921,-77.370761,34.778921",
     "geom:latitude":34.778921,
     "geom:longitude":-77.370761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Piney Green Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286978445,
-    "wof:lastmodified":1449016881,
+    "wof:lastmodified":1466652920,
     "wof:name":"Providence Holiness Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.370761,34.778921,-77.370761,34.778921],
+  "bbox": [
+    -77.370761,
+    34.778921,
+    -77.370761,
+    34.778921
+],
   "geometry": {"coordinates":[-77.370761,34.778921],"type":"Point"}
 }

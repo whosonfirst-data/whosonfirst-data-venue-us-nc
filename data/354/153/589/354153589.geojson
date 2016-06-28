@@ -2,13 +2,14 @@
   "id": 354153589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.448551,33.94899,-78.448551,33.94899",
     "geom:latitude":33.94899,
     "geom:longitude":-78.448551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Ocean Isle Beach Rd SW",
     "sg:city":"South Brunswick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354153589,
-    "wof:lastmodified":1449067146,
+    "wof:lastmodified":1466649333,
     "wof:name":"B & H Excavating",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.448551,33.94899,-78.448551,33.94899],
-  "geometry": {"coordinates":[-78.448551,33.94899],"type":"Point"}
+  "bbox": [
+    -78.448551,
+    33.94899,
+    -78.448551,
+    33.94899
+],
+  "geometry": {"coordinates":[-78.44855099999999,33.94899],"type":"Point"}
 }

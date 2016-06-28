@@ -2,13 +2,14 @@
   "id": 303811033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.533521,35.897875,-77.533521,35.897875",
     "geom:latitude":35.897875,
     "geom:longitude":-77.533521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Saint Andrew St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303811033,
-    "wof:lastmodified":1448999295,
+    "wof:lastmodified":1466655023,
     "wof:name":"Edgecombe County Child Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-77.533521,35.897875,-77.533521,35.897875],
-  "geometry": {"coordinates":[-77.533521,35.897875],"type":"Point"}
+  "bbox": [
+    -77.533521,
+    35.897875,
+    -77.533521,
+    35.897875
+],
+  "geometry": {"coordinates":[-77.53352099999999,35.897875],"type":"Point"}
 }

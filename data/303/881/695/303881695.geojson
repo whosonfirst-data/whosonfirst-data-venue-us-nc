@@ -2,13 +2,14 @@
   "id": 303881695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.273863,36.092221,-80.273863,36.092221",
     "geom:latitude":36.092221,
     "geom:longitude":-80.273863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Miller St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303881695,
-    "wof:lastmodified":1448999540,
+    "wof:lastmodified":1466656201,
     "wof:name":"Occupational Rehabilitation",
     "wof:parent_id":85855629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.273863,36.092221,-80.273863,36.092221],
-  "geometry": {"coordinates":[-80.273863,36.092221],"type":"Point"}
+  "bbox": [
+    -80.273863,
+    36.092221,
+    -80.273863,
+    36.092221
+],
+  "geometry": {"coordinates":[-80.27386300000001,36.092221],"type":"Point"}
 }

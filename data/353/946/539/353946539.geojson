@@ -2,13 +2,14 @@
   "id": 353946539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.045864,35.255947,-81.045864,35.255947",
     "geom:latitude":35.255947,
     "geom:longitude":-81.045864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 McAdenville Rd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353946539,
-    "wof:lastmodified":1449020499,
+    "wof:lastmodified":1466653459,
     "wof:name":"DMC Properties Inc",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leasing"
     ]
 },
-  "bbox": [-81.045864,35.255947,-81.045864,35.255947],
-  "geometry": {"coordinates":[-81.045864,35.255947],"type":"Point"}
+  "bbox": [
+    -81.045864,
+    35.255947,
+    -81.045864,
+    35.255947
+],
+  "geometry": {"coordinates":[-81.04586399999999,35.255947],"type":"Point"}
 }

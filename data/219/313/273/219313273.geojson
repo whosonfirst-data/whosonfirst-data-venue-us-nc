@@ -2,13 +2,14 @@
   "id": 219313273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.396977,35.235426,-80.396977,35.235426",
     "geom:latitude":35.235426,
     "geom:longitude":-80.396977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12099 Big Lick Rd",
     "sg:city":"Stanfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219313273,
-    "wof:lastmodified":1449070472,
+    "wof:lastmodified":1466643409,
     "wof:name":"B A Smith Performance Cars",
     "wof:parent_id":85892003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.396977,35.235426,-80.396977,35.235426],
-  "geometry": {"coordinates":[-80.396977,35.235426],"type":"Point"}
+  "bbox": [
+    -80.396977,
+    35.235426,
+    -80.396977,
+    35.235426
+],
+  "geometry": {"coordinates":[-80.39697700000001,35.235426],"type":"Point"}
 }

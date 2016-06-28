@@ -2,13 +2,14 @@
   "id": 337282427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.275067,34.009748,-78.275067,34.009748",
     "geom:latitude":34.009748,
     "geom:longitude":-78.275067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Stone Chimney Rd SW",
     "sg:city":"Supply",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":337282427,
-    "wof:lastmodified":1449027463,
+    "wof:lastmodified":1466645891,
     "wof:name":"Wooten's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.275067,34.009748,-78.275067,34.009748],
-  "geometry": {"coordinates":[-78.275067,34.009748],"type":"Point"}
+  "bbox": [
+    -78.275067,
+    34.009748,
+    -78.275067,
+    34.009748
+],
+  "geometry": {"coordinates":[-78.27506700000001,34.009748],"type":"Point"}
 }

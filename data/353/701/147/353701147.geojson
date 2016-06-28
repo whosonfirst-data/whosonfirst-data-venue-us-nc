@@ -2,13 +2,14 @@
   "id": 353701147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.859243,35.820775,-78.859243,35.820775",
     "geom:latitude":35.820775,
     "geom:longitude":-78.859243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Wheelwright Pl",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353701147,
-    "wof:lastmodified":1449020288,
+    "wof:lastmodified":1466650615,
     "wof:name":"If Walls Could Talk",
     "wof:parent_id":85892017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.859243,35.820775,-78.859243,35.820775],
-  "geometry": {"coordinates":[-78.859243,35.820775],"type":"Point"}
+  "bbox": [
+    -78.859243,
+    35.820775,
+    -78.859243,
+    35.820775
+],
+  "geometry": {"coordinates":[-78.85924300000001,35.820775],"type":"Point"}
 }

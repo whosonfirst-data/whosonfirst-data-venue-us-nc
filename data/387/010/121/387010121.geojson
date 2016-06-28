@@ -2,13 +2,14 @@
   "id": 387010121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255328,35.847556,-80.255328,35.847556",
     "geom:latitude":35.847556,
     "geom:longitude":-80.255328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Price Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387010121,
-    "wof:lastmodified":1449058483,
+    "wof:lastmodified":1466650001,
     "wof:name":"Wards Automotive Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-80.255328,35.847556,-80.255328,35.847556],
-  "geometry": {"coordinates":[-80.255328,35.847556],"type":"Point"}
+  "bbox": [
+    -80.255328,
+    35.847556,
+    -80.255328,
+    35.847556
+],
+  "geometry": {"coordinates":[-80.25532800000001,35.847556],"type":"Point"}
 }

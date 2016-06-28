@@ -2,13 +2,14 @@
   "id": 371075249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.342424,35.603576,-77.342424,35.603576",
     "geom:latitude":35.603576,
     "geom:longitude":-77.342424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2737 E 10th St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371075249,
-    "wof:lastmodified":1449049621,
+    "wof:lastmodified":1466649771,
     "wof:name":"Salon Saillant",
     "wof:parent_id":85824139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.342424,35.603576,-77.342424,35.603576],
-  "geometry": {"coordinates":[-77.342424,35.603576],"type":"Point"}
+  "bbox": [
+    -77.342424,
+    35.603576,
+    -77.342424,
+    35.603576
+],
+  "geometry": {"coordinates":[-77.34242399999999,35.603576],"type":"Point"}
 }

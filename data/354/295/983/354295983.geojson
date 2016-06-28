@@ -2,13 +2,14 @@
   "id": 354295983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.658741,34.726196,-76.658741,34.726196",
     "geom:latitude":34.726196,
     "geom:longitude":-76.658741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 W Beaufort Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354295983,
-    "wof:lastmodified":1449066610,
+    "wof:lastmodified":1466650965,
     "wof:name":"University of North Carolin A",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "school"
     ]
 },
-  "bbox": [-76.658741,34.726196,-76.658741,34.726196],
-  "geometry": {"coordinates":[-76.658741,34.726196],"type":"Point"}
+  "bbox": [
+    -76.658741,
+    34.726196,
+    -76.658741,
+    34.726196
+],
+  "geometry": {"coordinates":[-76.65874100000001,34.726196],"type":"Point"}
 }

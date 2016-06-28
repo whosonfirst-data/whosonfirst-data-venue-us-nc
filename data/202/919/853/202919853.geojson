@@ -2,13 +2,14 @@
   "id": 202919853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.467386,35.330565,-82.467386,35.330565",
     "geom:latitude":35.330565,
     "geom:longitude":-82.467386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Beverly Hanks Center",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202919853,
-    "wof:lastmodified":1449062033,
+    "wof:lastmodified":1466645102,
     "wof:name":"Hendersonville Dialysis Center",
     "wof:parent_id":85815273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "center"
     ]
 },
-  "bbox": [-82.467386,35.330565,-82.467386,35.330565],
+  "bbox": [
+    -82.467386,
+    35.330565,
+    -82.467386,
+    35.330565
+],
   "geometry": {"coordinates":[-82.467386,35.330565],"type":"Point"}
 }

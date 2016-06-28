@@ -2,13 +2,14 @@
   "id": 370890823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.782643,34.227005,-77.782643,34.227005",
     "geom:latitude":34.227005,
     "geom:longitude":-77.782643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 N Lumina Ave",
     "sg:city":"Wrightsville Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370890823,
-    "wof:lastmodified":1449029839,
+    "wof:lastmodified":1466656976,
     "wof:name":"Wrightsville Dunes Homeowners",
     "wof:parent_id":85848189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-77.782643,34.227005,-77.782643,34.227005],
-  "geometry": {"coordinates":[-77.782643,34.227005],"type":"Point"}
+  "bbox": [
+    -77.782643,
+    34.227005,
+    -77.782643,
+    34.227005
+],
+  "geometry": {"coordinates":[-77.78264299999999,34.227005],"type":"Point"}
 }

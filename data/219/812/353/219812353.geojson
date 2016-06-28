@@ -2,13 +2,14 @@
   "id": 219812353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.730972,35.543648,-82.730972,35.543648",
     "geom:latitude":35.543648,
     "geom:longitude":-82.730972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Smokey Park Hwy",
     "sg:city":"Candler",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219812353,
-    "wof:lastmodified":1449070465,
+    "wof:lastmodified":1466647283,
     "wof:name":"Independent Newsstand & Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.730972,35.543648,-82.730972,35.543648],
-  "geometry": {"coordinates":[-82.730972,35.543648],"type":"Point"}
+  "bbox": [
+    -82.730972,
+    35.543648,
+    -82.730972,
+    35.543648
+],
+  "geometry": {"coordinates":[-82.73097199999999,35.543648],"type":"Point"}
 }

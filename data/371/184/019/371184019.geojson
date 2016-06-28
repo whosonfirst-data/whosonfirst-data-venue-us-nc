@@ -2,13 +2,14 @@
   "id": 371184019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.951207,35.971265,-78.951207,35.971265",
     "geom:latitude":35.971265,
     "geom:longitude":-78.951207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3638 Durham-Chapel Hill Blvd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371184019,
-    "wof:lastmodified":1449049219,
+    "wof:lastmodified":1466651159,
     "wof:name":"Watson Stake Mfg Co",
     "wof:parent_id":85877193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stakes"
     ]
 },
-  "bbox": [-78.951207,35.971265,-78.951207,35.971265],
+  "bbox": [
+    -78.951207,
+    35.971265,
+    -78.951207,
+    35.971265
+],
   "geometry": {"coordinates":[-78.951207,35.971265],"type":"Point"}
 }

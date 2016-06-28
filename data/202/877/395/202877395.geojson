@@ -2,13 +2,14 @@
   "id": 202877395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.821211,35.226495,-78.821211,35.226495",
     "geom:latitude":35.226495,
     "geom:longitude":-78.821211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2629 Rodeo Dr",
     "sg:city":"Linden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202877395,
-    "wof:lastmodified":1449061882,
+    "wof:lastmodified":1466644768,
     "wof:name":"Cape Fear Commercial Lawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.821211,35.226495,-78.821211,35.226495],
-  "geometry": {"coordinates":[-78.821211,35.226495],"type":"Point"}
+  "bbox": [
+    -78.821211,
+    35.226495,
+    -78.821211,
+    35.226495
+],
+  "geometry": {"coordinates":[-78.82121100000001,35.226495],"type":"Point"}
 }

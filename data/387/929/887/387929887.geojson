@@ -2,13 +2,14 @@
   "id": 387929887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.38389,36.02553,-80.38389,36.02553",
     "geom:latitude":36.02553,
     "geom:longitude":-80.38389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 Neudorf Rd",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387929887,
-    "wof:lastmodified":1449057565,
+    "wof:lastmodified":1466658025,
     "wof:name":"Marazano Asset Management",
     "wof:parent_id":85845791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-80.38389,36.02553,-80.38389,36.02553],
-  "geometry": {"coordinates":[-80.38389,36.02553],"type":"Point"}
+  "bbox": [
+    -80.38389,
+    36.02553,
+    -80.38389,
+    36.02553
+],
+  "geometry": {"coordinates":[-80.38388999999999,36.02553],"type":"Point"}
 }

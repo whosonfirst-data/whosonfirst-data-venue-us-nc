@@ -2,13 +2,14 @@
   "id": 303910669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.393127,35.535258,-77.393127,35.535258",
     "geom:latitude":35.535258,
     "geom:longitude":-77.393127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"381 Evergreen St",
     "sg:city":"Winterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303910669,
-    "wof:lastmodified":1448999138,
+    "wof:lastmodified":1466656075,
     "wof:name":"Moses Asphalt Paving & Repair",
     "wof:parent_id":85847981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.393127,35.535258,-77.393127,35.535258],
-  "geometry": {"coordinates":[-77.393127,35.535258],"type":"Point"}
+  "bbox": [
+    -77.393127,
+    35.535258,
+    -77.393127,
+    35.535258
+],
+  "geometry": {"coordinates":[-77.39312700000001,35.535258],"type":"Point"}
 }

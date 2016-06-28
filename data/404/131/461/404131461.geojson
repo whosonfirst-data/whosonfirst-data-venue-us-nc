@@ -2,13 +2,14 @@
   "id": 404131461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.572631,35.76781,-78.572631,35.76781",
     "geom:latitude":35.76781,
     "geom:longitude":-78.572631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Poole Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404131461,
-    "wof:lastmodified":1449039379,
+    "wof:lastmodified":1466652945,
     "wof:name":"East Carolina Farm Credit",
     "wof:parent_id":85803659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-78.572631,35.76781,-78.572631,35.76781],
+  "bbox": [
+    -78.572631,
+    35.76781,
+    -78.572631,
+    35.76781
+],
   "geometry": {"coordinates":[-78.572631,35.76781],"type":"Point"}
 }

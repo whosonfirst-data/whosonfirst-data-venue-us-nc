@@ -2,13 +2,14 @@
   "id": 337303353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.965038,36.413263,-79.965038,36.413263",
     "geom:latitude":36.413263,
     "geom:longitude":-79.965038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N 1st Ave",
     "sg:city":"Mayodan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337303353,
-    "wof:lastmodified":1449026938,
+    "wof:lastmodified":1466646136,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.965038,36.413263,-79.965038,36.413263],
-  "geometry": {"coordinates":[-79.965038,36.413263],"type":"Point"}
+  "bbox": [
+    -79.965038,
+    36.413263,
+    -79.965038,
+    36.413263
+],
+  "geometry": {"coordinates":[-79.96503800000001,36.413263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403803903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.054451,35.928782,-79.054451,35.928782",
     "geom:latitude":35.928782,
     "geom:longitude":-79.054451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 Airport Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403803903,
-    "wof:lastmodified":1449055980,
+    "wof:lastmodified":1466651628,
     "wof:name":"Life Sciences Law",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.054451,35.928782,-79.054451,35.928782],
+  "bbox": [
+    -79.054451,
+    35.928782,
+    -79.054451,
+    35.928782
+],
   "geometry": {"coordinates":[-79.054451,35.928782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319922751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.698461,35.741093,-81.698461,35.741093",
     "geom:latitude":35.741093,
     "geom:longitude":-81.698461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Montrose St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319922751,
-    "wof:lastmodified":1449024173,
+    "wof:lastmodified":1466646363,
     "wof:name":"James A Salisbury MD",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.698461,35.741093,-81.698461,35.741093],
-  "geometry": {"coordinates":[-81.698461,35.741093],"type":"Point"}
+  "bbox": [
+    -81.698461,
+    35.741093,
+    -81.698461,
+    35.741093
+],
+  "geometry": {"coordinates":[-81.69846099999999,35.741093],"type":"Point"}
 }

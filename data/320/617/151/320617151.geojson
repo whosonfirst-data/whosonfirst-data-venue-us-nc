@@ -2,13 +2,14 @@
   "id": 320617151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.177917,36.102969,-79.177917,36.102969",
     "geom:latitude":36.102969,
     "geom:longitude":-79.177917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 N Efland Cedar Grove Rd",
     "sg:city":"Efland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320617151,
-    "wof:lastmodified":1449011385,
+    "wof:lastmodified":1466654071,
     "wof:name":"Howard Mc Adams",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-79.177917,36.102969,-79.177917,36.102969],
-  "geometry": {"coordinates":[-79.177917,36.102969],"type":"Point"}
+  "bbox": [
+    -79.177917,
+    36.102969,
+    -79.177917,
+    36.102969
+],
+  "geometry": {"coordinates":[-79.17791699999999,36.102969],"type":"Point"}
 }

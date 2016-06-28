@@ -2,13 +2,14 @@
   "id": 303462157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.807729,35.25124,-80.807729,35.25124",
     "geom:latitude":35.25124,
     "geom:longitude":-80.807729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3224 Benard Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303462157,
-    "wof:lastmodified":1449000472,
+    "wof:lastmodified":1466649983,
     "wof:name":"Industrial Filtration Co",
     "wof:parent_id":85871245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-80.807729,35.25124,-80.807729,35.25124],
-  "geometry": {"coordinates":[-80.807729,35.25124],"type":"Point"}
+  "bbox": [
+    -80.807729,
+    35.25124,
+    -80.807729,
+    35.25124
+],
+  "geometry": {"coordinates":[-80.80772899999999,35.25124],"type":"Point"}
 }

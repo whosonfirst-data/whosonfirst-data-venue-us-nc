@@ -2,13 +2,14 @@
   "id": 303500319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.647311,36.474022,-77.647311,36.474022",
     "geom:latitude":36.474022,
     "geom:longitude":-77.647311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Roanoke Ave",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303500319,
-    "wof:lastmodified":1448998722,
+    "wof:lastmodified":1466650517,
     "wof:name":"Mental Health Assoc Of Nc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-77.647311,36.474022,-77.647311,36.474022],
+  "bbox": [
+    -77.647311,
+    36.474022,
+    -77.647311,
+    36.474022
+],
   "geometry": {"coordinates":[-77.647311,36.474022],"type":"Point"}
 }

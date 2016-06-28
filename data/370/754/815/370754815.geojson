@@ -2,13 +2,14 @@
   "id": 370754815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.639507,35.79805,-78.639507,35.79805",
     "geom:latitude":35.79805,
     "geom:longitude":-78.639507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370754815,
-    "wof:lastmodified":1449031289,
+    "wof:lastmodified":1466655889,
     "wof:name":"Capital Finance Inc",
     "wof:parent_id":85873453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-78.639507,35.79805,-78.639507,35.79805],
-  "geometry": {"coordinates":[-78.639507,35.79805],"type":"Point"}
+  "bbox": [
+    -78.639507,
+    35.79805,
+    -78.639507,
+    35.79805
+],
+  "geometry": {"coordinates":[-78.63950699999999,35.79805],"type":"Point"}
 }

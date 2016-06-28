@@ -2,13 +2,14 @@
   "id": 303390017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.660613,35.435243,-77.660613,35.435243",
     "geom:latitude":35.435243,
     "geom:longitude":-77.660613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 SE 2nd St",
     "sg:city":"Snow Hill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303390017,
-    "wof:lastmodified":1449000592,
+    "wof:lastmodified":1466648934,
     "wof:name":"Classic Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.660613,35.435243,-77.660613,35.435243],
+  "bbox": [
+    -77.660613,
+    35.435243,
+    -77.660613,
+    35.435243
+],
   "geometry": {"coordinates":[-77.660613,35.435243],"type":"Point"}
 }

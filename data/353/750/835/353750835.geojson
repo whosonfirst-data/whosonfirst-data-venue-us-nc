@@ -2,13 +2,14 @@
   "id": 353750835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.501444,36.092603,-76.501444,36.092603",
     "geom:latitude":36.092603,
     "geom:longitude":-76.501444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"386 Burnt Mill Rd",
     "sg:city":"Edenton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353750835,
-    "wof:lastmodified":1449019824,
+    "wof:lastmodified":1466651206,
     "wof:name":"Joe Harrell",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-76.501444,36.092603,-76.501444,36.092603],
-  "geometry": {"coordinates":[-76.501444,36.092603],"type":"Point"}
+  "bbox": [
+    -76.501444,
+    36.092603,
+    -76.501444,
+    36.092603
+],
+  "geometry": {"coordinates":[-76.50144400000001,36.092603],"type":"Point"}
 }

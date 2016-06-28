@@ -2,13 +2,14 @@
   "id": 303413619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.904149,34.785702,-76.904149,34.785702",
     "geom:latitude":34.785702,
     "geom:longitude":-76.904149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Powell St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303413619,
-    "wof:lastmodified":1448998506,
+    "wof:lastmodified":1466649266,
     "wof:name":"Computer House Calls",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-76.904149,34.785702,-76.904149,34.785702],
+  "bbox": [
+    -76.904149,
+    34.785702,
+    -76.904149,
+    34.785702
+],
   "geometry": {"coordinates":[-76.904149,34.785702],"type":"Point"}
 }

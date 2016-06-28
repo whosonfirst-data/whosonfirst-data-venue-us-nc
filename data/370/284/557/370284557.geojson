@@ -2,13 +2,14 @@
   "id": 370284557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.770255,35.408309,-78.770255,35.408309",
     "geom:latitude":35.408309,
     "geom:longitude":-78.770255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1995 E Cornelius Harnett Blvd",
     "sg:city":"Lillington",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370284557,
-    "wof:lastmodified":1449031189,
+    "wof:lastmodified":1466649830,
     "wof:name":"Harnett Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-78.770255,35.408309,-78.770255,35.408309],
-  "geometry": {"coordinates":[-78.770255,35.408309],"type":"Point"}
+  "bbox": [
+    -78.770255,
+    35.408309,
+    -78.770255,
+    35.408309
+],
+  "geometry": {"coordinates":[-78.77025500000001,35.408309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354007921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.640814,35.788246,-78.640814,35.788246",
     "geom:latitude":35.788246,
     "geom:longitude":-78.640814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 W Peace St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354007921,
-    "wof:lastmodified":1449067356,
+    "wof:lastmodified":1466647652,
     "wof:name":"Tops Texaco Mart 3",
     "wof:parent_id":85873465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-78.640814,35.788246,-78.640814,35.788246],
-  "geometry": {"coordinates":[-78.640814,35.788246],"type":"Point"}
+  "bbox": [
+    -78.640814,
+    35.788246,
+    -78.640814,
+    35.788246
+],
+  "geometry": {"coordinates":[-78.64081400000001,35.788246],"type":"Point"}
 }

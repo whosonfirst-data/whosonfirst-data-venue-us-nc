@@ -2,13 +2,14 @@
   "id": 336841593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.820384,35.227393,-80.820384,35.227393",
     "geom:latitude":35.227393,
     "geom:longitude":-80.820384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Belmont Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336841593,
-    "wof:lastmodified":1448997175,
+    "wof:lastmodified":1466649514,
     "wof:name":"Grounded Sound Studio",
     "wof:parent_id":85805609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.820384,35.227393,-80.820384,35.227393],
+  "bbox": [
+    -80.820384,
+    35.227393,
+    -80.820384,
+    35.227393
+],
   "geometry": {"coordinates":[-80.820384,35.227393],"type":"Point"}
 }

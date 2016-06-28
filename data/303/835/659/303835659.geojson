@@ -2,13 +2,14 @@
   "id": 303835659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.213203,35.241472,-81.213203,35.241472",
     "geom:latitude":35.241472,
     "geom:longitude":-81.213203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1537 Belmar Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303835659,
-    "wof:lastmodified":1448998467,
+    "wof:lastmodified":1466655378,
     "wof:name":"Christopher Trucking",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-81.213203,35.241472,-81.213203,35.241472],
-  "geometry": {"coordinates":[-81.213203,35.241472],"type":"Point"}
+  "bbox": [
+    -81.213203,
+    35.241472,
+    -81.213203,
+    35.241472
+],
+  "geometry": {"coordinates":[-81.21320299999999,35.241472],"type":"Point"}
 }

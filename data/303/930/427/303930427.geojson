@@ -2,13 +2,14 @@
   "id": 303930427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.493473,36.128188,-80.493473,36.128188",
     "geom:latitude":36.128188,
     "geom:longitude":-80.493473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Melrose Ct",
     "sg:city":"East Bend",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303930427,
-    "wof:lastmodified":1448998895,
+    "wof:lastmodified":1466656299,
     "wof:name":"Thompson's Painting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.493473,36.128188,-80.493473,36.128188],
-  "geometry": {"coordinates":[-80.493473,36.128188],"type":"Point"}
+  "bbox": [
+    -80.493473,
+    36.128188,
+    -80.493473,
+    36.128188
+],
+  "geometry": {"coordinates":[-80.49347299999999,36.128188],"type":"Point"}
 }

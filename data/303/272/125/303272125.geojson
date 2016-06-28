@@ -2,13 +2,14 @@
   "id": 303272125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.763581,35.910886,-78.763581,35.910886",
     "geom:latitude":35.910886,
     "geom:longitude":-78.763581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7413 A C C Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303272125,
-    "wof:lastmodified":1449000399,
+    "wof:lastmodified":1466647275,
     "wof:name":"Pro Chem Distributors Inc",
     "wof:parent_id":85892095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-78.763581,35.910886,-78.763581,35.910886],
+  "bbox": [
+    -78.763581,
+    35.910886,
+    -78.763581,
+    35.910886
+],
   "geometry": {"coordinates":[-78.763581,35.910886],"type":"Point"}
 }

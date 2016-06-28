@@ -2,13 +2,14 @@
   "id": 303853099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.295319,36.162262,-80.295319,36.162262",
     "geom:latitude":36.162262,
     "geom:longitude":-80.295319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3880 Bethania Station Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303853099,
-    "wof:lastmodified":1448999106,
+    "wof:lastmodified":1466655631,
     "wof:name":"Pine Tree Lounge",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.295319,36.162262,-80.295319,36.162262],
-  "geometry": {"coordinates":[-80.295319,36.162262],"type":"Point"}
+  "bbox": [
+    -80.295319,
+    36.162262,
+    -80.295319,
+    36.162262
+],
+  "geometry": {"coordinates":[-80.29531900000001,36.162262],"type":"Point"}
 }

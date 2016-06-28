@@ -2,13 +2,14 @@
   "id": 253581731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.058803,35.552561,-77.058803,35.552561",
     "geom:latitude":35.552561,
     "geom:longitude":-77.058803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Washington St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253581731,
-    "wof:lastmodified":1449063433,
+    "wof:lastmodified":1466649359,
     "wof:name":"Whats Novel",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-77.058803,35.552561,-77.058803,35.552561],
+  "bbox": [
+    -77.058803,
+    35.552561,
+    -77.058803,
+    35.552561
+],
   "geometry": {"coordinates":[-77.058803,35.552561],"type":"Point"}
 }

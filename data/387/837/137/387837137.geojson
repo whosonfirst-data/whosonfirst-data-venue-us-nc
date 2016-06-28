@@ -2,13 +2,14 @@
   "id": 387837137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.755383,35.855258,-76.755383,35.855258",
     "geom:latitude":35.855258,
     "geom:longitude":-76.755383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Wilson St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387837137,
-    "wof:lastmodified":1449056696,
+    "wof:lastmodified":1466657840,
     "wof:name":"Texaco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-76.755383,35.855258,-76.755383,35.855258],
-  "geometry": {"coordinates":[-76.755383,35.855258],"type":"Point"}
+  "bbox": [
+    -76.755383,
+    35.855258,
+    -76.755383,
+    35.855258
+],
+  "geometry": {"coordinates":[-76.75538299999999,35.855258],"type":"Point"}
 }

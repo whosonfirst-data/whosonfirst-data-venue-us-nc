@@ -2,13 +2,14 @@
   "id": 219165151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.883727,35.216166,-80.883727,35.216166",
     "geom:latitude":35.216166,
     "geom:longitude":-80.883727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Remount Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219165151,
-    "wof:lastmodified":1449073921,
+    "wof:lastmodified":1466655171,
     "wof:name":"White's Upholstery Shop",
     "wof:parent_id":85891893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-80.883727,35.216166,-80.883727,35.216166],
-  "geometry": {"coordinates":[-80.883727,35.216166],"type":"Point"}
+  "bbox": [
+    -80.883727,
+    35.216166,
+    -80.883727,
+    35.216166
+],
+  "geometry": {"coordinates":[-80.88372699999999,35.216166],"type":"Point"}
 }

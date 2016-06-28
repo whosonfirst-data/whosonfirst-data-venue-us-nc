@@ -2,13 +2,14 @@
   "id": 270253677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.946579,35.373928,-77.946579,35.373928",
     "geom:latitude":35.373928,
     "geom:longitude":-77.946579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N Berkeley Blvd",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270253677,
-    "wof:lastmodified":1449010788,
+    "wof:lastmodified":1466646252,
     "wof:name":"Grand Rental Station",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.946579,35.373928,-77.946579,35.373928],
+  "bbox": [
+    -77.946579,
+    35.373928,
+    -77.946579,
+    35.373928
+],
   "geometry": {"coordinates":[-77.946579,35.373928],"type":"Point"}
 }

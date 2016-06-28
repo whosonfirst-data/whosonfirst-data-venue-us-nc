@@ -2,13 +2,14 @@
   "id": 387611551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.841141,34.209593,-77.841141,34.209593",
     "geom:latitude":34.209593,
     "geom:longitude":-77.841141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Giles Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387611551,
-    "wof:lastmodified":1449059108,
+    "wof:lastmodified":1466657092,
     "wof:name":"Handy Rady's Construction",
     "wof:parent_id":85838865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.841141,34.209593,-77.841141,34.209593],
-  "geometry": {"coordinates":[-77.841141,34.209593],"type":"Point"}
+  "bbox": [
+    -77.841141,
+    34.209593,
+    -77.841141,
+    34.209593
+],
+  "geometry": {"coordinates":[-77.84114099999999,34.209593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253053401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.881133,34.10649,-77.881133,34.10649",
     "geom:latitude":34.10649,
     "geom:longitude":-77.881133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2545 Crab Catcher Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":253053401,
-    "wof:lastmodified":1449063371,
+    "wof:lastmodified":1466643645,
     "wof:name":"GPA",
     "wof:parent_id":85822927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "con"
     ]
 },
-  "bbox": [-77.881133,34.10649,-77.881133,34.10649],
-  "geometry": {"coordinates":[-77.881133,34.10649],"type":"Point"}
+  "bbox": [
+    -77.881133,
+    34.10649,
+    -77.881133,
+    34.10649
+],
+  "geometry": {"coordinates":[-77.88113300000001,34.10649],"type":"Point"}
 }

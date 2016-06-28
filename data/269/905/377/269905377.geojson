@@ -2,13 +2,14 @@
   "id": 269905377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.890026,34.881834,-76.890026,34.881834",
     "geom:latitude":34.881834,
     "geom:longitude":-76.890026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Shipman Rd",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269905377,
-    "wof:lastmodified":1449037097,
+    "wof:lastmodified":1466648179,
     "wof:name":"American Self Storage",
     "wof:parent_id":85824245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-76.890026,34.881834,-76.890026,34.881834],
-  "geometry": {"coordinates":[-76.890026,34.881834],"type":"Point"}
+  "bbox": [
+    -76.890026,
+    34.881834,
+    -76.890026,
+    34.881834
+],
+  "geometry": {"coordinates":[-76.89002600000001,34.881834],"type":"Point"}
 }

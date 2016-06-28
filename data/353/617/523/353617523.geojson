@@ -2,13 +2,14 @@
   "id": 353617523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.208256,35.485143,-81.208256,35.485143",
     "geom:latitude":35.485143,
     "geom:longitude":-81.208256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Eastwood Dr",
     "sg:city":"Cramerton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353617523,
-    "wof:lastmodified":1449018330,
+    "wof:lastmodified":1466649638,
     "wof:name":"B R Jenkins Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yarn"
     ]
 },
-  "bbox": [-81.208256,35.485143,-81.208256,35.485143],
-  "geometry": {"coordinates":[-81.208256,35.485143],"type":"Point"}
+  "bbox": [
+    -81.208256,
+    35.485143,
+    -81.208256,
+    35.485143
+],
+  "geometry": {"coordinates":[-81.20825600000001,35.485143],"type":"Point"}
 }

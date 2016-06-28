@@ -2,13 +2,14 @@
   "id": 253687801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.326073,35.013619,-78.326073,35.013619",
     "geom:latitude":35.013619,
     "geom:longitude":-78.326073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Beaman St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253687801,
-    "wof:lastmodified":1449063645,
+    "wof:lastmodified":1466650602,
     "wof:name":"Hinson Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-78.326073,35.013619,-78.326073,35.013619],
-  "geometry": {"coordinates":[-78.326073,35.013619],"type":"Point"}
+  "bbox": [
+    -78.326073,
+    35.013619,
+    -78.326073,
+    35.013619
+],
+  "geometry": {"coordinates":[-78.32607299999999,35.013619],"type":"Point"}
 }

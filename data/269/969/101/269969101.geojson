@@ -2,13 +2,14 @@
   "id": 269969101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.256967,35.485497,-78.256967,35.485497",
     "geom:latitude":35.485497,
     "geom:longitude":-78.256967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3352 US Hwy 70 E",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269969101,
-    "wof:lastmodified":1449036720,
+    "wof:lastmodified":1466648975,
     "wof:name":"Mm Feeds",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-78.256967,35.485497,-78.256967,35.485497],
+  "bbox": [
+    -78.256967,
+    35.485497,
+    -78.256967,
+    35.485497
+],
   "geometry": {"coordinates":[-78.256967,35.485497],"type":"Point"}
 }

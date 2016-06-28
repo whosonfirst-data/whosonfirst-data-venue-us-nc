@@ -2,13 +2,14 @@
   "id": 353780385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.580982,35.469295,-81.580982,35.469295",
     "geom:latitude":35.469295,
     "geom:longitude":-81.580982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"956 Casar-Lawndale Rd",
     "sg:city":"Lawndale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353780385,
-    "wof:lastmodified":1449020159,
+    "wof:lastmodified":1466651542,
     "wof:name":"Paul Grigg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-81.580982,35.469295,-81.580982,35.469295],
-  "geometry": {"coordinates":[-81.580982,35.469295],"type":"Point"}
+  "bbox": [
+    -81.580982,
+    35.469295,
+    -81.580982,
+    35.469295
+],
+  "geometry": {"coordinates":[-81.58098200000001,35.469295],"type":"Point"}
 }

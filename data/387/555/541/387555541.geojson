@@ -2,13 +2,14 @@
   "id": 387555541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.044761,35.473729,-83.044761,35.473729",
     "geom:latitude":35.473729,
     "geom:longitude":-83.044761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"682 Oxner Cove Rd",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387555541,
-    "wof:lastmodified":1449059381,
+    "wof:lastmodified":1466656569,
     "wof:name":"Cochran Dairy",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.044761,35.473729,-83.044761,35.473729],
-  "geometry": {"coordinates":[-83.044761,35.473729],"type":"Point"}
+  "bbox": [
+    -83.044761,
+    35.473729,
+    -83.044761,
+    35.473729
+],
+  "geometry": {"coordinates":[-83.04476099999999,35.473729],"type":"Point"}
 }

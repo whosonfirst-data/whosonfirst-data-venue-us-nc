@@ -2,13 +2,14 @@
   "id": 336948153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.484408,36.123994,-79.484408,36.123994",
     "geom:latitude":36.123994,
     "geom:longitude":-79.484408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Greentree Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336948153,
-    "wof:lastmodified":1448997811,
+    "wof:lastmodified":1466651141,
     "wof:name":"Alamance Control Svc",
     "wof:parent_id":85845553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "control"
     ]
 },
-  "bbox": [-79.484408,36.123994,-79.484408,36.123994],
+  "bbox": [
+    -79.484408,
+    36.123994,
+    -79.484408,
+    36.123994
+],
   "geometry": {"coordinates":[-79.484408,36.123994],"type":"Point"}
 }

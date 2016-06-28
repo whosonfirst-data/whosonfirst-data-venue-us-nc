@@ -2,13 +2,14 @@
   "id": 320201035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.897506,35.815052,-79.897506,35.815052",
     "geom:latitude":35.815052,
     "geom:longitude":-79.897506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4893 Beeson Farm Rd",
     "sg:city":"Sophia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320201035,
-    "wof:lastmodified":1449014471,
+    "wof:lastmodified":1466648107,
     "wof:name":"Sophia Church Of God",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.897506,35.815052,-79.897506,35.815052],
-  "geometry": {"coordinates":[-79.897506,35.815052],"type":"Point"}
+  "bbox": [
+    -79.897506,
+    35.815052,
+    -79.897506,
+    35.815052
+],
+  "geometry": {"coordinates":[-79.89750600000001,35.815052],"type":"Point"}
 }

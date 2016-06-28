@@ -2,13 +2,14 @@
   "id": 303632403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.834415,35.0601,-80.834415,35.0601",
     "geom:latitude":35.0601,
     "geom:longitude":-80.834415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6934 Rock Dove Ct",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303632403,
-    "wof:lastmodified":1448999680,
+    "wof:lastmodified":1466652438,
     "wof:name":"Hucks Sportswear",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-80.834415,35.0601,-80.834415,35.0601],
-  "geometry": {"coordinates":[-80.834415,35.0601],"type":"Point"}
+  "bbox": [
+    -80.834415,
+    35.0601,
+    -80.834415,
+    35.0601
+],
+  "geometry": {"coordinates":[-80.83441500000001,35.0601],"type":"Point"}
 }

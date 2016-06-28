@@ -2,13 +2,14 @@
   "id": 336753645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.659281,35.112957,-80.659281,35.112957",
     "geom:latitude":35.112957,
     "geom:longitude":-80.659281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4224 Scarlet Dr",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336753645,
-    "wof:lastmodified":1448997055,
+    "wof:lastmodified":1466648151,
     "wof:name":"Metrolina Wrecker Svc",
     "wof:parent_id":85812565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.659281,35.112957,-80.659281,35.112957],
-  "geometry": {"coordinates":[-80.659281,35.112957],"type":"Point"}
+  "bbox": [
+    -80.659281,
+    35.112957,
+    -80.659281,
+    35.112957
+],
+  "geometry": {"coordinates":[-80.65928099999999,35.112957],"type":"Point"}
 }

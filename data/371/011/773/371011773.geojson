@@ -2,13 +2,14 @@
   "id": 371011773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.00262,35.780125,-81.00262,35.780125",
     "geom:latitude":35.780125,
     "geom:longitude":-81.00262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2159 Old Mountain Rd",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371011773,
-    "wof:lastmodified":1449049907,
+    "wof:lastmodified":1466648984,
     "wof:name":"West Iredell Grocery",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.00262,35.780125,-81.00262,35.780125],
-  "geometry": {"coordinates":[-81.00262,35.780125],"type":"Point"}
+  "bbox": [
+    -81.00262,
+    35.780125,
+    -81.00262,
+    35.780125
+],
+  "geometry": {"coordinates":[-81.00261999999999,35.780125],"type":"Point"}
 }

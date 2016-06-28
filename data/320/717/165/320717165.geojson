@@ -2,13 +2,14 @@
   "id": 320717165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.861785,35.470929,-80.861785,35.470929",
     "geom:latitude":35.470929,
     "geom:longitude":-80.861785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 John Hawks Rd",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320717165,
-    "wof:lastmodified":1449011360,
+    "wof:lastmodified":1466655505,
     "wof:name":"Peachtree Res Weather Store",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.861785,35.470929,-80.861785,35.470929],
+  "bbox": [
+    -80.861785,
+    35.470929,
+    -80.861785,
+    35.470929
+],
   "geometry": {"coordinates":[-80.861785,35.470929],"type":"Point"}
 }

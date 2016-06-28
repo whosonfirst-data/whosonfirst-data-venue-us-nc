@@ -2,13 +2,14 @@
   "id": 236515259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.254443,36.299572,-76.254443,36.299572",
     "geom:latitude":36.299572,
     "geom:longitude":-76.254443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 W Church St",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236515259,
-    "wof:lastmodified":1449002253,
+    "wof:lastmodified":1466647737,
     "wof:name":"Climatemasters Inc",
     "wof:parent_id":85840077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.254443,36.299572,-76.254443,36.299572],
-  "geometry": {"coordinates":[-76.254443,36.299572],"type":"Point"}
+  "bbox": [
+    -76.254443,
+    36.299572,
+    -76.254443,
+    36.299572
+],
+  "geometry": {"coordinates":[-76.25444299999999,36.299572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303548743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.044931,35.107059,-77.044931,35.107059",
     "geom:latitude":35.107059,
     "geom:longitude":-77.044931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Pollock St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303548743,
-    "wof:lastmodified":1448999810,
+    "wof:lastmodified":1466651224,
     "wof:name":"John Chadwick House Cafe",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-77.044931,35.107059,-77.044931,35.107059],
-  "geometry": {"coordinates":[-77.044931,35.107059],"type":"Point"}
+  "bbox": [
+    -77.044931,
+    35.107059,
+    -77.044931,
+    35.107059
+],
+  "geometry": {"coordinates":[-77.04493100000001,35.107059],"type":"Point"}
 }

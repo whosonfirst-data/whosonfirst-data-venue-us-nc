@@ -2,13 +2,14 @@
   "id": 387969119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.745277,35.753245,-81.745277,35.753245",
     "geom:latitude":35.753245,
     "geom:longitude":-81.745277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 State Hwy 126",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387969119,
-    "wof:lastmodified":1449057016,
+    "wof:lastmodified":1466658011,
     "wof:name":"Proctor Home Imprvmnt",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.745277,35.753245,-81.745277,35.753245],
+  "bbox": [
+    -81.745277,
+    35.753245,
+    -81.745277,
+    35.753245
+],
   "geometry": {"coordinates":[-81.745277,35.753245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387018655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.200944,35.260315,-81.200944,35.260315",
     "geom:latitude":35.260315,
     "geom:longitude":-81.200944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Millon St",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387018655,
-    "wof:lastmodified":1449057999,
+    "wof:lastmodified":1466650119,
     "wof:name":"Charles Used Cars",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.200944,35.260315,-81.200944,35.260315],
-  "geometry": {"coordinates":[-81.200944,35.260315],"type":"Point"}
+  "bbox": [
+    -81.200944,
+    35.260315,
+    -81.200944,
+    35.260315
+],
+  "geometry": {"coordinates":[-81.20094400000001,35.260315],"type":"Point"}
 }

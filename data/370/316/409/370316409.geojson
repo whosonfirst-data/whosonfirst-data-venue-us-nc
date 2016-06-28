@@ -2,13 +2,14 @@
   "id": 370316409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.837876,35.440554,-80.837876,35.440554",
     "geom:latitude":35.440554,
     "geom:longitude":-80.837876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11316 Sam Furr Rd",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370316409,
-    "wof:lastmodified":1449031371,
+    "wof:lastmodified":1466650219,
     "wof:name":"Electricities Of Nc",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.837876,35.440554,-80.837876,35.440554],
-  "geometry": {"coordinates":[-80.837876,35.440554],"type":"Point"}
+  "bbox": [
+    -80.837876,
+    35.440554,
+    -80.837876,
+    35.440554
+],
+  "geometry": {"coordinates":[-80.83787599999999,35.440554],"type":"Point"}
 }

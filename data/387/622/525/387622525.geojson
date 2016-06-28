@@ -2,13 +2,14 @@
   "id": 387622525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.090572,34.996764,-78.090572,34.996764",
     "geom:latitude":34.996764,
     "geom:longitude":-78.090572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 S Pine St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387622525,
-    "wof:lastmodified":1449059238,
+    "wof:lastmodified":1466656842,
     "wof:name":"El Mariachi Gordo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.090572,34.996764,-78.090572,34.996764],
-  "geometry": {"coordinates":[-78.090572,34.996764],"type":"Point"}
+  "bbox": [
+    -78.090572,
+    34.996764,
+    -78.090572,
+    34.996764
+],
+  "geometry": {"coordinates":[-78.09057199999999,34.996764],"type":"Point"}
 }

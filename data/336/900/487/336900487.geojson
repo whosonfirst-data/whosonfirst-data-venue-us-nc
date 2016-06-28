@@ -2,13 +2,14 @@
   "id": 336900487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.356771,35.584712,-77.356771,35.584712",
     "geom:latitude":35.584712,
     "geom:longitude":-77.356771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 Sherwood Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336900487,
-    "wof:lastmodified":1448997411,
+    "wof:lastmodified":1466650426,
     "wof:name":"Investment Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bond"
     ]
 },
-  "bbox": [-77.356771,35.584712,-77.356771,35.584712],
-  "geometry": {"coordinates":[-77.356771,35.584712],"type":"Point"}
+  "bbox": [
+    -77.356771,
+    35.584712,
+    -77.356771,
+    35.584712
+],
+  "geometry": {"coordinates":[-77.35677099999999,35.584712],"type":"Point"}
 }

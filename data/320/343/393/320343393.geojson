@@ -2,13 +2,14 @@
   "id": 320343393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.592547,35.985248,-80.592547,35.985248",
     "geom:latitude":35.985248,
     "geom:longitude":-80.592547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 Eatons Church Rd",
     "sg:city":"Mocksville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320343393,
-    "wof:lastmodified":1449013912,
+    "wof:lastmodified":1466650108,
     "wof:name":"Eaton Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-80.592547,35.985248,-80.592547,35.985248],
+  "bbox": [
+    -80.592547,
+    35.985248,
+    -80.592547,
+    35.985248
+],
   "geometry": {"coordinates":[-80.592547,35.985248],"type":"Point"}
 }

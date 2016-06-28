@@ -2,13 +2,14 @@
   "id": 303766481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.62144,34.708372,-76.62144,34.708372",
     "geom:latitude":34.708372,
     "geom:longitude":-76.62144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Taylors Creek Ln",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303766481,
-    "wof:lastmodified":1448998084,
+    "wof:lastmodified":1466654383,
     "wof:name":"Creekside Construction Company",
     "wof:parent_id":85805099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.62144,34.708372,-76.62144,34.708372],
-  "geometry": {"coordinates":[-76.62144,34.708372],"type":"Point"}
+  "bbox": [
+    -76.62144,
+    34.708372,
+    -76.62144,
+    34.708372
+],
+  "geometry": {"coordinates":[-76.62144000000001,34.708372],"type":"Point"}
 }

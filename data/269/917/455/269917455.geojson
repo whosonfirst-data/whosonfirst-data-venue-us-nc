@@ -2,13 +2,14 @@
   "id": 269917455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.916063,36.233003,-80.916063,36.233003",
     "geom:latitude":36.233003,
     "geom:longitude":-80.916063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"288 Calvary Rd",
     "sg:city":"Newland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269917455,
-    "wof:lastmodified":1449038537,
+    "wof:lastmodified":1466648336,
     "wof:name":"Church Of Jesus Christ",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.916063,36.233003,-80.916063,36.233003],
-  "geometry": {"coordinates":[-80.916063,36.233003],"type":"Point"}
+  "bbox": [
+    -80.916063,
+    36.233003,
+    -80.916063,
+    36.233003
+],
+  "geometry": {"coordinates":[-80.91606299999999,36.233003],"type":"Point"}
 }

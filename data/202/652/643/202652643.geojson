@@ -2,13 +2,14 @@
   "id": 202652643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.90608,35.210681,-80.90608,35.210681",
     "geom:latitude":35.210681,
     "geom:longitude":-80.90608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2604 West Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202652643,
-    "wof:lastmodified":1449061730,
+    "wof:lastmodified":1466655720,
     "wof:name":"Chicken King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.90608,35.210681,-80.90608,35.210681],
+  "bbox": [
+    -80.90608,
+    35.210681,
+    -80.90608,
+    35.210681
+],
   "geometry": {"coordinates":[-80.90608,35.210681],"type":"Point"}
 }

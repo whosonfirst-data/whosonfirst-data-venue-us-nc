@@ -2,13 +2,14 @@
   "id": 287077573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.538227,35.575221,-82.538227,35.575221",
     "geom:latitude":35.575221,
     "geom:longitude":-82.538227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Kenilworth Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287077573,
-    "wof:lastmodified":1449000801,
+    "wof:lastmodified":1466644361,
     "wof:name":"Big Bridge",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-82.538227,35.575221,-82.538227,35.575221],
-  "geometry": {"coordinates":[-82.538227,35.575221],"type":"Point"}
+  "bbox": [
+    -82.538227,
+    35.575221,
+    -82.538227,
+    35.575221
+],
+  "geometry": {"coordinates":[-82.53822700000001,35.575221],"type":"Point"}
 }

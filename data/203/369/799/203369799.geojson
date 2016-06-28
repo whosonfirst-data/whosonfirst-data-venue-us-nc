@@ -2,13 +2,14 @@
   "id": 203369799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.583329,34.703425,-77.583329,34.703425",
     "geom:latitude":34.703425,
     "geom:longitude":-77.583329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Nelson Park Rd",
     "sg:city":"Maple Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203369799,
-    "wof:lastmodified":1449026783,
+    "wof:lastmodified":1466643755,
     "wof:name":"Seashore Builders",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.583329,34.703425,-77.583329,34.703425],
-  "geometry": {"coordinates":[-77.583329,34.703425],"type":"Point"}
+  "bbox": [
+    -77.583329,
+    34.703425,
+    -77.583329,
+    34.703425
+],
+  "geometry": {"coordinates":[-77.58332900000001,34.703425],"type":"Point"}
 }

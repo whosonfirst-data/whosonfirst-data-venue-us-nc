@@ -2,13 +2,14 @@
   "id": 303896879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.000887,35.069676,-79.000887,35.069676",
     "geom:latitude":35.069676,
     "geom:longitude":-79.000887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7251 Ryan St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303896879,
-    "wof:lastmodified":1448999011,
+    "wof:lastmodified":1466656145,
     "wof:name":"Carson Management",
     "wof:parent_id":85831097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.000887,35.069676,-79.000887,35.069676],
-  "geometry": {"coordinates":[-79.000887,35.069676],"type":"Point"}
+  "bbox": [
+    -79.000887,
+    35.069676,
+    -79.000887,
+    35.069676
+],
+  "geometry": {"coordinates":[-79.00088700000001,35.069676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202746943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.672001,34.715923,-76.672001,34.715923",
     "geom:latitude":34.715923,
     "geom:longitude":-76.672001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Duke Marine Lab Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202746943,
-    "wof:lastmodified":1449060088,
+    "wof:lastmodified":1466643779,
     "wof:name":"Pearse Memorial Library",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.672001,34.715923,-76.672001,34.715923],
-  "geometry": {"coordinates":[-76.672001,34.715923],"type":"Point"}
+  "bbox": [
+    -76.672001,
+    34.715923,
+    -76.672001,
+    34.715923
+],
+  "geometry": {"coordinates":[-76.67200099999999,34.715923],"type":"Point"}
 }

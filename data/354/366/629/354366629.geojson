@@ -2,13 +2,14 @@
   "id": 354366629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.138388,35.456664,-78.138388,35.456664",
     "geom:latitude":35.456664,
     "geom:longitude":-78.138388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9577 US Hwy 70 E",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354366629,
-    "wof:lastmodified":1449067203,
+    "wof:lastmodified":1466651792,
     "wof:name":"Simply Western",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.138388,35.456664,-78.138388,35.456664],
-  "geometry": {"coordinates":[-78.138388,35.456664],"type":"Point"}
+  "bbox": [
+    -78.138388,
+    35.456664,
+    -78.138388,
+    35.456664
+],
+  "geometry": {"coordinates":[-78.13838800000001,35.456664],"type":"Point"}
 }

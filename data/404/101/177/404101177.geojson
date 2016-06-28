@@ -2,13 +2,14 @@
   "id": 404101177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.980087,35.362524,-77.980087,35.362524",
     "geom:latitude":35.362524,
     "geom:longitude":-77.980087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 S Andrews Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404101177,
-    "wof:lastmodified":1449039766,
+    "wof:lastmodified":1466652554,
     "wof:name":"Johnny Jones Masonry",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.980087,35.362524,-77.980087,35.362524],
+  "bbox": [
+    -77.980087,
+    35.362524,
+    -77.980087,
+    35.362524
+],
   "geometry": {"coordinates":[-77.980087,35.362524],"type":"Point"}
 }

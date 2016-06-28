@@ -2,13 +2,14 @@
   "id": 269784817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.441806,36.073871,-79.441806,36.073871",
     "geom:latitude":36.073871,
     "geom:longitude":-79.441806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Chapel Hill Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269784817,
-    "wof:lastmodified":1449037723,
+    "wof:lastmodified":1466646783,
     "wof:name":"Mailing Factor",
     "wof:parent_id":85839987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-79.441806,36.073871,-79.441806,36.073871],
+  "bbox": [
+    -79.441806,
+    36.073871,
+    -79.441806,
+    36.073871
+],
   "geometry": {"coordinates":[-79.441806,36.073871],"type":"Point"}
 }

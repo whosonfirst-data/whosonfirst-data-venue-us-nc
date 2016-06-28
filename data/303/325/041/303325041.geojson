@@ -2,13 +2,14 @@
   "id": 303325041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.000768,34.623342,-78.000768,34.623342",
     "geom:latitude":34.623342,
     "geom:longitude":-78.000768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"542 Shiloh Rd",
     "sg:city":"Watha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303325041,
-    "wof:lastmodified":1448999079,
+    "wof:lastmodified":1466648006,
     "wof:name":"Jackie's Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "landscape"
     ]
 },
-  "bbox": [-78.000768,34.623342,-78.000768,34.623342],
-  "geometry": {"coordinates":[-78.000768,34.623342],"type":"Point"}
+  "bbox": [
+    -78.000768,
+    34.623342,
+    -78.000768,
+    34.623342
+],
+  "geometry": {"coordinates":[-78.00076799999999,34.623342],"type":"Point"}
 }

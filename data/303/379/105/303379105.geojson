@@ -2,13 +2,14 @@
   "id": 303379105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.538098,35.233679,-80.538098,35.233679",
     "geom:latitude":35.233679,
     "geom:longitude":-80.538098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Ramble Rd",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303379105,
-    "wof:lastmodified":1448999544,
+    "wof:lastmodified":1466648771,
     "wof:name":"R & P Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.538098,35.233679,-80.538098,35.233679],
-  "geometry": {"coordinates":[-80.538098,35.233679],"type":"Point"}
+  "bbox": [
+    -80.538098,
+    35.233679,
+    -80.538098,
+    35.233679
+],
+  "geometry": {"coordinates":[-80.53809800000001,35.233679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353801605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.444167,35.286529,-82.444167,35.286529",
     "geom:latitude":35.286529,
     "geom:longitude":-82.444167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Greenville Hwy",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353801605,
-    "wof:lastmodified":1449020383,
+    "wof:lastmodified":1466651792,
     "wof:name":"Alpha Locksmith Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-82.444167,35.286529,-82.444167,35.286529],
-  "geometry": {"coordinates":[-82.444167,35.286529],"type":"Point"}
+  "bbox": [
+    -82.444167,
+    35.286529,
+    -82.444167,
+    35.286529
+],
+  "geometry": {"coordinates":[-82.44416699999999,35.286529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336630629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.845565,35.652255,-78.845565,35.652255",
     "geom:latitude":35.652255,
     "geom:longitude":-78.845565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Saranac Ridge Dr",
     "sg:city":"Holly Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336630629,
-    "wof:lastmodified":1448997312,
+    "wof:lastmodified":1466646295,
     "wof:name":"MTM Svc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-78.845565,35.652255,-78.845565,35.652255],
-  "geometry": {"coordinates":[-78.845565,35.652255],"type":"Point"}
+  "bbox": [
+    -78.845565,
+    35.652255,
+    -78.845565,
+    35.652255
+],
+  "geometry": {"coordinates":[-78.84556499999999,35.652255],"type":"Point"}
 }

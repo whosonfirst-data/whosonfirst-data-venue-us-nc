@@ -2,13 +2,14 @@
   "id": 270142197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.905155,35.706227,-77.905155,35.706227",
     "geom:latitude":35.706227,
     "geom:longitude":-77.905155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Black Creek Rd SE",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270142197,
-    "wof:lastmodified":1449010577,
+    "wof:lastmodified":1466644876,
     "wof:name":"United Tobacco Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tobacco"
     ]
 },
-  "bbox": [-77.905155,35.706227,-77.905155,35.706227],
-  "geometry": {"coordinates":[-77.905155,35.706227],"type":"Point"}
+  "bbox": [
+    -77.905155,
+    35.706227,
+    -77.905155,
+    35.706227
+],
+  "geometry": {"coordinates":[-77.90515499999999,35.706227],"type":"Point"}
 }

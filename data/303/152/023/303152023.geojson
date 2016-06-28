@@ -2,13 +2,14 @@
   "id": 303152023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.619814,35.156589,-78.619814,35.156589",
     "geom:latitude":35.156589,
     "geom:longitude":-78.619814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8116 Fayetteville Hwy",
     "sg:city":"Godwin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303152023,
-    "wof:lastmodified":1449000001,
+    "wof:lastmodified":1466645501,
     "wof:name":"Bryan's Auto Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.619814,35.156589,-78.619814,35.156589],
-  "geometry": {"coordinates":[-78.619814,35.156589],"type":"Point"}
+  "bbox": [
+    -78.619814,
+    35.156589,
+    -78.619814,
+    35.156589
+],
+  "geometry": {"coordinates":[-78.61981400000001,35.156589],"type":"Point"}
 }

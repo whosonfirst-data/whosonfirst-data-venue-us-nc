@@ -2,13 +2,14 @@
   "id": 353406043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.540501,35.536651,-82.540501,35.536651",
     "geom:latitude":35.536651,
     "geom:longitude":-82.540501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Park Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353406043,
-    "wof:lastmodified":1449019632,
+    "wof:lastmodified":1466647635,
     "wof:name":"Asheville Eye Associates Pllc",
     "wof:parent_id":85808373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"
     ]
 },
-  "bbox": [-82.540501,35.536651,-82.540501,35.536651],
-  "geometry": {"coordinates":[-82.540501,35.536651],"type":"Point"}
+  "bbox": [
+    -82.540501,
+    35.536651,
+    -82.540501,
+    35.536651
+],
+  "geometry": {"coordinates":[-82.54050100000001,35.536651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403743799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.548659,35.809748,-78.548659,35.809748",
     "geom:latitude":35.809748,
     "geom:longitude":-78.548659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 Indianwood Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403743799,
-    "wof:lastmodified":1449055953,
+    "wof:lastmodified":1466650855,
     "wof:name":"Lincoln Electric Company",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-78.548659,35.809748,-78.548659,35.809748],
+  "bbox": [
+    -78.548659,
+    35.809748,
+    -78.548659,
+    35.809748
+],
   "geometry": {"coordinates":[-78.548659,35.809748],"type":"Point"}
 }

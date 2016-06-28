@@ -2,13 +2,14 @@
   "id": 320592685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.656162,35.715053,-78.656162,35.715053",
     "geom:latitude":35.715053,
     "geom:longitude":-78.656162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4807 Fayetteville Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320592685,
-    "wof:lastmodified":1449013405,
+    "wof:lastmodified":1466653722,
     "wof:name":"El Dorado Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.656162,35.715053,-78.656162,35.715053],
-  "geometry": {"coordinates":[-78.656162,35.715053],"type":"Point"}
+  "bbox": [
+    -78.656162,
+    35.715053,
+    -78.656162,
+    35.715053
+],
+  "geometry": {"coordinates":[-78.65616199999999,35.715053],"type":"Point"}
 }

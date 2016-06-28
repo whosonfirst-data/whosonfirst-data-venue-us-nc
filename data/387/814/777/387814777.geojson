@@ -2,13 +2,14 @@
   "id": 387814777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.31946,34.752276,-79.31946,34.752276",
     "geom:latitude":34.752276,
     "geom:longitude":-79.31946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Tuscarora Nation Rd",
     "sg:city":"Maxton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387814777,
-    "wof:lastmodified":1449056796,
+    "wof:lastmodified":1466657804,
     "wof:name":"Tuscarora Nation Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.31946,34.752276,-79.31946,34.752276],
-  "geometry": {"coordinates":[-79.31946,34.752276],"type":"Point"}
+  "bbox": [
+    -79.31946,
+    34.752276,
+    -79.31946,
+    34.752276
+],
+  "geometry": {"coordinates":[-79.31946000000001,34.752276],"type":"Point"}
 }

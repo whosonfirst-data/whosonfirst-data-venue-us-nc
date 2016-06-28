@@ -2,13 +2,14 @@
   "id": 320482779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.816296,34.220394,-77.816296,34.220394",
     "geom:latitude":34.220394,
     "geom:longitude":-77.816296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7205 Wrightsville Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320482779,
-    "wof:lastmodified":1449012597,
+    "wof:lastmodified":1466652110,
     "wof:name":"University Of North Carolina",
     "wof:parent_id":85830827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-77.816296,34.220394,-77.816296,34.220394],
-  "geometry": {"coordinates":[-77.816296,34.220394],"type":"Point"}
+  "bbox": [
+    -77.816296,
+    34.220394,
+    -77.816296,
+    34.220394
+],
+  "geometry": {"coordinates":[-77.81629599999999,34.220394],"type":"Point"}
 }

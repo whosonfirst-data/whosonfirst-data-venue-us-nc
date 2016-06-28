@@ -2,13 +2,14 @@
   "id": 403771241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.862841,36.121175,-78.862841,36.121175",
     "geom:latitude":36.121175,
     "geom:longitude":-78.862841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Villa Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403771241,
-    "wof:lastmodified":1449055359,
+    "wof:lastmodified":1466651211,
     "wof:name":"Weather Master Inc",
     "wof:parent_id":85877167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pump"
     ]
 },
-  "bbox": [-78.862841,36.121175,-78.862841,36.121175],
+  "bbox": [
+    -78.862841,
+    36.121175,
+    -78.862841,
+    36.121175
+],
   "geometry": {"coordinates":[-78.862841,36.121175],"type":"Point"}
 }

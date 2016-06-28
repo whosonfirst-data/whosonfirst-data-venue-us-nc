@@ -2,13 +2,14 @@
   "id": 202799779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.444217,36.011463,-80.444217,36.011463",
     "geom:latitude":36.011463,
     "geom:longitude":-80.444217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Yadkin Valley Rd",
     "sg:city":"Advance",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202799779,
-    "wof:lastmodified":1449062656,
+    "wof:lastmodified":1466644164,
     "wof:name":"Susan Hinsinger MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.444217,36.011463,-80.444217,36.011463],
-  "geometry": {"coordinates":[-80.444217,36.011463],"type":"Point"}
+  "bbox": [
+    -80.444217,
+    36.011463,
+    -80.444217,
+    36.011463
+],
+  "geometry": {"coordinates":[-80.44421699999999,36.011463],"type":"Point"}
 }

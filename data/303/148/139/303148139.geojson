@@ -2,13 +2,14 @@
   "id": 303148139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.497864,35.49921,-82.497864,35.49921",
     "geom:latitude":35.49921,
     "geom:longitude":-82.497864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Shelby Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303148139,
-    "wof:lastmodified":1449000177,
+    "wof:lastmodified":1466645435,
     "wof:name":"Carolina Certified Appraisals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.497864,35.49921,-82.497864,35.49921],
-  "geometry": {"coordinates":[-82.497864,35.49921],"type":"Point"}
+  "bbox": [
+    -82.497864,
+    35.49921,
+    -82.497864,
+    35.49921
+],
+  "geometry": {"coordinates":[-82.49786400000001,35.49921],"type":"Point"}
 }

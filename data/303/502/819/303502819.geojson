@@ -2,13 +2,14 @@
   "id": 303502819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.273344,35.807649,-80.273344,35.807649",
     "geom:latitude":35.807649,
     "geom:longitude":-80.273344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Crutchfield Ave",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303502819,
-    "wof:lastmodified":1448999239,
+    "wof:lastmodified":1466650557,
     "wof:name":"Woodmen of World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.273344,35.807649,-80.273344,35.807649],
-  "geometry": {"coordinates":[-80.273344,35.807649],"type":"Point"}
+  "bbox": [
+    -80.273344,
+    35.807649,
+    -80.273344,
+    35.807649
+],
+  "geometry": {"coordinates":[-80.27334399999999,35.807649],"type":"Point"}
 }

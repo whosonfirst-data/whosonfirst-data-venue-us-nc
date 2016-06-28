@@ -2,13 +2,14 @@
   "id": 219692499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.535875,35.577342,-82.535875,35.577342",
     "geom:latitude":35.577342,
     "geom:longitude":-82.535875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Lakewood Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219692499,
-    "wof:lastmodified":1449071335,
+    "wof:lastmodified":1466646285,
     "wof:name":"Purple Pages",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.535875,35.577342,-82.535875,35.577342],
+  "bbox": [
+    -82.535875,
+    35.577342,
+    -82.535875,
+    35.577342
+],
   "geometry": {"coordinates":[-82.535875,35.577342],"type":"Point"}
 }

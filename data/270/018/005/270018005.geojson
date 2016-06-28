@@ -2,13 +2,14 @@
   "id": 270018005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.278849,36.098268,-79.278849,36.098268",
     "geom:latitude":36.098268,
     "geom:longitude":-79.278849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 W Center St",
     "sg:city":"Mebane",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270018005,
-    "wof:lastmodified":1449009859,
+    "wof:lastmodified":1466643411,
     "wof:name":"Piedmont Warehouse",
     "wof:parent_id":85832733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "storage"
     ]
 },
-  "bbox": [-79.278849,36.098268,-79.278849,36.098268],
-  "geometry": {"coordinates":[-79.278849,36.098268],"type":"Point"}
+  "bbox": [
+    -79.278849,
+    36.098268,
+    -79.278849,
+    36.098268
+],
+  "geometry": {"coordinates":[-79.27884899999999,36.098268],"type":"Point"}
 }

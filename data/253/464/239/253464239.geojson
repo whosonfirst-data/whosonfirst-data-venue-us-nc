@@ -2,13 +2,14 @@
   "id": 253464239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.661408,34.48957,-78.661408,34.48957",
     "geom:latitude":34.48957,
     "geom:longitude":-78.661408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 W Green St",
     "sg:city":"Clarkton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253464239,
-    "wof:lastmodified":1449063606,
+    "wof:lastmodified":1466647926,
     "wof:name":"Shed 7 Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-78.661408,34.48957,-78.661408,34.48957],
-  "geometry": {"coordinates":[-78.661408,34.48957],"type":"Point"}
+  "bbox": [
+    -78.661408,
+    34.48957,
+    -78.661408,
+    34.48957
+],
+  "geometry": {"coordinates":[-78.66140799999999,34.48957],"type":"Point"}
 }

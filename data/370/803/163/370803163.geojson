@@ -2,13 +2,14 @@
   "id": 370803163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.288551,36.090095,-80.288551,36.090095",
     "geom:latitude":36.090095,
     "geom:longitude":-80.288551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2614 Gould St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370803163,
-    "wof:lastmodified":1449032516,
+    "wof:lastmodified":1466656173,
     "wof:name":"Marshall Shearin",
     "wof:parent_id":85881847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.288551,36.090095,-80.288551,36.090095],
+  "bbox": [
+    -80.288551,
+    36.090095,
+    -80.288551,
+    36.090095
+],
   "geometry": {"coordinates":[-80.288551,36.090095],"type":"Point"}
 }

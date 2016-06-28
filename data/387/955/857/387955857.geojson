@@ -2,13 +2,14 @@
   "id": 387955857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.822259,36.20988,-81.822259,36.20988",
     "geom:latitude":36.20988,
     "geom:longitude":-81.822259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Charlie Hicks Rd",
     "sg:city":"Banner Elk",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387955857,
-    "wof:lastmodified":1449058750,
+    "wof:lastmodified":1466658075,
     "wof:name":"Hicks Tree Svc",
     "wof:parent_id":85814995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-81.822259,36.20988,-81.822259,36.20988],
+  "bbox": [
+    -81.822259,
+    36.20988,
+    -81.822259,
+    36.20988
+],
   "geometry": {"coordinates":[-81.822259,36.20988],"type":"Point"}
 }

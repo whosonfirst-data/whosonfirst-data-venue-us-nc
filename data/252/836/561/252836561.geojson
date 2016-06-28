@@ -2,13 +2,14 @@
   "id": 252836561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.816662,35.046336,-83.816662,35.046336",
     "geom:latitude":35.046336,
     "geom:longitude":-83.816662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Sanderson St",
     "sg:city":"Hayesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252836561,
-    "wof:lastmodified":1449006121,
+    "wof:lastmodified":1466644361,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.816662,35.046336,-83.816662,35.046336],
-  "geometry": {"coordinates":[-83.816662,35.046336],"type":"Point"}
+  "bbox": [
+    -83.816662,
+    35.046336,
+    -83.816662,
+    35.046336
+],
+  "geometry": {"coordinates":[-83.81666199999999,35.046336],"type":"Point"}
 }

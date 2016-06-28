@@ -2,13 +2,14 @@
   "id": 387731847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.793704,35.661403,-78.793704,35.661403",
     "geom:latitude":35.661403,
     "geom:longitude":-78.793704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5420 Sunset Lake Rd",
     "sg:city":"Holly Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387731847,
-    "wof:lastmodified":1449059492,
+    "wof:lastmodified":1466657411,
     "wof:name":"Sunrise Methodist Chruch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.793704,35.661403,-78.793704,35.661403],
-  "geometry": {"coordinates":[-78.793704,35.661403],"type":"Point"}
+  "bbox": [
+    -78.793704,
+    35.661403,
+    -78.793704,
+    35.661403
+],
+  "geometry": {"coordinates":[-78.79370400000001,35.661403],"type":"Point"}
 }

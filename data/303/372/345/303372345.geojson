@@ -2,13 +2,14 @@
   "id": 303372345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.883609,34.177769,-77.883609,34.177769",
     "geom:latitude":34.177769,
     "geom:longitude":-77.883609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3515 Melissa Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303372345,
-    "wof:lastmodified":1448999605,
+    "wof:lastmodified":1466648678,
     "wof:name":"Pilgrim Wire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wire"
     ]
 },
-  "bbox": [-77.883609,34.177769,-77.883609,34.177769],
-  "geometry": {"coordinates":[-77.883609,34.177769],"type":"Point"}
+  "bbox": [
+    -77.883609,
+    34.177769,
+    -77.883609,
+    34.177769
+],
+  "geometry": {"coordinates":[-77.88360900000001,34.177769],"type":"Point"}
 }

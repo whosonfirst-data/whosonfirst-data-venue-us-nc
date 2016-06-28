@@ -2,13 +2,14 @@
   "id": 320105879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.828986,35.324026,-77.828986,35.324026",
     "geom:latitude":35.324026,
     "geom:longitude":-77.828986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Beston Dr",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320105879,
-    "wof:lastmodified":1449012701,
+    "wof:lastmodified":1466646784,
     "wof:name":"Billy Thompson Electrical Svc",
     "wof:parent_id":85822855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-77.828986,35.324026,-77.828986,35.324026],
+  "bbox": [
+    -77.828986,
+    35.324026,
+    -77.828986,
+    35.324026
+],
   "geometry": {"coordinates":[-77.828986,35.324026],"type":"Point"}
 }

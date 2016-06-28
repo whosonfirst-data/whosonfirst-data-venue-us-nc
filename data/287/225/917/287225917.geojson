@@ -2,13 +2,14 @@
   "id": 287225917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.839091,36.532602,-77.839091,36.532602",
     "geom:latitude":36.532602,
     "geom:longitude":-77.839091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1458 River Rd",
     "sg:city":"Henrico",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":287225917,
-    "wof:lastmodified":1449000930,
+    "wof:lastmodified":1466646452,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.839091,36.532602,-77.839091,36.532602],
+  "bbox": [
+    -77.839091,
+    36.532602,
+    -77.839091,
+    36.532602
+],
   "geometry": {"coordinates":[-77.839091,36.532602],"type":"Point"}
 }

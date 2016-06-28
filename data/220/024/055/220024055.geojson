@@ -2,13 +2,14 @@
   "id": 220024055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.96864,35.018372,-78.96864,35.018372",
     "geom:latitude":35.018372,
     "geom:longitude":-78.96864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5245 Hornbeam Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220024055,
-    "wof:lastmodified":1449074407,
+    "wof:lastmodified":1466643408,
     "wof:name":"L&H Cleaning Team",
     "wof:parent_id":85858953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [-78.96864,35.018372,-78.96864,35.018372],
-  "geometry": {"coordinates":[-78.96864,35.018372],"type":"Point"}
+  "bbox": [
+    -78.96864,
+    35.018372,
+    -78.96864,
+    35.018372
+],
+  "geometry": {"coordinates":[-78.96863999999999,35.018372],"type":"Point"}
 }

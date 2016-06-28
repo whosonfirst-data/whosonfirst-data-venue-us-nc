@@ -2,13 +2,14 @@
   "id": 236056199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.843758,35.055629,-80.843758,35.055629",
     "geom:latitude":35.055629,
     "geom:longitude":-80.843758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13015 Ballantyne Corporate Pl",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236056199,
-    "wof:lastmodified":1449002416,
+    "wof:lastmodified":1466643727,
     "wof:name":"Lodge At Ballantyne Resort",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.843758,35.055629,-80.843758,35.055629],
-  "geometry": {"coordinates":[-80.843758,35.055629],"type":"Point"}
+  "bbox": [
+    -80.843758,
+    35.055629,
+    -80.843758,
+    35.055629
+],
+  "geometry": {"coordinates":[-80.84375799999999,35.055629],"type":"Point"}
 }

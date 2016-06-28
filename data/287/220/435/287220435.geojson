@@ -2,13 +2,14 @@
   "id": 287220435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.509481,35.978698,-78.509481,35.978698",
     "geom:latitude":35.978698,
     "geom:longitude":-78.509481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S White St",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287220435,
-    "wof:lastmodified":1449001555,
+    "wof:lastmodified":1466646363,
     "wof:name":"Carolina Health Solutions PA",
     "wof:parent_id":85892169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.509481,35.978698,-78.509481,35.978698],
-  "geometry": {"coordinates":[-78.509481,35.978698],"type":"Point"}
+  "bbox": [
+    -78.509481,
+    35.978698,
+    -78.509481,
+    35.978698
+],
+  "geometry": {"coordinates":[-78.50948099999999,35.978698],"type":"Point"}
 }

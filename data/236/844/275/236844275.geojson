@@ -2,13 +2,14 @@
   "id": 236844275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.750498,35.536099,-78.750498,35.536099",
     "geom:latitude":35.536099,
     "geom:longitude":-78.750498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9808 Kennebec Church Rd",
     "sg:city":"Angier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236844275,
-    "wof:lastmodified":1449002994,
+    "wof:lastmodified":1466650787,
     "wof:name":"Kennebec Baptist Church",
     "wof:parent_id":85892205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.750498,35.536099,-78.750498,35.536099],
-  "geometry": {"coordinates":[-78.750498,35.536099],"type":"Point"}
+  "bbox": [
+    -78.750498,
+    35.536099,
+    -78.750498,
+    35.536099
+],
+  "geometry": {"coordinates":[-78.75049799999999,35.536099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320724983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.901368,35.057111,-78.901368,35.057111",
     "geom:latitude":35.057111,
     "geom:longitude":-78.901368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Morganton Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320724983,
-    "wof:lastmodified":1449014892,
+    "wof:lastmodified":1466655610,
     "wof:name":"Corporate Interiors & Sales",
     "wof:parent_id":85824371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-78.901368,35.057111,-78.901368,35.057111],
-  "geometry": {"coordinates":[-78.901368,35.057111],"type":"Point"}
+  "bbox": [
+    -78.901368,
+    35.057111,
+    -78.901368,
+    35.057111
+],
+  "geometry": {"coordinates":[-78.90136800000001,35.057111],"type":"Point"}
 }

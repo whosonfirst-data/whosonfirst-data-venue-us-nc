@@ -2,13 +2,14 @@
   "id": 354288371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.817191,35.396479,-78.817191,35.396479",
     "geom:latitude":35.396479,
     "geom:longitude":-78.817191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 S Main St",
     "sg:city":"Lillington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354288371,
-    "wof:lastmodified":1449066115,
+    "wof:lastmodified":1466650867,
     "wof:name":"Gregory's Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-78.817191,35.396479,-78.817191,35.396479],
-  "geometry": {"coordinates":[-78.817191,35.396479],"type":"Point"}
+  "bbox": [
+    -78.817191,
+    35.396479,
+    -78.817191,
+    35.396479
+],
+  "geometry": {"coordinates":[-78.81719099999999,35.396479],"type":"Point"}
 }

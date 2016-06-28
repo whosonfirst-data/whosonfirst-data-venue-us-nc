@@ -2,13 +2,14 @@
   "id": 320119517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.874029,35.009594,-78.874029,35.009594",
     "geom:latitude":35.009594,
     "geom:longitude":-78.874029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 E Mountain Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320119517,
-    "wof:lastmodified":1449013934,
+    "wof:lastmodified":1466646985,
     "wof:name":"Daxwoodcom",
     "wof:parent_id":85805349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.874029,35.009594,-78.874029,35.009594],
-  "geometry": {"coordinates":[-78.874029,35.009594],"type":"Point"}
+  "bbox": [
+    -78.874029,
+    35.009594,
+    -78.874029,
+    35.009594
+],
+  "geometry": {"coordinates":[-78.87402899999999,35.009594],"type":"Point"}
 }

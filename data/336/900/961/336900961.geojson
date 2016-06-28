@@ -2,13 +2,14 @@
   "id": 336900961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.357452,35.78276,-78.357452,35.78276",
     "geom:latitude":35.78276,
     "geom:longitude":-78.357452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 Old Wilson Rd",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336900961,
-    "wof:lastmodified":1448997416,
+    "wof:lastmodified":1466650432,
     "wof:name":"Stamp Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "metal"
     ]
 },
-  "bbox": [-78.357452,35.78276,-78.357452,35.78276],
-  "geometry": {"coordinates":[-78.357452,35.78276],"type":"Point"}
+  "bbox": [
+    -78.357452,
+    35.78276,
+    -78.357452,
+    35.78276
+],
+  "geometry": {"coordinates":[-78.35745199999999,35.78276],"type":"Point"}
 }

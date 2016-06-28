@@ -2,13 +2,14 @@
   "id": 320038663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.750358,35.205403,-80.750358,35.205403",
     "geom:latitude":35.205403,
     "geom:longitude":-80.750358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5220 Central Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320038663,
-    "wof:lastmodified":1449013658,
+    "wof:lastmodified":1466645875,
     "wof:name":"Metrolina Concrete",
     "wof:parent_id":85882269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.750358,35.205403,-80.750358,35.205403],
-  "geometry": {"coordinates":[-80.750358,35.205403],"type":"Point"}
+  "bbox": [
+    -80.750358,
+    35.205403,
+    -80.750358,
+    35.205403
+],
+  "geometry": {"coordinates":[-80.75035800000001,35.205403],"type":"Point"}
 }

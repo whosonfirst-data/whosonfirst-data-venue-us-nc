@@ -2,13 +2,14 @@
   "id": 370788573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.847963,34.223105,-77.847963,34.223105",
     "geom:latitude":34.223105,
     "geom:longitude":-77.847963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Hooker Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370788573,
-    "wof:lastmodified":1449030827,
+    "wof:lastmodified":1466656067,
     "wof:name":"Calvary Memorial Cemetery",
     "wof:parent_id":85838865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-77.847963,34.223105,-77.847963,34.223105],
-  "geometry": {"coordinates":[-77.847963,34.223105],"type":"Point"}
+  "bbox": [
+    -77.847963,
+    34.223105,
+    -77.847963,
+    34.223105
+],
+  "geometry": {"coordinates":[-77.84796299999999,34.223105],"type":"Point"}
 }

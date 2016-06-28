@@ -2,13 +2,14 @@
   "id": 370731723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.585005,35.258106,-75.585005,35.258106",
     "geom:latitude":35.258106,
     "geom:longitude":-75.585005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50286 Spencers Wood Rd",
     "sg:city":"Hatteras",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370731723,
-    "wof:lastmodified":1449032097,
+    "wof:lastmodified":1466655596,
     "wof:name":"Island Choppers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-75.585005,35.258106,-75.585005,35.258106],
+  "bbox": [
+    -75.585005,
+    35.258106,
+    -75.585005,
+    35.258106
+],
   "geometry": {"coordinates":[-75.585005,35.258106],"type":"Point"}
 }

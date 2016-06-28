@@ -2,13 +2,14 @@
   "id": 371026599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.932759,34.191711,-77.932759,34.191711",
     "geom:latitude":34.191711,
     "geom:longitude":-77.932759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Shipyard Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371026599,
-    "wof:lastmodified":1449049657,
+    "wof:lastmodified":1466649168,
     "wof:name":"North Carolina Tasc Trnng",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-77.932759,34.191711,-77.932759,34.191711],
+  "bbox": [
+    -77.932759,
+    34.191711,
+    -77.932759,
+    34.191711
+],
   "geometry": {"coordinates":[-77.932759,34.191711],"type":"Point"}
 }

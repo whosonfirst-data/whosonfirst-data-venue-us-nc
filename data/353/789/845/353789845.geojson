@@ -2,13 +2,14 @@
   "id": 353789845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.961544,34.961759,-77.961544,34.961759",
     "geom:latitude":34.961759,
     "geom:longitude":-77.961544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Kenansville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353789845,
-    "wof:lastmodified":1449019409,
+    "wof:lastmodified":1466651652,
     "wof:name":"Probation/Parole-Adult",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-77.961544,34.961759,-77.961544,34.961759],
+  "bbox": [
+    -77.961544,
+    34.961759,
+    -77.961544,
+    34.961759
+],
   "geometry": {"coordinates":[-77.961544,34.961759],"type":"Point"}
 }

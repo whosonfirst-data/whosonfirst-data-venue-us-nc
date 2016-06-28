@@ -2,13 +2,14 @@
   "id": 370240003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.501977,36.064099,-79.501977,36.064099",
     "geom:latitude":36.064099,
     "geom:longitude":-79.501977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1236 Huffman Mill Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370240003,
-    "wof:lastmodified":1449029442,
+    "wof:lastmodified":1466649282,
     "wof:name":"Pain Center Of Alamance Rgnl",
     "wof:parent_id":85857181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-79.501977,36.064099,-79.501977,36.064099],
+  "bbox": [
+    -79.501977,
+    36.064099,
+    -79.501977,
+    36.064099
+],
   "geometry": {"coordinates":[-79.501977,36.064099],"type":"Point"}
 }

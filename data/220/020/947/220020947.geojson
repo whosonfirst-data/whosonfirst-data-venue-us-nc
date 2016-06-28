@@ -2,13 +2,14 @@
   "id": 220020947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.814299,35.603806,-80.814299,35.603806",
     "geom:latitude":35.603806,
     "geom:longitude":-80.814299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Statesville Hwy",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220020947,
-    "wof:lastmodified":1449074397,
+    "wof:lastmodified":1466643376,
     "wof:name":"Bowles Automotive Inc",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "automotive"
     ]
 },
-  "bbox": [-80.814299,35.603806,-80.814299,35.603806],
-  "geometry": {"coordinates":[-80.814299,35.603806],"type":"Point"}
+  "bbox": [
+    -80.814299,
+    35.603806,
+    -80.814299,
+    35.603806
+],
+  "geometry": {"coordinates":[-80.81429900000001,35.603806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270125643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.803171,35.226247,-80.803171,35.226247",
     "geom:latitude":35.226247,
     "geom:longitude":-80.803171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 Ashland Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270125643,
-    "wof:lastmodified":1449011046,
+    "wof:lastmodified":1466644655,
     "wof:name":"Mosaic",
     "wof:parent_id":85834157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.803171,35.226247,-80.803171,35.226247],
-  "geometry": {"coordinates":[-80.803171,35.226247],"type":"Point"}
+  "bbox": [
+    -80.803171,
+    35.226247,
+    -80.803171,
+    35.226247
+],
+  "geometry": {"coordinates":[-80.80317100000001,35.226247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286270243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.28606,35.709216,-81.28606,35.709216",
     "geom:latitude":35.709216,
     "geom:longitude":-81.28606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 26th St SE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286270243,
-    "wof:lastmodified":1449015681,
+    "wof:lastmodified":1466643337,
     "wof:name":"Snider Tire Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tire"
     ]
 },
-  "bbox": [-81.28606,35.709216,-81.28606,35.709216],
-  "geometry": {"coordinates":[-81.28606,35.709216],"type":"Point"}
+  "bbox": [
+    -81.28606,
+    35.709216,
+    -81.28606,
+    35.709216
+],
+  "geometry": {"coordinates":[-81.28606000000001,35.709216],"type":"Point"}
 }

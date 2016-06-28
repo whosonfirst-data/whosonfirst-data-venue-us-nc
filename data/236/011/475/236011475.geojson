@@ -2,13 +2,14 @@
   "id": 236011475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.163499,36.130152,-81.163499,36.130152",
     "geom:latitude":36.130152,
     "geom:longitude":-81.163499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Woodfield Way",
     "sg:city":"Wilkesboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236011475,
-    "wof:lastmodified":1449004522,
+    "wof:lastmodified":1466643323,
     "wof:name":"Radio Frequency Svc",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.163499,36.130152,-81.163499,36.130152],
+  "bbox": [
+    -81.163499,
+    36.130152,
+    -81.163499,
+    36.130152
+],
   "geometry": {"coordinates":[-81.163499,36.130152],"type":"Point"}
 }

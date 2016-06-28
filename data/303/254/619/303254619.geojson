@@ -2,13 +2,14 @@
   "id": 303254619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.550626,35.781754,-78.550626,35.781754",
     "geom:latitude":35.781754,
     "geom:longitude":-78.550626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Hanska Way",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303254619,
-    "wof:lastmodified":1448999797,
+    "wof:lastmodified":1466647019,
     "wof:name":"Makar Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.550626,35.781754,-78.550626,35.781754],
-  "geometry": {"coordinates":[-78.550626,35.781754],"type":"Point"}
+  "bbox": [
+    -78.550626,
+    35.781754,
+    -78.550626,
+    35.781754
+],
+  "geometry": {"coordinates":[-78.55062599999999,35.781754],"type":"Point"}
 }

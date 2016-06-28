@@ -2,13 +2,14 @@
   "id": 320364779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.345559,35.512028,-78.345559,35.512028",
     "geom:latitude":35.512028,
     "geom:longitude":-78.345559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 N 3rd St",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320364779,
-    "wof:lastmodified":1449013357,
+    "wof:lastmodified":1466650417,
     "wof:name":"Gayle's Olde-N-New",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-78.345559,35.512028,-78.345559,35.512028],
-  "geometry": {"coordinates":[-78.345559,35.512028],"type":"Point"}
+  "bbox": [
+    -78.345559,
+    35.512028,
+    -78.345559,
+    35.512028
+],
+  "geometry": {"coordinates":[-78.34555899999999,35.512028],"type":"Point"}
 }

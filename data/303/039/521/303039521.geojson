@@ -2,13 +2,14 @@
   "id": 303039521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.57527,35.593476,-82.57527,35.593476",
     "geom:latitude":35.593476,
     "geom:longitude":-82.57527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Westgate Pkwy",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303039521,
-    "wof:lastmodified":1449000263,
+    "wof:lastmodified":1466643808,
     "wof:name":"Wild Bird Ctr Of Asheville",
     "wof:parent_id":85824401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "feeder"
     ]
 },
-  "bbox": [-82.57527,35.593476,-82.57527,35.593476],
+  "bbox": [
+    -82.57527,
+    35.593476,
+    -82.57527,
+    35.593476
+],
   "geometry": {"coordinates":[-82.57527,35.593476],"type":"Point"}
 }

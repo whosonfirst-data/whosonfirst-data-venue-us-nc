@@ -2,13 +2,14 @@
   "id": 303216609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.002637,35.089334,-81.002637,35.089334",
     "geom:latitude":35.089334,
     "geom:longitude":-81.002637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13917 Hatton Cross Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303216609,
-    "wof:lastmodified":1449000289,
+    "wof:lastmodified":1466646454,
     "wof:name":"Paper Taxi",
     "wof:parent_id":85823197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.002637,35.089334,-81.002637,35.089334],
-  "geometry": {"coordinates":[-81.002637,35.089334],"type":"Point"}
+  "bbox": [
+    -81.002637,
+    35.089334,
+    -81.002637,
+    35.089334
+],
+  "geometry": {"coordinates":[-81.00263699999999,35.089334],"type":"Point"}
 }

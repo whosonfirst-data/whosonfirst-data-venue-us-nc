@@ -2,13 +2,14 @@
   "id": 202670511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.648965,35.800853,-78.648965,35.800853",
     "geom:latitude":35.800853,
     "geom:longitude":-78.648965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Carr St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202670511,
-    "wof:lastmodified":1449060483,
+    "wof:lastmodified":1466655802,
     "wof:name":"Rex Healthcare",
     "wof:parent_id":85824345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.648965,35.800853,-78.648965,35.800853],
+  "bbox": [
+    -78.648965,
+    35.800853,
+    -78.648965,
+    35.800853
+],
   "geometry": {"coordinates":[-78.648965,35.800853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403991641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.222428,35.660419,-81.222428,35.660419",
     "geom:latitude":35.660419,
     "geom:longitude":-81.222428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 S College Ave",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403991641,
-    "wof:lastmodified":1449055052,
+    "wof:lastmodified":1466654086,
     "wof:name":"Albe Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.222428,35.660419,-81.222428,35.660419],
-  "geometry": {"coordinates":[-81.222428,35.660419],"type":"Point"}
+  "bbox": [
+    -81.222428,
+    35.660419,
+    -81.222428,
+    35.660419
+],
+  "geometry": {"coordinates":[-81.22242799999999,35.660419],"type":"Point"}
 }

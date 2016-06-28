@@ -2,13 +2,14 @@
   "id": 404001381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.977742,36.087673,-78.977742,36.087673",
     "geom:latitude":36.087673,
     "geom:longitude":-78.977742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5807 Craig Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404001381,
-    "wof:lastmodified":1449039326,
+    "wof:lastmodified":1466651325,
     "wof:name":"Stephens Roofing",
     "wof:parent_id":85857995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.977742,36.087673,-78.977742,36.087673],
-  "geometry": {"coordinates":[-78.977742,36.087673],"type":"Point"}
+  "bbox": [
+    -78.977742,
+    36.087673,
+    -78.977742,
+    36.087673
+],
+  "geometry": {"coordinates":[-78.97774200000001,36.087673],"type":"Point"}
 }

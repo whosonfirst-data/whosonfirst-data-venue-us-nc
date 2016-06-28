@@ -2,13 +2,14 @@
   "id": 286803763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.897677,34.861178,-76.897677,34.861178",
     "geom:latitude":34.861178,
     "geom:longitude":-76.897677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 E Main St",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286803763,
-    "wof:lastmodified":1449018122,
+    "wof:lastmodified":1466650479,
     "wof:name":"Ctgy",
     "wof:parent_id":85852615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.897677,34.861178,-76.897677,34.861178],
+  "bbox": [
+    -76.897677,
+    34.861178,
+    -76.897677,
+    34.861178
+],
   "geometry": {"coordinates":[-76.897677,34.861178],"type":"Point"}
 }

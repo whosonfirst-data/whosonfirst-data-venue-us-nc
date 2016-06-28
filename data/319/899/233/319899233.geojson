@@ -2,13 +2,14 @@
   "id": 319899233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.58392,36.325008,-79.58392,36.325008",
     "geom:latitude":36.325008,
     "geom:longitude":-79.58392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Massey Rd",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":319899233,
-    "wof:lastmodified":1449024848,
+    "wof:lastmodified":1466646024,
     "wof:name":"Van Walker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-79.58392,36.325008,-79.58392,36.325008],
-  "geometry": {"coordinates":[-79.58392,36.325008],"type":"Point"}
+  "bbox": [
+    -79.58392,
+    36.325008,
+    -79.58392,
+    36.325008
+],
+  "geometry": {"coordinates":[-79.58392000000001,36.325008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286290389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.88209,36.065526,-78.88209,36.065526",
     "geom:latitude":36.065526,
     "geom:longitude":-78.88209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Felicia St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286290389,
-    "wof:lastmodified":1449016448,
+    "wof:lastmodified":1466643604,
     "wof:name":"Mrs Browns Day Care",
     "wof:parent_id":85877167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-78.88209,36.065526,-78.88209,36.065526],
-  "geometry": {"coordinates":[-78.88209,36.065526],"type":"Point"}
+  "bbox": [
+    -78.88209,
+    36.065526,
+    -78.88209,
+    36.065526
+],
+  "geometry": {"coordinates":[-78.88209000000001,36.065526],"type":"Point"}
 }

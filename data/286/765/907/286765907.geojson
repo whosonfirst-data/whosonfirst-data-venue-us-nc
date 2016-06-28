@@ -2,13 +2,14 @@
   "id": 286765907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801505,36.072977,-79.801505,36.072977",
     "geom:latitude":36.072977,
     "geom:longitude":-79.801505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"843 W Market St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286765907,
-    "wof:lastmodified":1449016891,
+    "wof:lastmodified":1466649997,
     "wof:name":"West Realty",
     "wof:parent_id":85877963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.801505,36.072977,-79.801505,36.072977],
-  "geometry": {"coordinates":[-79.801505,36.072977],"type":"Point"}
+  "bbox": [
+    -79.801505,
+    36.072977,
+    -79.801505,
+    36.072977
+],
+  "geometry": {"coordinates":[-79.80150500000001,36.072977],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304043603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.601465,35.838321,-78.601465,35.838321",
     "geom:latitude":35.838321,
     "geom:longitude":-78.601465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3922 Atlantic Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304043603,
-    "wof:lastmodified":1449044017,
+    "wof:lastmodified":1466644778,
     "wof:name":"LA Mexicana Supermarket",
     "wof:parent_id":85867049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-78.601465,35.838321,-78.601465,35.838321],
+  "bbox": [
+    -78.601465,
+    35.838321,
+    -78.601465,
+    35.838321
+],
   "geometry": {"coordinates":[-78.601465,35.838321],"type":"Point"}
 }

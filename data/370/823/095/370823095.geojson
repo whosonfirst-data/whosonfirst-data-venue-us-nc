@@ -2,13 +2,14 @@
   "id": 370823095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.931215,35.632706,-77.931215,35.632706",
     "geom:latitude":35.632706,
     "geom:longitude":-77.931215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Mercer St",
     "sg:city":"Black Creek",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370823095,
-    "wof:lastmodified":1449032433,
+    "wof:lastmodified":1466656470,
     "wof:name":"B & T Sign Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.931215,35.632706,-77.931215,35.632706],
-  "geometry": {"coordinates":[-77.931215,35.632706],"type":"Point"}
+  "bbox": [
+    -77.931215,
+    35.632706,
+    -77.931215,
+    35.632706
+],
+  "geometry": {"coordinates":[-77.93121499999999,35.632706],"type":"Point"}
 }

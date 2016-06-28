@@ -2,13 +2,14 @@
   "id": 286263705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.588636,35.781769,-78.588636,35.781769",
     "geom:latitude":35.781769,
     "geom:longitude":-78.588636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 Falstaff Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286263705,
-    "wof:lastmodified":1449018002,
+    "wof:lastmodified":1466643252,
     "wof:name":"Raleigh Vocational Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.588636,35.781769,-78.588636,35.781769],
-  "geometry": {"coordinates":[-78.588636,35.781769],"type":"Point"}
+  "bbox": [
+    -78.588636,
+    35.781769,
+    -78.588636,
+    35.781769
+],
+  "geometry": {"coordinates":[-78.58863599999999,35.781769],"type":"Point"}
 }

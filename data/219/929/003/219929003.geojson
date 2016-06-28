@@ -2,13 +2,14 @@
   "id": 219929003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.282002,36.082569,-80.282002,36.082569",
     "geom:latitude":36.082569,
     "geom:longitude":-80.282002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 Parkway Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219929003,
-    "wof:lastmodified":1449071741,
+    "wof:lastmodified":1466648230,
     "wof:name":"All Write",
     "wof:parent_id":85803439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-80.282002,36.082569,-80.282002,36.082569],
-  "geometry": {"coordinates":[-80.282002,36.082569],"type":"Point"}
+  "bbox": [
+    -80.282002,
+    36.082569,
+    -80.282002,
+    36.082569
+],
+  "geometry": {"coordinates":[-80.28200200000001,36.082569],"type":"Point"}
 }

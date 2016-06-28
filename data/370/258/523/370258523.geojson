@@ -2,13 +2,14 @@
   "id": 370258523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.883452,36.02099,-78.883452,36.02099",
     "geom:latitude":36.02099,
     "geom:longitude":-78.883452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 E Club Blvd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370258523,
-    "wof:lastmodified":1449031789,
+    "wof:lastmodified":1466649509,
     "wof:name":"Valleycrest Landscape Maint",
     "wof:parent_id":85877169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-78.883452,36.02099,-78.883452,36.02099],
-  "geometry": {"coordinates":[-78.883452,36.02099],"type":"Point"}
+  "bbox": [
+    -78.883452,
+    36.02099,
+    -78.883452,
+    36.02099
+],
+  "geometry": {"coordinates":[-78.88345200000001,36.02099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387092909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.805225,35.817878,-79.805225,35.817878",
     "geom:latitude":35.817878,
     "geom:longitude":-79.805225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Hilliary St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387092909,
-    "wof:lastmodified":1449059207,
+    "wof:lastmodified":1466651068,
     "wof:name":"Randleman Senior Center",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.805225,35.817878,-79.805225,35.817878],
-  "geometry": {"coordinates":[-79.805225,35.817878],"type":"Point"}
+  "bbox": [
+    -79.805225,
+    35.817878,
+    -79.805225,
+    35.817878
+],
+  "geometry": {"coordinates":[-79.80522499999999,35.817878],"type":"Point"}
 }

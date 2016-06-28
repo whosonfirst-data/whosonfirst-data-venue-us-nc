@@ -2,13 +2,14 @@
   "id": 353617885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.611443,33.839907,-78.611443,33.839907",
     "geom:latitude":33.839907,
     "geom:longitude":-78.611443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 57th Ave N",
     "sg:city":"North Myrtle Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353617885,
-    "wof:lastmodified":1449018330,
+    "wof:lastmodified":1466649640,
     "wof:name":"Julian Water Technology",
     "wof:parent_id":85824761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [-78.611443,33.839907,-78.611443,33.839907],
-  "geometry": {"coordinates":[-78.611443,33.839907],"type":"Point"}
+  "bbox": [
+    -78.611443,
+    33.839907,
+    -78.611443,
+    33.839907
+],
+  "geometry": {"coordinates":[-78.61144299999999,33.839907],"type":"Point"}
 }

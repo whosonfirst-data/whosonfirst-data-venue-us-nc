@@ -2,13 +2,14 @@
   "id": 303580669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.055546,36.452941,-79.055546,36.452941",
     "geom:latitude":36.452941,
     "geom:longitude":-79.055546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Concord-Ceffo Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303580669,
-    "wof:lastmodified":1448999766,
+    "wof:lastmodified":1466651675,
     "wof:name":"Dale's Country Store",
     "wof:parent_id":85808801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.055546,36.452941,-79.055546,36.452941],
-  "geometry": {"coordinates":[-79.055546,36.452941],"type":"Point"}
+  "bbox": [
+    -79.055546,
+    36.452941,
+    -79.055546,
+    36.452941
+],
+  "geometry": {"coordinates":[-79.05554600000001,36.452941],"type":"Point"}
 }

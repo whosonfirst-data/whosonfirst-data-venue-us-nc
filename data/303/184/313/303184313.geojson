@@ -2,13 +2,14 @@
   "id": 303184313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.144105,36.150693,-81.144105,36.150693",
     "geom:latitude":36.150693,
     "geom:longitude":-81.144105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Wilkesboro Blvd",
     "sg:city":"Wilkesboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303184313,
-    "wof:lastmodified":1448998528,
+    "wof:lastmodified":1466645970,
     "wof:name":"1240",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-81.144105,36.150693,-81.144105,36.150693],
+  "bbox": [
+    -81.144105,
+    36.150693,
+    -81.144105,
+    36.150693
+],
   "geometry": {"coordinates":[-81.144105,36.150693],"type":"Point"}
 }

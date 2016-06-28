@@ -2,13 +2,14 @@
   "id": 203227953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.779371,35.542285,-79.779371,35.542285",
     "geom:latitude":35.542285,
     "geom:longitude":-79.779371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Broad St",
     "sg:city":"Seagrove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203227953,
-    "wof:lastmodified":1449025331,
+    "wof:lastmodified":1466655396,
     "wof:name":"Seagrove Pottery",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-79.779371,35.542285,-79.779371,35.542285],
+  "bbox": [
+    -79.779371,
+    35.542285,
+    -79.779371,
+    35.542285
+],
   "geometry": {"coordinates":[-79.779371,35.542285],"type":"Point"}
 }

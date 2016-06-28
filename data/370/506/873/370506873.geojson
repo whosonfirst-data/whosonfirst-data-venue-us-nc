@@ -2,13 +2,14 @@
   "id": 370506873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.773626,34.93904,-79.773626,34.93904",
     "geom:latitude":34.93904,
     "geom:longitude":-79.773626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 S Hancock St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370506873,
-    "wof:lastmodified":1449029140,
+    "wof:lastmodified":1466652641,
     "wof:name":"Dawkins & Sullivan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.773626,34.93904,-79.773626,34.93904],
-  "geometry": {"coordinates":[-79.773626,34.93904],"type":"Point"}
+  "bbox": [
+    -79.773626,
+    34.93904,
+    -79.773626,
+    34.93904
+],
+  "geometry": {"coordinates":[-79.77362599999999,34.93904],"type":"Point"}
 }

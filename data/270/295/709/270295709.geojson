@@ -2,13 +2,14 @@
   "id": 270295709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.391359,36.345421,-78.391359,36.345421",
     "geom:latitude":36.345421,
     "geom:longitude":-78.391359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 N Garnett St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270295709,
-    "wof:lastmodified":1449009629,
+    "wof:lastmodified":1466646809,
     "wof:name":"Dockside Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-78.391359,36.345421,-78.391359,36.345421],
-  "geometry": {"coordinates":[-78.391359,36.345421],"type":"Point"}
+  "bbox": [
+    -78.391359,
+    36.345421,
+    -78.391359,
+    36.345421
+],
+  "geometry": {"coordinates":[-78.39135899999999,36.345421],"type":"Point"}
 }

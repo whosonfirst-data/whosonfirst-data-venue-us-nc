@@ -2,13 +2,14 @@
   "id": 387416735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.649848,35.997552,-75.649848,35.997552",
     "geom:latitude":35.997552,
     "geom:longitude":-75.649848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Wrightsville Blvd",
     "sg:city":"Kill Devil Hills",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387416735,
-    "wof:lastmodified":1449057814,
+    "wof:lastmodified":1466655328,
     "wof:name":"Sprys Lawn Care Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.649848,35.997552,-75.649848,35.997552],
-  "geometry": {"coordinates":[-75.649848,35.997552],"type":"Point"}
+  "bbox": [
+    -75.649848,
+    35.997552,
+    -75.649848,
+    35.997552
+],
+  "geometry": {"coordinates":[-75.64984800000001,35.997552],"type":"Point"}
 }

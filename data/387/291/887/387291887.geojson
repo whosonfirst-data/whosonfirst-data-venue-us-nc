@@ -2,13 +2,14 @@
   "id": 387291887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.374541,35.588619,-77.374541,35.588619",
     "geom:latitude":35.588619,
     "geom:longitude":-77.374541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E Arlington Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387291887,
-    "wof:lastmodified":1449057273,
+    "wof:lastmodified":1466653693,
     "wof:name":"Nextel Communications Inc",
     "wof:parent_id":85851231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-77.374541,35.588619,-77.374541,35.588619],
-  "geometry": {"coordinates":[-77.374541,35.588619],"type":"Point"}
+  "bbox": [
+    -77.374541,
+    35.588619,
+    -77.374541,
+    35.588619
+],
+  "geometry": {"coordinates":[-77.37454099999999,35.588619],"type":"Point"}
 }

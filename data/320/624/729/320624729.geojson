@@ -2,13 +2,14 @@
   "id": 320624729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.132256,36.13295,-81.132256,36.13295",
     "geom:latitude":36.13295,
     "geom:longitude":-81.132256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Edgewood Rd",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320624729,
-    "wof:lastmodified":1449013836,
+    "wof:lastmodified":1466654188,
     "wof:name":"Duke Power",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.132256,36.13295,-81.132256,36.13295],
+  "bbox": [
+    -81.132256,
+    36.13295,
+    -81.132256,
+    36.13295
+],
   "geometry": {"coordinates":[-81.132256,36.13295],"type":"Point"}
 }

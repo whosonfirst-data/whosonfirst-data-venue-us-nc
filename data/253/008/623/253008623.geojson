@@ -2,13 +2,14 @@
   "id": 253008623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.729379,35.107371,-80.729379,35.107371",
     "geom:latitude":35.107371,
     "geom:longitude":-80.729379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Whitefriars Ln",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":253008623,
-    "wof:lastmodified":1449063752,
+    "wof:lastmodified":1466643266,
     "wof:name":"Atlantic Insulation Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.729379,35.107371,-80.729379,35.107371],
-  "geometry": {"coordinates":[-80.729379,35.107371],"type":"Point"}
+  "bbox": [
+    -80.729379,
+    35.107371,
+    -80.729379,
+    35.107371
+],
+  "geometry": {"coordinates":[-80.72937899999999,35.107371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219788713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.89763,35.023277,-78.89763,35.023277",
     "geom:latitude":35.023277,
     "geom:longitude":-78.89763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Center St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219788713,
-    "wof:lastmodified":1449072202,
+    "wof:lastmodified":1466647088,
     "wof:name":"Church-Philidelphia Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.89763,35.023277,-78.89763,35.023277],
-  "geometry": {"coordinates":[-78.89763,35.023277],"type":"Point"}
+  "bbox": [
+    -78.89763,
+    35.023277,
+    -78.89763,
+    35.023277
+],
+  "geometry": {"coordinates":[-78.89763000000001,35.023277],"type":"Point"}
 }

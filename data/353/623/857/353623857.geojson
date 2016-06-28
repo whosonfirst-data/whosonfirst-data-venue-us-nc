@@ -2,13 +2,14 @@
   "id": 353623857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.969208,35.48753,-82.969208,35.48753",
     "geom:latitude":35.48753,
     "geom:longitude":-82.969208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Test Farm Rd",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353623857,
-    "wof:lastmodified":1449020038,
+    "wof:lastmodified":1466649703,
     "wof:name":"North Carolina State Univ",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-82.969208,35.48753,-82.969208,35.48753],
-  "geometry": {"coordinates":[-82.969208,35.48753],"type":"Point"}
+  "bbox": [
+    -82.969208,
+    35.48753,
+    -82.969208,
+    35.48753
+],
+  "geometry": {"coordinates":[-82.96920799999999,35.48753],"type":"Point"}
 }

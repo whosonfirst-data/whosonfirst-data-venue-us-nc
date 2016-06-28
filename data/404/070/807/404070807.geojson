@@ -2,13 +2,14 @@
   "id": 404070807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.946659,36.001987,-76.946659,36.001987",
     "geom:latitude":36.001987,
     "geom:longitude":-76.946659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N York St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404070807,
-    "wof:lastmodified":1449039593,
+    "wof:lastmodified":1466652187,
     "wof:name":"Windsor Recreational Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-76.946659,36.001987,-76.946659,36.001987],
+  "bbox": [
+    -76.946659,
+    36.001987,
+    -76.946659,
+    36.001987
+],
   "geometry": {"coordinates":[-76.946659,36.001987],"type":"Point"}
 }

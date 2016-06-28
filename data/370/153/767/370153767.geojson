@@ -2,13 +2,14 @@
   "id": 370153767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.630716,35.114145,-80.630716,35.114145",
     "geom:latitude":35.114145,
     "geom:longitude":-80.630716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8012 Lighthouse Way",
     "sg:city":"Indian Trail",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370153767,
-    "wof:lastmodified":1449031408,
+    "wof:lastmodified":1466648161,
     "wof:name":"Jtp Electric",
     "wof:parent_id":85812565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.630716,35.114145,-80.630716,35.114145],
-  "geometry": {"coordinates":[-80.630716,35.114145],"type":"Point"}
+  "bbox": [
+    -80.630716,
+    35.114145,
+    -80.630716,
+    35.114145
+],
+  "geometry": {"coordinates":[-80.63071600000001,35.114145],"type":"Point"}
 }

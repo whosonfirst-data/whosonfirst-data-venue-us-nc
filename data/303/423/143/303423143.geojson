@@ -2,13 +2,14 @@
   "id": 303423143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.38394,35.891763,-76.38394,35.891763",
     "geom:latitude":35.891763,
     "geom:longitude":-76.38394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"591 Davenport Forks Rd",
     "sg:city":"Creswell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303423143,
-    "wof:lastmodified":1448998521,
+    "wof:lastmodified":1466649411,
     "wof:name":"Howard Davenport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-76.38394,35.891763,-76.38394,35.891763],
+  "bbox": [
+    -76.38394,
+    35.891763,
+    -76.38394,
+    35.891763
+],
   "geometry": {"coordinates":[-76.38394,35.891763],"type":"Point"}
 }

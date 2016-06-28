@@ -2,13 +2,14 @@
   "id": 370198293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.803128,35.209157,-80.803128,35.209157",
     "geom:latitude":35.209157,
     "geom:longitude":-80.803128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Bay St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370198293,
-    "wof:lastmodified":1449030311,
+    "wof:lastmodified":1466648745,
     "wof:name":"Southern Craftsman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.803128,35.209157,-80.803128,35.209157],
+  "bbox": [
+    -80.803128,
+    35.209157,
+    -80.803128,
+    35.209157
+],
   "geometry": {"coordinates":[-80.803128,35.209157],"type":"Point"}
 }

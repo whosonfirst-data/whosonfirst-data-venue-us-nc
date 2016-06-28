@@ -2,13 +2,14 @@
   "id": 203100755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.05588,35.474087,-83.05588,35.474087",
     "geom:latitude":35.474087,
     "geom:longitude":-83.05588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Blooms Way",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203100755,
-    "wof:lastmodified":1449026363,
+    "wof:lastmodified":1466654799,
     "wof:name":"Daniel Miller Metalsmith",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.05588,35.474087,-83.05588,35.474087],
+  "bbox": [
+    -83.05588,
+    35.474087,
+    -83.05588,
+    35.474087
+],
   "geometry": {"coordinates":[-83.05588,35.474087],"type":"Point"}
 }

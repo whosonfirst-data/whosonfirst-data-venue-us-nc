@@ -2,13 +2,14 @@
   "id": 252798859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.249659,35.078251,-78.249659,35.078251",
     "geom:latitude":35.078251,
     "geom:longitude":-78.249659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7096 Faison Hwy",
     "sg:city":"Faison",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":252798859,
-    "wof:lastmodified":1449005621,
+    "wof:lastmodified":1466644043,
     "wof:name":"ADJ Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-78.249659,35.078251,-78.249659,35.078251],
-  "geometry": {"coordinates":[-78.249659,35.078251],"type":"Point"}
+  "bbox": [
+    -78.249659,
+    35.078251,
+    -78.249659,
+    35.078251
+],
+  "geometry": {"coordinates":[-78.24965899999999,35.078251],"type":"Point"}
 }

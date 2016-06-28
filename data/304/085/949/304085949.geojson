@@ -2,13 +2,14 @@
   "id": 304085949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.818925,34.326851,-78.818925,34.326851",
     "geom:latitude":34.326851,
     "geom:longitude":-78.818925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 E Strawberry Blvd",
     "sg:city":"Chadbourn",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":304085949,
-    "wof:lastmodified":1449043708,
+    "wof:lastmodified":1466645370,
     "wof:name":"Ronnie's Thrift Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "thrift"
     ]
 },
-  "bbox": [-78.818925,34.326851,-78.818925,34.326851],
-  "geometry": {"coordinates":[-78.818925,34.326851],"type":"Point"}
+  "bbox": [
+    -78.818925,
+    34.326851,
+    -78.818925,
+    34.326851
+],
+  "geometry": {"coordinates":[-78.81892499999999,34.326851],"type":"Point"}
 }

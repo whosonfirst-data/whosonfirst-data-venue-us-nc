@@ -2,13 +2,14 @@
   "id": 320618433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.9865,35.390054,-77.9865,35.390054",
     "geom:latitude":35.390054,
     "geom:longitude":-77.9865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 N Waters St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320618433,
-    "wof:lastmodified":1449013573,
+    "wof:lastmodified":1466654091,
     "wof:name":"Goldsboro Housing Authority",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-77.9865,35.390054,-77.9865,35.390054],
-  "geometry": {"coordinates":[-77.9865,35.390054],"type":"Point"}
+  "bbox": [
+    -77.9865,
+    35.390054,
+    -77.9865,
+    35.390054
+],
+  "geometry": {"coordinates":[-77.98650000000001,35.390054],"type":"Point"}
 }

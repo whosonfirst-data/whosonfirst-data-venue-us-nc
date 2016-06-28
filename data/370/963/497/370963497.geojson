@@ -2,13 +2,14 @@
   "id": 370963497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.095255,35.35938,-81.095255,35.35938",
     "geom:latitude":35.35938,
     "geom:longitude":-81.095255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Main St",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370963497,
-    "wof:lastmodified":1449029411,
+    "wof:lastmodified":1466657281,
     "wof:name":"Stuart Davis Enterprises",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accident"
     ]
 },
-  "bbox": [-81.095255,35.35938,-81.095255,35.35938],
-  "geometry": {"coordinates":[-81.095255,35.35938],"type":"Point"}
+  "bbox": [
+    -81.095255,
+    35.35938,
+    -81.095255,
+    35.35938
+],
+  "geometry": {"coordinates":[-81.09525499999999,35.35938],"type":"Point"}
 }

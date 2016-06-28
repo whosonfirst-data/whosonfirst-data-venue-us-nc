@@ -2,13 +2,14 @@
   "id": 303278269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.858217,35.749527,-78.858217,35.749527",
     "geom:latitude":35.749527,
     "geom:longitude":-78.858217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 US Hwy 64 W",
     "sg:city":"Apex",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303278269,
-    "wof:lastmodified":1448999471,
+    "wof:lastmodified":1466647371,
     "wof:name":"SDS Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.858217,35.749527,-78.858217,35.749527],
+  "bbox": [
+    -78.858217,
+    35.749527,
+    -78.858217,
+    35.749527
+],
   "geometry": {"coordinates":[-78.858217,35.749527],"type":"Point"}
 }

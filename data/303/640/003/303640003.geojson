@@ -2,13 +2,14 @@
   "id": 303640003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.984518,35.204892,-78.984518,35.204892",
     "geom:latitude":35.204892,
     "geom:longitude":-78.984518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3358 Redfox Rd",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303640003,
-    "wof:lastmodified":1448999181,
+    "wof:lastmodified":1466652547,
     "wof:name":"Trensol Media",
     "wof:parent_id":85803425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-78.984518,35.204892,-78.984518,35.204892],
-  "geometry": {"coordinates":[-78.984518,35.204892],"type":"Point"}
+  "bbox": [
+    -78.984518,
+    35.204892,
+    -78.984518,
+    35.204892
+],
+  "geometry": {"coordinates":[-78.98451799999999,35.204892],"type":"Point"}
 }

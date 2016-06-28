@@ -2,13 +2,14 @@
   "id": 270482665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.540739,35.808032,-78.540739,35.808032",
     "geom:latitude":35.808032,
     "geom:longitude":-78.540739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5548 Grand Traverse Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270482665,
-    "wof:lastmodified":1449009518,
+    "wof:lastmodified":1466649205,
     "wof:name":"Blackwolf Run Townhomes",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.540739,35.808032,-78.540739,35.808032],
+  "bbox": [
+    -78.540739,
+    35.808032,
+    -78.540739,
+    35.808032
+],
   "geometry": {"coordinates":[-78.540739,35.808032],"type":"Point"}
 }

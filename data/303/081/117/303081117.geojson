@@ -2,13 +2,14 @@
   "id": 303081117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.808307,35.817778,-79.808307,35.817778",
     "geom:latitude":35.817778,
     "geom:longitude":-79.808307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 W Academy St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303081117,
-    "wof:lastmodified":1448998876,
+    "wof:lastmodified":1466644413,
     "wof:name":"Mach",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.808307,35.817778,-79.808307,35.817778],
+  "bbox": [
+    -79.808307,
+    35.817778,
+    -79.808307,
+    35.817778
+],
   "geometry": {"coordinates":[-79.808307,35.817778],"type":"Point"}
 }

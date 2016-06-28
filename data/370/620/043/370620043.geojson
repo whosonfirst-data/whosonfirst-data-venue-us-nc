@@ -2,13 +2,14 @@
   "id": 370620043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.707281,35.904646,-78.707281,35.904646",
     "geom:latitude":35.904646,
     "geom:longitude":-78.707281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8909 Braceridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370620043,
-    "wof:lastmodified":1449032185,
+    "wof:lastmodified":1466654135,
     "wof:name":"Firm Bennett Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.707281,35.904646,-78.707281,35.904646],
-  "geometry": {"coordinates":[-78.707281,35.904646],"type":"Point"}
+  "bbox": [
+    -78.707281,
+    35.904646,
+    -78.707281,
+    35.904646
+],
+  "geometry": {"coordinates":[-78.70728099999999,35.904646],"type":"Point"}
 }

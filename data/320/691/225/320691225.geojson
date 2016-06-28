@@ -2,13 +2,14 @@
   "id": 320691225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.801331,35.79555,-78.801331,35.79555",
     "geom:latitude":35.79555,
     "geom:longitude":-78.801331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1793 NW Maynard Rd",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320691225,
-    "wof:lastmodified":1449011554,
+    "wof:lastmodified":1466655140,
     "wof:name":"Formula One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tinting"
     ]
 },
-  "bbox": [-78.801331,35.79555,-78.801331,35.79555],
+  "bbox": [
+    -78.801331,
+    35.79555,
+    -78.801331,
+    35.79555
+],
   "geometry": {"coordinates":[-78.801331,35.79555],"type":"Point"}
 }

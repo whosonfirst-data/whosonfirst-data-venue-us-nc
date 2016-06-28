@@ -2,13 +2,14 @@
   "id": 303452801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.492481,35.59981,-77.492481,35.59981",
     "geom:latitude":35.59981,
     "geom:longitude":-77.492481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Stanton Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303452801,
-    "wof:lastmodified":1448998687,
+    "wof:lastmodified":1466649845,
     "wof:name":"Hill-Rom Company Inc",
     "wof:parent_id":85820763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-77.492481,35.59981,-77.492481,35.59981],
+  "bbox": [
+    -77.492481,
+    35.59981,
+    -77.492481,
+    35.59981
+],
   "geometry": {"coordinates":[-77.492481,35.59981],"type":"Point"}
 }

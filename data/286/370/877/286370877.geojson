@@ -2,13 +2,14 @@
   "id": 286370877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.785063,35.770092,-78.785063,35.770092",
     "geom:latitude":35.770092,
     "geom:longitude":-78.785063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Kilmayne Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286370877,
-    "wof:lastmodified":1449016787,
+    "wof:lastmodified":1466644653,
     "wof:name":"D A Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "executive"
     ]
 },
-  "bbox": [-78.785063,35.770092,-78.785063,35.770092],
-  "geometry": {"coordinates":[-78.785063,35.770092],"type":"Point"}
+  "bbox": [
+    -78.785063,
+    35.770092,
+    -78.785063,
+    35.770092
+],
+  "geometry": {"coordinates":[-78.78506299999999,35.770092],"type":"Point"}
 }

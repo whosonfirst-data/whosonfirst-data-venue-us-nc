@@ -2,13 +2,14 @@
   "id": 320546119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.679739,35.911179,-78.679739,35.911179",
     "geom:latitude":35.911179,
     "geom:longitude":-78.679739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8824 Stage Ford Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320546119,
-    "wof:lastmodified":1449011254,
+    "wof:lastmodified":1466653032,
     "wof:name":"Remote Light",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "optics"
     ]
 },
-  "bbox": [-78.679739,35.911179,-78.679739,35.911179],
+  "bbox": [
+    -78.679739,
+    35.911179,
+    -78.679739,
+    35.911179
+],
   "geometry": {"coordinates":[-78.679739,35.911179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320082031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.11104,35.677132,-81.11104,35.677132",
     "geom:latitude":35.677132,
     "geom:longitude":-81.11104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 State Hwy 10 E",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320082031,
-    "wof:lastmodified":1449011353,
+    "wof:lastmodified":1466646456,
     "wof:name":"Cityscape Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.11104,35.677132,-81.11104,35.677132],
+  "bbox": [
+    -81.11104,
+    35.677132,
+    -81.11104,
+    35.677132
+],
   "geometry": {"coordinates":[-81.11104,35.677132],"type":"Point"}
 }

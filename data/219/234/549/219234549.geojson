@@ -2,13 +2,14 @@
   "id": 219234549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.240114,36.182942,-81.240114,36.182942",
     "geom:latitude":36.182942,
     "geom:longitude":-81.240114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2924 N State Hwy 16",
     "sg:city":"Millers Creek",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219234549,
-    "wof:lastmodified":1449073716,
+    "wof:lastmodified":1466655558,
     "wof:name":"Northwestern Bank",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.240114,36.182942,-81.240114,36.182942],
-  "geometry": {"coordinates":[-81.240114,36.182942],"type":"Point"}
+  "bbox": [
+    -81.240114,
+    36.182942,
+    -81.240114,
+    36.182942
+],
+  "geometry": {"coordinates":[-81.24011400000001,36.182942],"type":"Point"}
 }

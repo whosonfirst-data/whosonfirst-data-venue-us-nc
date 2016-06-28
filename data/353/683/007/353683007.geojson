@@ -2,13 +2,14 @@
   "id": 353683007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.753819,35.239329,-81.753819,35.239329",
     "geom:latitude":35.239329,
     "geom:longitude":-81.753819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"171 Fairview Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353683007,
-    "wof:lastmodified":1449019199,
+    "wof:lastmodified":1466650390,
     "wof:name":"Quest Diagnotics",
     "wof:parent_id":85817829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-81.753819,35.239329,-81.753819,35.239329],
-  "geometry": {"coordinates":[-81.753819,35.239329],"type":"Point"}
+  "bbox": [
+    -81.753819,
+    35.239329,
+    -81.753819,
+    35.239329
+],
+  "geometry": {"coordinates":[-81.75381899999999,35.239329],"type":"Point"}
 }

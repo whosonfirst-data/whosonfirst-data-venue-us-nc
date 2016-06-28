@@ -2,13 +2,14 @@
   "id": 287063881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.046992,35.86247,-81.046992,35.86247",
     "geom:latitude":35.86247,
     "geom:longitude":-81.046992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8814 State Hwy 90",
     "sg:city":"Stony Point",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287063881,
-    "wof:lastmodified":1449000727,
+    "wof:lastmodified":1466644148,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.046992,35.86247,-81.046992,35.86247],
+  "bbox": [
+    -81.046992,
+    35.86247,
+    -81.046992,
+    35.86247
+],
   "geometry": {"coordinates":[-81.046992,35.86247],"type":"Point"}
 }

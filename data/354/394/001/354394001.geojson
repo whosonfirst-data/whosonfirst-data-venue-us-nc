@@ -2,13 +2,14 @@
   "id": 354394001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.940732,34.202619,-77.940732,34.202619",
     "geom:latitude":34.202619,
     "geom:longitude":-77.940732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Carolina Beach Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354394001,
-    "wof:lastmodified":1449066259,
+    "wof:lastmodified":1466652103,
     "wof:name":"Lewis WD",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.940732,34.202619,-77.940732,34.202619],
+  "bbox": [
+    -77.940732,
+    34.202619,
+    -77.940732,
+    34.202619
+],
   "geometry": {"coordinates":[-77.940732,34.202619],"type":"Point"}
 }

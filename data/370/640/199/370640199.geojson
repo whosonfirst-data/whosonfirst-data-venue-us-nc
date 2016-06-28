@@ -2,13 +2,14 @@
   "id": 370640199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.353006,35.727848,-81.353006,35.727848",
     "geom:latitude":35.727848,
     "geom:longitude":-81.353006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 4th Ave SW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370640199,
-    "wof:lastmodified":1449030559,
+    "wof:lastmodified":1466654400,
     "wof:name":"Baker & Company Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.353006,35.727848,-81.353006,35.727848],
-  "geometry": {"coordinates":[-81.353006,35.727848],"type":"Point"}
+  "bbox": [
+    -81.353006,
+    35.727848,
+    -81.353006,
+    35.727848
+],
+  "geometry": {"coordinates":[-81.35300599999999,35.727848],"type":"Point"}
 }

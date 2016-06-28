@@ -2,13 +2,14 @@
   "id": 303522229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.020373,35.956334,-79.020373,35.956334",
     "geom:latitude":35.956334,
     "geom:longitude":-79.020373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Crabtree Knoll",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303522229,
-    "wof:lastmodified":1448999287,
+    "wof:lastmodified":1466650836,
     "wof:name":"Wheeler Imports LLC",
     "wof:parent_id":85851367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.020373,35.956334,-79.020373,35.956334],
-  "geometry": {"coordinates":[-79.020373,35.956334],"type":"Point"}
+  "bbox": [
+    -79.020373,
+    35.956334,
+    -79.020373,
+    35.956334
+],
+  "geometry": {"coordinates":[-79.02037300000001,35.956334],"type":"Point"}
 }

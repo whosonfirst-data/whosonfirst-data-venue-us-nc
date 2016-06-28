@@ -2,13 +2,14 @@
   "id": 354394615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.243901,35.994295,-79.243901,35.994295",
     "geom:latitude":35.994295,
     "geom:longitude":-79.243901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Nicks Rd",
     "sg:city":"Mebane",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354394615,
-    "wof:lastmodified":1449066259,
+    "wof:lastmodified":1466652109,
     "wof:name":"Miller Designs",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-79.243901,35.994295,-79.243901,35.994295],
-  "geometry": {"coordinates":[-79.243901,35.994295],"type":"Point"}
+  "bbox": [
+    -79.243901,
+    35.994295,
+    -79.243901,
+    35.994295
+],
+  "geometry": {"coordinates":[-79.24390099999999,35.994295],"type":"Point"}
 }

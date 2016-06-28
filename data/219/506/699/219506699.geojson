@@ -2,13 +2,14 @@
   "id": 219506699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.940631,35.912256,-78.940631,35.912256",
     "geom:latitude":35.912256,
     "geom:longitude":-78.940631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5013 Rollingwood Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219506699,
-    "wof:lastmodified":1449070444,
+    "wof:lastmodified":1466644940,
     "wof:name":"Bennett Painting",
     "wof:parent_id":85858607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-78.940631,35.912256,-78.940631,35.912256],
+  "bbox": [
+    -78.940631,
+    35.912256,
+    -78.940631,
+    35.912256
+],
   "geometry": {"coordinates":[-78.940631,35.912256],"type":"Point"}
 }

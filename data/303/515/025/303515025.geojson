@@ -2,13 +2,14 @@
   "id": 303515025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.153113,34.914038,-79.153113,34.914038",
     "geom:latitude":34.914038,
     "geom:longitude":-79.153113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Hall Rd",
     "sg:city":"Shannon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303515025,
-    "wof:lastmodified":1448998679,
+    "wof:lastmodified":1466650736,
     "wof:name":"Customer Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.153113,34.914038,-79.153113,34.914038],
+  "bbox": [
+    -79.153113,
+    34.914038,
+    -79.153113,
+    34.914038
+],
   "geometry": {"coordinates":[-79.153113,34.914038],"type":"Point"}
 }

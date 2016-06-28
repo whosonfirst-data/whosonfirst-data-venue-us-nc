@@ -2,13 +2,14 @@
   "id": 404089963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771723,34.919625,-79.771723,34.919625",
     "geom:latitude":34.919625,
     "geom:longitude":-79.771723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Pence Ave",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404089963,
-    "wof:lastmodified":1449039299,
+    "wof:lastmodified":1466652423,
     "wof:name":"Revival Tabernacle",
     "wof:parent_id":85822025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.771723,34.919625,-79.771723,34.919625],
-  "geometry": {"coordinates":[-79.771723,34.919625],"type":"Point"}
+  "bbox": [
+    -79.771723,
+    34.919625,
+    -79.771723,
+    34.919625
+],
+  "geometry": {"coordinates":[-79.77172299999999,34.919625],"type":"Point"}
 }

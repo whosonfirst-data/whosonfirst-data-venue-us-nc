@@ -2,13 +2,14 @@
   "id": 403982571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.610459,35.470361,-80.610459,35.470361",
     "geom:latitude":35.470361,
     "geom:longitude":-80.610459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 S Cannon Blvd",
     "sg:city":"Kannapolis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403982571,
-    "wof:lastmodified":1449054861,
+    "wof:lastmodified":1466653972,
     "wof:name":"Little Bits",
     "wof:parent_id":85891991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.610459,35.470361,-80.610459,35.470361],
-  "geometry": {"coordinates":[-80.610459,35.470361],"type":"Point"}
+  "bbox": [
+    -80.610459,
+    35.470361,
+    -80.610459,
+    35.470361
+],
+  "geometry": {"coordinates":[-80.61045900000001,35.470361],"type":"Point"}
 }

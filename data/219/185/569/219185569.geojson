@@ -2,13 +2,14 @@
   "id": 219185569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.545954,35.988797,-79.545954,35.988797",
     "geom:latitude":35.988797,
     "geom:longitude":-79.545954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3433 State Hwy 62",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219185569,
-    "wof:lastmodified":1449070966,
+    "wof:lastmodified":1466655297,
     "wof:name":"Fogleman Cabinetry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-79.545954,35.988797,-79.545954,35.988797],
-  "geometry": {"coordinates":[-79.545954,35.988797],"type":"Point"}
+  "bbox": [
+    -79.545954,
+    35.988797,
+    -79.545954,
+    35.988797
+],
+  "geometry": {"coordinates":[-79.54595399999999,35.988797],"type":"Point"}
 }

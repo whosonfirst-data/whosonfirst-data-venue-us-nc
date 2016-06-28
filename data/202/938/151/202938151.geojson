@@ -2,13 +2,14 @@
   "id": 202938151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.888427,34.235836,-77.888427,34.235836",
     "geom:latitude":34.235836,
     "geom:longitude":-77.888427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 S Kerr Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202938151,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1466645245,
     "wof:name":"Complete Car Care",
     "wof:parent_id":85818553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-77.888427,34.235836,-77.888427,34.235836],
-  "geometry": {"coordinates":[-77.888427,34.235836],"type":"Point"}
+  "bbox": [
+    -77.888427,
+    34.235836,
+    -77.888427,
+    34.235836
+],
+  "geometry": {"coordinates":[-77.88842699999999,34.235836],"type":"Point"}
 }

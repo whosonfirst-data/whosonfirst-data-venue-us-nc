@@ -2,13 +2,14 @@
   "id": 387948221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.994856,35.382379,-77.994856,35.382379",
     "geom:latitude":35.382379,
     "geom:longitude":-77.994856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Walnut St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387948221,
-    "wof:lastmodified":1449059122,
+    "wof:lastmodified":1466658052,
     "wof:name":"County of Wayne",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-77.994856,35.382379,-77.994856,35.382379],
+  "bbox": [
+    -77.994856,
+    35.382379,
+    -77.994856,
+    35.382379
+],
   "geometry": {"coordinates":[-77.994856,35.382379],"type":"Point"}
 }

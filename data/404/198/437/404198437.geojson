@@ -2,13 +2,14 @@
   "id": 404198437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.679881,35.744063,-81.679881,35.744063",
     "geom:latitude":35.744063,
     "geom:longitude":-81.679881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Dixon St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404198437,
-    "wof:lastmodified":1449039458,
+    "wof:lastmodified":1466653817,
     "wof:name":"N C Nutrition Network",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-81.679881,35.744063,-81.679881,35.744063],
-  "geometry": {"coordinates":[-81.679881,35.744063],"type":"Point"}
+  "bbox": [
+    -81.679881,
+    35.744063,
+    -81.679881,
+    35.744063
+],
+  "geometry": {"coordinates":[-81.67988099999999,35.744063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252868001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.096131,35.662783,-80.096131,35.662783",
     "geom:latitude":35.662783,
     "geom:longitude":-80.096131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 Garner Rd",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252868001,
-    "wof:lastmodified":1449005445,
+    "wof:lastmodified":1466644648,
     "wof:name":"Joshua B Taylor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.096131,35.662783,-80.096131,35.662783],
+  "bbox": [
+    -80.096131,
+    35.662783,
+    -80.096131,
+    35.662783
+],
   "geometry": {"coordinates":[-80.096131,35.662783],"type":"Point"}
 }

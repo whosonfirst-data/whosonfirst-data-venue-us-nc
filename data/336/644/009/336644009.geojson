@@ -2,13 +2,14 @@
   "id": 336644009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.538181,35.557156,-82.538181,35.557156",
     "geom:latitude":35.557156,
     "geom:longitude":-82.538181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"383 Hendersonville Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336644009,
-    "wof:lastmodified":1448997551,
+    "wof:lastmodified":1466646517,
     "wof:name":"Buncombe Cnty Sheriff Drug Uni",
     "wof:parent_id":85848375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-82.538181,35.557156,-82.538181,35.557156],
-  "geometry": {"coordinates":[-82.538181,35.557156],"type":"Point"}
+  "bbox": [
+    -82.538181,
+    35.557156,
+    -82.538181,
+    35.557156
+],
+  "geometry": {"coordinates":[-82.53818099999999,35.557156],"type":"Point"}
 }

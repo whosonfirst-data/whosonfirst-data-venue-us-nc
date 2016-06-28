@@ -2,13 +2,14 @@
   "id": 303893933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.450984,35.313454,-78.450984,35.313454",
     "geom:latitude":35.313454,
     "geom:longitude":-78.450984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"381 Monroe Ln",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303893933,
-    "wof:lastmodified":1449000103,
+    "wof:lastmodified":1466656133,
     "wof:name":"Bader Engineering PC",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.450984,35.313454,-78.450984,35.313454],
-  "geometry": {"coordinates":[-78.450984,35.313454],"type":"Point"}
+  "bbox": [
+    -78.450984,
+    35.313454,
+    -78.450984,
+    35.313454
+],
+  "geometry": {"coordinates":[-78.45098400000001,35.313454],"type":"Point"}
 }

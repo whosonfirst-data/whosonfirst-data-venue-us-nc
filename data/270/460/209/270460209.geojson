@@ -2,13 +2,14 @@
   "id": 270460209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.420563,34.764624,-77.420563,34.764624",
     "geom:latitude":34.764624,
     "geom:longitude":-77.420563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 Onslow Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270460209,
-    "wof:lastmodified":1449010978,
+    "wof:lastmodified":1466648914,
     "wof:name":"Zip Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shipping"
     ]
 },
-  "bbox": [-77.420563,34.764624,-77.420563,34.764624],
+  "bbox": [
+    -77.420563,
+    34.764624,
+    -77.420563,
+    34.764624
+],
   "geometry": {"coordinates":[-77.420563,34.764624],"type":"Point"}
 }

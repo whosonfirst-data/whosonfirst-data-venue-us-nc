@@ -2,13 +2,14 @@
   "id": 303340517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.139738,35.503944,-77.139738,35.503944",
     "geom:latitude":35.503944,
     "geom:longitude":-77.139738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2532 Taylor Rd",
     "sg:city":"Chocowinity",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303340517,
-    "wof:lastmodified":1449000006,
+    "wof:lastmodified":1466648211,
     "wof:name":"T's Lawn Svc & Landscaping",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-77.139738,35.503944,-77.139738,35.503944],
-  "geometry": {"coordinates":[-77.139738,35.503944],"type":"Point"}
+  "bbox": [
+    -77.139738,
+    35.503944,
+    -77.139738,
+    35.503944
+],
+  "geometry": {"coordinates":[-77.13973799999999,35.503944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403812929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.516173,35.527436,-82.516173,35.527436",
     "geom:latitude":35.527436,
     "geom:longitude":-82.516173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Edgewood Rd S",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403812929,
-    "wof:lastmodified":1449054657,
+    "wof:lastmodified":1466651756,
     "wof:name":"Amerifirst",
     "wof:parent_id":85851091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-82.516173,35.527436,-82.516173,35.527436],
-  "geometry": {"coordinates":[-82.516173,35.527436],"type":"Point"}
+  "bbox": [
+    -82.516173,
+    35.527436,
+    -82.516173,
+    35.527436
+],
+  "geometry": {"coordinates":[-82.51617299999999,35.527436],"type":"Point"}
 }

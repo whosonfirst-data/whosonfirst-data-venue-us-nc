@@ -2,13 +2,14 @@
   "id": 270065579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.597124,35.637386,-82.597124,35.637386",
     "geom:latitude":35.637386,
     "geom:longitude":-82.597124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Riverside Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270065579,
-    "wof:lastmodified":1449011106,
+    "wof:lastmodified":1466643965,
     "wof:name":"Cheney Graphics",
     "wof:parent_id":85817793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.597124,35.637386,-82.597124,35.637386],
-  "geometry": {"coordinates":[-82.597124,35.637386],"type":"Point"}
+  "bbox": [
+    -82.597124,
+    35.637386,
+    -82.597124,
+    35.637386
+],
+  "geometry": {"coordinates":[-82.59712399999999,35.637386],"type":"Point"}
 }

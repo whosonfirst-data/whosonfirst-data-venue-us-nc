@@ -2,13 +2,14 @@
   "id": 370905487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.549828,35.810365,-78.549828,35.810365",
     "geom:latitude":35.810365,
     "geom:longitude":-78.549828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Laurel Valley Way",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370905487,
-    "wof:lastmodified":1449030406,
+    "wof:lastmodified":1466656938,
     "wof:name":"Lpw Assoc",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-78.549828,35.810365,-78.549828,35.810365],
-  "geometry": {"coordinates":[-78.549828,35.810365],"type":"Point"}
+  "bbox": [
+    -78.549828,
+    35.810365,
+    -78.549828,
+    35.810365
+],
+  "geometry": {"coordinates":[-78.54982800000001,35.810365],"type":"Point"}
 }

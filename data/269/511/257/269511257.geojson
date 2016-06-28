@@ -2,13 +2,14 @@
   "id": 269511257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.654862,35.859316,-78.654862,35.859316",
     "geom:latitude":35.859316,
     "geom:longitude":-78.654862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Shellbrook Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269511257,
-    "wof:lastmodified":1449037245,
+    "wof:lastmodified":1466643545,
     "wof:name":"Christopher Bickers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "editorial"
     ]
 },
-  "bbox": [-78.654862,35.859316,-78.654862,35.859316],
-  "geometry": {"coordinates":[-78.654862,35.859316],"type":"Point"}
+  "bbox": [
+    -78.654862,
+    35.859316,
+    -78.654862,
+    35.859316
+],
+  "geometry": {"coordinates":[-78.65486199999999,35.859316],"type":"Point"}
 }

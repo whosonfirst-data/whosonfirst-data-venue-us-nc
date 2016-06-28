@@ -2,13 +2,14 @@
   "id": 202512577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.990963,36.096895,-79.990963,36.096895",
     "geom:latitude":36.096895,
     "geom:longitude":-79.990963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Little Santee Rd",
     "sg:city":"Colfax",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202512577,
-    "wof:lastmodified":1449061953,
+    "wof:lastmodified":1466655056,
     "wof:name":"Carolina Boiler Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boiler"
     ]
 },
-  "bbox": [-79.990963,36.096895,-79.990963,36.096895],
-  "geometry": {"coordinates":[-79.990963,36.096895],"type":"Point"}
+  "bbox": [
+    -79.990963,
+    36.096895,
+    -79.990963,
+    36.096895
+],
+  "geometry": {"coordinates":[-79.99096299999999,36.096895],"type":"Point"}
 }

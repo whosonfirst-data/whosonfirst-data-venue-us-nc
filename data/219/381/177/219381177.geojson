@@ -2,13 +2,14 @@
   "id": 219381177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.517035,35.694775,-80.517035,35.694775",
     "geom:latitude":35.694775,
     "geom:longitude":-80.517035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2092 Statesville Blvd",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219381177,
-    "wof:lastmodified":1449070677,
+    "wof:lastmodified":1466643982,
     "wof:name":"Alltel Communications",
     "wof:parent_id":85834229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.517035,35.694775,-80.517035,35.694775],
-  "geometry": {"coordinates":[-80.517035,35.694775],"type":"Point"}
+  "bbox": [
+    -80.517035,
+    35.694775,
+    -80.517035,
+    35.694775
+],
+  "geometry": {"coordinates":[-80.51703500000001,35.694775],"type":"Point"}
 }

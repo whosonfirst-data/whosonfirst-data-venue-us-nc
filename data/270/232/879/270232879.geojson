@@ -2,13 +2,14 @@
   "id": 270232879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.473098,35.799698,-78.473098,35.799698",
     "geom:latitude":35.799698,
     "geom:longitude":-78.473098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7635 US Hwy 64 E",
     "sg:city":"Knightdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270232879,
-    "wof:lastmodified":1449009412,
+    "wof:lastmodified":1466645997,
     "wof:name":"Rochelle Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.473098,35.799698,-78.473098,35.799698],
-  "geometry": {"coordinates":[-78.473098,35.799698],"type":"Point"}
+  "bbox": [
+    -78.473098,
+    35.799698,
+    -78.473098,
+    35.799698
+],
+  "geometry": {"coordinates":[-78.47309799999999,35.799698],"type":"Point"}
 }

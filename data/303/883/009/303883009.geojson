@@ -2,13 +2,14 @@
   "id": 303883009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.430793,36.108311,-79.430793,36.108311",
     "geom:latitude":36.108311,
     "geom:longitude":-79.430793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Shaw St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303883009,
-    "wof:lastmodified":1448999990,
+    "wof:lastmodified":1466656259,
     "wof:name":"C Breeze Home Care",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-79.430793,36.108311,-79.430793,36.108311],
-  "geometry": {"coordinates":[-79.430793,36.108311],"type":"Point"}
+  "bbox": [
+    -79.430793,
+    36.108311,
+    -79.430793,
+    36.108311
+],
+  "geometry": {"coordinates":[-79.43079299999999,36.108311],"type":"Point"}
 }

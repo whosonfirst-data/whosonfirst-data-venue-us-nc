@@ -2,13 +2,14 @@
   "id": 404079443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.273361,35.807552,-80.273361,35.807552",
     "geom:latitude":35.807552,
     "geom:longitude":-80.273361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 S Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404079443,
-    "wof:lastmodified":1449040113,
+    "wof:lastmodified":1466652290,
     "wof:name":"Designing Windows By Kimberly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drapery"
     ]
 },
-  "bbox": [-80.273361,35.807552,-80.273361,35.807552],
-  "geometry": {"coordinates":[-80.273361,35.807552],"type":"Point"}
+  "bbox": [
+    -80.273361,
+    35.807552,
+    -80.273361,
+    35.807552
+],
+  "geometry": {"coordinates":[-80.27336099999999,35.807552],"type":"Point"}
 }

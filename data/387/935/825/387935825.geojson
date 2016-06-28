@@ -2,13 +2,14 @@
   "id": 387935825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.949675,34.976708,-78.949675,34.976708",
     "geom:latitude":34.976708,
     "geom:longitude":-78.949675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5516 Mc Phail St",
     "sg:city":"Hope Mills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387935825,
-    "wof:lastmodified":1449059241,
+    "wof:lastmodified":1466658025,
     "wof:name":"Robinson Home Daycare",
     "wof:parent_id":85811403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-78.949675,34.976708,-78.949675,34.976708],
+  "bbox": [
+    -78.949675,
+    34.976708,
+    -78.949675,
+    34.976708
+],
   "geometry": {"coordinates":[-78.949675,34.976708],"type":"Point"}
 }

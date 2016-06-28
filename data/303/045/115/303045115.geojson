@@ -2,13 +2,14 @@
   "id": 303045115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.756146,35.981505,-79.756146,35.981505",
     "geom:latitude":35.981505,
     "geom:longitude":-79.756146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Sparrow Dr",
     "sg:city":"Pleasant Garden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303045115,
-    "wof:lastmodified":1449000279,
+    "wof:lastmodified":1466643889,
     "wof:name":"Pleasant Grove Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.756146,35.981505,-79.756146,35.981505],
+  "bbox": [
+    -79.756146,
+    35.981505,
+    -79.756146,
+    35.981505
+],
   "geometry": {"coordinates":[-79.756146,35.981505],"type":"Point"}
 }

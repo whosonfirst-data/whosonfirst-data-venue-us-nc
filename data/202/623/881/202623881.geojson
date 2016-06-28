@@ -2,13 +2,14 @@
   "id": 202623881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.826779,35.146245,-80.826779,35.146245",
     "geom:latitude":35.146245,
     "geom:longitude":-80.826779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6862 Phillips Place Ct",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202623881,
-    "wof:lastmodified":1449061874,
+    "wof:lastmodified":1466655596,
     "wof:name":"James Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-80.826779,35.146245,-80.826779,35.146245],
+  "bbox": [
+    -80.826779,
+    35.146245,
+    -80.826779,
+    35.146245
+],
   "geometry": {"coordinates":[-80.826779,35.146245],"type":"Point"}
 }

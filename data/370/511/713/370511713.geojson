@@ -2,13 +2,14 @@
   "id": 370511713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.707031,34.890041,-79.707031,34.890041",
     "geom:latitude":34.890041,
     "geom:longitude":-79.707031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Marlboro St",
     "sg:city":"Hamlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370511713,
-    "wof:lastmodified":1449030659,
+    "wof:lastmodified":1466652709,
     "wof:name":"St Paul Lutheran Church",
     "wof:parent_id":85836761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.707031,34.890041,-79.707031,34.890041],
+  "bbox": [
+    -79.707031,
+    34.890041,
+    -79.707031,
+    34.890041
+],
   "geometry": {"coordinates":[-79.707031,34.890041],"type":"Point"}
 }

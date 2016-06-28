@@ -2,13 +2,14 @@
   "id": 203237003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.424478,34.745125,-77.424478,34.745125",
     "geom:latitude":34.745125,
     "geom:longitude":-77.424478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Westminister Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203237003,
-    "wof:lastmodified":1449024997,
+    "wof:lastmodified":1466655931,
     "wof:name":"Gatewood Maintenance",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewer"
     ]
 },
-  "bbox": [-77.424478,34.745125,-77.424478,34.745125],
-  "geometry": {"coordinates":[-77.424478,34.745125],"type":"Point"}
+  "bbox": [
+    -77.424478,
+    34.745125,
+    -77.424478,
+    34.745125
+],
+  "geometry": {"coordinates":[-77.42447799999999,34.745125],"type":"Point"}
 }

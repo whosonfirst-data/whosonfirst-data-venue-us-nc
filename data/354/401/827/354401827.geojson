@@ -2,13 +2,14 @@
   "id": 354401827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.919331,35.237303,-80.919331,35.237303",
     "geom:latitude":35.237303,
     "geom:longitude":-80.919331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Scott Futrell Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354401827,
-    "wof:lastmodified":1449067399,
+    "wof:lastmodified":1466652191,
     "wof:name":"Us Postal Svc",
     "wof:parent_id":85871239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.919331,35.237303,-80.919331,35.237303],
+  "bbox": [
+    -80.919331,
+    35.237303,
+    -80.919331,
+    35.237303
+],
   "geometry": {"coordinates":[-80.919331,35.237303],"type":"Point"}
 }

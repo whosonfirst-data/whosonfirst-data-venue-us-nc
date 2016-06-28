@@ -2,13 +2,14 @@
   "id": 387864875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.826625,34.251777,-77.826625,34.251777",
     "geom:latitude":34.251777,
     "geom:longitude":-77.826625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Military Cutoff Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387864875,
-    "wof:lastmodified":1449059968,
+    "wof:lastmodified":1466657804,
     "wof:name":"Easter Seals",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [-77.826625,34.251777,-77.826625,34.251777],
-  "geometry": {"coordinates":[-77.826625,34.251777],"type":"Point"}
+  "bbox": [
+    -77.826625,
+    34.251777,
+    -77.826625,
+    34.251777
+],
+  "geometry": {"coordinates":[-77.82662500000001,34.251777],"type":"Point"}
 }

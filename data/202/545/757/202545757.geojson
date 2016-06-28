@@ -2,13 +2,14 @@
   "id": 202545757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.006774,35.078139,-79.006774,35.078139",
     "geom:latitude":35.078139,
     "geom:longitude":-79.006774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Tiverton St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202545757,
-    "wof:lastmodified":1449060723,
+    "wof:lastmodified":1466655286,
     "wof:name":"Cass Custom Models",
     "wof:parent_id":85831097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.006774,35.078139,-79.006774,35.078139],
-  "geometry": {"coordinates":[-79.006774,35.078139],"type":"Point"}
+  "bbox": [
+    -79.006774,
+    35.078139,
+    -79.006774,
+    35.078139
+],
+  "geometry": {"coordinates":[-79.00677399999999,35.078139],"type":"Point"}
 }

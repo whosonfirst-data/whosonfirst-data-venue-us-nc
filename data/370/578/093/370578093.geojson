@@ -2,13 +2,14 @@
   "id": 370578093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.929705,35.178942,-80.929705,35.178942",
     "geom:latitude":35.178942,
     "geom:longitude":-80.929705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Cross Beam Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370578093,
-    "wof:lastmodified":1449029944,
+    "wof:lastmodified":1466653594,
     "wof:name":"Cargo Logistics Network",
     "wof:parent_id":85882291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forwarding"
     ]
 },
-  "bbox": [-80.929705,35.178942,-80.929705,35.178942],
+  "bbox": [
+    -80.929705,
+    35.178942,
+    -80.929705,
+    35.178942
+],
   "geometry": {"coordinates":[-80.929705,35.178942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270015397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.445729,35.287144,-82.445729,35.287144",
     "geom:latitude":35.287144,
     "geom:longitude":-82.445729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Windham Way",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":270015397,
-    "wof:lastmodified":1449009187,
+    "wof:lastmodified":1466643382,
     "wof:name":"Whitlock Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-82.445729,35.287144,-82.445729,35.287144],
+  "bbox": [
+    -82.445729,
+    35.287144,
+    -82.445729,
+    35.287144
+],
   "geometry": {"coordinates":[-82.445729,35.287144],"type":"Point"}
 }

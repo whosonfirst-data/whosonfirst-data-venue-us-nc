@@ -2,13 +2,14 @@
   "id": 387253391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795195,35.704253,-79.795195,35.704253",
     "geom:latitude":35.704253,
     "geom:longitude":-79.795195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Dublin Square Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387253391,
-    "wof:lastmodified":1449059450,
+    "wof:lastmodified":1466653204,
     "wof:name":"Randolph Gastroenterology",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.795195,35.704253,-79.795195,35.704253],
-  "geometry": {"coordinates":[-79.795195,35.704253],"type":"Point"}
+  "bbox": [
+    -79.795195,
+    35.704253,
+    -79.795195,
+    35.704253
+],
+  "geometry": {"coordinates":[-79.79519500000001,35.704253],"type":"Point"}
 }

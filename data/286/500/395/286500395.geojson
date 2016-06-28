@@ -2,13 +2,14 @@
   "id": 286500395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.460749,34.777889,-79.460749,34.777889",
     "geom:latitude":34.777889,
     "geom:longitude":-79.460749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Bizzel St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286500395,
-    "wof:lastmodified":1449015906,
+    "wof:lastmodified":1466646341,
     "wof:name":"Rita's Variety Corner",
     "wof:parent_id":85834007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.460749,34.777889,-79.460749,34.777889],
-  "geometry": {"coordinates":[-79.460749,34.777889],"type":"Point"}
+  "bbox": [
+    -79.460749,
+    34.777889,
+    -79.460749,
+    34.777889
+],
+  "geometry": {"coordinates":[-79.46074900000001,34.777889],"type":"Point"}
 }

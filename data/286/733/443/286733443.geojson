@@ -2,13 +2,14 @@
   "id": 286733443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101137,35.671175,-81.101137,35.671175",
     "geom:latitude":35.671175,
     "geom:longitude":-81.101137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Shiloh Rd",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286733443,
-    "wof:lastmodified":1449015581,
+    "wof:lastmodified":1466649557,
     "wof:name":"D & S Frames",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "furniture"
     ]
 },
-  "bbox": [-81.101137,35.671175,-81.101137,35.671175],
-  "geometry": {"coordinates":[-81.101137,35.671175],"type":"Point"}
+  "bbox": [
+    -81.101137,
+    35.671175,
+    -81.101137,
+    35.671175
+],
+  "geometry": {"coordinates":[-81.10113699999999,35.671175],"type":"Point"}
 }

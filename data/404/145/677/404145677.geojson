@@ -2,13 +2,14 @@
   "id": 404145677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.476919,35.207505,-79.476919,35.207505",
     "geom:latitude":35.207505,
     "geom:longitude":-79.476919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Olmsted Blvd",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404145677,
-    "wof:lastmodified":1449039386,
+    "wof:lastmodified":1466653127,
     "wof:name":"Pinetree Clinic LLC",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.476919,35.207505,-79.476919,35.207505],
+  "bbox": [
+    -79.476919,
+    35.207505,
+    -79.476919,
+    35.207505
+],
   "geometry": {"coordinates":[-79.476919,35.207505],"type":"Point"}
 }

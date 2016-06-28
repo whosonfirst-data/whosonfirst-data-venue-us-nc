@@ -2,13 +2,14 @@
   "id": 320318265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.136974,35.273516,-81.136974,35.273516",
     "geom:latitude":35.273516,
     "geom:longitude":-81.136974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2535 Court Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320318265,
-    "wof:lastmodified":1449012080,
+    "wof:lastmodified":1466649736,
     "wof:name":"Gaston Mental Health Center",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outpatient"
     ]
 },
-  "bbox": [-81.136974,35.273516,-81.136974,35.273516],
+  "bbox": [
+    -81.136974,
+    35.273516,
+    -81.136974,
+    35.273516
+],
   "geometry": {"coordinates":[-81.136974,35.273516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403883005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.525416,34.977031,-80.525416,34.977031",
     "geom:latitude":34.977031,
     "geom:longitude":-80.525416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 S Sutherland Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403883005,
-    "wof:lastmodified":1449055650,
+    "wof:lastmodified":1466652695,
     "wof:name":"A M P M Foot Clinic",
     "wof:parent_id":85840585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.525416,34.977031,-80.525416,34.977031],
-  "geometry": {"coordinates":[-80.525416,34.977031],"type":"Point"}
+  "bbox": [
+    -80.525416,
+    34.977031,
+    -80.525416,
+    34.977031
+],
+  "geometry": {"coordinates":[-80.52541600000001,34.977031],"type":"Point"}
 }

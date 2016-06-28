@@ -2,13 +2,14 @@
   "id": 387187181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.328331,34.74248,-77.328331,34.74248",
     "geom:latitude":34.74248,
     "geom:longitude":-77.328331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2048 Piney Green Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387187181,
-    "wof:lastmodified":1449056669,
+    "wof:lastmodified":1466652317,
     "wof:name":"Mike Lanier Welding",
     "wof:parent_id":85841997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-77.328331,34.74248,-77.328331,34.74248],
-  "geometry": {"coordinates":[-77.328331,34.74248],"type":"Point"}
+  "bbox": [
+    -77.328331,
+    34.74248,
+    -77.328331,
+    34.74248
+],
+  "geometry": {"coordinates":[-77.32833100000001,34.74248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303741795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.130405,35.286253,-81.130405,35.286253",
     "geom:latitude":35.286253,
     "geom:longitude":-81.130405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1627 Spencer Mountain Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303741795,
-    "wof:lastmodified":1448998251,
+    "wof:lastmodified":1466654018,
     "wof:name":"Home Furnishings",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-81.130405,35.286253,-81.130405,35.286253],
+  "bbox": [
+    -81.130405,
+    35.286253,
+    -81.130405,
+    35.286253
+],
   "geometry": {"coordinates":[-81.130405,35.286253],"type":"Point"}
 }

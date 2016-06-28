@@ -2,13 +2,14 @@
   "id": 287060151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.559384,35.709794,-78.559384,35.709794",
     "geom:latitude":35.709794,
     "geom:longitude":-78.559384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 Auburn Church Rd",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287060151,
-    "wof:lastmodified":1449001498,
+    "wof:lastmodified":1466644097,
     "wof:name":"GL Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.559384,35.709794,-78.559384,35.709794],
-  "geometry": {"coordinates":[-78.559384,35.709794],"type":"Point"}
+  "bbox": [
+    -78.559384,
+    35.709794,
+    -78.559384,
+    35.709794
+],
+  "geometry": {"coordinates":[-78.55938399999999,35.709794],"type":"Point"}
 }

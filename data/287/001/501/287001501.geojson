@@ -2,13 +2,14 @@
   "id": 287001501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.527264,36.262505,-76.527264,36.262505",
     "geom:latitude":36.262505,
     "geom:longitude":-76.527264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Belvidere Rd",
     "sg:city":"Belvidere",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287001501,
-    "wof:lastmodified":1449000866,
+    "wof:lastmodified":1466643231,
     "wof:name":"Andy White Body Shop",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-76.527264,36.262505,-76.527264,36.262505],
+  "bbox": [
+    -76.527264,
+    36.262505,
+    -76.527264,
+    36.262505
+],
   "geometry": {"coordinates":[-76.527264,36.262505],"type":"Point"}
 }

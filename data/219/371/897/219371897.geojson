@@ -2,13 +2,14 @@
   "id": 219371897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.006482,35.927211,-79.006482,35.927211",
     "geom:latitude":35.927211,
     "geom:longitude":-79.006482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Waterford Pl",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219371897,
-    "wof:lastmodified":1449073151,
+    "wof:lastmodified":1466643891,
     "wof:name":"North Carolina Air & Trav",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-79.006482,35.927211,-79.006482,35.927211],
-  "geometry": {"coordinates":[-79.006482,35.927211],"type":"Point"}
+  "bbox": [
+    -79.006482,
+    35.927211,
+    -79.006482,
+    35.927211
+],
+  "geometry": {"coordinates":[-79.00648200000001,35.927211],"type":"Point"}
 }

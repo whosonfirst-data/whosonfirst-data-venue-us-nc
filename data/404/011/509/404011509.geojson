@@ -2,13 +2,14 @@
   "id": 404011509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.860735,35.758926,-80.860735,35.758926",
     "geom:latitude":35.758926,
     "geom:longitude":-80.860735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 Barkley Rd",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404011509,
-    "wof:lastmodified":1449040074,
+    "wof:lastmodified":1466651449,
     "wof:name":"Two-Way Radio Carolina Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "communication"
     ]
 },
-  "bbox": [-80.860735,35.758926,-80.860735,35.758926],
-  "geometry": {"coordinates":[-80.860735,35.758926],"type":"Point"}
+  "bbox": [
+    -80.860735,
+    35.758926,
+    -80.860735,
+    35.758926
+],
+  "geometry": {"coordinates":[-80.86073500000001,35.758926],"type":"Point"}
 }

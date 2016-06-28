@@ -2,13 +2,14 @@
   "id": 236775669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.924486,34.207135,-77.924486,34.207135",
     "geom:latitude":34.207135,
     "geom:longitude":-77.924486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 S 17th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236775669,
-    "wof:lastmodified":1449004208,
+    "wof:lastmodified":1466650199,
     "wof:name":"Wilmington Orthopedic Group PA",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "orthopedic"
     ]
 },
-  "bbox": [-77.924486,34.207135,-77.924486,34.207135],
+  "bbox": [
+    -77.924486,
+    34.207135,
+    -77.924486,
+    34.207135
+],
   "geometry": {"coordinates":[-77.924486,34.207135],"type":"Point"}
 }

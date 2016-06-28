@@ -2,13 +2,14 @@
   "id": 320616689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.05974,34.202099,-78.05974,34.202099",
     "geom:latitude":34.202099,
     "geom:longitude":-78.05974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8131 Rachael Wynd NE",
     "sg:city":"Leland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320616689,
-    "wof:lastmodified":1449014001,
+    "wof:lastmodified":1466654066,
     "wof:name":"Absolutely Unique Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.05974,34.202099,-78.05974,34.202099],
-  "geometry": {"coordinates":[-78.05974,34.202099],"type":"Point"}
+  "bbox": [
+    -78.05974,
+    34.202099,
+    -78.05974,
+    34.202099
+],
+  "geometry": {"coordinates":[-78.05974000000001,34.202099],"type":"Point"}
 }

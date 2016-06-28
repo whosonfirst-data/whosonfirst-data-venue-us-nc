@@ -2,13 +2,14 @@
   "id": 387303801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.808195,35.231256,-80.808195,35.231256",
     "geom:latitude":35.231256,
     "geom:longitude":-80.808195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Mimosa Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387303801,
-    "wof:lastmodified":1449056155,
+    "wof:lastmodified":1466653853,
     "wof:name":"Wavy Davy's",
     "wof:parent_id":85834157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "planning"
     ]
 },
-  "bbox": [-80.808195,35.231256,-80.808195,35.231256],
+  "bbox": [
+    -80.808195,
+    35.231256,
+    -80.808195,
+    35.231256
+],
   "geometry": {"coordinates":[-80.808195,35.231256],"type":"Point"}
 }

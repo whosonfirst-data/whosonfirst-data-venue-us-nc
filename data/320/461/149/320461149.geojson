@@ -2,13 +2,14 @@
   "id": 320461149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.580857,35.26758,-77.580857,35.26758",
     "geom:latitude":35.26758,
     "geom:longitude":-77.580857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 N Queen St",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320461149,
-    "wof:lastmodified":1449012686,
+    "wof:lastmodified":1466651796,
     "wof:name":"Furniture Fair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.580857,35.26758,-77.580857,35.26758],
-  "geometry": {"coordinates":[-77.580857,35.26758],"type":"Point"}
+  "bbox": [
+    -77.580857,
+    35.26758,
+    -77.580857,
+    35.26758
+],
+  "geometry": {"coordinates":[-77.58085699999999,35.26758],"type":"Point"}
 }

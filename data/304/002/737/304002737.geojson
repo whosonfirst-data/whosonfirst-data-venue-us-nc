@@ -2,13 +2,14 @@
   "id": 304002737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.336999,36.406752,-79.336999,36.406752",
     "geom:latitude":36.406752,
     "geom:longitude":-79.336999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Wall St",
     "sg:city":"Yanceyville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304002737,
-    "wof:lastmodified":1449044049,
+    "wof:lastmodified":1466644213,
     "wof:name":"Alamance-Caswell Mental Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-79.336999,36.406752,-79.336999,36.406752],
-  "geometry": {"coordinates":[-79.336999,36.406752],"type":"Point"}
+  "bbox": [
+    -79.336999,
+    36.406752,
+    -79.336999,
+    36.406752
+],
+  "geometry": {"coordinates":[-79.33699900000001,36.406752],"type":"Point"}
 }

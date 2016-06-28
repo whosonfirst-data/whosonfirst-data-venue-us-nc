@@ -2,13 +2,14 @@
   "id": 303905263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.077323,35.98758,-79.077323,35.98758",
     "geom:latitude":35.98758,
     "geom:longitude":-79.077323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6211 New Jericho Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303905263,
-    "wof:lastmodified":1448999073,
+    "wof:lastmodified":1466656014,
     "wof:name":"Woodland Shop",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.077323,35.98758,-79.077323,35.98758],
-  "geometry": {"coordinates":[-79.077323,35.98758],"type":"Point"}
+  "bbox": [
+    -79.077323,
+    35.98758,
+    -79.077323,
+    35.98758
+],
+  "geometry": {"coordinates":[-79.07732300000001,35.98758],"type":"Point"}
 }

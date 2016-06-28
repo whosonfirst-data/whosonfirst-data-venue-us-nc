@@ -2,13 +2,14 @@
   "id": 270347683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.565362,34.696014,-76.565362,34.696014",
     "geom:latitude":34.696014,
     "geom:longitude":-76.565362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"846 Island Rd",
     "sg:city":"Harkers Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270347683,
-    "wof:lastmodified":1449009814,
+    "wof:lastmodified":1466647472,
     "wof:name":"Bell Cline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-76.565362,34.696014,-76.565362,34.696014],
-  "geometry": {"coordinates":[-76.565362,34.696014],"type":"Point"}
+  "bbox": [
+    -76.565362,
+    34.696014,
+    -76.565362,
+    34.696014
+],
+  "geometry": {"coordinates":[-76.56536199999999,34.696014],"type":"Point"}
 }

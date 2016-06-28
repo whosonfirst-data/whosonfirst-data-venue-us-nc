@@ -2,13 +2,14 @@
   "id": 320101297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.421698,35.192725,-78.421698,35.192725",
     "geom:latitude":35.192725,
     "geom:longitude":-78.421698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Jones Rd",
     "sg:city":"Newton Grove",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320101297,
-    "wof:lastmodified":1449013225,
+    "wof:lastmodified":1466646718,
     "wof:name":"TDM Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.421698,35.192725,-78.421698,35.192725],
-  "geometry": {"coordinates":[-78.421698,35.192725],"type":"Point"}
+  "bbox": [
+    -78.421698,
+    35.192725,
+    -78.421698,
+    35.192725
+],
+  "geometry": {"coordinates":[-78.42169800000001,35.192725],"type":"Point"}
 }

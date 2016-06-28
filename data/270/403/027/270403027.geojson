@@ -2,13 +2,14 @@
   "id": 270403027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.955409,36.051329,-79.955409,36.051329",
     "geom:latitude":36.051329,
     "geom:longitude":-79.955409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4194 Mendenhall Oaks Pkwy",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270403027,
-    "wof:lastmodified":1449010741,
+    "wof:lastmodified":1466648173,
     "wof:name":"Farr Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-79.955409,36.051329,-79.955409,36.051329],
+  "bbox": [
+    -79.955409,
+    36.051329,
+    -79.955409,
+    36.051329
+],
   "geometry": {"coordinates":[-79.955409,36.051329],"type":"Point"}
 }

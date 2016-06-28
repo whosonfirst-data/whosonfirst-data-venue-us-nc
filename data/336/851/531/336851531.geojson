@@ -2,13 +2,14 @@
   "id": 336851531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.046852,35.555688,-77.046852,35.555688",
     "geom:latitude":35.555688,
     "geom:longitude":-77.046852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 W 15th St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336851531,
-    "wof:lastmodified":1448997641,
+    "wof:lastmodified":1466649672,
     "wof:name":"Play Date",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.046852,35.555688,-77.046852,35.555688],
+  "bbox": [
+    -77.046852,
+    35.555688,
+    -77.046852,
+    35.555688
+],
   "geometry": {"coordinates":[-77.046852,35.555688],"type":"Point"}
 }

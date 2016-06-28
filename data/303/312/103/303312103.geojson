@@ -2,13 +2,14 @@
   "id": 303312103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.277831,35.88101,-80.277831,35.88101",
     "geom:latitude":35.88101,
     "geom:longitude":-80.277831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 Arnold Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303312103,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1466647838,
     "wof:name":"Shuffle Band",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-80.277831,35.88101,-80.277831,35.88101],
-  "geometry": {"coordinates":[-80.277831,35.88101],"type":"Point"}
+  "bbox": [
+    -80.277831,
+    35.88101,
+    -80.277831,
+    35.88101
+],
+  "geometry": {"coordinates":[-80.27783100000001,35.88101],"type":"Point"}
 }

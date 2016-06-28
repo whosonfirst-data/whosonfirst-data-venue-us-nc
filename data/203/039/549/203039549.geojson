@@ -2,13 +2,14 @@
   "id": 203039549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.450975,35.633565,-78.450975,35.633565",
     "geom:latitude":35.633565,
     "geom:longitude":-78.450975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Commodore St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203039549,
-    "wof:lastmodified":1449026624,
+    "wof:lastmodified":1466654444,
     "wof:name":"Cobbler Station",
     "wof:parent_id":85854199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.450975,35.633565,-78.450975,35.633565],
+  "bbox": [
+    -78.450975,
+    35.633565,
+    -78.450975,
+    35.633565
+],
   "geometry": {"coordinates":[-78.450975,35.633565],"type":"Point"}
 }

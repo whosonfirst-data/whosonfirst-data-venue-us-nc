@@ -2,13 +2,14 @@
   "id": 353916539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.75969,34.725756,-76.75969,34.725756",
     "geom:latitude":34.725756,
     "geom:longitude":-76.75969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3820 Bridges St",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353916539,
-    "wof:lastmodified":1449019664,
+    "wof:lastmodified":1466653092,
     "wof:name":"Health Dept WIC Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-76.75969,34.725756,-76.75969,34.725756],
-  "geometry": {"coordinates":[-76.75969,34.725756],"type":"Point"}
+  "bbox": [
+    -76.75969,
+    34.725756,
+    -76.75969,
+    34.725756
+],
+  "geometry": {"coordinates":[-76.75969000000001,34.725756],"type":"Point"}
 }

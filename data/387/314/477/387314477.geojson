@@ -2,13 +2,14 @@
   "id": 387314477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.293754,35.815748,-80.293754,35.815748",
     "geom:latitude":35.815748,
     "geom:longitude":-80.293754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Pine Top Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387314477,
-    "wof:lastmodified":1449059755,
+    "wof:lastmodified":1466654001,
     "wof:name":"Powell Professional Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.293754,35.815748,-80.293754,35.815748],
-  "geometry": {"coordinates":[-80.293754,35.815748],"type":"Point"}
+  "bbox": [
+    -80.293754,
+    35.815748,
+    -80.293754,
+    35.815748
+],
+  "geometry": {"coordinates":[-80.29375400000001,35.815748],"type":"Point"}
 }

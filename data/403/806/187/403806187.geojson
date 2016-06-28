@@ -2,13 +2,14 @@
   "id": 403806187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.17404,35.251709,-81.17404,35.251709",
     "geom:latitude":35.251709,
     "geom:longitude":-81.17404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Forest Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403806187,
-    "wof:lastmodified":1449054623,
+    "wof:lastmodified":1466651659,
     "wof:name":"Auto Exchange",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.17404,35.251709,-81.17404,35.251709],
-  "geometry": {"coordinates":[-81.17404,35.251709],"type":"Point"}
+  "bbox": [
+    -81.17404,
+    35.251709,
+    -81.17404,
+    35.251709
+],
+  "geometry": {"coordinates":[-81.17404000000001,35.251709],"type":"Point"}
 }

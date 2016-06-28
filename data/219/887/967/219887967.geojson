@@ -2,13 +2,14 @@
   "id": 219887967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.833121,36.058875,-79.833121,36.058875",
     "geom:latitude":36.058875,
     "geom:longitude":-79.833121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Patterson St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219887967,
-    "wof:lastmodified":1449073232,
+    "wof:lastmodified":1466647891,
     "wof:name":"Hart Appliance Ctr",
     "wof:parent_id":85826501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.833121,36.058875,-79.833121,36.058875],
-  "geometry": {"coordinates":[-79.833121,36.058875],"type":"Point"}
+  "bbox": [
+    -79.833121,
+    36.058875,
+    -79.833121,
+    36.058875
+],
+  "geometry": {"coordinates":[-79.83312100000001,36.058875],"type":"Point"}
 }

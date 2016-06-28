@@ -2,13 +2,14 @@
   "id": 403767993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.686321,35.745312,-81.686321,35.745312",
     "geom:latitude":35.745312,
     "geom:longitude":-81.686321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Green St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403767993,
-    "wof:lastmodified":1449055028,
+    "wof:lastmodified":1466651164,
     "wof:name":"Suttles Surveying",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-81.686321,35.745312,-81.686321,35.745312],
-  "geometry": {"coordinates":[-81.686321,35.745312],"type":"Point"}
+  "bbox": [
+    -81.686321,
+    35.745312,
+    -81.686321,
+    35.745312
+],
+  "geometry": {"coordinates":[-81.68632100000001,35.745312],"type":"Point"}
 }

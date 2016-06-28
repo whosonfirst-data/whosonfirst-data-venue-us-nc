@@ -2,13 +2,14 @@
   "id": 270088953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.923088,35.078254,-78.923088,35.078254",
     "geom:latitude":35.078254,
     "geom:longitude":-78.923088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Elm St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270088953,
-    "wof:lastmodified":1449010514,
+    "wof:lastmodified":1466644241,
     "wof:name":"Eutaw Apartments",
     "wof:parent_id":85818301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.923088,35.078254,-78.923088,35.078254],
-  "geometry": {"coordinates":[-78.923088,35.078254],"type":"Point"}
+  "bbox": [
+    -78.923088,
+    35.078254,
+    -78.923088,
+    35.078254
+],
+  "geometry": {"coordinates":[-78.92308800000001,35.078254],"type":"Point"}
 }

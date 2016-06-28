@@ -2,13 +2,14 @@
   "id": 253468933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.05782,35.550601,-77.05782,35.550601",
     "geom:latitude":35.550601,
     "geom:longitude":-77.05782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Carolina Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253468933,
-    "wof:lastmodified":1449064952,
+    "wof:lastmodified":1466647978,
     "wof:name":"Town & Country Dry Cleaners",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-77.05782,35.550601,-77.05782,35.550601],
-  "geometry": {"coordinates":[-77.05782,35.550601],"type":"Point"}
+  "bbox": [
+    -77.05782,
+    35.550601,
+    -77.05782,
+    35.550601
+],
+  "geometry": {"coordinates":[-77.05782000000001,35.550601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353868211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.632247,35.540531,-82.632247,35.540531",
     "geom:latitude":35.540531,
     "geom:longitude":-82.632247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"491 Sardis Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353868211,
-    "wof:lastmodified":1449018357,
+    "wof:lastmodified":1466652532,
     "wof:name":"Mountain Empire Oil",
     "wof:parent_id":85853555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-82.632247,35.540531,-82.632247,35.540531],
-  "geometry": {"coordinates":[-82.632247,35.540531],"type":"Point"}
+  "bbox": [
+    -82.632247,
+    35.540531,
+    -82.632247,
+    35.540531
+],
+  "geometry": {"coordinates":[-82.63224700000001,35.540531],"type":"Point"}
 }

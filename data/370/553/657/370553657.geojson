@@ -2,13 +2,14 @@
   "id": 370553657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.537759,34.709538,-77.537759,34.709538",
     "geom:latitude":34.709538,
     "geom:longitude":-77.537759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Haws Run Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370553657,
-    "wof:lastmodified":1449029079,
+    "wof:lastmodified":1466653265,
     "wof:name":"AK Rental",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.537759,34.709538,-77.537759,34.709538],
-  "geometry": {"coordinates":[-77.537759,34.709538],"type":"Point"}
+  "bbox": [
+    -77.537759,
+    34.709538,
+    -77.537759,
+    34.709538
+],
+  "geometry": {"coordinates":[-77.53775899999999,34.709538],"type":"Point"}
 }

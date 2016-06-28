@@ -2,13 +2,14 @@
   "id": 404145977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.832873,35.901263,-79.832873,35.901263",
     "geom:latitude":35.901263,
     "geom:longitude":-79.832873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Hockett Dairy Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404145977,
-    "wof:lastmodified":1449039390,
+    "wof:lastmodified":1466653131,
     "wof:name":"Green Valley Farms",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-79.832873,35.901263,-79.832873,35.901263],
-  "geometry": {"coordinates":[-79.832873,35.901263],"type":"Point"}
+  "bbox": [
+    -79.832873,
+    35.901263,
+    -79.832873,
+    35.901263
+],
+  "geometry": {"coordinates":[-79.83287300000001,35.901263],"type":"Point"}
 }

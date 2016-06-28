@@ -2,13 +2,14 @@
   "id": 370335239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.560341,35.888394,-78.560341,35.888394",
     "geom:latitude":35.888394,
     "geom:longitude":-78.560341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Paragon Park Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370335239,
-    "wof:lastmodified":1449031308,
+    "wof:lastmodified":1466650453,
     "wof:name":"Mill Outlet Village Inc",
     "wof:parent_id":85836543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "piece"
     ]
 },
-  "bbox": [-78.560341,35.888394,-78.560341,35.888394],
-  "geometry": {"coordinates":[-78.560341,35.888394],"type":"Point"}
+  "bbox": [
+    -78.560341,
+    35.888394,
+    -78.560341,
+    35.888394
+],
+  "geometry": {"coordinates":[-78.56034099999999,35.888394],"type":"Point"}
 }

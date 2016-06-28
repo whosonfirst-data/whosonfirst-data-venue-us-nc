@@ -2,13 +2,14 @@
   "id": 320019205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.683071,36.028129,-75.683071,36.028129",
     "geom:latitude":36.028129,
     "geom:longitude":-75.683071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 Bay Dr",
     "sg:city":"Kill Devil Hills",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320019205,
-    "wof:lastmodified":1449013401,
+    "wof:lastmodified":1466645618,
     "wof:name":"Window Gang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-75.683071,36.028129,-75.683071,36.028129],
+  "bbox": [
+    -75.683071,
+    36.028129,
+    -75.683071,
+    36.028129
+],
   "geometry": {"coordinates":[-75.683071,36.028129],"type":"Point"}
 }

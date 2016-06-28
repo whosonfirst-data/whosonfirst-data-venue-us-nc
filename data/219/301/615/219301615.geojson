@@ -2,13 +2,14 @@
   "id": 219301615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.409447,33.915483,-78.409447,33.915483",
     "geom:latitude":33.915483,
     "geom:longitude":-78.409447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Horse Branch Rd SW",
     "sg:city":"Ocean Isle Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219301615,
-    "wof:lastmodified":1449071299,
+    "wof:lastmodified":1466643332,
     "wof:name":"P I & Assoc",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-78.409447,33.915483,-78.409447,33.915483],
+  "bbox": [
+    -78.409447,
+    33.915483,
+    -78.409447,
+    33.915483
+],
   "geometry": {"coordinates":[-78.409447,33.915483],"type":"Point"}
 }

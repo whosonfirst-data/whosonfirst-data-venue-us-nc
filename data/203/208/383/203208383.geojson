@@ -2,13 +2,14 @@
   "id": 203208383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.071323,35.873326,-80.071323,35.873326",
     "geom:latitude":35.873326,
     "geom:longitude":-80.071323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Lines St",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203208383,
-    "wof:lastmodified":1449025161,
+    "wof:lastmodified":1466655240,
     "wof:name":"B-Dry System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "waterproofing"
     ]
 },
-  "bbox": [-80.071323,35.873326,-80.071323,35.873326],
-  "geometry": {"coordinates":[-80.071323,35.873326],"type":"Point"}
+  "bbox": [
+    -80.071323,
+    35.873326,
+    -80.071323,
+    35.873326
+],
+  "geometry": {"coordinates":[-80.07132300000001,35.873326],"type":"Point"}
 }

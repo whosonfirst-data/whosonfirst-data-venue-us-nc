@@ -2,13 +2,14 @@
   "id": 387450113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.827052,34.309406,-77.827052,34.309406",
     "geom:latitude":34.309406,
     "geom:longitude":-77.827052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 Crooked Pine Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387450113,
-    "wof:lastmodified":1449059345,
+    "wof:lastmodified":1466655765,
     "wof:name":"Ww Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.827052,34.309406,-77.827052,34.309406],
-  "geometry": {"coordinates":[-77.827052,34.309406],"type":"Point"}
+  "bbox": [
+    -77.827052,
+    34.309406,
+    -77.827052,
+    34.309406
+],
+  "geometry": {"coordinates":[-77.82705199999999,34.309406],"type":"Point"}
 }

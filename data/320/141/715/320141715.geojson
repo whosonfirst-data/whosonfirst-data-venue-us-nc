@@ -2,13 +2,14 @@
   "id": 320141715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.302501,35.53462,-77.302501,35.53462",
     "geom:latitude":35.53462,
     "geom:longitude":-77.302501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Ivy Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320141715,
-    "wof:lastmodified":1449012579,
+    "wof:lastmodified":1466647291,
     "wof:name":"AAA Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-77.302501,35.53462,-77.302501,35.53462],
-  "geometry": {"coordinates":[-77.302501,35.53462],"type":"Point"}
+  "bbox": [
+    -77.302501,
+    35.53462,
+    -77.302501,
+    35.53462
+],
+  "geometry": {"coordinates":[-77.30250100000001,35.53462],"type":"Point"}
 }

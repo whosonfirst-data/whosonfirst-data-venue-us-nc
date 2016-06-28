@@ -2,13 +2,14 @@
   "id": 270307217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.850488,35.911443,-79.850488,35.911443",
     "geom:latitude":35.911443,
     "geom:longitude":-79.850488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 Coltrane Mill Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270307217,
-    "wof:lastmodified":1449009256,
+    "wof:lastmodified":1466646966,
     "wof:name":"Country Club Rest Home",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-79.850488,35.911443,-79.850488,35.911443],
+  "bbox": [
+    -79.850488,
+    35.911443,
+    -79.850488,
+    35.911443
+],
   "geometry": {"coordinates":[-79.850488,35.911443],"type":"Point"}
 }

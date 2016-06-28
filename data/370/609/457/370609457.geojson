@@ -2,13 +2,14 @@
   "id": 370609457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.331494,35.221308,-78.331494,35.221308",
     "geom:latitude":35.221308,
     "geom:longitude":-78.331494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 Kornegay Town Rd",
     "sg:city":"Newton Grove",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370609457,
-    "wof:lastmodified":1449030346,
+    "wof:lastmodified":1466653998,
     "wof:name":"Parker Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-78.331494,35.221308,-78.331494,35.221308],
-  "geometry": {"coordinates":[-78.331494,35.221308],"type":"Point"}
+  "bbox": [
+    -78.331494,
+    35.221308,
+    -78.331494,
+    35.221308
+],
+  "geometry": {"coordinates":[-78.33149400000001,35.221308],"type":"Point"}
 }

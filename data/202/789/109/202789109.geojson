@@ -2,13 +2,14 @@
   "id": 202789109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.952819,35.970579,-77.952819,35.970579",
     "geom:latitude":35.970579,
     "geom:longitude":-77.952819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 E Washington St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202789109,
-    "wof:lastmodified":1449061271,
+    "wof:lastmodified":1466644081,
     "wof:name":"Freeman's TV & Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.952819,35.970579,-77.952819,35.970579],
-  "geometry": {"coordinates":[-77.952819,35.970579],"type":"Point"}
+  "bbox": [
+    -77.952819,
+    35.970579,
+    -77.952819,
+    35.970579
+],
+  "geometry": {"coordinates":[-77.95281900000001,35.970579],"type":"Point"}
 }

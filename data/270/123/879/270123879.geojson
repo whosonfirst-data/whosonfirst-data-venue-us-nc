@@ -2,13 +2,14 @@
   "id": 270123879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.371479,36.079609,-79.371479,36.079609",
     "geom:latitude":36.079609,
     "geom:longitude":-79.371479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Trollinger Rd",
     "sg:city":"Graham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270123879,
-    "wof:lastmodified":1449009343,
+    "wof:lastmodified":1466644634,
     "wof:name":"Saint Andrews Congrg Church",
     "wof:parent_id":85832733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.371479,36.079609,-79.371479,36.079609],
-  "geometry": {"coordinates":[-79.371479,36.079609],"type":"Point"}
+  "bbox": [
+    -79.371479,
+    36.079609,
+    -79.371479,
+    36.079609
+],
+  "geometry": {"coordinates":[-79.37147899999999,36.079609],"type":"Point"}
 }

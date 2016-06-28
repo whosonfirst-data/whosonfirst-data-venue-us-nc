@@ -2,13 +2,14 @@
   "id": 370334803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.108256,35.937404,-80.108256,35.937404",
     "geom:latitude":35.937404,
     "geom:longitude":-80.108256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1044 W Burton Rd",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370334803,
-    "wof:lastmodified":1449030096,
+    "wof:lastmodified":1466650447,
     "wof:name":"Westside Wastewater Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "city"
     ]
 },
-  "bbox": [-80.108256,35.937404,-80.108256,35.937404],
+  "bbox": [
+    -80.108256,
+    35.937404,
+    -80.108256,
+    35.937404
+],
   "geometry": {"coordinates":[-80.108256,35.937404],"type":"Point"}
 }

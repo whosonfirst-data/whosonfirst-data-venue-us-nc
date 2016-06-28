@@ -2,13 +2,14 @@
   "id": 270233121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.110555,34.849053,-79.110555,34.849053",
     "geom:latitude":34.849053,
     "geom:longitude":-79.110555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1662 Wagon Wheel Rd",
     "sg:city":"Shannon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270233121,
-    "wof:lastmodified":1449011147,
+    "wof:lastmodified":1466646000,
     "wof:name":"Carolina Sealer & Striping Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.110555,34.849053,-79.110555,34.849053],
-  "geometry": {"coordinates":[-79.110555,34.849053],"type":"Point"}
+  "bbox": [
+    -79.110555,
+    34.849053,
+    -79.110555,
+    34.849053
+],
+  "geometry": {"coordinates":[-79.11055500000001,34.849053],"type":"Point"}
 }

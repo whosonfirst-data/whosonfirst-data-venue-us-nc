@@ -2,13 +2,14 @@
   "id": 219506197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.903661,34.875905,-76.903661,34.875905",
     "geom:latitude":34.875905,
     "geom:longitude":-76.903661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 US Hwy 70",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219506197,
-    "wof:lastmodified":1449070446,
+    "wof:lastmodified":1466644937,
     "wof:name":"Gray's Texaco",
     "wof:parent_id":85832211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-76.903661,34.875905,-76.903661,34.875905],
+  "bbox": [
+    -76.903661,
+    34.875905,
+    -76.903661,
+    34.875905
+],
   "geometry": {"coordinates":[-76.903661,34.875905],"type":"Point"}
 }

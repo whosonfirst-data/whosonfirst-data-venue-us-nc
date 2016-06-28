@@ -2,13 +2,14 @@
   "id": 269906727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.961729,34.963051,-77.961729,34.963051",
     "geom:latitude":34.963051,
     "geom:longitude":-77.961729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Courthouse Plz",
     "sg:city":"Kenansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269906727,
-    "wof:lastmodified":1449037054,
+    "wof:lastmodified":1466648193,
     "wof:name":"CDTEG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-77.961729,34.963051,-77.961729,34.963051],
-  "geometry": {"coordinates":[-77.961729,34.963051],"type":"Point"}
+  "bbox": [
+    -77.961729,
+    34.963051,
+    -77.961729,
+    34.963051
+],
+  "geometry": {"coordinates":[-77.96172900000001,34.963051],"type":"Point"}
 }

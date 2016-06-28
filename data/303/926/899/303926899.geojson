@@ -2,13 +2,14 @@
   "id": 303926899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.950904,35.375142,-77.950904,35.375142",
     "geom:latitude":35.375142,
     "geom:longitude":-77.950904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 N Spence Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303926899,
-    "wof:lastmodified":1448998973,
+    "wof:lastmodified":1466656256,
     "wof:name":"Blockbuster",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-77.950904,35.375142,-77.950904,35.375142],
-  "geometry": {"coordinates":[-77.950904,35.375142],"type":"Point"}
+  "bbox": [
+    -77.950904,
+    35.375142,
+    -77.950904,
+    35.375142
+],
+  "geometry": {"coordinates":[-77.95090399999999,35.375142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370867073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.095756,35.359095,-81.095756,35.359095",
     "geom:latitude":35.359095,
     "geom:longitude":-81.095756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S Main St",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370867073,
-    "wof:lastmodified":1449030551,
+    "wof:lastmodified":1466656879,
     "wof:name":"Brevard Station Museum",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-81.095756,35.359095,-81.095756,35.359095],
-  "geometry": {"coordinates":[-81.095756,35.359095],"type":"Point"}
+  "bbox": [
+    -81.095756,
+    35.359095,
+    -81.095756,
+    35.359095
+],
+  "geometry": {"coordinates":[-81.09575599999999,35.359095],"type":"Point"}
 }

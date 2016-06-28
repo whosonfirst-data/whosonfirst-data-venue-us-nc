@@ -2,13 +2,14 @@
   "id": 370253579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.830806,35.995567,-79.830806,35.995567",
     "geom:latitude":35.995567,
     "geom:longitude":-79.830806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4531 S Holden Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370253579,
-    "wof:lastmodified":1449032055,
+    "wof:lastmodified":1466649448,
     "wof:name":"US Food Service",
     "wof:parent_id":85856705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "roasted"
     ]
 },
-  "bbox": [-79.830806,35.995567,-79.830806,35.995567],
+  "bbox": [
+    -79.830806,
+    35.995567,
+    -79.830806,
+    35.995567
+],
   "geometry": {"coordinates":[-79.830806,35.995567],"type":"Point"}
 }

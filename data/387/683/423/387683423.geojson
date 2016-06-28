@@ -2,13 +2,14 @@
   "id": 387683423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.809825,35.739798,-78.809825,35.739798",
     "geom:latitude":35.739798,
     "geom:longitude":-78.809825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Mackenan Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387683423,
-    "wof:lastmodified":1449057500,
+    "wof:lastmodified":1466657297,
     "wof:name":"Hendrick Dodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealership"
     ]
 },
-  "bbox": [-78.809825,35.739798,-78.809825,35.739798],
+  "bbox": [
+    -78.809825,
+    35.739798,
+    -78.809825,
+    35.739798
+],
   "geometry": {"coordinates":[-78.809825,35.739798],"type":"Point"}
 }

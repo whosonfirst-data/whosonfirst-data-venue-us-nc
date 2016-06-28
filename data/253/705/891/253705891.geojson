@@ -2,13 +2,14 @@
   "id": 253705891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.34751,35.382695,-80.34751,35.382695",
     "geom:latitude":35.382695,
     "geom:longitude":-80.34751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18047 State Hwy 73",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253705891,
-    "wof:lastmodified":1449065825,
+    "wof:lastmodified":1466650813,
     "wof:name":"Studio 73",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.34751,35.382695,-80.34751,35.382695],
+  "bbox": [
+    -80.34751,
+    35.382695,
+    -80.34751,
+    35.382695
+],
   "geometry": {"coordinates":[-80.34751,35.382695],"type":"Point"}
 }

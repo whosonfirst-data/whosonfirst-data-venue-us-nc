@@ -2,13 +2,14 @@
   "id": 353690531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.804173,35.71866,-78.804173,35.71866",
     "geom:latitude":35.71866,
     "geom:longitude":-78.804173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Bosswood Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353690531,
-    "wof:lastmodified":1449019606,
+    "wof:lastmodified":1466650486,
     "wof:name":"Medprompt of Eastern NC Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.804173,35.71866,-78.804173,35.71866],
-  "geometry": {"coordinates":[-78.804173,35.71866],"type":"Point"}
+  "bbox": [
+    -78.804173,
+    35.71866,
+    -78.804173,
+    35.71866
+],
+  "geometry": {"coordinates":[-78.80417300000001,35.71866],"type":"Point"}
 }

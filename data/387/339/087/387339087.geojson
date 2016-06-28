@@ -2,13 +2,14 @@
   "id": 387339087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.347794,35.578199,-77.347794,35.578199",
     "geom:latitude":35.578199,
     "geom:longitude":-77.347794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Opera Ct",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387339087,
-    "wof:lastmodified":1449057803,
+    "wof:lastmodified":1466654321,
     "wof:name":"North Carolina Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "community"
     ]
 },
-  "bbox": [-77.347794,35.578199,-77.347794,35.578199],
-  "geometry": {"coordinates":[-77.347794,35.578199],"type":"Point"}
+  "bbox": [
+    -77.347794,
+    35.578199,
+    -77.347794,
+    35.578199
+],
+  "geometry": {"coordinates":[-77.34779399999999,35.578199],"type":"Point"}
 }

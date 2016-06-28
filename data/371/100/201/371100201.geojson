@@ -2,13 +2,14 @@
   "id": 371100201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.568942,34.967228,-80.568942,34.967228",
     "geom:latitude":34.967228,
     "geom:longitude":-80.568942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Lancaster Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371100201,
-    "wof:lastmodified":1449049824,
+    "wof:lastmodified":1466650083,
     "wof:name":"Catawba Food Mart #5",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.568942,34.967228,-80.568942,34.967228],
-  "geometry": {"coordinates":[-80.568942,34.967228],"type":"Point"}
+  "bbox": [
+    -80.568942,
+    34.967228,
+    -80.568942,
+    34.967228
+],
+  "geometry": {"coordinates":[-80.56894200000001,34.967228],"type":"Point"}
 }

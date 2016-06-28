@@ -2,13 +2,14 @@
   "id": 320292085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.380123,35.380086,-81.380123,35.380086",
     "geom:latitude":35.380086,
     "geom:longitude":-81.380123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W 1st St",
     "sg:city":"Cherryville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320292085,
-    "wof:lastmodified":1449011558,
+    "wof:lastmodified":1466649375,
     "wof:name":"Fish Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.380123,35.380086,-81.380123,35.380086],
+  "bbox": [
+    -81.380123,
+    35.380086,
+    -81.380123,
+    35.380086
+],
   "geometry": {"coordinates":[-81.380123,35.380086],"type":"Point"}
 }

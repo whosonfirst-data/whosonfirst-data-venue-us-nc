@@ -2,13 +2,14 @@
   "id": 386970583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.540129,35.32765,-81.540129,35.32765",
     "geom:latitude":35.32765,
     "geom:longitude":-81.540129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 N Lafayette St",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386970583,
-    "wof:lastmodified":1449028970,
+    "wof:lastmodified":1466649940,
     "wof:name":"Food Lion Store 707",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chain"
     ]
 },
-  "bbox": [-81.540129,35.32765,-81.540129,35.32765],
-  "geometry": {"coordinates":[-81.540129,35.32765],"type":"Point"}
+  "bbox": [
+    -81.540129,
+    35.32765,
+    -81.540129,
+    35.32765
+],
+  "geometry": {"coordinates":[-81.54012899999999,35.32765],"type":"Point"}
 }

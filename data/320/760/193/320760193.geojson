@@ -2,13 +2,14 @@
   "id": 320760193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.477156,35.31745,-80.477156,35.31745",
     "geom:latitude":35.31745,
     "geom:longitude":-80.477156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7229 Mount Pleasant Rd S",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320760193,
-    "wof:lastmodified":1449014821,
+    "wof:lastmodified":1466655988,
     "wof:name":"Peterson Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.477156,35.31745,-80.477156,35.31745],
-  "geometry": {"coordinates":[-80.477156,35.31745],"type":"Point"}
+  "bbox": [
+    -80.477156,
+    35.31745,
+    -80.477156,
+    35.31745
+],
+  "geometry": {"coordinates":[-80.47715599999999,35.31745],"type":"Point"}
 }

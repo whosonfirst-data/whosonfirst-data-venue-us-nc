@@ -2,13 +2,14 @@
   "id": 236162029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.400101,35.528073,-77.400101,35.528073",
     "geom:latitude":35.528073,
     "geom:longitude":-77.400101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 E Main St",
     "sg:city":"Winterville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236162029,
-    "wof:lastmodified":1449004668,
+    "wof:lastmodified":1466644675,
     "wof:name":"Hines Repair Svc",
     "wof:parent_id":85845283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-77.400101,35.528073,-77.400101,35.528073],
-  "geometry": {"coordinates":[-77.400101,35.528073],"type":"Point"}
+  "bbox": [
+    -77.400101,
+    35.528073,
+    -77.400101,
+    35.528073
+],
+  "geometry": {"coordinates":[-77.40010100000001,35.528073],"type":"Point"}
 }

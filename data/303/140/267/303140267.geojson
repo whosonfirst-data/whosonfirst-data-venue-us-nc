@@ -2,13 +2,14 @@
   "id": 303140267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.77928,34.944803,-79.77928,34.944803",
     "geom:latitude":34.944803,
     "geom:longitude":-79.77928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Lee St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303140267,
-    "wof:lastmodified":1448998474,
+    "wof:lastmodified":1466645319,
     "wof:name":"Commercial Wrecking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-79.77928,34.944803,-79.77928,34.944803],
+  "bbox": [
+    -79.77928,
+    34.944803,
+    -79.77928,
+    34.944803
+],
   "geometry": {"coordinates":[-79.77928,34.944803],"type":"Point"}
 }

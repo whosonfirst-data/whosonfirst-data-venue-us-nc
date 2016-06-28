@@ -2,13 +2,14 @@
   "id": 269818753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.61323,35.758945,-78.61323,35.758945",
     "geom:latitude":35.758945,
     "geom:longitude":-78.61323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 Rock Quarry Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269818753,
-    "wof:lastmodified":1449037312,
+    "wof:lastmodified":1466647157,
     "wof:name":"Environmental Management",
     "wof:parent_id":85850267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.61323,35.758945,-78.61323,35.758945],
+  "bbox": [
+    -78.61323,
+    35.758945,
+    -78.61323,
+    35.758945
+],
   "geometry": {"coordinates":[-78.61323,35.758945],"type":"Point"}
 }

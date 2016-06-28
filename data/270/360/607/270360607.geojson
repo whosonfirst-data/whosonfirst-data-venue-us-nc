@@ -2,13 +2,14 @@
   "id": 270360607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.06682,35.832094,-77.06682,35.832094",
     "geom:latitude":35.832094,
     "geom:longitude":-77.06682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1677 US Hwy 17",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270360607,
-    "wof:lastmodified":1449010499,
+    "wof:lastmodified":1466647641,
     "wof:name":"Davenport Ford Lincoln Mercury",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.06682,35.832094,-77.06682,35.832094],
-  "geometry": {"coordinates":[-77.06682,35.832094],"type":"Point"}
+  "bbox": [
+    -77.06682,
+    35.832094,
+    -77.06682,
+    35.832094
+],
+  "geometry": {"coordinates":[-77.06682000000001,35.832094],"type":"Point"}
 }

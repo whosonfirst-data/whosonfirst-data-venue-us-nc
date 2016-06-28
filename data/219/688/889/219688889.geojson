@@ -2,13 +2,14 @@
   "id": 219688889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.787331,35.308017,-77.787331,35.308017",
     "geom:latitude":35.308017,
     "geom:longitude":-77.787331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E James St",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219688889,
-    "wof:lastmodified":1449071702,
+    "wof:lastmodified":1466646256,
     "wof:name":"Jones Augustus Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.787331,35.308017,-77.787331,35.308017],
-  "geometry": {"coordinates":[-77.787331,35.308017],"type":"Point"}
+  "bbox": [
+    -77.787331,
+    35.308017,
+    -77.787331,
+    35.308017
+],
+  "geometry": {"coordinates":[-77.78733099999999,35.308017],"type":"Point"}
 }

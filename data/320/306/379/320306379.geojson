@@ -2,13 +2,14 @@
   "id": 320306379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.77366,34.988543,-80.77366,34.988543",
     "geom:latitude":34.988543,
     "geom:longitude":-80.77366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Providence Rd S",
     "sg:city":"Waxhaw",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320306379,
-    "wof:lastmodified":1449014791,
+    "wof:lastmodified":1466649565,
     "wof:name":"Carolina Blue Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-80.77366,34.988543,-80.77366,34.988543],
-  "geometry": {"coordinates":[-80.77366,34.988543],"type":"Point"}
+  "bbox": [
+    -80.77366,
+    34.988543,
+    -80.77366,
+    34.988543
+],
+  "geometry": {"coordinates":[-80.77366000000001,34.988543],"type":"Point"}
 }

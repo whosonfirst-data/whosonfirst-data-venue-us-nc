@@ -2,13 +2,14 @@
   "id": 270083229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.271563,36.088366,-80.271563,36.088366",
     "geom:latitude":36.088366,
     "geom:longitude":-80.271563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Pershing Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270083229,
-    "wof:lastmodified":1449009797,
+    "wof:lastmodified":1466644179,
     "wof:name":"Charles M Howell MD",
     "wof:parent_id":85803439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.271563,36.088366,-80.271563,36.088366],
+  "bbox": [
+    -80.271563,
+    36.088366,
+    -80.271563,
+    36.088366
+],
   "geometry": {"coordinates":[-80.271563,36.088366],"type":"Point"}
 }

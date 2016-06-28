@@ -2,13 +2,14 @@
   "id": 236501747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.458221,35.680346,-78.458221,35.680346",
     "geom:latitude":35.680346,
     "geom:longitude":-78.458221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Alan Ln",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236501747,
-    "wof:lastmodified":1449005281,
+    "wof:lastmodified":1466647619,
     "wof:name":"Zoe Ministry",
     "wof:parent_id":85850943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.458221,35.680346,-78.458221,35.680346],
-  "geometry": {"coordinates":[-78.458221,35.680346],"type":"Point"}
+  "bbox": [
+    -78.458221,
+    35.680346,
+    -78.458221,
+    35.680346
+],
+  "geometry": {"coordinates":[-78.45822099999999,35.680346],"type":"Point"}
 }

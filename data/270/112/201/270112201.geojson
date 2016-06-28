@@ -2,13 +2,14 @@
   "id": 270112201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930821,36.493334,-79.930821,36.493334",
     "geom:latitude":36.493334,
     "geom:longitude":-79.930821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 C N Smith Mill Rd",
     "sg:city":"Stoneville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270112201,
-    "wof:lastmodified":1449009763,
+    "wof:lastmodified":1466644502,
     "wof:name":"Environmental Transportation",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-79.930821,36.493334,-79.930821,36.493334],
-  "geometry": {"coordinates":[-79.930821,36.493334],"type":"Point"}
+  "bbox": [
+    -79.930821,
+    36.493334,
+    -79.930821,
+    36.493334
+],
+  "geometry": {"coordinates":[-79.93082099999999,36.493334],"type":"Point"}
 }

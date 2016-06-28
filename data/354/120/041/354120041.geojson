@@ -2,13 +2,14 @@
   "id": 354120041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.076974,35.896215,-79.076974,35.896215",
     "geom:latitude":35.896215,
     "geom:longitude":-79.076974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Juniper Ct",
     "sg:city":"Carrboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354120041,
-    "wof:lastmodified":1449067416,
+    "wof:lastmodified":1466648947,
     "wof:name":"University Opticians",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.076974,35.896215,-79.076974,35.896215],
-  "geometry": {"coordinates":[-79.076974,35.896215],"type":"Point"}
+  "bbox": [
+    -79.076974,
+    35.896215,
+    -79.076974,
+    35.896215
+],
+  "geometry": {"coordinates":[-79.07697400000001,35.896215],"type":"Point"}
 }

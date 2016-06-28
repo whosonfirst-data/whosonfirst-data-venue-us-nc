@@ -2,13 +2,14 @@
   "id": 202471693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.735443,36.484159,-79.735443,36.484159",
     "geom:latitude":36.484159,
     "geom:longitude":-79.735443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Harris Pl",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202471693,
-    "wof:lastmodified":1449061132,
+    "wof:lastmodified":1466654768,
     "wof:name":"Advertising",
     "wof:parent_id":85805077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "representative"
     ]
 },
-  "bbox": [-79.735443,36.484159,-79.735443,36.484159],
+  "bbox": [
+    -79.735443,
+    36.484159,
+    -79.735443,
+    36.484159
+],
   "geometry": {"coordinates":[-79.735443,36.484159],"type":"Point"}
 }

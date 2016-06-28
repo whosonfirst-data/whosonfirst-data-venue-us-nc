@@ -2,13 +2,14 @@
   "id": 303502351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.456829,36.080402,-79.456829,36.080402",
     "geom:latitude":36.080402,
     "geom:longitude":-79.456829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Chapel Hill Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303502351,
-    "wof:lastmodified":1448999241,
+    "wof:lastmodified":1466650548,
     "wof:name":"Previously Owned Motors",
     "wof:parent_id":85822953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-79.456829,36.080402,-79.456829,36.080402],
+  "bbox": [
+    -79.456829,
+    36.080402,
+    -79.456829,
+    36.080402
+],
   "geometry": {"coordinates":[-79.456829,36.080402],"type":"Point"}
 }

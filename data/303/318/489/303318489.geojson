@@ -2,13 +2,14 @@
   "id": 303318489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.800177,35.768958,-78.800177,35.768958",
     "geom:latitude":35.768958,
     "geom:longitude":-78.800177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Oakley Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303318489,
-    "wof:lastmodified":1448998656,
+    "wof:lastmodified":1466647926,
     "wof:name":"RE Hale Enterprises Inc",
     "wof:parent_id":85847215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.800177,35.768958,-78.800177,35.768958],
-  "geometry": {"coordinates":[-78.800177,35.768958],"type":"Point"}
+  "bbox": [
+    -78.800177,
+    35.768958,
+    -78.800177,
+    35.768958
+],
+  "geometry": {"coordinates":[-78.80017700000001,35.768958],"type":"Point"}
 }

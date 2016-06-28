@@ -2,13 +2,14 @@
   "id": 236551431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253458,35.867433,-80.253458,35.867433",
     "geom:latitude":35.867433,
     "geom:longitude":-80.253458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Arnold Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236551431,
-    "wof:lastmodified":1449002173,
+    "wof:lastmodified":1466648083,
     "wof:name":"Claude Slate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.253458,35.867433,-80.253458,35.867433],
-  "geometry": {"coordinates":[-80.253458,35.867433],"type":"Point"}
+  "bbox": [
+    -80.253458,
+    35.867433,
+    -80.253458,
+    35.867433
+],
+  "geometry": {"coordinates":[-80.25345799999999,35.867433],"type":"Point"}
 }

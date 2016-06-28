@@ -2,13 +2,14 @@
   "id": 303739253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.765468,34.299013,-77.765468,34.299013",
     "geom:latitude":34.299013,
     "geom:longitude":-77.765468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Hallbrook Farms Cir",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303739253,
-    "wof:lastmodified":1448999153,
+    "wof:lastmodified":1466653982,
     "wof:name":"GME",
     "wof:parent_id":85852563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-77.765468,34.299013,-77.765468,34.299013],
+  "bbox": [
+    -77.765468,
+    34.299013,
+    -77.765468,
+    34.299013
+],
   "geometry": {"coordinates":[-77.765468,34.299013],"type":"Point"}
 }

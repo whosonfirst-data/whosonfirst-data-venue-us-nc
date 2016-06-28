@@ -2,13 +2,14 @@
   "id": 286869475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.560156,35.899691,-77.560156,35.899691",
     "geom:latitude":35.899691,
     "geom:longitude":-77.560156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Western Blvd",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286869475,
-    "wof:lastmodified":1449017856,
+    "wof:lastmodified":1466651412,
     "wof:name":"Parade On Western Blvd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.560156,35.899691,-77.560156,35.899691],
-  "geometry": {"coordinates":[-77.560156,35.899691],"type":"Point"}
+  "bbox": [
+    -77.560156,
+    35.899691,
+    -77.560156,
+    35.899691
+],
+  "geometry": {"coordinates":[-77.56015600000001,35.899691],"type":"Point"}
 }

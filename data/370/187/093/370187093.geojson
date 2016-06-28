@@ -2,13 +2,14 @@
   "id": 370187093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.636227,35.597084,-78.636227,35.597084",
     "geom:latitude":35.597084,
     "geom:longitude":-78.636227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10029 Sauls Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370187093,
-    "wof:lastmodified":1449029589,
+    "wof:lastmodified":1466648605,
     "wof:name":"Binding Workshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.636227,35.597084,-78.636227,35.597084],
-  "geometry": {"coordinates":[-78.636227,35.597084],"type":"Point"}
+  "bbox": [
+    -78.636227,
+    35.597084,
+    -78.636227,
+    35.597084
+],
+  "geometry": {"coordinates":[-78.63622700000001,35.597084],"type":"Point"}
 }

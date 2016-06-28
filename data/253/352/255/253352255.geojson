@@ -2,13 +2,14 @@
   "id": 253352255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.631187,35.745859,-81.631187,35.745859",
     "geom:latitude":35.745859,
     "geom:longitude":-81.631187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2256 US Hwy 70 E",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253352255,
-    "wof:lastmodified":1449064629,
+    "wof:lastmodified":1466646608,
     "wof:name":"Baird's Auto Sales",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.631187,35.745859,-81.631187,35.745859],
+  "bbox": [
+    -81.631187,
+    35.745859,
+    -81.631187,
+    35.745859
+],
   "geometry": {"coordinates":[-81.631187,35.745859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387785755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.936858,36.046691,-79.936858,36.046691",
     "geom:latitude":36.046691,
     "geom:longitude":-79.936858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3825 Parkway Vista Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387785755,
-    "wof:lastmodified":1449059271,
+    "wof:lastmodified":1466657645,
     "wof:name":"Parkway Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.936858,36.046691,-79.936858,36.046691],
+  "bbox": [
+    -79.936858,
+    36.046691,
+    -79.936858,
+    36.046691
+],
   "geometry": {"coordinates":[-79.936858,36.046691],"type":"Point"}
 }

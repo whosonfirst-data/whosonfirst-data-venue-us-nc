@@ -2,13 +2,14 @@
   "id": 320125051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.966254,35.909925,-79.966254,35.909925",
     "geom:latitude":35.909925,
     "geom:longitude":-79.966254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Julian Ave",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320125051,
-    "wof:lastmodified":1449014834,
+    "wof:lastmodified":1466647057,
     "wof:name":"Archdale Church-The Nazarene",
     "wof:parent_id":85843865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.966254,35.909925,-79.966254,35.909925],
-  "geometry": {"coordinates":[-79.966254,35.909925],"type":"Point"}
+  "bbox": [
+    -79.966254,
+    35.909925,
+    -79.966254,
+    35.909925
+],
+  "geometry": {"coordinates":[-79.96625400000001,35.909925],"type":"Point"}
 }

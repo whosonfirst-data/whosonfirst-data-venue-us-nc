@@ -2,13 +2,14 @@
   "id": 286809161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.054634,33.945667,-78.054634,33.945667",
     "geom:latitude":33.945667,
     "geom:longitude":-78.054634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 Long Beach Rd SE",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286809161,
-    "wof:lastmodified":1449017589,
+    "wof:lastmodified":1466650556,
     "wof:name":"East Coast Yacht Brkg & Sls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.054634,33.945667,-78.054634,33.945667],
-  "geometry": {"coordinates":[-78.054634,33.945667],"type":"Point"}
+  "bbox": [
+    -78.054634,
+    33.945667,
+    -78.054634,
+    33.945667
+],
+  "geometry": {"coordinates":[-78.05463399999999,33.945667],"type":"Point"}
 }

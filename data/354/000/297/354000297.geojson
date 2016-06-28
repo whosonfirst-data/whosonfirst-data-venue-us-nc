@@ -2,13 +2,14 @@
   "id": 354000297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.746271,36.081601,-79.746271,36.081601",
     "geom:latitude":36.081601,
     "geom:longitude":-79.746271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2906 E Market St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354000297,
-    "wof:lastmodified":1449066202,
+    "wof:lastmodified":1466655847,
     "wof:name":"Carlton's Cuts Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.746271,36.081601,-79.746271,36.081601],
-  "geometry": {"coordinates":[-79.746271,36.081601],"type":"Point"}
+  "bbox": [
+    -79.746271,
+    36.081601,
+    -79.746271,
+    36.081601
+],
+  "geometry": {"coordinates":[-79.74627099999999,36.081601],"type":"Point"}
 }

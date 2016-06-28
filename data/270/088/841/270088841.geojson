@@ -2,13 +2,14 @@
   "id": 270088841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.315599,35.523227,-78.315599,35.523227",
     "geom:latitude":35.523227,
     "geom:longitude":-78.315599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1699 E Booker Dairy Rd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270088841,
-    "wof:lastmodified":1449010511,
+    "wof:lastmodified":1466644239,
     "wof:name":"Jewel Box Inc",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.315599,35.523227,-78.315599,35.523227],
-  "geometry": {"coordinates":[-78.315599,35.523227],"type":"Point"}
+  "bbox": [
+    -78.315599,
+    35.523227,
+    -78.315599,
+    35.523227
+],
+  "geometry": {"coordinates":[-78.31559900000001,35.523227],"type":"Point"}
 }

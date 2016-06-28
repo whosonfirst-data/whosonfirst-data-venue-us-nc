@@ -2,13 +2,14 @@
   "id": 387110183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.433844,33.902361,-78.433844,33.902361",
     "geom:latitude":33.902361,
     "geom:longitude":-78.433844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5893 Curtis Ct SW",
     "sg:city":"Ocean Isle Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387110183,
-    "wof:lastmodified":1449057346,
+    "wof:lastmodified":1466651284,
     "wof:name":"Three Grand",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.433844,33.902361,-78.433844,33.902361],
-  "geometry": {"coordinates":[-78.433844,33.902361],"type":"Point"}
+  "bbox": [
+    -78.433844,
+    33.902361,
+    -78.433844,
+    33.902361
+],
+  "geometry": {"coordinates":[-78.43384399999999,33.902361],"type":"Point"}
 }

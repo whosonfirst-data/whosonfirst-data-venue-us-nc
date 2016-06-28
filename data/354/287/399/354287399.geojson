@@ -2,13 +2,14 @@
   "id": 354287399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.859564,34.334272,-78.859564,34.334272",
     "geom:latitude":34.334272,
     "geom:longitude":-78.859564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Andrew Jackson Hwy SW",
     "sg:city":"Chadbourn",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354287399,
-    "wof:lastmodified":1449066038,
+    "wof:lastmodified":1466650855,
     "wof:name":"Page Home Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.859564,34.334272,-78.859564,34.334272],
-  "geometry": {"coordinates":[-78.859564,34.334272],"type":"Point"}
+  "bbox": [
+    -78.859564,
+    34.334272,
+    -78.859564,
+    34.334272
+],
+  "geometry": {"coordinates":[-78.85956400000001,34.334272],"type":"Point"}
 }

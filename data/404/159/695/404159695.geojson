@@ -2,13 +2,14 @@
   "id": 404159695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.782789,35.542408,-79.782789,35.542408",
     "geom:latitude":35.542408,
     "geom:longitude":-79.782789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Waymon St",
     "sg:city":"Seagrove",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404159695,
-    "wof:lastmodified":1449039163,
+    "wof:lastmodified":1466653313,
     "wof:name":"Old Homeplace",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.782789,35.542408,-79.782789,35.542408],
-  "geometry": {"coordinates":[-79.782789,35.542408],"type":"Point"}
+  "bbox": [
+    -79.782789,
+    35.542408,
+    -79.782789,
+    35.542408
+],
+  "geometry": {"coordinates":[-79.78278899999999,35.542408],"type":"Point"}
 }

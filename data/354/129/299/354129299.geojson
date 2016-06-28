@@ -2,13 +2,14 @@
   "id": 354129299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.944583,35.954635,-79.944583,35.954635",
     "geom:latitude":35.954635,
     "geom:longitude":-79.944583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Elon Pl",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354129299,
-    "wof:lastmodified":1449067308,
+    "wof:lastmodified":1466649056,
     "wof:name":"Sunland Fire Protection Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-79.944583,35.954635,-79.944583,35.954635],
-  "geometry": {"coordinates":[-79.944583,35.954635],"type":"Point"}
+  "bbox": [
+    -79.944583,
+    35.954635,
+    -79.944583,
+    35.954635
+],
+  "geometry": {"coordinates":[-79.94458299999999,35.954635],"type":"Point"}
 }

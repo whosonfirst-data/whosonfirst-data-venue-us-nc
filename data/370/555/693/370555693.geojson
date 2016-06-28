@@ -2,13 +2,14 @@
   "id": 370555693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.133485,35.396028,-79.133485,35.396028",
     "geom:latitude":35.396028,
     "geom:longitude":-79.133485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Fred Stone Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370555693,
-    "wof:lastmodified":1449031980,
+    "wof:lastmodified":1466653298,
     "wof:name":"Wards Residential & Coml RPS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.133485,35.396028,-79.133485,35.396028],
-  "geometry": {"coordinates":[-79.133485,35.396028],"type":"Point"}
+  "bbox": [
+    -79.133485,
+    35.396028,
+    -79.133485,
+    35.396028
+],
+  "geometry": {"coordinates":[-79.13348499999999,35.396028],"type":"Point"}
 }

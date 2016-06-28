@@ -2,13 +2,14 @@
   "id": 303834967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.852213,35.052836,-80.852213,35.052836",
     "geom:latitude":35.052836,
     "geom:longitude":-80.852213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14815 John J Delaney Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303834967,
-    "wof:lastmodified":1448998348,
+    "wof:lastmodified":1466655366,
     "wof:name":"Rodgers Builders",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.852213,35.052836,-80.852213,35.052836],
-  "geometry": {"coordinates":[-80.852213,35.052836],"type":"Point"}
+  "bbox": [
+    -80.852213,
+    35.052836,
+    -80.852213,
+    35.052836
+],
+  "geometry": {"coordinates":[-80.85221300000001,35.052836],"type":"Point"}
 }

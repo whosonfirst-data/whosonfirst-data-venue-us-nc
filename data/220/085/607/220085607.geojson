@@ -2,13 +2,14 @@
   "id": 220085607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.798651,36.030344,-79.798651,36.030344",
     "geom:latitude":36.030344,
     "geom:longitude":-79.798651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Creek Ridge Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220085607,
-    "wof:lastmodified":1449074230,
+    "wof:lastmodified":1466643888,
     "wof:name":"A C Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "air"
     ]
 },
-  "bbox": [-79.798651,36.030344,-79.798651,36.030344],
-  "geometry": {"coordinates":[-79.798651,36.030344],"type":"Point"}
+  "bbox": [
+    -79.798651,
+    36.030344,
+    -79.798651,
+    36.030344
+],
+  "geometry": {"coordinates":[-79.79865100000001,36.030344],"type":"Point"}
 }

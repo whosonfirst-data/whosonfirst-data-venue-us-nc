@@ -2,13 +2,14 @@
   "id": 386945205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.907888,34.221561,-77.907888,34.221561",
     "geom:latitude":34.221561,
     "geom:longitude":-77.907888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Park Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386945205,
-    "wof:lastmodified":1449028657,
+    "wof:lastmodified":1466649595,
     "wof:name":"Printworks By Elle",
     "wof:parent_id":85849921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printing"
     ]
 },
-  "bbox": [-77.907888,34.221561,-77.907888,34.221561],
+  "bbox": [
+    -77.907888,
+    34.221561,
+    -77.907888,
+    34.221561
+],
   "geometry": {"coordinates":[-77.907888,34.221561],"type":"Point"}
 }

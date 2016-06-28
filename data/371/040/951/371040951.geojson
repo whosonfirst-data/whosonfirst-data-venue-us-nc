@@ -2,13 +2,14 @@
   "id": 371040951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.994459,35.364484,-77.994459,35.364484",
     "geom:latitude":35.364484,
     "geom:longitude":-77.994459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Peele St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371040951,
-    "wof:lastmodified":1449050100,
+    "wof:lastmodified":1466649344,
     "wof:name":"Edwar Group",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.994459,35.364484,-77.994459,35.364484],
-  "geometry": {"coordinates":[-77.994459,35.364484],"type":"Point"}
+  "bbox": [
+    -77.994459,
+    35.364484,
+    -77.994459,
+    35.364484
+],
+  "geometry": {"coordinates":[-77.99445900000001,35.364484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320384461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.203204,33.926181,-78.203204,33.926181",
     "geom:latitude":33.926181,
     "geom:longitude":-78.203204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Cumberland St SE",
     "sg:city":"Bolivia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320384461,
-    "wof:lastmodified":1449011714,
+    "wof:lastmodified":1466650691,
     "wof:name":"Bailey's Cleaning Svc",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-78.203204,33.926181,-78.203204,33.926181],
+  "bbox": [
+    -78.203204,
+    33.926181,
+    -78.203204,
+    33.926181
+],
   "geometry": {"coordinates":[-78.203204,33.926181],"type":"Point"}
 }

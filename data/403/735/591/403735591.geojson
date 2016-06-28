@@ -2,13 +2,14 @@
   "id": 403735591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.649684,36.471103,-77.649684,36.471103",
     "geom:latitude":36.471103,
     "geom:longitude":-77.649684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Roanoke Ave",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":403735591,
-    "wof:lastmodified":1449055917,
+    "wof:lastmodified":1466650753,
     "wof:name":"Downtown Boat Sales & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing"
     ]
 },
-  "bbox": [-77.649684,36.471103,-77.649684,36.471103],
-  "geometry": {"coordinates":[-77.649684,36.471103],"type":"Point"}
+  "bbox": [
+    -77.649684,
+    36.471103,
+    -77.649684,
+    36.471103
+],
+  "geometry": {"coordinates":[-77.64968399999999,36.471103],"type":"Point"}
 }

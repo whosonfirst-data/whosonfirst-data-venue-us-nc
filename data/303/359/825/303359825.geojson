@@ -2,13 +2,14 @@
   "id": 303359825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.384872,35.486529,-81.384872,35.486529",
     "geom:latitude":35.486529,
     "geom:longitude":-81.384872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4472 State Rd 27",
     "sg:city":"Vale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303359825,
-    "wof:lastmodified":1448998077,
+    "wof:lastmodified":1466648496,
     "wof:name":"West Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.384872,35.486529,-81.384872,35.486529],
+  "bbox": [
+    -81.384872,
+    35.486529,
+    -81.384872,
+    35.486529
+],
   "geometry": {"coordinates":[-81.384872,35.486529],"type":"Point"}
 }

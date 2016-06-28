@@ -2,13 +2,14 @@
   "id": 370603037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.544283,35.605736,-82.544283,35.605736",
     "geom:latitude":35.605736,
     "geom:longitude":-82.544283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Albemarle Pl",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370603037,
-    "wof:lastmodified":1449031944,
+    "wof:lastmodified":1466653914,
     "wof:name":"S C Chemical",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.544283,35.605736,-82.544283,35.605736],
-  "geometry": {"coordinates":[-82.544283,35.605736],"type":"Point"}
+  "bbox": [
+    -82.544283,
+    35.605736,
+    -82.544283,
+    35.605736
+],
+  "geometry": {"coordinates":[-82.54428299999999,35.605736],"type":"Point"}
 }

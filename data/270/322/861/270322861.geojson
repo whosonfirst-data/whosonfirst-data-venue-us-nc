@@ -2,13 +2,14 @@
   "id": 270322861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.924968,34.215339,-77.924968,34.215339",
     "geom:latitude":34.215339,
     "geom:longitude":-77.924968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 S 17th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270322861,
-    "wof:lastmodified":1449008645,
+    "wof:lastmodified":1466647154,
     "wof:name":"Senior Health Ctr",
     "wof:parent_id":85849921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.924968,34.215339,-77.924968,34.215339],
-  "geometry": {"coordinates":[-77.924968,34.215339],"type":"Point"}
+  "bbox": [
+    -77.924968,
+    34.215339,
+    -77.924968,
+    34.215339
+],
+  "geometry": {"coordinates":[-77.92496800000001,34.215339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236885531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.204532,35.67741,-81.204532,35.67741",
     "geom:latitude":35.67741,
     "geom:longitude":-81.204532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Ann Ave",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236885531,
-    "wof:lastmodified":1449003397,
+    "wof:lastmodified":1466651160,
     "wof:name":"Willis Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-81.204532,35.67741,-81.204532,35.67741],
+  "bbox": [
+    -81.204532,
+    35.67741,
+    -81.204532,
+    35.67741
+],
   "geometry": {"coordinates":[-81.204532,35.67741],"type":"Point"}
 }

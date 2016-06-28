@@ -2,13 +2,14 @@
   "id": 387397799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.277003,35.875796,-80.277003,35.875796",
     "geom:latitude":35.875796,
     "geom:longitude":-80.277003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1761 Pine Ridge Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387397799,
-    "wof:lastmodified":1449057628,
+    "wof:lastmodified":1466655086,
     "wof:name":"Kepco Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-80.277003,35.875796,-80.277003,35.875796],
-  "geometry": {"coordinates":[-80.277003,35.875796],"type":"Point"}
+  "bbox": [
+    -80.277003,
+    35.875796,
+    -80.277003,
+    35.875796
+],
+  "geometry": {"coordinates":[-80.27700299999999,35.875796],"type":"Point"}
 }

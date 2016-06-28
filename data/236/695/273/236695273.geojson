@@ -2,13 +2,14 @@
   "id": 236695273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.806405,36.540234,-79.806405,36.540234",
     "geom:latitude":36.540234,
     "geom:longitude":-79.806405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Shannon Ln",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236695273,
-    "wof:lastmodified":1449002795,
+    "wof:lastmodified":1466649425,
     "wof:name":"Macprint",
     "wof:parent_id":85823697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "offset"
     ]
 },
-  "bbox": [-79.806405,36.540234,-79.806405,36.540234],
+  "bbox": [
+    -79.806405,
+    36.540234,
+    -79.806405,
+    36.540234
+],
   "geometry": {"coordinates":[-79.806405,36.540234],"type":"Point"}
 }

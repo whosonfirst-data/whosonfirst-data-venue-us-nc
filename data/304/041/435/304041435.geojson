@@ -2,13 +2,14 @@
   "id": 304041435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.366773,35.70145,-77.366773,35.70145",
     "geom:latitude":35.70145,
     "geom:longitude":-77.366773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4221 State Hwy 11 N",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304041435,
-    "wof:lastmodified":1449043768,
+    "wof:lastmodified":1466644749,
     "wof:name":"N C Earthworks",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leveling"
     ]
 },
-  "bbox": [-77.366773,35.70145,-77.366773,35.70145],
-  "geometry": {"coordinates":[-77.366773,35.70145],"type":"Point"}
+  "bbox": [
+    -77.366773,
+    35.70145,
+    -77.366773,
+    35.70145
+],
+  "geometry": {"coordinates":[-77.36677299999999,35.70145],"type":"Point"}
 }

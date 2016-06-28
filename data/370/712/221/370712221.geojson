@@ -2,13 +2,14 @@
   "id": 370712221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.196531,35.053507,-83.196531,35.053507",
     "geom:latitude":35.053507,
     "geom:longitude":-83.196531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 N 4th St",
     "sg:city":"Highlands",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370712221,
-    "wof:lastmodified":1449030536,
+    "wof:lastmodified":1466655351,
     "wof:name":"John Cleaveland Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.196531,35.053507,-83.196531,35.053507],
-  "geometry": {"coordinates":[-83.196531,35.053507],"type":"Point"}
+  "bbox": [
+    -83.196531,
+    35.053507,
+    -83.196531,
+    35.053507
+],
+  "geometry": {"coordinates":[-83.19653099999999,35.053507],"type":"Point"}
 }

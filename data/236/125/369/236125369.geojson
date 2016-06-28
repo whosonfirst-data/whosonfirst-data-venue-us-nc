@@ -2,13 +2,14 @@
   "id": 236125369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.714857,35.115476,-80.714857,35.115476",
     "geom:latitude":35.115476,
     "geom:longitude":-80.714857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Matthews St",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236125369,
-    "wof:lastmodified":1449005110,
+    "wof:lastmodified":1466644330,
     "wof:name":"Briggs Electric Co",
     "wof:parent_id":85811531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.714857,35.115476,-80.714857,35.115476],
-  "geometry": {"coordinates":[-80.714857,35.115476],"type":"Point"}
+  "bbox": [
+    -80.714857,
+    35.115476,
+    -80.714857,
+    35.115476
+],
+  "geometry": {"coordinates":[-80.71485699999999,35.115476],"type":"Point"}
 }

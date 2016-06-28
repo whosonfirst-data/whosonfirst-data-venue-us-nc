@@ -2,13 +2,14 @@
   "id": 320706011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.067431,35.921762,-79.067431,35.921762",
     "geom:latitude":35.921762,
     "geom:longitude":-79.067431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Ridge Trl",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320706011,
-    "wof:lastmodified":1449011513,
+    "wof:lastmodified":1466655341,
     "wof:name":"Infocus",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.067431,35.921762,-79.067431,35.921762],
+  "bbox": [
+    -79.067431,
+    35.921762,
+    -79.067431,
+    35.921762
+],
   "geometry": {"coordinates":[-79.067431,35.921762],"type":"Point"}
 }

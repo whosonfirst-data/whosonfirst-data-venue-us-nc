@@ -2,13 +2,14 @@
   "id": 387398503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.960587,36.249716,-77.960587,36.249716",
     "geom:latitude":36.249716,
     "geom:longitude":-77.960587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Evans Rd",
     "sg:city":"Hollister",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387398503,
-    "wof:lastmodified":1449056417,
+    "wof:lastmodified":1466655095,
     "wof:name":"Wic Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-77.960587,36.249716,-77.960587,36.249716],
+  "bbox": [
+    -77.960587,
+    36.249716,
+    -77.960587,
+    36.249716
+],
   "geometry": {"coordinates":[-77.960587,36.249716],"type":"Point"}
 }

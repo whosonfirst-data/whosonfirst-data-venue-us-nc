@@ -2,13 +2,14 @@
   "id": 303188183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.621867,35.862157,-78.621867,35.862157",
     "geom:latitude":35.862157,
     "geom:longitude":-78.621867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Farringdon Pl",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303188183,
-    "wof:lastmodified":1448999330,
+    "wof:lastmodified":1466646036,
     "wof:name":"Rummell Klepper & Kahl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-78.621867,35.862157,-78.621867,35.862157],
-  "geometry": {"coordinates":[-78.621867,35.862157],"type":"Point"}
+  "bbox": [
+    -78.621867,
+    35.862157,
+    -78.621867,
+    35.862157
+],
+  "geometry": {"coordinates":[-78.62186699999999,35.862157],"type":"Point"}
 }

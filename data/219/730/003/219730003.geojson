@@ -2,13 +2,14 @@
   "id": 219730003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.346866,35.512641,-78.346866,35.512641",
     "geom:latitude":35.512641,
     "geom:longitude":-78.346866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 N 2nd St",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219730003,
-    "wof:lastmodified":1449073347,
+    "wof:lastmodified":1466646594,
     "wof:name":"Four Oaks Bank & Trust Co",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.346866,35.512641,-78.346866,35.512641],
-  "geometry": {"coordinates":[-78.346866,35.512641],"type":"Point"}
+  "bbox": [
+    -78.346866,
+    35.512641,
+    -78.346866,
+    35.512641
+],
+  "geometry": {"coordinates":[-78.34686600000001,35.512641],"type":"Point"}
 }

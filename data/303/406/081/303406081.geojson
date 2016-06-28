@@ -2,13 +2,14 @@
   "id": 303406081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.534591,35.572192,-82.534591,35.572192",
     "geom:latitude":35.572192,
     "geom:longitude":-82.534591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Swannanoa River Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303406081,
-    "wof:lastmodified":1448999431,
+    "wof:lastmodified":1466649153,
     "wof:name":"Southeastern Industrial Group",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.534591,35.572192,-82.534591,35.572192],
-  "geometry": {"coordinates":[-82.534591,35.572192],"type":"Point"}
+  "bbox": [
+    -82.534591,
+    35.572192,
+    -82.534591,
+    35.572192
+],
+  "geometry": {"coordinates":[-82.53459100000001,35.572192],"type":"Point"}
 }

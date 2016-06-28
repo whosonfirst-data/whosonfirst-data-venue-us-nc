@@ -2,13 +2,14 @@
   "id": 203019961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.292989,35.543339,-78.292989,35.543339",
     "geom:latitude":35.543339,
     "geom:longitude":-78.292989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 W Oak St",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203019961,
-    "wof:lastmodified":1449026042,
+    "wof:lastmodified":1466654277,
     "wof:name":"Selma Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.292989,35.543339,-78.292989,35.543339],
-  "geometry": {"coordinates":[-78.292989,35.543339],"type":"Point"}
+  "bbox": [
+    -78.292989,
+    35.543339,
+    -78.292989,
+    35.543339
+],
+  "geometry": {"coordinates":[-78.29298900000001,35.543339],"type":"Point"}
 }

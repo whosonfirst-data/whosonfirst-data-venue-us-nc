@@ -2,13 +2,14 @@
   "id": 270415927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.656947,35.745513,-78.656947,35.745513",
     "geom:latitude":35.745513,
     "geom:longitude":-78.656947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Suffolk Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270415927,
-    "wof:lastmodified":1449010415,
+    "wof:lastmodified":1466648334,
     "wof:name":"Woodland Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.656947,35.745513,-78.656947,35.745513],
+  "bbox": [
+    -78.656947,
+    35.745513,
+    -78.656947,
+    35.745513
+],
   "geometry": {"coordinates":[-78.656947,35.745513],"type":"Point"}
 }

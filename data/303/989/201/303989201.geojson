@@ -2,13 +2,14 @@
   "id": 303989201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.737045,35.163883,-78.737045,35.163883",
     "geom:latitude":35.163883,
     "geom:longitude":-78.737045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3926 Church St",
     "sg:city":"Wade",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303989201,
-    "wof:lastmodified":1448999914,
+    "wof:lastmodified":1466656926,
     "wof:name":"Wade Community Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-78.737045,35.163883,-78.737045,35.163883],
-  "geometry": {"coordinates":[-78.737045,35.163883],"type":"Point"}
+  "bbox": [
+    -78.737045,
+    35.163883,
+    -78.737045,
+    35.163883
+],
+  "geometry": {"coordinates":[-78.73704499999999,35.163883],"type":"Point"}
 }

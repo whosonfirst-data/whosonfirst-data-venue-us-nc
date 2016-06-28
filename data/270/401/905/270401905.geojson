@@ -2,13 +2,14 @@
   "id": 270401905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.888973,34.151512,-77.888973,34.151512",
     "geom:latitude":34.151512,
     "geom:longitude":-77.888973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"646 Hidden Valley Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270401905,
-    "wof:lastmodified":1449010716,
+    "wof:lastmodified":1466648159,
     "wof:name":"Nuvent Internet Solutions",
     "wof:parent_id":85822927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-77.888973,34.151512,-77.888973,34.151512],
-  "geometry": {"coordinates":[-77.888973,34.151512],"type":"Point"}
+  "bbox": [
+    -77.888973,
+    34.151512,
+    -77.888973,
+    34.151512
+],
+  "geometry": {"coordinates":[-77.88897299999999,34.151512],"type":"Point"}
 }

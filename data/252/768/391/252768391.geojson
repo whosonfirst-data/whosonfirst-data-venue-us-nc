@@ -2,13 +2,14 @@
   "id": 252768391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.327313,35.727297,-81.327313,35.727297",
     "geom:latitude":35.727297,
     "geom:longitude":-81.327313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"544 7th St SE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252768391,
-    "wof:lastmodified":1449005827,
+    "wof:lastmodified":1466643757,
     "wof:name":"P & J Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hauling"
     ]
 },
-  "bbox": [-81.327313,35.727297,-81.327313,35.727297],
+  "bbox": [
+    -81.327313,
+    35.727297,
+    -81.327313,
+    35.727297
+],
   "geometry": {"coordinates":[-81.327313,35.727297],"type":"Point"}
 }

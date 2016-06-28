@@ -2,13 +2,14 @@
   "id": 386945183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.852815,34.263509,-77.852815,34.263509",
     "geom:latitude":34.263509,
     "geom:longitude":-77.852815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 Nettle Cir",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386945183,
-    "wof:lastmodified":1449028657,
+    "wof:lastmodified":1466649594,
     "wof:name":"K&B Property Brokers Inc",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-77.852815,34.263509,-77.852815,34.263509],
-  "geometry": {"coordinates":[-77.852815,34.263509],"type":"Point"}
+  "bbox": [
+    -77.852815,
+    34.263509,
+    -77.852815,
+    34.263509
+],
+  "geometry": {"coordinates":[-77.85281500000001,34.263509],"type":"Point"}
 }

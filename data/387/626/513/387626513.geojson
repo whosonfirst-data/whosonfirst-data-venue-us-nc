@@ -2,13 +2,14 @@
   "id": 387626513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.306948,35.511628,-78.306948,35.511628",
     "geom:latitude":35.511628,
     "geom:longitude":-78.306948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Industrial Park Dr",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387626513,
-    "wof:lastmodified":1449059923,
+    "wof:lastmodified":1466656978,
     "wof:name":"Mikasa Factory Store",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "chinaware"
     ]
 },
-  "bbox": [-78.306948,35.511628,-78.306948,35.511628],
-  "geometry": {"coordinates":[-78.306948,35.511628],"type":"Point"}
+  "bbox": [
+    -78.306948,
+    35.511628,
+    -78.306948,
+    35.511628
+],
+  "geometry": {"coordinates":[-78.30694800000001,35.511628],"type":"Point"}
 }

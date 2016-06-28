@@ -2,13 +2,14 @@
   "id": 387972539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.10402,34.679137,-77.10402,34.679137",
     "geom:latitude":34.679137,
     "geom:longitude":-77.10402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Cedar Ln",
     "sg:city":"Cedar Point",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387972539,
-    "wof:lastmodified":1449058017,
+    "wof:lastmodified":1466658046,
     "wof:name":"Howe's Heating & Air Cond",
     "wof:parent_id":85843465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.10402,34.679137,-77.10402,34.679137],
-  "geometry": {"coordinates":[-77.10402,34.679137],"type":"Point"}
+  "bbox": [
+    -77.10402,
+    34.679137,
+    -77.10402,
+    34.679137
+],
+  "geometry": {"coordinates":[-77.10402000000001,34.679137],"type":"Point"}
 }

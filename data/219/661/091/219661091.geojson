@@ -2,13 +2,14 @@
   "id": 219661091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.675328,35.404702,-78.675328,35.404702",
     "geom:latitude":35.404702,
     "geom:longitude":-78.675328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 W Hamer St",
     "sg:city":"Coats",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219661091,
-    "wof:lastmodified":1449073536,
+    "wof:lastmodified":1466646047,
     "wof:name":"Husky Heating & Air",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-78.675328,35.404702,-78.675328,35.404702],
-  "geometry": {"coordinates":[-78.675328,35.404702],"type":"Point"}
+  "bbox": [
+    -78.675328,
+    35.404702,
+    -78.675328,
+    35.404702
+],
+  "geometry": {"coordinates":[-78.67532799999999,35.404702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336760571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.681097,35.738364,-81.681097,35.738364",
     "geom:latitude":35.738364,
     "geom:longitude":-81.681097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 College St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336760571,
-    "wof:lastmodified":1448997959,
+    "wof:lastmodified":1466648261,
     "wof:name":"McGuffeys Restaurant",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.681097,35.738364,-81.681097,35.738364],
-  "geometry": {"coordinates":[-81.681097,35.738364],"type":"Point"}
+  "bbox": [
+    -81.681097,
+    35.738364,
+    -81.681097,
+    35.738364
+],
+  "geometry": {"coordinates":[-81.68109699999999,35.738364],"type":"Point"}
 }

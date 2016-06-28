@@ -2,13 +2,14 @@
   "id": 236533073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.76493,35.06713,-80.76493,35.06713",
     "geom:latitude":35.06713,
     "geom:longitude":-80.76493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4734 Avonwood Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236533073,
-    "wof:lastmodified":1449001646,
+    "wof:lastmodified":1466647909,
     "wof:name":"Woodall Printing",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.76493,35.06713,-80.76493,35.06713],
-  "geometry": {"coordinates":[-80.76493,35.06713],"type":"Point"}
+  "bbox": [
+    -80.76493,
+    35.06713,
+    -80.76493,
+    35.06713
+],
+  "geometry": {"coordinates":[-80.76493000000001,35.06713],"type":"Point"}
 }

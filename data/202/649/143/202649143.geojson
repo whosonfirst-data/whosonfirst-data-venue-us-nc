@@ -2,13 +2,14 @@
   "id": 202649143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.040025,35.94064,-79.040025,35.94064",
     "geom:latitude":35.94064,
     "geom:longitude":-79.040025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 N Lakeshore Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202649143,
-    "wof:lastmodified":1449061816,
+    "wof:lastmodified":1466655704,
     "wof:name":"Energistics",
     "wof:parent_id":85851367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marketing"
     ]
 },
-  "bbox": [-79.040025,35.94064,-79.040025,35.94064],
+  "bbox": [
+    -79.040025,
+    35.94064,
+    -79.040025,
+    35.94064
+],
   "geometry": {"coordinates":[-79.040025,35.94064],"type":"Point"}
 }

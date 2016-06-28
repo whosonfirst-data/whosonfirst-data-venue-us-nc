@@ -2,13 +2,14 @@
   "id": 236022451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.206347,36.409316,-80.206347,36.409316",
     "geom:latitude":36.409316,
     "geom:longitude":-80.206347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Main St",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236022451,
-    "wof:lastmodified":1449002595,
+    "wof:lastmodified":1466643417,
     "wof:name":"Artist's Way Creation Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-80.206347,36.409316,-80.206347,36.409316],
-  "geometry": {"coordinates":[-80.206347,36.409316],"type":"Point"}
+  "bbox": [
+    -80.206347,
+    36.409316,
+    -80.206347,
+    36.409316
+],
+  "geometry": {"coordinates":[-80.20634699999999,36.409316],"type":"Point"}
 }

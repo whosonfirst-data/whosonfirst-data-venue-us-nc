@@ -2,13 +2,14 @@
   "id": 186646489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.803086,35.329701,-80.803086,35.329701",
     "geom:latitude":35.329701,
     "geom:longitude":-80.803086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4215 Sugarstone Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186646489,
-    "wof:lastmodified":1449050174,
+    "wof:lastmodified":1466655082,
     "wof:name":"Wilson Janitorial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.803086,35.329701,-80.803086,35.329701],
-  "geometry": {"coordinates":[-80.803086,35.329701],"type":"Point"}
+  "bbox": [
+    -80.803086,
+    35.329701,
+    -80.803086,
+    35.329701
+],
+  "geometry": {"coordinates":[-80.80308599999999,35.329701],"type":"Point"}
 }

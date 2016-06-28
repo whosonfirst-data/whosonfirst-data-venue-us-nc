@@ -2,13 +2,14 @@
   "id": 403816337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.534461,35.84332,-78.534461,35.84332",
     "geom:latitude":35.84332,
     "geom:longitude":-78.534461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4717 River Creek Run",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403816337,
-    "wof:lastmodified":1449055415,
+    "wof:lastmodified":1466651804,
     "wof:name":"Triangle House Calls Inc",
     "wof:parent_id":85857937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.534461,35.84332,-78.534461,35.84332],
-  "geometry": {"coordinates":[-78.534461,35.84332],"type":"Point"}
+  "bbox": [
+    -78.534461,
+    35.84332,
+    -78.534461,
+    35.84332
+],
+  "geometry": {"coordinates":[-78.53446099999999,35.84332],"type":"Point"}
 }

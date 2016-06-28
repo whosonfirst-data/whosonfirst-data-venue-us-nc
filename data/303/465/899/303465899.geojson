@@ -2,13 +2,14 @@
   "id": 303465899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.95037,36.060015,-78.95037,36.060015",
     "geom:latitude":36.060015,
     "geom:longitude":-78.95037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3263 Rose of Sharon Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303465899,
-    "wof:lastmodified":1448999763,
+    "wof:lastmodified":1466650039,
     "wof:name":"Garrards",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "prepared"
     ]
 },
-  "bbox": [-78.95037,36.060015,-78.95037,36.060015],
-  "geometry": {"coordinates":[-78.95037,36.060015],"type":"Point"}
+  "bbox": [
+    -78.95037,
+    36.060015,
+    -78.95037,
+    36.060015
+],
+  "geometry": {"coordinates":[-78.95037000000001,36.060015],"type":"Point"}
 }

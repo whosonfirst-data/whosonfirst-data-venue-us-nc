@@ -2,13 +2,14 @@
   "id": 320221821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.522429,35.669257,-78.522429,35.669257",
     "geom:latitude":35.669257,
     "geom:longitude":-78.522429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4013 Forty-Niner's Rd",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320221821,
-    "wof:lastmodified":1449012898,
+    "wof:lastmodified":1466648397,
     "wof:name":"Out Source Cad Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.522429,35.669257,-78.522429,35.669257],
+  "bbox": [
+    -78.522429,
+    35.669257,
+    -78.522429,
+    35.669257
+],
   "geometry": {"coordinates":[-78.522429,35.669257],"type":"Point"}
 }

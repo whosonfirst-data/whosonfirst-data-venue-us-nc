@@ -2,13 +2,14 @@
   "id": 386933465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.439885,35.570564,-77.439885,35.570564",
     "geom:latitude":35.570564,
     "geom:longitude":-77.439885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"855 Rivit St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386933465,
-    "wof:lastmodified":1449028682,
+    "wof:lastmodified":1466649436,
     "wof:name":"Advanced Maintenance",
     "wof:parent_id":85820763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-77.439885,35.570564,-77.439885,35.570564],
+  "bbox": [
+    -77.439885,
+    35.570564,
+    -77.439885,
+    35.570564
+],
   "geometry": {"coordinates":[-77.439885,35.570564],"type":"Point"}
 }

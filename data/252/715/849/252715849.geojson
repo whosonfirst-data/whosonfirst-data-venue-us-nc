@@ -2,13 +2,14 @@
   "id": 252715849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.620781,35.86928,-78.620781,35.86928",
     "geom:latitude":35.86928,
     "geom:longitude":-78.620781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 Bullard Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252715849,
-    "wof:lastmodified":1449006279,
+    "wof:lastmodified":1466643296,
     "wof:name":"Interior Innovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-78.620781,35.86928,-78.620781,35.86928],
-  "geometry": {"coordinates":[-78.620781,35.86928],"type":"Point"}
+  "bbox": [
+    -78.620781,
+    35.86928,
+    -78.620781,
+    35.86928
+],
+  "geometry": {"coordinates":[-78.62078099999999,35.86928],"type":"Point"}
 }

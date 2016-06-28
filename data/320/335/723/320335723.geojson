@@ -2,13 +2,14 @@
   "id": 320335723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.824593,35.838034,-78.824593,35.838034",
     "geom:latitude":35.838034,
     "geom:longitude":-78.824593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 International Dr",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320335723,
-    "wof:lastmodified":1449013734,
+    "wof:lastmodified":1466649995,
     "wof:name":"Old Dominion Freight Line Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.824593,35.838034,-78.824593,35.838034],
-  "geometry": {"coordinates":[-78.824593,35.838034],"type":"Point"}
+  "bbox": [
+    -78.824593,
+    35.838034,
+    -78.824593,
+    35.838034
+],
+  "geometry": {"coordinates":[-78.82459299999999,35.838034],"type":"Point"}
 }

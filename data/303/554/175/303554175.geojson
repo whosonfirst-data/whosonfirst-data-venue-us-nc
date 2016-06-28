@@ -2,13 +2,14 @@
   "id": 303554175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.233511,34.708498,-77.233511,34.708498",
     "geom:latitude":34.708498,
     "geom:longitude":-77.233511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 State Hwy 172",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303554175,
-    "wof:lastmodified":1448998620,
+    "wof:lastmodified":1466651299,
     "wof:name":"M R Haga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "animal"
     ]
 },
-  "bbox": [-77.233511,34.708498,-77.233511,34.708498],
-  "geometry": {"coordinates":[-77.233511,34.708498],"type":"Point"}
+  "bbox": [
+    -77.233511,
+    34.708498,
+    -77.233511,
+    34.708498
+],
+  "geometry": {"coordinates":[-77.23351099999999,34.708498],"type":"Point"}
 }

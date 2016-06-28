@@ -2,13 +2,14 @@
   "id": 253728517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.795561,35.78152,-78.795561,35.78152",
     "geom:latitude":35.78152,
     "geom:longitude":-78.795561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Chatham Woods Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253728517,
-    "wof:lastmodified":1449063505,
+    "wof:lastmodified":1466651116,
     "wof:name":"Town & Country Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.795561,35.78152,-78.795561,35.78152],
-  "geometry": {"coordinates":[-78.795561,35.78152],"type":"Point"}
+  "bbox": [
+    -78.795561,
+    35.78152,
+    -78.795561,
+    35.78152
+],
+  "geometry": {"coordinates":[-78.79556100000001,35.78152],"type":"Point"}
 }

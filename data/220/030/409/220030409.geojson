@@ -2,13 +2,14 @@
   "id": 220030409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.681885,36.039025,-75.681885,36.039025",
     "geom:latitude":36.039025,
     "geom:longitude":-75.681885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 Yorktown St",
     "sg:city":"Kill Devil Hills",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220030409,
-    "wof:lastmodified":1449074324,
+    "wof:lastmodified":1466643450,
     "wof:name":"Kevin Milteer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-75.681885,36.039025,-75.681885,36.039025],
-  "geometry": {"coordinates":[-75.681885,36.039025],"type":"Point"}
+  "bbox": [
+    -75.681885,
+    36.039025,
+    -75.681885,
+    36.039025
+],
+  "geometry": {"coordinates":[-75.68188499999999,36.039025],"type":"Point"}
 }

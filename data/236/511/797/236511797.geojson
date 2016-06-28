@@ -2,13 +2,14 @@
   "id": 236511797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.143631,36.160543,-81.143631,36.160543",
     "geom:latitude":36.160543,
     "geom:longitude":-81.143631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Main St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236511797,
-    "wof:lastmodified":1449003123,
+    "wof:lastmodified":1466647708,
     "wof:name":"Word",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-81.143631,36.160543,-81.143631,36.160543],
+  "bbox": [
+    -81.143631,
+    36.160543,
+    -81.143631,
+    36.160543
+],
   "geometry": {"coordinates":[-81.143631,36.160543],"type":"Point"}
 }

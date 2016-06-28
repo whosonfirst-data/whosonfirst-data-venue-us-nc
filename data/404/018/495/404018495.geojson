@@ -2,13 +2,14 @@
   "id": 404018495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.160356,36.444483,-78.160356,36.444483",
     "geom:latitude":36.444483,
     "geom:longitude":-78.160356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Warren Plains Rd",
     "sg:city":"Warrenton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404018495,
-    "wof:lastmodified":1449039693,
+    "wof:lastmodified":1466651535,
     "wof:name":"Warren County Schools Bus Grge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-78.160356,36.444483,-78.160356,36.444483],
-  "geometry": {"coordinates":[-78.160356,36.444483],"type":"Point"}
+  "bbox": [
+    -78.160356,
+    36.444483,
+    -78.160356,
+    36.444483
+],
+  "geometry": {"coordinates":[-78.16035599999999,36.444483],"type":"Point"}
 }

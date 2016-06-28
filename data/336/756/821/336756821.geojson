@@ -2,13 +2,14 @@
   "id": 336756821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.179074,35.253506,-81.179074,35.253506",
     "geom:latitude":35.253506,
     "geom:longitude":-81.179074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 E Garrison Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336756821,
-    "wof:lastmodified":1448997584,
+    "wof:lastmodified":1466648199,
     "wof:name":"Gaston Hospice",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-81.179074,35.253506,-81.179074,35.253506],
+  "bbox": [
+    -81.179074,
+    35.253506,
+    -81.179074,
+    35.253506
+],
   "geometry": {"coordinates":[-81.179074,35.253506],"type":"Point"}
 }

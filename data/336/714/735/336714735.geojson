@@ -2,13 +2,14 @@
   "id": 336714735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.43864,36.476795,-80.43864,36.476795",
     "geom:latitude":36.476795,
     "geom:longitude":-80.43864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10521 State Hwy 89 W",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336714735,
-    "wof:lastmodified":1448997488,
+    "wof:lastmodified":1466647575,
     "wof:name":"General Grnd Chpter Estrn Star",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.43864,36.476795,-80.43864,36.476795],
-  "geometry": {"coordinates":[-80.43864,36.476795],"type":"Point"}
+  "bbox": [
+    -80.43864,
+    36.476795,
+    -80.43864,
+    36.476795
+],
+  "geometry": {"coordinates":[-80.43864000000001,36.476795],"type":"Point"}
 }

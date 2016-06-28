@@ -2,13 +2,14 @@
   "id": 354344213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.468094,35.295816,-81.468094,35.295816",
     "geom:latitude":35.295816,
     "geom:longitude":-81.468094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2418 Elizabeth Ave",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354344213,
-    "wof:lastmodified":1449066028,
+    "wof:lastmodified":1466651540,
     "wof:name":"Wilson Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-81.468094,35.295816,-81.468094,35.295816],
-  "geometry": {"coordinates":[-81.468094,35.295816],"type":"Point"}
+  "bbox": [
+    -81.468094,
+    35.295816,
+    -81.468094,
+    35.295816
+],
+  "geometry": {"coordinates":[-81.46809399999999,35.295816],"type":"Point"}
 }

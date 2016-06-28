@@ -2,13 +2,14 @@
   "id": 303113933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.928024,35.179995,-80.928024,35.179995",
     "geom:latitude":35.179995,
     "geom:longitude":-80.928024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4115 Rose Lake Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303113933,
-    "wof:lastmodified":1449000365,
+    "wof:lastmodified":1466644914,
     "wof:name":"Charlotte Customhouse Brokers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "customs"
     ]
 },
-  "bbox": [-80.928024,35.179995,-80.928024,35.179995],
-  "geometry": {"coordinates":[-80.928024,35.179995],"type":"Point"}
+  "bbox": [
+    -80.928024,
+    35.179995,
+    -80.928024,
+    35.179995
+],
+  "geometry": {"coordinates":[-80.92802399999999,35.179995],"type":"Point"}
 }

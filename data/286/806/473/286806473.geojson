@@ -2,13 +2,14 @@
   "id": 286806473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.941634,34.204415,-77.941634,34.204415",
     "geom:latitude":34.204415,
     "geom:longitude":-77.941634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2027 Carolina Beach Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286806473,
-    "wof:lastmodified":1449015156,
+    "wof:lastmodified":1466650519,
     "wof:name":"F & J Auto Sales",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.941634,34.204415,-77.941634,34.204415],
-  "geometry": {"coordinates":[-77.941634,34.204415],"type":"Point"}
+  "bbox": [
+    -77.941634,
+    34.204415,
+    -77.941634,
+    34.204415
+],
+  "geometry": {"coordinates":[-77.94163399999999,34.204415],"type":"Point"}
 }

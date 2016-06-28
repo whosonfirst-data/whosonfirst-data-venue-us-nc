@@ -2,13 +2,14 @@
   "id": 253411681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.845673,36.455518,-79.845673,36.455518",
     "geom:latitude":36.455518,
     "geom:longitude":-79.845673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Carter Dairy Rd",
     "sg:city":"Stoneville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253411681,
-    "wof:lastmodified":1449062959,
+    "wof:lastmodified":1466647291,
     "wof:name":"James F Carter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-79.845673,36.455518,-79.845673,36.455518],
-  "geometry": {"coordinates":[-79.845673,36.455518],"type":"Point"}
+  "bbox": [
+    -79.845673,
+    36.455518,
+    -79.845673,
+    36.455518
+],
+  "geometry": {"coordinates":[-79.84567300000001,36.455518],"type":"Point"}
 }

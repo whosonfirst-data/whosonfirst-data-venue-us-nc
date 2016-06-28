@@ -2,13 +2,14 @@
   "id": 270267511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.650227,35.824271,-78.650227,35.824271",
     "geom:latitude":35.824271,
     "geom:longitude":-78.650227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 Lassiter Mill Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270267511,
-    "wof:lastmodified":1449010877,
+    "wof:lastmodified":1466646437,
     "wof:name":"B-Connected Inc",
     "wof:parent_id":85892093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.650227,35.824271,-78.650227,35.824271],
+  "bbox": [
+    -78.650227,
+    35.824271,
+    -78.650227,
+    35.824271
+],
   "geometry": {"coordinates":[-78.650227,35.824271],"type":"Point"}
 }

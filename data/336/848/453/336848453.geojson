@@ -2,13 +2,14 @@
   "id": 336848453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251458,36.097625,-80.251458,36.097625",
     "geom:latitude":36.097625,
     "geom:longitude":-80.251458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 W 4th St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336848453,
-    "wof:lastmodified":1448997085,
+    "wof:lastmodified":1466649623,
     "wof:name":"Center City West Parking Deck",
     "wof:parent_id":85867051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-80.251458,36.097625,-80.251458,36.097625],
+  "bbox": [
+    -80.251458,
+    36.097625,
+    -80.251458,
+    36.097625
+],
   "geometry": {"coordinates":[-80.251458,36.097625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337313641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.639525,35.798144,-78.639525,35.798144",
     "geom:latitude":35.798144,
     "geom:longitude":-78.639525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337313641,
-    "wof:lastmodified":1449026959,
+    "wof:lastmodified":1466646265,
     "wof:name":"Stageworks Lighting & Prdctn",
     "wof:parent_id":85873453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.639525,35.798144,-78.639525,35.798144],
-  "geometry": {"coordinates":[-78.639525,35.798144],"type":"Point"}
+  "bbox": [
+    -78.639525,
+    35.798144,
+    -78.639525,
+    35.798144
+],
+  "geometry": {"coordinates":[-78.63952500000001,35.798144],"type":"Point"}
 }

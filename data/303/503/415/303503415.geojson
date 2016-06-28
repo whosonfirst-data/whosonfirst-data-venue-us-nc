@@ -2,13 +2,14 @@
   "id": 303503415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.950551,35.131854,-80.950551,35.131854",
     "geom:latitude":35.131854,
     "geom:longitude":-80.950551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Westinghouse Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303503415,
-    "wof:lastmodified":1449000574,
+    "wof:lastmodified":1466650567,
     "wof:name":"Anderson's Floor Covering",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.950551,35.131854,-80.950551,35.131854],
+  "bbox": [
+    -80.950551,
+    35.131854,
+    -80.950551,
+    35.131854
+],
   "geometry": {"coordinates":[-80.950551,35.131854],"type":"Point"}
 }

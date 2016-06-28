@@ -2,13 +2,14 @@
   "id": 270048883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.387048,34.74402,-77.387048,34.74402",
     "geom:latitude":34.74402,
     "geom:longitude":-77.387048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Lejeune Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270048883,
-    "wof:lastmodified":1449009494,
+    "wof:lastmodified":1466643767,
     "wof:name":"Talk Of The Town Barber Shop",
     "wof:parent_id":85808245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-77.387048,34.74402,-77.387048,34.74402],
-  "geometry": {"coordinates":[-77.387048,34.74402],"type":"Point"}
+  "bbox": [
+    -77.387048,
+    34.74402,
+    -77.387048,
+    34.74402
+],
+  "geometry": {"coordinates":[-77.38704799999999,34.74402],"type":"Point"}
 }

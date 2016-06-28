@@ -2,13 +2,14 @@
   "id": 287248515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.543524,35.808434,-78.543524,35.808434",
     "geom:latitude":35.808434,
     "geom:longitude":-78.543524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Crag Burn Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287248515,
-    "wof:lastmodified":1449001158,
+    "wof:lastmodified":1466646771,
     "wof:name":"REAL Elevator Solutions",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-78.543524,35.808434,-78.543524,35.808434],
-  "geometry": {"coordinates":[-78.543524,35.808434],"type":"Point"}
+  "bbox": [
+    -78.543524,
+    35.808434,
+    -78.543524,
+    35.808434
+],
+  "geometry": {"coordinates":[-78.54352400000001,35.808434],"type":"Point"}
 }

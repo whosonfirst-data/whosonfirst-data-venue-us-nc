@@ -2,13 +2,14 @@
   "id": 287217019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.572611,35.750499,-79.572611,35.750499",
     "geom:latitude":35.750499,
     "geom:longitude":-79.572611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Browns Crossroads Rd",
     "sg:city":"Staley",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":287217019,
-    "wof:lastmodified":1449001535,
+    "wof:lastmodified":1466646320,
     "wof:name":"Lavelle Farms",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-79.572611,35.750499,-79.572611,35.750499],
-  "geometry": {"coordinates":[-79.572611,35.750499],"type":"Point"}
+  "bbox": [
+    -79.572611,
+    35.750499,
+    -79.572611,
+    35.750499
+],
+  "geometry": {"coordinates":[-79.57261099999999,35.750499],"type":"Point"}
 }

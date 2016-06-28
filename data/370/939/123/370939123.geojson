@@ -2,13 +2,14 @@
   "id": 370939123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.696829,34.324305,-78.696829,34.324305",
     "geom:latitude":34.324305,
     "geom:longitude":-78.696829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 S Canal St",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370939123,
-    "wof:lastmodified":1449030098,
+    "wof:lastmodified":1466656915,
     "wof:name":"Jones Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.696829,34.324305,-78.696829,34.324305],
-  "geometry": {"coordinates":[-78.696829,34.324305],"type":"Point"}
+  "bbox": [
+    -78.696829,
+    34.324305,
+    -78.696829,
+    34.324305
+],
+  "geometry": {"coordinates":[-78.69682899999999,34.324305],"type":"Point"}
 }

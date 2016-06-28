@@ -2,13 +2,14 @@
   "id": 320805821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.612944,34.988189,-80.612944,34.988189",
     "geom:latitude":34.988189,
     "geom:longitude":-80.612944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 N Rocky River Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320805821,
-    "wof:lastmodified":1449012518,
+    "wof:lastmodified":1466656381,
     "wof:name":"Cross Roads Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.612944,34.988189,-80.612944,34.988189],
+  "bbox": [
+    -80.612944,
+    34.988189,
+    -80.612944,
+    34.988189
+],
   "geometry": {"coordinates":[-80.612944,34.988189],"type":"Point"}
 }

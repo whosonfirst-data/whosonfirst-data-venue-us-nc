@@ -2,13 +2,14 @@
   "id": 269726969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.778911,35.831275,-78.778911,35.831275",
     "geom:latitude":35.831275,
     "geom:longitude":-78.778911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Weston Pkwy",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269726969,
-    "wof:lastmodified":1449037754,
+    "wof:lastmodified":1466646097,
     "wof:name":"Geoffrey W Hilliard MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.778911,35.831275,-78.778911,35.831275],
-  "geometry": {"coordinates":[-78.778911,35.831275],"type":"Point"}
+  "bbox": [
+    -78.778911,
+    35.831275,
+    -78.778911,
+    35.831275
+],
+  "geometry": {"coordinates":[-78.77891099999999,35.831275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253046573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.895401,35.168177,-80.895401,35.168177",
     "geom:latitude":35.168177,
     "geom:longitude":-80.895401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5634 Franklin Springs Cir",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253046573,
-    "wof:lastmodified":1449064464,
+    "wof:lastmodified":1466643594,
     "wof:name":"Dhhs State Telecommunications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-80.895401,35.168177,-80.895401,35.168177],
-  "geometry": {"coordinates":[-80.895401,35.168177],"type":"Point"}
+  "bbox": [
+    -80.895401,
+    35.168177,
+    -80.895401,
+    35.168177
+],
+  "geometry": {"coordinates":[-80.89540100000001,35.168177],"type":"Point"}
 }

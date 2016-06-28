@@ -2,13 +2,14 @@
   "id": 253513267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.895012,35.107392,-78.895012,35.107392",
     "geom:latitude":35.107392,
     "geom:longitude":-78.895012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Walking Ln",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253513267,
-    "wof:lastmodified":1449064796,
+    "wof:lastmodified":1466648531,
     "wof:name":"Prism",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.895012,35.107392,-78.895012,35.107392],
-  "geometry": {"coordinates":[-78.895012,35.107392],"type":"Point"}
+  "bbox": [
+    -78.895012,
+    35.107392,
+    -78.895012,
+    35.107392
+],
+  "geometry": {"coordinates":[-78.89501199999999,35.107392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220068771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.456027,36.203002,-76.456027,36.203002",
     "geom:latitude":36.203002,
     "geom:longitude":-76.456027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 US Hwy 17 Bus",
     "sg:city":"Hertford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220068771,
-    "wof:lastmodified":1449074449,
+    "wof:lastmodified":1466643750,
     "wof:name":"Leader Mobile Homes",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.456027,36.203002,-76.456027,36.203002],
-  "geometry": {"coordinates":[-76.456027,36.203002],"type":"Point"}
+  "bbox": [
+    -76.456027,
+    36.203002,
+    -76.456027,
+    36.203002
+],
+  "geometry": {"coordinates":[-76.45602700000001,36.203002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387293939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.507496,35.78802,-78.507496,35.78802",
     "geom:latitude":35.78802,
     "geom:longitude":-78.507496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Laurens Way",
     "sg:city":"Knightdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387293939,
-    "wof:lastmodified":1449056846,
+    "wof:lastmodified":1466653718,
     "wof:name":"Whitlock Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-78.507496,35.78802,-78.507496,35.78802],
+  "bbox": [
+    -78.507496,
+    35.78802,
+    -78.507496,
+    35.78802
+],
   "geometry": {"coordinates":[-78.507496,35.78802],"type":"Point"}
 }

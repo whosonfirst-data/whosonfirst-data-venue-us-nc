@@ -2,13 +2,14 @@
   "id": 353782739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.65063,36.000209,-75.65063,36.000209",
     "geom:latitude":36.000209,
     "geom:longitude":-75.65063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 S Memorial Blvd",
     "sg:city":"Kill Devil Hills",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353782739,
-    "wof:lastmodified":1449018242,
+    "wof:lastmodified":1466651573,
     "wof:name":"Beach Book",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-75.65063,36.000209,-75.65063,36.000209],
-  "geometry": {"coordinates":[-75.65063,36.000209],"type":"Point"}
+  "bbox": [
+    -75.65063,
+    36.000209,
+    -75.65063,
+    36.000209
+],
+  "geometry": {"coordinates":[-75.65063000000001,36.000209],"type":"Point"}
 }

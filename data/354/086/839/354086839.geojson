@@ -2,13 +2,14 @@
   "id": 354086839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.698541,34.6629,-77.698541,34.6629",
     "geom:latitude":34.6629,
     "geom:longitude":-77.698541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5765 State Hwy 50",
     "sg:city":"Maple Hill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354086839,
-    "wof:lastmodified":1449067116,
+    "wof:lastmodified":1466648573,
     "wof:name":"Pender Volunteer EMS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welfare"
     ]
 },
-  "bbox": [-77.698541,34.6629,-77.698541,34.6629],
-  "geometry": {"coordinates":[-77.698541,34.6629],"type":"Point"}
+  "bbox": [
+    -77.698541,
+    34.6629,
+    -77.698541,
+    34.6629
+],
+  "geometry": {"coordinates":[-77.69854100000001,34.6629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303968035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.84337,36.055379,-79.84337,36.055379",
     "geom:latitude":36.055379,
     "geom:longitude":-79.84337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Brandt St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303968035,
-    "wof:lastmodified":1448998273,
+    "wof:lastmodified":1466656835,
     "wof:name":"Home Style Furniture Gallery",
     "wof:parent_id":85826501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.84337,36.055379,-79.84337,36.055379],
-  "geometry": {"coordinates":[-79.84337,36.055379],"type":"Point"}
+  "bbox": [
+    -79.84337,
+    36.055379,
+    -79.84337,
+    36.055379
+],
+  "geometry": {"coordinates":[-79.84336999999999,36.055379],"type":"Point"}
 }

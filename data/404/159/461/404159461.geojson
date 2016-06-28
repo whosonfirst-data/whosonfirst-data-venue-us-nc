@@ -2,13 +2,14 @@
   "id": 404159461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.985656,36.406639,-78.985656,36.406639",
     "geom:latitude":36.406639,
     "geom:longitude":-78.985656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Ridge Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404159461,
-    "wof:lastmodified":1449039163,
+    "wof:lastmodified":1466653310,
     "wof:name":"Roxboro Physical Therapy",
     "wof:parent_id":85829253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-78.985656,36.406639,-78.985656,36.406639],
-  "geometry": {"coordinates":[-78.985656,36.406639],"type":"Point"}
+  "bbox": [
+    -78.985656,
+    36.406639,
+    -78.985656,
+    36.406639
+],
+  "geometry": {"coordinates":[-78.98565600000001,36.406639],"type":"Point"}
 }

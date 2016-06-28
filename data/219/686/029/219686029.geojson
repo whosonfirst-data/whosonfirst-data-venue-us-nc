@@ -2,13 +2,14 @@
   "id": 219686029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.235167,35.391028,-79.235167,35.391028",
     "geom:latitude":35.391028,
     "geom:longitude":-79.235167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5634 Quail Ridge Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219686029,
-    "wof:lastmodified":1449073071,
+    "wof:lastmodified":1466646236,
     "wof:name":"Quail Ridge Golf Course",
     "wof:parent_id":85852511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-79.235167,35.391028,-79.235167,35.391028],
+  "bbox": [
+    -79.235167,
+    35.391028,
+    -79.235167,
+    35.391028
+],
   "geometry": {"coordinates":[-79.235167,35.391028],"type":"Point"}
 }

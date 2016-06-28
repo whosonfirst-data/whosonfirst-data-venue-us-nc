@@ -2,13 +2,14 @@
   "id": 387009087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20059,35.350483,-80.20059,35.350483",
     "geom:latitude":35.350483,
     "geom:longitude":-80.20059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 W Main St",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387009087,
-    "wof:lastmodified":1449059844,
+    "wof:lastmodified":1466649990,
     "wof:name":"Time Weavers Antiques",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.20059,35.350483,-80.20059,35.350483],
-  "geometry": {"coordinates":[-80.20059,35.350483],"type":"Point"}
+  "bbox": [
+    -80.20059,
+    35.350483,
+    -80.20059,
+    35.350483
+],
+  "geometry": {"coordinates":[-80.20059000000001,35.350483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303361007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.657485,34.714605,-76.657485,34.714605",
     "geom:latitude":34.714605,
     "geom:longitude":-76.657485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Ann St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303361007,
-    "wof:lastmodified":1448999901,
+    "wof:lastmodified":1466648515,
     "wof:name":"Perfect Wedding",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wedding"
     ]
 },
-  "bbox": [-76.657485,34.714605,-76.657485,34.714605],
-  "geometry": {"coordinates":[-76.657485,34.714605],"type":"Point"}
+  "bbox": [
+    -76.657485,
+    34.714605,
+    -76.657485,
+    34.714605
+],
+  "geometry": {"coordinates":[-76.65748499999999,34.714605],"type":"Point"}
 }

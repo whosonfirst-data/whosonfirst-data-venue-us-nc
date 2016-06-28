@@ -2,13 +2,14 @@
   "id": 303860463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.152128,36.095268,-79.152128,36.095268",
     "geom:latitude":36.095268,
     "geom:longitude":-79.152128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 Dalton Dr",
     "sg:city":"Efland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303860463,
-    "wof:lastmodified":1448999209,
+    "wof:lastmodified":1466655745,
     "wof:name":"Robert Haynes Builders Inc",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.152128,36.095268,-79.152128,36.095268],
+  "bbox": [
+    -79.152128,
+    36.095268,
+    -79.152128,
+    36.095268
+],
   "geometry": {"coordinates":[-79.152128,36.095268],"type":"Point"}
 }

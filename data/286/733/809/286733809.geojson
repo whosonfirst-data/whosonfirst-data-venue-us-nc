@@ -2,13 +2,14 @@
   "id": 286733809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246851,35.828343,-80.246851,35.828343",
     "geom:latitude":35.828343,
     "geom:longitude":-80.246851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Raleigh Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286733809,
-    "wof:lastmodified":1449015581,
+    "wof:lastmodified":1466649561,
     "wof:name":"Lexington Auto Glass Co Inc",
     "wof:parent_id":85837937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "glass"
     ]
 },
-  "bbox": [-80.246851,35.828343,-80.246851,35.828343],
-  "geometry": {"coordinates":[-80.246851,35.828343],"type":"Point"}
+  "bbox": [
+    -80.246851,
+    35.828343,
+    -80.246851,
+    35.828343
+],
+  "geometry": {"coordinates":[-80.24685100000001,35.828343],"type":"Point"}
 }

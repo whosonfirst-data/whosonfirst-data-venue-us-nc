@@ -2,13 +2,14 @@
   "id": 303944107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.572162,35.823073,-78.572162,35.823073",
     "geom:latitude":35.823073,
     "geom:longitude":-78.572162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3908 Haithcock Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303944107,
-    "wof:lastmodified":1448999341,
+    "wof:lastmodified":1466656428,
     "wof:name":"Rl Southerland Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.572162,35.823073,-78.572162,35.823073],
-  "geometry": {"coordinates":[-78.572162,35.823073],"type":"Point"}
+  "bbox": [
+    -78.572162,
+    35.823073,
+    -78.572162,
+    35.823073
+],
+  "geometry": {"coordinates":[-78.57216200000001,35.823073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236095795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.897957,34.359003,-77.897957,34.359003",
     "geom:latitude":34.359003,
     "geom:longitude":-77.897957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6214 Blossom St",
     "sg:city":"Castle Hayne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236095795,
-    "wof:lastmodified":1449003309,
+    "wof:lastmodified":1466644075,
     "wof:name":"Croom Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-77.897957,34.359003,-77.897957,34.359003],
-  "geometry": {"coordinates":[-77.897957,34.359003],"type":"Point"}
+  "bbox": [
+    -77.897957,
+    34.359003,
+    -77.897957,
+    34.359003
+],
+  "geometry": {"coordinates":[-77.89795700000001,34.359003],"type":"Point"}
 }

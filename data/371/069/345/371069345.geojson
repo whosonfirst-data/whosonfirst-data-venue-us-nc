@@ -2,13 +2,14 @@
   "id": 371069345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.323462,36.271625,-81.323462,36.271625",
     "geom:latitude":36.271625,
     "geom:longitude":-81.323462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12427 N State Hwy 16",
     "sg:city":"Millers Creek",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371069345,
-    "wof:lastmodified":1449049716,
+    "wof:lastmodified":1466649697,
     "wof:name":"Mountain Top Builders",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-81.323462,36.271625,-81.323462,36.271625],
-  "geometry": {"coordinates":[-81.323462,36.271625],"type":"Point"}
+  "bbox": [
+    -81.323462,
+    36.271625,
+    -81.323462,
+    36.271625
+],
+  "geometry": {"coordinates":[-81.32346200000001,36.271625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236161523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.523159,34.319316,-78.523159,34.319316",
     "geom:latitude":34.319316,
     "geom:longitude":-78.523159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Flemington Dr",
     "sg:city":"Lake Waccamaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236161523,
-    "wof:lastmodified":1449002868,
+    "wof:lastmodified":1466644671,
     "wof:name":"Rube Mc Cray Memorial Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.523159,34.319316,-78.523159,34.319316],
-  "geometry": {"coordinates":[-78.523159,34.319316],"type":"Point"}
+  "bbox": [
+    -78.523159,
+    34.319316,
+    -78.523159,
+    34.319316
+],
+  "geometry": {"coordinates":[-78.52315900000001,34.319316],"type":"Point"}
 }

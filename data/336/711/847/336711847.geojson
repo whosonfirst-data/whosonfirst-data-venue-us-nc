@@ -2,13 +2,14 @@
   "id": 336711847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.20744,35.372314,-83.20744,35.372314",
     "geom:latitude":35.372314,
     "geom:longitude":-83.20744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 E Main St",
     "sg:city":"Sylva",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336711847,
-    "wof:lastmodified":1448997833,
+    "wof:lastmodified":1466647531,
     "wof:name":"Bryson Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-83.20744,35.372314,-83.20744,35.372314],
-  "geometry": {"coordinates":[-83.20744,35.372314],"type":"Point"}
+  "bbox": [
+    -83.20744,
+    35.372314,
+    -83.20744,
+    35.372314
+],
+  "geometry": {"coordinates":[-83.20744000000001,35.372314],"type":"Point"}
 }

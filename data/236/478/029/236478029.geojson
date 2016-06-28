@@ -2,13 +2,14 @@
   "id": 236478029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.51825,35.710993,-80.51825,35.710993",
     "geom:latitude":35.710993,
     "geom:longitude":-80.51825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Proctor Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236478029,
-    "wof:lastmodified":1449001761,
+    "wof:lastmodified":1466647400,
     "wof:name":"First Things First",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.51825,35.710993,-80.51825,35.710993],
-  "geometry": {"coordinates":[-80.51825,35.710993],"type":"Point"}
+  "bbox": [
+    -80.51825,
+    35.710993,
+    -80.51825,
+    35.710993
+],
+  "geometry": {"coordinates":[-80.51824999999999,35.710993],"type":"Point"}
 }

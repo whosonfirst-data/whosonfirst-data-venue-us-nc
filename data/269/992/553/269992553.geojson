@@ -2,13 +2,14 @@
   "id": 269992553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.195515,35.330635,-81.195515,35.330635",
     "geom:latitude":35.330635,
     "geom:longitude":-81.195515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Gibson Ct",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269992553,
-    "wof:lastmodified":1449037263,
+    "wof:lastmodified":1466649230,
     "wof:name":"Watson-Hegner Corp",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tool"
     ]
 },
-  "bbox": [-81.195515,35.330635,-81.195515,35.330635],
+  "bbox": [
+    -81.195515,
+    35.330635,
+    -81.195515,
+    35.330635
+],
   "geometry": {"coordinates":[-81.195515,35.330635],"type":"Point"}
 }

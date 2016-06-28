@@ -2,13 +2,14 @@
   "id": 304057313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.093848,35.132327,-77.093848,35.132327",
     "geom:latitude":35.132327,
     "geom:longitude":-77.093848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3325 Neuse Blvd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304057313,
-    "wof:lastmodified":1449043852,
+    "wof:lastmodified":1466644968,
     "wof:name":"Arnold Automotive Inc",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.093848,35.132327,-77.093848,35.132327],
-  "geometry": {"coordinates":[-77.093848,35.132327],"type":"Point"}
+  "bbox": [
+    -77.093848,
+    35.132327,
+    -77.093848,
+    35.132327
+],
+  "geometry": {"coordinates":[-77.09384799999999,35.132327],"type":"Point"}
 }

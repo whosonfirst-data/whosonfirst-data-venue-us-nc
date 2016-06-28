@@ -2,13 +2,14 @@
   "id": 371074795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.933281,34.189528,-77.933281,34.189528",
     "geom:latitude":34.189528,
     "geom:longitude":-77.933281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2722 Carolina Beach Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371074795,
-    "wof:lastmodified":1449049615,
+    "wof:lastmodified":1466649765,
     "wof:name":"Linda's Lounge",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-77.933281,34.189528,-77.933281,34.189528],
-  "geometry": {"coordinates":[-77.933281,34.189528],"type":"Point"}
+  "bbox": [
+    -77.933281,
+    34.189528,
+    -77.933281,
+    34.189528
+],
+  "geometry": {"coordinates":[-77.93328099999999,34.189528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403875105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.370821,35.747395,-81.370821,35.747395",
     "geom:latitude":35.747395,
     "geom:longitude":-81.370821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 Clement Blvd NW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403875105,
-    "wof:lastmodified":1449055604,
+    "wof:lastmodified":1466652595,
     "wof:name":"J D Robinette DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.370821,35.747395,-81.370821,35.747395],
-  "geometry": {"coordinates":[-81.370821,35.747395],"type":"Point"}
+  "bbox": [
+    -81.370821,
+    35.747395,
+    -81.370821,
+    35.747395
+],
+  "geometry": {"coordinates":[-81.37082100000001,35.747395],"type":"Point"}
 }

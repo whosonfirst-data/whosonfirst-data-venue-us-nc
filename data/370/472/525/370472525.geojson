@@ -2,13 +2,14 @@
   "id": 370472525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.354162,34.815913,-77.354162,34.815913",
     "geom:latitude":34.815913,
     "geom:longitude":-77.354162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1183 Kellum Loop Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370472525,
-    "wof:lastmodified":1449029353,
+    "wof:lastmodified":1466652205,
     "wof:name":"Supervac Of Jacksonville Inc",
     "wof:parent_id":85839091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "parking"
     ]
 },
-  "bbox": [-77.354162,34.815913,-77.354162,34.815913],
+  "bbox": [
+    -77.354162,
+    34.815913,
+    -77.354162,
+    34.815913
+],
   "geometry": {"coordinates":[-77.354162,34.815913],"type":"Point"}
 }

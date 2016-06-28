@@ -2,13 +2,14 @@
   "id": 354234379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.079861,33.908778,-78.079861,33.908778",
     "geom:latitude":33.908778,
     "geom:longitude":-78.079861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Trott St",
     "sg:city":"Oak Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354234379,
-    "wof:lastmodified":1449067583,
+    "wof:lastmodified":1466650264,
     "wof:name":"William S & Hazel W Lucas",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.079861,33.908778,-78.079861,33.908778],
-  "geometry": {"coordinates":[-78.079861,33.908778],"type":"Point"}
+  "bbox": [
+    -78.079861,
+    33.908778,
+    -78.079861,
+    33.908778
+],
+  "geometry": {"coordinates":[-78.07986099999999,33.908778],"type":"Point"}
 }

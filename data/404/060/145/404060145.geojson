@@ -2,13 +2,14 @@
   "id": 404060145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.599843,35.316728,-77.599843,35.316728",
     "geom:latitude":35.316728,
     "geom:longitude":-77.599843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1876 John Mewborne Rd",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404060145,
-    "wof:lastmodified":1449040220,
+    "wof:lastmodified":1466652055,
     "wof:name":"Burning Bush Holiness Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.599843,35.316728,-77.599843,35.316728],
-  "geometry": {"coordinates":[-77.599843,35.316728],"type":"Point"}
+  "bbox": [
+    -77.599843,
+    35.316728,
+    -77.599843,
+    35.316728
+],
+  "geometry": {"coordinates":[-77.59984300000001,35.316728],"type":"Point"}
 }

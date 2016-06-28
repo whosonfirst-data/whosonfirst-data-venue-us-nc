@@ -2,13 +2,14 @@
   "id": 336747871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.607711,35.750572,-81.607711,35.750572",
     "geom:latitude":35.750572,
     "geom:longitude":-81.607711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Alta Vista St",
     "sg:city":"Drexel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336747871,
-    "wof:lastmodified":1448997141,
+    "wof:lastmodified":1466648070,
     "wof:name":"Drexel Child Care",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.607711,35.750572,-81.607711,35.750572],
-  "geometry": {"coordinates":[-81.607711,35.750572],"type":"Point"}
+  "bbox": [
+    -81.607711,
+    35.750572,
+    -81.607711,
+    35.750572
+],
+  "geometry": {"coordinates":[-81.60771099999999,35.750572],"type":"Point"}
 }

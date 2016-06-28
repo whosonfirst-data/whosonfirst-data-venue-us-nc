@@ -2,13 +2,14 @@
   "id": 253536563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.931277,36.082678,-78.931277,36.082678",
     "geom:latitude":36.082678,
     "geom:longitude":-78.931277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5032 Guess Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253536563,
-    "wof:lastmodified":1449064580,
+    "wof:lastmodified":1466648811,
     "wof:name":"B & G Builders Pools & Spas",
     "wof:parent_id":85826567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-78.931277,36.082678,-78.931277,36.082678],
-  "geometry": {"coordinates":[-78.931277,36.082678],"type":"Point"}
+  "bbox": [
+    -78.931277,
+    36.082678,
+    -78.931277,
+    36.082678
+],
+  "geometry": {"coordinates":[-78.93127699999999,36.082678],"type":"Point"}
 }

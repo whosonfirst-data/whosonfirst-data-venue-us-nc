@@ -2,13 +2,14 @@
   "id": 320230463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.896256,35.515926,-80.896256,35.515926",
     "geom:latitude":35.515926,
     "geom:longitude":-80.896256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Ventana Ct",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320230463,
-    "wof:lastmodified":1449014026,
+    "wof:lastmodified":1466648519,
     "wof:name":"Capstone Homes",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-80.896256,35.515926,-80.896256,35.515926],
-  "geometry": {"coordinates":[-80.896256,35.515926],"type":"Point"}
+  "bbox": [
+    -80.896256,
+    35.515926,
+    -80.896256,
+    35.515926
+],
+  "geometry": {"coordinates":[-80.89625599999999,35.515926],"type":"Point"}
 }

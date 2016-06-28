@@ -2,13 +2,14 @@
   "id": 336872335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.507782,35.379359,-80.507782,35.379359",
     "geom:latitude":35.379359,
     "geom:longitude":-80.507782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2931 Tilley Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336872335,
-    "wof:lastmodified":1448997026,
+    "wof:lastmodified":1466650001,
     "wof:name":"Federal Aviation Adm-Rcag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "airline"
     ]
 },
-  "bbox": [-80.507782,35.379359,-80.507782,35.379359],
-  "geometry": {"coordinates":[-80.507782,35.379359],"type":"Point"}
+  "bbox": [
+    -80.507782,
+    35.379359,
+    -80.507782,
+    35.379359
+],
+  "geometry": {"coordinates":[-80.50778200000001,35.379359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403768983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.431694,34.751059,-77.431694,34.751059",
     "geom:latitude":34.751059,
     "geom:longitude":-77.431694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Mill Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403768983,
-    "wof:lastmodified":1449055144,
+    "wof:lastmodified":1466651177,
     "wof:name":"Onslow County Sheriffs Office",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-77.431694,34.751059,-77.431694,34.751059],
-  "geometry": {"coordinates":[-77.431694,34.751059],"type":"Point"}
+  "bbox": [
+    -77.431694,
+    34.751059,
+    -77.431694,
+    34.751059
+],
+  "geometry": {"coordinates":[-77.43169399999999,34.751059],"type":"Point"}
 }

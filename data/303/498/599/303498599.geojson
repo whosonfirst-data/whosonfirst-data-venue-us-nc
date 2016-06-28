@@ -2,13 +2,14 @@
   "id": 303498599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.442191,36.476144,-80.442191,36.476144",
     "geom:latitude":36.476144,
     "geom:longitude":-80.442191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10630 State Hwy 89 W",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303498599,
-    "wof:lastmodified":1448999971,
+    "wof:lastmodified":1466650494,
     "wof:name":"Davis Hardware & Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.442191,36.476144,-80.442191,36.476144],
-  "geometry": {"coordinates":[-80.442191,36.476144],"type":"Point"}
+  "bbox": [
+    -80.442191,
+    36.476144,
+    -80.442191,
+    36.476144
+],
+  "geometry": {"coordinates":[-80.44219099999999,36.476144],"type":"Point"}
 }

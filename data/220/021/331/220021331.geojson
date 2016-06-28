@@ -2,13 +2,14 @@
   "id": 220021331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.645004,35.120157,-80.645004,35.120157",
     "geom:latitude":35.120157,
     "geom:longitude":-80.645004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5749 Stevens Mill Rd",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220021331,
-    "wof:lastmodified":1449074555,
+    "wof:lastmodified":1466643381,
     "wof:name":"Duncans Welding Services Inc",
     "wof:parent_id":85812565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.645004,35.120157,-80.645004,35.120157],
+  "bbox": [
+    -80.645004,
+    35.120157,
+    -80.645004,
+    35.120157
+],
   "geometry": {"coordinates":[-80.645004,35.120157],"type":"Point"}
 }

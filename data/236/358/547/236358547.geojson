@@ -2,13 +2,14 @@
   "id": 236358547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.640136,35.804422,-78.640136,35.804422",
     "geom:latitude":35.804422,
     "geom:longitude":-78.640136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Dare St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236358547,
-    "wof:lastmodified":1449002965,
+    "wof:lastmodified":1466646380,
     "wof:name":"Resume Tree",
     "wof:parent_id":85821323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-78.640136,35.804422,-78.640136,35.804422],
+  "bbox": [
+    -78.640136,
+    35.804422,
+    -78.640136,
+    35.804422
+],
   "geometry": {"coordinates":[-78.640136,35.804422],"type":"Point"}
 }

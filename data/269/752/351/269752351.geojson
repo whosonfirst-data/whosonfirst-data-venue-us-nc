@@ -2,13 +2,14 @@
   "id": 269752351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.452032,35.205242,-79.452032,35.205242",
     "geom:latitude":35.205242,
     "geom:longitude":-79.452032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Aviemore Dr",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269752351,
-    "wof:lastmodified":1449036532,
+    "wof:lastmodified":1466646389,
     "wof:name":"Captran",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "funding"
     ]
 },
-  "bbox": [-79.452032,35.205242,-79.452032,35.205242],
+  "bbox": [
+    -79.452032,
+    35.205242,
+    -79.452032,
+    35.205242
+],
   "geometry": {"coordinates":[-79.452032,35.205242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320391651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.143979,35.458576,-79.143979,35.458576",
     "geom:latitude":35.458576,
     "geom:longitude":-79.143979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 S Horner Blvd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320391651,
-    "wof:lastmodified":1449013651,
+    "wof:lastmodified":1466650802,
     "wof:name":"Sanford Ford Lincoln-Mercury",
     "wof:parent_id":85827995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.143979,35.458576,-79.143979,35.458576],
+  "bbox": [
+    -79.143979,
+    35.458576,
+    -79.143979,
+    35.458576
+],
   "geometry": {"coordinates":[-79.143979,35.458576],"type":"Point"}
 }

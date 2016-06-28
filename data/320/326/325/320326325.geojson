@@ -2,13 +2,14 @@
   "id": 320326325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.008345,35.527787,-83.008345,35.527787",
     "geom:latitude":35.527787,
     "geom:longitude":-83.008345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Julia Dr",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320326325,
-    "wof:lastmodified":1449012847,
+    "wof:lastmodified":1466649863,
     "wof:name":"Kyle Interprises",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-83.008345,35.527787,-83.008345,35.527787],
-  "geometry": {"coordinates":[-83.008345,35.527787],"type":"Point"}
+  "bbox": [
+    -83.008345,
+    35.527787,
+    -83.008345,
+    35.527787
+],
+  "geometry": {"coordinates":[-83.00834500000001,35.527787],"type":"Point"}
 }

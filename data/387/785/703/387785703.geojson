@@ -2,13 +2,14 @@
   "id": 387785703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.375537,35.371486,-81.375537,35.371486",
     "geom:latitude":35.371486,
     "geom:longitude":-81.375537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Chavis Dr",
     "sg:city":"Cherryville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387785703,
-    "wof:lastmodified":1449059270,
+    "wof:lastmodified":1466657644,
     "wof:name":"Cherryville Public Sch Gdnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.375537,35.371486,-81.375537,35.371486],
-  "geometry": {"coordinates":[-81.375537,35.371486],"type":"Point"}
+  "bbox": [
+    -81.375537,
+    35.371486,
+    -81.375537,
+    35.371486
+],
+  "geometry": {"coordinates":[-81.37553699999999,35.371486],"type":"Point"}
 }

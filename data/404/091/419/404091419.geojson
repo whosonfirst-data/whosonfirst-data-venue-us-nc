@@ -2,13 +2,14 @@
   "id": 404091419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.553666,35.597469,-82.553666,35.597469",
     "geom:latitude":35.597469,
     "geom:longitude":-82.553666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 N Lexington Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404091419,
-    "wof:lastmodified":1449039141,
+    "wof:lastmodified":1466652443,
     "wof:name":"Xai Xai",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.553666,35.597469,-82.553666,35.597469],
-  "geometry": {"coordinates":[-82.553666,35.597469],"type":"Point"}
+  "bbox": [
+    -82.553666,
+    35.597469,
+    -82.553666,
+    35.597469
+],
+  "geometry": {"coordinates":[-82.55366600000001,35.597469],"type":"Point"}
 }

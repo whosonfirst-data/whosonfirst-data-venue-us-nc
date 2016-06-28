@@ -2,13 +2,14 @@
   "id": 404193025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.600251,35.550443,-82.600251,35.550443",
     "geom:latitude":35.550443,
     "geom:longitude":-82.600251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Pond Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404193025,
-    "wof:lastmodified":1449039212,
+    "wof:lastmodified":1466653751,
     "wof:name":"Rickmans Paint & Body",
     "wof:parent_id":85853555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-82.600251,35.550443,-82.600251,35.550443],
+  "bbox": [
+    -82.600251,
+    35.550443,
+    -82.600251,
+    35.550443
+],
   "geometry": {"coordinates":[-82.600251,35.550443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354282941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.351053,36.338763,-78.351053,36.338763",
     "geom:latitude":36.338763,
     "geom:longitude":-78.351053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Vincent Hoyle Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354282941,
-    "wof:lastmodified":1449067017,
+    "wof:lastmodified":1466650801,
     "wof:name":"Best Choice Homes",
     "wof:parent_id":85857977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.351053,36.338763,-78.351053,36.338763],
-  "geometry": {"coordinates":[-78.351053,36.338763],"type":"Point"}
+  "bbox": [
+    -78.351053,
+    36.338763,
+    -78.351053,
+    36.338763
+],
+  "geometry": {"coordinates":[-78.35105299999999,36.338763],"type":"Point"}
 }

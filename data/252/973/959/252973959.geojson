@@ -2,13 +2,14 @@
   "id": 252973959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.94868,35.376002,-77.94868,35.376002",
     "geom:latitude":35.376002,
     "geom:longitude":-77.94868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N Spence Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252973959,
-    "wof:lastmodified":1449006082,
+    "wof:lastmodified":1466645619,
     "wof:name":"Doctor's Urgent Care Ctr",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-77.94868,35.376002,-77.94868,35.376002],
+  "bbox": [
+    -77.94868,
+    35.376002,
+    -77.94868,
+    35.376002
+],
   "geometry": {"coordinates":[-77.94868,35.376002],"type":"Point"}
 }

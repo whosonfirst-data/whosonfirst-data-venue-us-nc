@@ -2,13 +2,14 @@
   "id": 186477271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.371313,35.613845,-77.371313,35.613845",
     "geom:latitude":35.613845,
     "geom:longitude":-77.371313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Cotanche St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186477271,
-    "wof:lastmodified":1449050869,
+    "wof:lastmodified":1466654270,
     "wof:name":"News & Observer",
     "wof:parent_id":85811829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-77.371313,35.613845,-77.371313,35.613845],
+  "bbox": [
+    -77.371313,
+    35.613845,
+    -77.371313,
+    35.613845
+],
   "geometry": {"coordinates":[-77.371313,35.613845],"type":"Point"}
 }

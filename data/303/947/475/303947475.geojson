@@ -2,13 +2,14 @@
   "id": 303947475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.290213,35.429377,-81.290213,35.429377",
     "geom:latitude":35.429377,
     "geom:longitude":-81.290213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1975 Boy Scout Rd",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303947475,
-    "wof:lastmodified":1448999890,
+    "wof:lastmodified":1466656470,
     "wof:name":"Lincoln County Animal Shelter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.290213,35.429377,-81.290213,35.429377],
-  "geometry": {"coordinates":[-81.290213,35.429377],"type":"Point"}
+  "bbox": [
+    -81.290213,
+    35.429377,
+    -81.290213,
+    35.429377
+],
+  "geometry": {"coordinates":[-81.29021299999999,35.429377],"type":"Point"}
 }

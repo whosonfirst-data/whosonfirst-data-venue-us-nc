@@ -2,13 +2,14 @@
   "id": 252728203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.212063,36.330224,-77.212063,36.330224",
     "geom:latitude":36.330224,
     "geom:longitude":-77.212063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Oak St",
     "sg:city":"Woodland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252728203,
-    "wof:lastmodified":1449005673,
+    "wof:lastmodified":1466643403,
     "wof:name":"Woodland Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dpt"
     ]
 },
-  "bbox": [-77.212063,36.330224,-77.212063,36.330224],
+  "bbox": [
+    -77.212063,
+    36.330224,
+    -77.212063,
+    36.330224
+],
   "geometry": {"coordinates":[-77.212063,36.330224],"type":"Point"}
 }

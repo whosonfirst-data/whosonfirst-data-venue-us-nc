@@ -2,13 +2,14 @@
   "id": 219741239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.752495,35.866468,-76.752495,35.866468",
     "geom:latitude":35.866468,
     "geom:longitude":-76.752495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Water St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219741239,
-    "wof:lastmodified":1449070567,
+    "wof:lastmodified":1466646695,
     "wof:name":"Beacon Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-76.752495,35.866468,-76.752495,35.866468],
+  "bbox": [
+    -76.752495,
+    35.866468,
+    -76.752495,
+    35.866468
+],
   "geometry": {"coordinates":[-76.752495,35.866468],"type":"Point"}
 }

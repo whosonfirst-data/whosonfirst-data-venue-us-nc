@@ -2,13 +2,14 @@
   "id": 253746991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.547468,35.743063,-79.547468,35.743063",
     "geom:latitude":35.743063,
     "geom:longitude":-79.547468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10646 US Hwy 64 E",
     "sg:city":"Staley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253746991,
-    "wof:lastmodified":1449062800,
+    "wof:lastmodified":1466651335,
     "wof:name":"Church Of Living Water",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.547468,35.743063,-79.547468,35.743063],
-  "geometry": {"coordinates":[-79.547468,35.743063],"type":"Point"}
+  "bbox": [
+    -79.547468,
+    35.743063,
+    -79.547468,
+    35.743063
+],
+  "geometry": {"coordinates":[-79.54746799999999,35.743063],"type":"Point"}
 }

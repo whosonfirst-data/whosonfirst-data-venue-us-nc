@@ -2,13 +2,14 @@
   "id": 320372659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.096348,36.074569,-79.096348,36.074569",
     "geom:latitude":36.074569,
     "geom:longitude":-79.096348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Cameron St",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320372659,
-    "wof:lastmodified":1449013515,
+    "wof:lastmodified":1466650524,
     "wof:name":"Orange County Register-Deeds",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.096348,36.074569,-79.096348,36.074569],
-  "geometry": {"coordinates":[-79.096348,36.074569],"type":"Point"}
+  "bbox": [
+    -79.096348,
+    36.074569,
+    -79.096348,
+    36.074569
+],
+  "geometry": {"coordinates":[-79.09634800000001,36.074569],"type":"Point"}
 }

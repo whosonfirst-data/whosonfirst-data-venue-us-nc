@@ -2,13 +2,14 @@
   "id": 219390609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.150539,35.188765,-81.150539,35.188765",
     "geom:latitude":35.188765,
     "geom:longitude":-81.150539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Coachwood Ln",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219390609,
-    "wof:lastmodified":1449073961,
+    "wof:lastmodified":1466644066,
     "wof:name":"Decorating Delight",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "artwork"
     ]
 },
-  "bbox": [-81.150539,35.188765,-81.150539,35.188765],
-  "geometry": {"coordinates":[-81.150539,35.188765],"type":"Point"}
+  "bbox": [
+    -81.150539,
+    35.188765,
+    -81.150539,
+    35.188765
+],
+  "geometry": {"coordinates":[-81.15053899999999,35.188765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403874529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.185749,35.259409,-81.185749,35.259409",
     "geom:latitude":35.259409,
     "geom:longitude":-81.185749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 S York St",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403874529,
-    "wof:lastmodified":1449055876,
+    "wof:lastmodified":1466652589,
     "wof:name":"Crowders Creek Wastewater",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.185749,35.259409,-81.185749,35.259409],
+  "bbox": [
+    -81.185749,
+    35.259409,
+    -81.185749,
+    35.259409
+],
   "geometry": {"coordinates":[-81.185749,35.259409],"type":"Point"}
 }

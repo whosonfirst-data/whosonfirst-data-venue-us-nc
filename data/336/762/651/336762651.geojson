@@ -2,13 +2,14 @@
   "id": 336762651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.837026,35.333225,-81.837026,35.333225",
     "geom:latitude":35.333225,
     "geom:longitude":-81.837026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 US Hwy 74 Bus",
     "sg:city":"Bostic",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336762651,
-    "wof:lastmodified":1448997696,
+    "wof:lastmodified":1466648292,
     "wof:name":"Whelchel's Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.837026,35.333225,-81.837026,35.333225],
-  "geometry": {"coordinates":[-81.837026,35.333225],"type":"Point"}
+  "bbox": [
+    -81.837026,
+    35.333225,
+    -81.837026,
+    35.333225
+],
+  "geometry": {"coordinates":[-81.83702599999999,35.333225],"type":"Point"}
 }

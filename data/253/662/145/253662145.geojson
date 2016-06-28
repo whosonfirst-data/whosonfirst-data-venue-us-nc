@@ -2,13 +2,14 @@
   "id": 253662145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.450938,36.418721,-81.450938,36.418721",
     "geom:latitude":36.418721,
     "geom:longitude":-81.450938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1158 US Hwy 221 N",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":253662145,
-    "wof:lastmodified":1449064839,
+    "wof:lastmodified":1466650291,
     "wof:name":"Welch's Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipper"
     ]
 },
-  "bbox": [-81.450938,36.418721,-81.450938,36.418721],
-  "geometry": {"coordinates":[-81.450938,36.418721],"type":"Point"}
+  "bbox": [
+    -81.450938,
+    36.418721,
+    -81.450938,
+    36.418721
+],
+  "geometry": {"coordinates":[-81.45093799999999,36.418721],"type":"Point"}
 }

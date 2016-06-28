@@ -2,13 +2,14 @@
   "id": 219979113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.062795,35.426738,-78.062795,35.426738",
     "geom:latitude":35.426738,
     "geom:longitude":-78.062795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2443 US Hwy 70 W",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219979113,
-    "wof:lastmodified":1449072888,
+    "wof:lastmodified":1466648655,
     "wof:name":"Ken's Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.062795,35.426738,-78.062795,35.426738],
-  "geometry": {"coordinates":[-78.062795,35.426738],"type":"Point"}
+  "bbox": [
+    -78.062795,
+    35.426738,
+    -78.062795,
+    35.426738
+],
+  "geometry": {"coordinates":[-78.06279499999999,35.426738],"type":"Point"}
 }

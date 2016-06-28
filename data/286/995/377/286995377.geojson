@@ -2,13 +2,14 @@
   "id": 286995377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.928376,34.203184,-77.928376,34.203184",
     "geom:latitude":34.203184,
     "geom:longitude":-77.928376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Medical Center Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286995377,
-    "wof:lastmodified":1449017773,
+    "wof:lastmodified":1466653129,
     "wof:name":"John F White DDS PA",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-77.928376,34.203184,-77.928376,34.203184],
+  "bbox": [
+    -77.928376,
+    34.203184,
+    -77.928376,
+    34.203184
+],
   "geometry": {"coordinates":[-77.928376,34.203184],"type":"Point"}
 }

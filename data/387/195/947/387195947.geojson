@@ -2,13 +2,14 @@
   "id": 387195947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.698619,35.627554,-78.698619,35.627554",
     "geom:latitude":35.627554,
     "geom:longitude":-78.698619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 Alderman Cir",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387195947,
-    "wof:lastmodified":1449058611,
+    "wof:lastmodified":1466652439,
     "wof:name":"Glass Man",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.698619,35.627554,-78.698619,35.627554],
-  "geometry": {"coordinates":[-78.698619,35.627554],"type":"Point"}
+  "bbox": [
+    -78.698619,
+    35.627554,
+    -78.698619,
+    35.627554
+],
+  "geometry": {"coordinates":[-78.69861899999999,35.627554],"type":"Point"}
 }

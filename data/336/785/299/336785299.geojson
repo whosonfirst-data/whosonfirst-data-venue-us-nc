@@ -2,13 +2,14 @@
   "id": 336785299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.829693,35.941253,-77.829693,35.941253",
     "geom:latitude":35.941253,
     "geom:longitude":-77.829693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 S Wesleyan Blvd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336785299,
-    "wof:lastmodified":1448997848,
+    "wof:lastmodified":1466648661,
     "wof:name":"Sunset Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.829693,35.941253,-77.829693,35.941253],
-  "geometry": {"coordinates":[-77.829693,35.941253],"type":"Point"}
+  "bbox": [
+    -77.829693,
+    35.941253,
+    -77.829693,
+    35.941253
+],
+  "geometry": {"coordinates":[-77.82969300000001,35.941253],"type":"Point"}
 }

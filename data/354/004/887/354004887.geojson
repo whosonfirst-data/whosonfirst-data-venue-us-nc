@@ -2,13 +2,14 @@
   "id": 354004887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.096415,36.074379,-79.096415,36.074379",
     "geom:latitude":36.074379,
     "geom:longitude":-79.096415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Cameron St",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354004887,
-    "wof:lastmodified":1449066535,
+    "wof:lastmodified":1466647621,
     "wof:name":"Orange County Revenue",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-79.096415,36.074379,-79.096415,36.074379],
-  "geometry": {"coordinates":[-79.096415,36.074379],"type":"Point"}
+  "bbox": [
+    -79.096415,
+    36.074379,
+    -79.096415,
+    36.074379
+],
+  "geometry": {"coordinates":[-79.09641499999999,36.074379],"type":"Point"}
 }

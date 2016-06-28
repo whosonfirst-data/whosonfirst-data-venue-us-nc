@@ -2,13 +2,14 @@
   "id": 303568711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945802,34.244234,-77.945802,34.244234",
     "geom:latitude":34.244234,
     "geom:longitude":-77.945802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N 4th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303568711,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1466651503,
     "wof:name":"Nofo Inc",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.945802,34.244234,-77.945802,34.244234],
+  "bbox": [
+    -77.945802,
+    34.244234,
+    -77.945802,
+    34.244234
+],
   "geometry": {"coordinates":[-77.945802,34.244234],"type":"Point"}
 }

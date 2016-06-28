@@ -2,13 +2,14 @@
   "id": 303622409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.867312,35.990538,-78.867312,35.990538",
     "geom:latitude":35.990538,
     "geom:longitude":-78.867312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 N Miami Blvd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303622409,
-    "wof:lastmodified":1449000119,
+    "wof:lastmodified":1466652294,
     "wof:name":"Shell",
     "wof:parent_id":85877153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-78.867312,35.990538,-78.867312,35.990538],
+  "bbox": [
+    -78.867312,
+    35.990538,
+    -78.867312,
+    35.990538
+],
   "geometry": {"coordinates":[-78.867312,35.990538],"type":"Point"}
 }

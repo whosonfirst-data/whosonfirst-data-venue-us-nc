@@ -2,13 +2,14 @@
   "id": 370617007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.002615,35.174397,-79.002615,35.174397",
     "geom:latitude":35.174397,
     "geom:longitude":-79.002615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Virgin St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370617007,
-    "wof:lastmodified":1449029183,
+    "wof:lastmodified":1466654094,
     "wof:name":"Maintenance Center",
     "wof:parent_id":85803425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-79.002615,35.174397,-79.002615,35.174397],
-  "geometry": {"coordinates":[-79.002615,35.174397],"type":"Point"}
+  "bbox": [
+    -79.002615,
+    35.174397,
+    -79.002615,
+    35.174397
+],
+  "geometry": {"coordinates":[-79.00261500000001,35.174397],"type":"Point"}
 }

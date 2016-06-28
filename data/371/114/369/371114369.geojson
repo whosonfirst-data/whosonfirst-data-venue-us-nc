@@ -2,13 +2,14 @@
   "id": 371114369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.30286,35.916879,-82.30286,35.916879",
     "geom:latitude":35.916879,
     "geom:longitude":-82.30286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Main St",
     "sg:city":"Burnsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371114369,
-    "wof:lastmodified":1449049464,
+    "wof:lastmodified":1466650250,
     "wof:name":"Preferred Mortgage",
     "wof:parent_id":85835575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-82.30286,35.916879,-82.30286,35.916879],
+  "bbox": [
+    -82.30286,
+    35.916879,
+    -82.30286,
+    35.916879
+],
   "geometry": {"coordinates":[-82.30286,35.916879],"type":"Point"}
 }

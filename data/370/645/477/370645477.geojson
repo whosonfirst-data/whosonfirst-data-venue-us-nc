@@ -2,13 +2,14 @@
   "id": 370645477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.443999,35.613054,-80.443999,35.613054",
     "geom:latitude":35.613054,
     "geom:longitude":-80.443999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 S Salisbury Gq Ave",
     "sg:city":"Granite Quarry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370645477,
-    "wof:lastmodified":1449029427,
+    "wof:lastmodified":1466654469,
     "wof:name":"Granite Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.443999,35.613054,-80.443999,35.613054],
-  "geometry": {"coordinates":[-80.443999,35.613054],"type":"Point"}
+  "bbox": [
+    -80.443999,
+    35.613054,
+    -80.443999,
+    35.613054
+],
+  "geometry": {"coordinates":[-80.44399900000001,35.613054],"type":"Point"}
 }

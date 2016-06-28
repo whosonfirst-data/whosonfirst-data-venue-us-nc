@@ -2,13 +2,14 @@
   "id": 303304573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.324615,36.190537,-80.324615,36.190537",
     "geom:latitude":36.190537,
     "geom:longitude":-80.324615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1841 Buddingbrook Ln NW",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303304573,
-    "wof:lastmodified":1448999939,
+    "wof:lastmodified":1466647735,
     "wof:name":"Vanhoy Appraisal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.324615,36.190537,-80.324615,36.190537],
-  "geometry": {"coordinates":[-80.324615,36.190537],"type":"Point"}
+  "bbox": [
+    -80.324615,
+    36.190537,
+    -80.324615,
+    36.190537
+],
+  "geometry": {"coordinates":[-80.32461499999999,36.190537],"type":"Point"}
 }

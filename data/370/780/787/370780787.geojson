@@ -2,13 +2,14 @@
   "id": 370780787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.663535,35.890288,-78.663535,35.890288",
     "geom:latitude":35.890288,
     "geom:longitude":-78.663535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7809 Mayfaire Crest Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370780787,
-    "wof:lastmodified":1449031628,
+    "wof:lastmodified":1466656024,
     "wof:name":"Roof Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.663535,35.890288,-78.663535,35.890288],
+  "bbox": [
+    -78.663535,
+    35.890288,
+    -78.663535,
+    35.890288
+],
   "geometry": {"coordinates":[-78.663535,35.890288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387507401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.133879,35.266713,-81.133879,35.266713",
     "geom:latitude":35.266713,
     "geom:longitude":-81.133879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Cox Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387507401,
-    "wof:lastmodified":1449058062,
+    "wof:lastmodified":1466656076,
     "wof:name":"Medical Center Pharmacy",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-81.133879,35.266713,-81.133879,35.266713],
-  "geometry": {"coordinates":[-81.133879,35.266713],"type":"Point"}
+  "bbox": [
+    -81.133879,
+    35.266713,
+    -81.133879,
+    35.266713
+],
+  "geometry": {"coordinates":[-81.13387899999999,35.266713],"type":"Point"}
 }

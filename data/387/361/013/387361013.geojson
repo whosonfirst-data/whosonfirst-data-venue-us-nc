@@ -2,13 +2,14 @@
   "id": 387361013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.931912,34.22261,-77.931912,34.22261",
     "geom:latitude":34.22261,
     "geom:longitude":-77.931912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Mears St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387361013,
-    "wof:lastmodified":1449058884,
+    "wof:lastmodified":1466654598,
     "wof:name":"Housing Authority-Wilmington",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-77.931912,34.22261,-77.931912,34.22261],
+  "bbox": [
+    -77.931912,
+    34.22261,
+    -77.931912,
+    34.22261
+],
   "geometry": {"coordinates":[-77.931912,34.22261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269766539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.926901,34.219355,-77.926901,34.219355",
     "geom:latitude":34.219355,
     "geom:longitude":-77.926901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Martin St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269766539,
-    "wof:lastmodified":1449036116,
+    "wof:lastmodified":1466646555,
     "wof:name":"Kelly House",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-77.926901,34.219355,-77.926901,34.219355],
+  "bbox": [
+    -77.926901,
+    34.219355,
+    -77.926901,
+    34.219355
+],
   "geometry": {"coordinates":[-77.926901,34.219355],"type":"Point"}
 }

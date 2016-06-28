@@ -2,13 +2,14 @@
   "id": 371035569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.823732,35.668645,-79.823732,35.668645",
     "geom:latitude":35.668645,
     "geom:longitude":-79.823732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Dot Dr",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371035569,
-    "wof:lastmodified":1449049894,
+    "wof:lastmodified":1466649279,
     "wof:name":"Transportation-Bridge Dept",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-79.823732,35.668645,-79.823732,35.668645],
-  "geometry": {"coordinates":[-79.823732,35.668645],"type":"Point"}
+  "bbox": [
+    -79.823732,
+    35.668645,
+    -79.823732,
+    35.668645
+],
+  "geometry": {"coordinates":[-79.82373200000001,35.668645],"type":"Point"}
 }

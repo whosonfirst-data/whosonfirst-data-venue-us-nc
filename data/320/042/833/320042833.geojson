@@ -2,13 +2,14 @@
   "id": 320042833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.541665,35.711794,-78.541665,35.711794",
     "geom:latitude":35.711794,
     "geom:longitude":-78.541665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6425 Rock Quarry Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320042833,
-    "wof:lastmodified":1449014064,
+    "wof:lastmodified":1466645938,
     "wof:name":"Mc Daniels Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "riding"
     ]
 },
-  "bbox": [-78.541665,35.711794,-78.541665,35.711794],
-  "geometry": {"coordinates":[-78.541665,35.711794],"type":"Point"}
+  "bbox": [
+    -78.541665,
+    35.711794,
+    -78.541665,
+    35.711794
+],
+  "geometry": {"coordinates":[-78.54166499999999,35.711794],"type":"Point"}
 }

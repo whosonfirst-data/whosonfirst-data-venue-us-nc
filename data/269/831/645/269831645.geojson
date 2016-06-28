@@ -2,13 +2,14 @@
   "id": 269831645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.69887,35.818707,-79.69887,35.818707",
     "geom:latitude":35.818707,
     "geom:longitude":-79.69887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4939 State Hwy 22 N",
     "sg:city":"Franklinville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269831645,
-    "wof:lastmodified":1449037552,
+    "wof:lastmodified":1466647295,
     "wof:name":"Alamance Steel Fabricators",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "rails"
     ]
 },
-  "bbox": [-79.69887,35.818707,-79.69887,35.818707],
+  "bbox": [
+    -79.69887,
+    35.818707,
+    -79.69887,
+    35.818707
+],
   "geometry": {"coordinates":[-79.69887,35.818707],"type":"Point"}
 }

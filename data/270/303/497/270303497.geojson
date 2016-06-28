@@ -2,13 +2,14 @@
   "id": 270303497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.640105,34.331314,-78.640105,34.331314",
     "geom:latitude":34.331314,
     "geom:longitude":-78.640105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2689 Sam Potts Hwy",
     "sg:city":"Hallsboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270303497,
-    "wof:lastmodified":1449008683,
+    "wof:lastmodified":1466646921,
     "wof:name":"Anchor Building Specialties",
     "wof:parent_id":85846389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.640105,34.331314,-78.640105,34.331314],
-  "geometry": {"coordinates":[-78.640105,34.331314],"type":"Point"}
+  "bbox": [
+    -78.640105,
+    34.331314,
+    -78.640105,
+    34.331314
+],
+  "geometry": {"coordinates":[-78.64010500000001,34.331314],"type":"Point"}
 }

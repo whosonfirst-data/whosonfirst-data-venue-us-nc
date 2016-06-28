@@ -2,13 +2,14 @@
   "id": 354366295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.033358,35.996728,-80.033358,35.996728",
     "geom:latitude":35.996728,
     "geom:longitude":-80.033358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 N Main St",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354366295,
-    "wof:lastmodified":1449067200,
+    "wof:lastmodified":1466651788,
     "wof:name":"Club Fusion",
     "wof:parent_id":85839063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.033358,35.996728,-80.033358,35.996728],
-  "geometry": {"coordinates":[-80.033358,35.996728],"type":"Point"}
+  "bbox": [
+    -80.033358,
+    35.996728,
+    -80.033358,
+    35.996728
+],
+  "geometry": {"coordinates":[-80.03335800000001,35.996728],"type":"Point"}
 }

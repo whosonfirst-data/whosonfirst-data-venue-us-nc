@@ -2,13 +2,14 @@
   "id": 353789175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.030177,35.934172,-79.030177,35.934172",
     "geom:latitude":35.934172,
     "geom:longitude":-79.030177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 E Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353789175,
-    "wof:lastmodified":1449019410,
+    "wof:lastmodified":1466651646,
     "wof:name":"Blue Capital Group",
     "wof:parent_id":85868007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "business"
     ]
 },
-  "bbox": [-79.030177,35.934172,-79.030177,35.934172],
-  "geometry": {"coordinates":[-79.030177,35.934172],"type":"Point"}
+  "bbox": [
+    -79.030177,
+    35.934172,
+    -79.030177,
+    35.934172
+],
+  "geometry": {"coordinates":[-79.03017699999999,35.934172],"type":"Point"}
 }

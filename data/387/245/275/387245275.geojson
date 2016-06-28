@@ -2,13 +2,14 @@
   "id": 387245275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.416861,35.483268,-77.416861,35.483268",
     "geom:latitude":35.483268,
     "geom:longitude":-77.416861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3933 N Lee St",
     "sg:city":"Ayden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387245275,
-    "wof:lastmodified":1449059793,
+    "wof:lastmodified":1466653097,
     "wof:name":"Phoenix Fabrication",
     "wof:parent_id":85851255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-77.416861,35.483268,-77.416861,35.483268],
+  "bbox": [
+    -77.416861,
+    35.483268,
+    -77.416861,
+    35.483268
+],
   "geometry": {"coordinates":[-77.416861,35.483268],"type":"Point"}
 }

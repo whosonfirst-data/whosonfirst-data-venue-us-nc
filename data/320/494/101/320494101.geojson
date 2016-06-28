@@ -2,13 +2,14 @@
   "id": 320494101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.405292,36.104901,-79.405292,36.104901",
     "geom:latitude":36.104901,
     "geom:longitude":-79.405292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Morningside Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320494101,
-    "wof:lastmodified":1449014550,
+    "wof:lastmodified":1466652278,
     "wof:name":"Woodridge Apartments",
     "wof:parent_id":85838431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.405292,36.104901,-79.405292,36.104901],
+  "bbox": [
+    -79.405292,
+    36.104901,
+    -79.405292,
+    36.104901
+],
   "geometry": {"coordinates":[-79.405292,36.104901],"type":"Point"}
 }

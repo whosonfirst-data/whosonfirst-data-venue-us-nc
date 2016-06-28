@@ -2,13 +2,14 @@
   "id": 219628783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.02858,34.702278,-77.02858,34.702278",
     "geom:latitude":34.702278,
     "geom:longitude":-77.02858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Bogue Loop Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219628783,
-    "wof:lastmodified":1449073252,
+    "wof:lastmodified":1466645798,
     "wof:name":"United Methodist Church",
     "wof:parent_id":85839153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.02858,34.702278,-77.02858,34.702278],
-  "geometry": {"coordinates":[-77.02858,34.702278],"type":"Point"}
+  "bbox": [
+    -77.02858,
+    34.702278,
+    -77.02858,
+    34.702278
+],
+  "geometry": {"coordinates":[-77.02858000000001,34.702278],"type":"Point"}
 }

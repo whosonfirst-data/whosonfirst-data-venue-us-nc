@@ -2,13 +2,14 @@
   "id": 270235401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.220785,35.675299,-81.220785,35.675299",
     "geom:latitude":35.675299,
     "geom:longitude":-81.220785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 N Main Ave",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270235401,
-    "wof:lastmodified":1449009060,
+    "wof:lastmodified":1466646028,
     "wof:name":"Newton Depot Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.220785,35.675299,-81.220785,35.675299],
-  "geometry": {"coordinates":[-81.220785,35.675299],"type":"Point"}
+  "bbox": [
+    -81.220785,
+    35.675299,
+    -81.220785,
+    35.675299
+],
+  "geometry": {"coordinates":[-81.22078500000001,35.675299],"type":"Point"}
 }

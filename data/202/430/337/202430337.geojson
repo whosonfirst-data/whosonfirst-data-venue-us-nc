@@ -2,13 +2,14 @@
   "id": 202430337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.842978,35.410555,-80.842978,35.410555",
     "geom:latitude":35.410555,
     "geom:longitude":-80.842978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S Old Statesville Rd",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202430337,
-    "wof:lastmodified":1449061702,
+    "wof:lastmodified":1466654421,
     "wof:name":"Warren Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-80.842978,35.410555,-80.842978,35.410555],
+  "bbox": [
+    -80.842978,
+    35.410555,
+    -80.842978,
+    35.410555
+],
   "geometry": {"coordinates":[-80.842978,35.410555],"type":"Point"}
 }

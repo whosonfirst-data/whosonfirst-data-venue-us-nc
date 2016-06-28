@@ -2,13 +2,14 @@
   "id": 303286375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.850881,35.090634,-80.850881,35.090634",
     "geom:latitude":35.090634,
     "geom:longitude":-80.850881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7845 Little Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303286375,
-    "wof:lastmodified":1448998750,
+    "wof:lastmodified":1466647482,
     "wof:name":"Hospice Palliative Care",
     "wof:parent_id":85818837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-80.850881,35.090634,-80.850881,35.090634],
+  "bbox": [
+    -80.850881,
+    35.090634,
+    -80.850881,
+    35.090634
+],
   "geometry": {"coordinates":[-80.850881,35.090634],"type":"Point"}
 }

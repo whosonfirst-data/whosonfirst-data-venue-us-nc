@@ -2,13 +2,14 @@
   "id": 354316451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.317462,36.14684,-81.317462,36.14684",
     "geom:latitude":36.14684,
     "geom:longitude":-81.317462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8309 W US Hwy 421",
     "sg:city":"Wilkesboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354316451,
-    "wof:lastmodified":1449067128,
+    "wof:lastmodified":1466651214,
     "wof:name":"Mechanical Refrigeration",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigerating"
     ]
 },
-  "bbox": [-81.317462,36.14684,-81.317462,36.14684],
-  "geometry": {"coordinates":[-81.317462,36.14684],"type":"Point"}
+  "bbox": [
+    -81.317462,
+    36.14684,
+    -81.317462,
+    36.14684
+],
+  "geometry": {"coordinates":[-81.31746200000001,36.14684],"type":"Point"}
 }

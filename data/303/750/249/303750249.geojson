@@ -2,13 +2,14 @@
   "id": 303750249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.916288,35.097442,-78.916288,35.097442",
     "geom:latitude":35.097442,
     "geom:longitude":-78.916288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3585 Murchison Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303750249,
-    "wof:lastmodified":1448999595,
+    "wof:lastmodified":1466654143,
     "wof:name":"Central Park",
     "wof:parent_id":85818301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.916288,35.097442,-78.916288,35.097442],
-  "geometry": {"coordinates":[-78.916288,35.097442],"type":"Point"}
+  "bbox": [
+    -78.916288,
+    35.097442,
+    -78.916288,
+    35.097442
+],
+  "geometry": {"coordinates":[-78.91628799999999,35.097442],"type":"Point"}
 }

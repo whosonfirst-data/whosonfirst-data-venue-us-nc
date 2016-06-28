@@ -2,13 +2,14 @@
   "id": 202912939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.031048,35.562997,-77.031048,35.562997",
     "geom:latitude":35.562997,
     "geom:longitude":-77.031048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Lodge Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202912939,
-    "wof:lastmodified":1449061376,
+    "wof:lastmodified":1466645048,
     "wof:name":"Smallwood Inc",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "subdivides"
     ]
 },
-  "bbox": [-77.031048,35.562997,-77.031048,35.562997],
+  "bbox": [
+    -77.031048,
+    35.562997,
+    -77.031048,
+    35.562997
+],
   "geometry": {"coordinates":[-77.031048,35.562997],"type":"Point"}
 }

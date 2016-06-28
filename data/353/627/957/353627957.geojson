@@ -2,13 +2,14 @@
   "id": 353627957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.445855,35.84005,-78.445855,35.84005",
     "geom:latitude":35.84005,
     "geom:longitude":-78.445855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5644 Quail Covey Ln",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353627957,
-    "wof:lastmodified":1449020866,
+    "wof:lastmodified":1466649757,
     "wof:name":"Joseph T Zuccarini",
     "wof:parent_id":85892201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.445855,35.84005,-78.445855,35.84005],
-  "geometry": {"coordinates":[-78.445855,35.84005],"type":"Point"}
+  "bbox": [
+    -78.445855,
+    35.84005,
+    -78.445855,
+    35.84005
+],
+  "geometry": {"coordinates":[-78.44585499999999,35.84005],"type":"Point"}
 }

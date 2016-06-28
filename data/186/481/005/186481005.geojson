@@ -2,13 +2,14 @@
   "id": 186481005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.470205,35.832341,-77.470205,35.832341",
     "geom:latitude":35.832341,
     "geom:longitude":-77.470205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5304 US Hwy 64 (Alt) E",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186481005,
-    "wof:lastmodified":1449052673,
+    "wof:lastmodified":1466655891,
     "wof:name":"L & M Pressure Washing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.470205,35.832341,-77.470205,35.832341],
-  "geometry": {"coordinates":[-77.470205,35.832341],"type":"Point"}
+  "bbox": [
+    -77.470205,
+    35.832341,
+    -77.470205,
+    35.832341
+],
+  "geometry": {"coordinates":[-77.47020500000001,35.832341],"type":"Point"}
 }

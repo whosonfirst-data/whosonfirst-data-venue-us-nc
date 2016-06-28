@@ -2,13 +2,14 @@
   "id": 303566363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.669626,35.807957,-78.669626,35.807957",
     "geom:latitude":35.807957,
     "geom:longitude":-78.669626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 Canterbury Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303566363,
-    "wof:lastmodified":1448998170,
+    "wof:lastmodified":1466651472,
     "wof:name":"Hartzog Dr H",
     "wof:parent_id":85808353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.669626,35.807957,-78.669626,35.807957],
-  "geometry": {"coordinates":[-78.669626,35.807957],"type":"Point"}
+  "bbox": [
+    -78.669626,
+    35.807957,
+    -78.669626,
+    35.807957
+],
+  "geometry": {"coordinates":[-78.66962599999999,35.807957],"type":"Point"}
 }

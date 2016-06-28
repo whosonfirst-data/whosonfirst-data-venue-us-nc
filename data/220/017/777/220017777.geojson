@@ -2,13 +2,14 @@
   "id": 220017777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.94111,35.117625,-80.94111,35.117625",
     "geom:latitude":35.117625,
     "geom:longitude":-80.94111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 Nevada Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220017777,
-    "wof:lastmodified":1449074475,
+    "wof:lastmodified":1466643353,
     "wof:name":"Bulkmatic Transport Company",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.94111,35.117625,-80.94111,35.117625],
-  "geometry": {"coordinates":[-80.94111,35.117625],"type":"Point"}
+  "bbox": [
+    -80.94111,
+    35.117625,
+    -80.94111,
+    35.117625
+],
+  "geometry": {"coordinates":[-80.94110999999999,35.117625],"type":"Point"}
 }

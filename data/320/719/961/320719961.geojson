@@ -2,13 +2,14 @@
   "id": 320719961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.68461,35.801263,-78.68461,35.801263",
     "geom:latitude":35.801263,
     "geom:longitude":-78.68461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3528 Wade Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320719961,
-    "wof:lastmodified":1449011735,
+    "wof:lastmodified":1466655544,
     "wof:name":"Civatech Corp",
     "wof:parent_id":85844573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-78.68461,35.801263,-78.68461,35.801263],
-  "geometry": {"coordinates":[-78.68461,35.801263],"type":"Point"}
+  "bbox": [
+    -78.68461,
+    35.801263,
+    -78.68461,
+    35.801263
+],
+  "geometry": {"coordinates":[-78.68461000000001,35.801263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387318613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.811563,34.325593,-78.811563,34.325593",
     "geom:latitude":34.325593,
     "geom:longitude":-78.811563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6294 Chadbourn Hwy",
     "sg:city":"Chadbourn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387318613,
-    "wof:lastmodified":1449056944,
+    "wof:lastmodified":1466654055,
     "wof:name":"Tire Barn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-78.811563,34.325593,-78.811563,34.325593],
-  "geometry": {"coordinates":[-78.811563,34.325593],"type":"Point"}
+  "bbox": [
+    -78.811563,
+    34.325593,
+    -78.811563,
+    34.325593
+],
+  "geometry": {"coordinates":[-78.81156300000001,34.325593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303825885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.069198,34.656981,-77.069198,34.656981",
     "geom:latitude":34.656981,
     "geom:longitude":-77.069198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Pinewood Pl",
     "sg:city":"Emerald Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303825885,
-    "wof:lastmodified":1448998212,
+    "wof:lastmodified":1466655229,
     "wof:name":"Seneca-Itcom",
     "wof:parent_id":85843465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-77.069198,34.656981,-77.069198,34.656981],
+  "bbox": [
+    -77.069198,
+    34.656981,
+    -77.069198,
+    34.656981
+],
   "geometry": {"coordinates":[-77.069198,34.656981],"type":"Point"}
 }

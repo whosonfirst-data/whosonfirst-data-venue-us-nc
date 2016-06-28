@@ -2,13 +2,14 @@
   "id": 236192583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.453043,34.750714,-77.453043,34.750714",
     "geom:latitude":34.750714,
     "geom:longitude":-77.453043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Wilmington Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236192583,
-    "wof:lastmodified":1449004087,
+    "wof:lastmodified":1466644958,
     "wof:name":"Navy Federal Credit Union",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-77.453043,34.750714,-77.453043,34.750714],
-  "geometry": {"coordinates":[-77.453043,34.750714],"type":"Point"}
+  "bbox": [
+    -77.453043,
+    34.750714,
+    -77.453043,
+    34.750714
+],
+  "geometry": {"coordinates":[-77.45304299999999,34.750714],"type":"Point"}
 }

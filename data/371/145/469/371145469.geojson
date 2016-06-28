@@ -2,13 +2,14 @@
   "id": 371145469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.299213,36.23748,-79.299213,36.23748",
     "geom:latitude":36.23748,
     "geom:longitude":-79.299213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2175 Shady Ln",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371145469,
-    "wof:lastmodified":1449049327,
+    "wof:lastmodified":1466650645,
     "wof:name":"Garretts Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.299213,36.23748,-79.299213,36.23748],
-  "geometry": {"coordinates":[-79.299213,36.23748],"type":"Point"}
+  "bbox": [
+    -79.299213,
+    36.23748,
+    -79.299213,
+    36.23748
+],
+  "geometry": {"coordinates":[-79.29921299999999,36.23748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203095049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.81526,35.896346,-79.81526,35.896346",
     "geom:latitude":35.896346,
     "geom:longitude":-79.81526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Labrador Dr",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203095049,
-    "wof:lastmodified":1449025892,
+    "wof:lastmodified":1466655909,
     "wof:name":"T & S Custom Cabinets",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.81526,35.896346,-79.81526,35.896346],
-  "geometry": {"coordinates":[-79.81526,35.896346],"type":"Point"}
+  "bbox": [
+    -79.81526,
+    35.896346,
+    -79.81526,
+    35.896346
+],
+  "geometry": {"coordinates":[-79.81525999999999,35.896346],"type":"Point"}
 }

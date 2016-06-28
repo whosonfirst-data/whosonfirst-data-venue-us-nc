@@ -2,13 +2,14 @@
   "id": 320173999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.207505,34.766465,-78.207505,34.766465",
     "geom:latitude":34.766465,
     "geom:longitude":-78.207505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2380 Delway Hwy",
     "sg:city":"Rose Hill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320173999,
-    "wof:lastmodified":1449011983,
+    "wof:lastmodified":1466647729,
     "wof:name":"Wests Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-78.207505,34.766465,-78.207505,34.766465],
+  "bbox": [
+    -78.207505,
+    34.766465,
+    -78.207505,
+    34.766465
+],
   "geometry": {"coordinates":[-78.207505,34.766465],"type":"Point"}
 }

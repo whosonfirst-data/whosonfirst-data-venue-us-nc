@@ -2,13 +2,14 @@
   "id": 303129931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.875374,34.162205,-77.875374,34.162205",
     "geom:latitude":34.162205,
     "geom:longitude":-77.875374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 Crown Point Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303129931,
-    "wof:lastmodified":1449000097,
+    "wof:lastmodified":1466645161,
     "wof:name":"Zoron Manufacturing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-77.875374,34.162205,-77.875374,34.162205],
-  "geometry": {"coordinates":[-77.875374,34.162205],"type":"Point"}
+  "bbox": [
+    -77.875374,
+    34.162205,
+    -77.875374,
+    34.162205
+],
+  "geometry": {"coordinates":[-77.87537399999999,34.162205],"type":"Point"}
 }

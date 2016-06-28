@@ -2,13 +2,14 @@
   "id": 186641647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.884355,35.096814,-80.884355,35.096814",
     "geom:latitude":35.096814,
     "geom:longitude":-80.884355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10600 Cadillac St",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186641647,
-    "wof:lastmodified":1449052367,
+    "wof:lastmodified":1466655073,
     "wof:name":"Coastal Carolina Pumping",
     "wof:parent_id":85851011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pumping"
     ]
 },
-  "bbox": [-80.884355,35.096814,-80.884355,35.096814],
+  "bbox": [
+    -80.884355,
+    35.096814,
+    -80.884355,
+    35.096814
+],
   "geometry": {"coordinates":[-80.884355,35.096814],"type":"Point"}
 }

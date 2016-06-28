@@ -2,13 +2,14 @@
   "id": 320582443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.791761,36.069393,-79.791761,36.069393",
     "geom:latitude":36.069393,
     "geom:longitude":-79.791761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Greene St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320582443,
-    "wof:lastmodified":1449013271,
+    "wof:lastmodified":1466653576,
     "wof:name":"Financial Network Investment",
     "wof:parent_id":85877967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-79.791761,36.069393,-79.791761,36.069393],
-  "geometry": {"coordinates":[-79.791761,36.069393],"type":"Point"}
+  "bbox": [
+    -79.791761,
+    36.069393,
+    -79.791761,
+    36.069393
+],
+  "geometry": {"coordinates":[-79.79176099999999,36.069393],"type":"Point"}
 }

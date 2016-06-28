@@ -2,13 +2,14 @@
   "id": 252902083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.300985,36.09911,-78.300985,36.09911",
     "geom:latitude":36.09911,
     "geom:longitude":-78.300985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Main St",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252902083,
-    "wof:lastmodified":1449006210,
+    "wof:lastmodified":1466644968,
     "wof:name":"District Attorney's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.300985,36.09911,-78.300985,36.09911],
+  "bbox": [
+    -78.300985,
+    36.09911,
+    -78.300985,
+    36.09911
+],
   "geometry": {"coordinates":[-78.300985,36.09911],"type":"Point"}
 }

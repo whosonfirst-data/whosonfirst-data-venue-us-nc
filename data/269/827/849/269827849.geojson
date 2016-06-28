@@ -2,13 +2,14 @@
   "id": 269827849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.006391,35.648029,-78.006391,35.648029",
     "geom:latitude":35.648029,
     "geom:longitude":-78.006391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 US Hwy 301",
     "sg:city":"Lucama",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269827849,
-    "wof:lastmodified":1449036993,
+    "wof:lastmodified":1466647254,
     "wof:name":"Dave's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.006391,35.648029,-78.006391,35.648029],
-  "geometry": {"coordinates":[-78.006391,35.648029],"type":"Point"}
+  "bbox": [
+    -78.006391,
+    35.648029,
+    -78.006391,
+    35.648029
+],
+  "geometry": {"coordinates":[-78.00639099999999,35.648029],"type":"Point"}
 }

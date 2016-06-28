@@ -2,13 +2,14 @@
   "id": 202908407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.386516,35.603874,-77.386516,35.603874",
     "geom:latitude":35.603874,
     "geom:longitude":-77.386516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Dickinson Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202908407,
-    "wof:lastmodified":1449061542,
+    "wof:lastmodified":1466645011,
     "wof:name":"U S Recovery & Transport",
     "wof:parent_id":85853845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repossessing"
     ]
 },
-  "bbox": [-77.386516,35.603874,-77.386516,35.603874],
+  "bbox": [
+    -77.386516,
+    35.603874,
+    -77.386516,
+    35.603874
+],
   "geometry": {"coordinates":[-77.386516,35.603874],"type":"Point"}
 }

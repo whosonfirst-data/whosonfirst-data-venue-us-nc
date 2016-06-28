@@ -2,13 +2,14 @@
   "id": 354224769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.686337,35.270151,-80.686337,35.270151",
     "geom:latitude":35.270151,
     "geom:longitude":-80.686337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9107 Crosstimbers Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354224769,
-    "wof:lastmodified":1449067206,
+    "wof:lastmodified":1466650161,
     "wof:name":"Steward",
     "wof:parent_id":85857395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.686337,35.270151,-80.686337,35.270151],
-  "geometry": {"coordinates":[-80.686337,35.270151],"type":"Point"}
+  "bbox": [
+    -80.686337,
+    35.270151,
+    -80.686337,
+    35.270151
+],
+  "geometry": {"coordinates":[-80.68633699999999,35.270151],"type":"Point"}
 }

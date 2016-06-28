@@ -2,13 +2,14 @@
   "id": 370868955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.594506,35.62415,-82.594506,35.62415",
     "geom:latitude":35.62415,
     "geom:longitude":-82.594506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1475 Riverside Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370868955,
-    "wof:lastmodified":1449029226,
+    "wof:lastmodified":1466656676,
     "wof:name":"Meadows Transmission",
     "wof:parent_id":85817793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-82.594506,35.62415,-82.594506,35.62415],
+  "bbox": [
+    -82.594506,
+    35.62415,
+    -82.594506,
+    35.62415
+],
   "geometry": {"coordinates":[-82.594506,35.62415],"type":"Point"}
 }

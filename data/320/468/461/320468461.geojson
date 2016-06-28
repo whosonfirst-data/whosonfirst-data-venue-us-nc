@@ -2,13 +2,14 @@
   "id": 320468461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.590674,35.633981,-82.590674,35.633981",
     "geom:latitude":35.633981,
     "geom:longitude":-82.590674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Elk Mountain Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320468461,
-    "wof:lastmodified":1449013941,
+    "wof:lastmodified":1466651902,
     "wof:name":"Bolton Construction & Svc",
     "wof:parent_id":85817793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.590674,35.633981,-82.590674,35.633981],
-  "geometry": {"coordinates":[-82.590674,35.633981],"type":"Point"}
+  "bbox": [
+    -82.590674,
+    35.633981,
+    -82.590674,
+    35.633981
+],
+  "geometry": {"coordinates":[-82.59067400000001,35.633981],"type":"Point"}
 }

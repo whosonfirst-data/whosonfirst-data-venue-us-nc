@@ -2,13 +2,14 @@
   "id": 336683033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.433811,36.09548,-79.433811,36.09548",
     "geom:latitude":36.09548,
     "geom:longitude":-79.433811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 N Main St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336683033,
-    "wof:lastmodified":1448997333,
+    "wof:lastmodified":1466647120,
     "wof:name":"Matthews Tree Svc",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-79.433811,36.09548,-79.433811,36.09548],
-  "geometry": {"coordinates":[-79.433811,36.09548],"type":"Point"}
+  "bbox": [
+    -79.433811,
+    36.09548,
+    -79.433811,
+    36.09548
+],
+  "geometry": {"coordinates":[-79.43381100000001,36.09548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320219963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.225257,35.471986,-79.225257,35.471986",
     "geom:latitude":35.471986,
     "geom:longitude":-79.225257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3516 Wicker St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320219963,
-    "wof:lastmodified":1449014806,
+    "wof:lastmodified":1466648368,
     "wof:name":"Dan Cape Auctioneer",
     "wof:parent_id":85855799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-79.225257,35.471986,-79.225257,35.471986],
+  "bbox": [
+    -79.225257,
+    35.471986,
+    -79.225257,
+    35.471986
+],
   "geometry": {"coordinates":[-79.225257,35.471986],"type":"Point"}
 }

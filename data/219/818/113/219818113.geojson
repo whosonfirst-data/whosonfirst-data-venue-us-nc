@@ -2,13 +2,14 @@
   "id": 219818113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.915652,35.026179,-78.915652,35.026179",
     "geom:latitude":35.026179,
     "geom:longitude":-78.915652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 Eldorado Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219818113,
-    "wof:lastmodified":1449072109,
+    "wof:lastmodified":1466647332,
     "wof:name":"Rising Star Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.915652,35.026179,-78.915652,35.026179],
-  "geometry": {"coordinates":[-78.915652,35.026179],"type":"Point"}
+  "bbox": [
+    -78.915652,
+    35.026179,
+    -78.915652,
+    35.026179
+],
+  "geometry": {"coordinates":[-78.91565199999999,35.026179],"type":"Point"}
 }

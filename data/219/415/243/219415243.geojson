@@ -2,13 +2,14 @@
   "id": 219415243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.556549,35.250324,-78.556549,35.250324",
     "geom:latitude":35.250324,
     "geom:longitude":-78.556549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5515 Plain View Hwy",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219415243,
-    "wof:lastmodified":1449072943,
+    "wof:lastmodified":1466644242,
     "wof:name":"Plain View Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.556549,35.250324,-78.556549,35.250324],
+  "bbox": [
+    -78.556549,
+    35.250324,
+    -78.556549,
+    35.250324
+],
   "geometry": {"coordinates":[-78.556549,35.250324],"type":"Point"}
 }

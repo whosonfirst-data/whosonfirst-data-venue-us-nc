@@ -2,13 +2,14 @@
   "id": 219447691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.139156,35.351056,-81.139156,35.351056",
     "geom:latitude":35.351056,
     "geom:longitude":-81.139156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Hogan Rd",
     "sg:city":"Harris",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219447691,
-    "wof:lastmodified":1449072877,
+    "wof:lastmodified":1466644489,
     "wof:name":"Harris First Baptist Church",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.139156,35.351056,-81.139156,35.351056],
+  "bbox": [
+    -81.139156,
+    35.351056,
+    -81.139156,
+    35.351056
+],
   "geometry": {"coordinates":[-81.139156,35.351056],"type":"Point"}
 }

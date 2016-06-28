@@ -2,13 +2,14 @@
   "id": 270356857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.180586,36.142648,-81.180586,36.142648",
     "geom:latitude":36.142648,
     "geom:longitude":-81.180586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Golden Needles St",
     "sg:city":"Wilkesboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270356857,
-    "wof:lastmodified":1449010631,
+    "wof:lastmodified":1466647596,
     "wof:name":"Inet Technologies",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.180586,36.142648,-81.180586,36.142648],
-  "geometry": {"coordinates":[-81.180586,36.142648],"type":"Point"}
+  "bbox": [
+    -81.180586,
+    36.142648,
+    -81.180586,
+    36.142648
+],
+  "geometry": {"coordinates":[-81.18058600000001,36.142648],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303168099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.295003,36.08218,-80.295003,36.08218",
     "geom:latitude":36.08218,
     "geom:longitude":-80.295003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Bethesda Pl",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303168099,
-    "wof:lastmodified":1448999397,
+    "wof:lastmodified":1466645729,
     "wof:name":"George Boose Jr CPA",
     "wof:parent_id":85881847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-80.295003,36.08218,-80.295003,36.08218],
-  "geometry": {"coordinates":[-80.295003,36.08218],"type":"Point"}
+  "bbox": [
+    -80.295003,
+    36.08218,
+    -80.295003,
+    36.08218
+],
+  "geometry": {"coordinates":[-80.29500299999999,36.08218],"type":"Point"}
 }

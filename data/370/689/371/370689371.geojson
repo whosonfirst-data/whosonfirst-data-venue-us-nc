@@ -2,13 +2,14 @@
   "id": 370689371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.449999,34.790306,-79.449999,34.790306",
     "geom:latitude":34.790306,
     "geom:longitude":-79.449999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 N Main St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370689371,
-    "wof:lastmodified":1449031901,
+    "wof:lastmodified":1466655070,
     "wof:name":"Sharons Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.449999,34.790306,-79.449999,34.790306],
-  "geometry": {"coordinates":[-79.449999,34.790306],"type":"Point"}
+  "bbox": [
+    -79.449999,
+    34.790306,
+    -79.449999,
+    34.790306
+],
+  "geometry": {"coordinates":[-79.44999900000001,34.790306],"type":"Point"}
 }

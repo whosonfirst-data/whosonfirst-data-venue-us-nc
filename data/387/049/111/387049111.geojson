@@ -2,13 +2,14 @@
   "id": 387049111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.641224,35.719458,-80.641224,35.719458",
     "geom:latitude":35.719458,
     "geom:longitude":-80.641224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Barber Junction Rd",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387049111,
-    "wof:lastmodified":1449057995,
+    "wof:lastmodified":1466650502,
     "wof:name":"BFI Waste Services LLC",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.641224,35.719458,-80.641224,35.719458],
-  "geometry": {"coordinates":[-80.641224,35.719458],"type":"Point"}
+  "bbox": [
+    -80.641224,
+    35.719458,
+    -80.641224,
+    35.719458
+],
+  "geometry": {"coordinates":[-80.64122399999999,35.719458],"type":"Point"}
 }

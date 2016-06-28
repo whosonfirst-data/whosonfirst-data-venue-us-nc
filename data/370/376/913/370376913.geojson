@@ -2,13 +2,14 @@
   "id": 370376913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.222861,35.259285,-81.222861,35.259285",
     "geom:latitude":35.259285,
     "geom:longitude":-81.222861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 W Franklin Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370376913,
-    "wof:lastmodified":1449030257,
+    "wof:lastmodified":1466650968,
     "wof:name":"Steve Mason Enterprises Inc",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grading"
     ]
 },
-  "bbox": [-81.222861,35.259285,-81.222861,35.259285],
-  "geometry": {"coordinates":[-81.222861,35.259285],"type":"Point"}
+  "bbox": [
+    -81.222861,
+    35.259285,
+    -81.222861,
+    35.259285
+],
+  "geometry": {"coordinates":[-81.22286099999999,35.259285],"type":"Point"}
 }

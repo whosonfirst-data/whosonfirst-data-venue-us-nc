@@ -2,13 +2,14 @@
   "id": 354332931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.794604,34.735743,-76.794604,34.735743",
     "geom:latitude":34.735743,
     "geom:longitude":-76.794604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 US Hwy 70",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354332931,
-    "wof:lastmodified":1449066898,
+    "wof:lastmodified":1466651405,
     "wof:name":"Hunter Bells Drive Inn",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.794604,34.735743,-76.794604,34.735743],
-  "geometry": {"coordinates":[-76.794604,34.735743],"type":"Point"}
+  "bbox": [
+    -76.794604,
+    34.735743,
+    -76.794604,
+    34.735743
+],
+  "geometry": {"coordinates":[-76.79460400000001,34.735743],"type":"Point"}
 }

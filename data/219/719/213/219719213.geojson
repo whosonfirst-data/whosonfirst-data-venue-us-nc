@@ -2,13 +2,14 @@
   "id": 219719213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.493829,34.744067,-77.493829,34.744067",
     "geom:latitude":34.744067,
     "geom:longitude":-77.493829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Sabrina Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219719213,
-    "wof:lastmodified":1449070847,
+    "wof:lastmodified":1466646503,
     "wof:name":"Hour Time Square",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repair"
     ]
 },
-  "bbox": [-77.493829,34.744067,-77.493829,34.744067],
-  "geometry": {"coordinates":[-77.493829,34.744067],"type":"Point"}
+  "bbox": [
+    -77.493829,
+    34.744067,
+    -77.493829,
+    34.744067
+],
+  "geometry": {"coordinates":[-77.49382900000001,34.744067],"type":"Point"}
 }

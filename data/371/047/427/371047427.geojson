@@ -2,13 +2,14 @@
   "id": 371047427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.041399,35.107008,-77.041399,35.107008",
     "geom:latitude":35.107008,
     "geom:longitude":-77.041399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Pollock St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371047427,
-    "wof:lastmodified":1449049730,
+    "wof:lastmodified":1466649421,
     "wof:name":"Ward & Davis",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-77.041399,35.107008,-77.041399,35.107008],
+  "bbox": [
+    -77.041399,
+    35.107008,
+    -77.041399,
+    35.107008
+],
   "geometry": {"coordinates":[-77.041399,35.107008],"type":"Point"}
 }

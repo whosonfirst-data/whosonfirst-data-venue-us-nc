@@ -2,13 +2,14 @@
   "id": 202397763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.461207,36.109085,-79.461207,36.109085",
     "geom:latitude":36.109085,
     "geom:longitude":-79.461207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 N Park Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202397763,
-    "wof:lastmodified":1449061131,
+    "wof:lastmodified":1466654211,
     "wof:name":"Park Avenue Finishing Corp",
     "wof:parent_id":85810235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "finishing"
     ]
 },
-  "bbox": [-79.461207,36.109085,-79.461207,36.109085],
+  "bbox": [
+    -79.461207,
+    36.109085,
+    -79.461207,
+    36.109085
+],
   "geometry": {"coordinates":[-79.461207,36.109085],"type":"Point"}
 }

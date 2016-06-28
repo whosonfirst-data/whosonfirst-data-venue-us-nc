@@ -2,13 +2,14 @@
   "id": 236755409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.120851,36.506664,-81.120851,36.506664",
     "geom:latitude":36.506664,
     "geom:longitude":-81.120851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Alleghany St",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236755409,
-    "wof:lastmodified":1449002400,
+    "wof:lastmodified":1466650013,
     "wof:name":"Sparta Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.120851,36.506664,-81.120851,36.506664],
+  "bbox": [
+    -81.120851,
+    36.506664,
+    -81.120851,
+    36.506664
+],
   "geometry": {"coordinates":[-81.120851,36.506664],"type":"Point"}
 }

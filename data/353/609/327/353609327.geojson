@@ -2,13 +2,14 @@
   "id": 353609327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.014536,34.703257,-77.014536,34.703257",
     "geom:latitude":34.703257,
     "geom:longitude":-77.014536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 B J Taylor Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353609327,
-    "wof:lastmodified":1449019211,
+    "wof:lastmodified":1466649539,
     "wof:name":"Starnes Tree Svc",
     "wof:parent_id":85839153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-77.014536,34.703257,-77.014536,34.703257],
-  "geometry": {"coordinates":[-77.014536,34.703257],"type":"Point"}
+  "bbox": [
+    -77.014536,
+    34.703257,
+    -77.014536,
+    34.703257
+],
+  "geometry": {"coordinates":[-77.01453600000001,34.703257],"type":"Point"}
 }

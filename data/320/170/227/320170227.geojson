@@ -2,13 +2,14 @@
   "id": 320170227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.587752,35.907616,-78.587752,35.907616",
     "geom:latitude":35.907616,
     "geom:longitude":-78.587752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Falls River Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320170227,
-    "wof:lastmodified":1449011586,
+    "wof:lastmodified":1466647682,
     "wof:name":"Nationwide Money",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-78.587752,35.907616,-78.587752,35.907616],
-  "geometry": {"coordinates":[-78.587752,35.907616],"type":"Point"}
+  "bbox": [
+    -78.587752,
+    35.907616,
+    -78.587752,
+    35.907616
+],
+  "geometry": {"coordinates":[-78.58775199999999,35.907616],"type":"Point"}
 }

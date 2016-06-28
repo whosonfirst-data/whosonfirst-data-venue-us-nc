@@ -2,13 +2,14 @@
   "id": 303566663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.847521,34.241954,-77.847521,34.241954",
     "geom:latitude":34.241954,
     "geom:longitude":-77.847521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Long Leaf Acres Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303566663,
-    "wof:lastmodified":1448998169,
+    "wof:lastmodified":1466651475,
     "wof:name":"Swiss Stainless Products",
     "wof:parent_id":85809845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.847521,34.241954,-77.847521,34.241954],
+  "bbox": [
+    -77.847521,
+    34.241954,
+    -77.847521,
+    34.241954
+],
   "geometry": {"coordinates":[-77.847521,34.241954],"type":"Point"}
 }

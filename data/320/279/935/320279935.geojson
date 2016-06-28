@@ -2,13 +2,14 @@
   "id": 320279935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.02325,34.825052,-78.02325,34.825052",
     "geom:latitude":34.825052,
     "geom:longitude":-78.02325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 E Church St",
     "sg:city":"Rose Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320279935,
-    "wof:lastmodified":1449012971,
+    "wof:lastmodified":1466649203,
     "wof:name":"Rose Hill United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.02325,34.825052,-78.02325,34.825052],
+  "bbox": [
+    -78.02325,
+    34.825052,
+    -78.02325,
+    34.825052
+],
   "geometry": {"coordinates":[-78.02325,34.825052],"type":"Point"}
 }

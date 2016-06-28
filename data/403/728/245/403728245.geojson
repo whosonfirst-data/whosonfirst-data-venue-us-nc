@@ -2,13 +2,14 @@
   "id": 403728245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.846214,34.256155,-77.846214,34.256155",
     "geom:latitude":34.256155,
     "geom:longitude":-77.846214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 N Green Meadows Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403728245,
-    "wof:lastmodified":1449054953,
+    "wof:lastmodified":1466650661,
     "wof:name":"Lighthouse Marine Supply Inc",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.846214,34.256155,-77.846214,34.256155],
+  "bbox": [
+    -77.846214,
+    34.256155,
+    -77.846214,
+    34.256155
+],
   "geometry": {"coordinates":[-77.846214,34.256155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270009395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.27004,35.394402,-79.27004,35.394402",
     "geom:latitude":35.394402,
     "geom:longitude":-79.27004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7806 Villanow Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270009395,
-    "wof:lastmodified":1449011089,
+    "wof:lastmodified":1466643319,
     "wof:name":"ARC Corp",
     "wof:parent_id":85852511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-79.27004,35.394402,-79.27004,35.394402],
-  "geometry": {"coordinates":[-79.27004,35.394402],"type":"Point"}
+  "bbox": [
+    -79.27004,
+    35.394402,
+    -79.27004,
+    35.394402
+],
+  "geometry": {"coordinates":[-79.27003999999999,35.394402],"type":"Point"}
 }

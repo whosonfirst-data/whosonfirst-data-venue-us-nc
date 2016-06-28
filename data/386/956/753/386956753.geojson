@@ -2,13 +2,14 @@
   "id": 386956753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.61665,35.744347,-81.61665,35.744347",
     "geom:latitude":35.744347,
     "geom:longitude":-81.61665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2755 US Hwy 70 E",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386956753,
-    "wof:lastmodified":1449028665,
+    "wof:lastmodified":1466649750,
     "wof:name":"Ramsey's Service Ctr & Detail",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-81.61665,35.744347,-81.61665,35.744347],
-  "geometry": {"coordinates":[-81.61665,35.744347],"type":"Point"}
+  "bbox": [
+    -81.61665,
+    35.744347,
+    -81.61665,
+    35.744347
+],
+  "geometry": {"coordinates":[-81.61665000000001,35.744347],"type":"Point"}
 }

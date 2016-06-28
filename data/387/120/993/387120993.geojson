@@ -2,13 +2,14 @@
   "id": 387120993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.925092,34.196651,-77.925092,34.196651",
     "geom:latitude":34.196651,
     "geom:longitude":-77.925092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1362 Harbour Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387120993,
-    "wof:lastmodified":1449059379,
+    "wof:lastmodified":1466651423,
     "wof:name":"Swan Masonry",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.925092,34.196651,-77.925092,34.196651],
-  "geometry": {"coordinates":[-77.925092,34.196651],"type":"Point"}
+  "bbox": [
+    -77.925092,
+    34.196651,
+    -77.925092,
+    34.196651
+],
+  "geometry": {"coordinates":[-77.92509200000001,34.196651],"type":"Point"}
 }

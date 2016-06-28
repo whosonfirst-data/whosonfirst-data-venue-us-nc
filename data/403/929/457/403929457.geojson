@@ -2,13 +2,14 @@
   "id": 403929457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.586672,35.380959,-80.586672,35.380959",
     "geom:latitude":35.380959,
     "geom:longitude":-80.586672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 Webb Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403929457,
-    "wof:lastmodified":1449055138,
+    "wof:lastmodified":1466653282,
     "wof:name":"Piedmont Asphalt Paving Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.586672,35.380959,-80.586672,35.380959],
-  "geometry": {"coordinates":[-80.586672,35.380959],"type":"Point"}
+  "bbox": [
+    -80.586672,
+    35.380959,
+    -80.586672,
+    35.380959
+],
+  "geometry": {"coordinates":[-80.58667199999999,35.380959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387229243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.86895,35.782687,-78.86895,35.782687",
     "geom:latitude":35.782687,
     "geom:longitude":-78.86895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Parkknoll Ln",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387229243,
-    "wof:lastmodified":1449059146,
+    "wof:lastmodified":1466652895,
     "wof:name":"Carolina Surgical",
     "wof:parent_id":85857127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.86895,35.782687,-78.86895,35.782687],
+  "bbox": [
+    -78.86895,
+    35.782687,
+    -78.86895,
+    35.782687
+],
   "geometry": {"coordinates":[-78.86895,35.782687],"type":"Point"}
 }

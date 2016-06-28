@@ -2,13 +2,14 @@
   "id": 370232323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.152955,34.682267,-77.152955,34.682267",
     "geom:latitude":34.682267,
     "geom:longitude":-77.152955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Clam Digger Ct",
     "sg:city":"Swansboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370232323,
-    "wof:lastmodified":1449030190,
+    "wof:lastmodified":1466649185,
     "wof:name":"J & B Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.152955,34.682267,-77.152955,34.682267],
-  "geometry": {"coordinates":[-77.152955,34.682267],"type":"Point"}
+  "bbox": [
+    -77.152955,
+    34.682267,
+    -77.152955,
+    34.682267
+],
+  "geometry": {"coordinates":[-77.15295500000001,34.682267],"type":"Point"}
 }

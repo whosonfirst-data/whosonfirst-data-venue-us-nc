@@ -2,13 +2,14 @@
   "id": 320801561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.983747,35.160631,-78.983747,35.160631",
     "geom:latitude":35.160631,
     "geom:longitude":-78.983747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Holland St",
     "sg:city":"Fort Bragg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320801561,
-    "wof:lastmodified":1449014311,
+    "wof:lastmodified":1466656512,
     "wof:name":"Autn Test Account",
     "wof:parent_id":85804723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-78.983747,35.160631,-78.983747,35.160631],
-  "geometry": {"coordinates":[-78.983747,35.160631],"type":"Point"}
+  "bbox": [
+    -78.983747,
+    35.160631,
+    -78.983747,
+    35.160631
+],
+  "geometry": {"coordinates":[-78.98374699999999,35.160631],"type":"Point"}
 }

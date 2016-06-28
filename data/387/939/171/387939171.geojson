@@ -2,13 +2,14 @@
   "id": 387939171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93998,35.970891,-79.93998,35.970891",
     "geom:latitude":35.970891,
     "geom:longitude":-79.93998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 New Hampshire Dr",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387939171,
-    "wof:lastmodified":1449057218,
+    "wof:lastmodified":1466658030,
     "wof:name":"Carolina Lawns & Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-79.93998,35.970891,-79.93998,35.970891],
-  "geometry": {"coordinates":[-79.93998,35.970891],"type":"Point"}
+  "bbox": [
+    -79.93998,
+    35.970891,
+    -79.93998,
+    35.970891
+],
+  "geometry": {"coordinates":[-79.93998000000001,35.970891],"type":"Point"}
 }

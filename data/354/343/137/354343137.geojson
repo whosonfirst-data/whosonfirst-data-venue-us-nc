@@ -2,13 +2,14 @@
   "id": 354343137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.80972,35.789205,-78.80972,35.789205",
     "geom:latitude":35.789205,
     "geom:longitude":-78.80972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 NW Maynard Rd",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354343137,
-    "wof:lastmodified":1449067170,
+    "wof:lastmodified":1466651531,
     "wof:name":"ABS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.80972,35.789205,-78.80972,35.789205],
+  "bbox": [
+    -78.80972,
+    35.789205,
+    -78.80972,
+    35.789205
+],
   "geometry": {"coordinates":[-78.80972,35.789205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253618915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.799287,35.415872,-78.799287,35.415872",
     "geom:latitude":35.415872,
     "geom:longitude":-78.799287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Cornelius Harnett Blvd",
     "sg:city":"Lillington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253618915,
-    "wof:lastmodified":1449064656,
+    "wof:lastmodified":1466649789,
     "wof:name":"Harnett County Court Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-78.799287,35.415872,-78.799287,35.415872],
-  "geometry": {"coordinates":[-78.799287,35.415872],"type":"Point"}
+  "bbox": [
+    -78.799287,
+    35.415872,
+    -78.799287,
+    35.415872
+],
+  "geometry": {"coordinates":[-78.79928700000001,35.415872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253706651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.898313,34.044726,-77.898313,34.044726",
     "geom:latitude":34.044726,
     "geom:longitude":-77.898313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 N Lake Park Blvd",
     "sg:city":"Carolina Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253706651,
-    "wof:lastmodified":1449063031,
+    "wof:lastmodified":1466650821,
     "wof:name":"Town Of Carolina Beach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "town"
     ]
 },
-  "bbox": [-77.898313,34.044726,-77.898313,34.044726],
+  "bbox": [
+    -77.898313,
+    34.044726,
+    -77.898313,
+    34.044726
+],
   "geometry": {"coordinates":[-77.898313,34.044726],"type":"Point"}
 }

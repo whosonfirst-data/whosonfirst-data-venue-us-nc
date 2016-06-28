@@ -2,13 +2,14 @@
   "id": 319851105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.015217,35.956179,-79.015217,35.956179",
     "geom:latitude":35.956179,
     "geom:longitude":-79.015217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Chippoaks Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319851105,
-    "wof:lastmodified":1449024592,
+    "wof:lastmodified":1466645323,
     "wof:name":"Beechwood Builders Inc",
     "wof:parent_id":85817095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.015217,35.956179,-79.015217,35.956179],
-  "geometry": {"coordinates":[-79.015217,35.956179],"type":"Point"}
+  "bbox": [
+    -79.015217,
+    35.956179,
+    -79.015217,
+    35.956179
+],
+  "geometry": {"coordinates":[-79.01521700000001,35.956179],"type":"Point"}
 }

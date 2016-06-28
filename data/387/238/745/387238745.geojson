@@ -2,13 +2,14 @@
   "id": 387238745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949582,35.708172,-77.949582,35.708172",
     "geom:latitude":35.708172,
     "geom:longitude":-77.949582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3007 Downing St SW",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387238745,
-    "wof:lastmodified":1449057532,
+    "wof:lastmodified":1466653014,
     "wof:name":"Bill Ellis Convention Ctr",
     "wof:parent_id":85843375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-77.949582,35.708172,-77.949582,35.708172],
-  "geometry": {"coordinates":[-77.949582,35.708172],"type":"Point"}
+  "bbox": [
+    -77.949582,
+    35.708172,
+    -77.949582,
+    35.708172
+],
+  "geometry": {"coordinates":[-77.94958200000001,35.708172],"type":"Point"}
 }

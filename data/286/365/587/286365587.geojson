@@ -2,13 +2,14 @@
   "id": 286365587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.315762,34.745993,-77.315762,34.745993",
     "geom:latitude":34.745993,
     "geom:longitude":-77.315762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1287 Rocky Run Rd",
     "sg:city":"Midway Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286365587,
-    "wof:lastmodified":1449015640,
+    "wof:lastmodified":1466644587,
     "wof:name":"Rocky Run Mini Storage",
     "wof:parent_id":85834913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-77.315762,34.745993,-77.315762,34.745993],
-  "geometry": {"coordinates":[-77.315762,34.745993],"type":"Point"}
+  "bbox": [
+    -77.315762,
+    34.745993,
+    -77.315762,
+    34.745993
+],
+  "geometry": {"coordinates":[-77.31576200000001,34.745993],"type":"Point"}
 }

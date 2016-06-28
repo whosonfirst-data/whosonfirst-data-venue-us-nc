@@ -2,13 +2,14 @@
   "id": 202696963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.829086,35.21239,-80.829086,35.21239",
     "geom:latitude":35.21239,
     "geom:longitude":-80.829086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 E 3rd St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202696963,
-    "wof:lastmodified":1449060301,
+    "wof:lastmodified":1466643404,
     "wof:name":"Center For Attention",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.829086,35.21239,-80.829086,35.21239],
+  "bbox": [
+    -80.829086,
+    35.21239,
+    -80.829086,
+    35.21239
+],
   "geometry": {"coordinates":[-80.829086,35.21239],"type":"Point"}
 }

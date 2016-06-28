@@ -2,13 +2,14 @@
   "id": 387244461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.257934,35.279929,-80.257934,35.279929",
     "geom:latitude":35.279929,
     "geom:longitude":-80.257934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17266 Saint Martin Rd",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387244461,
-    "wof:lastmodified":1449057622,
+    "wof:lastmodified":1466653086,
     "wof:name":"Vince Gollehon Trucking",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.257934,35.279929,-80.257934,35.279929],
-  "geometry": {"coordinates":[-80.257934,35.279929],"type":"Point"}
+  "bbox": [
+    -80.257934,
+    35.279929,
+    -80.257934,
+    35.279929
+],
+  "geometry": {"coordinates":[-80.25793400000001,35.279929],"type":"Point"}
 }

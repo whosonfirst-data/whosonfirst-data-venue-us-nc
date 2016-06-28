@@ -2,13 +2,14 @@
   "id": 387615899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.490727,35.798189,-78.490727,35.798189",
     "geom:latitude":35.798189,
     "geom:longitude":-78.490727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7110 US Hwy 64 E",
     "sg:city":"Knightdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387615899,
-    "wof:lastmodified":1449057302,
+    "wof:lastmodified":1466656803,
     "wof:name":"El Cerro Mexican Restaurante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.490727,35.798189,-78.490727,35.798189],
-  "geometry": {"coordinates":[-78.490727,35.798189],"type":"Point"}
+  "bbox": [
+    -78.490727,
+    35.798189,
+    -78.490727,
+    35.798189
+],
+  "geometry": {"coordinates":[-78.49072700000001,35.798189],"type":"Point"}
 }

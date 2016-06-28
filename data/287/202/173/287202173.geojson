@@ -2,13 +2,14 @@
   "id": 287202173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.814078,35.473248,-76.814078,35.473248",
     "geom:latitude":35.473248,
     "geom:longitude":-76.814078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Main St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287202173,
-    "wof:lastmodified":1449001457,
+    "wof:lastmodified":1466646115,
     "wof:name":"Bath Methodist Church",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-76.814078,35.473248,-76.814078,35.473248],
-  "geometry": {"coordinates":[-76.814078,35.473248],"type":"Point"}
+  "bbox": [
+    -76.814078,
+    35.473248,
+    -76.814078,
+    35.473248
+],
+  "geometry": {"coordinates":[-76.81407799999999,35.473248],"type":"Point"}
 }

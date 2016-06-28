@@ -2,13 +2,14 @@
   "id": 370451863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.942479,34.229596,-77.942479,34.229596",
     "geom:latitude":34.229596,
     "geom:longitude":-77.942479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 S 5th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370451863,
-    "wof:lastmodified":1449030567,
+    "wof:lastmodified":1466651944,
     "wof:name":"Fifth Ave Untd Methdst Church",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.942479,34.229596,-77.942479,34.229596],
-  "geometry": {"coordinates":[-77.942479,34.229596],"type":"Point"}
+  "bbox": [
+    -77.942479,
+    34.229596,
+    -77.942479,
+    34.229596
+],
+  "geometry": {"coordinates":[-77.94247900000001,34.229596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304069047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.633685,35.778139,-78.633685,35.778139",
     "geom:latitude":35.778139,
     "geom:longitude":-78.633685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 E Hargett St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304069047,
-    "wof:lastmodified":1449043974,
+    "wof:lastmodified":1466645132,
     "wof:name":"Our Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.633685,35.778139,-78.633685,35.778139],
+  "bbox": [
+    -78.633685,
+    35.778139,
+    -78.633685,
+    35.778139
+],
   "geometry": {"coordinates":[-78.633685,35.778139],"type":"Point"}
 }

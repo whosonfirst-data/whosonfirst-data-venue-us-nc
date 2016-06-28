@@ -2,13 +2,14 @@
   "id": 336765639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.098199,35.277878,-81.098199,35.277878",
     "geom:latitude":35.277878,
     "geom:longitude":-81.098199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 N Main St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336765639,
-    "wof:lastmodified":1448997558,
+    "wof:lastmodified":1466648340,
     "wof:name":"Woodlawn Baptist Church",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.098199,35.277878,-81.098199,35.277878],
-  "geometry": {"coordinates":[-81.098199,35.277878],"type":"Point"}
+  "bbox": [
+    -81.098199,
+    35.277878,
+    -81.098199,
+    35.277878
+],
+  "geometry": {"coordinates":[-81.09819899999999,35.277878],"type":"Point"}
 }

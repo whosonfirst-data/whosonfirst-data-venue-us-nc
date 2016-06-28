@@ -2,13 +2,14 @@
   "id": 253479673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.04493,35.921859,-79.04493,35.921859",
     "geom:latitude":35.921859,
     "geom:longitude":-79.04493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Lone Pine Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253479673,
-    "wof:lastmodified":1449064866,
+    "wof:lastmodified":1466648115,
     "wof:name":"Earp  Shelton",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.04493,35.921859,-79.04493,35.921859],
-  "geometry": {"coordinates":[-79.04493,35.921859],"type":"Point"}
+  "bbox": [
+    -79.04493,
+    35.921859,
+    -79.04493,
+    35.921859
+],
+  "geometry": {"coordinates":[-79.04492999999999,35.921859],"type":"Point"}
 }

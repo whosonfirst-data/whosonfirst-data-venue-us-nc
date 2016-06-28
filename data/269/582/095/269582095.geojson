@@ -2,13 +2,14 @@
   "id": 269582095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.14512,35.450839,-79.14512,35.450839",
     "geom:latitude":35.450839,
     "geom:longitude":-79.14512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2863 Lee Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269582095,
-    "wof:lastmodified":1449037426,
+    "wof:lastmodified":1466644372,
     "wof:name":"Phoenix Fire Protection Inc",
     "wof:parent_id":85827995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-79.14512,35.450839,-79.14512,35.450839],
-  "geometry": {"coordinates":[-79.14512,35.450839],"type":"Point"}
+  "bbox": [
+    -79.14512,
+    35.450839,
+    -79.14512,
+    35.450839
+],
+  "geometry": {"coordinates":[-79.14512000000001,35.450839],"type":"Point"}
 }

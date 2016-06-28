@@ -2,13 +2,14 @@
   "id": 320592931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.380665,35.539881,-77.380665,35.539881",
     "geom:latitude":35.539881,
     "geom:longitude":-77.380665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2131 Jubilee Ln",
     "sg:city":"Winterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320592931,
-    "wof:lastmodified":1449013405,
+    "wof:lastmodified":1466653726,
     "wof:name":"Synergy Properties LLC",
     "wof:parent_id":85847981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-77.380665,35.539881,-77.380665,35.539881],
-  "geometry": {"coordinates":[-77.380665,35.539881],"type":"Point"}
+  "bbox": [
+    -77.380665,
+    35.539881,
+    -77.380665,
+    35.539881
+],
+  "geometry": {"coordinates":[-77.38066499999999,35.539881],"type":"Point"}
 }

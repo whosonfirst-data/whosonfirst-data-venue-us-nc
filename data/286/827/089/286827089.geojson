@@ -2,13 +2,14 @@
   "id": 286827089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.901682,35.100678,-78.901682,35.100678",
     "geom:latitude":35.100678,
     "geom:longitude":-78.901682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3208 Mc Choen Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286827089,
-    "wof:lastmodified":1449016238,
+    "wof:lastmodified":1466650815,
     "wof:name":"George Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "man"
     ]
 },
-  "bbox": [-78.901682,35.100678,-78.901682,35.100678],
-  "geometry": {"coordinates":[-78.901682,35.100678],"type":"Point"}
+  "bbox": [
+    -78.901682,
+    35.100678,
+    -78.901682,
+    35.100678
+],
+  "geometry": {"coordinates":[-78.90168199999999,35.100678],"type":"Point"}
 }

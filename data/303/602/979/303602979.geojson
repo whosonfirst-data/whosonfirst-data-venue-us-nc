@@ -2,13 +2,14 @@
   "id": 303602979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.673385,35.35995,-80.673385,35.35995",
     "geom:latitude":35.35995,
     "geom:longitude":-80.673385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4323 Concord Pkwy S",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303602979,
-    "wof:lastmodified":1448999266,
+    "wof:lastmodified":1466651996,
     "wof:name":"Gateway Church",
     "wof:parent_id":85816993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.673385,35.35995,-80.673385,35.35995],
+  "bbox": [
+    -80.673385,
+    35.35995,
+    -80.673385,
+    35.35995
+],
   "geometry": {"coordinates":[-80.673385,35.35995],"type":"Point"}
 }

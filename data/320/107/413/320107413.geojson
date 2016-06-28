@@ -2,13 +2,14 @@
   "id": 320107413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.626521,35.813574,-78.626521,35.813574",
     "geom:latitude":35.813574,
     "geom:longitude":-78.626521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 Wake Forest Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320107413,
-    "wof:lastmodified":1449011274,
+    "wof:lastmodified":1466646806,
     "wof:name":"Consumer Direct Warehouse",
     "wof:parent_id":85838339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-78.626521,35.813574,-78.626521,35.813574],
+  "bbox": [
+    -78.626521,
+    35.813574,
+    -78.626521,
+    35.813574
+],
   "geometry": {"coordinates":[-78.626521,35.813574],"type":"Point"}
 }

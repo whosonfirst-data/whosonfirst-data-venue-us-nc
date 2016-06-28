@@ -2,13 +2,14 @@
   "id": 371036919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.506104,36.025248,-81.506104,36.025248",
     "geom:latitude":36.025248,
     "geom:longitude":-81.506104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1641 Riverside Dr",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371036919,
-    "wof:lastmodified":1449049262,
+    "wof:lastmodified":1466649297,
     "wof:name":"Gragg Brothers Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.506104,36.025248,-81.506104,36.025248],
-  "geometry": {"coordinates":[-81.506104,36.025248],"type":"Point"}
+  "bbox": [
+    -81.506104,
+    36.025248,
+    -81.506104,
+    36.025248
+],
+  "geometry": {"coordinates":[-81.50610399999999,36.025248],"type":"Point"}
 }

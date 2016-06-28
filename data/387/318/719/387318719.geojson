@@ -2,13 +2,14 @@
   "id": 387318719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.15461,35.278945,-77.15461,35.278945",
     "geom:latitude":35.278945,
     "geom:longitude":-77.15461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 State Camp Rd",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387318719,
-    "wof:lastmodified":1449056942,
+    "wof:lastmodified":1466654058,
     "wof:name":"James E Smith & Son Trucking",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-77.15461,35.278945,-77.15461,35.278945],
-  "geometry": {"coordinates":[-77.15461,35.278945],"type":"Point"}
+  "bbox": [
+    -77.15461,
+    35.278945,
+    -77.15461,
+    35.278945
+],
+  "geometry": {"coordinates":[-77.15461000000001,35.278945],"type":"Point"}
 }

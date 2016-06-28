@@ -2,13 +2,14 @@
   "id": 219343045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.500931,35.665778,-80.500931,35.665778",
     "geom:latitude":35.665778,
     "geom:longitude":-80.500931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Demco Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219343045,
-    "wof:lastmodified":1449072907,
+    "wof:lastmodified":1466643647,
     "wof:name":"Delta Electric Inc",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [-80.500931,35.665778,-80.500931,35.665778],
-  "geometry": {"coordinates":[-80.500931,35.665778],"type":"Point"}
+  "bbox": [
+    -80.500931,
+    35.665778,
+    -80.500931,
+    35.665778
+],
+  "geometry": {"coordinates":[-80.50093099999999,35.665778],"type":"Point"}
 }

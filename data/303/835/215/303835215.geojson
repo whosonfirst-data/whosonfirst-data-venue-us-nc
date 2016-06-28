@@ -2,13 +2,14 @@
   "id": 303835215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.617122,35.855119,-78.617122,35.855119",
     "geom:latitude":35.855119,
     "geom:longitude":-78.617122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 Ivy Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303835215,
-    "wof:lastmodified":1448998469,
+    "wof:lastmodified":1466655368,
     "wof:name":"R D S Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-78.617122,35.855119,-78.617122,35.855119],
-  "geometry": {"coordinates":[-78.617122,35.855119],"type":"Point"}
+  "bbox": [
+    -78.617122,
+    35.855119,
+    -78.617122,
+    35.855119
+],
+  "geometry": {"coordinates":[-78.61712199999999,35.855119],"type":"Point"}
 }

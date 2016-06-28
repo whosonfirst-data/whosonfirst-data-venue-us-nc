@@ -2,13 +2,14 @@
   "id": 403965367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.955661,35.952669,-78.955661,35.952669",
     "geom:latitude":35.952669,
     "geom:longitude":-78.955661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 Devon Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403965367,
-    "wof:lastmodified":1449055541,
+    "wof:lastmodified":1466653740,
     "wof:name":"Aldridges",
     "wof:parent_id":85877157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stationery"
     ]
 },
-  "bbox": [-78.955661,35.952669,-78.955661,35.952669],
-  "geometry": {"coordinates":[-78.955661,35.952669],"type":"Point"}
+  "bbox": [
+    -78.955661,
+    35.952669,
+    -78.955661,
+    35.952669
+],
+  "geometry": {"coordinates":[-78.95566100000001,35.952669],"type":"Point"}
 }

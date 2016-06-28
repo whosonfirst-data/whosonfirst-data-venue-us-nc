@@ -2,13 +2,14 @@
   "id": 269626727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.034487,35.088017,-84.034487,35.088017",
     "geom:latitude":35.088017,
     "geom:longitude":-84.034487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Tennessee St",
     "sg:city":"Murphy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269626727,
-    "wof:lastmodified":1449038967,
+    "wof:lastmodified":1466644921,
     "wof:name":"City Lock Svc",
     "wof:parent_id":85851975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-84.034487,35.088017,-84.034487,35.088017],
+  "bbox": [
+    -84.034487,
+    35.088017,
+    -84.034487,
+    35.088017
+],
   "geometry": {"coordinates":[-84.034487,35.088017],"type":"Point"}
 }

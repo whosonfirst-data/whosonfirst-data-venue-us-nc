@@ -2,13 +2,14 @@
   "id": 353688083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.798036,35.9402,-77.798036,35.9402",
     "geom:latitude":35.9402,
     "geom:longitude":-77.798036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Nash St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353688083,
-    "wof:lastmodified":1449019216,
+    "wof:lastmodified":1466650454,
     "wof:name":"Willis Voice Primary Care",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-77.798036,35.9402,-77.798036,35.9402],
+  "bbox": [
+    -77.798036,
+    35.9402,
+    -77.798036,
+    35.9402
+],
   "geometry": {"coordinates":[-77.798036,35.9402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220002005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.383328,36.272367,-80.383328,36.272367",
     "geom:latitude":36.272367,
     "geom:longitude":-80.383328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"849 Meadowbrook Dr",
     "sg:city":"King",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220002005,
-    "wof:lastmodified":1449074711,
+    "wof:lastmodified":1466643228,
     "wof:name":"King Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.383328,36.272367,-80.383328,36.272367],
-  "geometry": {"coordinates":[-80.383328,36.272367],"type":"Point"}
+  "bbox": [
+    -80.383328,
+    36.272367,
+    -80.383328,
+    36.272367
+],
+  "geometry": {"coordinates":[-80.38332800000001,36.272367],"type":"Point"}
 }

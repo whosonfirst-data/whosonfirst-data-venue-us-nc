@@ -2,13 +2,14 @@
   "id": 253747241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.880013,35.445869,-80.880013,35.445869",
     "geom:latitude":35.445869,
     "geom:longitude":-80.880013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16835 Birkdale Commons Pkwy",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253747241,
-    "wof:lastmodified":1449063363,
+    "wof:lastmodified":1466651337,
     "wof:name":"Modern Salon & Spa",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.880013,35.445869,-80.880013,35.445869],
-  "geometry": {"coordinates":[-80.880013,35.445869],"type":"Point"}
+  "bbox": [
+    -80.880013,
+    35.445869,
+    -80.880013,
+    35.445869
+],
+  "geometry": {"coordinates":[-80.88001300000001,35.445869],"type":"Point"}
 }

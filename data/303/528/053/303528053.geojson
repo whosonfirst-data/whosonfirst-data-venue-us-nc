@@ -2,13 +2,14 @@
   "id": 303528053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.654261,36.217737,-81.654261,36.217737",
     "geom:latitude":36.217737,
     "geom:longitude":-81.654261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Delmar St",
     "sg:city":"Boone",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303528053,
-    "wof:lastmodified":1448998767,
+    "wof:lastmodified":1466650914,
     "wof:name":"James A Dugger",
     "wof:parent_id":85836725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.654261,36.217737,-81.654261,36.217737],
-  "geometry": {"coordinates":[-81.654261,36.217737],"type":"Point"}
+  "bbox": [
+    -81.654261,
+    36.217737,
+    -81.654261,
+    36.217737
+],
+  "geometry": {"coordinates":[-81.65426100000001,36.217737],"type":"Point"}
 }

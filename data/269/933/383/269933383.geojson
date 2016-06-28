@@ -2,13 +2,14 @@
   "id": 269933383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.08795,35.51698,-83.08795,35.51698",
     "geom:latitude":35.51698,
     "geom:longitude":-83.08795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3539 Soco Rd",
     "sg:city":"Maggie Valley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269933383,
-    "wof:lastmodified":1449036635,
+    "wof:lastmodified":1466648539,
     "wof:name":"Valley Hardware",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.08795,35.51698,-83.08795,35.51698],
-  "geometry": {"coordinates":[-83.08795,35.51698],"type":"Point"}
+  "bbox": [
+    -83.08795,
+    35.51698,
+    -83.08795,
+    35.51698
+],
+  "geometry": {"coordinates":[-83.08795000000001,35.51698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270383097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.94858,34.234895,-77.94858,34.234895",
     "geom:latitude":34.234895,
     "geom:longitude":-77.94858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 S Front St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270383097,
-    "wof:lastmodified":1449009679,
+    "wof:lastmodified":1466647923,
     "wof:name":"Art Etc",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.94858,34.234895,-77.94858,34.234895],
-  "geometry": {"coordinates":[-77.94858,34.234895],"type":"Point"}
+  "bbox": [
+    -77.94858,
+    34.234895,
+    -77.94858,
+    34.234895
+],
+  "geometry": {"coordinates":[-77.94858000000001,34.234895],"type":"Point"}
 }

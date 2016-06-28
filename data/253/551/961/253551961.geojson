@@ -2,13 +2,14 @@
   "id": 253551961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.720751,35.876957,-78.720751,35.876957",
     "geom:latitude":35.876957,
     "geom:longitude":-78.720751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4064 Barton Park Pl",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253551961,
-    "wof:lastmodified":1449063412,
+    "wof:lastmodified":1466648991,
     "wof:name":"Baskets N Stuff Inc",
     "wof:parent_id":85892129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.720751,35.876957,-78.720751,35.876957],
-  "geometry": {"coordinates":[-78.720751,35.876957],"type":"Point"}
+  "bbox": [
+    -78.720751,
+    35.876957,
+    -78.720751,
+    35.876957
+],
+  "geometry": {"coordinates":[-78.72075100000001,35.876957],"type":"Point"}
 }

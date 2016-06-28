@@ -2,13 +2,14 @@
   "id": 387868791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.895528,34.211824,-77.895528,34.211824",
     "geom:latitude":34.211824,
     "geom:longitude":-77.895528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4024 Oleander Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387868791,
-    "wof:lastmodified":1449056292,
+    "wof:lastmodified":1466657846,
     "wof:name":"Spinalcare",
     "wof:parent_id":85830591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.895528,34.211824,-77.895528,34.211824],
+  "bbox": [
+    -77.895528,
+    34.211824,
+    -77.895528,
+    34.211824
+],
   "geometry": {"coordinates":[-77.895528,34.211824],"type":"Point"}
 }

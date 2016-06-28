@@ -2,13 +2,14 @@
   "id": 370266473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.816749,35.914279,-77.816749,35.914279",
     "geom:latitude":35.914279,
     "geom:longitude":-77.816749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Clayton St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370266473,
-    "wof:lastmodified":1449029169,
+    "wof:lastmodified":1466649611,
     "wof:name":"John L Turner",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-77.816749,35.914279,-77.816749,35.914279],
+  "bbox": [
+    -77.816749,
+    35.914279,
+    -77.816749,
+    35.914279
+],
   "geometry": {"coordinates":[-77.816749,35.914279],"type":"Point"}
 }

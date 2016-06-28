@@ -2,13 +2,14 @@
   "id": 387332311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.253852,34.472417,-79.253852,34.472417",
     "geom:latitude":34.472417,
     "geom:longitude":-79.253852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Stuart Mill Rd",
     "sg:city":"Rowland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387332311,
-    "wof:lastmodified":1449058227,
+    "wof:lastmodified":1466654229,
     "wof:name":"Cotton Valley Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.253852,34.472417,-79.253852,34.472417],
-  "geometry": {"coordinates":[-79.253852,34.472417],"type":"Point"}
+  "bbox": [
+    -79.253852,
+    34.472417,
+    -79.253852,
+    34.472417
+],
+  "geometry": {"coordinates":[-79.25385199999999,34.472417],"type":"Point"}
 }

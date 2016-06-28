@@ -2,13 +2,14 @@
   "id": 270176727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.019787,35.236456,-81.019787,35.236456",
     "geom:latitude":35.236456,
     "geom:longitude":-81.019787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Piedmont Rd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270176727,
-    "wof:lastmodified":1449010261,
+    "wof:lastmodified":1466645311,
     "wof:name":"K L Whitworth",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-81.019787,35.236456,-81.019787,35.236456],
-  "geometry": {"coordinates":[-81.019787,35.236456],"type":"Point"}
+  "bbox": [
+    -81.019787,
+    35.236456,
+    -81.019787,
+    35.236456
+],
+  "geometry": {"coordinates":[-81.01978699999999,35.236456],"type":"Point"}
 }

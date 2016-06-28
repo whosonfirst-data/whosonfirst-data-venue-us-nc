@@ -2,13 +2,14 @@
   "id": 336652409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.54624,35.83125,-82.54624,35.83125",
     "geom:latitude":35.83125,
     "geom:longitude":-82.54624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 N Main St",
     "sg:city":"Mars Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336652409,
-    "wof:lastmodified":1448997625,
+    "wof:lastmodified":1466646648,
     "wof:name":"Chandler's BP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-82.54624,35.83125,-82.54624,35.83125],
+  "bbox": [
+    -82.54624,
+    35.83125,
+    -82.54624,
+    35.83125
+],
   "geometry": {"coordinates":[-82.54624,35.83125],"type":"Point"}
 }

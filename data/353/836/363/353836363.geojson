@@ -2,13 +2,14 @@
   "id": 353836363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.814951,35.69824,-79.814951,35.69824",
     "geom:latitude":35.69824,
     "geom:longitude":-79.814951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 S Fayetteville St",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":353836363,
-    "wof:lastmodified":1449019929,
+    "wof:lastmodified":1466652176,
     "wof:name":"Fetner Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-79.814951,35.69824,-79.814951,35.69824],
-  "geometry": {"coordinates":[-79.814951,35.69824],"type":"Point"}
+  "bbox": [
+    -79.814951,
+    35.69824,
+    -79.814951,
+    35.69824
+],
+  "geometry": {"coordinates":[-79.81495099999999,35.69824],"type":"Point"}
 }

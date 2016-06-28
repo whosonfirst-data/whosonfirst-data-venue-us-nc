@@ -2,13 +2,14 @@
   "id": 253146343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.80406,35.817384,-78.80406,35.817384",
     "geom:latitude":35.817384,
     "geom:longitude":-78.80406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Quade Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253146343,
-    "wof:lastmodified":1449064050,
+    "wof:lastmodified":1466644533,
     "wof:name":"CNS Software LLC",
     "wof:parent_id":85857059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-78.80406,35.817384,-78.80406,35.817384],
-  "geometry": {"coordinates":[-78.80406,35.817384],"type":"Point"}
+  "bbox": [
+    -78.80406,
+    35.817384,
+    -78.80406,
+    35.817384
+],
+  "geometry": {"coordinates":[-78.80406000000001,35.817384],"type":"Point"}
 }

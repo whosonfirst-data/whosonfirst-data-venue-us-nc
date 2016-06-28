@@ -2,13 +2,14 @@
   "id": 270373327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.764277,35.775822,-78.764277,35.775822",
     "geom:latitude":35.775822,
     "geom:longitude":-78.764277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"682 Cary Towne Blvd",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270373327,
-    "wof:lastmodified":1449009899,
+    "wof:lastmodified":1466647806,
     "wof:name":"IMP Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.764277,35.775822,-78.764277,35.775822],
-  "geometry": {"coordinates":[-78.764277,35.775822],"type":"Point"}
+  "bbox": [
+    -78.764277,
+    35.775822,
+    -78.764277,
+    35.775822
+],
+  "geometry": {"coordinates":[-78.76427700000001,35.775822],"type":"Point"}
 }

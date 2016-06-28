@@ -2,13 +2,14 @@
   "id": 253341033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.109638,36.079728,-80.109638,36.079728",
     "geom:latitude":36.079728,
     "geom:longitude":-80.109638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1095 Soloman Dr",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253341033,
-    "wof:lastmodified":1449065671,
+    "wof:lastmodified":1466646470,
     "wof:name":"Custom Graphics Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-80.109638,36.079728,-80.109638,36.079728],
+  "bbox": [
+    -80.109638,
+    36.079728,
+    -80.109638,
+    36.079728
+],
   "geometry": {"coordinates":[-80.109638,36.079728],"type":"Point"}
 }

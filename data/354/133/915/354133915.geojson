@@ -2,13 +2,14 @@
   "id": 354133915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.55936,34.994793,-80.55936,34.994793",
     "geom:latitude":34.994793,
     "geom:longitude":-80.55936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 N Charlotte Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354133915,
-    "wof:lastmodified":1449067353,
+    "wof:lastmodified":1466649110,
     "wof:name":"Spring Printing",
     "wof:parent_id":85879029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.55936,34.994793,-80.55936,34.994793],
+  "bbox": [
+    -80.55936,
+    34.994793,
+    -80.55936,
+    34.994793
+],
   "geometry": {"coordinates":[-80.55936,34.994793],"type":"Point"}
 }

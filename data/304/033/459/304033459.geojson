@@ -2,13 +2,14 @@
   "id": 304033459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.806632,36.092794,-79.806632,36.092794",
     "geom:latitude":36.092794,
     "geom:longitude":-79.806632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Hammel Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304033459,
-    "wof:lastmodified":1449043673,
+    "wof:lastmodified":1466644639,
     "wof:name":"Hammel Road LLC",
     "wof:parent_id":85877979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.806632,36.092794,-79.806632,36.092794],
-  "geometry": {"coordinates":[-79.806632,36.092794],"type":"Point"}
+  "bbox": [
+    -79.806632,
+    36.092794,
+    -79.806632,
+    36.092794
+],
+  "geometry": {"coordinates":[-79.80663199999999,36.092794],"type":"Point"}
 }

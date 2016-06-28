@@ -2,13 +2,14 @@
   "id": 303202327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.786302,35.737612,-78.786302,35.737612",
     "geom:latitude":35.737612,
     "geom:longitude":-78.786302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Ashville Ave",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303202327,
-    "wof:lastmodified":1449000246,
+    "wof:lastmodified":1466646251,
     "wof:name":"Dsatlantic Contracting Inc",
     "wof:parent_id":85854847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.786302,35.737612,-78.786302,35.737612],
-  "geometry": {"coordinates":[-78.786302,35.737612],"type":"Point"}
+  "bbox": [
+    -78.786302,
+    35.737612,
+    -78.786302,
+    35.737612
+],
+  "geometry": {"coordinates":[-78.78630200000001,35.737612],"type":"Point"}
 }

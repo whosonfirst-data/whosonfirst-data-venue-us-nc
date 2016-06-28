@@ -2,13 +2,14 @@
   "id": 320864041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.146499,36.159342,-81.146499,36.159342",
     "geom:latitude":36.159342,
     "geom:longitude":-81.146499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Main St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320864041,
-    "wof:lastmodified":1449015013,
+    "wof:lastmodified":1466656964,
     "wof:name":"Executive Financial Resources",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.146499,36.159342,-81.146499,36.159342],
-  "geometry": {"coordinates":[-81.146499,36.159342],"type":"Point"}
+  "bbox": [
+    -81.146499,
+    36.159342,
+    -81.146499,
+    36.159342
+],
+  "geometry": {"coordinates":[-81.14649900000001,36.159342],"type":"Point"}
 }

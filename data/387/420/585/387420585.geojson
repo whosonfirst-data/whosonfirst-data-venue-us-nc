@@ -2,13 +2,14 @@
   "id": 387420585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.68461,35.801263,-78.68461,35.801263",
     "geom:latitude":35.801263,
     "geom:longitude":-78.68461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3528 Wade Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387420585,
-    "wof:lastmodified":1449057922,
+    "wof:lastmodified":1466655378,
     "wof:name":"T A G",
     "wof:parent_id":85844573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "incentive"
     ]
 },
-  "bbox": [-78.68461,35.801263,-78.68461,35.801263],
-  "geometry": {"coordinates":[-78.68461,35.801263],"type":"Point"}
+  "bbox": [
+    -78.68461,
+    35.801263,
+    -78.68461,
+    35.801263
+],
+  "geometry": {"coordinates":[-78.68461000000001,35.801263],"type":"Point"}
 }

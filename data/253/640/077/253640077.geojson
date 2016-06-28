@@ -2,13 +2,14 @@
   "id": 253640077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.889041,36.086015,-78.889041,36.086015",
     "geom:latitude":36.086015,
     "geom:longitude":-78.889041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5132 Sourwood Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":253640077,
-    "wof:lastmodified":1449064102,
+    "wof:lastmodified":1466650027,
     "wof:name":"Stephen Anthony & Associates",
     "wof:parent_id":85877167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-78.889041,36.086015,-78.889041,36.086015],
-  "geometry": {"coordinates":[-78.889041,36.086015],"type":"Point"}
+  "bbox": [
+    -78.889041,
+    36.086015,
+    -78.889041,
+    36.086015
+],
+  "geometry": {"coordinates":[-78.88904100000001,36.086015],"type":"Point"}
 }

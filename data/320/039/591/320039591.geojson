@@ -2,13 +2,14 @@
   "id": 320039591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.377248,36.021942,-80.377248,36.021942",
     "geom:latitude":36.021942,
     "geom:longitude":-80.377248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3554 Clemmons Rd",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320039591,
-    "wof:lastmodified":1449014497,
+    "wof:lastmodified":1466645889,
     "wof:name":"Clemmons Library",
     "wof:parent_id":85845791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.377248,36.021942,-80.377248,36.021942],
-  "geometry": {"coordinates":[-80.377248,36.021942],"type":"Point"}
+  "bbox": [
+    -80.377248,
+    36.021942,
+    -80.377248,
+    36.021942
+],
+  "geometry": {"coordinates":[-80.37724799999999,36.021942],"type":"Point"}
 }

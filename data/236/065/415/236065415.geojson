@@ -2,13 +2,14 @@
   "id": 236065415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.285001,36.072618,-78.285001,36.072618",
     "geom:latitude":36.072618,
     "geom:longitude":-78.285001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"567 Stone-Southerland Rd",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236065415,
-    "wof:lastmodified":1449005203,
+    "wof:lastmodified":1466643810,
     "wof:name":"Stone Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-78.285001,36.072618,-78.285001,36.072618],
-  "geometry": {"coordinates":[-78.285001,36.072618],"type":"Point"}
+  "bbox": [
+    -78.285001,
+    36.072618,
+    -78.285001,
+    36.072618
+],
+  "geometry": {"coordinates":[-78.28500099999999,36.072618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236589631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.418641,36.098093,-79.418641,36.098093",
     "geom:latitude":36.098093,
     "geom:longitude":-79.418641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1156 N Church St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236589631,
-    "wof:lastmodified":1449003407,
+    "wof:lastmodified":1466648436,
     "wof:name":"Personalized Business",
     "wof:parent_id":85838431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-79.418641,36.098093,-79.418641,36.098093],
-  "geometry": {"coordinates":[-79.418641,36.098093],"type":"Point"}
+  "bbox": [
+    -79.418641,
+    36.098093,
+    -79.418641,
+    36.098093
+],
+  "geometry": {"coordinates":[-79.41864099999999,36.098093],"type":"Point"}
 }

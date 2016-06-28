@@ -2,13 +2,14 @@
   "id": 303807675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.995501,35.565549,-76.995501,35.565549",
     "geom:latitude":35.565549,
     "geom:longitude":-76.995501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Singleton Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303807675,
-    "wof:lastmodified":1448998739,
+    "wof:lastmodified":1466654972,
     "wof:name":"Prewitt Painting",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-76.995501,35.565549,-76.995501,35.565549],
+  "bbox": [
+    -76.995501,
+    35.565549,
+    -76.995501,
+    35.565549
+],
   "geometry": {"coordinates":[-76.995501,35.565549],"type":"Point"}
 }

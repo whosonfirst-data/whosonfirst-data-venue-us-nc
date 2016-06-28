@@ -2,13 +2,14 @@
   "id": 202440799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.3821,35.67631,-77.3821,35.67631",
     "geom:latitude":35.67631,
     "geom:longitude":-77.3821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1856 Flemming School Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202440799,
-    "wof:lastmodified":1449061003,
+    "wof:lastmodified":1466654505,
     "wof:name":"Mary's Tours",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-77.3821,35.67631,-77.3821,35.67631],
-  "geometry": {"coordinates":[-77.3821,35.67631],"type":"Point"}
+  "bbox": [
+    -77.3821,
+    35.67631,
+    -77.3821,
+    35.67631
+],
+  "geometry": {"coordinates":[-77.38209999999999,35.67631],"type":"Point"}
 }

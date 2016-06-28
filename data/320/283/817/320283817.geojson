@@ -2,13 +2,14 @@
   "id": 320283817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.960348,35.906906,-79.960348,35.906906",
     "geom:latitude":35.906906,
     "geom:longitude":-79.960348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10306 N Main St",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320283817,
-    "wof:lastmodified":1449012369,
+    "wof:lastmodified":1466649258,
     "wof:name":"Shell",
     "wof:parent_id":85843865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.960348,35.906906,-79.960348,35.906906],
+  "bbox": [
+    -79.960348,
+    35.906906,
+    -79.960348,
+    35.906906
+],
   "geometry": {"coordinates":[-79.960348,35.906906],"type":"Point"}
 }

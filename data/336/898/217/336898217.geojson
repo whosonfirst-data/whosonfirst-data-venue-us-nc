@@ -2,13 +2,14 @@
   "id": 336898217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.007568,35.99366,-79.007568,35.99366",
     "geom:latitude":35.99366,
     "geom:longitude":-79.007568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5222 Mount Sinai Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336898217,
-    "wof:lastmodified":1448996903,
+    "wof:lastmodified":1466650392,
     "wof:name":"Mount Sinai Baptist Church",
     "wof:parent_id":85838755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.007568,35.99366,-79.007568,35.99366],
-  "geometry": {"coordinates":[-79.007568,35.99366],"type":"Point"}
+  "bbox": [
+    -79.007568,
+    35.99366,
+    -79.007568,
+    35.99366
+],
+  "geometry": {"coordinates":[-79.00756800000001,35.99366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303236805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.935111,35.119874,-78.935111,35.119874",
     "geom:latitude":35.119874,
     "geom:longitude":-78.935111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6175 Murchison Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303236805,
-    "wof:lastmodified":1448998380,
+    "wof:lastmodified":1466646748,
     "wof:name":"Peace Chapel Evangelical House",
     "wof:parent_id":85803239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.935111,35.119874,-78.935111,35.119874],
-  "geometry": {"coordinates":[-78.935111,35.119874],"type":"Point"}
+  "bbox": [
+    -78.935111,
+    35.119874,
+    -78.935111,
+    35.119874
+],
+  "geometry": {"coordinates":[-78.93511100000001,35.119874],"type":"Point"}
 }

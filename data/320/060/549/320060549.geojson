@@ -2,13 +2,14 @@
   "id": 320060549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.598441,35.999233,-80.598441,35.999233",
     "geom:latitude":35.999233,
     "geom:longitude":-80.598441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Leanne Ln",
     "sg:city":"Mocksville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320060549,
-    "wof:lastmodified":1449014622,
+    "wof:lastmodified":1466646175,
     "wof:name":"Grading Mason & Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.598441,35.999233,-80.598441,35.999233],
-  "geometry": {"coordinates":[-80.598441,35.999233],"type":"Point"}
+  "bbox": [
+    -80.598441,
+    35.999233,
+    -80.598441,
+    35.999233
+],
+  "geometry": {"coordinates":[-80.59844099999999,35.999233],"type":"Point"}
 }

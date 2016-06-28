@@ -2,13 +2,14 @@
   "id": 404072435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.604836,36.497143,-80.604836,36.497143",
     "geom:latitude":36.497143,
     "geom:longitude":-80.604836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 S Main St",
     "sg:city":"Mount Airy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404072435,
-    "wof:lastmodified":1449039769,
+    "wof:lastmodified":1466652207,
     "wof:name":"Thomas Appraisal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.604836,36.497143,-80.604836,36.497143],
-  "geometry": {"coordinates":[-80.604836,36.497143],"type":"Point"}
+  "bbox": [
+    -80.604836,
+    36.497143,
+    -80.604836,
+    36.497143
+],
+  "geometry": {"coordinates":[-80.60483600000001,36.497143],"type":"Point"}
 }

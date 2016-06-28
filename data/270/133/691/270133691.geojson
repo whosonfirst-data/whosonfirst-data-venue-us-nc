@@ -2,13 +2,14 @@
   "id": 270133691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.495365,35.64846,-80.495365,35.64846",
     "geom:latitude":35.64846,
     "geom:longitude":-80.495365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Jake Alexander Blvd S",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270133691,
-    "wof:lastmodified":1449010642,
+    "wof:lastmodified":1466644764,
     "wof:name":"Interscope Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "precision"
     ]
 },
-  "bbox": [-80.495365,35.64846,-80.495365,35.64846],
-  "geometry": {"coordinates":[-80.495365,35.64846],"type":"Point"}
+  "bbox": [
+    -80.495365,
+    35.64846,
+    -80.495365,
+    35.64846
+],
+  "geometry": {"coordinates":[-80.49536500000001,35.64846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320361269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.156626,35.486333,-79.156626,35.486333",
     "geom:latitude":35.486333,
     "geom:longitude":-79.156626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 14th St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320361269,
-    "wof:lastmodified":1449013977,
+    "wof:lastmodified":1466650366,
     "wof:name":"Golden Comb",
     "wof:parent_id":85851589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.156626,35.486333,-79.156626,35.486333],
+  "bbox": [
+    -79.156626,
+    35.486333,
+    -79.156626,
+    35.486333
+],
   "geometry": {"coordinates":[-79.156626,35.486333],"type":"Point"}
 }

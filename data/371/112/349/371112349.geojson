@@ -2,13 +2,14 @@
   "id": 371112349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.143959,36.156768,-81.143959,36.156768",
     "geom:latitude":36.156768,
     "geom:longitude":-81.143959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Wilkesboro Ave",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371112349,
-    "wof:lastmodified":1449049477,
+    "wof:lastmodified":1466650229,
     "wof:name":"Wilkes Transportation Auth",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.143959,36.156768,-81.143959,36.156768],
+  "bbox": [
+    -81.143959,
+    36.156768,
+    -81.143959,
+    36.156768
+],
   "geometry": {"coordinates":[-81.143959,36.156768],"type":"Point"}
 }

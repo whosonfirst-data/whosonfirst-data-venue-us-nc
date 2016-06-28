@@ -2,13 +2,14 @@
   "id": 253145585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.486905,35.599651,-82.486905,35.599651",
     "geom:latitude":35.599651,
     "geom:longitude":-82.486905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Upper Grassy Branch Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253145585,
-    "wof:lastmodified":1449063718,
+    "wof:lastmodified":1466644524,
     "wof:name":"Charlie's Lawn & Landscaping",
     "wof:parent_id":85839923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-82.486905,35.599651,-82.486905,35.599651],
-  "geometry": {"coordinates":[-82.486905,35.599651],"type":"Point"}
+  "bbox": [
+    -82.486905,
+    35.599651,
+    -82.486905,
+    35.599651
+],
+  "geometry": {"coordinates":[-82.48690499999999,35.599651],"type":"Point"}
 }

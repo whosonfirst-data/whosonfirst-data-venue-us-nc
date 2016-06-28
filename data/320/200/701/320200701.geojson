@@ -2,13 +2,14 @@
   "id": 320200701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.932032,35.180748,-77.932032,35.180748",
     "geom:latitude":35.180748,
     "geom:longitude":-77.932032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Zion Church Rd",
     "sg:city":"Mount Olive",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320200701,
-    "wof:lastmodified":1449012762,
+    "wof:lastmodified":1466648103,
     "wof:name":"Sand Hill Mobile Home Park",
     "wof:parent_id":85827059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-77.932032,35.180748,-77.932032,35.180748],
-  "geometry": {"coordinates":[-77.932032,35.180748],"type":"Point"}
+  "bbox": [
+    -77.932032,
+    35.180748,
+    -77.932032,
+    35.180748
+],
+  "geometry": {"coordinates":[-77.93203200000001,35.180748],"type":"Point"}
 }

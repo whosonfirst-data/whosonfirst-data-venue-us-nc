@@ -2,13 +2,14 @@
   "id": 202856069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.635823,35.789882,-78.635823,35.789882",
     "geom:latitude":35.789882,
     "geom:longitude":-78.635823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 N Blount St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202856069,
-    "wof:lastmodified":1449060845,
+    "wof:lastmodified":1466644589,
     "wof:name":"Wake County Sports Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-78.635823,35.789882,-78.635823,35.789882],
+  "bbox": [
+    -78.635823,
+    35.789882,
+    -78.635823,
+    35.789882
+],
   "geometry": {"coordinates":[-78.635823,35.789882],"type":"Point"}
 }

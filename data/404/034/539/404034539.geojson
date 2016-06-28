@@ -2,13 +2,14 @@
   "id": 404034539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.130553,35.175079,-81.130553,35.175079",
     "geom:latitude":35.175079,
     "geom:longitude":-81.130553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Union Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404034539,
-    "wof:lastmodified":1449039155,
+    "wof:lastmodified":1466651743,
     "wof:name":"Union Road Branch Library",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.130553,35.175079,-81.130553,35.175079],
-  "geometry": {"coordinates":[-81.130553,35.175079],"type":"Point"}
+  "bbox": [
+    -81.130553,
+    35.175079,
+    -81.130553,
+    35.175079
+],
+  "geometry": {"coordinates":[-81.13055300000001,35.175079],"type":"Point"}
 }

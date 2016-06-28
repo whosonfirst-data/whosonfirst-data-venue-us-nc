@@ -2,13 +2,14 @@
   "id": 354305905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.642245,35.7516,-78.642245,35.7516",
     "geom:latitude":35.7516,
     "geom:longitude":-78.642245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 S Wilmington St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354305905,
-    "wof:lastmodified":1449066191,
+    "wof:lastmodified":1466651079,
     "wof:name":"Distribution Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-78.642245,35.7516,-78.642245,35.7516],
+  "bbox": [
+    -78.642245,
+    35.7516,
+    -78.642245,
+    35.7516
+],
   "geometry": {"coordinates":[-78.642245,35.7516],"type":"Point"}
 }

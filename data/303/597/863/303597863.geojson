@@ -2,13 +2,14 @@
   "id": 303597863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.03405,35.492006,-81.03405,35.492006",
     "geom:latitude":35.492006,
     "geom:longitude":-81.03405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7432 Kidville Rd",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303597863,
-    "wof:lastmodified":1449000533,
+    "wof:lastmodified":1466651919,
     "wof:name":"Verdict Ridge Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.03405,35.492006,-81.03405,35.492006],
-  "geometry": {"coordinates":[-81.03405,35.492006],"type":"Point"}
+  "bbox": [
+    -81.03405,
+    35.492006,
+    -81.03405,
+    35.492006
+],
+  "geometry": {"coordinates":[-81.03404999999999,35.492006],"type":"Point"}
 }

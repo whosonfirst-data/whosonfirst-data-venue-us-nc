@@ -2,13 +2,14 @@
   "id": 286648233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.976295,35.961859,-78.976295,35.961859",
     "geom:latitude":35.961859,
     "geom:longitude":-78.976295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 Durham-Chapel Hill Blvd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286648233,
-    "wof:lastmodified":1449015990,
+    "wof:lastmodified":1466648409,
     "wof:name":"Garrett Road Bp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-78.976295,35.961859,-78.976295,35.961859],
-  "geometry": {"coordinates":[-78.976295,35.961859],"type":"Point"}
+  "bbox": [
+    -78.976295,
+    35.961859,
+    -78.976295,
+    35.961859
+],
+  "geometry": {"coordinates":[-78.97629499999999,35.961859],"type":"Point"}
 }

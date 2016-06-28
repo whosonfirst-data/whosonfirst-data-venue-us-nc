@@ -2,13 +2,14 @@
   "id": 387724141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.285288,36.181645,-81.285288,36.181645",
     "geom:latitude":36.181645,
     "geom:longitude":-81.285288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8172 Boone Trl",
     "sg:city":"Purlear",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387724141,
-    "wof:lastmodified":1449059840,
+    "wof:lastmodified":1466657384,
     "wof:name":"Hayes General Store",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-81.285288,36.181645,-81.285288,36.181645],
-  "geometry": {"coordinates":[-81.285288,36.181645],"type":"Point"}
+  "bbox": [
+    -81.285288,
+    36.181645,
+    -81.285288,
+    36.181645
+],
+  "geometry": {"coordinates":[-81.28528799999999,36.181645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303335445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.908651,35.074298,-78.908651,35.074298",
     "geom:latitude":35.074298,
     "geom:longitude":-78.908651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 N Pearl St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303335445,
-    "wof:lastmodified":1448999730,
+    "wof:lastmodified":1466648140,
     "wof:name":"Octagon Window Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-78.908651,35.074298,-78.908651,35.074298],
-  "geometry": {"coordinates":[-78.908651,35.074298],"type":"Point"}
+  "bbox": [
+    -78.908651,
+    35.074298,
+    -78.908651,
+    35.074298
+],
+  "geometry": {"coordinates":[-78.90865100000001,35.074298],"type":"Point"}
 }

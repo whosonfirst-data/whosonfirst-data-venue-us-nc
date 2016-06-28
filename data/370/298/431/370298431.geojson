@@ -2,13 +2,14 @@
   "id": 370298431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.721004,35.143801,-80.721004,35.143801",
     "geom:latitude":35.143801,
     "geom:longitude":-80.721004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Hayden Way",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370298431,
-    "wof:lastmodified":1449030021,
+    "wof:lastmodified":1466650011,
     "wof:name":"Matthews Motor Company",
     "wof:parent_id":85835249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.721004,35.143801,-80.721004,35.143801],
-  "geometry": {"coordinates":[-80.721004,35.143801],"type":"Point"}
+  "bbox": [
+    -80.721004,
+    35.143801,
+    -80.721004,
+    35.143801
+],
+  "geometry": {"coordinates":[-80.72100399999999,35.143801],"type":"Point"}
 }

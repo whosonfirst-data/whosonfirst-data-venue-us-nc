@@ -2,13 +2,14 @@
   "id": 336749245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.383268,34.765195,-77.383268,34.765195",
     "geom:latitude":34.765195,
     "geom:longitude":-77.383268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Western Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336749245,
-    "wof:lastmodified":1448997262,
+    "wof:lastmodified":1466648091,
     "wof:name":"Charge Jewelers",
     "wof:parent_id":85812495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-77.383268,34.765195,-77.383268,34.765195],
+  "bbox": [
+    -77.383268,
+    34.765195,
+    -77.383268,
+    34.765195
+],
   "geometry": {"coordinates":[-77.383268,34.765195],"type":"Point"}
 }

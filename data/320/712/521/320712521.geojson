@@ -2,13 +2,14 @@
   "id": 320712521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.261944,35.789388,-80.261944,35.789388",
     "geom:latitude":35.789388,
     "geom:longitude":-80.261944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Cotton Grove Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320712521,
-    "wof:lastmodified":1449012860,
+    "wof:lastmodified":1466655434,
     "wof:name":"Transmission Center",
     "wof:parent_id":85833799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-80.261944,35.789388,-80.261944,35.789388],
+  "bbox": [
+    -80.261944,
+    35.789388,
+    -80.261944,
+    35.789388
+],
   "geometry": {"coordinates":[-80.261944,35.789388],"type":"Point"}
 }

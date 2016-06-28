@@ -2,13 +2,14 @@
   "id": 236682399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.940012,34.23103,-77.940012,34.23103",
     "geom:latitude":34.23103,
     "geom:longitude":-77.940012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S 7th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236682399,
-    "wof:lastmodified":1449002106,
+    "wof:lastmodified":1466649306,
     "wof:name":"Assurant Health",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accident"
     ]
 },
-  "bbox": [-77.940012,34.23103,-77.940012,34.23103],
+  "bbox": [
+    -77.940012,
+    34.23103,
+    -77.940012,
+    34.23103
+],
   "geometry": {"coordinates":[-77.940012,34.23103],"type":"Point"}
 }

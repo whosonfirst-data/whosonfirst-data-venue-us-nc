@@ -2,13 +2,14 @@
   "id": 253035713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.855076,36.060938,-79.855076,36.060938",
     "geom:latitude":36.060938,
     "geom:longitude":-79.855076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3512 Spring Garden St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253035713,
-    "wof:lastmodified":1449065200,
+    "wof:lastmodified":1466643505,
     "wof:name":"The Spot",
     "wof:parent_id":85826501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.855076,36.060938,-79.855076,36.060938],
+  "bbox": [
+    -79.855076,
+    36.060938,
+    -79.855076,
+    36.060938
+],
   "geometry": {"coordinates":[-79.855076,36.060938],"type":"Point"}
 }

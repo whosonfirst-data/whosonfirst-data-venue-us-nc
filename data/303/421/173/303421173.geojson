@@ -2,13 +2,14 @@
   "id": 303421173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.916598,35.7325,-79.916598,35.7325",
     "geom:latitude":35.7325,
     "geom:longitude":-79.916598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4760 Old Lexington Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303421173,
-    "wof:lastmodified":1448999669,
+    "wof:lastmodified":1466649379,
     "wof:name":"Streets Cnstr & Hm Imprv",
     "wof:parent_id":85844107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.916598,35.7325,-79.916598,35.7325],
-  "geometry": {"coordinates":[-79.916598,35.7325],"type":"Point"}
+  "bbox": [
+    -79.916598,
+    35.7325,
+    -79.916598,
+    35.7325
+],
+  "geometry": {"coordinates":[-79.91659799999999,35.7325],"type":"Point"}
 }

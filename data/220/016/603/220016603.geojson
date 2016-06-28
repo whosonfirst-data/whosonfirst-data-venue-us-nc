@@ -2,13 +2,14 @@
   "id": 220016603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.678331,36.13565,-80.678331,36.13565",
     "geom:latitude":36.13565,
     "geom:longitude":-80.678331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Old US Hwy 421",
     "sg:city":"Yadkinville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220016603,
-    "wof:lastmodified":1449074182,
+    "wof:lastmodified":1466643345,
     "wof:name":"Yadkin Rescue Squad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "protection"
     ]
 },
-  "bbox": [-80.678331,36.13565,-80.678331,36.13565],
+  "bbox": [
+    -80.678331,
+    36.13565,
+    -80.678331,
+    36.13565
+],
   "geometry": {"coordinates":[-80.678331,36.13565],"type":"Point"}
 }

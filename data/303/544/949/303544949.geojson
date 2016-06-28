@@ -2,13 +2,14 @@
   "id": 303544949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.450156,34.78729,-79.450156,34.78729",
     "geom:latitude":34.78729,
     "geom:longitude":-79.450156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Wagram St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303544949,
-    "wof:lastmodified":1449000561,
+    "wof:lastmodified":1466651164,
     "wof:name":"Fun Kids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wear"
     ]
 },
-  "bbox": [-79.450156,34.78729,-79.450156,34.78729],
-  "geometry": {"coordinates":[-79.450156,34.78729],"type":"Point"}
+  "bbox": [
+    -79.450156,
+    34.78729,
+    -79.450156,
+    34.78729
+],
+  "geometry": {"coordinates":[-79.45015600000001,34.78729],"type":"Point"}
 }

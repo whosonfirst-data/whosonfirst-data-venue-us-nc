@@ -2,13 +2,14 @@
   "id": 203342181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.933112,35.985317,-78.933112,35.985317",
     "geom:latitude":35.985317,
     "geom:longitude":-78.933112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2214 Prince St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203342181,
-    "wof:lastmodified":1449026741,
+    "wof:lastmodified":1466643547,
     "wof:name":"Pats Personal Typing",
     "wof:parent_id":85877191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-78.933112,35.985317,-78.933112,35.985317],
-  "geometry": {"coordinates":[-78.933112,35.985317],"type":"Point"}
+  "bbox": [
+    -78.933112,
+    35.985317,
+    -78.933112,
+    35.985317
+],
+  "geometry": {"coordinates":[-78.93311199999999,35.985317],"type":"Point"}
 }

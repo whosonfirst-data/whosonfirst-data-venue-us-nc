@@ -2,13 +2,14 @@
   "id": 320223959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.390803,36.013,-80.390803,36.013",
     "geom:latitude":36.013,
     "geom:longitude":-80.390803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 Tangle Oak Dr",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320223959,
-    "wof:lastmodified":1449011503,
+    "wof:lastmodified":1466648430,
     "wof:name":"J Warren & Assoc",
     "wof:parent_id":85811307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.390803,36.013,-80.390803,36.013],
-  "geometry": {"coordinates":[-80.390803,36.013],"type":"Point"}
+  "bbox": [
+    -80.390803,
+    36.013,
+    -80.390803,
+    36.013
+],
+  "geometry": {"coordinates":[-80.39080300000001,36.013],"type":"Point"}
 }

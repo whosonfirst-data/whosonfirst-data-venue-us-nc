@@ -2,13 +2,14 @@
   "id": 236970265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.333022,36.069616,-80.333022,36.069616",
     "geom:latitude":36.069616,
     "geom:longitude":-80.333022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Hanes Mall Blvd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236970265,
-    "wof:lastmodified":1449005179,
+    "wof:lastmodified":1466651928,
     "wof:name":"Tobacco Leaf",
     "wof:parent_id":85827611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.333022,36.069616,-80.333022,36.069616],
+  "bbox": [
+    -80.333022,
+    36.069616,
+    -80.333022,
+    36.069616
+],
   "geometry": {"coordinates":[-80.333022,36.069616],"type":"Point"}
 }

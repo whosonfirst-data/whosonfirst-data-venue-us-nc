@@ -2,13 +2,14 @@
   "id": 370300457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.356993,35.388474,-82.356993,35.388474",
     "geom:latitude":35.388474,
     "geom:longitude":-82.356993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Poly Dr",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370300457,
-    "wof:lastmodified":1449030976,
+    "wof:lastmodified":1466650038,
     "wof:name":"Acme Fence Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-82.356993,35.388474,-82.356993,35.388474],
+  "bbox": [
+    -82.356993,
+    35.388474,
+    -82.356993,
+    35.388474
+],
   "geometry": {"coordinates":[-82.356993,35.388474],"type":"Point"}
 }

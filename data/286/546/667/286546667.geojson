@@ -2,13 +2,14 @@
   "id": 286546667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.296906,35.922401,-82.296906,35.922401",
     "geom:latitude":35.922401,
     "geom:longitude":-82.296906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Lincoln Park Rd",
     "sg:city":"Burnsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286546667,
-    "wof:lastmodified":1449015162,
+    "wof:lastmodified":1466646997,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.296906,35.922401,-82.296906,35.922401],
-  "geometry": {"coordinates":[-82.296906,35.922401],"type":"Point"}
+  "bbox": [
+    -82.296906,
+    35.922401,
+    -82.296906,
+    35.922401
+],
+  "geometry": {"coordinates":[-82.29690600000001,35.922401],"type":"Point"}
 }

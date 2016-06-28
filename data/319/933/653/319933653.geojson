@@ -2,13 +2,14 @@
   "id": 319933653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.496319,34.760336,-79.496319,34.760336",
     "geom:latitude":34.760336,
     "geom:longitude":-79.496319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 Stonewall Rd",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319933653,
-    "wof:lastmodified":1449024251,
+    "wof:lastmodified":1466646528,
     "wof:name":"Meadows Of Laurinburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rest"
     ]
 },
-  "bbox": [-79.496319,34.760336,-79.496319,34.760336],
+  "bbox": [
+    -79.496319,
+    34.760336,
+    -79.496319,
+    34.760336
+],
   "geometry": {"coordinates":[-79.496319,34.760336],"type":"Point"}
 }

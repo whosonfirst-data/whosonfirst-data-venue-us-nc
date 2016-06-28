@@ -2,13 +2,14 @@
   "id": 286306703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.014457,36.449578,-76.014457,36.449578",
     "geom:latitude":36.449578,
     "geom:longitude":-76.014457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Courthouse Rd",
     "sg:city":"Currituck",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286306703,
-    "wof:lastmodified":1449017956,
+    "wof:lastmodified":1466643821,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.014457,36.449578,-76.014457,36.449578],
-  "geometry": {"coordinates":[-76.014457,36.449578],"type":"Point"}
+  "bbox": [
+    -76.014457,
+    36.449578,
+    -76.014457,
+    36.449578
+],
+  "geometry": {"coordinates":[-76.01445699999999,36.449578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236598055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.960107,36.071494,-78.960107,36.071494",
     "geom:latitude":36.071494,
     "geom:longitude":-78.960107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2334 Thunder Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236598055,
-    "wof:lastmodified":1449001806,
+    "wof:lastmodified":1466648510,
     "wof:name":"Bryan Neve",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.960107,36.071494,-78.960107,36.071494],
-  "geometry": {"coordinates":[-78.960107,36.071494],"type":"Point"}
+  "bbox": [
+    -78.960107,
+    36.071494,
+    -78.960107,
+    36.071494
+],
+  "geometry": {"coordinates":[-78.96010699999999,36.071494],"type":"Point"}
 }

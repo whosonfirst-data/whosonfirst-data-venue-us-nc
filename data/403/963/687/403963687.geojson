@@ -2,13 +2,14 @@
   "id": 403963687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.196526,35.053518,-83.196526,35.053518",
     "geom:latitude":35.053518,
     "geom:longitude":-83.196526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 N 4th St",
     "sg:city":"Highlands",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403963687,
-    "wof:lastmodified":1449054766,
+    "wof:lastmodified":1466653722,
     "wof:name":"Old Edwards Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-83.196526,35.053518,-83.196526,35.053518],
-  "geometry": {"coordinates":[-83.196526,35.053518],"type":"Point"}
+  "bbox": [
+    -83.196526,
+    35.053518,
+    -83.196526,
+    35.053518
+],
+  "geometry": {"coordinates":[-83.19652600000001,35.053518],"type":"Point"}
 }

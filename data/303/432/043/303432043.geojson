@@ -2,13 +2,14 @@
   "id": 303432043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.528784,35.45432,-78.528784,35.45432",
     "geom:latitude":35.45432,
     "geom:longitude":-78.528784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Federal Rd",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303432043,
-    "wof:lastmodified":1448998073,
+    "wof:lastmodified":1466649534,
     "wof:name":"Elevation Fire Dept",
     "wof:parent_id":85852085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-78.528784,35.45432,-78.528784,35.45432],
+  "bbox": [
+    -78.528784,
+    35.45432,
+    -78.528784,
+    35.45432
+],
   "geometry": {"coordinates":[-78.528784,35.45432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270144179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.735296,35.098192,-80.735296,35.098192",
     "geom:latitude":35.098192,
     "geom:longitude":-80.735296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Windlock Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":270144179,
-    "wof:lastmodified":1449010451,
+    "wof:lastmodified":1466644902,
     "wof:name":"Advanced Audio Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-80.735296,35.098192,-80.735296,35.098192],
-  "geometry": {"coordinates":[-80.735296,35.098192],"type":"Point"}
+  "bbox": [
+    -80.735296,
+    35.098192,
+    -80.735296,
+    35.098192
+],
+  "geometry": {"coordinates":[-80.73529600000001,35.098192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337479121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.166823,35.275697,-77.166823,35.275697",
     "geom:latitude":35.275697,
     "geom:longitude":-77.166823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 State Camp Rd",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337479121,
-    "wof:lastmodified":1449027510,
+    "wof:lastmodified":1466647276,
     "wof:name":"U S Associates Inc",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.166823,35.275697,-77.166823,35.275697],
-  "geometry": {"coordinates":[-77.166823,35.275697],"type":"Point"}
+  "bbox": [
+    -77.166823,
+    35.275697,
+    -77.166823,
+    35.275697
+],
+  "geometry": {"coordinates":[-77.16682299999999,35.275697],"type":"Point"}
 }

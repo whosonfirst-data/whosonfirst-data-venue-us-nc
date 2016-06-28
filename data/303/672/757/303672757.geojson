@@ -2,13 +2,14 @@
   "id": 303672757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.416795,35.529463,-77.416795,35.529463",
     "geom:latitude":35.529463,
     "geom:longitude":-77.416795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4918 Reedy Branch Rd",
     "sg:city":"Winterville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303672757,
-    "wof:lastmodified":1448998275,
+    "wof:lastmodified":1466653017,
     "wof:name":"Southeastern Exteriors",
     "wof:parent_id":85845283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-77.416795,35.529463,-77.416795,35.529463],
-  "geometry": {"coordinates":[-77.416795,35.529463],"type":"Point"}
+  "bbox": [
+    -77.416795,
+    35.529463,
+    -77.416795,
+    35.529463
+],
+  "geometry": {"coordinates":[-77.41679499999999,35.529463],"type":"Point"}
 }

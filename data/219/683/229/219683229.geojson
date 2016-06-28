@@ -2,13 +2,14 @@
   "id": 219683229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.821329,34.259197,-77.821329,34.259197",
     "geom:latitude":34.259197,
     "geom:longitude":-77.821329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7107 Privateer Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219683229,
-    "wof:lastmodified":1449071689,
+    "wof:lastmodified":1466646216,
     "wof:name":"Release Enterprises",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.821329,34.259197,-77.821329,34.259197],
-  "geometry": {"coordinates":[-77.821329,34.259197],"type":"Point"}
+  "bbox": [
+    -77.821329,
+    34.259197,
+    -77.821329,
+    34.259197
+],
+  "geometry": {"coordinates":[-77.82132900000001,34.259197],"type":"Point"}
 }

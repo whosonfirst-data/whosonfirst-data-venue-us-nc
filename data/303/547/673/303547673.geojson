@@ -2,13 +2,14 @@
   "id": 303547673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.741565,35.904603,-80.741565,35.904603",
     "geom:latitude":35.904603,
     "geom:longitude":-80.741565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Cartner Rd",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303547673,
-    "wof:lastmodified":1448998370,
+    "wof:lastmodified":1466651210,
     "wof:name":"Cartner's Hilltop Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-80.741565,35.904603,-80.741565,35.904603],
-  "geometry": {"coordinates":[-80.741565,35.904603],"type":"Point"}
+  "bbox": [
+    -80.741565,
+    35.904603,
+    -80.741565,
+    35.904603
+],
+  "geometry": {"coordinates":[-80.74156499999999,35.904603],"type":"Point"}
 }

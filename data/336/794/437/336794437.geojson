@@ -2,13 +2,14 @@
   "id": 336794437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.527419,35.944065,-78.527419,35.944065",
     "geom:latitude":35.944065,
     "geom:longitude":-78.527419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10033 Seawell Dr",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336794437,
-    "wof:lastmodified":1448997469,
+    "wof:lastmodified":1466648801,
     "wof:name":"Willow Landscaping",
     "wof:parent_id":85892189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.527419,35.944065,-78.527419,35.944065],
-  "geometry": {"coordinates":[-78.527419,35.944065],"type":"Point"}
+  "bbox": [
+    -78.527419,
+    35.944065,
+    -78.527419,
+    35.944065
+],
+  "geometry": {"coordinates":[-78.52741899999999,35.944065],"type":"Point"}
 }

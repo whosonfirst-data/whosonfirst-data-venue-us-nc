@@ -2,13 +2,14 @@
   "id": 303988451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.814601,35.331258,-80.814601,35.331258",
     "geom:latitude":35.331258,
     "geom:longitude":-80.814601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4915 Misty Oaks Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303988451,
-    "wof:lastmodified":1448998961,
+    "wof:lastmodified":1466656919,
     "wof:name":"Oaks Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.814601,35.331258,-80.814601,35.331258],
+  "bbox": [
+    -80.814601,
+    35.331258,
+    -80.814601,
+    35.331258
+],
   "geometry": {"coordinates":[-80.814601,35.331258],"type":"Point"}
 }

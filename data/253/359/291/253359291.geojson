@@ -2,13 +2,14 @@
   "id": 253359291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.975491,35.165171,-78.975491,35.165171",
     "geom:latitude":35.165171,
     "geom:longitude":-78.975491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S Main St",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253359291,
-    "wof:lastmodified":1449062780,
+    "wof:lastmodified":1466646681,
     "wof:name":"Crown Cleaners",
     "wof:parent_id":85804723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-78.975491,35.165171,-78.975491,35.165171],
-  "geometry": {"coordinates":[-78.975491,35.165171],"type":"Point"}
+  "bbox": [
+    -78.975491,
+    35.165171,
+    -78.975491,
+    35.165171
+],
+  "geometry": {"coordinates":[-78.97549100000001,35.165171],"type":"Point"}
 }

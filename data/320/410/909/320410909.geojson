@@ -2,13 +2,14 @@
   "id": 320410909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.964575,35.252184,-78.964575,35.252184",
     "geom:latitude":35.252184,
     "geom:longitude":-78.964575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Northpoint Rd",
     "sg:city":"Mount Olive",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320410909,
-    "wof:lastmodified":1449011310,
+    "wof:lastmodified":1466651083,
     "wof:name":"Northpoint Apartments",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.964575,35.252184,-78.964575,35.252184],
+  "bbox": [
+    -78.964575,
+    35.252184,
+    -78.964575,
+    35.252184
+],
   "geometry": {"coordinates":[-78.964575,35.252184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202531939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.651042,35.807866,-78.651042,35.807866",
     "geom:latitude":35.807866,
     "geom:longitude":-78.651042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2106 Woodland Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202531939,
-    "wof:lastmodified":1449060706,
+    "wof:lastmodified":1466655198,
     "wof:name":"Datadirect Networks",
     "wof:parent_id":85824345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "devices"
     ]
 },
-  "bbox": [-78.651042,35.807866,-78.651042,35.807866],
+  "bbox": [
+    -78.651042,
+    35.807866,
+    -78.651042,
+    35.807866
+],
   "geometry": {"coordinates":[-78.651042,35.807866],"type":"Point"}
 }

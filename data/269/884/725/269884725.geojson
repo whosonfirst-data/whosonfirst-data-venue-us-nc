@@ -2,13 +2,14 @@
   "id": 269884725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.865356,35.21549,-80.865356,35.21549",
     "geom:latitude":35.21549,
     "geom:longitude":-80.865356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 West Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269884725,
-    "wof:lastmodified":1449038377,
+    "wof:lastmodified":1466647914,
     "wof:name":"Homevestors",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.865356,35.21549,-80.865356,35.21549],
-  "geometry": {"coordinates":[-80.865356,35.21549],"type":"Point"}
+  "bbox": [
+    -80.865356,
+    35.21549,
+    -80.865356,
+    35.21549
+],
+  "geometry": {"coordinates":[-80.86535600000001,35.21549],"type":"Point"}
 }

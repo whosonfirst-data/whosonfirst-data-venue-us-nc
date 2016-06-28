@@ -2,13 +2,14 @@
   "id": 387570377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.83759,36.098783,-79.83759,36.098783",
     "geom:latitude":36.098783,
     "geom:longitude":-79.83759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3114 Northampton Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387570377,
-    "wof:lastmodified":1449058362,
+    "wof:lastmodified":1466656495,
     "wof:name":"A-Marvin Reed Electric Co",
     "wof:parent_id":85822891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.83759,36.098783,-79.83759,36.098783],
-  "geometry": {"coordinates":[-79.83759,36.098783],"type":"Point"}
+  "bbox": [
+    -79.83759,
+    36.098783,
+    -79.83759,
+    36.098783
+],
+  "geometry": {"coordinates":[-79.83759000000001,36.098783],"type":"Point"}
 }

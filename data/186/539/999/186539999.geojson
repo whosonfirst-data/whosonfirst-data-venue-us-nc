@@ -2,13 +2,14 @@
   "id": 186539999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.233445,36.122015,-80.233445,36.122015",
     "geom:latitude":36.122015,
     "geom:longitude":-80.233445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 E 25th St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186539999,
-    "wof:lastmodified":1449053077,
+    "wof:lastmodified":1466654611,
     "wof:name":"25th Street Coin Laundry",
     "wof:parent_id":85838183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-80.233445,36.122015,-80.233445,36.122015],
+  "bbox": [
+    -80.233445,
+    36.122015,
+    -80.233445,
+    36.122015
+],
   "geometry": {"coordinates":[-80.233445,36.122015],"type":"Point"}
 }

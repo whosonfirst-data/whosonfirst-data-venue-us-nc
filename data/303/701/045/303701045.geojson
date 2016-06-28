@@ -2,13 +2,14 @@
   "id": 303701045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.008445,35.301167,-81.008445,35.301167",
     "geom:latitude":35.301167,
     "geom:longitude":-81.008445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Dutch Ave",
     "sg:city":"Mount Holly",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303701045,
-    "wof:lastmodified":1449000054,
+    "wof:lastmodified":1466653430,
     "wof:name":"Hair By Cynthia",
     "wof:parent_id":85826219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.008445,35.301167,-81.008445,35.301167],
-  "geometry": {"coordinates":[-81.008445,35.301167],"type":"Point"}
+  "bbox": [
+    -81.008445,
+    35.301167,
+    -81.008445,
+    35.301167
+],
+  "geometry": {"coordinates":[-81.00844499999999,35.301167],"type":"Point"}
 }

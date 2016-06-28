@@ -2,13 +2,14 @@
   "id": 354036667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.460946,35.669111,-80.460946,35.669111",
     "geom:latitude":35.669111,
     "geom:longitude":-80.460946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Long St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354036667,
-    "wof:lastmodified":1449066298,
+    "wof:lastmodified":1466647980,
     "wof:name":"Thermo Industries",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-80.460946,35.669111,-80.460946,35.669111],
-  "geometry": {"coordinates":[-80.460946,35.669111],"type":"Point"}
+  "bbox": [
+    -80.460946,
+    35.669111,
+    -80.460946,
+    35.669111
+],
+  "geometry": {"coordinates":[-80.46094600000001,35.669111],"type":"Point"}
 }

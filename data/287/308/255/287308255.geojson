@@ -2,13 +2,14 @@
   "id": 287308255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.041215,35.910405,-79.041215,35.910405",
     "geom:latitude":35.910405,
     "geom:longitude":-79.041215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Country Club Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287308255,
-    "wof:lastmodified":1449001608,
+    "wof:lastmodified":1466647556,
     "wof:name":"Jeffrey A Leiberman MD",
     "wof:parent_id":85813631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatrist"
     ]
 },
-  "bbox": [-79.041215,35.910405,-79.041215,35.910405],
-  "geometry": {"coordinates":[-79.041215,35.910405],"type":"Point"}
+  "bbox": [
+    -79.041215,
+    35.910405,
+    -79.041215,
+    35.910405
+],
+  "geometry": {"coordinates":[-79.04121499999999,35.910405],"type":"Point"}
 }

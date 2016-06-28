@@ -2,13 +2,14 @@
   "id": 320398777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.60666,34.759829,-79.60666,34.759829",
     "geom:latitude":34.759829,
     "geom:longitude":-79.60666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4681 Main St",
     "sg:city":"Gibson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320398777,
-    "wof:lastmodified":1449011546,
+    "wof:lastmodified":1466650908,
     "wof:name":"Gibson Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-79.60666,34.759829,-79.60666,34.759829],
-  "geometry": {"coordinates":[-79.60666,34.759829],"type":"Point"}
+  "bbox": [
+    -79.60666,
+    34.759829,
+    -79.60666,
+    34.759829
+],
+  "geometry": {"coordinates":[-79.60666000000001,34.759829],"type":"Point"}
 }

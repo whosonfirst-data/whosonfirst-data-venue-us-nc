@@ -2,13 +2,14 @@
   "id": 203303865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942811,35.960196,-79.942811,35.960196",
     "geom:latitude":35.960196,
     "geom:longitude":-79.942811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Elon Pl",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203303865,
-    "wof:lastmodified":1449024954,
+    "wof:lastmodified":1466643271,
     "wof:name":"Robertson's Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "furniture"
     ]
 },
-  "bbox": [-79.942811,35.960196,-79.942811,35.960196],
-  "geometry": {"coordinates":[-79.942811,35.960196],"type":"Point"}
+  "bbox": [
+    -79.942811,
+    35.960196,
+    -79.942811,
+    35.960196
+],
+  "geometry": {"coordinates":[-79.94281100000001,35.960196],"type":"Point"}
 }

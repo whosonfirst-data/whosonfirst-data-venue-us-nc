@@ -2,13 +2,14 @@
   "id": 336752315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.418362,35.602985,-77.418362,35.602985",
     "geom:latitude":35.602985,
     "geom:longitude":-77.418362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Johns Hopkins Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336752315,
-    "wof:lastmodified":1448997124,
+    "wof:lastmodified":1466648134,
     "wof:name":"Pitt Surgical",
     "wof:parent_id":85853845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.418362,35.602985,-77.418362,35.602985],
+  "bbox": [
+    -77.418362,
+    35.602985,
+    -77.418362,
+    35.602985
+],
   "geometry": {"coordinates":[-77.418362,35.602985],"type":"Point"}
 }

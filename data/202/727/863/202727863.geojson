@@ -2,13 +2,14 @@
   "id": 202727863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.786414,34.218949,-77.786414,34.218949",
     "geom:latitude":34.218949,
     "geom:longitude":-77.786414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Sea Oats Ln",
     "sg:city":"Wrightsville Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202727863,
-    "wof:lastmodified":1449060489,
+    "wof:lastmodified":1466643627,
     "wof:name":"Barnes Thompson Landscape Svc",
     "wof:parent_id":85840829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-77.786414,34.218949,-77.786414,34.218949],
-  "geometry": {"coordinates":[-77.786414,34.218949],"type":"Point"}
+  "bbox": [
+    -77.786414,
+    34.218949,
+    -77.786414,
+    34.218949
+],
+  "geometry": {"coordinates":[-77.78641399999999,34.218949],"type":"Point"}
 }

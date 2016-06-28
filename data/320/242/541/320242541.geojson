@@ -2,13 +2,14 @@
   "id": 320242541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.889728,35.994479,-78.889728,35.994479",
     "geom:latitude":35.994479,
     "geom:longitude":-78.889728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Holloway St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320242541,
-    "wof:lastmodified":1449014518,
+    "wof:lastmodified":1466648692,
     "wof:name":"Phoenix House",
     "wof:parent_id":85877121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.889728,35.994479,-78.889728,35.994479],
-  "geometry": {"coordinates":[-78.889728,35.994479],"type":"Point"}
+  "bbox": [
+    -78.889728,
+    35.994479,
+    -78.889728,
+    35.994479
+],
+  "geometry": {"coordinates":[-78.88972800000001,35.994479],"type":"Point"}
 }

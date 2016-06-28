@@ -2,13 +2,14 @@
   "id": 303583013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943499,35.990387,-79.943499,35.990387",
     "geom:latitude":35.990387,
     "geom:longitude":-79.943499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Wade St",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303583013,
-    "wof:lastmodified":1449000052,
+    "wof:lastmodified":1466651701,
     "wof:name":"Swedish Yarn Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yarn"
     ]
 },
-  "bbox": [-79.943499,35.990387,-79.943499,35.990387],
+  "bbox": [
+    -79.943499,
+    35.990387,
+    -79.943499,
+    35.990387
+],
   "geometry": {"coordinates":[-79.943499,35.990387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269490561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.783679,36.067306,-79.783679,36.067306",
     "geom:latitude":36.067306,
     "geom:longitude":-79.783679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Plott St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269490561,
-    "wof:lastmodified":1449038739,
+    "wof:lastmodified":1466643291,
     "wof:name":"EBOQ Inc",
     "wof:parent_id":85877995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.783679,36.067306,-79.783679,36.067306],
-  "geometry": {"coordinates":[-79.783679,36.067306],"type":"Point"}
+  "bbox": [
+    -79.783679,
+    36.067306,
+    -79.783679,
+    36.067306
+],
+  "geometry": {"coordinates":[-79.78367900000001,36.067306],"type":"Point"}
 }

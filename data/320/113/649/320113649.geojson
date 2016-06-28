@@ -2,13 +2,14 @@
   "id": 320113649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.695962,34.322483,-78.695962,34.322483",
     "geom:latitude":34.322483,
     "geom:longitude":-78.695962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E Main St",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320113649,
-    "wof:lastmodified":1449014656,
+    "wof:lastmodified":1466646897,
     "wof:name":"McPherson Well & Pump Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-78.695962,34.322483,-78.695962,34.322483],
-  "geometry": {"coordinates":[-78.695962,34.322483],"type":"Point"}
+  "bbox": [
+    -78.695962,
+    34.322483,
+    -78.695962,
+    34.322483
+],
+  "geometry": {"coordinates":[-78.69596199999999,34.322483],"type":"Point"}
 }

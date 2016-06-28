@@ -2,13 +2,14 @@
   "id": 202713787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.797728,35.602356,-80.797728,35.602356",
     "geom:latitude":35.602356,
     "geom:longitude":-80.797728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Devon Forrest Dr",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202713787,
-    "wof:lastmodified":1449062413,
+    "wof:lastmodified":1466643528,
     "wof:name":"Cedar Croft Homes",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-80.797728,35.602356,-80.797728,35.602356],
-  "geometry": {"coordinates":[-80.797728,35.602356],"type":"Point"}
+  "bbox": [
+    -80.797728,
+    35.602356,
+    -80.797728,
+    35.602356
+],
+  "geometry": {"coordinates":[-80.79772800000001,35.602356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269621087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.415353,34.749877,-77.415353,34.749877",
     "geom:latitude":34.749877,
     "geom:longitude":-77.415353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Hargett St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269621087,
-    "wof:lastmodified":1449038645,
+    "wof:lastmodified":1466644854,
     "wof:name":"Fidelity Planning Svc",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planning"
     ]
 },
-  "bbox": [-77.415353,34.749877,-77.415353,34.749877],
+  "bbox": [
+    -77.415353,
+    34.749877,
+    -77.415353,
+    34.749877
+],
   "geometry": {"coordinates":[-77.415353,34.749877],"type":"Point"}
 }

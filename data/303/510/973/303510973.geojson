@@ -2,13 +2,14 @@
   "id": 303510973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.824243,36.082121,-79.824243,36.082121",
     "geom:latitude":36.082121,
     "geom:longitude":-79.824243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Pastuer Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303510973,
-    "wof:lastmodified":1448999593,
+    "wof:lastmodified":1466650678,
     "wof:name":"High Point Medical Society",
     "wof:parent_id":85851563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-79.824243,36.082121,-79.824243,36.082121],
+  "bbox": [
+    -79.824243,
+    36.082121,
+    -79.824243,
+    36.082121
+],
   "geometry": {"coordinates":[-79.824243,36.082121],"type":"Point"}
 }

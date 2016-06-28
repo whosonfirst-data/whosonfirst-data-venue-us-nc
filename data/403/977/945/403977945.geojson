@@ -2,13 +2,14 @@
   "id": 403977945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.722901,35.331955,-80.722901,35.331955",
     "geom:latitude":35.331955,
     "geom:longitude":-80.722901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11020 N Tryon St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":403977945,
-    "wof:lastmodified":1449056006,
+    "wof:lastmodified":1466653907,
     "wof:name":"Morningstar Blockbuster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.722901,35.331955,-80.722901,35.331955],
-  "geometry": {"coordinates":[-80.722901,35.331955],"type":"Point"}
+  "bbox": [
+    -80.722901,
+    35.331955,
+    -80.722901,
+    35.331955
+],
+  "geometry": {"coordinates":[-80.72290099999999,35.331955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387048751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.473959,35.640127,-80.473959,35.640127",
     "geom:latitude":35.640127,
     "geom:longitude":-80.473959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Old Concord Rd",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387048751,
-    "wof:lastmodified":1449057418,
+    "wof:lastmodified":1466650494,
     "wof:name":"James A Mull",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.473959,35.640127,-80.473959,35.640127],
-  "geometry": {"coordinates":[-80.473959,35.640127],"type":"Point"}
+  "bbox": [
+    -80.473959,
+    35.640127,
+    -80.473959,
+    35.640127
+],
+  "geometry": {"coordinates":[-80.47395899999999,35.640127],"type":"Point"}
 }

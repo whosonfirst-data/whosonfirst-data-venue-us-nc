@@ -2,13 +2,14 @@
   "id": 303716219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.380035,34.74906,-77.380035,34.74906",
     "geom:latitude":34.74906,
     "geom:longitude":-77.380035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Brynn Marr Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303716219,
-    "wof:lastmodified":1448998465,
+    "wof:lastmodified":1466653652,
     "wof:name":"Padgett Properties",
     "wof:parent_id":85808245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.380035,34.74906,-77.380035,34.74906],
-  "geometry": {"coordinates":[-77.380035,34.74906],"type":"Point"}
+  "bbox": [
+    -77.380035,
+    34.74906,
+    -77.380035,
+    34.74906
+],
+  "geometry": {"coordinates":[-77.38003500000001,34.74906],"type":"Point"}
 }

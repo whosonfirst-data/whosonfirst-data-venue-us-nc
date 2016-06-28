@@ -2,13 +2,14 @@
   "id": 270483649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.528687,35.529869,-82.528687,35.529869",
     "geom:latitude":35.529869,
     "geom:longitude":-82.528687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Hendersonville Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270483649,
-    "wof:lastmodified":1449010541,
+    "wof:lastmodified":1466649217,
     "wof:name":"Fitness One On One",
     "wof:parent_id":85808373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-82.528687,35.529869,-82.528687,35.529869],
-  "geometry": {"coordinates":[-82.528687,35.529869],"type":"Point"}
+  "bbox": [
+    -82.528687,
+    35.529869,
+    -82.528687,
+    35.529869
+],
+  "geometry": {"coordinates":[-82.52868700000001,35.529869],"type":"Point"}
 }

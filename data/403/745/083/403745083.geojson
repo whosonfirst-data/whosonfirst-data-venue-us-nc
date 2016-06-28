@@ -2,13 +2,14 @@
   "id": 403745083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.060449,35.911291,-79.060449,35.911291",
     "geom:latitude":35.911291,
     "geom:longitude":-79.060449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 W Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403745083,
-    "wof:lastmodified":1449055889,
+    "wof:lastmodified":1466650875,
     "wof:name":"Michael W Patrick",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.060449,35.911291,-79.060449,35.911291],
-  "geometry": {"coordinates":[-79.060449,35.911291],"type":"Point"}
+  "bbox": [
+    -79.060449,
+    35.911291,
+    -79.060449,
+    35.911291
+],
+  "geometry": {"coordinates":[-79.06044900000001,35.911291],"type":"Point"}
 }

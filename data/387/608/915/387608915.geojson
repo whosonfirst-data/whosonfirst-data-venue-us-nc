@@ -2,13 +2,14 @@
   "id": 387608915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.565294,34.982648,-80.565294,34.982648",
     "geom:latitude":34.982648,
     "geom:longitude":-80.565294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Westover Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387608915,
-    "wof:lastmodified":1449057737,
+    "wof:lastmodified":1466656917,
     "wof:name":"Lawn Scapes",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "irrigation"
     ]
 },
-  "bbox": [-80.565294,34.982648,-80.565294,34.982648],
-  "geometry": {"coordinates":[-80.565294,34.982648],"type":"Point"}
+  "bbox": [
+    -80.565294,
+    34.982648,
+    -80.565294,
+    34.982648
+],
+  "geometry": {"coordinates":[-80.56529399999999,34.982648],"type":"Point"}
 }

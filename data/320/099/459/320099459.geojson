@@ -2,13 +2,14 @@
   "id": 320099459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.681153,35.731978,-80.681153,35.731978",
     "geom:latitude":35.731978,
     "geom:longitude":-80.681153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Main St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320099459,
-    "wof:lastmodified":1449013697,
+    "wof:lastmodified":1466646691,
     "wof:name":"Take A Peek Boutique",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boutique"
     ]
 },
-  "bbox": [-80.681153,35.731978,-80.681153,35.731978],
-  "geometry": {"coordinates":[-80.681153,35.731978],"type":"Point"}
+  "bbox": [
+    -80.681153,
+    35.731978,
+    -80.681153,
+    35.731978
+],
+  "geometry": {"coordinates":[-80.68115299999999,35.731978],"type":"Point"}
 }

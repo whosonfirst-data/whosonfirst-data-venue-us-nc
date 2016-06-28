@@ -2,13 +2,14 @@
   "id": 370971197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.313565,35.465624,-77.313565,35.465624",
     "geom:latitude":35.465624,
     "geom:longitude":-77.313565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2680 Doc Loftin Rd",
     "sg:city":"Ayden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370971197,
-    "wof:lastmodified":1449030796,
+    "wof:lastmodified":1466657224,
     "wof:name":"Country Swine Inc",
     "wof:parent_id":85858219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-77.313565,35.465624,-77.313565,35.465624],
+  "bbox": [
+    -77.313565,
+    35.465624,
+    -77.313565,
+    35.465624
+],
   "geometry": {"coordinates":[-77.313565,35.465624],"type":"Point"}
 }

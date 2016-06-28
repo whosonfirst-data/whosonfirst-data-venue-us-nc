@@ -2,13 +2,14 @@
   "id": 303873505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.363269,35.688811,-81.363269,35.688811",
     "geom:latitude":35.688811,
     "geom:longitude":-81.363269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5180 Wright Dr",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303873505,
-    "wof:lastmodified":1448998626,
+    "wof:lastmodified":1466655979,
     "wof:name":"Jerry Thompson's Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.363269,35.688811,-81.363269,35.688811],
+  "bbox": [
+    -81.363269,
+    35.688811,
+    -81.363269,
+    35.688811
+],
   "geometry": {"coordinates":[-81.363269,35.688811],"type":"Point"}
 }

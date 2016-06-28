@@ -2,13 +2,14 @@
   "id": 386995243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.612001,34.427761,-77.612001,34.427761",
     "geom:latitude":34.427761,
     "geom:longitude":-77.612001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Sanderling Cir",
     "sg:city":"Hampstead",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386995243,
-    "wof:lastmodified":1449028937,
+    "wof:lastmodified":1466650255,
     "wof:name":"P A County Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.612001,34.427761,-77.612001,34.427761],
-  "geometry": {"coordinates":[-77.612001,34.427761],"type":"Point"}
+  "bbox": [
+    -77.612001,
+    34.427761,
+    -77.612001,
+    34.427761
+],
+  "geometry": {"coordinates":[-77.61200100000001,34.427761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219405055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.697285,36.230641,-77.697285,36.230641",
     "geom:latitude":36.230641,
     "geom:longitude":-77.697285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3002 Beaverdam Rd",
     "sg:city":"Enfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219405055,
-    "wof:lastmodified":1449073626,
+    "wof:lastmodified":1466644177,
     "wof:name":"Enfield Cotton Gin Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cotton"
     ]
 },
-  "bbox": [-77.697285,36.230641,-77.697285,36.230641],
-  "geometry": {"coordinates":[-77.697285,36.230641],"type":"Point"}
+  "bbox": [
+    -77.697285,
+    36.230641,
+    -77.697285,
+    36.230641
+],
+  "geometry": {"coordinates":[-77.69728499999999,36.230641],"type":"Point"}
 }

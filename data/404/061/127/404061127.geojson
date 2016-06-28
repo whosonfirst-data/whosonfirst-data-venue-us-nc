@@ -2,13 +2,14 @@
   "id": 404061127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.764933,36.489955,-79.764933,36.489955",
     "geom:latitude":36.489955,
     "geom:longitude":-79.764933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Washington St",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404061127,
-    "wof:lastmodified":1449039992,
+    "wof:lastmodified":1466652068,
     "wof:name":"Room In The Inn",
     "wof:parent_id":85805077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.764933,36.489955,-79.764933,36.489955],
+  "bbox": [
+    -79.764933,
+    36.489955,
+    -79.764933,
+    36.489955
+],
   "geometry": {"coordinates":[-79.764933,36.489955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370820813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.66061,36.462498,-77.66061,36.462498",
     "geom:latitude":36.462498,
     "geom:longitude":-77.66061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 Franklin St",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370820813,
-    "wof:lastmodified":1449030829,
+    "wof:lastmodified":1466656466,
     "wof:name":"Roanoke Valley Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-77.66061,36.462498,-77.66061,36.462498],
-  "geometry": {"coordinates":[-77.66061,36.462498],"type":"Point"}
+  "bbox": [
+    -77.66061,
+    36.462498,
+    -77.66061,
+    36.462498
+],
+  "geometry": {"coordinates":[-77.66061000000001,36.462498],"type":"Point"}
 }

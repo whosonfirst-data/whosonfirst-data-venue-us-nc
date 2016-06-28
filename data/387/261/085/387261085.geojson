@@ -2,13 +2,14 @@
   "id": 387261085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.453787,35.80444,-81.453787,35.80444",
     "geom:latitude":35.80444,
     "geom:longitude":-81.453787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3529 Dry Ponds Rd",
     "sg:city":"Granite Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387261085,
-    "wof:lastmodified":1449056178,
+    "wof:lastmodified":1466653300,
     "wof:name":"J G Sales",
     "wof:parent_id":85822593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yarn"
     ]
 },
-  "bbox": [-81.453787,35.80444,-81.453787,35.80444],
-  "geometry": {"coordinates":[-81.453787,35.80444],"type":"Point"}
+  "bbox": [
+    -81.453787,
+    35.80444,
+    -81.453787,
+    35.80444
+],
+  "geometry": {"coordinates":[-81.45378700000001,35.80444],"type":"Point"}
 }

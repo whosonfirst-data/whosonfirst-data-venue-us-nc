@@ -2,13 +2,14 @@
   "id": 270391651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.895917,35.954749,-78.895917,35.954749",
     "geom:latitude":35.954749,
     "geom:longitude":-78.895917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Elmira Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270391651,
-    "wof:lastmodified":1449010229,
+    "wof:lastmodified":1466648021,
     "wof:name":"Tommy Construction",
     "wof:parent_id":85827901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.895917,35.954749,-78.895917,35.954749],
+  "bbox": [
+    -78.895917,
+    35.954749,
+    -78.895917,
+    35.954749
+],
   "geometry": {"coordinates":[-78.895917,35.954749],"type":"Point"}
 }

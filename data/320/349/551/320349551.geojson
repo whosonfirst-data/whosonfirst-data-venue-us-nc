@@ -2,13 +2,14 @@
   "id": 320349551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.561664,35.642769,-82.561664,35.642769",
     "geom:latitude":35.642769,
     "geom:longitude":-82.561664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Stratford Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320349551,
-    "wof:lastmodified":1449012691,
+    "wof:lastmodified":1466650201,
     "wof:name":"Dale G Vandervoort",
     "wof:parent_id":85822395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.561664,35.642769,-82.561664,35.642769],
-  "geometry": {"coordinates":[-82.561664,35.642769],"type":"Point"}
+  "bbox": [
+    -82.561664,
+    35.642769,
+    -82.561664,
+    35.642769
+],
+  "geometry": {"coordinates":[-82.56166399999999,35.642769],"type":"Point"}
 }

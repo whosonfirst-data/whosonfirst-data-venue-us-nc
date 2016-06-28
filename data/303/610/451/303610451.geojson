@@ -2,13 +2,14 @@
   "id": 303610451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.105657,35.258111,-81.105657,35.258111",
     "geom:latitude":35.258111,
     "geom:longitude":-81.105657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 S Main St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303610451,
-    "wof:lastmodified":1449000525,
+    "wof:lastmodified":1466652104,
     "wof:name":"Carolina Industrial Refrig Svc",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "freezer"
     ]
 },
-  "bbox": [-81.105657,35.258111,-81.105657,35.258111],
-  "geometry": {"coordinates":[-81.105657,35.258111],"type":"Point"}
+  "bbox": [
+    -81.105657,
+    35.258111,
+    -81.105657,
+    35.258111
+],
+  "geometry": {"coordinates":[-81.10565699999999,35.258111],"type":"Point"}
 }

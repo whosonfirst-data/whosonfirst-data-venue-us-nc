@@ -2,13 +2,14 @@
   "id": 303303801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.770109,35.213692,-80.770109,35.213692",
     "geom:latitude":35.213692,
     "geom:longitude":-80.770109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4441 Central Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303303801,
-    "wof:lastmodified":1448998141,
+    "wof:lastmodified":1466647724,
     "wof:name":"World Wireless",
     "wof:parent_id":85813527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.770109,35.213692,-80.770109,35.213692],
-  "geometry": {"coordinates":[-80.770109,35.213692],"type":"Point"}
+  "bbox": [
+    -80.770109,
+    35.213692,
+    -80.770109,
+    35.213692
+],
+  "geometry": {"coordinates":[-80.77010900000001,35.213692],"type":"Point"}
 }

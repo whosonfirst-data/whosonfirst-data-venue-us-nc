@@ -2,13 +2,14 @@
   "id": 303806353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.848858,35.203271,-80.848858,35.203271",
     "geom:latitude":35.203271,
     "geom:longitude":-80.848858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 E Worthington Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303806353,
-    "wof:lastmodified":1448998107,
+    "wof:lastmodified":1466654955,
     "wof:name":"CAD Temp",
     "wof:parent_id":85814539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cad"
     ]
 },
-  "bbox": [-80.848858,35.203271,-80.848858,35.203271],
-  "geometry": {"coordinates":[-80.848858,35.203271],"type":"Point"}
+  "bbox": [
+    -80.848858,
+    35.203271,
+    -80.848858,
+    35.203271
+],
+  "geometry": {"coordinates":[-80.84885800000001,35.203271],"type":"Point"}
 }

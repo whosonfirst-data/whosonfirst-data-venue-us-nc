@@ -2,13 +2,14 @@
   "id": 370252031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.521088,35.695767,-80.521088,35.695767",
     "geom:latitude":35.695767,
     "geom:longitude":-80.521088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2230 Statesville Blvd",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370252031,
-    "wof:lastmodified":1449029538,
+    "wof:lastmodified":1466649429,
     "wof:name":"Gillean Properties LLC",
     "wof:parent_id":85834229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.521088,35.695767,-80.521088,35.695767],
-  "geometry": {"coordinates":[-80.521088,35.695767],"type":"Point"}
+  "bbox": [
+    -80.521088,
+    35.695767,
+    -80.521088,
+    35.695767
+],
+  "geometry": {"coordinates":[-80.52108800000001,35.695767],"type":"Point"}
 }

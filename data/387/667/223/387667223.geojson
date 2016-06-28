@@ -2,13 +2,14 @@
   "id": 387667223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.550353,35.621331,-80.550353,35.621331",
     "geom:latitude":35.621331,
     "geom:longitude":-80.550353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Camp Rd",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387667223,
-    "wof:lastmodified":1449058596,
+    "wof:lastmodified":1466657237,
     "wof:name":"Kenneth S Harrison",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.550353,35.621331,-80.550353,35.621331],
+  "bbox": [
+    -80.550353,
+    35.621331,
+    -80.550353,
+    35.621331
+],
   "geometry": {"coordinates":[-80.550353,35.621331],"type":"Point"}
 }

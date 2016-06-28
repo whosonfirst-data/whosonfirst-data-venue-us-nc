@@ -2,13 +2,14 @@
   "id": 219918911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.846876,36.107598,-79.846876,36.107598",
     "geom:latitude":36.107598,
     "geom:longitude":-79.846876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Clarendon Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219918911,
-    "wof:lastmodified":1449072787,
+    "wof:lastmodified":1466648144,
     "wof:name":"Service Master Intensive Care",
     "wof:parent_id":85819993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-79.846876,36.107598,-79.846876,36.107598],
-  "geometry": {"coordinates":[-79.846876,36.107598],"type":"Point"}
+  "bbox": [
+    -79.846876,
+    36.107598,
+    -79.846876,
+    36.107598
+],
+  "geometry": {"coordinates":[-79.84687599999999,36.107598],"type":"Point"}
 }

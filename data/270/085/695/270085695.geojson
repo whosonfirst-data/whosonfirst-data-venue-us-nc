@@ -2,13 +2,14 @@
   "id": 270085695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.775214,35.954607,-78.775214,35.954607",
     "geom:latitude":35.954607,
     "geom:longitude":-78.775214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Olive Branch Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270085695,
-    "wof:lastmodified":1449009234,
+    "wof:lastmodified":1466644207,
     "wof:name":"M&E Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-78.775214,35.954607,-78.775214,35.954607],
-  "geometry": {"coordinates":[-78.775214,35.954607],"type":"Point"}
+  "bbox": [
+    -78.775214,
+    35.954607,
+    -78.775214,
+    35.954607
+],
+  "geometry": {"coordinates":[-78.77521400000001,35.954607],"type":"Point"}
 }

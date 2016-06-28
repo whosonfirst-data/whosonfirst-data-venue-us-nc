@@ -2,13 +2,14 @@
   "id": 303530343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.922834,35.920155,-78.922834,35.920155",
     "geom:latitude":35.920155,
     "geom:longitude":-78.922834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Superior Ct",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303530343,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466650944,
     "wof:name":"Big Blue Tree Svc",
     "wof:parent_id":85877203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-78.922834,35.920155,-78.922834,35.920155],
-  "geometry": {"coordinates":[-78.922834,35.920155],"type":"Point"}
+  "bbox": [
+    -78.922834,
+    35.920155,
+    -78.922834,
+    35.920155
+],
+  "geometry": {"coordinates":[-78.92283399999999,35.920155],"type":"Point"}
 }

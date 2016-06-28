@@ -2,13 +2,14 @@
   "id": 370841393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.88899,34.195659,-77.88899,34.195659",
     "geom:latitude":34.195659,
     "geom:longitude":-77.88899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2815 S College Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370841393,
-    "wof:lastmodified":1449029804,
+    "wof:lastmodified":1466656402,
     "wof:name":"Young Women's Christian Assn",
     "wof:parent_id":85842005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "day"
     ]
 },
-  "bbox": [-77.88899,34.195659,-77.88899,34.195659],
-  "geometry": {"coordinates":[-77.88899,34.195659],"type":"Point"}
+  "bbox": [
+    -77.88899,
+    34.195659,
+    -77.88899,
+    34.195659
+],
+  "geometry": {"coordinates":[-77.88899000000001,34.195659],"type":"Point"}
 }

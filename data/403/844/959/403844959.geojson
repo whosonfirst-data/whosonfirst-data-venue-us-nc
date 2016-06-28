@@ -2,13 +2,14 @@
   "id": 403844959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.050326,35.937447,-79.050326,35.937447",
     "geom:latitude":35.937447,
     "geom:longitude":-79.050326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Huntington Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403844959,
-    "wof:lastmodified":1449055201,
+    "wof:lastmodified":1466652207,
     "wof:name":"Carol Krucoff",
     "wof:parent_id":85868007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.050326,35.937447,-79.050326,35.937447],
+  "bbox": [
+    -79.050326,
+    35.937447,
+    -79.050326,
+    35.937447
+],
   "geometry": {"coordinates":[-79.050326,35.937447],"type":"Point"}
 }

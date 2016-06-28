@@ -2,13 +2,14 @@
   "id": 303354065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.884301,35.735977,-77.884301,35.735977",
     "geom:latitude":35.735977,
     "geom:longitude":-77.884301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Herring Ave E",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303354065,
-    "wof:lastmodified":1449000293,
+    "wof:lastmodified":1466648412,
     "wof:name":"Wilson City Engineer",
     "wof:parent_id":85834919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-77.884301,35.735977,-77.884301,35.735977],
-  "geometry": {"coordinates":[-77.884301,35.735977],"type":"Point"}
+  "bbox": [
+    -77.884301,
+    35.735977,
+    -77.884301,
+    35.735977
+],
+  "geometry": {"coordinates":[-77.88430099999999,35.735977],"type":"Point"}
 }

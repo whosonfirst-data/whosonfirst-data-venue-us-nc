@@ -2,13 +2,14 @@
   "id": 370579471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.630355,35.796023,-78.630355,35.796023",
     "geom:latitude":35.796023,
     "geom:longitude":-78.630355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Wake Forest Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370579471,
-    "wof:lastmodified":1449030174,
+    "wof:lastmodified":1466653612,
     "wof:name":"Gables Motors Lodge",
     "wof:parent_id":85873465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-78.630355,35.796023,-78.630355,35.796023],
-  "geometry": {"coordinates":[-78.630355,35.796023],"type":"Point"}
+  "bbox": [
+    -78.630355,
+    35.796023,
+    -78.630355,
+    35.796023
+],
+  "geometry": {"coordinates":[-78.63035499999999,35.796023],"type":"Point"}
 }

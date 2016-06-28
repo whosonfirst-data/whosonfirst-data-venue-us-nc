@@ -2,13 +2,14 @@
   "id": 370280215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.338552,35.411929,-82.338552,35.411929",
     "geom:latitude":35.411929,
     "geom:longitude":-82.338552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1659 Saint Pauls Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370280215,
-    "wof:lastmodified":1449030746,
+    "wof:lastmodified":1466649773,
     "wof:name":"St Paul's Episcopal Church",
     "wof:parent_id":85858765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.338552,35.411929,-82.338552,35.411929],
-  "geometry": {"coordinates":[-82.338552,35.411929],"type":"Point"}
+  "bbox": [
+    -82.338552,
+    35.411929,
+    -82.338552,
+    35.411929
+],
+  "geometry": {"coordinates":[-82.33855200000001,35.411929],"type":"Point"}
 }

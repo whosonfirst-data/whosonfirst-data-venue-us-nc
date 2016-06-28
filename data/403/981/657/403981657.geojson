@@ -2,13 +2,14 @@
   "id": 403981657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.935769,36.032455,-78.935769,36.032455",
     "geom:latitude":36.032455,
     "geom:longitude":-78.935769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Hillandale Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403981657,
-    "wof:lastmodified":1449055993,
+    "wof:lastmodified":1466653957,
     "wof:name":"Metropolitan Durham Medical",
     "wof:parent_id":85877173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.935769,36.032455,-78.935769,36.032455],
-  "geometry": {"coordinates":[-78.935769,36.032455],"type":"Point"}
+  "bbox": [
+    -78.935769,
+    36.032455,
+    -78.935769,
+    36.032455
+],
+  "geometry": {"coordinates":[-78.93576899999999,36.032455],"type":"Point"}
 }

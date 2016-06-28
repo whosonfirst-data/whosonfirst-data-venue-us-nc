@@ -2,13 +2,14 @@
   "id": 303398327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.792562,35.995522,-77.792562,35.995522",
     "geom:latitude":35.995522,
     "geom:longitude":-77.792562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Chesapeake Ct",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303398327,
-    "wof:lastmodified":1448998314,
+    "wof:lastmodified":1466649049,
     "wof:name":"World Wide Electrical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.792562,35.995522,-77.792562,35.995522],
+  "bbox": [
+    -77.792562,
+    35.995522,
+    -77.792562,
+    35.995522
+],
   "geometry": {"coordinates":[-77.792562,35.995522],"type":"Point"}
 }

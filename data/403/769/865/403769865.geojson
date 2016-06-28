@@ -2,13 +2,14 @@
   "id": 403769865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.035176,35.921215,-79.035176,35.921215",
     "geom:latitude":35.921215,
     "geom:longitude":-79.035176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Hillcrest Cir",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403769865,
-    "wof:lastmodified":1449055072,
+    "wof:lastmodified":1466651192,
     "wof:name":"Dancing Sheep Properties LLC",
     "wof:parent_id":85813631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.035176,35.921215,-79.035176,35.921215],
-  "geometry": {"coordinates":[-79.035176,35.921215],"type":"Point"}
+  "bbox": [
+    -79.035176,
+    35.921215,
+    -79.035176,
+    35.921215
+],
+  "geometry": {"coordinates":[-79.03517600000001,35.921215],"type":"Point"}
 }

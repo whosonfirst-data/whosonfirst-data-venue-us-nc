@@ -2,13 +2,14 @@
   "id": 203260267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.059688,35.929629,-79.059688,35.929629",
     "geom:latitude":35.929629,
     "geom:longitude":-79.059688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"486 Branch St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203260267,
-    "wof:lastmodified":1449025263,
+    "wof:lastmodified":1466655649,
     "wof:name":"Rick Perry Construction Co",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.059688,35.929629,-79.059688,35.929629],
-  "geometry": {"coordinates":[-79.059688,35.929629],"type":"Point"}
+  "bbox": [
+    -79.059688,
+    35.929629,
+    -79.059688,
+    35.929629
+],
+  "geometry": {"coordinates":[-79.05968799999999,35.929629],"type":"Point"}
 }

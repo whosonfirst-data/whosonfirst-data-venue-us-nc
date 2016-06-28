@@ -2,13 +2,14 @@
   "id": 253566215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.795076,35.787947,-78.795076,35.787947",
     "geom:latitude":35.787947,
     "geom:longitude":-78.795076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Crest Rd",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253566215,
-    "wof:lastmodified":1449062882,
+    "wof:lastmodified":1466649158,
     "wof:name":"All-Fix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-78.795076,35.787947,-78.795076,35.787947],
-  "geometry": {"coordinates":[-78.795076,35.787947],"type":"Point"}
+  "bbox": [
+    -78.795076,
+    35.787947,
+    -78.795076,
+    35.787947
+],
+  "geometry": {"coordinates":[-78.79507599999999,35.787947],"type":"Point"}
 }

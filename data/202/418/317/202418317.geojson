@@ -2,13 +2,14 @@
   "id": 202418317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.351579,35.610335,-77.351579,35.610335",
     "geom:latitude":35.610335,
     "geom:longitude":-77.351579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Brownlea Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202418317,
-    "wof:lastmodified":1449062107,
+    "wof:lastmodified":1466654341,
     "wof:name":"Pitt Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-77.351579,35.610335,-77.351579,35.610335],
+  "bbox": [
+    -77.351579,
+    35.610335,
+    -77.351579,
+    35.610335
+],
   "geometry": {"coordinates":[-77.351579,35.610335],"type":"Point"}
 }

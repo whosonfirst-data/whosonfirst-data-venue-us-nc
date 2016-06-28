@@ -2,13 +2,14 @@
   "id": 320472111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.597671,35.428393,-80.597671,35.428393",
     "geom:latitude":35.428393,
     "geom:longitude":-80.597671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Palaside Dr NE",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320472111,
-    "wof:lastmodified":1449011542,
+    "wof:lastmodified":1466651959,
     "wof:name":"Cabarrus Bank & Trust Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.597671,35.428393,-80.597671,35.428393],
-  "geometry": {"coordinates":[-80.597671,35.428393],"type":"Point"}
+  "bbox": [
+    -80.597671,
+    35.428393,
+    -80.597671,
+    35.428393
+],
+  "geometry": {"coordinates":[-80.59767100000001,35.428393],"type":"Point"}
 }

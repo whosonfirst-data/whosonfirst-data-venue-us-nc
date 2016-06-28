@@ -2,13 +2,14 @@
   "id": 203161139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.543895,35.90869,-77.543895,35.90869",
     "geom:latitude":35.90869,
     "geom:longitude":-77.543895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Fairview St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203161139,
-    "wof:lastmodified":1449025662,
+    "wof:lastmodified":1466655053,
     "wof:name":"Long Agribusiness",
     "wof:parent_id":85856477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-77.543895,35.90869,-77.543895,35.90869],
-  "geometry": {"coordinates":[-77.543895,35.90869],"type":"Point"}
+  "bbox": [
+    -77.543895,
+    35.90869,
+    -77.543895,
+    35.90869
+],
+  "geometry": {"coordinates":[-77.54389500000001,35.90869],"type":"Point"}
 }

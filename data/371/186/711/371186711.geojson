@@ -2,13 +2,14 @@
   "id": 371186711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.894542,34.20484,-77.894542,34.20484",
     "geom:latitude":34.20484,
     "geom:longitude":-77.894542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Galahead Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371186711,
-    "wof:lastmodified":1449049860,
+    "wof:lastmodified":1466651196,
     "wof:name":"Coastal Speech Svc",
     "wof:parent_id":85830591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "speech"
     ]
 },
-  "bbox": [-77.894542,34.20484,-77.894542,34.20484],
+  "bbox": [
+    -77.894542,
+    34.20484,
+    -77.894542,
+    34.20484
+],
   "geometry": {"coordinates":[-77.894542,34.20484],"type":"Point"}
 }

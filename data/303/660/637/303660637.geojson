@@ -2,13 +2,14 @@
   "id": 303660637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.976235,35.985459,-78.976235,35.985459",
     "geom:latitude":35.985459,
     "geom:longitude":-78.976235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Doubleday Pl",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303660637,
-    "wof:lastmodified":1449000314,
+    "wof:lastmodified":1466652836,
     "wof:name":"Vintage Design",
     "wof:parent_id":85811947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.976235,35.985459,-78.976235,35.985459],
+  "bbox": [
+    -78.976235,
+    35.985459,
+    -78.976235,
+    35.985459
+],
   "geometry": {"coordinates":[-78.976235,35.985459],"type":"Point"}
 }

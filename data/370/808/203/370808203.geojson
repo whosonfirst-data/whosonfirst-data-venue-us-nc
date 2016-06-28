@@ -2,13 +2,14 @@
   "id": 370808203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.929195,35.06554,-78.929195,35.06554",
     "geom:latitude":35.06554,
     "geom:longitude":-78.929195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2921 Skye Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370808203,
-    "wof:lastmodified":1449029233,
+    "wof:lastmodified":1466656227,
     "wof:name":"Barker Corp",
     "wof:parent_id":85831149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-78.929195,35.06554,-78.929195,35.06554],
-  "geometry": {"coordinates":[-78.929195,35.06554],"type":"Point"}
+  "bbox": [
+    -78.929195,
+    35.06554,
+    -78.929195,
+    35.06554
+],
+  "geometry": {"coordinates":[-78.92919500000001,35.06554],"type":"Point"}
 }

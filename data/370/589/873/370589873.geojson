@@ -2,13 +2,14 @@
   "id": 370589873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.785201,36.101146,-79.785201,36.101146",
     "geom:latitude":36.101146,
     "geom:longitude":-79.785201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 State St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370589873,
-    "wof:lastmodified":1449030882,
+    "wof:lastmodified":1466653754,
     "wof:name":"Wear Yours",
     "wof:parent_id":85833115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.785201,36.101146,-79.785201,36.101146],
+  "bbox": [
+    -79.785201,
+    36.101146,
+    -79.785201,
+    36.101146
+],
   "geometry": {"coordinates":[-79.785201,36.101146],"type":"Point"}
 }

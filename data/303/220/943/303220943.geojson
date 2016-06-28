@@ -2,13 +2,14 @@
   "id": 303220943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.389038,35.083408,-79.389038,35.083408",
     "geom:latitude":35.083408,
     "geom:longitude":-79.389038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Ashley Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303220943,
-    "wof:lastmodified":1449000478,
+    "wof:lastmodified":1466646518,
     "wof:name":"SCI-FI Mosaic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.389038,35.083408,-79.389038,35.083408],
+  "bbox": [
+    -79.389038,
+    35.083408,
+    -79.389038,
+    35.083408
+],
   "geometry": {"coordinates":[-79.389038,35.083408],"type":"Point"}
 }

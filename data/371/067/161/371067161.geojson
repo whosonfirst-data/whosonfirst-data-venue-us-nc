@@ -2,13 +2,14 @@
   "id": 371067161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.726645,35.273207,-80.726645,35.273207",
     "geom:latitude":35.273207,
     "geom:longitude":-80.726645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3113 Williamette Valley Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371067161,
-    "wof:lastmodified":1449049107,
+    "wof:lastmodified":1466649672,
     "wof:name":"WYC",
     "wof:parent_id":85857395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.726645,35.273207,-80.726645,35.273207],
+  "bbox": [
+    -80.726645,
+    35.273207,
+    -80.726645,
+    35.273207
+],
   "geometry": {"coordinates":[-80.726645,35.273207],"type":"Point"}
 }

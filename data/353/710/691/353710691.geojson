@@ -2,13 +2,14 @@
   "id": 353710691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.863678,34.208044,-77.863678,34.208044",
     "geom:latitude":34.208044,
     "geom:longitude":-77.863678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5327 Oleander Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353710691,
-    "wof:lastmodified":1449018413,
+    "wof:lastmodified":1466650740,
     "wof:name":"McKenzie Baker Interiors Inc",
     "wof:parent_id":85842005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "decorator"
     ]
 },
-  "bbox": [-77.863678,34.208044,-77.863678,34.208044],
-  "geometry": {"coordinates":[-77.863678,34.208044],"type":"Point"}
+  "bbox": [
+    -77.863678,
+    34.208044,
+    -77.863678,
+    34.208044
+],
+  "geometry": {"coordinates":[-77.86367799999999,34.208044],"type":"Point"}
 }

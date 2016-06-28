@@ -2,13 +2,14 @@
   "id": 336701351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.5079,35.318917,-77.5079,35.318917",
     "geom:latitude":35.318917,
     "geom:longitude":-77.5079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Middle St",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336701351,
-    "wof:lastmodified":1448997807,
+    "wof:lastmodified":1466647379,
     "wof:name":"Grainger Baptist Church",
     "wof:parent_id":85817087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.5079,35.318917,-77.5079,35.318917],
-  "geometry": {"coordinates":[-77.5079,35.318917],"type":"Point"}
+  "bbox": [
+    -77.5079,
+    35.318917,
+    -77.5079,
+    35.318917
+],
+  "geometry": {"coordinates":[-77.50790000000001,35.318917],"type":"Point"}
 }

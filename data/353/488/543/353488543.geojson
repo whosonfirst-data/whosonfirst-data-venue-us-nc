@@ -2,13 +2,14 @@
   "id": 353488543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.797483,35.193526,-80.797483,35.193526",
     "geom:latitude":35.193526,
     "geom:longitude":-80.797483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Palmer Plaza Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353488543,
-    "wof:lastmodified":1449020701,
+    "wof:lastmodified":1466648021,
     "wof:name":"Cardinal Health",
     "wof:parent_id":85891867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.797483,35.193526,-80.797483,35.193526],
+  "bbox": [
+    -80.797483,
+    35.193526,
+    -80.797483,
+    35.193526
+],
   "geometry": {"coordinates":[-80.797483,35.193526],"type":"Point"}
 }

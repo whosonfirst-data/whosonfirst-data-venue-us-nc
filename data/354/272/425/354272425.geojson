@@ -2,13 +2,14 @@
   "id": 354272425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.777335,35.800367,-78.777335,35.800367",
     "geom:latitude":35.800367,
     "geom:longitude":-78.777335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 McWaine Ln",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354272425,
-    "wof:lastmodified":1449067564,
+    "wof:lastmodified":1466650674,
     "wof:name":"Foundation Technologies LLC",
     "wof:parent_id":85838477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-78.777335,35.800367,-78.777335,35.800367],
-  "geometry": {"coordinates":[-78.777335,35.800367],"type":"Point"}
+  "bbox": [
+    -78.777335,
+    35.800367,
+    -78.777335,
+    35.800367
+],
+  "geometry": {"coordinates":[-78.77733499999999,35.800367],"type":"Point"}
 }

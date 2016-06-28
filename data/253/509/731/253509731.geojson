@@ -2,13 +2,14 @@
   "id": 253509731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.154536,36.438816,-77.154536,36.438816",
     "geom:latitude":36.438816,
     "geom:longitude":-77.154536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13620 US Hwy 158",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253509731,
-    "wof:lastmodified":1449062946,
+    "wof:lastmodified":1466648496,
     "wof:name":"Perdue Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.154536,36.438816,-77.154536,36.438816],
-  "geometry": {"coordinates":[-77.154536,36.438816],"type":"Point"}
+  "bbox": [
+    -77.154536,
+    36.438816,
+    -77.154536,
+    36.438816
+],
+  "geometry": {"coordinates":[-77.15453599999999,36.438816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270009377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.976441,35.911827,-79.976441,35.911827",
     "geom:latitude":35.911827,
     "geom:longitude":-79.976441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 Archdale Rd",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270009377,
-    "wof:lastmodified":1449011088,
+    "wof:lastmodified":1466643318,
     "wof:name":"Archdale Express Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-79.976441,35.911827,-79.976441,35.911827],
-  "geometry": {"coordinates":[-79.976441,35.911827],"type":"Point"}
+  "bbox": [
+    -79.976441,
+    35.911827,
+    -79.976441,
+    35.911827
+],
+  "geometry": {"coordinates":[-79.97644099999999,35.911827],"type":"Point"}
 }

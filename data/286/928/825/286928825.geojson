@@ -2,13 +2,14 @@
   "id": 286928825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.384425,36.085628,-79.384425,36.085628",
     "geom:latitude":36.085628,
     "geom:longitude":-79.384425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 E Hanover Rd",
     "sg:city":"Graham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286928825,
-    "wof:lastmodified":1449017693,
+    "wof:lastmodified":1466652218,
     "wof:name":"Marley's Marine Sales & Svc",
     "wof:parent_id":85832733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-79.384425,36.085628,-79.384425,36.085628],
-  "geometry": {"coordinates":[-79.384425,36.085628],"type":"Point"}
+  "bbox": [
+    -79.384425,
+    36.085628,
+    -79.384425,
+    36.085628
+],
+  "geometry": {"coordinates":[-79.38442499999999,36.085628],"type":"Point"}
 }

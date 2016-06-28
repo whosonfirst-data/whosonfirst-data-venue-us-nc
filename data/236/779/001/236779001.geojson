@@ -2,13 +2,14 @@
   "id": 236779001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.628836,36.43031,-77.628836,36.43031",
     "geom:latitude":36.43031,
     "geom:longitude":-77.628836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1699 US Hwy 158",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236779001,
-    "wof:lastmodified":1449002056,
+    "wof:lastmodified":1466650231,
     "wof:name":"Dickens Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.628836,36.43031,-77.628836,36.43031],
-  "geometry": {"coordinates":[-77.628836,36.43031],"type":"Point"}
+  "bbox": [
+    -77.628836,
+    36.43031,
+    -77.628836,
+    36.43031
+],
+  "geometry": {"coordinates":[-77.62883600000001,36.43031],"type":"Point"}
 }

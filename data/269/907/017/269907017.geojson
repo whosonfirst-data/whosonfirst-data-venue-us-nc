@@ -2,13 +2,14 @@
   "id": 269907017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.598587,36.209098,-76.598587,36.209098",
     "geom:latitude":36.209098,
     "geom:longitude":-76.598587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Center Hill Rd",
     "sg:city":"Tyner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269907017,
-    "wof:lastmodified":1449038797,
+    "wof:lastmodified":1466648195,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.598587,36.209098,-76.598587,36.209098],
-  "geometry": {"coordinates":[-76.598587,36.209098],"type":"Point"}
+  "bbox": [
+    -76.598587,
+    36.209098,
+    -76.598587,
+    36.209098
+],
+  "geometry": {"coordinates":[-76.59858699999999,36.209098],"type":"Point"}
 }

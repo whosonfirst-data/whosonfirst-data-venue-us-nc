@@ -2,13 +2,14 @@
   "id": 202402239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.995332,34.617527,-78.995332,34.617527",
     "geom:latitude":34.617527,
     "geom:longitude":-78.995332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 E 2nd St",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202402239,
-    "wof:lastmodified":1449060923,
+    "wof:lastmodified":1466654237,
     "wof:name":"Stocks Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gas"
     ]
 },
-  "bbox": [-78.995332,34.617527,-78.995332,34.617527],
+  "bbox": [
+    -78.995332,
+    34.617527,
+    -78.995332,
+    34.617527
+],
   "geometry": {"coordinates":[-78.995332,34.617527],"type":"Point"}
 }

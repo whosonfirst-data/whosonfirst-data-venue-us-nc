@@ -2,13 +2,14 @@
   "id": 336650493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.811513,34.829579,-77.811513,34.829579",
     "geom:latitude":34.829579,
     "geom:longitude":-77.811513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 State Rd 41",
     "sg:city":"Chinquapin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336650493,
-    "wof:lastmodified":1448997595,
+    "wof:lastmodified":1466646619,
     "wof:name":"Petro Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.811513,34.829579,-77.811513,34.829579],
-  "geometry": {"coordinates":[-77.811513,34.829579],"type":"Point"}
+  "bbox": [
+    -77.811513,
+    34.829579,
+    -77.811513,
+    34.829579
+],
+  "geometry": {"coordinates":[-77.81151300000001,34.829579],"type":"Point"}
 }

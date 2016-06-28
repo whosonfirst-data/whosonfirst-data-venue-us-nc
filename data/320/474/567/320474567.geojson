@@ -2,13 +2,14 @@
   "id": 320474567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.796709,34.775511,-77.796709,34.775511",
     "geom:latitude":34.775511,
     "geom:longitude":-77.796709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Lighthouse Rd",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320474567,
-    "wof:lastmodified":1449011421,
+    "wof:lastmodified":1466651992,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.796709,34.775511,-77.796709,34.775511],
-  "geometry": {"coordinates":[-77.796709,34.775511],"type":"Point"}
+  "bbox": [
+    -77.796709,
+    34.775511,
+    -77.796709,
+    34.775511
+],
+  "geometry": {"coordinates":[-77.79670900000001,34.775511],"type":"Point"}
 }

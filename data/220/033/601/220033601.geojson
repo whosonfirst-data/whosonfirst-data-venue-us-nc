@@ -2,13 +2,14 @@
   "id": 220033601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.440807,35.601265,-82.440807,35.601265",
     "geom:latitude":35.601265,
     "geom:longitude":-82.440807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Morton Cir",
     "sg:city":"Swannanoa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220033601,
-    "wof:lastmodified":1449074208,
+    "wof:lastmodified":1466643474,
     "wof:name":"Pro Scans",
     "wof:parent_id":85892167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-82.440807,35.601265,-82.440807,35.601265],
-  "geometry": {"coordinates":[-82.440807,35.601265],"type":"Point"}
+  "bbox": [
+    -82.440807,
+    35.601265,
+    -82.440807,
+    35.601265
+],
+  "geometry": {"coordinates":[-82.44080700000001,35.601265],"type":"Point"}
 }

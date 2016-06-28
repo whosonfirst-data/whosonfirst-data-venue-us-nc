@@ -2,13 +2,14 @@
   "id": 387426589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.861445,35.241279,-80.861445,35.241279",
     "geom:latitude":35.241279,
     "geom:longitude":-80.861445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Sumter Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387426589,
-    "wof:lastmodified":1449056912,
+    "wof:lastmodified":1466655457,
     "wof:name":"Seversville Apartments",
     "wof:parent_id":85806031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.861445,35.241279,-80.861445,35.241279],
+  "bbox": [
+    -80.861445,
+    35.241279,
+    -80.861445,
+    35.241279
+],
   "geometry": {"coordinates":[-80.861445,35.241279],"type":"Point"}
 }

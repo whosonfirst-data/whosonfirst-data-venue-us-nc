@@ -2,13 +2,14 @@
   "id": 353593969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.051222,35.855126,-77.051222,35.855126",
     "geom:latitude":35.855126,
     "geom:longitude":-77.051222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Ray St",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353593969,
-    "wof:lastmodified":1449019936,
+    "wof:lastmodified":1466649344,
     "wof:name":"East Jordan Iron Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.051222,35.855126,-77.051222,35.855126],
+  "bbox": [
+    -77.051222,
+    35.855126,
+    -77.051222,
+    35.855126
+],
   "geometry": {"coordinates":[-77.051222,35.855126],"type":"Point"}
 }

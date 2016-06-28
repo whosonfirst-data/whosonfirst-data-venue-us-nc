@@ -2,13 +2,14 @@
   "id": 303375017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.043643,35.25242,-81.043643,35.25242",
     "geom:latitude":35.25242,
     "geom:longitude":-81.043643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6426 Wilkinson Blvd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303375017,
-    "wof:lastmodified":1448998204,
+    "wof:lastmodified":1466648716,
     "wof:name":"Advanced Care Clinics",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.043643,35.25242,-81.043643,35.25242],
+  "bbox": [
+    -81.043643,
+    35.25242,
+    -81.043643,
+    35.25242
+],
   "geometry": {"coordinates":[-81.043643,35.25242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371069463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.989495,35.072051,-78.989495,35.072051",
     "geom:latitude":35.072051,
     "geom:longitude":-78.989495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Murray Fork Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371069463,
-    "wof:lastmodified":1449049717,
+    "wof:lastmodified":1466649698,
     "wof:name":"Rodriguez Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-78.989495,35.072051,-78.989495,35.072051],
-  "geometry": {"coordinates":[-78.989495,35.072051],"type":"Point"}
+  "bbox": [
+    -78.989495,
+    35.072051,
+    -78.989495,
+    35.072051
+],
+  "geometry": {"coordinates":[-78.98949500000001,35.072051],"type":"Point"}
 }

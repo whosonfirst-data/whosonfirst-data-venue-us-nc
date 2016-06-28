@@ -2,13 +2,14 @@
   "id": 370831917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.55504,35.613274,-82.55504,35.613274",
     "geom:latitude":35.613274,
     "geom:longitude":-82.55504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Merrimon Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370831917,
-    "wof:lastmodified":1449031064,
+    "wof:lastmodified":1466656511,
     "wof:name":"Citizens Fuel Co",
     "wof:parent_id":85859101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.55504,35.613274,-82.55504,35.613274],
-  "geometry": {"coordinates":[-82.55504,35.613274],"type":"Point"}
+  "bbox": [
+    -82.55504,
+    35.613274,
+    -82.55504,
+    35.613274
+],
+  "geometry": {"coordinates":[-82.55504000000001,35.613274],"type":"Point"}
 }

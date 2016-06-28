@@ -2,13 +2,14 @@
   "id": 186483211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259774,36.095115,-80.259774,36.095115",
     "geom:latitude":36.095115,
     "geom:longitude":-80.259774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W 4th St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186483211,
-    "wof:lastmodified":1449052436,
+    "wof:lastmodified":1466654304,
     "wof:name":"Richard E Glaze",
     "wof:parent_id":85881851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.259774,36.095115,-80.259774,36.095115],
-  "geometry": {"coordinates":[-80.259774,36.095115],"type":"Point"}
+  "bbox": [
+    -80.259774,
+    36.095115,
+    -80.259774,
+    36.095115
+],
+  "geometry": {"coordinates":[-80.25977399999999,36.095115],"type":"Point"}
 }

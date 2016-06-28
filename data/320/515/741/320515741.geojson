@@ -2,13 +2,14 @@
   "id": 320515741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.378031,35.609052,-77.378031,35.609052",
     "geom:latitude":35.609052,
     "geom:longitude":-77.378031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 S Clark St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320515741,
-    "wof:lastmodified":1449012126,
+    "wof:lastmodified":1466652596,
     "wof:name":"Carl T Knott Sr",
     "wof:parent_id":85824897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.378031,35.609052,-77.378031,35.609052],
-  "geometry": {"coordinates":[-77.378031,35.609052],"type":"Point"}
+  "bbox": [
+    -77.378031,
+    35.609052,
+    -77.378031,
+    35.609052
+],
+  "geometry": {"coordinates":[-77.37803099999999,35.609052],"type":"Point"}
 }

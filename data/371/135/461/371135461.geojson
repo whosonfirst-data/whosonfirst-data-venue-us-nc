@@ -2,13 +2,14 @@
   "id": 371135461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.713535,35.337394,-77.713535,35.337394",
     "geom:latitude":35.337394,
     "geom:longitude":-77.713535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3622 Bryan Hardy Rd",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371135461,
-    "wof:lastmodified":1449049422,
+    "wof:lastmodified":1466650517,
     "wof:name":"Brighter Horizons BHS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "group"
     ]
 },
-  "bbox": [-77.713535,35.337394,-77.713535,35.337394],
-  "geometry": {"coordinates":[-77.713535,35.337394],"type":"Point"}
+  "bbox": [
+    -77.713535,
+    35.337394,
+    -77.713535,
+    35.337394
+],
+  "geometry": {"coordinates":[-77.71353499999999,35.337394],"type":"Point"}
 }

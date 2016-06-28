@@ -2,13 +2,14 @@
   "id": 304000835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.549784,35.617629,-82.549784,35.617629",
     "geom:latitude":35.617629,
     "geom:longitude":-82.549784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Kimberly Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304000835,
-    "wof:lastmodified":1449043646,
+    "wof:lastmodified":1466655847,
     "wof:name":"Carolina Moutain Cooling",
     "wof:parent_id":85859101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.549784,35.617629,-82.549784,35.617629],
+  "bbox": [
+    -82.549784,
+    35.617629,
+    -82.549784,
+    35.617629
+],
   "geometry": {"coordinates":[-82.549784,35.617629],"type":"Point"}
 }

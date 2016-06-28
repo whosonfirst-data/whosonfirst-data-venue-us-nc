@@ -2,13 +2,14 @@
   "id": 370986623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.086869,35.365194,-80.086869,35.365194",
     "geom:latitude":35.365194,
     "geom:longitude":-80.086869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49104 Morrow Mountain Rd",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370986623,
-    "wof:lastmodified":1449031825,
+    "wof:lastmodified":1466657145,
     "wof:name":"Morrow Mountain State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "area"
     ]
 },
-  "bbox": [-80.086869,35.365194,-80.086869,35.365194],
-  "geometry": {"coordinates":[-80.086869,35.365194],"type":"Point"}
+  "bbox": [
+    -80.086869,
+    35.365194,
+    -80.086869,
+    35.365194
+],
+  "geometry": {"coordinates":[-80.08686899999999,35.365194],"type":"Point"}
 }

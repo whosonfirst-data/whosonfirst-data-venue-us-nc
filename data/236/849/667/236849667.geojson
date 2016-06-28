@@ -2,13 +2,14 @@
   "id": 236849667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.940041,34.208845,-77.940041,34.208845",
     "geom:latitude":34.208845,
     "geom:longitude":-77.940041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1974 W Lake Shore Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236849667,
-    "wof:lastmodified":1449002132,
+    "wof:lastmodified":1466650830,
     "wof:name":"SCI Coastal House",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dev"
     ]
 },
-  "bbox": [-77.940041,34.208845,-77.940041,34.208845],
-  "geometry": {"coordinates":[-77.940041,34.208845],"type":"Point"}
+  "bbox": [
+    -77.940041,
+    34.208845,
+    -77.940041,
+    34.208845
+],
+  "geometry": {"coordinates":[-77.94004099999999,34.208845],"type":"Point"}
 }

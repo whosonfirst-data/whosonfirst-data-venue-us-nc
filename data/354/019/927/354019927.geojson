@@ -2,13 +2,14 @@
   "id": 354019927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.811276,35.924391,-79.811276,35.924391",
     "geom:latitude":35.924391,
     "geom:longitude":-79.811276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5417 Randleman Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354019927,
-    "wof:lastmodified":1449066929,
+    "wof:lastmodified":1466647785,
     "wof:name":"Lukes Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.811276,35.924391,-79.811276,35.924391],
-  "geometry": {"coordinates":[-79.811276,35.924391],"type":"Point"}
+  "bbox": [
+    -79.811276,
+    35.924391,
+    -79.811276,
+    35.924391
+],
+  "geometry": {"coordinates":[-79.81127600000001,35.924391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303371719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.672244,36.422061,-77.672244,36.422061",
     "geom:latitude":36.422061,
     "geom:longitude":-77.672244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 State Hwy 48",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303371719,
-    "wof:lastmodified":1449000019,
+    "wof:lastmodified":1466648672,
     "wof:name":"Powell's Garage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.672244,36.422061,-77.672244,36.422061],
-  "geometry": {"coordinates":[-77.672244,36.422061],"type":"Point"}
+  "bbox": [
+    -77.672244,
+    36.422061,
+    -77.672244,
+    36.422061
+],
+  "geometry": {"coordinates":[-77.67224400000001,36.422061],"type":"Point"}
 }

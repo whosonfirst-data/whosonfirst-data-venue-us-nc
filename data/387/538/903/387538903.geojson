@@ -2,13 +2,14 @@
   "id": 387538903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.604368,35.820204,-78.604368,35.820204",
     "geom:latitude":35.820204,
     "geom:longitude":-78.604368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Highwoods Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387538903,
-    "wof:lastmodified":1449056586,
+    "wof:lastmodified":1466656326,
     "wof:name":"GAB Robins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-78.604368,35.820204,-78.604368,35.820204],
-  "geometry": {"coordinates":[-78.604368,35.820204],"type":"Point"}
+  "bbox": [
+    -78.604368,
+    35.820204,
+    -78.604368,
+    35.820204
+],
+  "geometry": {"coordinates":[-78.60436799999999,35.820204],"type":"Point"}
 }

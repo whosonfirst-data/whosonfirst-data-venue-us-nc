@@ -2,13 +2,14 @@
   "id": 387435071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.583148,35.567191,-80.583148,35.567191",
     "geom:latitude":35.567191,
     "geom:longitude":-80.583148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S Main St",
     "sg:city":"China Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387435071,
-    "wof:lastmodified":1449059563,
+    "wof:lastmodified":1466655563,
     "wof:name":"Troyer Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.583148,35.567191,-80.583148,35.567191],
-  "geometry": {"coordinates":[-80.583148,35.567191],"type":"Point"}
+  "bbox": [
+    -80.583148,
+    35.567191,
+    -80.583148,
+    35.567191
+],
+  "geometry": {"coordinates":[-80.58314799999999,35.567191],"type":"Point"}
 }

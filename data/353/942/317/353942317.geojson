@@ -2,13 +2,14 @@
   "id": 353942317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.794148,35.313686,-77.794148,35.313686",
     "geom:latitude":35.313686,
     "geom:longitude":-77.794148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Queen St",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353942317,
-    "wof:lastmodified":1449019424,
+    "wof:lastmodified":1466653412,
     "wof:name":"St James Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.794148,35.313686,-77.794148,35.313686],
-  "geometry": {"coordinates":[-77.794148,35.313686],"type":"Point"}
+  "bbox": [
+    -77.794148,
+    35.313686,
+    -77.794148,
+    35.313686
+],
+  "geometry": {"coordinates":[-77.79414800000001,35.313686],"type":"Point"}
 }

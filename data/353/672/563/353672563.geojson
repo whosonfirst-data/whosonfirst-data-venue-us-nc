@@ -2,13 +2,14 @@
   "id": 353672563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.257156,35.301185,-81.257156,35.301185",
     "geom:latitude":35.301185,
     "geom:longitude":-81.257156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Costner School Rd",
     "sg:city":"Bessemer City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353672563,
-    "wof:lastmodified":1449018418,
+    "wof:lastmodified":1466650270,
     "wof:name":"Albert Difloria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.257156,35.301185,-81.257156,35.301185],
-  "geometry": {"coordinates":[-81.257156,35.301185],"type":"Point"}
+  "bbox": [
+    -81.257156,
+    35.301185,
+    -81.257156,
+    35.301185
+],
+  "geometry": {"coordinates":[-81.25715599999999,35.301185],"type":"Point"}
 }

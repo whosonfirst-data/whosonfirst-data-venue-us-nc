@@ -2,13 +2,14 @@
   "id": 353857241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.824587,35.454196,-81.824587,35.454196",
     "geom:latitude":35.454196,
     "geom:longitude":-81.824587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1561 Depriest Rd",
     "sg:city":"Bostic",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353857241,
-    "wof:lastmodified":1449019903,
+    "wof:lastmodified":1466652407,
     "wof:name":"Murrays Dairy",
     "wof:parent_id":85817829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.824587,35.454196,-81.824587,35.454196],
-  "geometry": {"coordinates":[-81.824587,35.454196],"type":"Point"}
+  "bbox": [
+    -81.824587,
+    35.454196,
+    -81.824587,
+    35.454196
+],
+  "geometry": {"coordinates":[-81.82458699999999,35.454196],"type":"Point"}
 }

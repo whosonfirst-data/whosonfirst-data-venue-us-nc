@@ -2,13 +2,14 @@
   "id": 403916807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.849369,35.476283,-80.849369,35.476283",
     "geom:latitude":35.476283,
     "geom:longitude":-80.849369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11510 Smith Rd",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403916807,
-    "wof:lastmodified":1449055363,
+    "wof:lastmodified":1466653111,
     "wof:name":"Champion Map Enterprises",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "map"
     ]
 },
-  "bbox": [-80.849369,35.476283,-80.849369,35.476283],
+  "bbox": [
+    -80.849369,
+    35.476283,
+    -80.849369,
+    35.476283
+],
   "geometry": {"coordinates":[-80.849369,35.476283],"type":"Point"}
 }

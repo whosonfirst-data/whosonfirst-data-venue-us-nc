@@ -2,13 +2,14 @@
   "id": 303598937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.462745,36.421741,-81.462745,36.421741",
     "geom:latitude":36.421741,
     "geom:longitude":-81.462745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"671 E Main St",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303598937,
-    "wof:lastmodified":1448998247,
+    "wof:lastmodified":1466651935,
     "wof:name":"Midtown Amoco Svc Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.462745,36.421741,-81.462745,36.421741],
+  "bbox": [
+    -81.462745,
+    36.421741,
+    -81.462745,
+    36.421741
+],
   "geometry": {"coordinates":[-81.462745,36.421741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202747423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.348112,34.753752,-77.348112,34.753752",
     "geom:latitude":34.753752,
     "geom:longitude":-77.348112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Jasmine Ln",
     "sg:city":"Swansboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202747423,
-    "wof:lastmodified":1449060564,
+    "wof:lastmodified":1466643782,
     "wof:name":"Villages At Swansboro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.348112,34.753752,-77.348112,34.753752],
+  "bbox": [
+    -77.348112,
+    34.753752,
+    -77.348112,
+    34.753752
+],
   "geometry": {"coordinates":[-77.348112,34.753752],"type":"Point"}
 }

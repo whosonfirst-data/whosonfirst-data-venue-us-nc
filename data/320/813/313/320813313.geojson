@@ -2,13 +2,14 @@
   "id": 320813313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.981477,35.512231,-77.981477,35.512231",
     "geom:latitude":35.512231,
     "geom:longitude":-77.981477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5413 US Hwy 117 N",
     "sg:city":"Pikeville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320813313,
-    "wof:lastmodified":1449012224,
+    "wof:lastmodified":1466656456,
     "wof:name":"Eastern Medical Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.981477,35.512231,-77.981477,35.512231],
+  "bbox": [
+    -77.981477,
+    35.512231,
+    -77.981477,
+    35.512231
+],
   "geometry": {"coordinates":[-77.981477,35.512231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303885897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.76431,35.968009,-79.76431,35.968009",
     "geom:latitude":35.968009,
     "geom:longitude":-79.76431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4712 Pleasant Garden Rd",
     "sg:city":"Pleasant Garden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303885897,
-    "wof:lastmodified":1448999421,
+    "wof:lastmodified":1466656046,
     "wof:name":"Automotive Center-Pleasant Gdn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.76431,35.968009,-79.76431,35.968009],
-  "geometry": {"coordinates":[-79.76431,35.968009],"type":"Point"}
+  "bbox": [
+    -79.76431,
+    35.968009,
+    -79.76431,
+    35.968009
+],
+  "geometry": {"coordinates":[-79.76430999999999,35.968009],"type":"Point"}
 }

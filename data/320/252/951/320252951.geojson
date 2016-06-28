@@ -2,13 +2,14 @@
   "id": 320252951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.13452,35.559056,-81.13452,35.559056",
     "geom:latitude":35.559056,
     "geom:longitude":-81.13452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3438 E Maiden Rd",
     "sg:city":"Maiden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320252951,
-    "wof:lastmodified":1449011739,
+    "wof:lastmodified":1466648840,
     "wof:name":"McCalister Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.13452,35.559056,-81.13452,35.559056],
-  "geometry": {"coordinates":[-81.13452,35.559056],"type":"Point"}
+  "bbox": [
+    -81.13452,
+    35.559056,
+    -81.13452,
+    35.559056
+],
+  "geometry": {"coordinates":[-81.13451999999999,35.559056],"type":"Point"}
 }

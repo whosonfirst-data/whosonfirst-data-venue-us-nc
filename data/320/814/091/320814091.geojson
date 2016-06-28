@@ -2,13 +2,14 @@
   "id": 320814091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.679467,35.805561,-78.679467,35.805561",
     "geom:latitude":35.805561,
     "geom:longitude":-78.679467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 Lutz Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320814091,
-    "wof:lastmodified":1449011939,
+    "wof:lastmodified":1466656462,
     "wof:name":"K-Stat",
     "wof:parent_id":85830955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "statistical"
     ]
 },
-  "bbox": [-78.679467,35.805561,-78.679467,35.805561],
+  "bbox": [
+    -78.679467,
+    35.805561,
+    -78.679467,
+    35.805561
+],
   "geometry": {"coordinates":[-78.679467,35.805561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303099665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.46542,34.737872,-77.46542,34.737872",
     "geom:latitude":34.737872,
     "geom:longitude":-77.46542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 Wilmington Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303099665,
-    "wof:lastmodified":1448999709,
+    "wof:lastmodified":1466644693,
     "wof:name":"Brunson Enterprises",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.46542,34.737872,-77.46542,34.737872],
-  "geometry": {"coordinates":[-77.46542,34.737872],"type":"Point"}
+  "bbox": [
+    -77.46542,
+    34.737872,
+    -77.46542,
+    34.737872
+],
+  "geometry": {"coordinates":[-77.46541999999999,34.737872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253261547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.328198,36.140385,-80.328198,36.140385",
     "geom:latitude":36.140385,
     "geom:longitude":-80.328198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Fox Lake Ct",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253261547,
-    "wof:lastmodified":1449062866,
+    "wof:lastmodified":1466645658,
     "wof:name":"Concorde Battery Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-80.328198,36.140385,-80.328198,36.140385],
+  "bbox": [
+    -80.328198,
+    36.140385,
+    -80.328198,
+    36.140385
+],
   "geometry": {"coordinates":[-80.328198,36.140385],"type":"Point"}
 }

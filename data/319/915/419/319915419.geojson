@@ -2,13 +2,14 @@
   "id": 319915419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943193,34.946562,-78.943193,34.946562",
     "geom:latitude":34.946562,
     "geom:longitude":-78.943193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4888 Monticello Ave",
     "sg:city":"Hope Mills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319915419,
-    "wof:lastmodified":1449024872,
+    "wof:lastmodified":1466646255,
     "wof:name":"Morgan & Sons Trucking",
     "wof:parent_id":85811403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.943193,34.946562,-78.943193,34.946562],
-  "geometry": {"coordinates":[-78.943193,34.946562],"type":"Point"}
+  "bbox": [
+    -78.943193,
+    34.946562,
+    -78.943193,
+    34.946562
+],
+  "geometry": {"coordinates":[-78.94319299999999,34.946562],"type":"Point"}
 }

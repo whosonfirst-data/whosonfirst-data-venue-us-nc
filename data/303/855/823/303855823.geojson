@@ -2,13 +2,14 @@
   "id": 303855823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.068762,33.932119,-78.068762,33.932119",
     "geom:latitude":33.932119,
     "geom:longitude":-78.068762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4124 Long Beach Rd SE",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303855823,
-    "wof:lastmodified":1448999922,
+    "wof:lastmodified":1466655670,
     "wof:name":"BP Towing",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.068762,33.932119,-78.068762,33.932119],
-  "geometry": {"coordinates":[-78.068762,33.932119],"type":"Point"}
+  "bbox": [
+    -78.068762,
+    33.932119,
+    -78.068762,
+    33.932119
+],
+  "geometry": {"coordinates":[-78.06876200000001,33.932119],"type":"Point"}
 }

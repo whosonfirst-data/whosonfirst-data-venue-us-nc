@@ -2,13 +2,14 @@
   "id": 404112643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.915856,35.915271,-78.915856,35.915271",
     "geom:latitude":35.915271,
     "geom:longitude":-78.915856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Auburn Square Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404112643,
-    "wof:lastmodified":1449039562,
+    "wof:lastmodified":1466652697,
     "wof:name":"Torrey Homes At Auburn Square",
     "wof:parent_id":85877125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-78.915856,35.915271,-78.915856,35.915271],
-  "geometry": {"coordinates":[-78.915856,35.915271],"type":"Point"}
+  "bbox": [
+    -78.915856,
+    35.915271,
+    -78.915856,
+    35.915271
+],
+  "geometry": {"coordinates":[-78.91585600000001,35.915271],"type":"Point"}
 }

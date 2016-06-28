@@ -2,13 +2,14 @@
   "id": 303520277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.047588,35.240401,-81.047588,35.240401",
     "geom:latitude":35.240401,
     "geom:longitude":-81.047588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Park Dr",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303520277,
-    "wof:lastmodified":1448998922,
+    "wof:lastmodified":1466650812,
     "wof:name":"American Legion",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-81.047588,35.240401,-81.047588,35.240401],
+  "bbox": [
+    -81.047588,
+    35.240401,
+    -81.047588,
+    35.240401
+],
   "geometry": {"coordinates":[-81.047588,35.240401],"type":"Point"}
 }

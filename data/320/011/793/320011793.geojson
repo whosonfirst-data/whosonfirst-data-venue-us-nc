@@ -2,13 +2,14 @@
   "id": 320011793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.626885,35.775859,-79.626885,35.775859",
     "geom:latitude":35.775859,
     "geom:longitude":-79.626885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7481 Ferguson Rd",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320011793,
-    "wof:lastmodified":1449014284,
+    "wof:lastmodified":1466645517,
     "wof:name":"Ferguson Upholstery",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-79.626885,35.775859,-79.626885,35.775859],
+  "bbox": [
+    -79.626885,
+    35.775859,
+    -79.626885,
+    35.775859
+],
   "geometry": {"coordinates":[-79.626885,35.775859],"type":"Point"}
 }

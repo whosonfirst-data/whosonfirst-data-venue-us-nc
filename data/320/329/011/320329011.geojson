@@ -2,13 +2,14 @@
   "id": 320329011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.547817,35.601883,-82.547817,35.601883",
     "geom:latitude":35.601883,
     "geom:longitude":-82.547817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Clayton St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320329011,
-    "wof:lastmodified":1449012296,
+    "wof:lastmodified":1466649906,
     "wof:name":"Linda Burgin",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-82.547817,35.601883,-82.547817,35.601883],
-  "geometry": {"coordinates":[-82.547817,35.601883],"type":"Point"}
+  "bbox": [
+    -82.547817,
+    35.601883,
+    -82.547817,
+    35.601883
+],
+  "geometry": {"coordinates":[-82.54781699999999,35.601883],"type":"Point"}
 }

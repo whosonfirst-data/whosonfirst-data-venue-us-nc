@@ -2,13 +2,14 @@
   "id": 370316113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.801735,35.062643,-80.801735,35.062643",
     "geom:latitude":35.062643,
     "geom:longitude":-80.801735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10433 Pullengreen Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370316113,
-    "wof:lastmodified":1449031374,
+    "wof:lastmodified":1466650217,
     "wof:name":"Contact of Kentucky Inc",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.801735,35.062643,-80.801735,35.062643],
-  "geometry": {"coordinates":[-80.801735,35.062643],"type":"Point"}
+  "bbox": [
+    -80.801735,
+    35.062643,
+    -80.801735,
+    35.062643
+],
+  "geometry": {"coordinates":[-80.80173499999999,35.062643],"type":"Point"}
 }

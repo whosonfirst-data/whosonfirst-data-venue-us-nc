@@ -2,13 +2,14 @@
   "id": 320589793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.500023,34.693737,-77.500023,34.693737",
     "geom:latitude":34.693737,
     "geom:longitude":-77.500023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Cantle Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320589793,
-    "wof:lastmodified":1449013256,
+    "wof:lastmodified":1466653676,
     "wof:name":"Grand Finale Cleaning Svc",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-77.500023,34.693737,-77.500023,34.693737],
+  "bbox": [
+    -77.500023,
+    34.693737,
+    -77.500023,
+    34.693737
+],
   "geometry": {"coordinates":[-77.500023,34.693737],"type":"Point"}
 }

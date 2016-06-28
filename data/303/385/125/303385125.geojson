@@ -2,13 +2,14 @@
   "id": 303385125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.080697,35.872205,-81.080697,35.872205",
     "geom:latitude":35.872205,
     "geom:longitude":-81.080697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 Old Mountain Rd",
     "sg:city":"Deep Gap",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303385125,
-    "wof:lastmodified":1448999573,
+    "wof:lastmodified":1466648852,
     "wof:name":"Powder Horn Mountain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.080697,35.872205,-81.080697,35.872205],
+  "bbox": [
+    -81.080697,
+    35.872205,
+    -81.080697,
+    35.872205
+],
   "geometry": {"coordinates":[-81.080697,35.872205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219950303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.435564,35.343964,-82.435564,35.343964",
     "geom:latitude":35.343964,
     "geom:longitude":-82.435564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Sugarloaf Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219950303,
-    "wof:lastmodified":1449071762,
+    "wof:lastmodified":1466648400,
     "wof:name":"Stop & Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.435564,35.343964,-82.435564,35.343964],
+  "bbox": [
+    -82.435564,
+    35.343964,
+    -82.435564,
+    35.343964
+],
   "geometry": {"coordinates":[-82.435564,35.343964],"type":"Point"}
 }

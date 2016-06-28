@@ -2,13 +2,14 @@
   "id": 303486977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.275202,35.657243,-78.275202,35.657243",
     "geom:latitude":35.657243,
     "geom:longitude":-78.275202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 Olivia Way",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303486977,
-    "wof:lastmodified":1448999485,
+    "wof:lastmodified":1466650344,
     "wof:name":"Jason Daniels",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.275202,35.657243,-78.275202,35.657243],
-  "geometry": {"coordinates":[-78.275202,35.657243],"type":"Point"}
+  "bbox": [
+    -78.275202,
+    35.657243,
+    -78.275202,
+    35.657243
+],
+  "geometry": {"coordinates":[-78.27520199999999,35.657243],"type":"Point"}
 }

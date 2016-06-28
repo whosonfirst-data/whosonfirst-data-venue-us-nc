@@ -2,13 +2,14 @@
   "id": 303628715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.619403,35.512735,-81.619403,35.512735",
     "geom:latitude":35.512735,
     "geom:longitude":-81.619403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Deviney St",
     "sg:city":"Casar",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303628715,
-    "wof:lastmodified":1449000100,
+    "wof:lastmodified":1466652384,
     "wof:name":"Casar Town Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.619403,35.512735,-81.619403,35.512735],
-  "geometry": {"coordinates":[-81.619403,35.512735],"type":"Point"}
+  "bbox": [
+    -81.619403,
+    35.512735,
+    -81.619403,
+    35.512735
+],
+  "geometry": {"coordinates":[-81.61940300000001,35.512735],"type":"Point"}
 }

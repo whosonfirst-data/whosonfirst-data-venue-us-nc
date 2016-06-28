@@ -2,13 +2,14 @@
   "id": 269873471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.826225,35.763911,-78.826225,35.763911",
     "geom:latitude":35.763911,
     "geom:longitude":-78.826225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Colchis Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269873471,
-    "wof:lastmodified":1449036647,
+    "wof:lastmodified":1466647780,
     "wof:name":"Realm Design Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-78.826225,35.763911,-78.826225,35.763911],
-  "geometry": {"coordinates":[-78.826225,35.763911],"type":"Point"}
+  "bbox": [
+    -78.826225,
+    35.763911,
+    -78.826225,
+    35.763911
+],
+  "geometry": {"coordinates":[-78.82622499999999,35.763911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286950475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.037344,35.925409,-79.037344,35.925409",
     "geom:latitude":35.925409,
     "geom:longitude":-79.037344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1229 E Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286950475,
-    "wof:lastmodified":1449016331,
+    "wof:lastmodified":1466652525,
     "wof:name":"Bacchus",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.037344,35.925409,-79.037344,35.925409],
+  "bbox": [
+    -79.037344,
+    35.925409,
+    -79.037344,
+    35.925409
+],
   "geometry": {"coordinates":[-79.037344,35.925409],"type":"Point"}
 }

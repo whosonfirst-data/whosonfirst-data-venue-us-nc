@@ -2,13 +2,14 @@
   "id": 286342365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.240715,34.616334,-78.240715,34.616334",
     "geom:latitude":34.616334,
     "geom:longitude":-78.240715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Barnhill Rd",
     "sg:city":"Ivanhoe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286342365,
-    "wof:lastmodified":1449017877,
+    "wof:lastmodified":1466644287,
     "wof:name":"Ivanhoe Backhoe Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.240715,34.616334,-78.240715,34.616334],
-  "geometry": {"coordinates":[-78.240715,34.616334],"type":"Point"}
+  "bbox": [
+    -78.240715,
+    34.616334,
+    -78.240715,
+    34.616334
+],
+  "geometry": {"coordinates":[-78.24071499999999,34.616334],"type":"Point"}
 }

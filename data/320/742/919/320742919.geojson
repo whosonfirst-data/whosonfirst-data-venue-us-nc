@@ -2,13 +2,14 @@
   "id": 320742919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.619059,35.842128,-75.619059,35.842128",
     "geom:latitude":35.842128,
     "geom:longitude":-75.619059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Harbor Rd",
     "sg:city":"Wanchese",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320742919,
-    "wof:lastmodified":1449011491,
+    "wof:lastmodified":1466655867,
     "wof:name":"Carolina Marine Structures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-75.619059,35.842128,-75.619059,35.842128],
-  "geometry": {"coordinates":[-75.619059,35.842128],"type":"Point"}
+  "bbox": [
+    -75.619059,
+    35.842128,
+    -75.619059,
+    35.842128
+],
+  "geometry": {"coordinates":[-75.61905899999999,35.842128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252916075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.559937,35.597139,-82.559937,35.597139",
     "geom:latitude":35.597139,
     "geom:longitude":-82.559937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Montford Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252916075,
-    "wof:lastmodified":1449006011,
+    "wof:lastmodified":1466645093,
     "wof:name":"Asheville Center-Healthy Lvng",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.559937,35.597139,-82.559937,35.597139],
-  "geometry": {"coordinates":[-82.559937,35.597139],"type":"Point"}
+  "bbox": [
+    -82.559937,
+    35.597139,
+    -82.559937,
+    35.597139
+],
+  "geometry": {"coordinates":[-82.55993700000001,35.597139],"type":"Point"}
 }

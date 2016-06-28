@@ -2,13 +2,14 @@
   "id": 203082221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.864646,35.043354,-78.864646,35.043354",
     "geom:latitude":35.043354,
     "geom:longitude":-78.864646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Locust St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203082221,
-    "wof:lastmodified":1449024997,
+    "wof:lastmodified":1466654717,
     "wof:name":"Capitol Manufacturing Company",
     "wof:parent_id":85825067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "mirror"
     ]
 },
-  "bbox": [-78.864646,35.043354,-78.864646,35.043354],
-  "geometry": {"coordinates":[-78.864646,35.043354],"type":"Point"}
+  "bbox": [
+    -78.864646,
+    35.043354,
+    -78.864646,
+    35.043354
+],
+  "geometry": {"coordinates":[-78.86464599999999,35.043354],"type":"Point"}
 }

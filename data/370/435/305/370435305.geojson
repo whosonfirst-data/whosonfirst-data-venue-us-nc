@@ -2,13 +2,14 @@
   "id": 370435305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.807544,35.559195,-78.807544,35.559195",
     "geom:latitude":35.559195,
     "geom:longitude":-78.807544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 S Main St",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370435305,
-    "wof:lastmodified":1449032161,
+    "wof:lastmodified":1466651739,
     "wof:name":"Victor J Marchioni Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.807544,35.559195,-78.807544,35.559195],
-  "geometry": {"coordinates":[-78.807544,35.559195],"type":"Point"}
+  "bbox": [
+    -78.807544,
+    35.559195,
+    -78.807544,
+    35.559195
+],
+  "geometry": {"coordinates":[-78.80754399999999,35.559195],"type":"Point"}
 }

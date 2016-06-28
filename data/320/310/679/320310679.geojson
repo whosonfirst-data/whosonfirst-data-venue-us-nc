@@ -2,13 +2,14 @@
   "id": 320310679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251472,35.827498,-80.251472,35.827498",
     "geom:latitude":35.827498,
     "geom:longitude":-80.251472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 N State St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320310679,
-    "wof:lastmodified":1449013554,
+    "wof:lastmodified":1466649630,
     "wof:name":"K C Express Inc",
     "wof:parent_id":85837937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-80.251472,35.827498,-80.251472,35.827498],
-  "geometry": {"coordinates":[-80.251472,35.827498],"type":"Point"}
+  "bbox": [
+    -80.251472,
+    35.827498,
+    -80.251472,
+    35.827498
+],
+  "geometry": {"coordinates":[-80.25147200000001,35.827498],"type":"Point"}
 }

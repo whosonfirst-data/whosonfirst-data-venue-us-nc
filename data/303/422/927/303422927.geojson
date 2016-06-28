@@ -2,13 +2,14 @@
   "id": 303422927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.235017,35.473032,-81.235017,35.473032",
     "geom:latitude":35.473032,
     "geom:longitude":-81.235017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1470 Gaston St",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303422927,
-    "wof:lastmodified":1448998292,
+    "wof:lastmodified":1466649406,
     "wof:name":"Lincolnton Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.235017,35.473032,-81.235017,35.473032],
+  "bbox": [
+    -81.235017,
+    35.473032,
+    -81.235017,
+    35.473032
+],
   "geometry": {"coordinates":[-81.235017,35.473032],"type":"Point"}
 }

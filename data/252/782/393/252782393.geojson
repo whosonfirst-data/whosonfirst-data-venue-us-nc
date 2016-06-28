@@ -2,13 +2,14 @@
   "id": 252782393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.470949,35.666682,-80.470949,35.666682",
     "geom:latitude":35.666682,
     "geom:longitude":-80.470949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Main St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252782393,
-    "wof:lastmodified":1449005397,
+    "wof:lastmodified":1466643893,
     "wof:name":"Home Health Care Of Salisbury",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-80.470949,35.666682,-80.470949,35.666682],
+  "bbox": [
+    -80.470949,
+    35.666682,
+    -80.470949,
+    35.666682
+],
   "geometry": {"coordinates":[-80.470949,35.666682],"type":"Point"}
 }

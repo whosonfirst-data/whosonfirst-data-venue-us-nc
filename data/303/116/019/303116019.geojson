@@ -2,13 +2,14 @@
   "id": 303116019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.97321,35.867159,-79.97321,35.867159",
     "geom:latitude":35.867159,
     "geom:longitude":-79.97321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4513 Roselee Dr",
     "sg:city":"Trinity",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303116019,
-    "wof:lastmodified":1448998475,
+    "wof:lastmodified":1466644948,
     "wof:name":"Freitas Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.97321,35.867159,-79.97321,35.867159],
-  "geometry": {"coordinates":[-79.97321,35.867159],"type":"Point"}
+  "bbox": [
+    -79.97321,
+    35.867159,
+    -79.97321,
+    35.867159
+],
+  "geometry": {"coordinates":[-79.97320999999999,35.867159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370323751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.360376,35.578594,-77.360376,35.578594",
     "geom:latitude":35.578594,
     "geom:longitude":-77.360376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Oakmont Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370323751,
-    "wof:lastmodified":1449029377,
+    "wof:lastmodified":1466650306,
     "wof:name":"Westside Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.360376,35.578594,-77.360376,35.578594],
+  "bbox": [
+    -77.360376,
+    35.578594,
+    -77.360376,
+    35.578594
+],
   "geometry": {"coordinates":[-77.360376,35.578594],"type":"Point"}
 }

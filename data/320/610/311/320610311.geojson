@@ -2,13 +2,14 @@
   "id": 320610311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.983623,35.393225,-77.983623,35.393225",
     "geom:latitude":35.393225,
     "geom:longitude":-77.983623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E 2nd St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320610311,
-    "wof:lastmodified":1449014902,
+    "wof:lastmodified":1466653979,
     "wof:name":"Transplants Recipents Intl",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "facility"
     ]
 },
-  "bbox": [-77.983623,35.393225,-77.983623,35.393225],
-  "geometry": {"coordinates":[-77.983623,35.393225],"type":"Point"}
+  "bbox": [
+    -77.983623,
+    35.393225,
+    -77.983623,
+    35.393225
+],
+  "geometry": {"coordinates":[-77.98362299999999,35.393225],"type":"Point"}
 }

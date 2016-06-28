@@ -2,13 +2,14 @@
   "id": 202710833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862511,35.48258,-80.862511,35.48258",
     "geom:latitude":35.48258,
     "geom:longitude":-80.862511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21216 Catawba Ave",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202710833,
-    "wof:lastmodified":1449060263,
+    "wof:lastmodified":1466643509,
     "wof:name":"Southern Financial Group",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.862511,35.48258,-80.862511,35.48258],
+  "bbox": [
+    -80.862511,
+    35.48258,
+    -80.862511,
+    35.48258
+],
   "geometry": {"coordinates":[-80.862511,35.48258],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370613599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.830204,34.31984,-78.830204,34.31984",
     "geom:latitude":34.31984,
     "geom:longitude":-78.830204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 W Holland St",
     "sg:city":"Chadbourn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370613599,
-    "wof:lastmodified":1449030668,
+    "wof:lastmodified":1466654049,
     "wof:name":"Franklin George & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.830204,34.31984,-78.830204,34.31984],
-  "geometry": {"coordinates":[-78.830204,34.31984],"type":"Point"}
+  "bbox": [
+    -78.830204,
+    34.31984,
+    -78.830204,
+    34.31984
+],
+  "geometry": {"coordinates":[-78.83020399999999,34.31984],"type":"Point"}
 }

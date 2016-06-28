@@ -2,13 +2,14 @@
   "id": 320400191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.749493,34.948,-79.749493,34.948",
     "geom:latitude":34.948,
     "geom:longitude":-79.749493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1914 Fayetteville Rd",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320400191,
-    "wof:lastmodified":1449011603,
+    "wof:lastmodified":1466650925,
     "wof:name":"Thomas & Thomas Investments LL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-79.749493,34.948,-79.749493,34.948],
+  "bbox": [
+    -79.749493,
+    34.948,
+    -79.749493,
+    34.948
+],
   "geometry": {"coordinates":[-79.749493,34.948],"type":"Point"}
 }

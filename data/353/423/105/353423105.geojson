@@ -2,13 +2,14 @@
   "id": 353423105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.94012,34.206419,-77.94012,34.206419",
     "geom:latitude":34.206419,
     "geom:longitude":-77.94012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Poplar St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353423105,
-    "wof:lastmodified":1449018666,
+    "wof:lastmodified":1466647712,
     "wof:name":"Solar Shield",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.94012,34.206419,-77.94012,34.206419],
-  "geometry": {"coordinates":[-77.94012,34.206419],"type":"Point"}
+  "bbox": [
+    -77.94012,
+    34.206419,
+    -77.94012,
+    34.206419
+],
+  "geometry": {"coordinates":[-77.94011999999999,34.206419],"type":"Point"}
 }

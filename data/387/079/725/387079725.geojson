@@ -2,13 +2,14 @@
   "id": 387079725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.32844,34.851061,-79.32844,34.851061",
     "geom:latitude":34.851061,
     "geom:longitude":-79.32844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 S Hilltop Rd",
     "sg:city":"Wagram",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387079725,
-    "wof:lastmodified":1449059286,
+    "wof:lastmodified":1466650887,
     "wof:name":"Haynes Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-79.32844,34.851061,-79.32844,34.851061],
+  "bbox": [
+    -79.32844,
+    34.851061,
+    -79.32844,
+    34.851061
+],
   "geometry": {"coordinates":[-79.32844,34.851061],"type":"Point"}
 }

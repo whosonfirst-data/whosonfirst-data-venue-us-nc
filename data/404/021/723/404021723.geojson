@@ -2,13 +2,14 @@
   "id": 404021723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.607052,35.77951,-78.607052,35.77951",
     "geom:latitude":35.77951,
     "geom:longitude":-78.607052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 New Bern Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404021723,
-    "wof:lastmodified":1449039879,
+    "wof:lastmodified":1466651578,
     "wof:name":"First Citizens Bank",
     "wof:parent_id":85812511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-78.607052,35.77951,-78.607052,35.77951],
+  "bbox": [
+    -78.607052,
+    35.77951,
+    -78.607052,
+    35.77951
+],
   "geometry": {"coordinates":[-78.607052,35.77951],"type":"Point"}
 }

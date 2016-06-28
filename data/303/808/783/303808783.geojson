@@ -2,13 +2,14 @@
   "id": 303808783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.988773,35.944008,-78.988773,35.944008",
     "geom:latitude":35.944008,
     "geom:longitude":-78.988773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5215 Old Chapel Hill Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303808783,
-    "wof:lastmodified":1448998233,
+    "wof:lastmodified":1466654990,
     "wof:name":"National Sleep Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-78.988773,35.944008,-78.988773,35.944008],
-  "geometry": {"coordinates":[-78.988773,35.944008],"type":"Point"}
+  "bbox": [
+    -78.988773,
+    35.944008,
+    -78.988773,
+    35.944008
+],
+  "geometry": {"coordinates":[-78.98877299999999,35.944008],"type":"Point"}
 }

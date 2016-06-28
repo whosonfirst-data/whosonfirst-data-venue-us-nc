@@ -2,13 +2,14 @@
   "id": 269915521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.669041,35.99872,-78.669041,35.99872",
     "geom:latitude":35.99872,
     "geom:longitude":-78.669041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12824 Ghoston Rd",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269915521,
-    "wof:lastmodified":1449038929,
+    "wof:lastmodified":1466648306,
     "wof:name":"Ericks Heating AC & Elec",
     "wof:parent_id":85892191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "heating"
     ]
 },
-  "bbox": [-78.669041,35.99872,-78.669041,35.99872],
-  "geometry": {"coordinates":[-78.669041,35.99872],"type":"Point"}
+  "bbox": [
+    -78.669041,
+    35.99872,
+    -78.669041,
+    35.99872
+],
+  "geometry": {"coordinates":[-78.66904100000001,35.99872],"type":"Point"}
 }

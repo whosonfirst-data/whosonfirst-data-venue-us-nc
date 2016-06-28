@@ -2,13 +2,14 @@
   "id": 354207355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.881971,35.055081,-78.881971,35.055081",
     "geom:latitude":35.055081,
     "geom:longitude":-78.881971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Maiden Ln",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354207355,
-    "wof:lastmodified":1449067155,
+    "wof:lastmodified":1466649975,
     "wof:name":"Cumberland Co Public Library",
     "wof:parent_id":85877377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.881971,35.055081,-78.881971,35.055081],
-  "geometry": {"coordinates":[-78.881971,35.055081],"type":"Point"}
+  "bbox": [
+    -78.881971,
+    35.055081,
+    -78.881971,
+    35.055081
+],
+  "geometry": {"coordinates":[-78.88197099999999,35.055081],"type":"Point"}
 }

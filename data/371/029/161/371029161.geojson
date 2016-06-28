@@ -2,13 +2,14 @@
   "id": 371029161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.887689,36.089577,-79.887689,36.089577",
     "geom:latitude":36.089577,
     "geom:longitude":-79.887689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5729 W Friendly Ave",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371029161,
-    "wof:lastmodified":1449049467,
+    "wof:lastmodified":1466649201,
     "wof:name":"Wilco Service Station",
     "wof:parent_id":85885395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-79.887689,36.089577,-79.887689,36.089577],
-  "geometry": {"coordinates":[-79.887689,36.089577],"type":"Point"}
+  "bbox": [
+    -79.887689,
+    36.089577,
+    -79.887689,
+    36.089577
+],
+  "geometry": {"coordinates":[-79.88768899999999,36.089577],"type":"Point"}
 }

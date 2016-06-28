@@ -2,13 +2,14 @@
   "id": 219543647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.627935,35.805603,-78.627935,35.805603",
     "geom:latitude":35.805603,
     "geom:longitude":-78.627935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Pershing Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219543647,
-    "wof:lastmodified":1449071083,
+    "wof:lastmodified":1466645189,
     "wof:name":"Safety Express Courier Svc Inc",
     "wof:parent_id":85821323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "courier"
     ]
 },
-  "bbox": [-78.627935,35.805603,-78.627935,35.805603],
-  "geometry": {"coordinates":[-78.627935,35.805603],"type":"Point"}
+  "bbox": [
+    -78.627935,
+    35.805603,
+    -78.627935,
+    35.805603
+],
+  "geometry": {"coordinates":[-78.62793499999999,35.805603],"type":"Point"}
 }

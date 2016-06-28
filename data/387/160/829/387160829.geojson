@@ -2,13 +2,14 @@
   "id": 387160829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.752766,35.7805,-79.752766,35.7805",
     "geom:latitude":35.7805,
     "geom:longitude":-79.752766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Old Liberty Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387160829,
-    "wof:lastmodified":1449059322,
+    "wof:lastmodified":1466651958,
     "wof:name":"Reynolds Welding",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-79.752766,35.7805,-79.752766,35.7805],
-  "geometry": {"coordinates":[-79.752766,35.7805],"type":"Point"}
+  "bbox": [
+    -79.752766,
+    35.7805,
+    -79.752766,
+    35.7805
+],
+  "geometry": {"coordinates":[-79.75276599999999,35.7805],"type":"Point"}
 }

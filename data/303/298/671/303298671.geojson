@@ -2,13 +2,14 @@
   "id": 303298671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.538299,35.796942,-78.538299,35.796942",
     "geom:latitude":35.796942,
     "geom:longitude":-78.538299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5713 Beachwater Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303298671,
-    "wof:lastmodified":1448998773,
+    "wof:lastmodified":1466647655,
     "wof:name":"Farah Wholesale",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.538299,35.796942,-78.538299,35.796942],
-  "geometry": {"coordinates":[-78.538299,35.796942],"type":"Point"}
+  "bbox": [
+    -78.538299,
+    35.796942,
+    -78.538299,
+    35.796942
+],
+  "geometry": {"coordinates":[-78.53829899999999,35.796942],"type":"Point"}
 }

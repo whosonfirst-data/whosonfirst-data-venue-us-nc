@@ -2,13 +2,14 @@
   "id": 303640331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.190478,35.499107,-79.190478,35.499107",
     "geom:latitude":35.499107,
     "geom:longitude":-79.190478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Pathway Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303640331,
-    "wof:lastmodified":1448999182,
+    "wof:lastmodified":1466652552,
     "wof:name":"Sanford Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.190478,35.499107,-79.190478,35.499107],
+  "bbox": [
+    -79.190478,
+    35.499107,
+    -79.190478,
+    35.499107
+],
   "geometry": {"coordinates":[-79.190478,35.499107],"type":"Point"}
 }

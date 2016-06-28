@@ -2,13 +2,14 @@
   "id": 303742025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.591263,35.604152,-77.591263,35.604152",
     "geom:latitude":35.604152,
     "geom:longitude":-77.591263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Park St",
     "sg:city":"Farmville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303742025,
-    "wof:lastmodified":1448998281,
+    "wof:lastmodified":1466654022,
     "wof:name":"Little Red School",
     "wof:parent_id":85806177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.591263,35.604152,-77.591263,35.604152],
+  "bbox": [
+    -77.591263,
+    35.604152,
+    -77.591263,
+    35.604152
+],
   "geometry": {"coordinates":[-77.591263,35.604152],"type":"Point"}
 }

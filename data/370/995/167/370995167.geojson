@@ -2,13 +2,14 @@
   "id": 370995167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.632027,35.854777,-78.632027,35.854777",
     "geom:latitude":35.854777,
     "geom:longitude":-78.632027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Myrtlewood Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370995167,
-    "wof:lastmodified":1449032103,
+    "wof:lastmodified":1466657224,
     "wof:name":"Assisted Moving Inc",
     "wof:parent_id":85838291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-78.632027,35.854777,-78.632027,35.854777],
-  "geometry": {"coordinates":[-78.632027,35.854777],"type":"Point"}
+  "bbox": [
+    -78.632027,
+    35.854777,
+    -78.632027,
+    35.854777
+],
+  "geometry": {"coordinates":[-78.63202699999999,35.854777],"type":"Point"}
 }

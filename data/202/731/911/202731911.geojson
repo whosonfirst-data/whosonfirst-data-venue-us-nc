@@ -2,13 +2,14 @@
   "id": 202731911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.330978,35.501535,-77.330978,35.501535",
     "geom:latitude":35.501535,
     "geom:longitude":-77.330978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 Ivy Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202731911,
-    "wof:lastmodified":1449062363,
+    "wof:lastmodified":1466643661,
     "wof:name":"Custom Tile Works Inc",
     "wof:parent_id":85858219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.330978,35.501535,-77.330978,35.501535],
+  "bbox": [
+    -77.330978,
+    35.501535,
+    -77.330978,
+    35.501535
+],
   "geometry": {"coordinates":[-77.330978,35.501535],"type":"Point"}
 }

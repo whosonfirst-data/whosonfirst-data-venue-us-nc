@@ -2,13 +2,14 @@
   "id": 303530129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.286215,36.185376,-81.286215,36.185376",
     "geom:latitude":36.185376,
     "geom:longitude":-81.286215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Purlear Rd",
     "sg:city":"Purlear",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303530129,
-    "wof:lastmodified":1448999424,
+    "wof:lastmodified":1466650941,
     "wof:name":"Purlear Baptist Church",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.286215,36.185376,-81.286215,36.185376],
+  "bbox": [
+    -81.286215,
+    36.185376,
+    -81.286215,
+    36.185376
+],
   "geometry": {"coordinates":[-81.286215,36.185376],"type":"Point"}
 }

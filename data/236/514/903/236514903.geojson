@@ -2,13 +2,14 @@
   "id": 236514903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.487901,35.238494,-79.487901,35.238494",
     "geom:latitude":35.238494,
     "geom:longitude":-79.487901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"484 Oldham Rd",
     "sg:city":"Robbins",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236514903,
-    "wof:lastmodified":1449003281,
+    "wof:lastmodified":1466647733,
     "wof:name":"Larry D Scott",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.487901,35.238494,-79.487901,35.238494],
-  "geometry": {"coordinates":[-79.487901,35.238494],"type":"Point"}
+  "bbox": [
+    -79.487901,
+    35.238494,
+    -79.487901,
+    35.238494
+],
+  "geometry": {"coordinates":[-79.48790099999999,35.238494],"type":"Point"}
 }

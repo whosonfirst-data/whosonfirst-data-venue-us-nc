@@ -2,13 +2,14 @@
   "id": 320612865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.890393,35.085616,-80.890393,35.085616",
     "geom:latitude":35.085616,
     "geom:longitude":-80.890393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Main St",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320612865,
-    "wof:lastmodified":1449012908,
+    "wof:lastmodified":1466654011,
     "wof:name":"Rainy Day Creations",
     "wof:parent_id":85818837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yarn"
     ]
 },
-  "bbox": [-80.890393,35.085616,-80.890393,35.085616],
+  "bbox": [
+    -80.890393,
+    35.085616,
+    -80.890393,
+    35.085616
+],
   "geometry": {"coordinates":[-80.890393,35.085616],"type":"Point"}
 }

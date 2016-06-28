@@ -2,13 +2,14 @@
   "id": 303058029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.922109,36.009965,-78.922109,36.009965",
     "geom:latitude":36.009965,
     "geom:longitude":-78.922109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 9th St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303058029,
-    "wof:lastmodified":1448998477,
+    "wof:lastmodified":1466644072,
     "wof:name":"Duck Shop",
     "wof:parent_id":85877189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-78.922109,36.009965,-78.922109,36.009965],
-  "geometry": {"coordinates":[-78.922109,36.009965],"type":"Point"}
+  "bbox": [
+    -78.922109,
+    36.009965,
+    -78.922109,
+    36.009965
+],
+  "geometry": {"coordinates":[-78.92210900000001,36.009965],"type":"Point"}
 }

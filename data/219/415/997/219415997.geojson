@@ -2,13 +2,14 @@
   "id": 219415997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.854618,35.798265,-80.854618,35.798265",
     "geom:latitude":35.798265,
     "geom:longitude":-80.854618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Signal Hill Dr",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219415997,
-    "wof:lastmodified":1449072948,
+    "wof:lastmodified":1466644250,
     "wof:name":"Statesville Recreation & Parks",
     "wof:parent_id":85817105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-80.854618,35.798265,-80.854618,35.798265],
+  "bbox": [
+    -80.854618,
+    35.798265,
+    -80.854618,
+    35.798265
+],
   "geometry": {"coordinates":[-80.854618,35.798265],"type":"Point"}
 }

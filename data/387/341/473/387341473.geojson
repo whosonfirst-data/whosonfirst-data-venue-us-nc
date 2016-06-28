@@ -2,13 +2,14 @@
   "id": 387341473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.95243,36.009654,-76.95243,36.009654",
     "geom:latitude":36.009654,
     "geom:longitude":-76.95243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Broad St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387341473,
-    "wof:lastmodified":1449059750,
+    "wof:lastmodified":1466654355,
     "wof:name":"Sanford Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.95243,36.009654,-76.95243,36.009654],
-  "geometry": {"coordinates":[-76.95243,36.009654],"type":"Point"}
+  "bbox": [
+    -76.95243,
+    36.009654,
+    -76.95243,
+    36.009654
+],
+  "geometry": {"coordinates":[-76.95243000000001,36.009654],"type":"Point"}
 }

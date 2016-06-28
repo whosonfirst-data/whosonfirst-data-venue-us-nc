@@ -2,13 +2,14 @@
   "id": 404182385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.998866,35.071758,-78.998866,35.071758",
     "geom:latitude":35.071758,
     "geom:longitude":-78.998866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Thurston St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404182385,
-    "wof:lastmodified":1449039890,
+    "wof:lastmodified":1466653618,
     "wof:name":"Qualified Health Connections",
     "wof:parent_id":85831097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-78.998866,35.071758,-78.998866,35.071758],
-  "geometry": {"coordinates":[-78.998866,35.071758],"type":"Point"}
+  "bbox": [
+    -78.998866,
+    35.071758,
+    -78.998866,
+    35.071758
+],
+  "geometry": {"coordinates":[-78.99886600000001,35.071758],"type":"Point"}
 }

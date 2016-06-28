@@ -2,13 +2,14 @@
   "id": 336796791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.753447,34.727145,-76.753447,34.727145",
     "geom:latitude":34.727145,
     "geom:longitude":-76.753447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Bridges St",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336796791,
-    "wof:lastmodified":1448997458,
+    "wof:lastmodified":1466648836,
     "wof:name":"National Assn Ltr Crrers U S A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.753447,34.727145,-76.753447,34.727145],
-  "geometry": {"coordinates":[-76.753447,34.727145],"type":"Point"}
+  "bbox": [
+    -76.753447,
+    34.727145,
+    -76.753447,
+    34.727145
+],
+  "geometry": {"coordinates":[-76.75344699999999,34.727145],"type":"Point"}
 }

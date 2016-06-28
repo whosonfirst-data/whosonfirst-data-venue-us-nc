@@ -2,13 +2,14 @@
   "id": 303337325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.478269,35.505587,-77.478269,35.505587",
     "geom:latitude":35.505587,
     "geom:longitude":-77.478269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1173 Mac Allen Rd",
     "sg:city":"Winterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303337325,
-    "wof:lastmodified":1448999264,
+    "wof:lastmodified":1466648163,
     "wof:name":"Educue LLC",
     "wof:parent_id":85820763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.478269,35.505587,-77.478269,35.505587],
+  "bbox": [
+    -77.478269,
+    35.505587,
+    -77.478269,
+    35.505587
+],
   "geometry": {"coordinates":[-77.478269,35.505587],"type":"Point"}
 }

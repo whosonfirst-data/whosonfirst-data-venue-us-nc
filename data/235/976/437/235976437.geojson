@@ -2,13 +2,14 @@
   "id": 235976437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.356929,35.817189,-81.356929,35.817189",
     "geom:latitude":35.817189,
     "geom:longitude":-81.356929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4647 Petra Mill Rd",
     "sg:city":"Granite Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235976437,
-    "wof:lastmodified":1449008397,
+    "wof:lastmodified":1466643599,
     "wof:name":"Hideaway Kennel",
     "wof:parent_id":85822593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-81.356929,35.817189,-81.356929,35.817189],
-  "geometry": {"coordinates":[-81.356929,35.817189],"type":"Point"}
+  "bbox": [
+    -81.356929,
+    35.817189,
+    -81.356929,
+    35.817189
+],
+  "geometry": {"coordinates":[-81.35692899999999,35.817189],"type":"Point"}
 }

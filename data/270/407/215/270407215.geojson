@@ -2,13 +2,14 @@
   "id": 270407215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951666,35.90255,-79.951666,35.90255",
     "geom:latitude":35.90255,
     "geom:longitude":-79.951666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10002 S Main St",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270407215,
-    "wof:lastmodified":1449010004,
+    "wof:lastmodified":1466648225,
     "wof:name":"Innkeeper-High Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.951666,35.90255,-79.951666,35.90255],
+  "bbox": [
+    -79.951666,
+    35.90255,
+    -79.951666,
+    35.90255
+],
   "geometry": {"coordinates":[-79.951666,35.90255],"type":"Point"}
 }

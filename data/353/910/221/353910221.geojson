@@ -2,13 +2,14 @@
   "id": 353910221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.370772,34.81095,-77.370772,34.81095",
     "geom:latitude":34.81095,
     "geom:longitude":-77.370772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Ramsey Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353910221,
-    "wof:lastmodified":1449019311,
+    "wof:lastmodified":1466653020,
     "wof:name":"William Abril",
     "wof:parent_id":85839091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recreational"
     ]
 },
-  "bbox": [-77.370772,34.81095,-77.370772,34.81095],
+  "bbox": [
+    -77.370772,
+    34.81095,
+    -77.370772,
+    34.81095
+],
   "geometry": {"coordinates":[-77.370772,34.81095],"type":"Point"}
 }

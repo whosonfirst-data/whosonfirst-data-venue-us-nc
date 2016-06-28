@@ -2,13 +2,14 @@
   "id": 303233413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.356254,35.738137,-81.356254,35.738137",
     "geom:latitude":35.738137,
     "geom:longitude":-81.356254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1046 3rd Avenue Dr NW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303233413,
-    "wof:lastmodified":1449000607,
+    "wof:lastmodified":1466646697,
     "wof:name":"Logo Stitch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-81.356254,35.738137,-81.356254,35.738137],
-  "geometry": {"coordinates":[-81.356254,35.738137],"type":"Point"}
+  "bbox": [
+    -81.356254,
+    35.738137,
+    -81.356254,
+    35.738137
+],
+  "geometry": {"coordinates":[-81.35625400000001,35.738137],"type":"Point"}
 }

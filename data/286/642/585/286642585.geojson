@@ -2,13 +2,14 @@
   "id": 286642585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.266995,34.896352,-79.266995,34.896352",
     "geom:latitude":34.896352,
     "geom:longitude":-79.266995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1999 McEachern Farm Rd",
     "sg:city":"Red Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286642585,
-    "wof:lastmodified":1449015345,
+    "wof:lastmodified":1466648329,
     "wof:name":"Nunns Creek Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.266995,34.896352,-79.266995,34.896352],
-  "geometry": {"coordinates":[-79.266995,34.896352],"type":"Point"}
+  "bbox": [
+    -79.266995,
+    34.896352,
+    -79.266995,
+    34.896352
+],
+  "geometry": {"coordinates":[-79.26699499999999,34.896352],"type":"Point"}
 }

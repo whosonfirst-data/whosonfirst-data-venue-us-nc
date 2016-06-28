@@ -2,13 +2,14 @@
   "id": 303755305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.334544,35.730575,-81.334544,35.730575",
     "geom:latitude":35.730575,
     "geom:longitude":-81.334544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 1st Ave SE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303755305,
-    "wof:lastmodified":1448998802,
+    "wof:lastmodified":1466654216,
     "wof:name":"Living Work Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.334544,35.730575,-81.334544,35.730575],
-  "geometry": {"coordinates":[-81.334544,35.730575],"type":"Point"}
+  "bbox": [
+    -81.334544,
+    35.730575,
+    -81.334544,
+    35.730575
+],
+  "geometry": {"coordinates":[-81.33454399999999,35.730575],"type":"Point"}
 }

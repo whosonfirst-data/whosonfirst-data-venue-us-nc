@@ -2,13 +2,14 @@
   "id": 404000947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.863953,35.77334,-78.863953,35.77334",
     "geom:latitude":35.77334,
     "geom:longitude":-78.863953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Forest Brook Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404000947,
-    "wof:lastmodified":1449039208,
+    "wof:lastmodified":1466655870,
     "wof:name":"Component Sales of Alabama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "representative"
     ]
 },
-  "bbox": [-78.863953,35.77334,-78.863953,35.77334],
+  "bbox": [
+    -78.863953,
+    35.77334,
+    -78.863953,
+    35.77334
+],
   "geometry": {"coordinates":[-78.863953,35.77334],"type":"Point"}
 }

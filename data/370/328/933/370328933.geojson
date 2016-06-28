@@ -2,13 +2,14 @@
   "id": 370328933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.031844,34.669317,-78.031844,34.669317",
     "geom:latitude":34.669317,
     "geom:longitude":-78.031844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4633 State Hwy 11",
     "sg:city":"Kelly",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370328933,
-    "wof:lastmodified":1449031069,
+    "wof:lastmodified":1466650365,
     "wof:name":"Bryan's Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.031844,34.669317,-78.031844,34.669317],
-  "geometry": {"coordinates":[-78.031844,34.669317],"type":"Point"}
+  "bbox": [
+    -78.031844,
+    34.669317,
+    -78.031844,
+    34.669317
+],
+  "geometry": {"coordinates":[-78.03184400000001,34.669317],"type":"Point"}
 }

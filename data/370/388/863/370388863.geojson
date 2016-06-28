@@ -2,13 +2,14 @@
   "id": 370388863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.474471,34.75334,-77.474471,34.75334",
     "geom:latitude":34.75334,
     "geom:longitude":-77.474471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1189 Burgaw Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370388863,
-    "wof:lastmodified":1449029196,
+    "wof:lastmodified":1466651124,
     "wof:name":"Kellum's Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pump"
     ]
 },
-  "bbox": [-77.474471,34.75334,-77.474471,34.75334],
-  "geometry": {"coordinates":[-77.474471,34.75334],"type":"Point"}
+  "bbox": [
+    -77.474471,
+    34.75334,
+    -77.474471,
+    34.75334
+],
+  "geometry": {"coordinates":[-77.47447099999999,34.75334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320792423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.654029,35.809037,-78.654029,35.809037",
     "geom:latitude":35.809037,
     "geom:longitude":-78.654029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Fairview Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320792423,
-    "wof:lastmodified":1449012057,
+    "wof:lastmodified":1466656284,
     "wof:name":"Drive-Thru Cleaners & Shoe Rpr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-78.654029,35.809037,-78.654029,35.809037],
-  "geometry": {"coordinates":[-78.654029,35.809037],"type":"Point"}
+  "bbox": [
+    -78.654029,
+    35.809037,
+    -78.654029,
+    35.809037
+],
+  "geometry": {"coordinates":[-78.65402899999999,35.809037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252899907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.649425,35.73961,-79.649425,35.73961",
     "geom:latitude":35.73961,
     "geom:longitude":-79.649425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6909 Jordan Rd",
     "sg:city":"Ramseur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252899907,
-    "wof:lastmodified":1449006446,
+    "wof:lastmodified":1466644950,
     "wof:name":"Horizon Consulting Svc",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-79.649425,35.73961,-79.649425,35.73961],
-  "geometry": {"coordinates":[-79.649425,35.73961],"type":"Point"}
+  "bbox": [
+    -79.649425,
+    35.73961,
+    -79.649425,
+    35.73961
+],
+  "geometry": {"coordinates":[-79.64942499999999,35.73961],"type":"Point"}
 }

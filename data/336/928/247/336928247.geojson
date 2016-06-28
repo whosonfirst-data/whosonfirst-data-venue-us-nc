@@ -2,13 +2,14 @@
   "id": 336928247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.245787,35.36172,-79.245787,35.36172",
     "geom:latitude":35.36172,
     "geom:longitude":-79.245787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Blakely Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336928247,
-    "wof:lastmodified":1448997876,
+    "wof:lastmodified":1466650848,
     "wof:name":"Christway Property Management",
     "wof:parent_id":85852511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.245787,35.36172,-79.245787,35.36172],
-  "geometry": {"coordinates":[-79.245787,35.36172],"type":"Point"}
+  "bbox": [
+    -79.245787,
+    35.36172,
+    -79.245787,
+    35.36172
+],
+  "geometry": {"coordinates":[-79.24578700000001,35.36172],"type":"Point"}
 }

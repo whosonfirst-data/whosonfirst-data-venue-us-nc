@@ -2,13 +2,14 @@
   "id": 303350123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.262071,35.809378,-80.262071,35.809378",
     "geom:latitude":35.809378,
     "geom:longitude":-80.262071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Cotton Grove Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303350123,
-    "wof:lastmodified":1448999367,
+    "wof:lastmodified":1466648349,
     "wof:name":"Shumaker's Inc Furniture",
     "wof:parent_id":85849547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-80.262071,35.809378,-80.262071,35.809378],
-  "geometry": {"coordinates":[-80.262071,35.809378],"type":"Point"}
+  "bbox": [
+    -80.262071,
+    35.809378,
+    -80.262071,
+    35.809378
+],
+  "geometry": {"coordinates":[-80.26207100000001,35.809378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304020779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.599013,35.524108,-82.599013,35.524108",
     "geom:latitude":35.524108,
     "geom:longitude":-82.599013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Ridgefield Ct",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304020779,
-    "wof:lastmodified":1449043808,
+    "wof:lastmodified":1466644451,
     "wof:name":"WCI",
     "wof:parent_id":85853555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-82.599013,35.524108,-82.599013,35.524108],
+  "bbox": [
+    -82.599013,
+    35.524108,
+    -82.599013,
+    35.524108
+],
   "geometry": {"coordinates":[-82.599013,35.524108],"type":"Point"}
 }

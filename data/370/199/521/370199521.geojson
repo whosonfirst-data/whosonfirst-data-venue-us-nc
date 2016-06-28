@@ -2,13 +2,14 @@
   "id": 370199521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.45323,35.547984,-80.45323,35.547984",
     "geom:latitude":35.547984,
     "geom:longitude":-80.45323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6055 State Hwy 152 E",
     "sg:city":"Rockwell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370199521,
-    "wof:lastmodified":1449029439,
+    "wof:lastmodified":1466648762,
     "wof:name":"Rockwell Farms",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-80.45323,35.547984,-80.45323,35.547984],
+  "bbox": [
+    -80.45323,
+    35.547984,
+    -80.45323,
+    35.547984
+],
   "geometry": {"coordinates":[-80.45323,35.547984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303045119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.473612,34.769399,-79.473612,34.769399",
     "geom:latitude":34.769399,
     "geom:longitude":-79.473612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Anson Ave",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303045119,
-    "wof:lastmodified":1449000281,
+    "wof:lastmodified":1466643890,
     "wof:name":"BNS Professional Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resume"
     ]
 },
-  "bbox": [-79.473612,34.769399,-79.473612,34.769399],
+  "bbox": [
+    -79.473612,
+    34.769399,
+    -79.473612,
+    34.769399
+],
   "geometry": {"coordinates":[-79.473612,34.769399],"type":"Point"}
 }

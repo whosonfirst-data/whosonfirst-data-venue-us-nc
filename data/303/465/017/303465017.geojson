@@ -2,13 +2,14 @@
   "id": 303465017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.814062,35.448109,-82.814062,35.448109",
     "geom:latitude":35.448109,
     "geom:longitude":-82.814062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Country Club Dr",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303465017,
-    "wof:lastmodified":1448999763,
+    "wof:lastmodified":1466650022,
     "wof:name":"Stovall Tax Service",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.814062,35.448109,-82.814062,35.448109],
-  "geometry": {"coordinates":[-82.814062,35.448109],"type":"Point"}
+  "bbox": [
+    -82.814062,
+    35.448109,
+    -82.814062,
+    35.448109
+],
+  "geometry": {"coordinates":[-82.81406200000001,35.448109],"type":"Point"}
 }

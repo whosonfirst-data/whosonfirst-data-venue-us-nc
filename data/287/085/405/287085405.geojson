@@ -2,13 +2,14 @@
   "id": 287085405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.870973,36.05792,-79.870973,36.05792",
     "geom:latitude":36.05792,
     "geom:longitude":-79.870973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Norwalk St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287085405,
-    "wof:lastmodified":1449000878,
+    "wof:lastmodified":1466644473,
     "wof:name":"Mercedes Benz of Greensboro",
     "wof:parent_id":85851941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-79.870973,36.05792,-79.870973,36.05792],
-  "geometry": {"coordinates":[-79.870973,36.05792],"type":"Point"}
+  "bbox": [
+    -79.870973,
+    36.05792,
+    -79.870973,
+    36.05792
+],
+  "geometry": {"coordinates":[-79.87097300000001,36.05792],"type":"Point"}
 }

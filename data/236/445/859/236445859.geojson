@@ -2,13 +2,14 @@
   "id": 236445859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.876136,35.240024,-80.876136,35.240024",
     "geom:latitude":35.240024,
     "geom:longitude":-80.876136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Pryor St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236445859,
-    "wof:lastmodified":1449002007,
+    "wof:lastmodified":1466647135,
     "wof:name":"Parkview",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.876136,35.240024,-80.876136,35.240024],
+  "bbox": [
+    -80.876136,
+    35.240024,
+    -80.876136,
+    35.240024
+],
   "geometry": {"coordinates":[-80.876136,35.240024],"type":"Point"}
 }

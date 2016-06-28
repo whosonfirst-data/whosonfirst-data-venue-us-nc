@@ -2,13 +2,14 @@
   "id": 320508703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.378905,34.787341,-77.378905,34.787341",
     "geom:latitude":34.787341,
     "geom:longitude":-77.378905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2507 N Marine Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320508703,
-    "wof:lastmodified":1449013353,
+    "wof:lastmodified":1466652490,
     "wof:name":"Lower Cape Fear Hospice",
     "wof:parent_id":85851533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-77.378905,34.787341,-77.378905,34.787341],
+  "bbox": [
+    -77.378905,
+    34.787341,
+    -77.378905,
+    34.787341
+],
   "geometry": {"coordinates":[-77.378905,34.787341],"type":"Point"}
 }

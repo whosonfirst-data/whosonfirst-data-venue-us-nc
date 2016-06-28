@@ -2,13 +2,14 @@
   "id": 303687983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.90475,34.727641,-76.90475,34.727641",
     "geom:latitude":34.727641,
     "geom:longitude":-76.90475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Sound Blvd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303687983,
-    "wof:lastmodified":1448998797,
+    "wof:lastmodified":1466653248,
     "wof:name":"Lpm Business Communication Sys",
     "wof:parent_id":85850491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.90475,34.727641,-76.90475,34.727641],
-  "geometry": {"coordinates":[-76.90475,34.727641],"type":"Point"}
+  "bbox": [
+    -76.90475,
+    34.727641,
+    -76.90475,
+    34.727641
+],
+  "geometry": {"coordinates":[-76.90475000000001,34.727641],"type":"Point"}
 }

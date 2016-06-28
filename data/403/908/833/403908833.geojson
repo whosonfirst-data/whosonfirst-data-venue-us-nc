@@ -2,13 +2,14 @@
   "id": 403908833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.812369,35.054203,-80.812369,35.054203",
     "geom:latitude":35.054203,
     "geom:longitude":-80.812369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8040 Providence Rd W",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403908833,
-    "wof:lastmodified":1449055392,
+    "wof:lastmodified":1466653013,
     "wof:name":"Manhattan Bagel",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bagel"
     ]
 },
-  "bbox": [-80.812369,35.054203,-80.812369,35.054203],
+  "bbox": [
+    -80.812369,
+    35.054203,
+    -80.812369,
+    35.054203
+],
   "geometry": {"coordinates":[-80.812369,35.054203],"type":"Point"}
 }

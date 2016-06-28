@@ -2,13 +2,14 @@
   "id": 336744251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.926617,34.188303,-77.926617,34.188303",
     "geom:latitude":34.188303,
     "geom:longitude":-77.926617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Francis Marion Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336744251,
-    "wof:lastmodified":1448997319,
+    "wof:lastmodified":1466648021,
     "wof:name":"Randy Hawse",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-77.926617,34.188303,-77.926617,34.188303],
-  "geometry": {"coordinates":[-77.926617,34.188303],"type":"Point"}
+  "bbox": [
+    -77.926617,
+    34.188303,
+    -77.926617,
+    34.188303
+],
+  "geometry": {"coordinates":[-77.92661699999999,34.188303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370722065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.043034,36.338243,-81.043034,36.338243",
     "geom:latitude":36.338243,
     "geom:longitude":-81.043034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8858 Traphill Rd",
     "sg:city":"Traphill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370722065,
-    "wof:lastmodified":1449030282,
+    "wof:lastmodified":1466655473,
     "wof:name":"Traphill Motors",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.043034,36.338243,-81.043034,36.338243],
-  "geometry": {"coordinates":[-81.043034,36.338243],"type":"Point"}
+  "bbox": [
+    -81.043034,
+    36.338243,
+    -81.043034,
+    36.338243
+],
+  "geometry": {"coordinates":[-81.04303400000001,36.338243],"type":"Point"}
 }

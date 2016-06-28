@@ -2,13 +2,14 @@
   "id": 203406685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.508535,35.934168,-81.508535,35.934168",
     "geom:latitude":35.934168,
     "geom:longitude":-81.508535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Barrington Dr NE",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203406685,
-    "wof:lastmodified":1449025958,
+    "wof:lastmodified":1466644054,
     "wof:name":"On-Site Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-81.508535,35.934168,-81.508535,35.934168],
-  "geometry": {"coordinates":[-81.508535,35.934168],"type":"Point"}
+  "bbox": [
+    -81.508535,
+    35.934168,
+    -81.508535,
+    35.934168
+],
+  "geometry": {"coordinates":[-81.50853499999999,35.934168],"type":"Point"}
 }

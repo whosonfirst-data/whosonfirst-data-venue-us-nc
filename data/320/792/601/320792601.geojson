@@ -2,13 +2,14 @@
   "id": 320792601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.116982,36.204899,-79.116982,36.204899",
     "geom:latitude":36.204899,
     "geom:longitude":-79.116982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1028 Hawkins Rd",
     "sg:city":"Cedar Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320792601,
-    "wof:lastmodified":1449012056,
+    "wof:lastmodified":1466656429,
     "wof:name":"Franklin Grading Co",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.116982,36.204899,-79.116982,36.204899],
-  "geometry": {"coordinates":[-79.116982,36.204899],"type":"Point"}
+  "bbox": [
+    -79.116982,
+    36.204899,
+    -79.116982,
+    36.204899
+],
+  "geometry": {"coordinates":[-79.11698199999999,36.204899],"type":"Point"}
 }

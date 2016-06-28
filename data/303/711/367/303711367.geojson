@@ -2,13 +2,14 @@
   "id": 303711367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.332422,36.122769,-80.332422,36.122769",
     "geom:latitude":36.122769,
     "geom:longitude":-80.332422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4142 Robinhood Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303711367,
-    "wof:lastmodified":1449000116,
+    "wof:lastmodified":1466653584,
     "wof:name":"Pathways Counseling & Dev",
     "wof:parent_id":85881849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "family"
     ]
 },
-  "bbox": [-80.332422,36.122769,-80.332422,36.122769],
-  "geometry": {"coordinates":[-80.332422,36.122769],"type":"Point"}
+  "bbox": [
+    -80.332422,
+    36.122769,
+    -80.332422,
+    36.122769
+],
+  "geometry": {"coordinates":[-80.33242199999999,36.122769],"type":"Point"}
 }

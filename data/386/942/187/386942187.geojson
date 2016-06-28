@@ -2,13 +2,14 @@
   "id": 386942187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.142789,36.159027,-81.142789,36.159027",
     "geom:latitude":36.159027,
     "geom:longitude":-81.142789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Wilkesboro Ave",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386942187,
-    "wof:lastmodified":1449028763,
+    "wof:lastmodified":1466649552,
     "wof:name":"Broc Elderly Nutrition Program",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-81.142789,36.159027,-81.142789,36.159027],
-  "geometry": {"coordinates":[-81.142789,36.159027],"type":"Point"}
+  "bbox": [
+    -81.142789,
+    36.159027,
+    -81.142789,
+    36.159027
+],
+  "geometry": {"coordinates":[-81.14278899999999,36.159027],"type":"Point"}
 }

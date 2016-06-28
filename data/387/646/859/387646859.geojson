@@ -2,13 +2,14 @@
   "id": 387646859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.860683,35.636506,-78.860683,35.636506",
     "geom:latitude":35.636506,
     "geom:longitude":-78.860683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Wild Holly Ln",
     "sg:city":"Holly Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387646859,
-    "wof:lastmodified":1449056023,
+    "wof:lastmodified":1466657144,
     "wof:name":"Harward Training & Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.860683,35.636506,-78.860683,35.636506],
-  "geometry": {"coordinates":[-78.860683,35.636506],"type":"Point"}
+  "bbox": [
+    -78.860683,
+    35.636506,
+    -78.860683,
+    35.636506
+],
+  "geometry": {"coordinates":[-78.86068299999999,35.636506],"type":"Point"}
 }

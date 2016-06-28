@@ -2,13 +2,14 @@
   "id": 387886749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.569324,35.836846,-78.569324,35.836846",
     "geom:latitude":35.836846,
     "geom:longitude":-78.569324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Cobble Creek Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387886749,
-    "wof:lastmodified":1449058216,
+    "wof:lastmodified":1466658077,
     "wof:name":"EZN Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-78.569324,35.836846,-78.569324,35.836846],
-  "geometry": {"coordinates":[-78.569324,35.836846],"type":"Point"}
+  "bbox": [
+    -78.569324,
+    35.836846,
+    -78.569324,
+    35.836846
+],
+  "geometry": {"coordinates":[-78.56932399999999,35.836846],"type":"Point"}
 }

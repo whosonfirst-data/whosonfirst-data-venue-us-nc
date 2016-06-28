@@ -2,13 +2,14 @@
   "id": 219841145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.476031,35.631984,-78.476031,35.631984",
     "geom:latitude":35.631984,
     "geom:longitude":-78.476031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Mitchell Ave",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219841145,
-    "wof:lastmodified":1449071134,
+    "wof:lastmodified":1466647516,
     "wof:name":"Dvds Advertising",
     "wof:parent_id":85807481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-78.476031,35.631984,-78.476031,35.631984],
-  "geometry": {"coordinates":[-78.476031,35.631984],"type":"Point"}
+  "bbox": [
+    -78.476031,
+    35.631984,
+    -78.476031,
+    35.631984
+],
+  "geometry": {"coordinates":[-78.47603100000001,35.631984],"type":"Point"}
 }

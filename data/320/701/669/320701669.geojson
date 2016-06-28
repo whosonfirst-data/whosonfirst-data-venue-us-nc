@@ -2,13 +2,14 @@
   "id": 320701669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.9338,34.217639,-77.9338,34.217639",
     "geom:latitude":34.217639,
     "geom:longitude":-77.9338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1022 Greenfield St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320701669,
-    "wof:lastmodified":1449014184,
+    "wof:lastmodified":1466655281,
     "wof:name":"Everybody's Supermarket",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.9338,34.217639,-77.9338,34.217639],
-  "geometry": {"coordinates":[-77.9338,34.217639],"type":"Point"}
+  "bbox": [
+    -77.9338,
+    34.217639,
+    -77.9338,
+    34.217639
+],
+  "geometry": {"coordinates":[-77.93380000000001,34.217639],"type":"Point"}
 }

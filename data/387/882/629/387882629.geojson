@@ -2,13 +2,14 @@
   "id": 387882629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.678008,35.754743,-81.678008,35.754743",
     "geom:latitude":35.754743,
     "geom:longitude":-81.678008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 E Meeting St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387882629,
-    "wof:lastmodified":1449056781,
+    "wof:lastmodified":1466658065,
     "wof:name":"City Radiator",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.678008,35.754743,-81.678008,35.754743],
-  "geometry": {"coordinates":[-81.678008,35.754743],"type":"Point"}
+  "bbox": [
+    -81.678008,
+    35.754743,
+    -81.678008,
+    35.754743
+],
+  "geometry": {"coordinates":[-81.67800800000001,35.754743],"type":"Point"}
 }

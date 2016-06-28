@@ -2,13 +2,14 @@
   "id": 202702447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.615198,35.574161,-82.615198,35.574161",
     "geom:latitude":35.574161,
     "geom:longitude":-82.615198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1570 Patton Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202702447,
-    "wof:lastmodified":1449061386,
+    "wof:lastmodified":1466643451,
     "wof:name":"P C Consultant Plus",
     "wof:parent_id":85832027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-82.615198,35.574161,-82.615198,35.574161],
-  "geometry": {"coordinates":[-82.615198,35.574161],"type":"Point"}
+  "bbox": [
+    -82.615198,
+    35.574161,
+    -82.615198,
+    35.574161
+],
+  "geometry": {"coordinates":[-82.61519800000001,35.574161],"type":"Point"}
 }

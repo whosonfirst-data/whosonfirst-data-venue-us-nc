@@ -2,13 +2,14 @@
   "id": 253424927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.903163,35.10314,-78.903163,35.10314",
     "geom:latitude":35.10314,
     "geom:longitude":-78.903163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3436 McChoen Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253424927,
-    "wof:lastmodified":1449065605,
+    "wof:lastmodified":1466647443,
     "wof:name":"Danny's Locksmith Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-78.903163,35.10314,-78.903163,35.10314],
-  "geometry": {"coordinates":[-78.903163,35.10314],"type":"Point"}
+  "bbox": [
+    -78.903163,
+    35.10314,
+    -78.903163,
+    35.10314
+],
+  "geometry": {"coordinates":[-78.90316300000001,35.10314],"type":"Point"}
 }

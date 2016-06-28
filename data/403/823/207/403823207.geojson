@@ -2,13 +2,14 @@
   "id": 403823207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.176498,36.320509,-76.176498,36.320509",
     "geom:latitude":36.320509,
     "geom:longitude":-76.176498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 US Hwy 158",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403823207,
-    "wof:lastmodified":1449055942,
+    "wof:lastmodified":1466651898,
     "wof:name":"Albemarle Family Practice",
     "wof:parent_id":85846085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-76.176498,36.320509,-76.176498,36.320509],
+  "bbox": [
+    -76.176498,
+    36.320509,
+    -76.176498,
+    36.320509
+],
   "geometry": {"coordinates":[-76.176498,36.320509],"type":"Point"}
 }

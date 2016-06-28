@@ -2,13 +2,14 @@
   "id": 253315933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.231535,34.904744,-77.231535,34.904744",
     "geom:latitude":34.904744,
     "geom:longitude":-77.231535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Main St",
     "sg:city":"Maysville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253315933,
-    "wof:lastmodified":1449065644,
+    "wof:lastmodified":1466646207,
     "wof:name":"Wilson Home Care Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-77.231535,34.904744,-77.231535,34.904744],
-  "geometry": {"coordinates":[-77.231535,34.904744],"type":"Point"}
+  "bbox": [
+    -77.231535,
+    34.904744,
+    -77.231535,
+    34.904744
+],
+  "geometry": {"coordinates":[-77.23153499999999,34.904744],"type":"Point"}
 }

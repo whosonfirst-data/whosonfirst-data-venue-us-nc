@@ -2,13 +2,14 @@
   "id": 370880545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.493735,35.320798,-82.493735,35.320798",
     "geom:latitude":35.320798,
     "geom:longitude":-82.493735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Brevard Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370880545,
-    "wof:lastmodified":1449032506,
+    "wof:lastmodified":1466656765,
     "wof:name":"Special Finds",
     "wof:parent_id":85821961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.493735,35.320798,-82.493735,35.320798],
+  "bbox": [
+    -82.493735,
+    35.320798,
+    -82.493735,
+    35.320798
+],
   "geometry": {"coordinates":[-82.493735,35.320798],"type":"Point"}
 }

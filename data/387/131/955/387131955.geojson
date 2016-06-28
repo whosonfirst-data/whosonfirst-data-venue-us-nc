@@ -2,13 +2,14 @@
   "id": 387131955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.475313,35.799177,-78.475313,35.799177",
     "geom:latitude":35.799177,
     "geom:longitude":-78.475313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7513 US Hwy 64 E",
     "sg:city":"Knightdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387131955,
-    "wof:lastmodified":1449057246,
+    "wof:lastmodified":1466651567,
     "wof:name":"Northside Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.475313,35.799177,-78.475313,35.799177],
+  "bbox": [
+    -78.475313,
+    35.799177,
+    -78.475313,
+    35.799177
+],
   "geometry": {"coordinates":[-78.475313,35.799177],"type":"Point"}
 }

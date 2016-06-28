@@ -2,13 +2,14 @@
   "id": 403955481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.485815,36.307331,-78.485815,36.307331",
     "geom:latitude":36.307331,
     "geom:longitude":-78.485815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6070 US Hwy 158 Bus",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403955481,
-    "wof:lastmodified":1449055532,
+    "wof:lastmodified":1466653615,
     "wof:name":"Hermon United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.485815,36.307331,-78.485815,36.307331],
+  "bbox": [
+    -78.485815,
+    36.307331,
+    -78.485815,
+    36.307331
+],
   "geometry": {"coordinates":[-78.485815,36.307331],"type":"Point"}
 }

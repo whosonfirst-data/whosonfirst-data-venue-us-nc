@@ -2,13 +2,14 @@
   "id": 303272959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.605599,35.820872,-78.605599,35.820872",
     "geom:latitude":35.820872,
     "geom:longitude":-78.605599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Smoketree Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303272959,
-    "wof:lastmodified":1449000399,
+    "wof:lastmodified":1466647283,
     "wof:name":"Gulf Pacific Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-78.605599,35.820872,-78.605599,35.820872],
+  "bbox": [
+    -78.605599,
+    35.820872,
+    -78.605599,
+    35.820872
+],
   "geometry": {"coordinates":[-78.605599,35.820872],"type":"Point"}
 }

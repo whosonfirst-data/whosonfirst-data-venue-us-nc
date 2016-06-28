@@ -2,13 +2,14 @@
   "id": 287210297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.808506,35.754888,-78.808506,35.754888",
     "geom:latitude":35.754888,
     "geom:longitude":-78.808506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 SW Cary Pkwy",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287210297,
-    "wof:lastmodified":1449000960,
+    "wof:lastmodified":1466646231,
     "wof:name":"Capital Area Ob & Gyn Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.808506,35.754888,-78.808506,35.754888],
-  "geometry": {"coordinates":[-78.808506,35.754888],"type":"Point"}
+  "bbox": [
+    -78.808506,
+    35.754888,
+    -78.808506,
+    35.754888
+],
+  "geometry": {"coordinates":[-78.80850599999999,35.754888],"type":"Point"}
 }

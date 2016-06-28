@@ -2,13 +2,14 @@
   "id": 353555755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.905874,36.003142,-78.905874,36.003142",
     "geom:latitude":36.003142,
     "geom:longitude":-78.905874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Duke St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353555755,
-    "wof:lastmodified":1449020446,
+    "wof:lastmodified":1466648831,
     "wof:name":"Burlington Warehouse",
     "wof:parent_id":85877197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-78.905874,36.003142,-78.905874,36.003142],
+  "bbox": [
+    -78.905874,
+    36.003142,
+    -78.905874,
+    36.003142
+],
   "geometry": {"coordinates":[-78.905874,36.003142],"type":"Point"}
 }

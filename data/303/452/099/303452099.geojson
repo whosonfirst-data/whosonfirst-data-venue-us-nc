@@ -2,13 +2,14 @@
   "id": 303452099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23584,35.832653,-80.23584,35.832653",
     "geom:latitude":35.832653,
     "geom:longitude":-80.23584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Radio Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303452099,
-    "wof:lastmodified":1448998687,
+    "wof:lastmodified":1466649833,
     "wof:name":"North Carolina Adult Probation",
     "wof:parent_id":85837937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.23584,35.832653,-80.23584,35.832653],
+  "bbox": [
+    -80.23584,
+    35.832653,
+    -80.23584,
+    35.832653
+],
   "geometry": {"coordinates":[-80.23584,35.832653],"type":"Point"}
 }

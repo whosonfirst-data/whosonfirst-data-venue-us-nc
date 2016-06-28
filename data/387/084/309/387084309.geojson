@@ -2,13 +2,14 @@
   "id": 387084309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.681487,35.815243,-78.681487,35.815243",
     "geom:latitude":35.815243,
     "geom:longitude":-78.681487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Lake Boone Trl",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387084309,
-    "wof:lastmodified":1449056519,
+    "wof:lastmodified":1466650948,
     "wof:name":"Rex Physician Billing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-78.681487,35.815243,-78.681487,35.815243],
+  "bbox": [
+    -78.681487,
+    35.815243,
+    -78.681487,
+    35.815243
+],
   "geometry": {"coordinates":[-78.681487,35.815243],"type":"Point"}
 }

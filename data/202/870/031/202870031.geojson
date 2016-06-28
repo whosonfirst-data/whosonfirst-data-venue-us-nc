@@ -2,13 +2,14 @@
   "id": 202870031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.054152,35.452061,-83.054152,35.452061",
     "geom:latitude":35.452061,
     "geom:longitude":-83.054152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Apple Hill Dr",
     "sg:city":"Zirconia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202870031,
-    "wof:lastmodified":1449060782,
+    "wof:lastmodified":1466644708,
     "wof:name":"Camp Greystone",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-83.054152,35.452061,-83.054152,35.452061],
+  "bbox": [
+    -83.054152,
+    35.452061,
+    -83.054152,
+    35.452061
+],
   "geometry": {"coordinates":[-83.054152,35.452061],"type":"Point"}
 }

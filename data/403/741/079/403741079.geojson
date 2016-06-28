@@ -2,13 +2,14 @@
   "id": 403741079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.614519,35.310676,-78.614519,35.310676",
     "geom:latitude":35.310676,
     "geom:longitude":-78.614519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Broad St",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403741079,
-    "wof:lastmodified":1449054698,
+    "wof:lastmodified":1466650820,
     "wof:name":"ECS Svc",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.614519,35.310676,-78.614519,35.310676],
+  "bbox": [
+    -78.614519,
+    35.310676,
+    -78.614519,
+    35.310676
+],
   "geometry": {"coordinates":[-78.614519,35.310676],"type":"Point"}
 }

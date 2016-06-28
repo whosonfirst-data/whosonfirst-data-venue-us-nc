@@ -2,13 +2,14 @@
   "id": 303650133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.956319,36.065262,-78.956319,36.065262",
     "geom:latitude":36.065262,
     "geom:longitude":-78.956319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Park Pl",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303650133,
-    "wof:lastmodified":1448999613,
+    "wof:lastmodified":1466652695,
     "wof:name":"Park Ophthalmology",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.956319,36.065262,-78.956319,36.065262],
-  "geometry": {"coordinates":[-78.956319,36.065262],"type":"Point"}
+  "bbox": [
+    -78.956319,
+    36.065262,
+    -78.956319,
+    36.065262
+],
+  "geometry": {"coordinates":[-78.95631899999999,36.065262],"type":"Point"}
 }

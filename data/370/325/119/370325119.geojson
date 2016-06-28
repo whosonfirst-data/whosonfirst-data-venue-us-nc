@@ -2,13 +2,14 @@
   "id": 370325119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.988368,35.492642,-82.988368,35.492642",
     "geom:latitude":35.492642,
     "geom:longitude":-82.988368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Depot St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370325119,
-    "wof:lastmodified":1449030413,
+    "wof:lastmodified":1466650320,
     "wof:name":"Eagles Nest Mountain Construct",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.988368,35.492642,-82.988368,35.492642],
-  "geometry": {"coordinates":[-82.988368,35.492642],"type":"Point"}
+  "bbox": [
+    -82.988368,
+    35.492642,
+    -82.988368,
+    35.492642
+],
+  "geometry": {"coordinates":[-82.98836799999999,35.492642],"type":"Point"}
 }

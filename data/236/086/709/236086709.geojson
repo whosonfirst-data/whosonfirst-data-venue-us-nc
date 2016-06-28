@@ -2,13 +2,14 @@
   "id": 236086709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.966656,36.412479,-79.966656,36.412479",
     "geom:latitude":36.412479,
     "geom:longitude":-79.966656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 W Main St",
     "sg:city":"Mayodan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236086709,
-    "wof:lastmodified":1449003941,
+    "wof:lastmodified":1466643997,
     "wof:name":"Main Street Appliances",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-79.966656,36.412479,-79.966656,36.412479],
+  "bbox": [
+    -79.966656,
+    36.412479,
+    -79.966656,
+    36.412479
+],
   "geometry": {"coordinates":[-79.966656,36.412479],"type":"Point"}
 }

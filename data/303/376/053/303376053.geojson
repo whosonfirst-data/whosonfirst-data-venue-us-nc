@@ -2,13 +2,14 @@
   "id": 303376053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.929425,36.035805,-78.929425,36.035805",
     "geom:latitude":36.035805,
     "geom:longitude":-78.929425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3105 Guess Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303376053,
-    "wof:lastmodified":1448998951,
+    "wof:lastmodified":1466648730,
     "wof:name":"Ultimate Look Inc",
     "wof:parent_id":85877173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-78.929425,36.035805,-78.929425,36.035805],
-  "geometry": {"coordinates":[-78.929425,36.035805],"type":"Point"}
+  "bbox": [
+    -78.929425,
+    36.035805,
+    -78.929425,
+    36.035805
+],
+  "geometry": {"coordinates":[-78.92942499999999,36.035805],"type":"Point"}
 }

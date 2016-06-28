@@ -2,13 +2,14 @@
   "id": 403710661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.01703,35.524806,-81.01703,35.524806",
     "geom:latitude":35.524806,
     "geom:longitude":-81.01703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3604 Denver Dr",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403710661,
-    "wof:lastmodified":1449054715,
+    "wof:lastmodified":1466650433,
     "wof:name":"Sharp Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.01703,35.524806,-81.01703,35.524806],
-  "geometry": {"coordinates":[-81.01703,35.524806],"type":"Point"}
+  "bbox": [
+    -81.01703,
+    35.524806,
+    -81.01703,
+    35.524806
+],
+  "geometry": {"coordinates":[-81.01703000000001,35.524806],"type":"Point"}
 }

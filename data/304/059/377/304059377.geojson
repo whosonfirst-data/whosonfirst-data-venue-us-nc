@@ -2,13 +2,14 @@
   "id": 304059377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.753267,36.406799,-76.753267,36.406799",
     "geom:latitude":36.406799,
     "geom:longitude":-76.753267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Main St",
     "sg:city":"Gatesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304059377,
-    "wof:lastmodified":1449043714,
+    "wof:lastmodified":1466644998,
     "wof:name":"Gatesville Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-76.753267,36.406799,-76.753267,36.406799],
-  "geometry": {"coordinates":[-76.753267,36.406799],"type":"Point"}
+  "bbox": [
+    -76.753267,
+    36.406799,
+    -76.753267,
+    36.406799
+],
+  "geometry": {"coordinates":[-76.75326699999999,36.406799],"type":"Point"}
 }

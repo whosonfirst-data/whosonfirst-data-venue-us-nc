@@ -2,13 +2,14 @@
   "id": 320158901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.93534,35.981501,-78.93534,35.981501",
     "geom:latitude":35.981501,
     "geom:longitude":-78.93534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 Mc Gehee St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320158901,
-    "wof:lastmodified":1449013761,
+    "wof:lastmodified":1466647528,
     "wof:name":"TI Enterprises",
     "wof:parent_id":85877191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-78.93534,35.981501,-78.93534,35.981501],
+  "bbox": [
+    -78.93534,
+    35.981501,
+    -78.93534,
+    35.981501
+],
   "geometry": {"coordinates":[-78.93534,35.981501],"type":"Point"}
 }

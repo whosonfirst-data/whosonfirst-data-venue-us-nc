@@ -2,13 +2,14 @@
   "id": 303144699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.370692,36.121733,-80.370692,36.121733",
     "geom:latitude":36.121733,
     "geom:longitude":-80.370692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5422 Robinhood Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303144699,
-    "wof:lastmodified":1448999906,
+    "wof:lastmodified":1466645386,
     "wof:name":"Robinhood Road Baptist Church",
     "wof:parent_id":85813315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.370692,36.121733,-80.370692,36.121733],
-  "geometry": {"coordinates":[-80.370692,36.121733],"type":"Point"}
+  "bbox": [
+    -80.370692,
+    36.121733,
+    -80.370692,
+    36.121733
+],
+  "geometry": {"coordinates":[-80.37069200000001,36.121733],"type":"Point"}
 }

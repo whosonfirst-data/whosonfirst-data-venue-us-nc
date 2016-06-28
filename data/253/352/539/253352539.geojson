@@ -2,13 +2,14 @@
   "id": 253352539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.879937,35.445501,-80.879937,35.445501",
     "geom:latitude":35.445501,
     "geom:longitude":-80.879937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16840 Birkdale Commons Pkwy",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253352539,
-    "wof:lastmodified":1449064630,
+    "wof:lastmodified":1466646613,
     "wof:name":"Apartment At Birkdale Village",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.879937,35.445501,-80.879937,35.445501],
+  "bbox": [
+    -80.879937,
+    35.445501,
+    -80.879937,
+    35.445501
+],
   "geometry": {"coordinates":[-80.879937,35.445501],"type":"Point"}
 }

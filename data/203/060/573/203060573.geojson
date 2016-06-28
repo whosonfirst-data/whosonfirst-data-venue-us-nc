@@ -2,13 +2,14 @@
   "id": 203060573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.100924,34.176452,-78.100924,34.176452",
     "geom:latitude":34.176452,
     "geom:longitude":-78.100924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Old Town Creek Rd NE",
     "sg:city":"Leland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203060573,
-    "wof:lastmodified":1449026690,
+    "wof:lastmodified":1466654572,
     "wof:name":"Henry's Sawmill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-78.100924,34.176452,-78.100924,34.176452],
-  "geometry": {"coordinates":[-78.100924,34.176452],"type":"Point"}
+  "bbox": [
+    -78.100924,
+    34.176452,
+    -78.100924,
+    34.176452
+],
+  "geometry": {"coordinates":[-78.10092400000001,34.176452],"type":"Point"}
 }

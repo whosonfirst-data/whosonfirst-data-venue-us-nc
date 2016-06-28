@@ -2,13 +2,14 @@
   "id": 387589907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.905859,34.105227,-77.905859,34.105227",
     "geom:latitude":34.105227,
     "geom:longitude":-77.905859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Pilots Ridge Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387589907,
-    "wof:lastmodified":1449058142,
+    "wof:lastmodified":1466656807,
     "wof:name":"Facilities Planning Svc",
     "wof:parent_id":85832597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-77.905859,34.105227,-77.905859,34.105227],
-  "geometry": {"coordinates":[-77.905859,34.105227],"type":"Point"}
+  "bbox": [
+    -77.905859,
+    34.105227,
+    -77.905859,
+    34.105227
+],
+  "geometry": {"coordinates":[-77.90585900000001,34.105227],"type":"Point"}
 }

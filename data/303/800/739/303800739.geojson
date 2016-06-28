@@ -2,13 +2,14 @@
   "id": 303800739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.210259,35.257674,-81.210259,35.257674",
     "geom:latitude":35.257674,
     "geom:longitude":-81.210259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 W Garrison Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303800739,
-    "wof:lastmodified":1448998313,
+    "wof:lastmodified":1466654872,
     "wof:name":"Marlowe Medical Clinic",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.210259,35.257674,-81.210259,35.257674],
-  "geometry": {"coordinates":[-81.210259,35.257674],"type":"Point"}
+  "bbox": [
+    -81.210259,
+    35.257674,
+    -81.210259,
+    35.257674
+],
+  "geometry": {"coordinates":[-81.21025899999999,35.257674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253751707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.469285,36.189285,-79.469285,36.189285",
     "geom:latitude":36.189285,
     "geom:longitude":-79.469285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4952 Baker Bell Farm Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253751707,
-    "wof:lastmodified":1449062987,
+    "wof:lastmodified":1466651391,
     "wof:name":"Blackwells Construction",
     "wof:parent_id":85826513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "concrete"
     ]
 },
-  "bbox": [-79.469285,36.189285,-79.469285,36.189285],
+  "bbox": [
+    -79.469285,
+    36.189285,
+    -79.469285,
+    36.189285
+],
   "geometry": {"coordinates":[-79.469285,36.189285],"type":"Point"}
 }

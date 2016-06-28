@@ -2,13 +2,14 @@
   "id": 370911725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.858404,35.245561,-77.858404,35.245561",
     "geom:latitude":35.245561,
     "geom:longitude":-77.858404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 Piney Grove Rd",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370911725,
-    "wof:lastmodified":1449031913,
+    "wof:lastmodified":1466656868,
     "wof:name":"Price Marlton Trucking",
     "wof:parent_id":85822855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-77.858404,35.245561,-77.858404,35.245561],
-  "geometry": {"coordinates":[-77.858404,35.245561],"type":"Point"}
+  "bbox": [
+    -77.858404,
+    35.245561,
+    -77.858404,
+    35.245561
+],
+  "geometry": {"coordinates":[-77.85840399999999,35.245561],"type":"Point"}
 }

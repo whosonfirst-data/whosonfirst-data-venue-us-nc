@@ -2,13 +2,14 @@
   "id": 269747087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.460952,35.733568,-78.460952,35.733568",
     "geom:latitude":35.733568,
     "geom:longitude":-78.460952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Carl Williamson Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269747087,
-    "wof:lastmodified":1449036571,
+    "wof:lastmodified":1466646335,
     "wof:name":"Duncan Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.460952,35.733568,-78.460952,35.733568],
-  "geometry": {"coordinates":[-78.460952,35.733568],"type":"Point"}
+  "bbox": [
+    -78.460952,
+    35.733568,
+    -78.460952,
+    35.733568
+],
+  "geometry": {"coordinates":[-78.46095200000001,35.733568],"type":"Point"}
 }

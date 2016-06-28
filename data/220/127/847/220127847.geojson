@@ -2,13 +2,14 @@
   "id": 220127847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.555828,35.33858,-78.555828,35.33858",
     "geom:latitude":35.33858,
     "geom:longitude":-78.555828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4064 Hodges Chapel Rd",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220127847,
-    "wof:lastmodified":1449074811,
+    "wof:lastmodified":1466644223,
     "wof:name":"Western Star Of Dunn",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-78.555828,35.33858,-78.555828,35.33858],
-  "geometry": {"coordinates":[-78.555828,35.33858],"type":"Point"}
+  "bbox": [
+    -78.555828,
+    35.33858,
+    -78.555828,
+    35.33858
+],
+  "geometry": {"coordinates":[-78.55582800000001,35.33858],"type":"Point"}
 }

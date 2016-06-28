@@ -2,13 +2,14 @@
   "id": 220072811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.835547,35.754514,-79.835547,35.754514",
     "geom:latitude":35.754514,
     "geom:longitude":-79.835547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1584 Spero Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220072811,
-    "wof:lastmodified":1449074468,
+    "wof:lastmodified":1466643785,
     "wof:name":"Jackson Sandblasting & Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.835547,35.754514,-79.835547,35.754514],
-  "geometry": {"coordinates":[-79.835547,35.754514],"type":"Point"}
+  "bbox": [
+    -79.835547,
+    35.754514,
+    -79.835547,
+    35.754514
+],
+  "geometry": {"coordinates":[-79.83554700000001,35.754514],"type":"Point"}
 }

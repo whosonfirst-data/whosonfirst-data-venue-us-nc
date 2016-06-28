@@ -2,13 +2,14 @@
   "id": 354265319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.601425,35.860004,-78.601425,35.860004",
     "geom:latitude":35.860004,
     "geom:longitude":-78.601425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5850 Shady Grove Cir",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354265319,
-    "wof:lastmodified":1449066491,
+    "wof:lastmodified":1466650597,
     "wof:name":"Triangle Cmnty Collaboratives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.601425,35.860004,-78.601425,35.860004],
-  "geometry": {"coordinates":[-78.601425,35.860004],"type":"Point"}
+  "bbox": [
+    -78.601425,
+    35.860004,
+    -78.601425,
+    35.860004
+],
+  "geometry": {"coordinates":[-78.60142500000001,35.860004],"type":"Point"}
 }

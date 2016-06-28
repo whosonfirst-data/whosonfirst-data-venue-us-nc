@@ -2,13 +2,14 @@
   "id": 252812211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.348075,35.611225,-82.348075,35.611225",
     "geom:latitude":35.611225,
     "geom:longitude":-82.348075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Tabernacle Rd",
     "sg:city":"Black Mountain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252812211,
-    "wof:lastmodified":1449005430,
+    "wof:lastmodified":1466644146,
     "wof:name":"A D A T C",
     "wof:parent_id":85823295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.348075,35.611225,-82.348075,35.611225],
-  "geometry": {"coordinates":[-82.348075,35.611225],"type":"Point"}
+  "bbox": [
+    -82.348075,
+    35.611225,
+    -82.348075,
+    35.611225
+],
+  "geometry": {"coordinates":[-82.34807499999999,35.611225],"type":"Point"}
 }

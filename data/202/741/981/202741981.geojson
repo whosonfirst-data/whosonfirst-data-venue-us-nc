@@ -2,13 +2,14 @@
   "id": 202741981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23753,36.097773,-80.23753,36.097773",
     "geom:latitude":36.097773,
     "geom:longitude":-80.23753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Linden St NE",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202741981,
-    "wof:lastmodified":1449060240,
+    "wof:lastmodified":1466643738,
     "wof:name":"Dillon Supply Company",
     "wof:parent_id":85867051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-80.23753,36.097773,-80.23753,36.097773],
-  "geometry": {"coordinates":[-80.23753,36.097773],"type":"Point"}
+  "bbox": [
+    -80.23753,
+    36.097773,
+    -80.23753,
+    36.097773
+],
+  "geometry": {"coordinates":[-80.23753000000001,36.097773],"type":"Point"}
 }

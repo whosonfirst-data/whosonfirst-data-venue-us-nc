@@ -2,13 +2,14 @@
   "id": 236796033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.287416,35.81696,-81.287416,35.81696",
     "geom:latitude":35.81696,
     "geom:longitude":-81.287416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Edgegreen Ct",
     "sg:city":"Taylorsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236796033,
-    "wof:lastmodified":1449003159,
+    "wof:lastmodified":1466650380,
     "wof:name":"Henderson Investigative Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-81.287416,35.81696,-81.287416,35.81696],
-  "geometry": {"coordinates":[-81.287416,35.81696],"type":"Point"}
+  "bbox": [
+    -81.287416,
+    35.81696,
+    -81.287416,
+    35.81696
+],
+  "geometry": {"coordinates":[-81.28741599999999,35.81696],"type":"Point"}
 }

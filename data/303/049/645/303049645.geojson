@@ -2,13 +2,14 @@
   "id": 303049645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.546579,35.810128,-78.546579,35.810128",
     "geom:latitude":35.810128,
     "geom:longitude":-78.546579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 Spanish Bay Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303049645,
-    "wof:lastmodified":1448999328,
+    "wof:lastmodified":1466643948,
     "wof:name":"D R C Marketing LLC",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.546579,35.810128,-78.546579,35.810128],
-  "geometry": {"coordinates":[-78.546579,35.810128],"type":"Point"}
+  "bbox": [
+    -78.546579,
+    35.810128,
+    -78.546579,
+    35.810128
+],
+  "geometry": {"coordinates":[-78.54657899999999,35.810128],"type":"Point"}
 }

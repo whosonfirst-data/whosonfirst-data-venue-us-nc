@@ -2,13 +2,14 @@
   "id": 270068935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.797423,34.285914,-77.797423,34.285914",
     "geom:latitude":34.285914,
     "geom:longitude":-77.797423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Highgreen Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270068935,
-    "wof:lastmodified":1449009897,
+    "wof:lastmodified":1466644012,
     "wof:name":"Southern Power Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.797423,34.285914,-77.797423,34.285914],
-  "geometry": {"coordinates":[-77.797423,34.285914],"type":"Point"}
+  "bbox": [
+    -77.797423,
+    34.285914,
+    -77.797423,
+    34.285914
+],
+  "geometry": {"coordinates":[-77.79742299999999,34.285914],"type":"Point"}
 }

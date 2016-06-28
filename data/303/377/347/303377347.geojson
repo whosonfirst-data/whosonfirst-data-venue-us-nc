@@ -2,13 +2,14 @@
   "id": 303377347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.815582,35.728198,-78.815582,35.728198",
     "geom:latitude":35.728198,
     "geom:longitude":-78.815582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2619 Haventree Ct",
     "sg:city":"Apex",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303377347,
-    "wof:lastmodified":1448999037,
+    "wof:lastmodified":1466648750,
     "wof:name":"Westco Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.815582,35.728198,-78.815582,35.728198],
-  "geometry": {"coordinates":[-78.815582,35.728198],"type":"Point"}
+  "bbox": [
+    -78.815582,
+    35.728198,
+    -78.815582,
+    35.728198
+],
+  "geometry": {"coordinates":[-78.81558200000001,35.728198],"type":"Point"}
 }

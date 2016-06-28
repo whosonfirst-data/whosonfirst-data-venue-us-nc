@@ -2,13 +2,14 @@
   "id": 303850599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.603541,35.739385,-78.603541,35.739385",
     "geom:latitude":35.739385,
     "geom:longitude":-78.603541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Mango Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303850599,
-    "wof:lastmodified":1448999537,
+    "wof:lastmodified":1466655594,
     "wof:name":"Screen Scan Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "film"
     ]
 },
-  "bbox": [-78.603541,35.739385,-78.603541,35.739385],
-  "geometry": {"coordinates":[-78.603541,35.739385],"type":"Point"}
+  "bbox": [
+    -78.603541,
+    35.739385,
+    -78.603541,
+    35.739385
+],
+  "geometry": {"coordinates":[-78.60354100000001,35.739385],"type":"Point"}
 }

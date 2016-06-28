@@ -2,13 +2,14 @@
   "id": 370930027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.391346,34.784017,-77.391346,34.784017",
     "geom:latitude":34.784017,
     "geom:longitude":-77.391346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 McDaniel Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370930027,
-    "wof:lastmodified":1449030179,
+    "wof:lastmodified":1466657180,
     "wof:name":"Extended Stay America Inc",
     "wof:parent_id":85851533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operations"
     ]
 },
-  "bbox": [-77.391346,34.784017,-77.391346,34.784017],
+  "bbox": [
+    -77.391346,
+    34.784017,
+    -77.391346,
+    34.784017
+],
   "geometry": {"coordinates":[-77.391346,34.784017],"type":"Point"}
 }

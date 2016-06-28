@@ -2,13 +2,14 @@
   "id": 270195321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.537552,35.556631,-82.537552,35.556631",
     "geom:latitude":35.556631,
     "geom:longitude":-82.537552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Yorkshire St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270195321,
-    "wof:lastmodified":1449010273,
+    "wof:lastmodified":1466645562,
     "wof:name":"Robert E Powell DDS",
     "wof:parent_id":85848375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.537552,35.556631,-82.537552,35.556631],
-  "geometry": {"coordinates":[-82.537552,35.556631],"type":"Point"}
+  "bbox": [
+    -82.537552,
+    35.556631,
+    -82.537552,
+    35.556631
+],
+  "geometry": {"coordinates":[-82.53755200000001,35.556631],"type":"Point"}
 }

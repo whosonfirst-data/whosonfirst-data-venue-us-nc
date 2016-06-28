@@ -2,13 +2,14 @@
   "id": 303769687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.20042,35.671822,-78.20042,35.671822",
     "geom:latitude":35.671822,
     "geom:longitude":-78.20042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1461 Jerusalem Church Rd",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303769687,
-    "wof:lastmodified":1448998927,
+    "wof:lastmodified":1466654426,
     "wof:name":"New Jerusalem Fwb Church",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.20042,35.671822,-78.20042,35.671822],
-  "geometry": {"coordinates":[-78.20042,35.671822],"type":"Point"}
+  "bbox": [
+    -78.20042,
+    35.671822,
+    -78.20042,
+    35.671822
+],
+  "geometry": {"coordinates":[-78.20041999999999,35.671822],"type":"Point"}
 }

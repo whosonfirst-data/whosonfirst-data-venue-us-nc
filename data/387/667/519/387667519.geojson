@@ -2,13 +2,14 @@
   "id": 387667519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.900709,36.071836,-78.900709,36.071836",
     "geom:latitude":36.071836,
     "geom:longitude":-78.900709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Red Carriage Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387667519,
-    "wof:lastmodified":1449058601,
+    "wof:lastmodified":1466657098,
     "wof:name":"Lowrance Rental",
     "wof:parent_id":85877167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.900709,36.071836,-78.900709,36.071836],
-  "geometry": {"coordinates":[-78.900709,36.071836],"type":"Point"}
+  "bbox": [
+    -78.900709,
+    36.071836,
+    -78.900709,
+    36.071836
+],
+  "geometry": {"coordinates":[-78.90070900000001,36.071836],"type":"Point"}
 }

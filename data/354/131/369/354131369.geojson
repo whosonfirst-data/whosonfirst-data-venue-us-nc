@@ -2,13 +2,14 @@
   "id": 354131369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.891444,34.31988,-77.891444,34.31988",
     "geom:latitude":34.31988,
     "geom:longitude":-77.891444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3830 Juvenile Center Rd",
     "sg:city":"Castle Hayne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354131369,
-    "wof:lastmodified":1449066420,
+    "wof:lastmodified":1466649079,
     "wof:name":"Juvenile Service Ctr",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.891444,34.31988,-77.891444,34.31988],
-  "geometry": {"coordinates":[-77.891444,34.31988],"type":"Point"}
+  "bbox": [
+    -77.891444,
+    34.31988,
+    -77.891444,
+    34.31988
+],
+  "geometry": {"coordinates":[-77.89144400000001,34.31988],"type":"Point"}
 }

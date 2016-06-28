@@ -2,13 +2,14 @@
   "id": 353800081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.701976,34.884004,-79.701976,34.884004",
     "geom:latitude":34.884004,
     "geom:longitude":-79.701976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Lackey St",
     "sg:city":"Hamlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353800081,
-    "wof:lastmodified":1449018460,
+    "wof:lastmodified":1466651774,
     "wof:name":"Listing Nc",
     "wof:parent_id":85836761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.701976,34.884004,-79.701976,34.884004],
+  "bbox": [
+    -79.701976,
+    34.884004,
+    -79.701976,
+    34.884004
+],
   "geometry": {"coordinates":[-79.701976,34.884004],"type":"Point"}
 }

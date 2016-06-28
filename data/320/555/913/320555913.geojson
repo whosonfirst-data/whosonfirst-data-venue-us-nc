@@ -2,13 +2,14 @@
   "id": 320555913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803295,35.821014,-79.803295,35.821014",
     "geom:latitude":35.821014,
     "geom:longitude":-79.803295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 N Main St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320555913,
-    "wof:lastmodified":1449014445,
+    "wof:lastmodified":1466653173,
     "wof:name":"Groceries & Such Inc",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sporting"
     ]
 },
-  "bbox": [-79.803295,35.821014,-79.803295,35.821014],
-  "geometry": {"coordinates":[-79.803295,35.821014],"type":"Point"}
+  "bbox": [
+    -79.803295,
+    35.821014,
+    -79.803295,
+    35.821014
+],
+  "geometry": {"coordinates":[-79.80329500000001,35.821014],"type":"Point"}
 }

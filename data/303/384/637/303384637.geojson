@@ -2,13 +2,14 @@
   "id": 303384637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.968385,36.009459,-81.968385,36.009459",
     "geom:latitude":36.009459,
     "geom:longitude":-81.968385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Rogers Ridge Rd",
     "sg:city":"Newland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303384637,
-    "wof:lastmodified":1448998422,
+    "wof:lastmodified":1466648847,
     "wof:name":"Singleton Trees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.968385,36.009459,-81.968385,36.009459],
+  "bbox": [
+    -81.968385,
+    36.009459,
+    -81.968385,
+    36.009459
+],
   "geometry": {"coordinates":[-81.968385,36.009459],"type":"Point"}
 }

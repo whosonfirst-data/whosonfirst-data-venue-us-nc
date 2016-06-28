@@ -2,13 +2,14 @@
   "id": 253166181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.822561,35.763691,-78.822561,35.763691",
     "geom:latitude":35.763691,
     "geom:longitude":-78.822561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 SW Cary Pkwy",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253166181,
-    "wof:lastmodified":1449064480,
+    "wof:lastmodified":1466644771,
     "wof:name":"C & C Optical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.822561,35.763691,-78.822561,35.763691],
-  "geometry": {"coordinates":[-78.822561,35.763691],"type":"Point"}
+  "bbox": [
+    -78.822561,
+    35.763691,
+    -78.822561,
+    35.763691
+],
+  "geometry": {"coordinates":[-78.82256099999999,35.763691],"type":"Point"}
 }

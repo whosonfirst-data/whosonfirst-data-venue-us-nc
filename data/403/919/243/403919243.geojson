@@ -2,13 +2,14 @@
   "id": 403919243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.054701,35.277797,-81.054701,35.277797",
     "geom:latitude":35.277797,
     "geom:longitude":-81.054701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1873 Perfection Ave",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403919243,
-    "wof:lastmodified":1449055639,
+    "wof:lastmodified":1466653145,
     "wof:name":"Community Volunteer Fire Dept",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-81.054701,35.277797,-81.054701,35.277797],
-  "geometry": {"coordinates":[-81.054701,35.277797],"type":"Point"}
+  "bbox": [
+    -81.054701,
+    35.277797,
+    -81.054701,
+    35.277797
+],
+  "geometry": {"coordinates":[-81.05470099999999,35.277797],"type":"Point"}
 }

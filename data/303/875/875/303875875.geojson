@@ -2,13 +2,14 @@
   "id": 303875875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.845328,35.227233,-77.845328,35.227233",
     "geom:latitude":35.227233,
     "geom:longitude":-77.845328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"178 E Spring St",
     "sg:city":"Seven Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303875875,
-    "wof:lastmodified":1448999937,
+    "wof:lastmodified":1466655985,
     "wof:name":"Ivey's Spring Creek Farm",
     "wof:parent_id":85822855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-77.845328,35.227233,-77.845328,35.227233],
-  "geometry": {"coordinates":[-77.845328,35.227233],"type":"Point"}
+  "bbox": [
+    -77.845328,
+    35.227233,
+    -77.845328,
+    35.227233
+],
+  "geometry": {"coordinates":[-77.84532799999999,35.227233],"type":"Point"}
 }

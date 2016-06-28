@@ -2,13 +2,14 @@
   "id": 354298307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.800621,36.039805,-79.800621,36.039805",
     "geom:latitude":36.039805,
     "geom:longitude":-79.800621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2348 Randleman Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354298307,
-    "wof:lastmodified":1449066366,
+    "wof:lastmodified":1466650997,
     "wof:name":"Urgent Office Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-79.800621,36.039805,-79.800621,36.039805],
-  "geometry": {"coordinates":[-79.800621,36.039805],"type":"Point"}
+  "bbox": [
+    -79.800621,
+    36.039805,
+    -79.800621,
+    36.039805
+],
+  "geometry": {"coordinates":[-79.80062100000001,36.039805],"type":"Point"}
 }

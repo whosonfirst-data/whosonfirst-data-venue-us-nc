@@ -2,13 +2,14 @@
   "id": 320233801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.211627,35.192143,-81.211627,35.192143",
     "geom:latitude":35.192143,
     "geom:longitude":-81.211627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5628 Gallagher Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320233801,
-    "wof:lastmodified":1449015029,
+    "wof:lastmodified":1466648567,
     "wof:name":"Design & Mfg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maker"
     ]
 },
-  "bbox": [-81.211627,35.192143,-81.211627,35.192143],
-  "geometry": {"coordinates":[-81.211627,35.192143],"type":"Point"}
+  "bbox": [
+    -81.211627,
+    35.192143,
+    -81.211627,
+    35.192143
+],
+  "geometry": {"coordinates":[-81.21162699999999,35.192143],"type":"Point"}
 }

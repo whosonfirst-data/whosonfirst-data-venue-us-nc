@@ -2,13 +2,14 @@
   "id": 319822323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.857526,34.918798,-78.857526,34.918798",
     "geom:latitude":34.918798,
     "geom:longitude":-78.857526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5545 State Hwy 87 S",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":319822323,
-    "wof:lastmodified":1449024856,
+    "wof:lastmodified":1466644900,
     "wof:name":"Steve's Auto Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-78.857526,34.918798,-78.857526,34.918798],
-  "geometry": {"coordinates":[-78.857526,34.918798],"type":"Point"}
+  "bbox": [
+    -78.857526,
+    34.918798,
+    -78.857526,
+    34.918798
+],
+  "geometry": {"coordinates":[-78.85752599999999,34.918798],"type":"Point"}
 }

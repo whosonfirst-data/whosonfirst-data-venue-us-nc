@@ -2,13 +2,14 @@
   "id": 404003383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.944544,36.23152,-79.944544,36.23152",
     "geom:latitude":36.23152,
     "geom:longitude":-79.944544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7119 Ellison Rd",
     "sg:city":"Stokesdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404003383,
-    "wof:lastmodified":1449040241,
+    "wof:lastmodified":1466651347,
     "wof:name":"Lambert Family Holdings",
     "wof:parent_id":85877983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-79.944544,36.23152,-79.944544,36.23152],
-  "geometry": {"coordinates":[-79.944544,36.23152],"type":"Point"}
+  "bbox": [
+    -79.944544,
+    36.23152,
+    -79.944544,
+    36.23152
+],
+  "geometry": {"coordinates":[-79.94454399999999,36.23152],"type":"Point"}
 }

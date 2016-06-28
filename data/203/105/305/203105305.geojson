@@ -2,13 +2,14 @@
   "id": 203105305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801636,36.029497,-79.801636,36.029497",
     "geom:latitude":36.029497,
     "geom:longitude":-79.801636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 Randleman Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203105305,
-    "wof:lastmodified":1449025639,
+    "wof:lastmodified":1466654821,
     "wof:name":"La Ranchera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.801636,36.029497,-79.801636,36.029497],
+  "bbox": [
+    -79.801636,
+    36.029497,
+    -79.801636,
+    36.029497
+],
   "geometry": {"coordinates":[-79.801636,36.029497],"type":"Point"}
 }

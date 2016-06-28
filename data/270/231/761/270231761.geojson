@@ -2,13 +2,14 @@
   "id": 270231761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.940344,36.344724,-79.940344,36.344724",
     "geom:latitude":36.344724,
     "geom:longitude":-79.940344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1056 Williams Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270231761,
-    "wof:lastmodified":1449009888,
+    "wof:lastmodified":1466645982,
     "wof:name":"Taylor Promotions",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "promotion"
     ]
 },
-  "bbox": [-79.940344,36.344724,-79.940344,36.344724],
+  "bbox": [
+    -79.940344,
+    36.344724,
+    -79.940344,
+    36.344724
+],
   "geometry": {"coordinates":[-79.940344,36.344724],"type":"Point"}
 }

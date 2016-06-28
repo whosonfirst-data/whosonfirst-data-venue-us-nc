@@ -2,13 +2,14 @@
   "id": 303411183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.450064,35.263182,-78.450064,35.263182",
     "geom:latitude":35.263182,
     "geom:longitude":-78.450064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12314 State Hwy 96 S",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303411183,
-    "wof:lastmodified":1448998232,
+    "wof:lastmodified":1466649232,
     "wof:name":"Lee & Son Inc",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-78.450064,35.263182,-78.450064,35.263182],
+  "bbox": [
+    -78.450064,
+    35.263182,
+    -78.450064,
+    35.263182
+],
   "geometry": {"coordinates":[-78.450064,35.263182],"type":"Point"}
 }

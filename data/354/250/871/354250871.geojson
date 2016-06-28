@@ -2,13 +2,14 @@
   "id": 354250871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.771588,35.130101,-80.771588,35.130101",
     "geom:latitude":35.130101,
     "geom:longitude":-80.771588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Mountainview Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354250871,
-    "wof:lastmodified":1449066922,
+    "wof:lastmodified":1466650439,
     "wof:name":"S&W Ventures Inc",
     "wof:parent_id":85812549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.771588,35.130101,-80.771588,35.130101],
-  "geometry": {"coordinates":[-80.771588,35.130101],"type":"Point"}
+  "bbox": [
+    -80.771588,
+    35.130101,
+    -80.771588,
+    35.130101
+],
+  "geometry": {"coordinates":[-80.77158799999999,35.130101],"type":"Point"}
 }

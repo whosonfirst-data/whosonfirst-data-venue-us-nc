@@ -2,13 +2,14 @@
   "id": 286961929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.923,34.196555,-77.923,34.196555",
     "geom:latitude":34.196555,
     "geom:longitude":-77.923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1552 Harbour Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286961929,
-    "wof:lastmodified":1449018021,
+    "wof:lastmodified":1466652685,
     "wof:name":"Point Harbor Marina",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.923,34.196555,-77.923,34.196555],
+  "bbox": [
+    -77.923,
+    34.196555,
+    -77.923,
+    34.196555
+],
   "geometry": {"coordinates":[-77.923,34.196555],"type":"Point"}
 }

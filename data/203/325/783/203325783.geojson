@@ -2,13 +2,14 @@
   "id": 203325783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087515,35.860284,-80.087515,35.860284",
     "geom:latitude":35.860284,
     "geom:longitude":-80.087515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Smith Dr",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203325783,
-    "wof:lastmodified":1449025652,
+    "wof:lastmodified":1466643422,
     "wof:name":"Kings Automotive Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-80.087515,35.860284,-80.087515,35.860284],
+  "bbox": [
+    -80.087515,
+    35.860284,
+    -80.087515,
+    35.860284
+],
   "geometry": {"coordinates":[-80.087515,35.860284],"type":"Point"}
 }

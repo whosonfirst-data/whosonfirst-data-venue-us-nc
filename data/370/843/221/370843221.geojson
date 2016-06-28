@@ -2,13 +2,14 @@
   "id": 370843221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.855534,35.174878,-80.855534,35.174878",
     "geom:latitude":35.174878,
     "geom:longitude":-80.855534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Heather Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370843221,
-    "wof:lastmodified":1449029386,
+    "wof:lastmodified":1466656558,
     "wof:name":"Adams-Moore",
     "wof:parent_id":85891847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.855534,35.174878,-80.855534,35.174878],
-  "geometry": {"coordinates":[-80.855534,35.174878],"type":"Point"}
+  "bbox": [
+    -80.855534,
+    35.174878,
+    -80.855534,
+    35.174878
+],
+  "geometry": {"coordinates":[-80.85553400000001,35.174878],"type":"Point"}
 }

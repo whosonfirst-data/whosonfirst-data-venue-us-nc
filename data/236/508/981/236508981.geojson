@@ -2,13 +2,14 @@
   "id": 236508981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.731592,35.863054,-76.731592,35.863054",
     "geom:latitude":35.863054,
     "geom:longitude":-76.731592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 US Hwy 64 E",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236508981,
-    "wof:lastmodified":1449003513,
+    "wof:lastmodified":1466647678,
     "wof:name":"Coca-Cola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "soft"
     ]
 },
-  "bbox": [-76.731592,35.863054,-76.731592,35.863054],
-  "geometry": {"coordinates":[-76.731592,35.863054],"type":"Point"}
+  "bbox": [
+    -76.731592,
+    35.863054,
+    -76.731592,
+    35.863054
+],
+  "geometry": {"coordinates":[-76.73159200000001,35.863054],"type":"Point"}
 }

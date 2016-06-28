@@ -2,13 +2,14 @@
   "id": 353630013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.785885,35.927009,-77.785885,35.927009",
     "geom:latitude":35.927009,
     "geom:longitude":-77.785885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 East St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353630013,
-    "wof:lastmodified":1449019162,
+    "wof:lastmodified":1466649778,
     "wof:name":"Rocky Mt Opportunities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-77.785885,35.927009,-77.785885,35.927009],
-  "geometry": {"coordinates":[-77.785885,35.927009],"type":"Point"}
+  "bbox": [
+    -77.785885,
+    35.927009,
+    -77.785885,
+    35.927009
+],
+  "geometry": {"coordinates":[-77.78588499999999,35.927009],"type":"Point"}
 }

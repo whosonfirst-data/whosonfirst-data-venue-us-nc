@@ -2,13 +2,14 @@
   "id": 270288379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.868552,34.264611,-77.868552,34.264611",
     "geom:latitude":34.264611,
     "geom:longitude":-77.868552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4810 Calder Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270288379,
-    "wof:lastmodified":1449008904,
+    "wof:lastmodified":1466646713,
     "wof:name":"2 Can Properties LLC",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-77.868552,34.264611,-77.868552,34.264611],
-  "geometry": {"coordinates":[-77.868552,34.264611],"type":"Point"}
+  "bbox": [
+    -77.868552,
+    34.264611,
+    -77.868552,
+    34.264611
+],
+  "geometry": {"coordinates":[-77.86855199999999,34.264611],"type":"Point"}
 }

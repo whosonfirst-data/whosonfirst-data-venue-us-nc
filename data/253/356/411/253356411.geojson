@@ -2,13 +2,14 @@
   "id": 253356411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.714548,36.106013,-77.714548,36.106013",
     "geom:latitude":36.106013,
     "geom:longitude":-77.714548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S White St",
     "sg:city":"Whitakers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253356411,
-    "wof:lastmodified":1449065238,
+    "wof:lastmodified":1466646654,
     "wof:name":"Jim's Small Engine",
     "wof:parent_id":85851697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mower"
     ]
 },
-  "bbox": [-77.714548,36.106013,-77.714548,36.106013],
-  "geometry": {"coordinates":[-77.714548,36.106013],"type":"Point"}
+  "bbox": [
+    -77.714548,
+    36.106013,
+    -77.714548,
+    36.106013
+],
+  "geometry": {"coordinates":[-77.71454799999999,36.106013],"type":"Point"}
 }

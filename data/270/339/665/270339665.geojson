@@ -2,13 +2,14 @@
   "id": 270339665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.133587,35.180834,-81.133587,35.180834",
     "geom:latitude":35.180834,
     "geom:longitude":-81.133587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5614 Union Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270339665,
-    "wof:lastmodified":1449009729,
+    "wof:lastmodified":1466647368,
     "wof:name":"Thomas Concrete",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "concrete"
     ]
 },
-  "bbox": [-81.133587,35.180834,-81.133587,35.180834],
-  "geometry": {"coordinates":[-81.133587,35.180834],"type":"Point"}
+  "bbox": [
+    -81.133587,
+    35.180834,
+    -81.133587,
+    35.180834
+],
+  "geometry": {"coordinates":[-81.13358700000001,35.180834],"type":"Point"}
 }

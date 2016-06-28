@@ -2,13 +2,14 @@
   "id": 303379647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.835276,35.547595,-82.835276,35.547595",
     "geom:latitude":35.547595,
     "geom:longitude":-82.835276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Warner Rd",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303379647,
-    "wof:lastmodified":1448999544,
+    "wof:lastmodified":1466648779,
     "wof:name":"H & M Constructors",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.835276,35.547595,-82.835276,35.547595],
-  "geometry": {"coordinates":[-82.835276,35.547595],"type":"Point"}
+  "bbox": [
+    -82.835276,
+    35.547595,
+    -82.835276,
+    35.547595
+],
+  "geometry": {"coordinates":[-82.83527599999999,35.547595],"type":"Point"}
 }

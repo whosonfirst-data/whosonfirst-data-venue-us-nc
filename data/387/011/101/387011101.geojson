@@ -2,13 +2,14 @@
   "id": 387011101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.591709,36.309218,-78.591709,36.309218",
     "geom:latitude":36.309218,
     "geom:longitude":-78.591709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Granville St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387011101,
-    "wof:lastmodified":1449059227,
+    "wof:lastmodified":1466650015,
     "wof:name":"Lowes Foods",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-78.591709,36.309218,-78.591709,36.309218],
-  "geometry": {"coordinates":[-78.591709,36.309218],"type":"Point"}
+  "bbox": [
+    -78.591709,
+    36.309218,
+    -78.591709,
+    36.309218
+],
+  "geometry": {"coordinates":[-78.59170899999999,36.309218],"type":"Point"}
 }

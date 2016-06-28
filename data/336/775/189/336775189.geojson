@@ -2,13 +2,14 @@
   "id": 336775189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.655571,34.487318,-78.655571,34.487318",
     "geom:latitude":34.487318,
     "geom:longitude":-78.655571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 E Green St",
     "sg:city":"Clarkton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336775189,
-    "wof:lastmodified":1448997730,
+    "wof:lastmodified":1466648500,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.655571,34.487318,-78.655571,34.487318],
-  "geometry": {"coordinates":[-78.655571,34.487318],"type":"Point"}
+  "bbox": [
+    -78.655571,
+    34.487318,
+    -78.655571,
+    34.487318
+],
+  "geometry": {"coordinates":[-78.65557099999999,34.487318],"type":"Point"}
 }

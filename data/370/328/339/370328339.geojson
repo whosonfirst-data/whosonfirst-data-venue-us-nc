@@ -2,13 +2,14 @@
   "id": 370328339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.471427,35.681317,-79.471427,35.681317",
     "geom:latitude":35.681317,
     "geom:longitude":-79.471427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3014 Wade Paschal Rd",
     "sg:city":"Siler City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370328339,
-    "wof:lastmodified":1449031069,
+    "wof:lastmodified":1466650359,
     "wof:name":"Garner Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.471427,35.681317,-79.471427,35.681317],
-  "geometry": {"coordinates":[-79.471427,35.681317],"type":"Point"}
+  "bbox": [
+    -79.471427,
+    35.681317,
+    -79.471427,
+    35.681317
+],
+  "geometry": {"coordinates":[-79.47142700000001,35.681317],"type":"Point"}
 }

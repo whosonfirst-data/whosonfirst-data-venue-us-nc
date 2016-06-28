@@ -2,13 +2,14 @@
   "id": 320819083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256787,36.097126,-80.256787,36.097126",
     "geom:latitude":36.097126,
     "geom:longitude":-80.256787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"855 W 4th St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320819083,
-    "wof:lastmodified":1449012152,
+    "wof:lastmodified":1466656518,
     "wof:name":"Hair Den",
     "wof:parent_id":85881851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.256787,36.097126,-80.256787,36.097126],
+  "bbox": [
+    -80.256787,
+    36.097126,
+    -80.256787,
+    36.097126
+],
   "geometry": {"coordinates":[-80.256787,36.097126],"type":"Point"}
 }

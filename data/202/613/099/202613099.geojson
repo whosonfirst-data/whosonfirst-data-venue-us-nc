@@ -2,13 +2,14 @@
   "id": 202613099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.826245,35.155094,-80.826245,35.155094",
     "geom:latitude":35.155094,
     "geom:longitude":-80.826245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3908 Cheston Pl",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202613099,
-    "wof:lastmodified":1449061307,
+    "wof:lastmodified":1466655561,
     "wof:name":"Allover Media",
     "wof:parent_id":85850311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.826245,35.155094,-80.826245,35.155094],
+  "bbox": [
+    -80.826245,
+    35.155094,
+    -80.826245,
+    35.155094
+],
   "geometry": {"coordinates":[-80.826245,35.155094],"type":"Point"}
 }

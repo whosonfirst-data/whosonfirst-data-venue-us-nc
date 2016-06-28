@@ -2,13 +2,14 @@
   "id": 219700933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949339,34.239857,-77.949339,34.239857",
     "geom:latitude":34.239857,
     "geom:longitude":-77.949339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 N Front St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219700933,
-    "wof:lastmodified":1449073607,
+    "wof:lastmodified":1466646353,
     "wof:name":"General Assembly Coffee House",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-77.949339,34.239857,-77.949339,34.239857],
-  "geometry": {"coordinates":[-77.949339,34.239857],"type":"Point"}
+  "bbox": [
+    -77.949339,
+    34.239857,
+    -77.949339,
+    34.239857
+],
+  "geometry": {"coordinates":[-77.94933899999999,34.239857],"type":"Point"}
 }

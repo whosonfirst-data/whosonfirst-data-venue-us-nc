@@ -2,13 +2,14 @@
   "id": 387120821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.728341,36.396435,-80.728341,36.396435",
     "geom:latitude":36.396435,
     "geom:longitude":-80.728341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Kapp St",
     "sg:city":"Dobson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387120821,
-    "wof:lastmodified":1449059380,
+    "wof:lastmodified":1466651421,
     "wof:name":"Piedmont Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.728341,36.396435,-80.728341,36.396435],
+  "bbox": [
+    -80.728341,
+    36.396435,
+    -80.728341,
+    36.396435
+],
   "geometry": {"coordinates":[-80.728341,36.396435],"type":"Point"}
 }

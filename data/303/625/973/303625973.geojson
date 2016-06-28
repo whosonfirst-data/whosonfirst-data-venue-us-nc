@@ -2,13 +2,14 @@
   "id": 303625973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.541313,35.237024,-80.541313,35.237024",
     "geom:latitude":35.237024,
     "geom:longitude":-80.541313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13085 Cabarrus Station Rd",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303625973,
-    "wof:lastmodified":1449000605,
+    "wof:lastmodified":1466652341,
     "wof:name":"RPM Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "laundry"
     ]
 },
-  "bbox": [-80.541313,35.237024,-80.541313,35.237024],
+  "bbox": [
+    -80.541313,
+    35.237024,
+    -80.541313,
+    35.237024
+],
   "geometry": {"coordinates":[-80.541313,35.237024],"type":"Point"}
 }

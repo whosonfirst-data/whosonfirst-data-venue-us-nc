@@ -2,13 +2,14 @@
   "id": 269567663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.383469,35.712712,-81.383469,35.712712",
     "geom:latitude":35.712712,
     "geom:longitude":-81.383469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2485 15th Ave SW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269567663,
-    "wof:lastmodified":1449038987,
+    "wof:lastmodified":1466644181,
     "wof:name":"Roberto Herrera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.383469,35.712712,-81.383469,35.712712],
-  "geometry": {"coordinates":[-81.383469,35.712712],"type":"Point"}
+  "bbox": [
+    -81.383469,
+    35.712712,
+    -81.383469,
+    35.712712
+],
+  "geometry": {"coordinates":[-81.38346900000001,35.712712],"type":"Point"}
 }

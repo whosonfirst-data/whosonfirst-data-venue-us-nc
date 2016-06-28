@@ -2,13 +2,14 @@
   "id": 387140169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.456095,35.307134,-82.456095,35.307134",
     "geom:latitude":35.307134,
     "geom:longitude":-82.456095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"638 Spartanburg Hwy",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387140169,
-    "wof:lastmodified":1449056655,
+    "wof:lastmodified":1466651673,
     "wof:name":"Blue Ridge Humane Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-82.456095,35.307134,-82.456095,35.307134],
+  "bbox": [
+    -82.456095,
+    35.307134,
+    -82.456095,
+    35.307134
+],
   "geometry": {"coordinates":[-82.456095,35.307134],"type":"Point"}
 }

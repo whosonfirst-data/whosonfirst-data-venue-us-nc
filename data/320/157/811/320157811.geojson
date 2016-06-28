@@ -2,13 +2,14 @@
   "id": 320157811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.900618,35.979303,-81.900618,35.979303",
     "geom:latitude":35.979303,
     "geom:longitude":-81.900618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8241 Buckeye Hollow Rd",
     "sg:city":"Newland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320157811,
-    "wof:lastmodified":1449014447,
+    "wof:lastmodified":1466647512,
     "wof:name":"Jonas Ridge UMC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.900618,35.979303,-81.900618,35.979303],
-  "geometry": {"coordinates":[-81.900618,35.979303],"type":"Point"}
+  "bbox": [
+    -81.900618,
+    35.979303,
+    -81.900618,
+    35.979303
+],
+  "geometry": {"coordinates":[-81.90061799999999,35.979303],"type":"Point"}
 }

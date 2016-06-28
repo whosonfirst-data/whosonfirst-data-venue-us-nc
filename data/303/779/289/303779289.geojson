@@ -2,13 +2,14 @@
   "id": 303779289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.005755,35.174029,-79.005755,35.174029",
     "geom:latitude":35.174029,
     "geom:longitude":-79.005755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Maynard St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303779289,
-    "wof:lastmodified":1448998496,
+    "wof:lastmodified":1466654561,
     "wof:name":"Medical Logistics Supplies",
     "wof:parent_id":85803425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "clinic"
     ]
 },
-  "bbox": [-79.005755,35.174029,-79.005755,35.174029],
-  "geometry": {"coordinates":[-79.005755,35.174029],"type":"Point"}
+  "bbox": [
+    -79.005755,
+    35.174029,
+    -79.005755,
+    35.174029
+],
+  "geometry": {"coordinates":[-79.00575499999999,35.174029],"type":"Point"}
 }

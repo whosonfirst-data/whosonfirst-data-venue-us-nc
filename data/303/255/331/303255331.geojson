@@ -2,13 +2,14 @@
   "id": 303255331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.467622,35.327533,-82.467622,35.327533",
     "geom:latitude":35.327533,
     "geom:longitude":-82.467622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1351 Asheville Hwy",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303255331,
-    "wof:lastmodified":1448999233,
+    "wof:lastmodified":1466647029,
     "wof:name":"Hendersonville Lions Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.467622,35.327533,-82.467622,35.327533],
-  "geometry": {"coordinates":[-82.467622,35.327533],"type":"Point"}
+  "bbox": [
+    -82.467622,
+    35.327533,
+    -82.467622,
+    35.327533
+],
+  "geometry": {"coordinates":[-82.46762200000001,35.327533],"type":"Point"}
 }

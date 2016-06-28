@@ -2,13 +2,14 @@
   "id": 320721151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.975527,34.810515,-78.975527,34.810515",
     "geom:latitude":34.810515,
     "geom:longitude":-78.975527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N 5th St",
     "sg:city":"St Pauls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320721151,
-    "wof:lastmodified":1449014955,
+    "wof:lastmodified":1466655559,
     "wof:name":"Maxway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-78.975527,34.810515,-78.975527,34.810515],
+  "bbox": [
+    -78.975527,
+    34.810515,
+    -78.975527,
+    34.810515
+],
   "geometry": {"coordinates":[-78.975527,34.810515],"type":"Point"}
 }

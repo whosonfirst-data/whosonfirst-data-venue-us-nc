@@ -2,13 +2,14 @@
   "id": 202446461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.110251,36.15811,-79.110251,36.15811",
     "geom:latitude":36.15811,
     "geom:longitude":-79.110251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4602 Walnut Grove Church Rd",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202446461,
-    "wof:lastmodified":1449062439,
+    "wof:lastmodified":1466654549,
     "wof:name":"Raleigh Durham Heating & Air",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-79.110251,36.15811,-79.110251,36.15811],
-  "geometry": {"coordinates":[-79.110251,36.15811],"type":"Point"}
+  "bbox": [
+    -79.110251,
+    36.15811,
+    -79.110251,
+    36.15811
+],
+  "geometry": {"coordinates":[-79.11025100000001,36.15811],"type":"Point"}
 }

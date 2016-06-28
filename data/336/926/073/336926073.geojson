@@ -2,13 +2,14 @@
   "id": 336926073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.460935,35.722294,-81.460935,35.722294",
     "geom:latitude":35.722294,
     "geom:longitude":-81.460935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1970 US Hwy 70 E",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336926073,
-    "wof:lastmodified":1448997302,
+    "wof:lastmodified":1466650814,
     "wof:name":"William Gladden OD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.460935,35.722294,-81.460935,35.722294],
-  "geometry": {"coordinates":[-81.460935,35.722294],"type":"Point"}
+  "bbox": [
+    -81.460935,
+    35.722294,
+    -81.460935,
+    35.722294
+],
+  "geometry": {"coordinates":[-81.46093500000001,35.722294],"type":"Point"}
 }

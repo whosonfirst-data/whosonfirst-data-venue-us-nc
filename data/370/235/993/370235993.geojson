@@ -2,13 +2,14 @@
   "id": 370235993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.512588,35.220079,-78.512588,35.220079",
     "geom:latitude":35.220079,
     "geom:longitude":-78.512588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1564 Plain View Hwy",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370235993,
-    "wof:lastmodified":1449029673,
+    "wof:lastmodified":1466649232,
     "wof:name":"Waste Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-78.512588,35.220079,-78.512588,35.220079],
-  "geometry": {"coordinates":[-78.512588,35.220079],"type":"Point"}
+  "bbox": [
+    -78.512588,
+    35.220079,
+    -78.512588,
+    35.220079
+],
+  "geometry": {"coordinates":[-78.51258799999999,35.220079],"type":"Point"}
 }

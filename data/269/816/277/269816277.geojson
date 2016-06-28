@@ -2,13 +2,14 @@
   "id": 269816277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.845494,35.803681,-78.845494,35.803681",
     "geom:latitude":35.803681,
     "geom:longitude":-78.845494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Glen Abbey Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269816277,
-    "wof:lastmodified":1449037544,
+    "wof:lastmodified":1466647128,
     "wof:name":"Data Artisans Inc",
     "wof:parent_id":85843101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-78.845494,35.803681,-78.845494,35.803681],
+  "bbox": [
+    -78.845494,
+    35.803681,
+    -78.845494,
+    35.803681
+],
   "geometry": {"coordinates":[-78.845494,35.803681],"type":"Point"}
 }

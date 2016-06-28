@@ -2,13 +2,14 @@
   "id": 370687301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.932661,34.196861,-77.932661,34.196861",
     "geom:latitude":34.196861,
     "geom:longitude":-77.932661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 Silver Stream Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370687301,
-    "wof:lastmodified":1449030054,
+    "wof:lastmodified":1466655042,
     "wof:name":"Silver Stream",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-77.932661,34.196861,-77.932661,34.196861],
+  "bbox": [
+    -77.932661,
+    34.196861,
+    -77.932661,
+    34.196861
+],
   "geometry": {"coordinates":[-77.932661,34.196861],"type":"Point"}
 }

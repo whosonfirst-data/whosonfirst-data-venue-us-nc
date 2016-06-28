@@ -2,13 +2,14 @@
   "id": 236255759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.232977,33.93121,-78.232977,33.93121",
     "geom:latitude":33.93121,
     "geom:longitude":-78.232977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3247 Marsh View Dr",
     "sg:city":"Supply",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236255759,
-    "wof:lastmodified":1449003096,
+    "wof:lastmodified":1466645513,
     "wof:name":"Burns & Burns",
     "wof:parent_id":85853519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.232977,33.93121,-78.232977,33.93121],
-  "geometry": {"coordinates":[-78.232977,33.93121],"type":"Point"}
+  "bbox": [
+    -78.232977,
+    33.93121,
+    -78.232977,
+    33.93121
+],
+  "geometry": {"coordinates":[-78.23297700000001,33.93121],"type":"Point"}
 }

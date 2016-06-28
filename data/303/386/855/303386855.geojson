@@ -2,13 +2,14 @@
   "id": 303386855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.51117,35.870452,-81.51117,35.870452",
     "geom:latitude":35.870452,
     "geom:longitude":-81.51117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2441 Norwood St SW",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303386855,
-    "wof:lastmodified":1448999406,
+    "wof:lastmodified":1466648882,
     "wof:name":"Mama Nance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.51117,35.870452,-81.51117,35.870452],
-  "geometry": {"coordinates":[-81.51117,35.870452],"type":"Point"}
+  "bbox": [
+    -81.51117,
+    35.870452,
+    -81.51117,
+    35.870452
+],
+  "geometry": {"coordinates":[-81.51117000000001,35.870452],"type":"Point"}
 }

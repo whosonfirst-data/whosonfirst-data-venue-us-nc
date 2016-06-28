@@ -2,13 +2,14 @@
   "id": 320075985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.089987,35.126924,-77.089987,35.126924",
     "geom:latitude":35.126924,
     "geom:longitude":-77.089987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1285 Colony Dr",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320075985,
-    "wof:lastmodified":1449013291,
+    "wof:lastmodified":1466646371,
     "wof:name":"Seaboard Electrical Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.089987,35.126924,-77.089987,35.126924],
-  "geometry": {"coordinates":[-77.089987,35.126924],"type":"Point"}
+  "bbox": [
+    -77.089987,
+    35.126924,
+    -77.089987,
+    35.126924
+],
+  "geometry": {"coordinates":[-77.08998699999999,35.126924],"type":"Point"}
 }

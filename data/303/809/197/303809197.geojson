@@ -2,13 +2,14 @@
   "id": 303809197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.784258,36.151216,-79.784258,36.151216",
     "geom:latitude":36.151216,
     "geom:longitude":-79.784258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Paddock Ct",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303809197,
-    "wof:lastmodified":1449000122,
+    "wof:lastmodified":1466654996,
     "wof:name":"J Daniel Inc",
     "wof:parent_id":85852095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mail"
     ]
 },
-  "bbox": [-79.784258,36.151216,-79.784258,36.151216],
-  "geometry": {"coordinates":[-79.784258,36.151216],"type":"Point"}
+  "bbox": [
+    -79.784258,
+    36.151216,
+    -79.784258,
+    36.151216
+],
+  "geometry": {"coordinates":[-79.78425799999999,36.151216],"type":"Point"}
 }

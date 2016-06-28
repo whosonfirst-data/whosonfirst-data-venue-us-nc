@@ -2,13 +2,14 @@
   "id": 303048779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.368471,35.781149,-81.368471,35.781149",
     "geom:latitude":35.781149,
     "geom:longitude":-81.368471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5483 Valley Run St",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303048779,
-    "wof:lastmodified":1448998968,
+    "wof:lastmodified":1466643933,
     "wof:name":"CF Consulting Group",
     "wof:parent_id":85822593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-81.368471,35.781149,-81.368471,35.781149],
+  "bbox": [
+    -81.368471,
+    35.781149,
+    -81.368471,
+    35.781149
+],
   "geometry": {"coordinates":[-81.368471,35.781149],"type":"Point"}
 }

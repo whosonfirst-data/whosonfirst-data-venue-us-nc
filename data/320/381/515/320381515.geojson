@@ -2,13 +2,14 @@
   "id": 320381515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.585456,35.38571,-80.585456,35.38571",
     "geom:latitude":35.38571,
     "geom:longitude":-80.585456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Wilshire Ct SW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320381515,
-    "wof:lastmodified":1449011551,
+    "wof:lastmodified":1466650646,
     "wof:name":"Ken's Satellites",
     "wof:parent_id":85891915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.585456,35.38571,-80.585456,35.38571],
-  "geometry": {"coordinates":[-80.585456,35.38571],"type":"Point"}
+  "bbox": [
+    -80.585456,
+    35.38571,
+    -80.585456,
+    35.38571
+],
+  "geometry": {"coordinates":[-80.58545599999999,35.38571],"type":"Point"}
 }

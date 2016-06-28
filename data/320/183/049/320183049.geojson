@@ -2,13 +2,14 @@
   "id": 320183049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.968967,35.910255,-79.968967,35.910255",
     "geom:latitude":35.910255,
     "geom:longitude":-79.968967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10844 N Main St",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320183049,
-    "wof:lastmodified":1449013268,
+    "wof:lastmodified":1466647849,
     "wof:name":"Ward's Saw Sales & Svc",
     "wof:parent_id":85843865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "saw"
     ]
 },
-  "bbox": [-79.968967,35.910255,-79.968967,35.910255],
-  "geometry": {"coordinates":[-79.968967,35.910255],"type":"Point"}
+  "bbox": [
+    -79.968967,
+    35.910255,
+    -79.968967,
+    35.910255
+],
+  "geometry": {"coordinates":[-79.96896700000001,35.910255],"type":"Point"}
 }

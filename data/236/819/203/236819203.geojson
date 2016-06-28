@@ -2,13 +2,14 @@
   "id": 236819203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.958813,35.703018,-81.958813,35.703018",
     "geom:latitude":35.703018,
     "geom:longitude":-81.958813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3354 US Hwy 70 E",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236819203,
-    "wof:lastmodified":1449002269,
+    "wof:lastmodified":1466650576,
     "wof:name":"P-G Trader",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "thrift"
     ]
 },
-  "bbox": [-81.958813,35.703018,-81.958813,35.703018],
-  "geometry": {"coordinates":[-81.958813,35.703018],"type":"Point"}
+  "bbox": [
+    -81.958813,
+    35.703018,
+    -81.958813,
+    35.703018
+],
+  "geometry": {"coordinates":[-81.95881300000001,35.703018],"type":"Point"}
 }

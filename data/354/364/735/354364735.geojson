@@ -2,13 +2,14 @@
   "id": 354364735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.600766,34.466186,-78.600766,34.466186",
     "geom:latitude":34.466186,
     "geom:longitude":-78.600766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3603 State Hwy 211 E",
     "sg:city":"Clarkton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":354364735,
-    "wof:lastmodified":1449066909,
+    "wof:lastmodified":1466651765,
     "wof:name":"Brown's Of Carolina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.600766,34.466186,-78.600766,34.466186],
-  "geometry": {"coordinates":[-78.600766,34.466186],"type":"Point"}
+  "bbox": [
+    -78.600766,
+    34.466186,
+    -78.600766,
+    34.466186
+],
+  "geometry": {"coordinates":[-78.60076599999999,34.466186],"type":"Point"}
 }

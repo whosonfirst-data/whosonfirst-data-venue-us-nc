@@ -2,13 +2,14 @@
   "id": 303684213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.783353,35.637415,-78.783353,35.637415",
     "geom:latitude":35.637415,
     "geom:longitude":-78.783353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6116 Sunset Lake Rd",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303684213,
-    "wof:lastmodified":1448998719,
+    "wof:lastmodified":1466653192,
     "wof:name":"Isd Core Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.783353,35.637415,-78.783353,35.637415],
-  "geometry": {"coordinates":[-78.783353,35.637415],"type":"Point"}
+  "bbox": [
+    -78.783353,
+    35.637415,
+    -78.783353,
+    35.637415
+],
+  "geometry": {"coordinates":[-78.78335300000001,35.637415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403754545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.346566,36.125165,-79.346566,36.125165",
     "geom:latitude":36.125165,
     "geom:longitude":-79.346566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 Green Valley Blvd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403754545,
-    "wof:lastmodified":1449055488,
+    "wof:lastmodified":1466650997,
     "wof:name":"Brincefield Trucking",
     "wof:parent_id":85832733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-79.346566,36.125165,-79.346566,36.125165],
+  "bbox": [
+    -79.346566,
+    36.125165,
+    -79.346566,
+    36.125165
+],
   "geometry": {"coordinates":[-79.346566,36.125165],"type":"Point"}
 }

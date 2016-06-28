@@ -2,13 +2,14 @@
   "id": 202790627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.085743,35.948052,-79.085743,35.948052",
     "geom:latitude":35.948052,
     "geom:longitude":-79.085743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Camden Ln",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202790627,
-    "wof:lastmodified":1449062072,
+    "wof:lastmodified":1466644090,
     "wof:name":"Sharma Associates Inc",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-79.085743,35.948052,-79.085743,35.948052],
-  "geometry": {"coordinates":[-79.085743,35.948052],"type":"Point"}
+  "bbox": [
+    -79.085743,
+    35.948052,
+    -79.085743,
+    35.948052
+],
+  "geometry": {"coordinates":[-79.08574299999999,35.948052],"type":"Point"}
 }

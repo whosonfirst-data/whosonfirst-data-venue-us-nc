@@ -2,13 +2,14 @@
   "id": 404199779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.728255,35.870383,-78.728255,35.870383",
     "geom:latitude":35.870383,
     "geom:longitude":-78.728255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6517 Westborough Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404199779,
-    "wof:lastmodified":1449039141,
+    "wof:lastmodified":1466653833,
     "wof:name":"Triangle Residential Svc",
     "wof:parent_id":85829047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-78.728255,35.870383,-78.728255,35.870383],
+  "bbox": [
+    -78.728255,
+    35.870383,
+    -78.728255,
+    35.870383
+],
   "geometry": {"coordinates":[-78.728255,35.870383],"type":"Point"}
 }

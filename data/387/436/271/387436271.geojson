@@ -2,13 +2,14 @@
   "id": 387436271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.18793,35.844687,-79.18793,35.844687",
     "geom:latitude":35.844687,
     "geom:longitude":-79.18793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"477 Frosty Meadow Dr",
     "sg:city":"Pittsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387436271,
-    "wof:lastmodified":1449059553,
+    "wof:lastmodified":1466655578,
     "wof:name":"A Cake Tray",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-79.18793,35.844687,-79.18793,35.844687],
-  "geometry": {"coordinates":[-79.18793,35.844687],"type":"Point"}
+  "bbox": [
+    -79.18793,
+    35.844687,
+    -79.18793,
+    35.844687
+],
+  "geometry": {"coordinates":[-79.18792999999999,35.844687],"type":"Point"}
 }

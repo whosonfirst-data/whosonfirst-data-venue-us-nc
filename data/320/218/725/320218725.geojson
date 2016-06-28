@@ -2,13 +2,14 @@
   "id": 320218725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.975357,34.957983,-77.975357,34.957983",
     "geom:latitude":34.957983,
     "geom:longitude":-77.975357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 State Rd 24 Bus",
     "sg:city":"Kenansville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320218725,
-    "wof:lastmodified":1449013626,
+    "wof:lastmodified":1466648349,
     "wof:name":"Murray House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-77.975357,34.957983,-77.975357,34.957983],
+  "bbox": [
+    -77.975357,
+    34.957983,
+    -77.975357,
+    34.957983
+],
   "geometry": {"coordinates":[-77.975357,34.957983],"type":"Point"}
 }

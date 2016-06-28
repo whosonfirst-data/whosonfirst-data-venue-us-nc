@@ -2,13 +2,14 @@
   "id": 371122125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.576304,35.679415,-82.576304,35.679415",
     "geom:latitude":35.679415,
     "geom:longitude":-82.576304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Creekside Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371122125,
-    "wof:lastmodified":1449049649,
+    "wof:lastmodified":1466650346,
     "wof:name":"American Kennel Club",
     "wof:parent_id":85891781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.576304,35.679415,-82.576304,35.679415],
-  "geometry": {"coordinates":[-82.576304,35.679415],"type":"Point"}
+  "bbox": [
+    -82.576304,
+    35.679415,
+    -82.576304,
+    35.679415
+],
+  "geometry": {"coordinates":[-82.57630399999999,35.679415],"type":"Point"}
 }

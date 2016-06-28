@@ -2,13 +2,14 @@
   "id": 220171051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.566086,35.590621,-82.566086,35.590621",
     "geom:latitude":35.590621,
     "geom:longitude":-82.566086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 W Haywood St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220171051,
-    "wof:lastmodified":1449074887,
+    "wof:lastmodified":1466644567,
     "wof:name":"City Bus",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "line"
     ]
 },
-  "bbox": [-82.566086,35.590621,-82.566086,35.590621],
+  "bbox": [
+    -82.566086,
+    35.590621,
+    -82.566086,
+    35.590621
+],
   "geometry": {"coordinates":[-82.566086,35.590621],"type":"Point"}
 }

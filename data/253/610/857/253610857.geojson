@@ -2,13 +2,14 @@
   "id": 253610857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.460617,36.093511,-79.460617,36.093511",
     "geom:latitude":36.093511,
     "geom:longitude":-79.460617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 Memorial Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253610857,
-    "wof:lastmodified":1449065759,
+    "wof:lastmodified":1466649706,
     "wof:name":"Dan Barefoot DDS",
     "wof:parent_id":85810235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.460617,36.093511,-79.460617,36.093511],
+  "bbox": [
+    -79.460617,
+    36.093511,
+    -79.460617,
+    36.093511
+],
   "geometry": {"coordinates":[-79.460617,36.093511],"type":"Point"}
 }

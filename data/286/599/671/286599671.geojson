@@ -2,13 +2,14 @@
   "id": 286599671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.088816,36.439808,-77.088816,36.439808",
     "geom:latitude":36.439808,
     "geom:longitude":-77.088816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Beachwood Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286599671,
-    "wof:lastmodified":1449016553,
+    "wof:lastmodified":1466647719,
     "wof:name":"Murfreesboro Office-Ahoskie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.088816,36.439808,-77.088816,36.439808],
-  "geometry": {"coordinates":[-77.088816,36.439808],"type":"Point"}
+  "bbox": [
+    -77.088816,
+    36.439808,
+    -77.088816,
+    36.439808
+],
+  "geometry": {"coordinates":[-77.08881599999999,36.439808],"type":"Point"}
 }

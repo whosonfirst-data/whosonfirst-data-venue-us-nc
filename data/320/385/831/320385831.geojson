@@ -2,13 +2,14 @@
   "id": 320385831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.65636,35.280809,-80.65636,35.280809",
     "geom:latitude":35.280809,
     "geom:longitude":-80.65636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9540 Millen Dr",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320385831,
-    "wof:lastmodified":1449013475,
+    "wof:lastmodified":1466650707,
     "wof:name":"Quality Process Components Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "industrial"
     ]
 },
-  "bbox": [-80.65636,35.280809,-80.65636,35.280809],
-  "geometry": {"coordinates":[-80.65636,35.280809],"type":"Point"}
+  "bbox": [
+    -80.65636,
+    35.280809,
+    -80.65636,
+    35.280809
+],
+  "geometry": {"coordinates":[-80.65636000000001,35.280809],"type":"Point"}
 }

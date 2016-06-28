@@ -2,13 +2,14 @@
   "id": 403794273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.249284,35.920438,-80.249284,35.920438",
     "geom:latitude":35.920438,
     "geom:longitude":-80.249284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Hinkle Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403794273,
-    "wof:lastmodified":1449055266,
+    "wof:lastmodified":1466651496,
     "wof:name":"Collins Garage Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-80.249284,35.920438,-80.249284,35.920438],
+  "bbox": [
+    -80.249284,
+    35.920438,
+    -80.249284,
+    35.920438
+],
   "geometry": {"coordinates":[-80.249284,35.920438],"type":"Point"}
 }

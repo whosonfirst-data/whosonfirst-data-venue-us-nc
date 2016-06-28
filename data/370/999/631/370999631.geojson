@@ -2,13 +2,14 @@
   "id": 370999631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.534748,35.548087,-82.534748,35.548087",
     "geom:latitude":35.548087,
     "geom:longitude":-82.534748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"668 Hendersonville Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370999631,
-    "wof:lastmodified":1449032051,
+    "wof:lastmodified":1466657294,
     "wof:name":"Nevada Bobs of Asheville",
     "wof:parent_id":85848375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.534748,35.548087,-82.534748,35.548087],
-  "geometry": {"coordinates":[-82.534748,35.548087],"type":"Point"}
+  "bbox": [
+    -82.534748,
+    35.548087,
+    -82.534748,
+    35.548087
+],
+  "geometry": {"coordinates":[-82.53474799999999,35.548087],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370520351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.30671,36.065128,-80.30671,36.065128",
     "geom:latitude":36.065128,
     "geom:longitude":-80.30671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1995 Hampton Inn Ct",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370520351,
-    "wof:lastmodified":1449030213,
+    "wof:lastmodified":1466652825,
     "wof:name":"Extended Stay America",
     "wof:parent_id":85857871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operations"
     ]
 },
-  "bbox": [-80.30671,36.065128,-80.30671,36.065128],
+  "bbox": [
+    -80.30671,
+    36.065128,
+    -80.30671,
+    36.065128
+],
   "geometry": {"coordinates":[-80.30671,36.065128],"type":"Point"}
 }

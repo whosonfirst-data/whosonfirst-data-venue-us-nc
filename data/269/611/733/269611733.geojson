@@ -2,13 +2,14 @@
   "id": 269611733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.870618,36.036042,-78.870618,36.036042",
     "geom:latitude":36.036042,
     "geom:longitude":-78.870618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Raven St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269611733,
-    "wof:lastmodified":1449038310,
+    "wof:lastmodified":1466644737,
     "wof:name":"Lincoln Community Health Ctr",
     "wof:parent_id":85807037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.870618,36.036042,-78.870618,36.036042],
-  "geometry": {"coordinates":[-78.870618,36.036042],"type":"Point"}
+  "bbox": [
+    -78.870618,
+    36.036042,
+    -78.870618,
+    36.036042
+],
+  "geometry": {"coordinates":[-78.87061799999999,36.036042],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387265553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.968535,35.975431,-77.968535,35.975431",
     "geom:latitude":35.975431,
     "geom:longitude":-77.968535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 W Washington St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387265553,
-    "wof:lastmodified":1449057392,
+    "wof:lastmodified":1466653359,
     "wof:name":"Nash County Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-77.968535,35.975431,-77.968535,35.975431],
+  "bbox": [
+    -77.968535,
+    35.975431,
+    -77.968535,
+    35.975431
+],
   "geometry": {"coordinates":[-77.968535,35.975431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303966389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.509297,35.589776,-82.509297,35.589776",
     "geom:latitude":35.589776,
     "geom:longitude":-82.509297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Arco Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303966389,
-    "wof:lastmodified":1448998135,
+    "wof:lastmodified":1466656822,
     "wof:name":"McNees Graphics Inc",
     "wof:parent_id":85806005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-82.509297,35.589776,-82.509297,35.589776],
+  "bbox": [
+    -82.509297,
+    35.589776,
+    -82.509297,
+    35.589776
+],
   "geometry": {"coordinates":[-82.509297,35.589776],"type":"Point"}
 }

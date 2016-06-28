@@ -2,13 +2,14 @@
   "id": 303066807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.812666,34.282814,-77.812666,34.282814",
     "geom:latitude":34.282814,
     "geom:longitude":-77.812666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Oak Ridge Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303066807,
-    "wof:lastmodified":1448998827,
+    "wof:lastmodified":1466644195,
     "wof:name":"Creative Edge",
     "wof:parent_id":85807111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-77.812666,34.282814,-77.812666,34.282814],
-  "geometry": {"coordinates":[-77.812666,34.282814],"type":"Point"}
+  "bbox": [
+    -77.812666,
+    34.282814,
+    -77.812666,
+    34.282814
+],
+  "geometry": {"coordinates":[-77.81266599999999,34.282814],"type":"Point"}
 }

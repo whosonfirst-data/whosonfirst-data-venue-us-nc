@@ -2,13 +2,14 @@
   "id": 387131557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.125757,35.215479,-81.125757,35.215479",
     "geom:latitude":35.215479,
     "geom:longitude":-81.125757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3021 Southampton Cir",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387131557,
-    "wof:lastmodified":1449057247,
+    "wof:lastmodified":1466651560,
     "wof:name":"Atmox Crawl Space Ventilation",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.125757,35.215479,-81.125757,35.215479],
-  "geometry": {"coordinates":[-81.125757,35.215479],"type":"Point"}
+  "bbox": [
+    -81.125757,
+    35.215479,
+    -81.125757,
+    35.215479
+],
+  "geometry": {"coordinates":[-81.12575699999999,35.215479],"type":"Point"}
 }

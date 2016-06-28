@@ -2,13 +2,14 @@
   "id": 354213939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.688893,35.878285,-78.688893,35.878285",
     "geom:latitude":35.878285,
     "geom:longitude":-78.688893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Pidgeon Hill Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354213939,
-    "wof:lastmodified":1449065947,
+    "wof:lastmodified":1466650050,
     "wof:name":"J H W & Associates",
     "wof:parent_id":85841963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-78.688893,35.878285,-78.688893,35.878285],
-  "geometry": {"coordinates":[-78.688893,35.878285],"type":"Point"}
+  "bbox": [
+    -78.688893,
+    35.878285,
+    -78.688893,
+    35.878285
+],
+  "geometry": {"coordinates":[-78.68889299999999,35.878285],"type":"Point"}
 }

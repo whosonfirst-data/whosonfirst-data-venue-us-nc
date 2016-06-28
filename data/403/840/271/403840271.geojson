@@ -2,13 +2,14 @@
   "id": 403840271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.734389,35.797101,-78.734389,35.797101",
     "geom:latitude":35.797101,
     "geom:longitude":-78.734389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Nowell Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403840271,
-    "wof:lastmodified":1449055667,
+    "wof:lastmodified":1466652144,
     "wof:name":"Creative Living",
     "wof:parent_id":85803685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.734389,35.797101,-78.734389,35.797101],
-  "geometry": {"coordinates":[-78.734389,35.797101],"type":"Point"}
+  "bbox": [
+    -78.734389,
+    35.797101,
+    -78.734389,
+    35.797101
+],
+  "geometry": {"coordinates":[-78.73438899999999,35.797101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270468795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.846556,34.780594,-76.846556,34.780594",
     "geom:latitude":34.780594,
     "geom:longitude":-76.846556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1084 Orange St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270468795,
-    "wof:lastmodified":1449010405,
+    "wof:lastmodified":1466649026,
     "wof:name":"Cateret Correctional Ctr",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-76.846556,34.780594,-76.846556,34.780594],
-  "geometry": {"coordinates":[-76.846556,34.780594],"type":"Point"}
+  "bbox": [
+    -76.846556,
+    34.780594,
+    -76.846556,
+    34.780594
+],
+  "geometry": {"coordinates":[-76.84655600000001,34.780594],"type":"Point"}
 }

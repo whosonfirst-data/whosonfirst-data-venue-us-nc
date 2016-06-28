@@ -2,13 +2,14 @@
   "id": 253363823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.73777,34.704889,-76.73777,34.704889",
     "geom:latitude":34.704889,
     "geom:longitude":-76.73777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Atlantic Beach Cswy",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253363823,
-    "wof:lastmodified":1449065418,
+    "wof:lastmodified":1466646734,
     "wof:name":"Med-Center One",
     "wof:parent_id":85834767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-76.73777,34.704889,-76.73777,34.704889],
+  "bbox": [
+    -76.73777,
+    34.704889,
+    -76.73777,
+    34.704889
+],
   "geometry": {"coordinates":[-76.73777,34.704889],"type":"Point"}
 }

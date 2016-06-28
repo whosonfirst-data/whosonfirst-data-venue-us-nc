@@ -2,13 +2,14 @@
   "id": 371033177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.70295,35.825525,-79.70295,35.825525",
     "geom:latitude":35.825525,
     "geom:longitude":-79.70295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5322 State Hwy 22 N",
     "sg:city":"Franklinville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371033177,
-    "wof:lastmodified":1449049259,
+    "wof:lastmodified":1466649250,
     "wof:name":"Gray's Chapel School",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-79.70295,35.825525,-79.70295,35.825525],
+  "bbox": [
+    -79.70295,
+    35.825525,
+    -79.70295,
+    35.825525
+],
   "geometry": {"coordinates":[-79.70295,35.825525],"type":"Point"}
 }

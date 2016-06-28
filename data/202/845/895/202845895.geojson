@@ -2,13 +2,14 @@
   "id": 202845895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.617752,35.84914,-78.617752,35.84914",
     "geom:latitude":35.84914,
     "geom:longitude":-78.617752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Cedarhurst Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202845895,
-    "wof:lastmodified":1449060515,
+    "wof:lastmodified":1466644516,
     "wof:name":"Watson Appraisals",
     "wof:parent_id":85809963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.617752,35.84914,-78.617752,35.84914],
+  "bbox": [
+    -78.617752,
+    35.84914,
+    -78.617752,
+    35.84914
+],
   "geometry": {"coordinates":[-78.617752,35.84914],"type":"Point"}
 }

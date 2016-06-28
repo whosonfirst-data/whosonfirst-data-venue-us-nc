@@ -2,13 +2,14 @@
   "id": 303163609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.826428,35.128296,-80.826428,35.128296",
     "geom:latitude":35.128296,
     "geom:longitude":-80.826428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3918 Huckleberry Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303163609,
-    "wof:lastmodified":1449000512,
+    "wof:lastmodified":1466645663,
     "wof:name":"Wausau Financial Systems Inc",
     "wof:parent_id":85828475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.826428,35.128296,-80.826428,35.128296],
-  "geometry": {"coordinates":[-80.826428,35.128296],"type":"Point"}
+  "bbox": [
+    -80.826428,
+    35.128296,
+    -80.826428,
+    35.128296
+],
+  "geometry": {"coordinates":[-80.82642800000001,35.128296],"type":"Point"}
 }

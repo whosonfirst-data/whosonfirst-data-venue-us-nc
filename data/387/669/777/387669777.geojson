@@ -2,13 +2,14 @@
   "id": 387669777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.827284,35.212688,-80.827284,35.212688",
     "geom:latitude":35.212688,
     "geom:longitude":-80.827284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 E 4th St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387669777,
-    "wof:lastmodified":1449056546,
+    "wof:lastmodified":1466657320,
     "wof:name":"ICI Paints",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-80.827284,35.212688,-80.827284,35.212688],
-  "geometry": {"coordinates":[-80.827284,35.212688],"type":"Point"}
+  "bbox": [
+    -80.827284,
+    35.212688,
+    -80.827284,
+    35.212688
+],
+  "geometry": {"coordinates":[-80.82728400000001,35.212688],"type":"Point"}
 }

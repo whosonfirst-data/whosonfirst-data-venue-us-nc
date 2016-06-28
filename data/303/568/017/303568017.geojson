@@ -2,13 +2,14 @@
   "id": 303568017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.781191,36.029081,-79.781191,36.029081",
     "geom:latitude":36.029081,
     "geom:longitude":-79.781191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3125 Flagstone St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303568017,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1466651492,
     "wof:name":"Bellsouth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-79.781191,36.029081,-79.781191,36.029081],
-  "geometry": {"coordinates":[-79.781191,36.029081],"type":"Point"}
+  "bbox": [
+    -79.781191,
+    36.029081,
+    -79.781191,
+    36.029081
+],
+  "geometry": {"coordinates":[-79.78119100000001,36.029081],"type":"Point"}
 }

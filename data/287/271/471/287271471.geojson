@@ -2,13 +2,14 @@
   "id": 287271471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.547145,35.381054,-78.547145,35.381054",
     "geom:latitude":35.381054,
     "geom:longitude":-78.547145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E Main St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287271471,
-    "wof:lastmodified":1449001133,
+    "wof:lastmodified":1466647077,
     "wof:name":"Med Fast PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.547145,35.381054,-78.547145,35.381054],
+  "bbox": [
+    -78.547145,
+    35.381054,
+    -78.547145,
+    35.381054
+],
   "geometry": {"coordinates":[-78.547145,35.381054],"type":"Point"}
 }

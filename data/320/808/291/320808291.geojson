@@ -2,13 +2,14 @@
   "id": 320808291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.962482,35.511205,-76.962482,35.511205",
     "geom:latitude":35.511205,
     "geom:longitude":-76.962482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Harvey Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320808291,
-    "wof:lastmodified":1449011432,
+    "wof:lastmodified":1466656408,
     "wof:name":"Coastal Boat Works & Mfg",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-76.962482,35.511205,-76.962482,35.511205],
-  "geometry": {"coordinates":[-76.962482,35.511205],"type":"Point"}
+  "bbox": [
+    -76.962482,
+    35.511205,
+    -76.962482,
+    35.511205
+],
+  "geometry": {"coordinates":[-76.96248199999999,35.511205],"type":"Point"}
 }

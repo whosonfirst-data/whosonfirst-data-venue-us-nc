@@ -2,13 +2,14 @@
   "id": 236887113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.291784,36.087841,-80.291784,36.087841",
     "geom:latitude":36.087841,
     "geom:longitude":-80.291784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Mission Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236887113,
-    "wof:lastmodified":1449004461,
+    "wof:lastmodified":1466651174,
     "wof:name":"Shaw Heating Air Conditioning",
     "wof:parent_id":85881847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.291784,36.087841,-80.291784,36.087841],
-  "geometry": {"coordinates":[-80.291784,36.087841],"type":"Point"}
+  "bbox": [
+    -80.291784,
+    36.087841,
+    -80.291784,
+    36.087841
+],
+  "geometry": {"coordinates":[-80.29178400000001,36.087841],"type":"Point"}
 }

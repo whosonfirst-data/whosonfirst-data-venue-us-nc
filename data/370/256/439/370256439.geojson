@@ -2,13 +2,14 @@
   "id": 370256439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.650135,34.720377,-76.650135,34.720377",
     "geom:latitude":34.720377,
     "geom:longitude":-76.650135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Carteret Ave",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370256439,
-    "wof:lastmodified":1449031671,
+    "wof:lastmodified":1466649481,
     "wof:name":"Carteret Court Apartments",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.650135,34.720377,-76.650135,34.720377],
-  "geometry": {"coordinates":[-76.650135,34.720377],"type":"Point"}
+  "bbox": [
+    -76.650135,
+    34.720377,
+    -76.650135,
+    34.720377
+],
+  "geometry": {"coordinates":[-76.65013500000001,34.720377],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387937639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.541544,35.897439,-77.541544,35.897439",
     "geom:latitude":35.897439,
     "geom:longitude":-77.541544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 W Wilson St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387937639,
-    "wof:lastmodified":1449056823,
+    "wof:lastmodified":1466658038,
     "wof:name":"Daily Southerner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-77.541544,35.897439,-77.541544,35.897439],
+  "bbox": [
+    -77.541544,
+    35.897439,
+    -77.541544,
+    35.897439
+],
   "geometry": {"coordinates":[-77.541544,35.897439],"type":"Point"}
 }

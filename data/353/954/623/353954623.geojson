@@ -2,13 +2,14 @@
   "id": 353954623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.616937,35.674357,-78.616937,35.674357",
     "geom:latitude":35.674357,
     "geom:longitude":-78.616937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Hadrian Dr",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353954623,
-    "wof:lastmodified":1449020478,
+    "wof:lastmodified":1466653565,
     "wof:name":"Superior Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radio"
     ]
 },
-  "bbox": [-78.616937,35.674357,-78.616937,35.674357],
-  "geometry": {"coordinates":[-78.616937,35.674357],"type":"Point"}
+  "bbox": [
+    -78.616937,
+    35.674357,
+    -78.616937,
+    35.674357
+],
+  "geometry": {"coordinates":[-78.61693699999999,35.674357],"type":"Point"}
 }

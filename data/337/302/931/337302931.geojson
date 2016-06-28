@@ -2,13 +2,14 @@
   "id": 337302931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.788525,35.943329,-77.788525,35.943329",
     "geom:latitude":35.943329,
     "geom:longitude":-77.788525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Madison St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337302931,
-    "wof:lastmodified":1449027217,
+    "wof:lastmodified":1466646135,
     "wof:name":"Hudson's Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-77.788525,35.943329,-77.788525,35.943329],
-  "geometry": {"coordinates":[-77.788525,35.943329],"type":"Point"}
+  "bbox": [
+    -77.788525,
+    35.943329,
+    -77.788525,
+    35.943329
+],
+  "geometry": {"coordinates":[-77.78852500000001,35.943329],"type":"Point"}
 }

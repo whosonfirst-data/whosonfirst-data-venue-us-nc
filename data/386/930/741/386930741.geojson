@@ -2,13 +2,14 @@
   "id": 386930741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.138332,35.256214,-81.138332,35.256214",
     "geom:latitude":35.256214,
     "geom:longitude":-81.138332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2224 Scottwood Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386930741,
-    "wof:lastmodified":1449028714,
+    "wof:lastmodified":1466649397,
     "wof:name":"KDB Enterprises",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [-81.138332,35.256214,-81.138332,35.256214],
-  "geometry": {"coordinates":[-81.138332,35.256214],"type":"Point"}
+  "bbox": [
+    -81.138332,
+    35.256214,
+    -81.138332,
+    35.256214
+],
+  "geometry": {"coordinates":[-81.13833200000001,35.256214],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219796323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.943609,34.189643,-77.943609,34.189643",
     "geom:latitude":34.189643,
     "geom:longitude":-77.943609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 Dare St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219796323,
-    "wof:lastmodified":1449072060,
+    "wof:lastmodified":1466647149,
     "wof:name":"Watson S Welding Fabricat",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-77.943609,34.189643,-77.943609,34.189643],
+  "bbox": [
+    -77.943609,
+    34.189643,
+    -77.943609,
+    34.189643
+],
   "geometry": {"coordinates":[-77.943609,34.189643],"type":"Point"}
 }

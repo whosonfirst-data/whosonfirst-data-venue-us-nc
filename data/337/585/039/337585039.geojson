@@ -2,13 +2,14 @@
   "id": 337585039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.377672,35.605348,-77.377672,35.605348",
     "geom:latitude":35.605348,
     "geom:longitude":-77.377672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 S Pitt St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337585039,
-    "wof:lastmodified":1449027499,
+    "wof:lastmodified":1466647805,
     "wof:name":"Lock Doc",
     "wof:parent_id":85824897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.377672,35.605348,-77.377672,35.605348],
+  "bbox": [
+    -77.377672,
+    35.605348,
+    -77.377672,
+    35.605348
+],
   "geometry": {"coordinates":[-77.377672,35.605348],"type":"Point"}
 }

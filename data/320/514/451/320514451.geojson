@@ -2,13 +2,14 @@
   "id": 320514451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.371986,35.610698,-77.371986,35.610698",
     "geom:latitude":35.610698,
     "geom:longitude":-77.371986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Cotanche St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320514451,
-    "wof:lastmodified":1449013135,
+    "wof:lastmodified":1466652575,
     "wof:name":"Club 519",
     "wof:parent_id":85811829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-77.371986,35.610698,-77.371986,35.610698],
-  "geometry": {"coordinates":[-77.371986,35.610698],"type":"Point"}
+  "bbox": [
+    -77.371986,
+    35.610698,
+    -77.371986,
+    35.610698
+],
+  "geometry": {"coordinates":[-77.37198600000001,35.610698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387314227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.819089,35.213177,-80.819089,35.213177",
     "geom:latitude":35.213177,
     "geom:longitude":-80.819089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1958 E 7th St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387314227,
-    "wof:lastmodified":1449059754,
+    "wof:lastmodified":1466653998,
     "wof:name":"Bayou Kitchen Restaurant & Bar",
     "wof:parent_id":85817775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.819089,35.213177,-80.819089,35.213177],
-  "geometry": {"coordinates":[-80.819089,35.213177],"type":"Point"}
+  "bbox": [
+    -80.819089,
+    35.213177,
+    -80.819089,
+    35.213177
+],
+  "geometry": {"coordinates":[-80.81908900000001,35.213177],"type":"Point"}
 }

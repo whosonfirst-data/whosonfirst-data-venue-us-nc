@@ -2,13 +2,14 @@
   "id": 387508481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.448219,35.33503,-82.448219,35.33503",
     "geom:latitude":35.33503,
     "geom:longitude":-82.448219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Coolridge St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387508481,
-    "wof:lastmodified":1449058243,
+    "wof:lastmodified":1466656088,
     "wof:name":"Park Ridge Sleep Lab",
     "wof:parent_id":85812455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-82.448219,35.33503,-82.448219,35.33503],
-  "geometry": {"coordinates":[-82.448219,35.33503],"type":"Point"}
+  "bbox": [
+    -82.448219,
+    35.33503,
+    -82.448219,
+    35.33503
+],
+  "geometry": {"coordinates":[-82.44821899999999,35.33503],"type":"Point"}
 }

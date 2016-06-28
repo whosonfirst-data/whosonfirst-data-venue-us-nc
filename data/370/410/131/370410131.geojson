@@ -2,13 +2,14 @@
   "id": 370410131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.071745,35.918296,-79.071745,35.918296",
     "geom:latitude":35.918296,
     "geom:longitude":-79.071745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Hillview St",
     "sg:city":"Carrboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370410131,
-    "wof:lastmodified":1449029113,
+    "wof:lastmodified":1466651406,
     "wof:name":"Church of Harvest",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.071745,35.918296,-79.071745,35.918296],
-  "geometry": {"coordinates":[-79.071745,35.918296],"type":"Point"}
+  "bbox": [
+    -79.071745,
+    35.918296,
+    -79.071745,
+    35.918296
+],
+  "geometry": {"coordinates":[-79.07174500000001,35.918296],"type":"Point"}
 }

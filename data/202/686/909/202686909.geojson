@@ -2,13 +2,14 @@
   "id": 202686909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.766061,35.278059,-80.766061,35.278059",
     "geom:latitude":35.278059,
     "geom:longitude":-80.766061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6514 N Tryon St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202686909,
-    "wof:lastmodified":1449062040,
+    "wof:lastmodified":1466643322,
     "wof:name":"Crown Cleaners & Coin Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-80.766061,35.278059,-80.766061,35.278059],
-  "geometry": {"coordinates":[-80.766061,35.278059],"type":"Point"}
+  "bbox": [
+    -80.766061,
+    35.278059,
+    -80.766061,
+    35.278059
+],
+  "geometry": {"coordinates":[-80.76606099999999,35.278059],"type":"Point"}
 }

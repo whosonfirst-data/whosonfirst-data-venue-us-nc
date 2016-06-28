@@ -2,13 +2,14 @@
   "id": 303428851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.271198,36.121048,-80.271198,36.121048",
     "geom:latitude":36.121048,
     "geom:longitude":-80.271198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Tartan Ct",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303428851,
-    "wof:lastmodified":1449000400,
+    "wof:lastmodified":1466649487,
     "wof:name":"Current Winds Corporation",
     "wof:parent_id":85881835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.271198,36.121048,-80.271198,36.121048],
+  "bbox": [
+    -80.271198,
+    36.121048,
+    -80.271198,
+    36.121048
+],
   "geometry": {"coordinates":[-80.271198,36.121048],"type":"Point"}
 }

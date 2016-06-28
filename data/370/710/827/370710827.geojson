@@ -2,13 +2,14 @@
   "id": 370710827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.968865,35.948584,-78.968865,35.948584",
     "geom:latitude":35.948584,
     "geom:longitude":-78.968865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4148 Old Chapel Hill Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370710827,
-    "wof:lastmodified":1449029288,
+    "wof:lastmodified":1466655326,
     "wof:name":"Hope Valley Bp",
     "wof:parent_id":85826227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.968865,35.948584,-78.968865,35.948584],
-  "geometry": {"coordinates":[-78.968865,35.948584],"type":"Point"}
+  "bbox": [
+    -78.968865,
+    35.948584,
+    -78.968865,
+    35.948584
+],
+  "geometry": {"coordinates":[-78.96886499999999,35.948584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287070241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.661066,35.748507,-81.661066,35.748507",
     "geom:latitude":35.748507,
     "geom:longitude":-81.661066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 E Fleming Dr",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287070241,
-    "wof:lastmodified":1449001085,
+    "wof:lastmodified":1466644248,
     "wof:name":"Visual Perfection",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-81.661066,35.748507,-81.661066,35.748507],
-  "geometry": {"coordinates":[-81.661066,35.748507],"type":"Point"}
+  "bbox": [
+    -81.661066,
+    35.748507,
+    -81.661066,
+    35.748507
+],
+  "geometry": {"coordinates":[-81.66106600000001,35.748507],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353734699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.289521,36.146479,-80.289521,36.146479",
     "geom:latitude":36.146479,
     "geom:longitude":-80.289521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Silas Creek Pkwy",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353734699,
-    "wof:lastmodified":1449020485,
+    "wof:lastmodified":1466651017,
     "wof:name":"Old Hickory Council",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.289521,36.146479,-80.289521,36.146479],
-  "geometry": {"coordinates":[-80.289521,36.146479],"type":"Point"}
+  "bbox": [
+    -80.289521,
+    36.146479,
+    -80.289521,
+    36.146479
+],
+  "geometry": {"coordinates":[-80.28952099999999,36.146479],"type":"Point"}
 }

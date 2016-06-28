@@ -2,13 +2,14 @@
   "id": 303050605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.587277,35.591209,-82.587277,35.591209",
     "geom:latitude":35.591209,
     "geom:longitude":-82.587277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Clayton Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303050605,
-    "wof:lastmodified":1448999467,
+    "wof:lastmodified":1466643964,
     "wof:name":"Clayton Avenue Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.587277,35.591209,-82.587277,35.591209],
+  "bbox": [
+    -82.587277,
+    35.591209,
+    -82.587277,
+    35.591209
+],
   "geometry": {"coordinates":[-82.587277,35.591209],"type":"Point"}
 }

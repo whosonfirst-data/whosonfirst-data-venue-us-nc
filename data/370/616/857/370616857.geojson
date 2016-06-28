@@ -2,13 +2,14 @@
   "id": 370616857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.619903,33.874295,-78.619903,33.874295",
     "geom:latitude":33.874295,
     "geom:longitude":-78.619903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1444 US Hwy 17",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370616857,
-    "wof:lastmodified":1449031580,
+    "wof:lastmodified":1466654092,
     "wof:name":"Wilcohess",
     "wof:parent_id":85824761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-78.619903,33.874295,-78.619903,33.874295],
-  "geometry": {"coordinates":[-78.619903,33.874295],"type":"Point"}
+  "bbox": [
+    -78.619903,
+    33.874295,
+    -78.619903,
+    33.874295
+],
+  "geometry": {"coordinates":[-78.61990299999999,33.874295],"type":"Point"}
 }

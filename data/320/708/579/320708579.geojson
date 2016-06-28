@@ -2,13 +2,14 @@
   "id": 320708579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.765228,35.150591,-80.765228,35.150591",
     "geom:latitude":35.150591,
     "geom:longitude":-80.765228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7045 Burlwood Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320708579,
-    "wof:lastmodified":1449011837,
+    "wof:lastmodified":1466655374,
     "wof:name":"Bob Algozzine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-80.765228,35.150591,-80.765228,35.150591],
-  "geometry": {"coordinates":[-80.765228,35.150591],"type":"Point"}
+  "bbox": [
+    -80.765228,
+    35.150591,
+    -80.765228,
+    35.150591
+],
+  "geometry": {"coordinates":[-80.76522799999999,35.150591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219193163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.433833,34.781362,-77.433833,34.781362",
     "geom:latitude":34.781362,
     "geom:longitude":-77.433833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Townsend Pl",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219193163,
-    "wof:lastmodified":1449070960,
+    "wof:lastmodified":1466655335,
     "wof:name":"Crawley John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pharmacy"
     ]
 },
-  "bbox": [-77.433833,34.781362,-77.433833,34.781362],
-  "geometry": {"coordinates":[-77.433833,34.781362],"type":"Point"}
+  "bbox": [
+    -77.433833,
+    34.781362,
+    -77.433833,
+    34.781362
+],
+  "geometry": {"coordinates":[-77.43383300000001,34.781362],"type":"Point"}
 }

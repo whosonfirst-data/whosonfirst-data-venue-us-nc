@@ -2,13 +2,14 @@
   "id": 387034491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.688255,35.745327,-81.688255,35.745327",
     "geom:latitude":35.745327,
     "geom:longitude":-81.688255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 W Union St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387034491,
-    "wof:lastmodified":1449056531,
+    "wof:lastmodified":1466650311,
     "wof:name":"Mental Health Assn In NC",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-81.688255,35.745327,-81.688255,35.745327],
+  "bbox": [
+    -81.688255,
+    35.745327,
+    -81.688255,
+    35.745327
+],
   "geometry": {"coordinates":[-81.688255,35.745327],"type":"Point"}
 }

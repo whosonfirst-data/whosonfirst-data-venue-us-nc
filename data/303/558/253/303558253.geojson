@@ -2,13 +2,14 @@
   "id": 303558253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.384543,36.029368,-80.384543,36.029368",
     "geom:latitude":36.029368,
     "geom:longitude":-80.384543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Neudorf Rd",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303558253,
-    "wof:lastmodified":1448998777,
+    "wof:lastmodified":1466651354,
     "wof:name":"Wedding Designs",
     "wof:parent_id":85845791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.384543,36.029368,-80.384543,36.029368],
-  "geometry": {"coordinates":[-80.384543,36.029368],"type":"Point"}
+  "bbox": [
+    -80.384543,
+    36.029368,
+    -80.384543,
+    36.029368
+],
+  "geometry": {"coordinates":[-80.38454299999999,36.029368],"type":"Point"}
 }

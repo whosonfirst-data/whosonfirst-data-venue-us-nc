@@ -2,13 +2,14 @@
   "id": 370419413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.696841,36.11734,-79.696841,36.11734",
     "geom:latitude":36.11734,
     "geom:longitude":-79.696841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4259 Camp Burton Rd",
     "sg:city":"Mc Leansville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370419413,
-    "wof:lastmodified":1449032402,
+    "wof:lastmodified":1466651524,
     "wof:name":"Transportation Resident Engr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.696841,36.11734,-79.696841,36.11734],
-  "geometry": {"coordinates":[-79.696841,36.11734],"type":"Point"}
+  "bbox": [
+    -79.696841,
+    36.11734,
+    -79.696841,
+    36.11734
+],
+  "geometry": {"coordinates":[-79.69684100000001,36.11734],"type":"Point"}
 }

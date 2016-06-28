@@ -2,13 +2,14 @@
   "id": 303303815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.551223,35.582028,-82.551223,35.582028",
     "geom:latitude":35.582028,
     "geom:longitude":-82.551223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 Biltmore Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303303815,
-    "wof:lastmodified":1448998141,
+    "wof:lastmodified":1466647724,
     "wof:name":"Pediatric Services Of America",
     "wof:parent_id":85830137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.551223,35.582028,-82.551223,35.582028],
-  "geometry": {"coordinates":[-82.551223,35.582028],"type":"Point"}
+  "bbox": [
+    -82.551223,
+    35.582028,
+    -82.551223,
+    35.582028
+],
+  "geometry": {"coordinates":[-82.55122299999999,35.582028],"type":"Point"}
 }

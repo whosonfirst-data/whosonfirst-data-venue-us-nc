@@ -2,13 +2,14 @@
   "id": 319988789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.229655,36.004169,-80.229655,36.004169",
     "geom:latitude":36.004169,
     "geom:longitude":-80.229655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5132 S Main St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319988789,
-    "wof:lastmodified":1449024339,
+    "wof:lastmodified":1466647302,
     "wof:name":"South Main Superette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-80.229655,36.004169,-80.229655,36.004169],
-  "geometry": {"coordinates":[-80.229655,36.004169],"type":"Point"}
+  "bbox": [
+    -80.229655,
+    36.004169,
+    -80.229655,
+    36.004169
+],
+  "geometry": {"coordinates":[-80.22965499999999,36.004169],"type":"Point"}
 }

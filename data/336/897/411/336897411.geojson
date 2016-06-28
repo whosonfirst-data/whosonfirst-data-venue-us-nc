@@ -2,13 +2,14 @@
   "id": 336897411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.942135,35.723141,-77.942135,35.723141",
     "geom:latitude":35.723141,
     "geom:longitude":-77.942135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Medical Park Dr",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336897411,
-    "wof:lastmodified":1448997859,
+    "wof:lastmodified":1466650380,
     "wof:name":"Interim Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-77.942135,35.723141,-77.942135,35.723141],
-  "geometry": {"coordinates":[-77.942135,35.723141],"type":"Point"}
+  "bbox": [
+    -77.942135,
+    35.723141,
+    -77.942135,
+    35.723141
+],
+  "geometry": {"coordinates":[-77.94213499999999,35.723141],"type":"Point"}
 }

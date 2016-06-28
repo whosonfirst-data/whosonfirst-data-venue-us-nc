@@ -2,13 +2,14 @@
   "id": 236430139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.922739,34.282007,-77.922739,34.282007",
     "geom:latitude":34.282007,
     "geom:longitude":-77.922739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Castle Hayne Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236430139,
-    "wof:lastmodified":1449003813,
+    "wof:lastmodified":1466646993,
     "wof:name":"Anchor Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.922739,34.282007,-77.922739,34.282007],
-  "geometry": {"coordinates":[-77.922739,34.282007],"type":"Point"}
+  "bbox": [
+    -77.922739,
+    34.282007,
+    -77.922739,
+    34.282007
+],
+  "geometry": {"coordinates":[-77.92273900000001,34.282007],"type":"Point"}
 }

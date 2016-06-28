@@ -2,13 +2,14 @@
   "id": 320826373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.476497,35.357013,-82.476497,35.357013",
     "geom:latitude":35.357013,
     "geom:longitude":-82.476497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3290 Asheville Hwy",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320826373,
-    "wof:lastmodified":1449013968,
+    "wof:lastmodified":1466656728,
     "wof:name":"Country Market",
     "wof:parent_id":85809269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.476497,35.357013,-82.476497,35.357013],
-  "geometry": {"coordinates":[-82.476497,35.357013],"type":"Point"}
+  "bbox": [
+    -82.476497,
+    35.357013,
+    -82.476497,
+    35.357013
+],
+  "geometry": {"coordinates":[-82.47649699999999,35.357013],"type":"Point"}
 }

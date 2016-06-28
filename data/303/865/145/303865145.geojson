@@ -2,13 +2,14 @@
   "id": 303865145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.617005,35.809361,-78.617005,35.809361",
     "geom:latitude":35.809361,
     "geom:longitude":-78.617005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Wicker Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303865145,
-    "wof:lastmodified":1448999965,
+    "wof:lastmodified":1466655820,
     "wof:name":"Wake County Board Of Alcoholic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.617005,35.809361,-78.617005,35.809361],
-  "geometry": {"coordinates":[-78.617005,35.809361],"type":"Point"}
+  "bbox": [
+    -78.617005,
+    35.809361,
+    -78.617005,
+    35.809361
+],
+  "geometry": {"coordinates":[-78.61700500000001,35.809361],"type":"Point"}
 }

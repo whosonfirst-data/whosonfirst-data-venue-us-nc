@@ -2,13 +2,14 @@
   "id": 370335037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.523283,35.915544,-81.523283,35.915544",
     "geom:latitude":35.915544,
     "geom:longitude":-81.523283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 ABC Ct NE",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370335037,
-    "wof:lastmodified":1449031311,
+    "wof:lastmodified":1466650451,
     "wof:name":"Lenoir ABC Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.523283,35.915544,-81.523283,35.915544],
-  "geometry": {"coordinates":[-81.523283,35.915544],"type":"Point"}
+  "bbox": [
+    -81.523283,
+    35.915544,
+    -81.523283,
+    35.915544
+],
+  "geometry": {"coordinates":[-81.52328300000001,35.915544],"type":"Point"}
 }

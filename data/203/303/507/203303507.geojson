@@ -2,13 +2,14 @@
   "id": 203303507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.804279,35.810521,-78.804279,35.810521",
     "geom:latitude":35.810521,
     "geom:longitude":-78.804279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Rosenberry Hills Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203303507,
-    "wof:lastmodified":1449024950,
+    "wof:lastmodified":1466643269,
     "wof:name":"Global Spec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.804279,35.810521,-78.804279,35.810521],
-  "geometry": {"coordinates":[-78.804279,35.810521],"type":"Point"}
+  "bbox": [
+    -78.804279,
+    35.810521,
+    -78.804279,
+    35.810521
+],
+  "geometry": {"coordinates":[-78.80427899999999,35.810521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236080183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.356006,35.787105,-78.356006,35.787105",
     "geom:latitude":35.787105,
     "geom:longitude":-78.356006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4320 Wendell Blvd",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236080183,
-    "wof:lastmodified":1449005138,
+    "wof:lastmodified":1466643943,
     "wof:name":"Land Services Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.356006,35.787105,-78.356006,35.787105],
-  "geometry": {"coordinates":[-78.356006,35.787105],"type":"Point"}
+  "bbox": [
+    -78.356006,
+    35.787105,
+    -78.356006,
+    35.787105
+],
+  "geometry": {"coordinates":[-78.35600599999999,35.787105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353710815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.903793,35.997131,-78.903793,35.997131",
     "geom:latitude":35.997131,
     "geom:longitude":-78.903793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Morris St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353710815,
-    "wof:lastmodified":1449018413,
+    "wof:lastmodified":1466650743,
     "wof:name":"Scott Tailors Inc",
     "wof:parent_id":85877139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-78.903793,35.997131,-78.903793,35.997131],
-  "geometry": {"coordinates":[-78.903793,35.997131],"type":"Point"}
+  "bbox": [
+    -78.903793,
+    35.997131,
+    -78.903793,
+    35.997131
+],
+  "geometry": {"coordinates":[-78.90379299999999,35.997131],"type":"Point"}
 }

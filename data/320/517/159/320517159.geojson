@@ -2,13 +2,14 @@
   "id": 320517159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.96214,35.762498,-77.96214,35.762498",
     "geom:latitude":35.762498,
     "geom:longitude":-77.96214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 Airport Dr",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320517159,
-    "wof:lastmodified":1449013389,
+    "wof:lastmodified":1466652617,
     "wof:name":"Wilson County Animal Shelter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.96214,35.762498,-77.96214,35.762498],
-  "geometry": {"coordinates":[-77.96214,35.762498],"type":"Point"}
+  "bbox": [
+    -77.96214,
+    35.762498,
+    -77.96214,
+    35.762498
+],
+  "geometry": {"coordinates":[-77.96214000000001,35.762498],"type":"Point"}
 }

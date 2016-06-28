@@ -2,13 +2,14 @@
   "id": 220169533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.854482,35.050667,-80.854482,35.050667",
     "geom:latitude":35.050667,
     "geom:longitude":-80.854482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11315 Catherines Mine Cir",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220169533,
-    "wof:lastmodified":1449074526,
+    "wof:lastmodified":1466644553,
     "wof:name":"Southeast Psychiatrists",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.854482,35.050667,-80.854482,35.050667],
+  "bbox": [
+    -80.854482,
+    35.050667,
+    -80.854482,
+    35.050667
+],
   "geometry": {"coordinates":[-80.854482,35.050667],"type":"Point"}
 }

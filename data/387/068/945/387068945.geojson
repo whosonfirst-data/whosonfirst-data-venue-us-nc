@@ -2,13 +2,14 @@
   "id": 387068945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.124832,35.318892,-77.124832,35.318892",
     "geom:latitude":35.318892,
     "geom:longitude":-77.124832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Alligator Rd",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387068945,
-    "wof:lastmodified":1449058064,
+    "wof:lastmodified":1466650749,
     "wof:name":"Correction Dept",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.124832,35.318892,-77.124832,35.318892],
+  "bbox": [
+    -77.124832,
+    35.318892,
+    -77.124832,
+    35.318892
+],
   "geometry": {"coordinates":[-77.124832,35.318892],"type":"Point"}
 }

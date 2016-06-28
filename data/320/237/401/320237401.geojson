@@ -2,13 +2,14 @@
   "id": 320237401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.858449,35.306396,-81.858449,35.306396",
     "geom:latitude":35.306396,
     "geom:longitude":-81.858449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 S Broadway St",
     "sg:city":"Forest City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320237401,
-    "wof:lastmodified":1449011352,
+    "wof:lastmodified":1466648616,
     "wof:name":"City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "combined"
     ]
 },
-  "bbox": [-81.858449,35.306396,-81.858449,35.306396],
-  "geometry": {"coordinates":[-81.858449,35.306396],"type":"Point"}
+  "bbox": [
+    -81.858449,
+    35.306396,
+    -81.858449,
+    35.306396
+],
+  "geometry": {"coordinates":[-81.85844899999999,35.306396],"type":"Point"}
 }

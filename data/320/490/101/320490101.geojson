@@ -2,13 +2,14 @@
   "id": 320490101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.733202,36.480254,-79.733202,36.480254",
     "geom:latitude":36.480254,
     "geom:longitude":-79.733202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Oak Ridge Dr",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320490101,
-    "wof:lastmodified":1449014583,
+    "wof:lastmodified":1466652214,
     "wof:name":"Morningside LLC",
     "wof:parent_id":85805077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "closed"
     ]
 },
-  "bbox": [-79.733202,36.480254,-79.733202,36.480254],
-  "geometry": {"coordinates":[-79.733202,36.480254],"type":"Point"}
+  "bbox": [
+    -79.733202,
+    36.480254,
+    -79.733202,
+    36.480254
+],
+  "geometry": {"coordinates":[-79.73320200000001,36.480254],"type":"Point"}
 }

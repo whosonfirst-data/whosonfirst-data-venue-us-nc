@@ -2,13 +2,14 @@
   "id": 303654759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255585,35.825783,-80.255585,35.825783",
     "geom:latitude":35.825783,
     "geom:longitude":-80.255585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 W Center St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303654759,
-    "wof:lastmodified":1448998938,
+    "wof:lastmodified":1466652762,
     "wof:name":"Leonard & Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.255585,35.825783,-80.255585,35.825783],
+  "bbox": [
+    -80.255585,
+    35.825783,
+    -80.255585,
+    35.825783
+],
   "geometry": {"coordinates":[-80.255585,35.825783],"type":"Point"}
 }

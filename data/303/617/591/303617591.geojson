@@ -2,13 +2,14 @@
   "id": 303617591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.201863,35.350375,-80.201863,35.350375",
     "geom:latitude":35.350375,
     "geom:longitude":-80.201863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 W Main St",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303617591,
-    "wof:lastmodified":1448998201,
+    "wof:lastmodified":1466652215,
     "wof:name":"Proctor Installation Svc",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.201863,35.350375,-80.201863,35.350375],
+  "bbox": [
+    -80.201863,
+    35.350375,
+    -80.201863,
+    35.350375
+],
   "geometry": {"coordinates":[-80.201863,35.350375],"type":"Point"}
 }

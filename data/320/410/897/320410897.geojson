@@ -2,13 +2,14 @@
   "id": 320410897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.560504,35.893595,-78.560504,35.893595",
     "geom:latitude":35.893595,
     "geom:longitude":-78.560504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8800 Durant Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320410897,
-    "wof:lastmodified":1449011310,
+    "wof:lastmodified":1466651083,
     "wof:name":"Tyco Healthcare Mallinckrodt",
     "wof:parent_id":85836543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.560504,35.893595,-78.560504,35.893595],
-  "geometry": {"coordinates":[-78.560504,35.893595],"type":"Point"}
+  "bbox": [
+    -78.560504,
+    35.893595,
+    -78.560504,
+    35.893595
+],
+  "geometry": {"coordinates":[-78.56050399999999,35.893595],"type":"Point"}
 }

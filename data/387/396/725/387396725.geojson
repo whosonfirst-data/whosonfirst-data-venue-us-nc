@@ -2,13 +2,14 @@
   "id": 387396725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.338924,35.64217,-77.338924,35.64217",
     "geom:latitude":35.64217,
     "geom:longitude":-77.338924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1842 Progress Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387396725,
-    "wof:lastmodified":1449058606,
+    "wof:lastmodified":1466655071,
     "wof:name":"Halco Construction Inc",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.338924,35.64217,-77.338924,35.64217],
-  "geometry": {"coordinates":[-77.338924,35.64217],"type":"Point"}
+  "bbox": [
+    -77.338924,
+    35.64217,
+    -77.338924,
+    35.64217
+],
+  "geometry": {"coordinates":[-77.33892400000001,35.64217],"type":"Point"}
 }

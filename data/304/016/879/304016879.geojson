@@ -2,13 +2,14 @@
   "id": 304016879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.623854,35.861081,-78.623854,35.861081",
     "geom:latitude":35.861081,
     "geom:longitude":-78.623854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Bend Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304016879,
-    "wof:lastmodified":1449043650,
+    "wof:lastmodified":1466644399,
     "wof:name":"Jean Claudes French Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cafe"
     ]
 },
-  "bbox": [-78.623854,35.861081,-78.623854,35.861081],
-  "geometry": {"coordinates":[-78.623854,35.861081],"type":"Point"}
+  "bbox": [
+    -78.623854,
+    35.861081,
+    -78.623854,
+    35.861081
+],
+  "geometry": {"coordinates":[-78.62385399999999,35.861081],"type":"Point"}
 }

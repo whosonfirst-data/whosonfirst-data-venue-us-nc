@@ -2,13 +2,14 @@
   "id": 403703605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.364378,36.208371,-76.364378,36.208371",
     "geom:latitude":36.208371,
     "geom:longitude":-76.364378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 Woodland Church Rd",
     "sg:city":"Hertford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403703605,
-    "wof:lastmodified":1449055048,
+    "wof:lastmodified":1466650342,
     "wof:name":"Woodland United Methodist Chr",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-76.364378,36.208371,-76.364378,36.208371],
+  "bbox": [
+    -76.364378,
+    36.208371,
+    -76.364378,
+    36.208371
+],
   "geometry": {"coordinates":[-76.364378,36.208371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270052745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.662895,35.791775,-78.662895,35.791775",
     "geom:latitude":35.791775,
     "geom:longitude":-78.662895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Oberlin Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270052745,
-    "wof:lastmodified":1449009738,
+    "wof:lastmodified":1466643813,
     "wof:name":"Carolina Asphalt Pavement Assn",
     "wof:parent_id":85892143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.662895,35.791775,-78.662895,35.791775],
-  "geometry": {"coordinates":[-78.662895,35.791775],"type":"Point"}
+  "bbox": [
+    -78.662895,
+    35.791775,
+    -78.662895,
+    35.791775
+],
+  "geometry": {"coordinates":[-78.66289500000001,35.791775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320512767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.96917,36.075168,-77.96917,36.075168",
     "geom:latitude":36.075168,
     "geom:longitude":-77.96917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8967 Cedar Grove School Loop Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320512767,
-    "wof:lastmodified":1449013973,
+    "wof:lastmodified":1466652550,
     "wof:name":"Cedar Grove Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.96917,36.075168,-77.96917,36.075168],
-  "geometry": {"coordinates":[-77.96917,36.075168],"type":"Point"}
+  "bbox": [
+    -77.96917,
+    36.075168,
+    -77.96917,
+    36.075168
+],
+  "geometry": {"coordinates":[-77.96917000000001,36.075168],"type":"Point"}
 }

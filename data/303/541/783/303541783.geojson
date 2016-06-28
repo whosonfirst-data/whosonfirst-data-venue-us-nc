@@ -2,13 +2,14 @@
   "id": 303541783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.332026,35.637222,-77.332026,35.637222",
     "geom:latitude":35.637222,
     "geom:longitude":-77.332026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 Greenville Blvd NE",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303541783,
-    "wof:lastmodified":1448998390,
+    "wof:lastmodified":1466651119,
     "wof:name":"Corbett & Strickland Metal",
     "wof:parent_id":85824139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "metal"
     ]
 },
-  "bbox": [-77.332026,35.637222,-77.332026,35.637222],
+  "bbox": [
+    -77.332026,
+    35.637222,
+    -77.332026,
+    35.637222
+],
   "geometry": {"coordinates":[-77.332026,35.637222],"type":"Point"}
 }

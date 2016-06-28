@@ -2,13 +2,14 @@
   "id": 303811225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.444223,35.763264,-78.444223,35.763264",
     "geom:latitude":35.763264,
     "geom:longitude":-78.444223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Windward Psge",
     "sg:city":"Knightdale",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303811225,
-    "wof:lastmodified":1448999295,
+    "wof:lastmodified":1466655027,
     "wof:name":"VIP Pet Sitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sitting"
     ]
 },
-  "bbox": [-78.444223,35.763264,-78.444223,35.763264],
-  "geometry": {"coordinates":[-78.444223,35.763264],"type":"Point"}
+  "bbox": [
+    -78.444223,
+    35.763264,
+    -78.444223,
+    35.763264
+],
+  "geometry": {"coordinates":[-78.44422299999999,35.763264],"type":"Point"}
 }

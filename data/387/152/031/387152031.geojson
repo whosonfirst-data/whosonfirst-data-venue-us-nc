@@ -2,13 +2,14 @@
   "id": 387152031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.188245,35.349086,-80.188245,35.349086",
     "geom:latitude":35.349086,
     "geom:longitude":-80.188245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Elizabeth Ave",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387152031,
-    "wof:lastmodified":1449059033,
+    "wof:lastmodified":1466651833,
     "wof:name":"Elwood Temple 1307",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.188245,35.349086,-80.188245,35.349086],
-  "geometry": {"coordinates":[-80.188245,35.349086],"type":"Point"}
+  "bbox": [
+    -80.188245,
+    35.349086,
+    -80.188245,
+    35.349086
+],
+  "geometry": {"coordinates":[-80.18824499999999,35.349086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186582607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.545324,35.583801,-82.545324,35.583801",
     "geom:latitude":35.583801,
     "geom:longitude":-82.545324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Windswept Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186582607,
-    "wof:lastmodified":1449051823,
+    "wof:lastmodified":1466654815,
     "wof:name":"Asheville Sewing Machine",
     "wof:parent_id":85830137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-82.545324,35.583801,-82.545324,35.583801],
-  "geometry": {"coordinates":[-82.545324,35.583801],"type":"Point"}
+  "bbox": [
+    -82.545324,
+    35.583801,
+    -82.545324,
+    35.583801
+],
+  "geometry": {"coordinates":[-82.54532399999999,35.583801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387337247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.238407,35.208819,-82.238407,35.208819",
     "geom:latitude":35.208819,
     "geom:longitude":-82.238407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Trade St",
     "sg:city":"Tryon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387337247,
-    "wof:lastmodified":1449057888,
+    "wof:lastmodified":1466654300,
     "wof:name":"Pioneer Medical Billing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-82.238407,35.208819,-82.238407,35.208819],
+  "bbox": [
+    -82.238407,
+    35.208819,
+    -82.238407,
+    35.208819
+],
   "geometry": {"coordinates":[-82.238407,35.208819],"type":"Point"}
 }

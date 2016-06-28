@@ -2,13 +2,14 @@
   "id": 403992241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.733505,35.822914,-78.733505,35.822914",
     "geom:latitude":35.822914,
     "geom:longitude":-78.733505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2213 Windy Woods Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403992241,
-    "wof:lastmodified":1449055253,
+    "wof:lastmodified":1466654094,
     "wof:name":"Troxler Geologic Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ecological"
     ]
 },
-  "bbox": [-78.733505,35.822914,-78.733505,35.822914],
-  "geometry": {"coordinates":[-78.733505,35.822914],"type":"Point"}
+  "bbox": [
+    -78.733505,
+    35.822914,
+    -78.733505,
+    35.822914
+],
+  "geometry": {"coordinates":[-78.73350499999999,35.822914],"type":"Point"}
 }

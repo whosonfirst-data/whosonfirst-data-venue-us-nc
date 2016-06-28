@@ -2,13 +2,14 @@
   "id": 220143785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.344757,35.676391,-77.344757,35.676391",
     "geom:latitude":35.676391,
     "geom:longitude":-77.344757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 State Hwy 903 N",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220143785,
-    "wof:lastmodified":1449074724,
+    "wof:lastmodified":1466644338,
     "wof:name":"COGIC",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.344757,35.676391,-77.344757,35.676391],
+  "bbox": [
+    -77.344757,
+    35.676391,
+    -77.344757,
+    35.676391
+],
   "geometry": {"coordinates":[-77.344757,35.676391],"type":"Point"}
 }

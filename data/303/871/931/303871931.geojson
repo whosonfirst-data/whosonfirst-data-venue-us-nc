@@ -2,13 +2,14 @@
   "id": 303871931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.370545,35.635828,-77.370545,35.635828",
     "geom:latitude":35.635828,
     "geom:longitude":-77.370545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 N Greene St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303871931,
-    "wof:lastmodified":1448998921,
+    "wof:lastmodified":1466655885,
     "wof:name":"Rogers Auto Sales & Body Shop",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.370545,35.635828,-77.370545,35.635828],
-  "geometry": {"coordinates":[-77.370545,35.635828],"type":"Point"}
+  "bbox": [
+    -77.370545,
+    35.635828,
+    -77.370545,
+    35.635828
+],
+  "geometry": {"coordinates":[-77.37054500000001,35.635828],"type":"Point"}
 }

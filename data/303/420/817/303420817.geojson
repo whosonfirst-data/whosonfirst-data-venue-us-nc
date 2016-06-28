@@ -2,13 +2,14 @@
   "id": 303420817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.883418,34.103375,-77.883418,34.103375",
     "geom:latitude":34.103375,
     "geom:longitude":-77.883418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 SE Harbor Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303420817,
-    "wof:lastmodified":1448999290,
+    "wof:lastmodified":1466649374,
     "wof:name":"Patsy L Racine",
     "wof:parent_id":85822927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.883418,34.103375,-77.883418,34.103375],
-  "geometry": {"coordinates":[-77.883418,34.103375],"type":"Point"}
+  "bbox": [
+    -77.883418,
+    34.103375,
+    -77.883418,
+    34.103375
+],
+  "geometry": {"coordinates":[-77.88341800000001,34.103375],"type":"Point"}
 }

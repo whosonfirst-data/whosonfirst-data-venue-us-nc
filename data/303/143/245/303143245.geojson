@@ -2,13 +2,14 @@
   "id": 303143245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.954152,36.407049,-79.954152,36.407049",
     "geom:latitude":36.407049,
     "geom:longitude":-79.954152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Cardwell Rd",
     "sg:city":"Mayodan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303143245,
-    "wof:lastmodified":1449000148,
+    "wof:lastmodified":1466645367,
     "wof:name":"Power Generation and Dist Inc",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-79.954152,36.407049,-79.954152,36.407049],
-  "geometry": {"coordinates":[-79.954152,36.407049],"type":"Point"}
+  "bbox": [
+    -79.954152,
+    36.407049,
+    -79.954152,
+    36.407049
+],
+  "geometry": {"coordinates":[-79.95415199999999,36.407049],"type":"Point"}
 }

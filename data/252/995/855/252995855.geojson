@@ -2,13 +2,14 @@
   "id": 252995855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.027352,35.865414,-81.027352,35.865414",
     "geom:latitude":35.865414,
     "geom:longitude":-81.027352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Stikeleather Rd",
     "sg:city":"Stony Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252995855,
-    "wof:lastmodified":1449006397,
+    "wof:lastmodified":1466645829,
     "wof:name":"Dellinger Farms",
     "wof:parent_id":85835015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chicken"
     ]
 },
-  "bbox": [-81.027352,35.865414,-81.027352,35.865414],
-  "geometry": {"coordinates":[-81.027352,35.865414],"type":"Point"}
+  "bbox": [
+    -81.027352,
+    35.865414,
+    -81.027352,
+    35.865414
+],
+  "geometry": {"coordinates":[-81.02735199999999,35.865414],"type":"Point"}
 }

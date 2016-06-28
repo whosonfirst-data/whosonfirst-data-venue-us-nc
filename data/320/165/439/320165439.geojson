@@ -2,13 +2,14 @@
   "id": 320165439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.551285,35.593828,-82.551285,35.593828",
     "geom:latitude":35.593828,
     "geom:longitude":-82.551285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Biltmore Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320165439,
-    "wof:lastmodified":1449014973,
+    "wof:lastmodified":1466647616,
     "wof:name":"Old North State Clothing Co",
     "wof:parent_id":85830137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.551285,35.593828,-82.551285,35.593828],
-  "geometry": {"coordinates":[-82.551285,35.593828],"type":"Point"}
+  "bbox": [
+    -82.551285,
+    35.593828,
+    -82.551285,
+    35.593828
+],
+  "geometry": {"coordinates":[-82.55128499999999,35.593828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303898687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.080325,35.855468,-79.080325,35.855468",
     "geom:latitude":35.855468,
     "geom:longitude":-79.080325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Meadow Run Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303898687,
-    "wof:lastmodified":1448998065,
+    "wof:lastmodified":1466656164,
     "wof:name":"Garden Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-79.080325,35.855468,-79.080325,35.855468],
+  "bbox": [
+    -79.080325,
+    35.855468,
+    -79.080325,
+    35.855468
+],
   "geometry": {"coordinates":[-79.080325,35.855468],"type":"Point"}
 }

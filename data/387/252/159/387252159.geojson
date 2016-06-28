@@ -2,13 +2,14 @@
   "id": 387252159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.736882,35.264094,-80.736882,35.264094",
     "geom:latitude":35.264094,
     "geom:longitude":-80.736882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2313 Ginger Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387252159,
-    "wof:lastmodified":1449056606,
+    "wof:lastmodified":1466653189,
     "wof:name":"A D Cleaning Svc",
     "wof:parent_id":85836799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.736882,35.264094,-80.736882,35.264094],
-  "geometry": {"coordinates":[-80.736882,35.264094],"type":"Point"}
+  "bbox": [
+    -80.736882,
+    35.264094,
+    -80.736882,
+    35.264094
+],
+  "geometry": {"coordinates":[-80.73688199999999,35.264094],"type":"Point"}
 }

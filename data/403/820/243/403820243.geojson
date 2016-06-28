@@ -2,13 +2,14 @@
   "id": 403820243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.974501,36.4013,-79.974501,36.4013",
     "geom:latitude":36.4013,
     "geom:longitude":-79.974501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 Ayersville Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403820243,
-    "wof:lastmodified":1449055335,
+    "wof:lastmodified":1466651857,
     "wof:name":"Morehead Specialty Ctr",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-79.974501,36.4013,-79.974501,36.4013],
+  "bbox": [
+    -79.974501,
+    36.4013,
+    -79.974501,
+    36.4013
+],
   "geometry": {"coordinates":[-79.974501,36.4013],"type":"Point"}
 }

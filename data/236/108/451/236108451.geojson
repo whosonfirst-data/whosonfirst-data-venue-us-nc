@@ -2,13 +2,14 @@
   "id": 236108451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.053347,36.053091,-79.053347,36.053091",
     "geom:latitude":36.053091,
     "geom:longitude":-79.053347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Piney Grove Church Rd",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236108451,
-    "wof:lastmodified":1449001723,
+    "wof:lastmodified":1466644187,
     "wof:name":"Peter Hoyt Inc",
     "wof:parent_id":85807487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-79.053347,36.053091,-79.053347,36.053091],
+  "bbox": [
+    -79.053347,
+    36.053091,
+    -79.053347,
+    36.053091
+],
   "geometry": {"coordinates":[-79.053347,36.053091],"type":"Point"}
 }

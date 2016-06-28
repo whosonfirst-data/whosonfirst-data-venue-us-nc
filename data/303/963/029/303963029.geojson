@@ -2,13 +2,14 @@
   "id": 303963029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.767783,36.20002,-76.767783,36.20002",
     "geom:latitude":36.20002,
     "geom:longitude":-76.767783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 S Main St",
     "sg:city":"Colerain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303963029,
-    "wof:lastmodified":1448998354,
+    "wof:lastmodified":1466656800,
     "wof:name":"Country Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-76.767783,36.20002,-76.767783,36.20002],
-  "geometry": {"coordinates":[-76.767783,36.20002],"type":"Point"}
+  "bbox": [
+    -76.767783,
+    36.20002,
+    -76.767783,
+    36.20002
+],
+  "geometry": {"coordinates":[-76.76778299999999,36.20002],"type":"Point"}
 }

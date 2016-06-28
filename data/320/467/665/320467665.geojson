@@ -2,13 +2,14 @@
   "id": 320467665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.931103,36.037646,-78.931103,36.037646",
     "geom:latitude":36.037646,
     "geom:longitude":-78.931103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2703 Carver St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320467665,
-    "wof:lastmodified":1449014165,
+    "wof:lastmodified":1466651891,
     "wof:name":"Carver Street Animal Hospital",
     "wof:parent_id":85877173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veterinary"
     ]
 },
-  "bbox": [-78.931103,36.037646,-78.931103,36.037646],
-  "geometry": {"coordinates":[-78.931103,36.037646],"type":"Point"}
+  "bbox": [
+    -78.931103,
+    36.037646,
+    -78.931103,
+    36.037646
+],
+  "geometry": {"coordinates":[-78.93110299999999,36.037646],"type":"Point"}
 }

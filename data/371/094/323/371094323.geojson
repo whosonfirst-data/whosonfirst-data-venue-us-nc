@@ -2,13 +2,14 @@
   "id": 371094323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.0473,35.862788,-81.0473,35.862788",
     "geom:latitude":35.862788,
     "geom:longitude":-81.0473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8784 State Hwy 90",
     "sg:city":"Stony Point",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371094323,
-    "wof:lastmodified":1449049696,
+    "wof:lastmodified":1466650004,
     "wof:name":"Watts & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.0473,35.862788,-81.0473,35.862788],
-  "geometry": {"coordinates":[-81.0473,35.862788],"type":"Point"}
+  "bbox": [
+    -81.0473,
+    35.862788,
+    -81.0473,
+    35.862788
+],
+  "geometry": {"coordinates":[-81.04730000000001,35.862788],"type":"Point"}
 }

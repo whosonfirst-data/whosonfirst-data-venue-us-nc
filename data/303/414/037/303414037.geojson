@@ -2,13 +2,14 @@
   "id": 303414037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.124018,35.595122,-78.124018,35.595122",
     "geom:latitude":35.595122,
     "geom:longitude":-78.124018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W 2nd St",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303414037,
-    "wof:lastmodified":1448999262,
+    "wof:lastmodified":1466649274,
     "wof:name":"Goldcraft Jewelers",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-78.124018,35.595122,-78.124018,35.595122],
-  "geometry": {"coordinates":[-78.124018,35.595122],"type":"Point"}
+  "bbox": [
+    -78.124018,
+    35.595122,
+    -78.124018,
+    35.595122
+],
+  "geometry": {"coordinates":[-78.12401800000001,35.595122],"type":"Point"}
 }

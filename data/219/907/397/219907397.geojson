@@ -2,13 +2,14 @@
   "id": 219907397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.380589,34.751961,-77.380589,34.751961",
     "geom:latitude":34.751961,
     "geom:longitude":-77.380589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Western Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219907397,
-    "wof:lastmodified":1449073641,
+    "wof:lastmodified":1466648046,
     "wof:name":"Eastern Edge Surf & Sound",
     "wof:parent_id":85808245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surfboard"
     ]
 },
-  "bbox": [-77.380589,34.751961,-77.380589,34.751961],
+  "bbox": [
+    -77.380589,
+    34.751961,
+    -77.380589,
+    34.751961
+],
   "geometry": {"coordinates":[-77.380589,34.751961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270405645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.924214,35.049295,-78.924214,35.049295",
     "geom:latitude":35.049295,
     "geom:longitude":-78.924214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"572 Executive Pl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270405645,
-    "wof:lastmodified":1449010884,
+    "wof:lastmodified":1466648205,
     "wof:name":"Mc Fayden & Sumner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "certified"
     ]
 },
-  "bbox": [-78.924214,35.049295,-78.924214,35.049295],
-  "geometry": {"coordinates":[-78.924214,35.049295],"type":"Point"}
+  "bbox": [
+    -78.924214,
+    35.049295,
+    -78.924214,
+    35.049295
+],
+  "geometry": {"coordinates":[-78.92421400000001,35.049295],"type":"Point"}
 }

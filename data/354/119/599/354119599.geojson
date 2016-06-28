@@ -2,13 +2,14 @@
   "id": 354119599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.43707,34.91757,-80.43707,34.91757",
     "geom:latitude":34.91757,
     "geom:longitude":-80.43707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Edwards Rd",
     "sg:city":"Wingate",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354119599,
-    "wof:lastmodified":1449067175,
+    "wof:lastmodified":1466648942,
     "wof:name":"Griffin's Grading & Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grading"
     ]
 },
-  "bbox": [-80.43707,34.91757,-80.43707,34.91757],
-  "geometry": {"coordinates":[-80.43707,34.91757],"type":"Point"}
+  "bbox": [
+    -80.43707,
+    34.91757,
+    -80.43707,
+    34.91757
+],
+  "geometry": {"coordinates":[-80.43707000000001,34.91757],"type":"Point"}
 }

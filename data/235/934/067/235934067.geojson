@@ -2,13 +2,14 @@
   "id": 235934067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.891827,35.870164,-78.891827,35.870164",
     "geom:latitude":35.870164,
     "geom:longitude":-78.891827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6515 State Hwy 55",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":235934067,
-    "wof:lastmodified":1449008293,
+    "wof:lastmodified":1466643251,
     "wof:name":"Stone Center Of Carolina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-78.891827,35.870164,-78.891827,35.870164],
-  "geometry": {"coordinates":[-78.891827,35.870164],"type":"Point"}
+  "bbox": [
+    -78.891827,
+    35.870164,
+    -78.891827,
+    35.870164
+],
+  "geometry": {"coordinates":[-78.89182700000001,35.870164],"type":"Point"}
 }

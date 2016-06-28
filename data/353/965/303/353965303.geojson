@@ -2,13 +2,14 @@
   "id": 353965303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.231052,36.006141,-80.231052,36.006141",
     "geom:latitude":36.006141,
     "geom:longitude":-80.231052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Fishel Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353965303,
-    "wof:lastmodified":1449020026,
+    "wof:lastmodified":1466653698,
     "wof:name":"Hutchens Racing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.231052,36.006141,-80.231052,36.006141],
-  "geometry": {"coordinates":[-80.231052,36.006141],"type":"Point"}
+  "bbox": [
+    -80.231052,
+    36.006141,
+    -80.231052,
+    36.006141
+],
+  "geometry": {"coordinates":[-80.23105200000001,36.006141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371102801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248652,36.104099,-80.248652,36.104099",
     "geom:latitude":36.104099,
     "geom:longitude":-80.248652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Cherry St N",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":371102801,
-    "wof:lastmodified":1449050078,
+    "wof:lastmodified":1466650116,
     "wof:name":"Winston-Salem Police Detective",
     "wof:parent_id":85881827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "fire"
     ]
 },
-  "bbox": [-80.248652,36.104099,-80.248652,36.104099],
-  "geometry": {"coordinates":[-80.248652,36.104099],"type":"Point"}
+  "bbox": [
+    -80.248652,
+    36.104099,
+    -80.248652,
+    36.104099
+],
+  "geometry": {"coordinates":[-80.24865200000001,36.104099],"type":"Point"}
 }

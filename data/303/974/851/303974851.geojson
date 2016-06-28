@@ -2,13 +2,14 @@
   "id": 303974851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.939833,35.723811,-77.939833,35.723811",
     "geom:latitude":35.723811,
     "geom:longitude":-77.939833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Parkwood Blvd W",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303974851,
-    "wof:lastmodified":1449000245,
+    "wof:lastmodified":1466656971,
     "wof:name":"Parkwood Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-77.939833,35.723811,-77.939833,35.723811],
-  "geometry": {"coordinates":[-77.939833,35.723811],"type":"Point"}
+  "bbox": [
+    -77.939833,
+    35.723811,
+    -77.939833,
+    35.723811
+],
+  "geometry": {"coordinates":[-77.93983299999999,35.723811],"type":"Point"}
 }

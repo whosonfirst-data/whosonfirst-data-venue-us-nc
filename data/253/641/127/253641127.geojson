@@ -2,13 +2,14 @@
   "id": 253641127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.995192,34.741633,-77.995192,34.741633",
     "geom:latitude":34.741633,
     "geom:longitude":-77.995192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 N Norwood St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253641127,
-    "wof:lastmodified":1449065053,
+    "wof:lastmodified":1466650041,
     "wof:name":"First Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.995192,34.741633,-77.995192,34.741633],
+  "bbox": [
+    -77.995192,
+    34.741633,
+    -77.995192,
+    34.741633
+],
   "geometry": {"coordinates":[-77.995192,34.741633],"type":"Point"}
 }

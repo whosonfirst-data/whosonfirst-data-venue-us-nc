@@ -2,13 +2,14 @@
   "id": 371033213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.500022,35.650561,-80.500022,35.650561",
     "geom:latitude":35.650561,
     "geom:longitude":-80.500022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 S Main St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371033213,
-    "wof:lastmodified":1449049254,
+    "wof:lastmodified":1466649251,
     "wof:name":"Salisbury External",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.500022,35.650561,-80.500022,35.650561],
+  "bbox": [
+    -80.500022,
+    35.650561,
+    -80.500022,
+    35.650561
+],
   "geometry": {"coordinates":[-80.500022,35.650561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354210187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.88881,35.910273,-78.88881,35.910273",
     "geom:latitude":35.910273,
     "geom:longitude":-78.88881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 S Alston Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354210187,
-    "wof:lastmodified":1449066487,
+    "wof:lastmodified":1466650006,
     "wof:name":"James H Eaker DDS",
     "wof:parent_id":85831613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-78.88881,35.910273,-78.88881,35.910273],
-  "geometry": {"coordinates":[-78.88881,35.910273],"type":"Point"}
+  "bbox": [
+    -78.88881,
+    35.910273,
+    -78.88881,
+    35.910273
+],
+  "geometry": {"coordinates":[-78.88881000000001,35.910273],"type":"Point"}
 }

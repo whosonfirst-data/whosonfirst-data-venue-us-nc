@@ -2,13 +2,14 @@
   "id": 303273025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.176866,35.293222,-77.176866,35.293222",
     "geom:latitude":35.293222,
     "geom:longitude":-77.176866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Piney Neck Rd",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303273025,
-    "wof:lastmodified":1448999388,
+    "wof:lastmodified":1466647287,
     "wof:name":"Mills Brothers Logging Inc",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-77.176866,35.293222,-77.176866,35.293222],
+  "bbox": [
+    -77.176866,
+    35.293222,
+    -77.176866,
+    35.293222
+],
   "geometry": {"coordinates":[-77.176866,35.293222],"type":"Point"}
 }

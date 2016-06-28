@@ -2,13 +2,14 @@
   "id": 270037105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.056137,35.477858,-78.056137,35.477858",
     "geom:latitude":35.477858,
     "geom:longitude":-78.056137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1782 State Hwy 581 N",
     "sg:city":"Pikeville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270037105,
-    "wof:lastmodified":1449011151,
+    "wof:lastmodified":1466643624,
     "wof:name":"Ed's Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.056137,35.477858,-78.056137,35.477858],
-  "geometry": {"coordinates":[-78.056137,35.477858],"type":"Point"}
+  "bbox": [
+    -78.056137,
+    35.477858,
+    -78.056137,
+    35.477858
+],
+  "geometry": {"coordinates":[-78.05613700000001,35.477858],"type":"Point"}
 }

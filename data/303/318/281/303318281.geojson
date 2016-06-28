@@ -2,13 +2,14 @@
   "id": 303318281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.826187,35.147188,-80.826187,35.147188",
     "geom:latitude":35.147188,
     "geom:longitude":-80.826187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6857 Fairview Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303318281,
-    "wof:lastmodified":1448998656,
+    "wof:lastmodified":1466647921,
     "wof:name":"Commercial Carolina Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-80.826187,35.147188,-80.826187,35.147188],
+  "bbox": [
+    -80.826187,
+    35.147188,
+    -80.826187,
+    35.147188
+],
   "geometry": {"coordinates":[-80.826187,35.147188],"type":"Point"}
 }

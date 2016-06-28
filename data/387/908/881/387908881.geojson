@@ -2,13 +2,14 @@
   "id": 387908881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.920232,34.889323,-76.920232,34.889323",
     "geom:latitude":34.889323,
     "geom:longitude":-76.920232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 W Main St",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387908881,
-    "wof:lastmodified":1449058262,
+    "wof:lastmodified":1466657995,
     "wof:name":"Friendly Pawn LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-76.920232,34.889323,-76.920232,34.889323],
+  "bbox": [
+    -76.920232,
+    34.889323,
+    -76.920232,
+    34.889323
+],
   "geometry": {"coordinates":[-76.920232,34.889323],"type":"Point"}
 }

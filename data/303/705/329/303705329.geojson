@@ -2,13 +2,14 @@
   "id": 303705329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.617534,35.269854,-77.617534,35.269854",
     "geom:latitude":35.269854,
     "geom:longitude":-77.617534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Hull Rd",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303705329,
-    "wof:lastmodified":1449000580,
+    "wof:lastmodified":1466653491,
     "wof:name":"Arc Of Lenoir County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-77.617534,35.269854,-77.617534,35.269854],
-  "geometry": {"coordinates":[-77.617534,35.269854],"type":"Point"}
+  "bbox": [
+    -77.617534,
+    35.269854,
+    -77.617534,
+    35.269854
+],
+  "geometry": {"coordinates":[-77.61753400000001,35.269854],"type":"Point"}
 }

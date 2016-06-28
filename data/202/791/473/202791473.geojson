@@ -2,13 +2,14 @@
   "id": 202791473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.510173,35.586737,-82.510173,35.586737",
     "geom:latitude":35.586737,
     "geom:longitude":-82.510173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Tunnel Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202791473,
-    "wof:lastmodified":1449062071,
+    "wof:lastmodified":1466644099,
     "wof:name":"Drivers License Office",
     "wof:parent_id":85806005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-82.510173,35.586737,-82.510173,35.586737],
-  "geometry": {"coordinates":[-82.510173,35.586737],"type":"Point"}
+  "bbox": [
+    -82.510173,
+    35.586737,
+    -82.510173,
+    35.586737
+],
+  "geometry": {"coordinates":[-82.51017299999999,35.586737],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320045099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.282738,35.557689,-80.282738,35.557689",
     "geom:latitude":35.557689,
     "geom:longitude":-80.282738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12420 Stokes Ferry Rd",
     "sg:city":"Gold Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320045099,
-    "wof:lastmodified":1449014526,
+    "wof:lastmodified":1466645974,
     "wof:name":"N R M Angus",
     "wof:parent_id":85836893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-80.282738,35.557689,-80.282738,35.557689],
-  "geometry": {"coordinates":[-80.282738,35.557689],"type":"Point"}
+  "bbox": [
+    -80.282738,
+    35.557689,
+    -80.282738,
+    35.557689
+],
+  "geometry": {"coordinates":[-80.28273799999999,35.557689],"type":"Point"}
 }

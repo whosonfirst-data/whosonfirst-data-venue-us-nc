@@ -2,13 +2,14 @@
   "id": 186618737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.351965,35.499535,-77.351965,35.499535",
     "geom:latitude":35.499535,
     "geom:longitude":-77.351965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6114 County Home Rd",
     "sg:city":"Winterville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186618737,
-    "wof:lastmodified":1449052032,
+    "wof:lastmodified":1466654952,
     "wof:name":"Core Point Systems Inc",
     "wof:parent_id":85858219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-77.351965,35.499535,-77.351965,35.499535],
-  "geometry": {"coordinates":[-77.351965,35.499535],"type":"Point"}
+  "bbox": [
+    -77.351965,
+    35.499535,
+    -77.351965,
+    35.499535
+],
+  "geometry": {"coordinates":[-77.35196500000001,35.499535],"type":"Point"}
 }

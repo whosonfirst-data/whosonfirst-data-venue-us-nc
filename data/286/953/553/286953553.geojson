@@ -2,13 +2,14 @@
   "id": 286953553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.590719,35.766835,-80.590719,35.766835",
     "geom:latitude":35.766835,
     "geom:longitude":-80.590719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 State Hwy 801",
     "sg:city":"Woodleaf",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286953553,
-    "wof:lastmodified":1449017207,
+    "wof:lastmodified":1466652572,
     "wof:name":"Endress Automotive",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [-80.590719,35.766835,-80.590719,35.766835],
-  "geometry": {"coordinates":[-80.590719,35.766835],"type":"Point"}
+  "bbox": [
+    -80.590719,
+    35.766835,
+    -80.590719,
+    35.766835
+],
+  "geometry": {"coordinates":[-80.59071900000001,35.766835],"type":"Point"}
 }

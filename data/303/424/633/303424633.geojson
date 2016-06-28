@@ -2,13 +2,14 @@
   "id": 303424633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.374246,35.606081,-77.374246,35.606081",
     "geom:latitude":35.606081,
     "geom:longitude":-77.374246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E 10th St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303424633,
-    "wof:lastmodified":1449000414,
+    "wof:lastmodified":1466649430,
     "wof:name":"Wash House",
     "wof:parent_id":85811829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.374246,35.606081,-77.374246,35.606081],
+  "bbox": [
+    -77.374246,
+    35.606081,
+    -77.374246,
+    35.606081
+],
   "geometry": {"coordinates":[-77.374246,35.606081],"type":"Point"}
 }

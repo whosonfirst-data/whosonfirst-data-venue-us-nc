@@ -2,13 +2,14 @@
   "id": 303132909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.577762,35.849912,-78.577762,35.849912",
     "geom:latitude":35.849912,
     "geom:longitude":-78.577762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5003 New Hope Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303132909,
-    "wof:lastmodified":1448999315,
+    "wof:lastmodified":1466645208,
     "wof:name":"Richard King Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.577762,35.849912,-78.577762,35.849912],
-  "geometry": {"coordinates":[-78.577762,35.849912],"type":"Point"}
+  "bbox": [
+    -78.577762,
+    35.849912,
+    -78.577762,
+    35.849912
+],
+  "geometry": {"coordinates":[-78.57776200000001,35.849912],"type":"Point"}
 }

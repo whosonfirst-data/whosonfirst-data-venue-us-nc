@@ -2,13 +2,14 @@
   "id": 303570889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.848039,35.905054,-79.848039,35.905054",
     "geom:latitude":35.905054,
     "geom:longitude":-79.848039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Hedgecock Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303570889,
-    "wof:lastmodified":1448999569,
+    "wof:lastmodified":1466651531,
     "wof:name":"Hedgecock Seamless Gutter",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.848039,35.905054,-79.848039,35.905054],
+  "bbox": [
+    -79.848039,
+    35.905054,
+    -79.848039,
+    35.905054
+],
   "geometry": {"coordinates":[-79.848039,35.905054],"type":"Point"}
 }

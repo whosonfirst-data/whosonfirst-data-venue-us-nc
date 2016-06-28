@@ -2,13 +2,14 @@
   "id": 253533703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.542244,36.105908,-79.542244,36.105908",
     "geom:latitude":36.105908,
     "geom:longitude":-79.542244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 W Main St",
     "sg:city":"Gibsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253533703,
-    "wof:lastmodified":1449062788,
+    "wof:lastmodified":1466648781,
     "wof:name":"Gibsonville Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-79.542244,36.105908,-79.542244,36.105908],
+  "bbox": [
+    -79.542244,
+    36.105908,
+    -79.542244,
+    36.105908
+],
   "geometry": {"coordinates":[-79.542244,36.105908],"type":"Point"}
 }

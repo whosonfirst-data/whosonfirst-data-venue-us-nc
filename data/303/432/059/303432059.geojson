@@ -2,13 +2,14 @@
   "id": 303432059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.610647,35.440567,-80.610647,35.440567",
     "geom:latitude":35.440567,
     "geom:longitude":-80.610647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Willowbrook Dr NW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303432059,
-    "wof:lastmodified":1448998072,
+    "wof:lastmodified":1466649534,
     "wof:name":"Cabarrus County Adminstrative",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.610647,35.440567,-80.610647,35.440567],
+  "bbox": [
+    -80.610647,
+    35.440567,
+    -80.610647,
+    35.440567
+],
   "geometry": {"coordinates":[-80.610647,35.440567],"type":"Point"}
 }

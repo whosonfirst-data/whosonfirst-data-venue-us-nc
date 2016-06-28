@@ -2,13 +2,14 @@
   "id": 303111517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.255688,36.300873,-76.255688,36.300873",
     "geom:latitude":36.300873,
     "geom:longitude":-76.255688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 Ulster Dr",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303111517,
-    "wof:lastmodified":1449000647,
+    "wof:lastmodified":1466644871,
     "wof:name":"Barnes Welding",
     "wof:parent_id":85840077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-76.255688,36.300873,-76.255688,36.300873],
-  "geometry": {"coordinates":[-76.255688,36.300873],"type":"Point"}
+  "bbox": [
+    -76.255688,
+    36.300873,
+    -76.255688,
+    36.300873
+],
+  "geometry": {"coordinates":[-76.25568800000001,36.300873],"type":"Point"}
 }

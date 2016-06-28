@@ -2,13 +2,14 @@
   "id": 354054171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.923231,34.575428,-77.923231,34.575428",
     "geom:latitude":34.575428,
     "geom:longitude":-77.923231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1252 US Hwy 117 N",
     "sg:city":"Burgaw",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354054171,
-    "wof:lastmodified":1449066726,
+    "wof:lastmodified":1466648191,
     "wof:name":"Burgaw Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "animal"
     ]
 },
-  "bbox": [-77.923231,34.575428,-77.923231,34.575428],
+  "bbox": [
+    -77.923231,
+    34.575428,
+    -77.923231,
+    34.575428
+],
   "geometry": {"coordinates":[-77.923231,34.575428],"type":"Point"}
 }

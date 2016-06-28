@@ -2,13 +2,14 @@
   "id": 303484015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.894257,35.01277,-78.894257,35.01277",
     "geom:latitude":35.01277,
     "geom:longitude":-78.894257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Mountain Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303484015,
-    "wof:lastmodified":1449000423,
+    "wof:lastmodified":1466650304,
     "wof:name":"US Quarantine Programs",
     "wof:parent_id":85805349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.894257,35.01277,-78.894257,35.01277],
+  "bbox": [
+    -78.894257,
+    35.01277,
+    -78.894257,
+    35.01277
+],
   "geometry": {"coordinates":[-78.894257,35.01277],"type":"Point"}
 }

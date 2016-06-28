@@ -2,13 +2,14 @@
   "id": 286733051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.756269,35.221136,-80.756269,35.221136",
     "geom:latitude":35.221136,
     "geom:longitude":-80.756269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4123 Woodleaf Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286733051,
-    "wof:lastmodified":1449015579,
+    "wof:lastmodified":1466649550,
     "wof:name":"Alternate Power Svc",
     "wof:parent_id":85882269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.756269,35.221136,-80.756269,35.221136],
+  "bbox": [
+    -80.756269,
+    35.221136,
+    -80.756269,
+    35.221136
+],
   "geometry": {"coordinates":[-80.756269,35.221136],"type":"Point"}
 }

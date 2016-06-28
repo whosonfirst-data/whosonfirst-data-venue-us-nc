@@ -2,13 +2,14 @@
   "id": 236811335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.47978,36.102441,-79.47978,36.102441",
     "geom:latitude":36.102441,
     "geom:longitude":-79.47978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1447 York Pl",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236811335,
-    "wof:lastmodified":1449003197,
+    "wof:lastmodified":1466650511,
     "wof:name":"Laboratory Corp-Amer Holdings",
     "wof:parent_id":85845553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.47978,36.102441,-79.47978,36.102441],
-  "geometry": {"coordinates":[-79.47978,36.102441],"type":"Point"}
+  "bbox": [
+    -79.47978,
+    36.102441,
+    -79.47978,
+    36.102441
+],
+  "geometry": {"coordinates":[-79.47978000000001,36.102441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387340619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.614618,35.706646,-78.614618,35.706646",
     "geom:latitude":35.706646,
     "geom:longitude":-78.614618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 US Hwy 70 W",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387340619,
-    "wof:lastmodified":1449059041,
+    "wof:lastmodified":1466654344,
     "wof:name":"David Beeler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.614618,35.706646,-78.614618,35.706646],
-  "geometry": {"coordinates":[-78.614618,35.706646],"type":"Point"}
+  "bbox": [
+    -78.614618,
+    35.706646,
+    -78.614618,
+    35.706646
+],
+  "geometry": {"coordinates":[-78.61461799999999,35.706646],"type":"Point"}
 }

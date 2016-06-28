@@ -2,13 +2,14 @@
   "id": 270237063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.372948,35.615326,-77.372948,35.615326",
     "geom:latitude":35.615326,
     "geom:longitude":-77.372948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Washington St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270237063,
-    "wof:lastmodified":1449008726,
+    "wof:lastmodified":1466646046,
     "wof:name":"Guardian Ad Litem",
     "wof:parent_id":85811829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-77.372948,35.615326,-77.372948,35.615326],
-  "geometry": {"coordinates":[-77.372948,35.615326],"type":"Point"}
+  "bbox": [
+    -77.372948,
+    35.615326,
+    -77.372948,
+    35.615326
+],
+  "geometry": {"coordinates":[-77.37294799999999,35.615326],"type":"Point"}
 }

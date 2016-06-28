@@ -2,13 +2,14 @@
   "id": 387547901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.294992,35.643888,-82.294992,35.643888",
     "geom:latitude":35.643888,
     "geom:longitude":-82.294992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"344 Lookout Rd",
     "sg:city":"Montreat",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387547901,
-    "wof:lastmodified":1449056497,
+    "wof:lastmodified":1466656370,
     "wof:name":"Private Drive",
     "wof:parent_id":85823295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.294992,35.643888,-82.294992,35.643888],
-  "geometry": {"coordinates":[-82.294992,35.643888],"type":"Point"}
+  "bbox": [
+    -82.294992,
+    35.643888,
+    -82.294992,
+    35.643888
+],
+  "geometry": {"coordinates":[-82.29499199999999,35.643888],"type":"Point"}
 }

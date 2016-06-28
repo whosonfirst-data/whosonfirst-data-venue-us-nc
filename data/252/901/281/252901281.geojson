@@ -2,13 +2,14 @@
   "id": 252901281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.888483,35.699763,-80.888483,35.699763",
     "geom:latitude":35.699763,
     "geom:longitude":-80.888483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Wagner St",
     "sg:city":"Troutman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252901281,
-    "wof:lastmodified":1449005863,
+    "wof:lastmodified":1466644958,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.888483,35.699763,-80.888483,35.699763],
-  "geometry": {"coordinates":[-80.888483,35.699763],"type":"Point"}
+  "bbox": [
+    -80.888483,
+    35.699763,
+    -80.888483,
+    35.699763
+],
+  "geometry": {"coordinates":[-80.88848299999999,35.699763],"type":"Point"}
 }

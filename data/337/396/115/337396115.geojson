@@ -2,13 +2,14 @@
   "id": 337396115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.60053,35.787554,-78.60053,35.787554",
     "geom:latitude":35.787554,
     "geom:longitude":-78.60053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 Stevens Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337396115,
-    "wof:lastmodified":1449027483,
+    "wof:lastmodified":1466646764,
     "wof:name":"Success Community Outreach",
     "wof:parent_id":85873471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-78.60053,35.787554,-78.60053,35.787554],
-  "geometry": {"coordinates":[-78.60053,35.787554],"type":"Point"}
+  "bbox": [
+    -78.60053,
+    35.787554,
+    -78.60053,
+    35.787554
+],
+  "geometry": {"coordinates":[-78.60053000000001,35.787554],"type":"Point"}
 }

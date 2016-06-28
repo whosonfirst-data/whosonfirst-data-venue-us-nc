@@ -2,13 +2,14 @@
   "id": 353848421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.223784,35.249249,-81.223784,35.249249",
     "geom:latitude":35.249249,
     "geom:longitude":-81.223784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 S Myrtle School Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353848421,
-    "wof:lastmodified":1449018612,
+    "wof:lastmodified":1466652306,
     "wof:name":"H & M Tax",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-81.223784,35.249249,-81.223784,35.249249],
-  "geometry": {"coordinates":[-81.223784,35.249249],"type":"Point"}
+  "bbox": [
+    -81.223784,
+    35.249249,
+    -81.223784,
+    35.249249
+],
+  "geometry": {"coordinates":[-81.22378399999999,35.249249],"type":"Point"}
 }

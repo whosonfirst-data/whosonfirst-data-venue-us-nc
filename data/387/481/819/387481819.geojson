@@ -2,13 +2,14 @@
   "id": 387481819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.81122,36.145339,-79.81122,36.145339",
     "geom:latitude":36.145339,
     "geom:longitude":-79.81122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 Lake Jeanette Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387481819,
-    "wof:lastmodified":1449059432,
+    "wof:lastmodified":1466655944,
     "wof:name":"Owencorp Inc",
     "wof:parent_id":85877981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.81122,36.145339,-79.81122,36.145339],
-  "geometry": {"coordinates":[-79.81122,36.145339],"type":"Point"}
+  "bbox": [
+    -79.81122,
+    36.145339,
+    -79.81122,
+    36.145339
+],
+  "geometry": {"coordinates":[-79.81122000000001,36.145339],"type":"Point"}
 }

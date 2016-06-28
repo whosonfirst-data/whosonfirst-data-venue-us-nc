@@ -2,13 +2,14 @@
   "id": 186555769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.841366,34.222835,-77.841366,34.222835",
     "geom:latitude":34.222835,
     "geom:longitude":-77.841366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6211 Wrightsville Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186555769,
-    "wof:lastmodified":1449052632,
+    "wof:lastmodified":1466654714,
     "wof:name":"New Perspectives",
     "wof:parent_id":85830827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-77.841366,34.222835,-77.841366,34.222835],
-  "geometry": {"coordinates":[-77.841366,34.222835],"type":"Point"}
+  "bbox": [
+    -77.841366,
+    34.222835,
+    -77.841366,
+    34.222835
+],
+  "geometry": {"coordinates":[-77.84136599999999,34.222835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370653643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.57847,35.570936,-80.57847,35.570936",
     "geom:latitude":35.570936,
     "geom:longitude":-80.57847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 N Main St",
     "sg:city":"Cliffside",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370653643,
-    "wof:lastmodified":1449029330,
+    "wof:lastmodified":1466654581,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.57847,35.570936,-80.57847,35.570936],
+  "bbox": [
+    -80.57847,
+    35.570936,
+    -80.57847,
+    35.570936
+],
   "geometry": {"coordinates":[-80.57847,35.570936],"type":"Point"}
 }

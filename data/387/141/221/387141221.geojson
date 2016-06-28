@@ -2,13 +2,14 @@
   "id": 387141221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.615102,35.706868,-78.615102,35.706868",
     "geom:latitude":35.706868,
     "geom:longitude":-78.615102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 US Hwy 70 W",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387141221,
-    "wof:lastmodified":1449057432,
+    "wof:lastmodified":1466651686,
     "wof:name":"Edward T Kryn MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.615102,35.706868,-78.615102,35.706868],
-  "geometry": {"coordinates":[-78.615102,35.706868],"type":"Point"}
+  "bbox": [
+    -78.615102,
+    35.706868,
+    -78.615102,
+    35.706868
+],
+  "geometry": {"coordinates":[-78.61510199999999,35.706868],"type":"Point"}
 }

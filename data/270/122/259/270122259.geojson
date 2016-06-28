@@ -2,13 +2,14 @@
   "id": 270122259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.845639,35.808202,-78.845639,35.808202",
     "geom:latitude":35.808202,
     "geom:longitude":-78.845639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Palmer Meadow Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270122259,
-    "wof:lastmodified":1449010040,
+    "wof:lastmodified":1466644612,
     "wof:name":"Gift Studio The",
     "wof:parent_id":85843101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gift"
     ]
 },
-  "bbox": [-78.845639,35.808202,-78.845639,35.808202],
-  "geometry": {"coordinates":[-78.845639,35.808202],"type":"Point"}
+  "bbox": [
+    -78.845639,
+    35.808202,
+    -78.845639,
+    35.808202
+],
+  "geometry": {"coordinates":[-78.84563900000001,35.808202],"type":"Point"}
 }

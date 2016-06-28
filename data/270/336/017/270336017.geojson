@@ -2,13 +2,14 @@
   "id": 270336017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.112904,36.115663,-79.112904,36.115663",
     "geom:latitude":36.115663,
     "geom:longitude":-79.112904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 N State Hwy 86",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270336017,
-    "wof:lastmodified":1449008618,
+    "wof:lastmodified":1466647322,
     "wof:name":"Express America Truckstop",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stop"
     ]
 },
-  "bbox": [-79.112904,36.115663,-79.112904,36.115663],
+  "bbox": [
+    -79.112904,
+    36.115663,
+    -79.112904,
+    36.115663
+],
   "geometry": {"coordinates":[-79.112904,36.115663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336743007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20631,35.354391,-80.20631,35.354391",
     "geom:latitude":35.354391,
     "geom:longitude":-80.20631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 US Hwy 52",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336743007,
-    "wof:lastmodified":1448998002,
+    "wof:lastmodified":1466648002,
     "wof:name":"Jerry's Automotive",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.20631,35.354391,-80.20631,35.354391],
+  "bbox": [
+    -80.20631,
+    35.354391,
+    -80.20631,
+    35.354391
+],
   "geometry": {"coordinates":[-80.20631,35.354391],"type":"Point"}
 }

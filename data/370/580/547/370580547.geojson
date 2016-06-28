@@ -2,13 +2,14 @@
   "id": 370580547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.867083,34.728195,-76.867083,34.728195",
     "geom:latitude":34.728195,
     "geom:longitude":-76.867083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Mary Ln",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370580547,
-    "wof:lastmodified":1449031357,
+    "wof:lastmodified":1466653625,
     "wof:name":"Oehler Court Co Inc",
     "wof:parent_id":85850491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "court"
     ]
 },
-  "bbox": [-76.867083,34.728195,-76.867083,34.728195],
-  "geometry": {"coordinates":[-76.867083,34.728195],"type":"Point"}
+  "bbox": [
+    -76.867083,
+    34.728195,
+    -76.867083,
+    34.728195
+],
+  "geometry": {"coordinates":[-76.86708299999999,34.728195],"type":"Point"}
 }

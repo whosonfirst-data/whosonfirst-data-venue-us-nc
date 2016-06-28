@@ -2,13 +2,14 @@
   "id": 236208193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.587347,35.595007,-77.587347,35.595007",
     "geom:latitude":35.595007,
     "geom:longitude":-77.587347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 S Main St",
     "sg:city":"Farmville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236208193,
-    "wof:lastmodified":1449001965,
+    "wof:lastmodified":1466645092,
     "wof:name":"Elvin's Exotic Hair Salon",
     "wof:parent_id":85806177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.587347,35.595007,-77.587347,35.595007],
-  "geometry": {"coordinates":[-77.587347,35.595007],"type":"Point"}
+  "bbox": [
+    -77.587347,
+    35.595007,
+    -77.587347,
+    35.595007
+],
+  "geometry": {"coordinates":[-77.58734699999999,35.595007],"type":"Point"}
 }

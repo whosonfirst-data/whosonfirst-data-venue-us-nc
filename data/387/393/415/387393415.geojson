@@ -2,13 +2,14 @@
   "id": 387393415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.959257,35.399099,-77.959257,35.399099",
     "geom:latitude":35.399099,
     "geom:longitude":-77.959257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 Wayne Memorial Dr",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387393415,
-    "wof:lastmodified":1449057298,
+    "wof:lastmodified":1466655019,
     "wof:name":"Goldsboro Phys THEr&rehab Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.959257,35.399099,-77.959257,35.399099],
-  "geometry": {"coordinates":[-77.959257,35.399099],"type":"Point"}
+  "bbox": [
+    -77.959257,
+    35.399099,
+    -77.959257,
+    35.399099
+],
+  "geometry": {"coordinates":[-77.95925699999999,35.399099],"type":"Point"}
 }

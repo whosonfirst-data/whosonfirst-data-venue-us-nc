@@ -2,13 +2,14 @@
   "id": 253476169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.668524,35.304107,-80.668524,35.304107",
     "geom:latitude":35.304107,
     "geom:longitude":-80.668524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8312 Caldwell Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253476169,
-    "wof:lastmodified":1449064025,
+    "wof:lastmodified":1466648060,
     "wof:name":"Old Towne Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "structural"
     ]
 },
-  "bbox": [-80.668524,35.304107,-80.668524,35.304107],
-  "geometry": {"coordinates":[-80.668524,35.304107],"type":"Point"}
+  "bbox": [
+    -80.668524,
+    35.304107,
+    -80.668524,
+    35.304107
+],
+  "geometry": {"coordinates":[-80.66852400000001,35.304107],"type":"Point"}
 }

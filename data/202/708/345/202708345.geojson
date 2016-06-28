@@ -2,13 +2,14 @@
   "id": 202708345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.90264,36.05091,-79.90264,36.05091",
     "geom:latitude":36.05091,
     "geom:longitude":-79.90264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Bridford Pkwy",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202708345,
-    "wof:lastmodified":1449060509,
+    "wof:lastmodified":1466643492,
     "wof:name":"Hobby Lobby",
     "wof:parent_id":85877977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.90264,36.05091,-79.90264,36.05091],
-  "geometry": {"coordinates":[-79.90264,36.05091],"type":"Point"}
+  "bbox": [
+    -79.90264,
+    36.05091,
+    -79.90264,
+    36.05091
+],
+  "geometry": {"coordinates":[-79.90264000000001,36.05091],"type":"Point"}
 }

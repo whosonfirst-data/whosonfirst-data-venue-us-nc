@@ -2,13 +2,14 @@
   "id": 354206111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.627384,35.301703,-82.627384,35.301703",
     "geom:latitude":35.301703,
     "geom:longitude":-82.627384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 King Rd",
     "sg:city":"Pisgah Forest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354206111,
-    "wof:lastmodified":1449067140,
+    "wof:lastmodified":1466649958,
     "wof:name":"Grand Illusion",
     "wof:parent_id":85805783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.627384,35.301703,-82.627384,35.301703],
-  "geometry": {"coordinates":[-82.627384,35.301703],"type":"Point"}
+  "bbox": [
+    -82.627384,
+    35.301703,
+    -82.627384,
+    35.301703
+],
+  "geometry": {"coordinates":[-82.62738400000001,35.301703],"type":"Point"}
 }

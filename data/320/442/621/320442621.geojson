@@ -2,13 +2,14 @@
   "id": 320442621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.976487,35.374848,-77.976487,35.374848",
     "geom:latitude":35.374848,
     "geom:longitude":-77.976487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 S Andrews Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320442621,
-    "wof:lastmodified":1449012892,
+    "wof:lastmodified":1466651535,
     "wof:name":"Chucks Furniture RPR",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.976487,35.374848,-77.976487,35.374848],
-  "geometry": {"coordinates":[-77.976487,35.374848],"type":"Point"}
+  "bbox": [
+    -77.976487,
+    35.374848,
+    -77.976487,
+    35.374848
+],
+  "geometry": {"coordinates":[-77.97648700000001,35.374848],"type":"Point"}
 }

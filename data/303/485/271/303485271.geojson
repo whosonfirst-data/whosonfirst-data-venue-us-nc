@@ -2,13 +2,14 @@
   "id": 303485271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.276261,36.148758,-80.276261,36.148758",
     "geom:latitude":36.148758,
     "geom:longitude":-80.276261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4691 Brownsboro Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303485271,
-    "wof:lastmodified":1448999610,
+    "wof:lastmodified":1466650321,
     "wof:name":"Titan Car Wash",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-80.276261,36.148758,-80.276261,36.148758],
-  "geometry": {"coordinates":[-80.276261,36.148758],"type":"Point"}
+  "bbox": [
+    -80.276261,
+    36.148758,
+    -80.276261,
+    36.148758
+],
+  "geometry": {"coordinates":[-80.27626100000001,36.148758],"type":"Point"}
 }

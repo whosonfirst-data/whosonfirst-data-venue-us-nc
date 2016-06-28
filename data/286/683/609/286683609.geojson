@@ -2,13 +2,14 @@
   "id": 286683609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.633266,35.309195,-78.633266,35.309195",
     "geom:latitude":35.309195,
     "geom:longitude":-78.633266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Tilghman Dr",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286683609,
-    "wof:lastmodified":1449016263,
+    "wof:lastmodified":1466648877,
     "wof:name":"Sand Hill Apartments",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.633266,35.309195,-78.633266,35.309195],
-  "geometry": {"coordinates":[-78.633266,35.309195],"type":"Point"}
+  "bbox": [
+    -78.633266,
+    35.309195,
+    -78.633266,
+    35.309195
+],
+  "geometry": {"coordinates":[-78.63326600000001,35.309195],"type":"Point"}
 }

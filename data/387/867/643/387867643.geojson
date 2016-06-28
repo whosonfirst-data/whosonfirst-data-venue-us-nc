@@ -2,13 +2,14 @@
   "id": 387867643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.902549,34.240506,-77.902549,34.240506",
     "geom:latitude":34.240506,
     "geom:longitude":-77.902549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387867643,
-    "wof:lastmodified":1449057755,
+    "wof:lastmodified":1466657830,
     "wof:name":"Fleet Lease Remarketing",
     "wof:parent_id":85804465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.902549,34.240506,-77.902549,34.240506],
-  "geometry": {"coordinates":[-77.902549,34.240506],"type":"Point"}
+  "bbox": [
+    -77.902549,
+    34.240506,
+    -77.902549,
+    34.240506
+],
+  "geometry": {"coordinates":[-77.90254899999999,34.240506],"type":"Point"}
 }

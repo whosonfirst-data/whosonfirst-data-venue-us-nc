@@ -2,13 +2,14 @@
   "id": 252912241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.27908,35.665963,-78.27908,35.665963",
     "geom:latitude":35.665963,
     "geom:longitude":-78.27908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9632 State Hwy 96 N",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252912241,
-    "wof:lastmodified":1449005954,
+    "wof:lastmodified":1466645058,
     "wof:name":"Bethel AME Church",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.27908,35.665963,-78.27908,35.665963],
-  "geometry": {"coordinates":[-78.27908,35.665963],"type":"Point"}
+  "bbox": [
+    -78.27908,
+    35.665963,
+    -78.27908,
+    35.665963
+],
+  "geometry": {"coordinates":[-78.27907999999999,35.665963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370542367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.617618,36.239982,-78.617618,36.239982",
     "geom:latitude":36.239982,
     "geom:longitude":-78.617618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4509 US Hwy 15",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370542367,
-    "wof:lastmodified":1449031732,
+    "wof:lastmodified":1466653120,
     "wof:name":"Mike Ellington's Landscaping",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.617618,36.239982,-78.617618,36.239982],
-  "geometry": {"coordinates":[-78.617618,36.239982],"type":"Point"}
+  "bbox": [
+    -78.617618,
+    36.239982,
+    -78.617618,
+    36.239982
+],
+  "geometry": {"coordinates":[-78.61761799999999,36.239982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371003623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.935406,35.721897,-77.935406,35.721897",
     "geom:latitude":35.721897,
     "geom:longitude":-77.935406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Ward Blvd",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371003623,
-    "wof:lastmodified":1449050066,
+    "wof:lastmodified":1466648883,
     "wof:name":"H & R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-77.935406,35.721897,-77.935406,35.721897],
+  "bbox": [
+    -77.935406,
+    35.721897,
+    -77.935406,
+    35.721897
+],
   "geometry": {"coordinates":[-77.935406,35.721897],"type":"Point"}
 }

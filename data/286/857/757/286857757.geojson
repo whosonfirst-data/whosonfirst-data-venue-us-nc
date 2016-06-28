@@ -2,13 +2,14 @@
   "id": 286857757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.508376,35.975364,-78.508376,35.975364",
     "geom:latitude":35.975364,
     "geom:longitude":-78.508376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E Owen Ave",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":286857757,
-    "wof:lastmodified":1449017099,
+    "wof:lastmodified":1466651252,
     "wof:name":"Wake Forest Police-Detective",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-78.508376,35.975364,-78.508376,35.975364],
+  "bbox": [
+    -78.508376,
+    35.975364,
+    -78.508376,
+    35.975364
+],
   "geometry": {"coordinates":[-78.508376,35.975364],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353723771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.550453,34.983202,-80.550453,34.983202",
     "geom:latitude":34.983202,
     "geom:longitude":-80.550453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N Main St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353723771,
-    "wof:lastmodified":1449019760,
+    "wof:lastmodified":1466650902,
     "wof:name":"Miles Helms",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.550453,34.983202,-80.550453,34.983202],
+  "bbox": [
+    -80.550453,
+    34.983202,
+    -80.550453,
+    34.983202
+],
   "geometry": {"coordinates":[-80.550453,34.983202],"type":"Point"}
 }

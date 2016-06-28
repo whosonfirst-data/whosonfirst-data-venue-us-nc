@@ -2,13 +2,14 @@
   "id": 203206723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.429043,34.750745,-77.429043,34.750745",
     "geom:latitude":34.750745,
     "geom:longitude":-77.429043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 New Bridge St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203206723,
-    "wof:lastmodified":1449026274,
+    "wof:lastmodified":1466655241,
     "wof:name":"Onslow Cnty Prtnr For Children",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-77.429043,34.750745,-77.429043,34.750745],
-  "geometry": {"coordinates":[-77.429043,34.750745],"type":"Point"}
+  "bbox": [
+    -77.429043,
+    34.750745,
+    -77.429043,
+    34.750745
+],
+  "geometry": {"coordinates":[-77.42904299999999,34.750745],"type":"Point"}
 }

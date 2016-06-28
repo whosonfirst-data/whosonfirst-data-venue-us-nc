@@ -2,13 +2,14 @@
   "id": 387701743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.175726,35.351779,-80.175726,35.351779",
     "geom:latitude":35.351779,
     "geom:longitude":-80.175726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 E Main St",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387701743,
-    "wof:lastmodified":1449059118,
+    "wof:lastmodified":1466657284,
     "wof:name":"First Care Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.175726,35.351779,-80.175726,35.351779],
+  "bbox": [
+    -80.175726,
+    35.351779,
+    -80.175726,
+    35.351779
+],
   "geometry": {"coordinates":[-80.175726,35.351779],"type":"Point"}
 }

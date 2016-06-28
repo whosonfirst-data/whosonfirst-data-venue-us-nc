@@ -2,13 +2,14 @@
   "id": 387549589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.806362,35.594313,-79.806362,35.594313",
     "geom:latitude":35.594313,
     "geom:longitude":-79.806362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5625 US Hwy 220 S",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387549589,
-    "wof:lastmodified":1449057143,
+    "wof:lastmodified":1466656536,
     "wof:name":"Hayes Accounting",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-79.806362,35.594313,-79.806362,35.594313],
-  "geometry": {"coordinates":[-79.806362,35.594313],"type":"Point"}
+  "bbox": [
+    -79.806362,
+    35.594313,
+    -79.806362,
+    35.594313
+],
+  "geometry": {"coordinates":[-79.80636199999999,35.594313],"type":"Point"}
 }

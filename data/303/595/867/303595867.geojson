@@ -2,13 +2,14 @@
   "id": 303595867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250211,36.081236,-81.250211,36.081236",
     "geom:latitude":36.081236,
     "geom:longitude":-81.250211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Gunters Hill Rd",
     "sg:city":"Boomer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303595867,
-    "wof:lastmodified":1449000329,
+    "wof:lastmodified":1466651887,
     "wof:name":"James M Jones",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.250211,36.081236,-81.250211,36.081236],
-  "geometry": {"coordinates":[-81.250211,36.081236],"type":"Point"}
+  "bbox": [
+    -81.250211,
+    36.081236,
+    -81.250211,
+    36.081236
+],
+  "geometry": {"coordinates":[-81.25021099999999,36.081236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370175117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.609503,35.306619,-78.609503,35.306619",
     "geom:latitude":35.306619,
     "geom:longitude":-78.609503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 E Cumberland St",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370175117,
-    "wof:lastmodified":1449031426,
+    "wof:lastmodified":1466648444,
     "wof:name":"Cottondale Apartments",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.609503,35.306619,-78.609503,35.306619],
+  "bbox": [
+    -78.609503,
+    35.306619,
+    -78.609503,
+    35.306619
+],
   "geometry": {"coordinates":[-78.609503,35.306619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303439613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.926427,34.204357,-77.926427,34.204357",
     "geom:latitude":34.204357,
     "geom:longitude":-77.926427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Doctors Cir",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303439613,
-    "wof:lastmodified":1448998787,
+    "wof:lastmodified":1466649637,
     "wof:name":"Gramley William A MD",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-77.926427,34.204357,-77.926427,34.204357],
+  "bbox": [
+    -77.926427,
+    34.204357,
+    -77.926427,
+    34.204357
+],
   "geometry": {"coordinates":[-77.926427,34.204357],"type":"Point"}
 }

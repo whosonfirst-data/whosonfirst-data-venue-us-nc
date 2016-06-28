@@ -2,13 +2,14 @@
   "id": 287300845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.124998,33.918297,-78.124998,33.918297",
     "geom:latitude":33.918297,
     "geom:longitude":-78.124998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 NE 36th St",
     "sg:city":"Oak Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287300845,
-    "wof:lastmodified":1449001171,
+    "wof:lastmodified":1466647470,
     "wof:name":"Donald Z High",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-78.124998,33.918297,-78.124998,33.918297],
-  "geometry": {"coordinates":[-78.124998,33.918297],"type":"Point"}
+  "bbox": [
+    -78.124998,
+    33.918297,
+    -78.124998,
+    33.918297
+],
+  "geometry": {"coordinates":[-78.12499800000001,33.918297],"type":"Point"}
 }

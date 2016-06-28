@@ -2,13 +2,14 @@
   "id": 303370269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.855632,34.765899,-76.855632,34.765899",
     "geom:latitude":34.765899,
     "geom:longitude":-76.855632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"697 E Chatham St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303370269,
-    "wof:lastmodified":1448999452,
+    "wof:lastmodified":1466648653,
     "wof:name":"Davids Reconstruction",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "structural"
     ]
 },
-  "bbox": [-76.855632,34.765899,-76.855632,34.765899],
+  "bbox": [
+    -76.855632,
+    34.765899,
+    -76.855632,
+    34.765899
+],
   "geometry": {"coordinates":[-76.855632,34.765899],"type":"Point"}
 }

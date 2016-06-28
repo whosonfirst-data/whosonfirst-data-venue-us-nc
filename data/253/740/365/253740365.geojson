@@ -2,13 +2,14 @@
   "id": 253740365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.836891,35.049496,-78.836891,35.049496",
     "geom:latitude":35.049496,
     "geom:longitude":-78.836891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2158 Angelia M St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253740365,
-    "wof:lastmodified":1449064154,
+    "wof:lastmodified":1466651257,
     "wof:name":"Edwards Inc",
     "wof:parent_id":85825067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-78.836891,35.049496,-78.836891,35.049496],
-  "geometry": {"coordinates":[-78.836891,35.049496],"type":"Point"}
+  "bbox": [
+    -78.836891,
+    35.049496,
+    -78.836891,
+    35.049496
+],
+  "geometry": {"coordinates":[-78.83689099999999,35.049496],"type":"Point"}
 }

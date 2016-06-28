@@ -2,13 +2,14 @@
   "id": 371001653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.064641,36.104097,-80.064641,36.104097",
     "geom:latitude":36.104097,
     "geom:longitude":-80.064641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1351 S Park Dr",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371001653,
-    "wof:lastmodified":1449049274,
+    "wof:lastmodified":1466648860,
     "wof:name":"ICEE Company",
     "wof:parent_id":85852277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialty"
     ]
 },
-  "bbox": [-80.064641,36.104097,-80.064641,36.104097],
-  "geometry": {"coordinates":[-80.064641,36.104097],"type":"Point"}
+  "bbox": [
+    -80.064641,
+    36.104097,
+    -80.064641,
+    36.104097
+],
+  "geometry": {"coordinates":[-80.06464099999999,36.104097],"type":"Point"}
 }

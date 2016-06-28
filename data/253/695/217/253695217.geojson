@@ -2,13 +2,14 @@
   "id": 253695217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.726497,35.789216,-78.726497,35.789216",
     "geom:latitude":35.789216,
     "geom:longitude":-78.726497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6003 Chapel Hill Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253695217,
-    "wof:lastmodified":1449063960,
+    "wof:lastmodified":1466650685,
     "wof:name":"Raleigh Kitchen & Bath",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-78.726497,35.789216,-78.726497,35.789216],
-  "geometry": {"coordinates":[-78.726497,35.789216],"type":"Point"}
+  "bbox": [
+    -78.726497,
+    35.789216,
+    -78.726497,
+    35.789216
+],
+  "geometry": {"coordinates":[-78.72649699999999,35.789216],"type":"Point"}
 }

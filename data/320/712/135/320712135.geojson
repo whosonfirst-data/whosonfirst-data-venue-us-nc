@@ -2,13 +2,14 @@
   "id": 320712135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.584015,35.801409,-78.584015,35.801409",
     "geom:latitude":35.801409,
     "geom:longitude":-78.584015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 Lake Woodard Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320712135,
-    "wof:lastmodified":1449012860,
+    "wof:lastmodified":1466655429,
     "wof:name":"Water & Sewer Operations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-78.584015,35.801409,-78.584015,35.801409],
-  "geometry": {"coordinates":[-78.584015,35.801409],"type":"Point"}
+  "bbox": [
+    -78.584015,
+    35.801409,
+    -78.584015,
+    35.801409
+],
+  "geometry": {"coordinates":[-78.58401499999999,35.801409],"type":"Point"}
 }

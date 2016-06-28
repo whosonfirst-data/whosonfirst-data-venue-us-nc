@@ -2,13 +2,14 @@
   "id": 354202293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.787765,36.089664,-79.787765,36.089664",
     "geom:latitude":36.089664,
     "geom:longitude":-79.787765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Magnolia St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354202293,
-    "wof:lastmodified":1449067443,
+    "wof:lastmodified":1466649916,
     "wof:name":"Magnolia Street Baptist Church",
     "wof:parent_id":85868003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.787765,36.089664,-79.787765,36.089664],
-  "geometry": {"coordinates":[-79.787765,36.089664],"type":"Point"}
+  "bbox": [
+    -79.787765,
+    36.089664,
+    -79.787765,
+    36.089664
+],
+  "geometry": {"coordinates":[-79.78776499999999,36.089664],"type":"Point"}
 }

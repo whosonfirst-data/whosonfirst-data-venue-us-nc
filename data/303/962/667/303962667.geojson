@@ -2,13 +2,14 @@
   "id": 303962667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.56295,35.894181,-80.56295,35.894181",
     "geom:latitude":35.894181,
     "geom:longitude":-80.56295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 W Depot St",
     "sg:city":"Mocksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303962667,
-    "wof:lastmodified":1448999560,
+    "wof:lastmodified":1466656939,
     "wof:name":"WDSL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-80.56295,35.894181,-80.56295,35.894181],
+  "bbox": [
+    -80.56295,
+    35.894181,
+    -80.56295,
+    35.894181
+],
   "geometry": {"coordinates":[-80.56295,35.894181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387647111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.969479,34.705666,-77.969479,34.705666",
     "geom:latitude":34.705666,
     "geom:longitude":-77.969479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Church St",
     "sg:city":"Willard",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387647111,
-    "wof:lastmodified":1449057906,
+    "wof:lastmodified":1466657134,
     "wof:name":"Willard Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.969479,34.705666,-77.969479,34.705666],
-  "geometry": {"coordinates":[-77.969479,34.705666],"type":"Point"}
+  "bbox": [
+    -77.969479,
+    34.705666,
+    -77.969479,
+    34.705666
+],
+  "geometry": {"coordinates":[-77.96947900000001,34.705666],"type":"Point"}
 }

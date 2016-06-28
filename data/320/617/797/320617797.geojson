@@ -2,13 +2,14 @@
   "id": 320617797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.155076,36.347241,-76.155076,36.347241",
     "geom:latitude":36.347241,
     "geom:longitude":-76.155076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 US Hwy 158",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320617797,
-    "wof:lastmodified":1449011390,
+    "wof:lastmodified":1466654082,
     "wof:name":"Dunavant's Welding Svc",
     "wof:parent_id":85846085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-76.155076,36.347241,-76.155076,36.347241],
-  "geometry": {"coordinates":[-76.155076,36.347241],"type":"Point"}
+  "bbox": [
+    -76.155076,
+    36.347241,
+    -76.155076,
+    36.347241
+],
+  "geometry": {"coordinates":[-76.15507599999999,36.347241],"type":"Point"}
 }

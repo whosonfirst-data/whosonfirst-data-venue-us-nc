@@ -2,13 +2,14 @@
   "id": 270500827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.438052,35.208969,-82.438052,35.208969",
     "geom:latitude":35.208969,
     "geom:longitude":-82.438052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2972 Old US Hwy 25",
     "sg:city":"Zirconia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270500827,
-    "wof:lastmodified":1449009230,
+    "wof:lastmodified":1466649463,
     "wof:name":"ACCU Home Inspect",
     "wof:parent_id":85819569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-82.438052,35.208969,-82.438052,35.208969],
+  "bbox": [
+    -82.438052,
+    35.208969,
+    -82.438052,
+    35.208969
+],
   "geometry": {"coordinates":[-82.438052,35.208969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353579091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.843596,35.582819,-76.843596,35.582819",
     "geom:latitude":35.582819,
     "geom:longitude":-76.843596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2173 Biggs Rd",
     "sg:city":"Pinetown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353579091,
-    "wof:lastmodified":1449019071,
+    "wof:lastmodified":1466649142,
     "wof:name":"Wade Biggs Logging Inc",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "logging"
     ]
 },
-  "bbox": [-76.843596,35.582819,-76.843596,35.582819],
-  "geometry": {"coordinates":[-76.843596,35.582819],"type":"Point"}
+  "bbox": [
+    -76.843596,
+    35.582819,
+    -76.843596,
+    35.582819
+],
+  "geometry": {"coordinates":[-76.84359600000001,35.582819],"type":"Point"}
 }

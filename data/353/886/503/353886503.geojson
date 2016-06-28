@@ -2,13 +2,14 @@
   "id": 353886503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.807539,35.325482,-83.807539,35.325482",
     "geom:latitude":35.325482,
     "geom:longitude":-83.807539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Moose Branch Rd",
     "sg:city":"Robbinsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353886503,
-    "wof:lastmodified":1449019671,
+    "wof:lastmodified":1466652743,
     "wof:name":"Sweetwater Apartments",
     "wof:parent_id":85834435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-83.807539,35.325482,-83.807539,35.325482],
-  "geometry": {"coordinates":[-83.807539,35.325482],"type":"Point"}
+  "bbox": [
+    -83.807539,
+    35.325482,
+    -83.807539,
+    35.325482
+],
+  "geometry": {"coordinates":[-83.80753900000001,35.325482],"type":"Point"}
 }

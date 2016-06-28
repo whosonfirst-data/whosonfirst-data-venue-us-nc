@@ -2,13 +2,14 @@
   "id": 303960039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.61558,35.821593,-78.61558,35.821593",
     "geom:latitude":35.821593,
     "geom:longitude":-78.61558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 Front St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303960039,
-    "wof:lastmodified":1448999876,
+    "wof:lastmodified":1466656593,
     "wof:name":"Raleigh Prosthetic & Orthotic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "artificial"
     ]
 },
-  "bbox": [-78.61558,35.821593,-78.61558,35.821593],
-  "geometry": {"coordinates":[-78.61558,35.821593],"type":"Point"}
+  "bbox": [
+    -78.61558,
+    35.821593,
+    -78.61558,
+    35.821593
+],
+  "geometry": {"coordinates":[-78.61557999999999,35.821593],"type":"Point"}
 }

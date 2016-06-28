@@ -2,13 +2,14 @@
   "id": 370872043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.20095,35.251296,-81.20095,35.251296",
     "geom:latitude":35.251296,
     "geom:longitude":-81.20095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W 10th Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370872043,
-    "wof:lastmodified":1449029391,
+    "wof:lastmodified":1466656691,
     "wof:name":"Delivrnce Christn Ctr Church G",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.20095,35.251296,-81.20095,35.251296],
-  "geometry": {"coordinates":[-81.20095,35.251296],"type":"Point"}
+  "bbox": [
+    -81.20095,
+    35.251296,
+    -81.20095,
+    35.251296
+],
+  "geometry": {"coordinates":[-81.20095000000001,35.251296],"type":"Point"}
 }

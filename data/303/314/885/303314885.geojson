@@ -2,13 +2,14 @@
   "id": 303314885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.5113,36.499363,-81.5113,36.499363",
     "geom:latitude":36.499363,
     "geom:longitude":-81.5113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9360 State Hwy 194 N",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303314885,
-    "wof:lastmodified":1449000462,
+    "wof:lastmodified":1466647873,
     "wof:name":"Four Paws Pet Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-81.5113,36.499363,-81.5113,36.499363],
-  "geometry": {"coordinates":[-81.5113,36.499363],"type":"Point"}
+  "bbox": [
+    -81.5113,
+    36.499363,
+    -81.5113,
+    36.499363
+],
+  "geometry": {"coordinates":[-81.51130000000001,36.499363],"type":"Point"}
 }

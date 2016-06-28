@@ -2,13 +2,14 @@
   "id": 320368657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.621035,35.869228,-78.621035,35.869228",
     "geom:latitude":35.869228,
     "geom:longitude":-78.621035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Bullard Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320368657,
-    "wof:lastmodified":1449012119,
+    "wof:lastmodified":1466650467,
     "wof:name":"Creative Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-78.621035,35.869228,-78.621035,35.869228],
-  "geometry": {"coordinates":[-78.621035,35.869228],"type":"Point"}
+  "bbox": [
+    -78.621035,
+    35.869228,
+    -78.621035,
+    35.869228
+],
+  "geometry": {"coordinates":[-78.62103500000001,35.869228],"type":"Point"}
 }

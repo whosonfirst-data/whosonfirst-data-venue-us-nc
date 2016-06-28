@@ -2,13 +2,14 @@
   "id": 370974545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.914684,35.393882,-77.914684,35.393882",
     "geom:latitude":35.393882,
     "geom:longitude":-77.914684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Green Dr",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370974545,
-    "wof:lastmodified":1449032028,
+    "wof:lastmodified":1466657242,
     "wof:name":"Sutton's Paint & Wallpaper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.914684,35.393882,-77.914684,35.393882],
-  "geometry": {"coordinates":[-77.914684,35.393882],"type":"Point"}
+  "bbox": [
+    -77.914684,
+    35.393882,
+    -77.914684,
+    35.393882
+],
+  "geometry": {"coordinates":[-77.91468399999999,35.393882],"type":"Point"}
 }

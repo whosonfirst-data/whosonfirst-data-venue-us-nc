@@ -2,13 +2,14 @@
   "id": 320510309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.876167,34.281999,-77.876167,34.281999",
     "geom:latitude":34.281999,
     "geom:longitude":-77.876167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2019 Capital Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320510309,
-    "wof:lastmodified":1449013497,
+    "wof:lastmodified":1466652517,
     "wof:name":"United Southern Supply",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.876167,34.281999,-77.876167,34.281999],
+  "bbox": [
+    -77.876167,
+    34.281999,
+    -77.876167,
+    34.281999
+],
   "geometry": {"coordinates":[-77.876167,34.281999],"type":"Point"}
 }

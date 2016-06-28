@@ -2,13 +2,14 @@
   "id": 252930297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.573463,35.79725,-81.573463,35.79725",
     "geom:latitude":35.79725,
     "geom:longitude":-81.573463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 Baton School Rd",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":252930297,
-    "wof:lastmodified":1449005752,
+    "wof:lastmodified":1466645224,
     "wof:name":"Williams Septic Tank Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-81.573463,35.79725,-81.573463,35.79725],
+  "bbox": [
+    -81.573463,
+    35.79725,
+    -81.573463,
+    35.79725
+],
   "geometry": {"coordinates":[-81.573463,35.79725],"type":"Point"}
 }

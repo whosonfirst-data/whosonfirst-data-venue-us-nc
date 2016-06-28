@@ -2,13 +2,14 @@
   "id": 403775251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.923356,34.269186,-77.923356,34.269186",
     "geom:latitude":34.269186,
     "geom:longitude":-77.923356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Blue Clay Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403775251,
-    "wof:lastmodified":1449055596,
+    "wof:lastmodified":1466651259,
     "wof:name":"Industrial Sales Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-77.923356,34.269186,-77.923356,34.269186],
+  "bbox": [
+    -77.923356,
+    34.269186,
+    -77.923356,
+    34.269186
+],
   "geometry": {"coordinates":[-77.923356,34.269186],"type":"Point"}
 }

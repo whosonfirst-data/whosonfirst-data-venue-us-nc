@@ -2,13 +2,14 @@
   "id": 203121451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.045943,34.698245,-77.045943,34.698245",
     "geom:latitude":34.698245,
     "geom:longitude":-77.045943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Dunshippen Ln",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203121451,
-    "wof:lastmodified":1449026415,
+    "wof:lastmodified":1466654898,
     "wof:name":"Starnes Tree Svc",
     "wof:parent_id":85812509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-77.045943,34.698245,-77.045943,34.698245],
-  "geometry": {"coordinates":[-77.045943,34.698245],"type":"Point"}
+  "bbox": [
+    -77.045943,
+    34.698245,
+    -77.045943,
+    34.698245
+],
+  "geometry": {"coordinates":[-77.04594299999999,34.698245],"type":"Point"}
 }

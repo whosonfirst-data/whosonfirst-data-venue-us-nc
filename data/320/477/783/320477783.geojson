@@ -2,13 +2,14 @@
   "id": 320477783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.995315,35.381338,-77.995315,35.381338",
     "geom:latitude":35.381338,
     "geom:longitude":-77.995315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Ormand Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320477783,
-    "wof:lastmodified":1449011892,
+    "wof:lastmodified":1466652042,
     "wof:name":"Warren KERR Walston & Taylor",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-77.995315,35.381338,-77.995315,35.381338],
-  "geometry": {"coordinates":[-77.995315,35.381338],"type":"Point"}
+  "bbox": [
+    -77.995315,
+    35.381338,
+    -77.995315,
+    35.381338
+],
+  "geometry": {"coordinates":[-77.99531500000001,35.381338],"type":"Point"}
 }

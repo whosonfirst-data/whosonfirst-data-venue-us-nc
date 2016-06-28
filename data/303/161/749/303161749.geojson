@@ -2,13 +2,14 @@
   "id": 303161749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.491363,33.94502,-78.491363,33.94502",
     "geom:latitude":33.94502,
     "geom:longitude":-78.491363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Ocean Ridge Pkwy SW",
     "sg:city":"Ocean Isle Beach",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303161749,
-    "wof:lastmodified":1448999086,
+    "wof:lastmodified":1466645636,
     "wof:name":"Ocean Ridge Plantation",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.491363,33.94502,-78.491363,33.94502],
-  "geometry": {"coordinates":[-78.491363,33.94502],"type":"Point"}
+  "bbox": [
+    -78.491363,
+    33.94502,
+    -78.491363,
+    33.94502
+],
+  "geometry": {"coordinates":[-78.49136300000001,33.94502],"type":"Point"}
 }

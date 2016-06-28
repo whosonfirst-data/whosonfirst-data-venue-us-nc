@@ -2,13 +2,14 @@
   "id": 286264775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.033796,35.089283,-84.033796,35.089283",
     "geom:latitude":35.089283,
     "geom:longitude":-84.033796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Hickory St",
     "sg:city":"Murphy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286264775,
-    "wof:lastmodified":1449017101,
+    "wof:lastmodified":1466643266,
     "wof:name":"Town Of Murphy Maintenance Shp",
     "wof:parent_id":85851975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-84.033796,35.089283,-84.033796,35.089283],
+  "bbox": [
+    -84.033796,
+    35.089283,
+    -84.033796,
+    35.089283
+],
   "geometry": {"coordinates":[-84.033796,35.089283],"type":"Point"}
 }

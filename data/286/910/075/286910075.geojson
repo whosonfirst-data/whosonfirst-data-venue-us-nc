@@ -2,13 +2,14 @@
   "id": 286910075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.073219,34.195443,-78.073219,34.195443",
     "geom:latitude":34.195443,
     "geom:longitude":-78.073219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Goodman Rd NE",
     "sg:city":"Bolivia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286910075,
-    "wof:lastmodified":1449016402,
+    "wof:lastmodified":1466651951,
     "wof:name":"Royal Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-78.073219,34.195443,-78.073219,34.195443],
-  "geometry": {"coordinates":[-78.073219,34.195443],"type":"Point"}
+  "bbox": [
+    -78.073219,
+    34.195443,
+    -78.073219,
+    34.195443
+],
+  "geometry": {"coordinates":[-78.07321899999999,34.195443],"type":"Point"}
 }

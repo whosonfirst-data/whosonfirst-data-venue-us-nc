@@ -2,13 +2,14 @@
   "id": 203127069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.552741,35.601467,-82.552741,35.601467",
     "geom:latitude":35.601467,
     "geom:longitude":-82.552741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Orange St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203127069,
-    "wof:lastmodified":1449026708,
+    "wof:lastmodified":1466654918,
     "wof:name":"Mountain Psychological Svc",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-82.552741,35.601467,-82.552741,35.601467],
+  "bbox": [
+    -82.552741,
+    35.601467,
+    -82.552741,
+    35.601467
+],
   "geometry": {"coordinates":[-82.552741,35.601467],"type":"Point"}
 }

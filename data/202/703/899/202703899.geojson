@@ -2,13 +2,14 @@
   "id": 202703899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.405849,35.592243,-77.405849,35.592243",
     "geom:latitude":35.592243,
     "geom:longitude":-77.405849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2780 Dickinson Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202703899,
-    "wof:lastmodified":1449060886,
+    "wof:lastmodified":1466643460,
     "wof:name":"Eastern Dental Arts",
     "wof:parent_id":85853845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-77.405849,35.592243,-77.405849,35.592243],
+  "bbox": [
+    -77.405849,
+    35.592243,
+    -77.405849,
+    35.592243
+],
   "geometry": {"coordinates":[-77.405849,35.592243],"type":"Point"}
 }

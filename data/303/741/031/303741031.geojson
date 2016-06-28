@@ -2,13 +2,14 @@
   "id": 303741031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.389299,35.522075,-78.389299,35.522075",
     "geom:latitude":35.522075,
     "geom:longitude":-78.389299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Ogburn Rd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303741031,
-    "wof:lastmodified":1448998251,
+    "wof:lastmodified":1466654005,
     "wof:name":"Willing Way Recovery House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-78.389299,35.522075,-78.389299,35.522075],
-  "geometry": {"coordinates":[-78.389299,35.522075],"type":"Point"}
+  "bbox": [
+    -78.389299,
+    35.522075,
+    -78.389299,
+    35.522075
+],
+  "geometry": {"coordinates":[-78.38929899999999,35.522075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336718149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.508738,35.686038,-80.508738,35.686038",
     "geom:latitude":35.686038,
     "geom:longitude":-80.508738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 Jake Alexander Blvd W",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336718149,
-    "wof:lastmodified":1448997182,
+    "wof:lastmodified":1466647631,
     "wof:name":"Patterson Paving",
     "wof:parent_id":85834229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.508738,35.686038,-80.508738,35.686038],
-  "geometry": {"coordinates":[-80.508738,35.686038],"type":"Point"}
+  "bbox": [
+    -80.508738,
+    35.686038,
+    -80.508738,
+    35.686038
+],
+  "geometry": {"coordinates":[-80.50873799999999,35.686038],"type":"Point"}
 }

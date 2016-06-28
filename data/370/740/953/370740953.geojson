@@ -2,13 +2,14 @@
   "id": 370740953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.356225,36.087809,-76.356225,36.087809",
     "geom:latitude":36.087809,
     "geom:longitude":-76.356225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"379 Goose Nest Ln",
     "sg:city":"Hertford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370740953,
-    "wof:lastmodified":1449030632,
+    "wof:lastmodified":1466655717,
     "wof:name":"Waltons Landing Drafting",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.356225,36.087809,-76.356225,36.087809],
-  "geometry": {"coordinates":[-76.356225,36.087809],"type":"Point"}
+  "bbox": [
+    -76.356225,
+    36.087809,
+    -76.356225,
+    36.087809
+],
+  "geometry": {"coordinates":[-76.35622499999999,36.087809],"type":"Point"}
 }

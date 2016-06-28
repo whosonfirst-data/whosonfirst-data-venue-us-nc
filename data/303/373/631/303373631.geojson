@@ -2,13 +2,14 @@
   "id": 303373631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.826887,35.214091,-80.826887,35.214091",
     "geom:latitude":35.214091,
     "geom:longitude":-80.826887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1527 Elizabeth Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303373631,
-    "wof:lastmodified":1448999386,
+    "wof:lastmodified":1466648694,
     "wof:name":"Selby & Calhoun PA",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-80.826887,35.214091,-80.826887,35.214091],
+  "bbox": [
+    -80.826887,
+    35.214091,
+    -80.826887,
+    35.214091
+],
   "geometry": {"coordinates":[-80.826887,35.214091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202458453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.54981,35.343044,-82.54981,35.343044",
     "geom:latitude":35.343044,
     "geom:longitude":-82.54981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3754 Brevard Rd",
     "sg:city":"Horse Shoe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202458453,
-    "wof:lastmodified":1449061904,
+    "wof:lastmodified":1466654618,
     "wof:name":"Studio U",
     "wof:parent_id":85857753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.54981,35.343044,-82.54981,35.343044],
-  "geometry": {"coordinates":[-82.54981,35.343044],"type":"Point"}
+  "bbox": [
+    -82.54981,
+    35.343044,
+    -82.54981,
+    35.343044
+],
+  "geometry": {"coordinates":[-82.54980999999999,35.343044],"type":"Point"}
 }

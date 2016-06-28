@@ -2,13 +2,14 @@
   "id": 236538635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.99443,36.171058,-78.99443,36.171058",
     "geom:latitude":36.171058,
     "geom:longitude":-78.99443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5317 Normans Rd",
     "sg:city":"Rougemont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236538635,
-    "wof:lastmodified":1449001989,
+    "wof:lastmodified":1466647970,
     "wof:name":"Normans House",
     "wof:parent_id":85857995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.99443,36.171058,-78.99443,36.171058],
-  "geometry": {"coordinates":[-78.99443,36.171058],"type":"Point"}
+  "bbox": [
+    -78.99443,
+    36.171058,
+    -78.99443,
+    36.171058
+],
+  "geometry": {"coordinates":[-78.99442999999999,36.171058],"type":"Point"}
 }

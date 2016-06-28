@@ -2,13 +2,14 @@
   "id": 387554525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.816567,35.822571,-78.816567,35.822571",
     "geom:latitude":35.822571,
     "geom:longitude":-78.816567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Delaplane Ct",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387554525,
-    "wof:lastmodified":1449056888,
+    "wof:lastmodified":1466656415,
     "wof:name":"Andrews Properties of Wak",
     "wof:parent_id":85857059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-78.816567,35.822571,-78.816567,35.822571],
-  "geometry": {"coordinates":[-78.816567,35.822571],"type":"Point"}
+  "bbox": [
+    -78.816567,
+    35.822571,
+    -78.816567,
+    35.822571
+],
+  "geometry": {"coordinates":[-78.81656700000001,35.822571],"type":"Point"}
 }

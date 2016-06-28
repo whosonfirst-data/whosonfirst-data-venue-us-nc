@@ -2,13 +2,14 @@
   "id": 320010231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.51171,35.298161,-80.51171,35.298161",
     "geom:latitude":35.298161,
     "geom:longitude":-80.51171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Baptist Ln",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320010231,
-    "wof:lastmodified":1449013582,
+    "wof:lastmodified":1466645500,
     "wof:name":"Howell's Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.51171,35.298161,-80.51171,35.298161],
-  "geometry": {"coordinates":[-80.51171,35.298161],"type":"Point"}
+  "bbox": [
+    -80.51171,
+    35.298161,
+    -80.51171,
+    35.298161
+],
+  "geometry": {"coordinates":[-80.51170999999999,35.298161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202391677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.830919,35.777355,-78.830919,35.777355",
     "geom:latitude":35.777355,
     "geom:longitude":-78.830919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Custer Trl",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202391677,
-    "wof:lastmodified":1449061709,
+    "wof:lastmodified":1466654152,
     "wof:name":"Pralle Painting & Powerwashing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "painter"
     ]
 },
-  "bbox": [-78.830919,35.777355,-78.830919,35.777355],
-  "geometry": {"coordinates":[-78.830919,35.777355],"type":"Point"}
+  "bbox": [
+    -78.830919,
+    35.777355,
+    -78.830919,
+    35.777355
+],
+  "geometry": {"coordinates":[-78.83091899999999,35.777355],"type":"Point"}
 }

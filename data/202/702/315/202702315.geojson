@@ -2,13 +2,14 @@
   "id": 202702315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.239147,35.472065,-81.239147,35.472065",
     "geom:latitude":35.472065,
     "geom:longitude":-81.239147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Dave Warlick Dr",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202702315,
-    "wof:lastmodified":1449061386,
+    "wof:lastmodified":1466643449,
     "wof:name":"Helping Hands Health Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.239147,35.472065,-81.239147,35.472065],
+  "bbox": [
+    -81.239147,
+    35.472065,
+    -81.239147,
+    35.472065
+],
   "geometry": {"coordinates":[-81.239147,35.472065],"type":"Point"}
 }

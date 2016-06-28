@@ -2,13 +2,14 @@
   "id": 303860589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.957844,35.098555,-80.957844,35.098555",
     "geom:latitude":35.098555,
     "geom:longitude":-80.957844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14301 S Lakes Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303860589,
-    "wof:lastmodified":1448999209,
+    "wof:lastmodified":1466655748,
     "wof:name":"South Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.957844,35.098555,-80.957844,35.098555],
-  "geometry": {"coordinates":[-80.957844,35.098555],"type":"Point"}
+  "bbox": [
+    -80.957844,
+    35.098555,
+    -80.957844,
+    35.098555
+],
+  "geometry": {"coordinates":[-80.95784399999999,35.098555],"type":"Point"}
 }

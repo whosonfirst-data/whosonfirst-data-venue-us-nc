@@ -2,13 +2,14 @@
   "id": 270461917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945208,35.03795,-77.945208,35.03795",
     "geom:latitude":35.03795,
     "geom:longitude":-77.945208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"897 Summerlin Crossroad Rd",
     "sg:city":"Kenansville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270461917,
-    "wof:lastmodified":1449009563,
+    "wof:lastmodified":1466648938,
     "wof:name":"Duplin County Recycling Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.945208,35.03795,-77.945208,35.03795],
-  "geometry": {"coordinates":[-77.945208,35.03795],"type":"Point"}
+  "bbox": [
+    -77.945208,
+    35.03795,
+    -77.945208,
+    35.03795
+],
+  "geometry": {"coordinates":[-77.94520799999999,35.03795],"type":"Point"}
 }

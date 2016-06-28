@@ -2,13 +2,14 @@
   "id": 387530187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.096855,36.08056,-79.096855,36.08056",
     "geom:latitude":36.08056,
     "geom:longitude":-79.096855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 E Union St",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387530187,
-    "wof:lastmodified":1449058134,
+    "wof:lastmodified":1466656276,
     "wof:name":"Mark T Sheridan",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.096855,36.08056,-79.096855,36.08056],
-  "geometry": {"coordinates":[-79.096855,36.08056],"type":"Point"}
+  "bbox": [
+    -79.096855,
+    36.08056,
+    -79.096855,
+    36.08056
+],
+  "geometry": {"coordinates":[-79.09685500000001,36.08056],"type":"Point"}
 }

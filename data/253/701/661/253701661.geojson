@@ -2,13 +2,14 @@
   "id": 253701661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.395192,35.597168,-77.395192,35.597168",
     "geom:latitude":35.597168,
     "geom:longitude":-77.395192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 S Memorial Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253701661,
-    "wof:lastmodified":1449065143,
+    "wof:lastmodified":1466650762,
     "wof:name":"Greenville Motel",
     "wof:parent_id":85853845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-77.395192,35.597168,-77.395192,35.597168],
-  "geometry": {"coordinates":[-77.395192,35.597168],"type":"Point"}
+  "bbox": [
+    -77.395192,
+    35.597168,
+    -77.395192,
+    35.597168
+],
+  "geometry": {"coordinates":[-77.39519199999999,35.597168],"type":"Point"}
 }

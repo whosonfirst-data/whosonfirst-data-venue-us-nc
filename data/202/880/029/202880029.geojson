@@ -2,13 +2,14 @@
   "id": 202880029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.382098,34.760372,-77.382098,34.760372",
     "geom:latitude":34.760372,
     "geom:longitude":-77.382098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Western Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202880029,
-    "wof:lastmodified":1449062676,
+    "wof:lastmodified":1466644787,
     "wof:name":"Navy Federal Credit Union",
     "wof:parent_id":85812495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-77.382098,34.760372,-77.382098,34.760372],
+  "bbox": [
+    -77.382098,
+    34.760372,
+    -77.382098,
+    34.760372
+],
   "geometry": {"coordinates":[-77.382098,34.760372],"type":"Point"}
 }

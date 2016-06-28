@@ -2,13 +2,14 @@
   "id": 303614051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.402999,36.084495,-79.402999,36.084495",
     "geom:latitude":36.084495,
     "geom:longitude":-79.402999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Hanover Rd",
     "sg:city":"Graham",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303614051,
-    "wof:lastmodified":1449000636,
+    "wof:lastmodified":1466652156,
     "wof:name":"JIT Technologies",
     "wof:parent_id":85838431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.402999,36.084495,-79.402999,36.084495],
-  "geometry": {"coordinates":[-79.402999,36.084495],"type":"Point"}
+  "bbox": [
+    -79.402999,
+    36.084495,
+    -79.402999,
+    36.084495
+],
+  "geometry": {"coordinates":[-79.40299899999999,36.084495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336655515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.508238,35.978378,-78.508238,35.978378",
     "geom:latitude":35.978378,
     "geom:longitude":-78.508238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Brooks St",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336655515,
-    "wof:lastmodified":1448997552,
+    "wof:lastmodified":1466646701,
     "wof:name":"Binswanger Glass",
     "wof:parent_id":85892169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glass"
     ]
 },
-  "bbox": [-78.508238,35.978378,-78.508238,35.978378],
-  "geometry": {"coordinates":[-78.508238,35.978378],"type":"Point"}
+  "bbox": [
+    -78.508238,
+    35.978378,
+    -78.508238,
+    35.978378
+],
+  "geometry": {"coordinates":[-78.50823800000001,35.978378],"type":"Point"}
 }

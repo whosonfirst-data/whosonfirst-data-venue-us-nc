@@ -2,13 +2,14 @@
   "id": 253550271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.240946,35.257199,-81.240946,35.257199",
     "geom:latitude":35.257199,
     "geom:longitude":-81.240946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Shannon Bradley Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253550271,
-    "wof:lastmodified":1449064434,
+    "wof:lastmodified":1466648967,
     "wof:name":"Beaver Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "work"
     ]
 },
-  "bbox": [-81.240946,35.257199,-81.240946,35.257199],
-  "geometry": {"coordinates":[-81.240946,35.257199],"type":"Point"}
+  "bbox": [
+    -81.240946,
+    35.257199,
+    -81.240946,
+    35.257199
+],
+  "geometry": {"coordinates":[-81.24094599999999,35.257199],"type":"Point"}
 }

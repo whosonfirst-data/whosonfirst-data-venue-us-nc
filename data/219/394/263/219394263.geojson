@@ -2,13 +2,14 @@
   "id": 219394263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.881256,34.10303,-77.881256,34.10303",
     "geom:latitude":34.10303,
     "geom:longitude":-77.881256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7103 English Lndg",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219394263,
-    "wof:lastmodified":1449071081,
+    "wof:lastmodified":1466644100,
     "wof:name":"ACS Consulting & Sales",
     "wof:parent_id":85822927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [-77.881256,34.10303,-77.881256,34.10303],
-  "geometry": {"coordinates":[-77.881256,34.10303],"type":"Point"}
+  "bbox": [
+    -77.881256,
+    34.10303,
+    -77.881256,
+    34.10303
+],
+  "geometry": {"coordinates":[-77.88125599999999,34.10303],"type":"Point"}
 }

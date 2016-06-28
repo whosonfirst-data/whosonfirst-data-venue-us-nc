@@ -2,13 +2,14 @@
   "id": 387962553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.562931,35.843821,-79.562931,35.843821",
     "geom:latitude":35.843821,
     "geom:longitude":-79.562931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 E Ridge Ave",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387962553,
-    "wof:lastmodified":1449058338,
+    "wof:lastmodified":1466658079,
     "wof:name":"Tinas Beauty Shop",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.562931,35.843821,-79.562931,35.843821],
-  "geometry": {"coordinates":[-79.562931,35.843821],"type":"Point"}
+  "bbox": [
+    -79.562931,
+    35.843821,
+    -79.562931,
+    35.843821
+],
+  "geometry": {"coordinates":[-79.56293100000001,35.843821],"type":"Point"}
 }

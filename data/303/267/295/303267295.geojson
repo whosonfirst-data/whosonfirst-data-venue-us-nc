@@ -2,13 +2,14 @@
   "id": 303267295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.019287,35.917011,-79.019287,35.917011",
     "geom:latitude":35.917011,
     "geom:longitude":-79.019287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Kendall Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303267295,
-    "wof:lastmodified":1449000342,
+    "wof:lastmodified":1466647202,
     "wof:name":"Steven Clipp Architecture",
     "wof:parent_id":85852087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-79.019287,35.917011,-79.019287,35.917011],
-  "geometry": {"coordinates":[-79.019287,35.917011],"type":"Point"}
+  "bbox": [
+    -79.019287,
+    35.917011,
+    -79.019287,
+    35.917011
+],
+  "geometry": {"coordinates":[-79.01928700000001,35.917011],"type":"Point"}
 }

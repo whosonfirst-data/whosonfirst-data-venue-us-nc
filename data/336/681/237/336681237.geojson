@@ -2,13 +2,14 @@
   "id": 336681237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.945456,36.430005,-78.945456,36.430005",
     "geom:latitude":36.430005,
     "geom:longitude":-78.945456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"878 Clay Thomas Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336681237,
-    "wof:lastmodified":1448997597,
+    "wof:lastmodified":1466647093,
     "wof:name":"Shotwells Lawn Maintenance",
     "wof:parent_id":85808801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.945456,36.430005,-78.945456,36.430005],
-  "geometry": {"coordinates":[-78.945456,36.430005],"type":"Point"}
+  "bbox": [
+    -78.945456,
+    36.430005,
+    -78.945456,
+    36.430005
+],
+  "geometry": {"coordinates":[-78.94545599999999,36.430005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320575935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.946494,34.254543,-77.946494,34.254543",
     "geom:latitude":34.254543,
     "geom:longitude":-77.946494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 N 4th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320575935,
-    "wof:lastmodified":1449012345,
+    "wof:lastmodified":1466653480,
     "wof:name":"Pet Dairy",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-77.946494,34.254543,-77.946494,34.254543],
+  "bbox": [
+    -77.946494,
+    34.254543,
+    -77.946494,
+    34.254543
+],
   "geometry": {"coordinates":[-77.946494,34.254543],"type":"Point"}
 }

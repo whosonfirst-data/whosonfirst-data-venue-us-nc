@@ -2,13 +2,14 @@
   "id": 219365495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.459258,35.868063,-78.459258,35.868063",
     "geom:latitude":35.868063,
     "geom:longitude":-78.459258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 Greenbrook Dr",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219365495,
-    "wof:lastmodified":1449070953,
+    "wof:lastmodified":1466643826,
     "wof:name":"Russells Electric Service",
     "wof:parent_id":85892201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.459258,35.868063,-78.459258,35.868063],
-  "geometry": {"coordinates":[-78.459258,35.868063],"type":"Point"}
+  "bbox": [
+    -78.459258,
+    35.868063,
+    -78.459258,
+    35.868063
+],
+  "geometry": {"coordinates":[-78.45925800000001,35.868063],"type":"Point"}
 }

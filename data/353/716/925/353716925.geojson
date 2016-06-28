@@ -2,13 +2,14 @@
   "id": 353716925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.002171,36.284472,-80.002171,36.284472",
     "geom:latitude":36.284472,
     "geom:longitude":-80.002171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Hilton Rd",
     "sg:city":"Stokesdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353716925,
-    "wof:lastmodified":1449018611,
+    "wof:lastmodified":1466650820,
     "wof:name":"Animal Rescue",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rescue"
     ]
 },
-  "bbox": [-80.002171,36.284472,-80.002171,36.284472],
+  "bbox": [
+    -80.002171,
+    36.284472,
+    -80.002171,
+    36.284472
+],
   "geometry": {"coordinates":[-80.002171,36.284472],"type":"Point"}
 }

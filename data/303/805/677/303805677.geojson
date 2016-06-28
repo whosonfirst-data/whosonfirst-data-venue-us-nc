@@ -2,13 +2,14 @@
   "id": 303805677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.737828,35.494463,-78.737828,35.494463",
     "geom:latitude":35.494463,
     "geom:longitude":-78.737828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Bristol Ct",
     "sg:city":"Angier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303805677,
-    "wof:lastmodified":1448998933,
+    "wof:lastmodified":1466654944,
     "wof:name":"Carolina Signs & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sign"
     ]
 },
-  "bbox": [-78.737828,35.494463,-78.737828,35.494463],
-  "geometry": {"coordinates":[-78.737828,35.494463],"type":"Point"}
+  "bbox": [
+    -78.737828,
+    35.494463,
+    -78.737828,
+    35.494463
+],
+  "geometry": {"coordinates":[-78.73782799999999,35.494463],"type":"Point"}
 }

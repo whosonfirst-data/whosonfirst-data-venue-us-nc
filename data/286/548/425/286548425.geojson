@@ -2,13 +2,14 @@
   "id": 286548425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.194725,35.239275,-81.194725,35.239275",
     "geom:latitude":35.239275,
     "geom:longitude":-81.194725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1848 S York Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286548425,
-    "wof:lastmodified":1449017219,
+    "wof:lastmodified":1466647019,
     "wof:name":"Gastonia ABC System",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.194725,35.239275,-81.194725,35.239275],
-  "geometry": {"coordinates":[-81.194725,35.239275],"type":"Point"}
+  "bbox": [
+    -81.194725,
+    35.239275,
+    -81.194725,
+    35.239275
+],
+  "geometry": {"coordinates":[-81.19472500000001,35.239275],"type":"Point"}
 }

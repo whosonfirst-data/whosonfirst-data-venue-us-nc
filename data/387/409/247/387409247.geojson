@@ -2,13 +2,14 @@
   "id": 387409247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.422568,34.752005,-77.422568,34.752005",
     "geom:latitude":34.752005,
     "geom:longitude":-77.422568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Johnson Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387409247,
-    "wof:lastmodified":1449057669,
+    "wof:lastmodified":1466655235,
     "wof:name":"WCTI",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "co"
     ]
 },
-  "bbox": [-77.422568,34.752005,-77.422568,34.752005],
+  "bbox": [
+    -77.422568,
+    34.752005,
+    -77.422568,
+    34.752005
+],
   "geometry": {"coordinates":[-77.422568,34.752005],"type":"Point"}
 }

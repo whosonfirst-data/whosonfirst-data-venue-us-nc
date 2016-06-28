@@ -2,13 +2,14 @@
   "id": 269959655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.225603,36.14754,-80.225603,36.14754",
     "geom:latitude":36.14754,
     "geom:longitude":-80.225603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4218 N Liberty St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269959655,
-    "wof:lastmodified":1449038743,
+    "wof:lastmodified":1466648872,
     "wof:name":"Shawn's Custom Stringing",
     "wof:parent_id":85835089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instruction"
     ]
 },
-  "bbox": [-80.225603,36.14754,-80.225603,36.14754],
-  "geometry": {"coordinates":[-80.225603,36.14754],"type":"Point"}
+  "bbox": [
+    -80.225603,
+    36.14754,
+    -80.225603,
+    36.14754
+],
+  "geometry": {"coordinates":[-80.22560300000001,36.14754],"type":"Point"}
 }

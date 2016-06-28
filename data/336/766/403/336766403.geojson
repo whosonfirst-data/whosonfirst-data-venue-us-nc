@@ -2,13 +2,14 @@
   "id": 336766403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.884036,35.969149,-77.884036,35.969149",
     "geom:latitude":35.969149,
     "geom:longitude":-77.884036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4431 Sunset Ave",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336766403,
-    "wof:lastmodified":1448996908,
+    "wof:lastmodified":1466648352,
     "wof:name":"Layton Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [-77.884036,35.969149,-77.884036,35.969149],
-  "geometry": {"coordinates":[-77.884036,35.969149],"type":"Point"}
+  "bbox": [
+    -77.884036,
+    35.969149,
+    -77.884036,
+    35.969149
+],
+  "geometry": {"coordinates":[-77.88403599999999,35.969149],"type":"Point"}
 }

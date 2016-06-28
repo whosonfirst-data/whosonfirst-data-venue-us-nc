@@ -2,13 +2,14 @@
   "id": 303911083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.976706,35.167788,-78.976706,35.167788",
     "geom:latitude":35.167788,
     "geom:longitude":-78.976706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 N Main St",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303911083,
-    "wof:lastmodified":1449000160,
+    "wof:lastmodified":1466656296,
     "wof:name":"Henry's Restaurant",
     "wof:parent_id":85804723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.976706,35.167788,-78.976706,35.167788],
-  "geometry": {"coordinates":[-78.976706,35.167788],"type":"Point"}
+  "bbox": [
+    -78.976706,
+    35.167788,
+    -78.976706,
+    35.167788
+],
+  "geometry": {"coordinates":[-78.97670599999999,35.167788],"type":"Point"}
 }

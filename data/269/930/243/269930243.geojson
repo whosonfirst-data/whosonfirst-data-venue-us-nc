@@ -2,13 +2,14 @@
   "id": 269930243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.176871,35.513266,-79.176871,35.513266",
     "geom:latitude":35.513266,
     "geom:longitude":-79.176871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Golf Course Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269930243,
-    "wof:lastmodified":1449036919,
+    "wof:lastmodified":1466648500,
     "wof:name":"Sanford City of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-79.176871,35.513266,-79.176871,35.513266],
-  "geometry": {"coordinates":[-79.176871,35.513266],"type":"Point"}
+  "bbox": [
+    -79.176871,
+    35.513266,
+    -79.176871,
+    35.513266
+],
+  "geometry": {"coordinates":[-79.17687100000001,35.513266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370623379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.752953,35.765315,-78.752953,35.765315",
     "geom:latitude":35.765315,
     "geom:longitude":-78.752953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 Walnut St",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370623379,
-    "wof:lastmodified":1449031463,
+    "wof:lastmodified":1466654177,
     "wof:name":"Cary Church Of God",
     "wof:parent_id":85857861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.752953,35.765315,-78.752953,35.765315],
-  "geometry": {"coordinates":[-78.752953,35.765315],"type":"Point"}
+  "bbox": [
+    -78.752953,
+    35.765315,
+    -78.752953,
+    35.765315
+],
+  "geometry": {"coordinates":[-78.75295300000001,35.765315],"type":"Point"}
 }

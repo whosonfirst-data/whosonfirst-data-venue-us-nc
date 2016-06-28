@@ -2,13 +2,14 @@
   "id": 236375945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.319663,35.517635,-78.319663,35.517635",
     "geom:latitude":35.517635,
     "geom:longitude":-78.319663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 N Brightleaf Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236375945,
-    "wof:lastmodified":1449001765,
+    "wof:lastmodified":1466646511,
     "wof:name":"Smithfield Chevrolet Jeep Inc",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.319663,35.517635,-78.319663,35.517635],
-  "geometry": {"coordinates":[-78.319663,35.517635],"type":"Point"}
+  "bbox": [
+    -78.319663,
+    35.517635,
+    -78.319663,
+    35.517635
+],
+  "geometry": {"coordinates":[-78.31966300000001,35.517635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353673329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.704178,34.319521,-78.704178,34.319521",
     "geom:latitude":34.319521,
     "geom:longitude":-78.704178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Caldis St",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353673329,
-    "wof:lastmodified":1449019253,
+    "wof:lastmodified":1466650277,
     "wof:name":"Fish House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-78.704178,34.319521,-78.704178,34.319521],
+  "bbox": [
+    -78.704178,
+    34.319521,
+    -78.704178,
+    34.319521
+],
   "geometry": {"coordinates":[-78.704178,34.319521],"type":"Point"}
 }

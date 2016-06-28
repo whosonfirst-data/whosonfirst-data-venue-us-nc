@@ -2,13 +2,14 @@
   "id": 203373217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.649854,35.806624,-78.649854,35.806624",
     "geom:latitude":35.806624,
     "geom:longitude":-78.649854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Fairview Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203373217,
-    "wof:lastmodified":1449025911,
+    "wof:lastmodified":1466643787,
     "wof:name":"North Carolina Fiscal Literacy",
     "wof:parent_id":85824345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-78.649854,35.806624,-78.649854,35.806624],
+  "bbox": [
+    -78.649854,
+    35.806624,
+    -78.649854,
+    35.806624
+],
   "geometry": {"coordinates":[-78.649854,35.806624],"type":"Point"}
 }

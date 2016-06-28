@@ -2,13 +2,14 @@
   "id": 387405103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.873356,34.235514,-77.873356,34.235514",
     "geom:latitude":34.235514,
     "geom:longitude":-77.873356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 S College Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387405103,
-    "wof:lastmodified":1449059598,
+    "wof:lastmodified":1466655181,
     "wof:name":"Lowes Foods",
     "wof:parent_id":85811739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.873356,34.235514,-77.873356,34.235514],
+  "bbox": [
+    -77.873356,
+    34.235514,
+    -77.873356,
+    34.235514
+],
   "geometry": {"coordinates":[-77.873356,34.235514],"type":"Point"}
 }

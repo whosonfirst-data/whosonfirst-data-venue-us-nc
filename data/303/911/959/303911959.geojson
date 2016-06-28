@@ -2,13 +2,14 @@
   "id": 303911959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.25204,34.782551,-77.25204,34.782551",
     "geom:latitude":34.782551,
     "geom:longitude":-77.25204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Gillis Rd",
     "sg:city":"Maysville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303911959,
-    "wof:lastmodified":1449000163,
+    "wof:lastmodified":1466656307,
     "wof:name":"Millinder Truck Svc",
     "wof:parent_id":85834913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-77.25204,34.782551,-77.25204,34.782551],
-  "geometry": {"coordinates":[-77.25204,34.782551],"type":"Point"}
+  "bbox": [
+    -77.25204,
+    34.782551,
+    -77.25204,
+    34.782551
+],
+  "geometry": {"coordinates":[-77.25203999999999,34.782551],"type":"Point"}
 }

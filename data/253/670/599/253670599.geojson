@@ -2,13 +2,14 @@
   "id": 253670599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.491447,35.323217,-82.491447,35.323217",
     "geom:latitude":35.323217,
     "geom:longitude":-82.491447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Pisgah Dr",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253670599,
-    "wof:lastmodified":1449063260,
+    "wof:lastmodified":1466650400,
     "wof:name":"Spring Arbor West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-82.491447,35.323217,-82.491447,35.323217],
-  "geometry": {"coordinates":[-82.491447,35.323217],"type":"Point"}
+  "bbox": [
+    -82.491447,
+    35.323217,
+    -82.491447,
+    35.323217
+],
+  "geometry": {"coordinates":[-82.49144699999999,35.323217],"type":"Point"}
 }

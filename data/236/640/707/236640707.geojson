@@ -2,13 +2,14 @@
   "id": 236640707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.952019,35.071915,-78.952019,35.071915",
     "geom:latitude":35.071915,
     "geom:longitude":-78.952019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 N McPherson Church Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236640707,
-    "wof:lastmodified":1449003024,
+    "wof:lastmodified":1466648911,
     "wof:name":"MDC II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.952019,35.071915,-78.952019,35.071915],
-  "geometry": {"coordinates":[-78.952019,35.071915],"type":"Point"}
+  "bbox": [
+    -78.952019,
+    35.071915,
+    -78.952019,
+    35.071915
+],
+  "geometry": {"coordinates":[-78.95201900000001,35.071915],"type":"Point"}
 }

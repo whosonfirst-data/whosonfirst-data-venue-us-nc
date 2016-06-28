@@ -2,13 +2,14 @@
   "id": 319850223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.097134,35.550215,-81.097134,35.550215",
     "geom:latitude":35.550215,
     "geom:longitude":-81.097134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3739 Ashland Dr",
     "sg:city":"Maiden",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":319850223,
-    "wof:lastmodified":1449024537,
+    "wof:lastmodified":1466645310,
     "wof:name":"Accelrys Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.097134,35.550215,-81.097134,35.550215],
+  "bbox": [
+    -81.097134,
+    35.550215,
+    -81.097134,
+    35.550215
+],
   "geometry": {"coordinates":[-81.097134,35.550215],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203009203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.919823,35.693726,-78.919823,35.693726",
     "geom:latitude":35.693726,
     "geom:longitude":-78.919823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3217 Hinsley Rd",
     "sg:city":"New Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203009203,
-    "wof:lastmodified":1449026847,
+    "wof:lastmodified":1466654203,
     "wof:name":"Plan B Productions",
     "wof:parent_id":85892021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "distribution"
     ]
 },
-  "bbox": [-78.919823,35.693726,-78.919823,35.693726],
-  "geometry": {"coordinates":[-78.919823,35.693726],"type":"Point"}
+  "bbox": [
+    -78.919823,
+    35.693726,
+    -78.919823,
+    35.693726
+],
+  "geometry": {"coordinates":[-78.91982299999999,35.693726],"type":"Point"}
 }

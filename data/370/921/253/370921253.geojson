@@ -2,13 +2,14 @@
   "id": 370921253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.977973,35.370924,-77.977973,35.370924",
     "geom:latitude":35.370924,
     "geom:longitude":-77.977973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 S Andrews Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370921253,
-    "wof:lastmodified":1449031249,
+    "wof:lastmodified":1466657006,
     "wof:name":"Long Vending",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-77.977973,35.370924,-77.977973,35.370924],
-  "geometry": {"coordinates":[-77.977973,35.370924],"type":"Point"}
+  "bbox": [
+    -77.977973,
+    35.370924,
+    -77.977973,
+    35.370924
+],
+  "geometry": {"coordinates":[-77.97797300000001,35.370924],"type":"Point"}
 }

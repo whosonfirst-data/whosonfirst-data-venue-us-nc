@@ -2,13 +2,14 @@
   "id": 286695029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.404171,35.819326,-77.404171,35.819326",
     "geom:latitude":35.819326,
     "geom:longitude":-77.404171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4125 Whitfield Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286695029,
-    "wof:lastmodified":1449016293,
+    "wof:lastmodified":1466649021,
     "wof:name":"M & J Electric",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.404171,35.819326,-77.404171,35.819326],
-  "geometry": {"coordinates":[-77.404171,35.819326],"type":"Point"}
+  "bbox": [
+    -77.404171,
+    35.819326,
+    -77.404171,
+    35.819326
+],
+  "geometry": {"coordinates":[-77.40417100000001,35.819326],"type":"Point"}
 }

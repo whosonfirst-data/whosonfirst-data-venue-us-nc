@@ -2,13 +2,14 @@
   "id": 371081567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.594991,36.490403,-80.594991,36.490403",
     "geom:latitude":36.490403,
     "geom:longitude":-80.594991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1496 US Hwy 52 Bus",
     "sg:city":"Mount Airy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371081567,
-    "wof:lastmodified":1449049334,
+    "wof:lastmodified":1466649852,
     "wof:name":"Mount Airy Oil Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.594991,36.490403,-80.594991,36.490403],
-  "geometry": {"coordinates":[-80.594991,36.490403],"type":"Point"}
+  "bbox": [
+    -80.594991,
+    36.490403,
+    -80.594991,
+    36.490403
+],
+  "geometry": {"coordinates":[-80.59499099999999,36.490403],"type":"Point"}
 }

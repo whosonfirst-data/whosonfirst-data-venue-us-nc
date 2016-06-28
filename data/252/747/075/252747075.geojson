@@ -2,13 +2,14 @@
   "id": 252747075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.058624,35.915206,-79.058624,35.915206",
     "geom:latitude":35.915206,
     "geom:longitude":-79.058624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Pritchard Ave",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":252747075,
-    "wof:lastmodified":1449005606,
+    "wof:lastmodified":1466643566,
     "wof:name":"Rivers Agency Inc",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-79.058624,35.915206,-79.058624,35.915206],
-  "geometry": {"coordinates":[-79.058624,35.915206],"type":"Point"}
+  "bbox": [
+    -79.058624,
+    35.915206,
+    -79.058624,
+    35.915206
+],
+  "geometry": {"coordinates":[-79.05862399999999,35.915206],"type":"Point"}
 }

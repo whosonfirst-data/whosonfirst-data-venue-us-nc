@@ -2,13 +2,14 @@
   "id": 387751615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.038985,35.54725,-77.038985,35.54725",
     "geom:latitude":35.54725,
     "geom:longitude":-77.038985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 John Small Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387751615,
-    "wof:lastmodified":1449056327,
+    "wof:lastmodified":1466657634,
     "wof:name":"Pedals & Produce",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-77.038985,35.54725,-77.038985,35.54725],
+  "bbox": [
+    -77.038985,
+    35.54725,
+    -77.038985,
+    35.54725
+],
   "geometry": {"coordinates":[-77.038985,35.54725],"type":"Point"}
 }

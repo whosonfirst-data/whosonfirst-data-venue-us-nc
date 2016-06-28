@@ -2,13 +2,14 @@
   "id": 253658701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.649945,35.788546,-78.649945,35.788546",
     "geom:latitude":35.788546,
     "geom:longitude":-78.649945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Gaston St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253658701,
-    "wof:lastmodified":1449062766,
+    "wof:lastmodified":1466650251,
     "wof:name":"Twigg's Appraisal Svc",
     "wof:parent_id":85892063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-78.649945,35.788546,-78.649945,35.788546],
+  "bbox": [
+    -78.649945,
+    35.788546,
+    -78.649945,
+    35.788546
+],
   "geometry": {"coordinates":[-78.649945,35.788546],"type":"Point"}
 }

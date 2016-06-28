@@ -2,13 +2,14 @@
   "id": 320376163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.008209,35.366492,-78.008209,35.366492",
     "geom:latitude":35.366492,
     "geom:longitude":-78.008209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S George St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320376163,
-    "wof:lastmodified":1449012554,
+    "wof:lastmodified":1466650574,
     "wof:name":"Victory Warehouse",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tobacco"
     ]
 },
-  "bbox": [-78.008209,35.366492,-78.008209,35.366492],
-  "geometry": {"coordinates":[-78.008209,35.366492],"type":"Point"}
+  "bbox": [
+    -78.008209,
+    35.366492,
+    -78.008209,
+    35.366492
+],
+  "geometry": {"coordinates":[-78.00820899999999,35.366492],"type":"Point"}
 }

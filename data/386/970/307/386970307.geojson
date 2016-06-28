@@ -2,13 +2,14 @@
   "id": 386970307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.990074,35.390357,-77.990074,35.390357",
     "geom:latitude":35.390357,
     "geom:longitude":-77.990074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 N William St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386970307,
-    "wof:lastmodified":1449028969,
+    "wof:lastmodified":1466649936,
     "wof:name":"Coastline Sales & Service Ctr",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.990074,35.390357,-77.990074,35.390357],
-  "geometry": {"coordinates":[-77.990074,35.390357],"type":"Point"}
+  "bbox": [
+    -77.990074,
+    35.390357,
+    -77.990074,
+    35.390357
+],
+  "geometry": {"coordinates":[-77.99007400000001,35.390357],"type":"Point"}
 }

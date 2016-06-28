@@ -2,13 +2,14 @@
   "id": 286949575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.149015,35.249408,-80.149015,35.249408",
     "geom:latitude":35.249408,
     "geom:longitude":-80.149015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42220 Bowers Rd",
     "sg:city":"Norwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286949575,
-    "wof:lastmodified":1449017025,
+    "wof:lastmodified":1466652510,
     "wof:name":"Brents Tractor Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tractor"
     ]
 },
-  "bbox": [-80.149015,35.249408,-80.149015,35.249408],
-  "geometry": {"coordinates":[-80.149015,35.249408],"type":"Point"}
+  "bbox": [
+    -80.149015,
+    35.249408,
+    -80.149015,
+    35.249408
+],
+  "geometry": {"coordinates":[-80.14901500000001,35.249408],"type":"Point"}
 }

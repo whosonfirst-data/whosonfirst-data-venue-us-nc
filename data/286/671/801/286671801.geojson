@@ -2,13 +2,14 @@
   "id": 286671801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.539982,35.911556,-77.539982,35.911556",
     "geom:latitude":35.911556,
     "geom:longitude":-77.539982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Morrison Ave",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286671801,
-    "wof:lastmodified":1449015840,
+    "wof:lastmodified":1466648714,
     "wof:name":"Heart To Heart",
     "wof:parent_id":85856477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.539982,35.911556,-77.539982,35.911556],
-  "geometry": {"coordinates":[-77.539982,35.911556],"type":"Point"}
+  "bbox": [
+    -77.539982,
+    35.911556,
+    -77.539982,
+    35.911556
+],
+  "geometry": {"coordinates":[-77.53998199999999,35.911556],"type":"Point"}
 }

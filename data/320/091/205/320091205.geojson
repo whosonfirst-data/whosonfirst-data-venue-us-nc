@@ -2,13 +2,14 @@
   "id": 320091205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.391115,36.412263,-81.391115,36.412263",
     "geom:latitude":36.412263,
     "geom:longitude":-81.391115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1477 Wagoner Access Rd",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320091205,
-    "wof:lastmodified":1449011609,
+    "wof:lastmodified":1466646585,
     "wof:name":"New River State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-81.391115,36.412263,-81.391115,36.412263],
+  "bbox": [
+    -81.391115,
+    36.412263,
+    -81.391115,
+    36.412263
+],
   "geometry": {"coordinates":[-81.391115,36.412263],"type":"Point"}
 }

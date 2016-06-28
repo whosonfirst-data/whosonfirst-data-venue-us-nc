@@ -2,13 +2,14 @@
   "id": 403755827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.173809,35.264676,-81.173809,35.264676",
     "geom:latitude":35.264676,
     "geom:longitude":-81.173809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 E Long Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403755827,
-    "wof:lastmodified":1449055016,
+    "wof:lastmodified":1466651016,
     "wof:name":"International Minute Press",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "offset"
     ]
 },
-  "bbox": [-81.173809,35.264676,-81.173809,35.264676],
-  "geometry": {"coordinates":[-81.173809,35.264676],"type":"Point"}
+  "bbox": [
+    -81.173809,
+    35.264676,
+    -81.173809,
+    35.264676
+],
+  "geometry": {"coordinates":[-81.17380900000001,35.264676],"type":"Point"}
 }

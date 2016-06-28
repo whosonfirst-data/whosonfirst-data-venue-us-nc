@@ -2,13 +2,14 @@
   "id": 304020285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.477022,35.848995,-81.477022,35.848995",
     "geom:latitude":35.848995,
     "geom:longitude":-81.477022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2998 Hickory Blvd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304020285,
-    "wof:lastmodified":1449043806,
+    "wof:lastmodified":1466644443,
     "wof:name":"Fleming Decorative Fabrics",
     "wof:parent_id":85833019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "draper"
     ]
 },
-  "bbox": [-81.477022,35.848995,-81.477022,35.848995],
-  "geometry": {"coordinates":[-81.477022,35.848995],"type":"Point"}
+  "bbox": [
+    -81.477022,
+    35.848995,
+    -81.477022,
+    35.848995
+],
+  "geometry": {"coordinates":[-81.47702200000001,35.848995],"type":"Point"}
 }

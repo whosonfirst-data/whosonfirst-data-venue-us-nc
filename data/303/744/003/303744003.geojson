@@ -2,13 +2,14 @@
   "id": 303744003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.891601,35.97975,-78.891601,35.97975",
     "geom:latitude":35.97975,
     "geom:longitude":-78.891601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 S Alston Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303744003,
-    "wof:lastmodified":1448999002,
+    "wof:lastmodified":1466654053,
     "wof:name":"King Tatz",
     "wof:parent_id":85877165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-78.891601,35.97975,-78.891601,35.97975],
-  "geometry": {"coordinates":[-78.891601,35.97975],"type":"Point"}
+  "bbox": [
+    -78.891601,
+    35.97975,
+    -78.891601,
+    35.97975
+],
+  "geometry": {"coordinates":[-78.89160099999999,35.97975],"type":"Point"}
 }

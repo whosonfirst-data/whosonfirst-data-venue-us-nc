@@ -2,13 +2,14 @@
   "id": 219984823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.913891,35.715304,-77.913891,35.715304",
     "geom:latitude":35.715304,
     "geom:longitude":-77.913891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Walnut St S",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219984823,
-    "wof:lastmodified":1449072378,
+    "wof:lastmodified":1466648713,
     "wof:name":"Wilson Housing Auth Comm Ctr",
     "wof:parent_id":85819519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-77.913891,35.715304,-77.913891,35.715304],
-  "geometry": {"coordinates":[-77.913891,35.715304],"type":"Point"}
+  "bbox": [
+    -77.913891,
+    35.715304,
+    -77.913891,
+    35.715304
+],
+  "geometry": {"coordinates":[-77.91389100000001,35.715304],"type":"Point"}
 }

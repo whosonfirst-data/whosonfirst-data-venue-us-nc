@@ -2,13 +2,14 @@
   "id": 303325211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.361903,36.155949,-81.361903,36.155949",
     "geom:latitude":36.155949,
     "geom:longitude":-81.361903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Lewis Fork Baptist Church Rd",
     "sg:city":"Purlear",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303325211,
-    "wof:lastmodified":1448999078,
+    "wof:lastmodified":1466648008,
     "wof:name":"Dial-A-Prayer",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.361903,36.155949,-81.361903,36.155949],
+  "bbox": [
+    -81.361903,
+    36.155949,
+    -81.361903,
+    36.155949
+],
   "geometry": {"coordinates":[-81.361903,36.155949],"type":"Point"}
 }

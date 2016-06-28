@@ -2,13 +2,14 @@
   "id": 354275179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.903557,34.234004,-77.903557,34.234004",
     "geom:latitude":34.234004,
     "geom:longitude":-77.903557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Darlington Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354275179,
-    "wof:lastmodified":1449066459,
+    "wof:lastmodified":1466650712,
     "wof:name":"Reserve At Forest Hills",
     "wof:parent_id":85804465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-77.903557,34.234004,-77.903557,34.234004],
-  "geometry": {"coordinates":[-77.903557,34.234004],"type":"Point"}
+  "bbox": [
+    -77.903557,
+    34.234004,
+    -77.903557,
+    34.234004
+],
+  "geometry": {"coordinates":[-77.90355700000001,34.234004],"type":"Point"}
 }

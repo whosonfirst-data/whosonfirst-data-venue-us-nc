@@ -2,13 +2,14 @@
   "id": 269936425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.605533,35.574958,-82.605533,35.574958",
     "geom:latitude":35.574958,
     "geom:longitude":-82.605533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Carrier St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269936425,
-    "wof:lastmodified":1449036949,
+    "wof:lastmodified":1466648581,
     "wof:name":"Hill's Heating & Cooling",
     "wof:parent_id":85832027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.605533,35.574958,-82.605533,35.574958],
-  "geometry": {"coordinates":[-82.605533,35.574958],"type":"Point"}
+  "bbox": [
+    -82.605533,
+    35.574958,
+    -82.605533,
+    35.574958
+],
+  "geometry": {"coordinates":[-82.60553299999999,35.574958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236900255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.820997,34.222523,-77.820997,34.222523",
     "geom:latitude":34.222523,
     "geom:longitude":-77.820997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 Eastwood Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236900255,
-    "wof:lastmodified":1449003007,
+    "wof:lastmodified":1466651284,
     "wof:name":"Bali Trading Co Inc",
     "wof:parent_id":85830827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.820997,34.222523,-77.820997,34.222523],
-  "geometry": {"coordinates":[-77.820997,34.222523],"type":"Point"}
+  "bbox": [
+    -77.820997,
+    34.222523,
+    -77.820997,
+    34.222523
+],
+  "geometry": {"coordinates":[-77.82099700000001,34.222523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202801139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.661273,35.748409,-81.661273,35.748409",
     "geom:latitude":35.748409,
     "geom:longitude":-81.661273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 E Fleming Dr",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202801139,
-    "wof:lastmodified":1449062220,
+    "wof:lastmodified":1466644176,
     "wof:name":"AAA Plus Collision Masters",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-81.661273,35.748409,-81.661273,35.748409],
-  "geometry": {"coordinates":[-81.661273,35.748409],"type":"Point"}
+  "bbox": [
+    -81.661273,
+    35.748409,
+    -81.661273,
+    35.748409
+],
+  "geometry": {"coordinates":[-81.66127299999999,35.748409],"type":"Point"}
 }

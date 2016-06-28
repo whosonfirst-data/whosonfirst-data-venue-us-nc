@@ -2,13 +2,14 @@
   "id": 269928151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.151406,35.457032,-79.151406,35.457032",
     "geom:latitude":35.457032,
     "geom:longitude":-79.151406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 W Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269928151,
-    "wof:lastmodified":1449038507,
+    "wof:lastmodified":1466648474,
     "wof:name":"Landmark Restaurant",
     "wof:parent_id":85827995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.151406,35.457032,-79.151406,35.457032],
-  "geometry": {"coordinates":[-79.151406,35.457032],"type":"Point"}
+  "bbox": [
+    -79.151406,
+    35.457032,
+    -79.151406,
+    35.457032
+],
+  "geometry": {"coordinates":[-79.15140599999999,35.457032],"type":"Point"}
 }

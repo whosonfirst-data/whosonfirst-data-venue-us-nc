@@ -2,13 +2,14 @@
   "id": 236553679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.405105,36.062874,-79.405105,36.062874",
     "geom:latitude":36.062874,
     "geom:longitude":-79.405105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Green St",
     "sg:city":"Graham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236553679,
-    "wof:lastmodified":1449001691,
+    "wof:lastmodified":1466648106,
     "wof:name":"Quality Building & Maintenance",
     "wof:parent_id":85852023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.405105,36.062874,-79.405105,36.062874],
-  "geometry": {"coordinates":[-79.405105,36.062874],"type":"Point"}
+  "bbox": [
+    -79.405105,
+    36.062874,
+    -79.405105,
+    36.062874
+],
+  "geometry": {"coordinates":[-79.40510500000001,36.062874],"type":"Point"}
 }

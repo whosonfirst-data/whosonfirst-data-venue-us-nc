@@ -2,13 +2,14 @@
   "id": 270130989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.634042,35.826927,-78.634042,35.826927",
     "geom:latitude":35.826927,
     "geom:longitude":-78.634042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 Six Forks Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270130989,
-    "wof:lastmodified":1449009481,
+    "wof:lastmodified":1466644721,
     "wof:name":"Premier Surgical Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.634042,35.826927,-78.634042,35.826927],
-  "geometry": {"coordinates":[-78.634042,35.826927],"type":"Point"}
+  "bbox": [
+    -78.634042,
+    35.826927,
+    -78.634042,
+    35.826927
+],
+  "geometry": {"coordinates":[-78.63404199999999,35.826927],"type":"Point"}
 }

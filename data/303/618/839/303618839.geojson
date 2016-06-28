@@ -2,13 +2,14 @@
   "id": 303618839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.905605,35.991459,-78.905605,35.991459",
     "geom:latitude":35.991459,
     "geom:longitude":-78.905605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Blackwell St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303618839,
-    "wof:lastmodified":1448999642,
+    "wof:lastmodified":1466652236,
     "wof:name":"Glaxo Smith Kline",
     "wof:parent_id":85877123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.905605,35.991459,-78.905605,35.991459],
-  "geometry": {"coordinates":[-78.905605,35.991459],"type":"Point"}
+  "bbox": [
+    -78.905605,
+    35.991459,
+    -78.905605,
+    35.991459
+],
+  "geometry": {"coordinates":[-78.90560499999999,35.991459],"type":"Point"}
 }

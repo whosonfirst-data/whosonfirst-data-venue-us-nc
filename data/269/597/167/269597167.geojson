@@ -2,13 +2,14 @@
   "id": 269597167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.22709,35.259447,-81.22709,35.259447",
     "geom:latitude":35.259447,
     "geom:longitude":-81.22709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 W Franklin Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269597167,
-    "wof:lastmodified":1449038918,
+    "wof:lastmodified":1466644552,
     "wof:name":"Drivers License",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-81.22709,35.259447,-81.22709,35.259447],
+  "bbox": [
+    -81.22709,
+    35.259447,
+    -81.22709,
+    35.259447
+],
   "geometry": {"coordinates":[-81.22709,35.259447],"type":"Point"}
 }

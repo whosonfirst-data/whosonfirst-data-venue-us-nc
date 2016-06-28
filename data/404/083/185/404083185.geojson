@@ -2,13 +2,14 @@
   "id": 404083185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.876191,35.16352,-80.876191,35.16352",
     "geom:latitude":35.16352,
     "geom:longitude":-80.876191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5330 South Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404083185,
-    "wof:lastmodified":1449039581,
+    "wof:lastmodified":1466652341,
     "wof:name":"At Home Optical",
     "wof:parent_id":85813241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.876191,35.16352,-80.876191,35.16352],
-  "geometry": {"coordinates":[-80.876191,35.16352],"type":"Point"}
+  "bbox": [
+    -80.876191,
+    35.16352,
+    -80.876191,
+    35.16352
+],
+  "geometry": {"coordinates":[-80.87619100000001,35.16352],"type":"Point"}
 }

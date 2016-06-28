@@ -2,13 +2,14 @@
   "id": 220035227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.743167,36.50117,-79.743167,36.50117",
     "geom:latitude":36.50117,
     "geom:longitude":-79.743167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 W Stadium Dr",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220035227,
-    "wof:lastmodified":1449074688,
+    "wof:lastmodified":1466643489,
     "wof:name":"Atco Builders",
     "wof:parent_id":85810227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.743167,36.50117,-79.743167,36.50117],
+  "bbox": [
+    -79.743167,
+    36.50117,
+    -79.743167,
+    36.50117
+],
   "geometry": {"coordinates":[-79.743167,36.50117],"type":"Point"}
 }

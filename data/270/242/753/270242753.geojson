@@ -2,13 +2,14 @@
   "id": 270242753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.670209,35.368069,-80.670209,35.368069",
     "geom:latitude":35.368069,
     "geom:longitude":-80.670209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 Dearborn Pl NW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270242753,
-    "wof:lastmodified":1449010803,
+    "wof:lastmodified":1466646115,
     "wof:name":"Drum Legends",
     "wof:parent_id":85816993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.670209,35.368069,-80.670209,35.368069],
+  "bbox": [
+    -80.670209,
+    35.368069,
+    -80.670209,
+    35.368069
+],
   "geometry": {"coordinates":[-80.670209,35.368069],"type":"Point"}
 }

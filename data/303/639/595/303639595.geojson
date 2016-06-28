@@ -2,13 +2,14 @@
   "id": 303639595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.609153,35.306244,-78.609153,35.306244",
     "geom:latitude":35.306244,
     "geom:longitude":-78.609153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Clinton Ave",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303639595,
-    "wof:lastmodified":1449000557,
+    "wof:lastmodified":1466652543,
     "wof:name":"Dunn Auto Parts Co",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-78.609153,35.306244,-78.609153,35.306244],
-  "geometry": {"coordinates":[-78.609153,35.306244],"type":"Point"}
+  "bbox": [
+    -78.609153,
+    35.306244,
+    -78.609153,
+    35.306244
+],
+  "geometry": {"coordinates":[-78.60915300000001,35.306244],"type":"Point"}
 }

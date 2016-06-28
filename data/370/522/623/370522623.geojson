@@ -2,13 +2,14 @@
   "id": 370522623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.450519,36.102882,-79.450519,36.102882",
     "geom:latitude":36.102882,
     "geom:longitude":-79.450519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W Webb Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370522623,
-    "wof:lastmodified":1449030705,
+    "wof:lastmodified":1466652855,
     "wof:name":"Accent Hairstyling",
     "wof:parent_id":85810235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-79.450519,36.102882,-79.450519,36.102882],
+  "bbox": [
+    -79.450519,
+    36.102882,
+    -79.450519,
+    36.102882
+],
   "geometry": {"coordinates":[-79.450519,36.102882],"type":"Point"}
 }

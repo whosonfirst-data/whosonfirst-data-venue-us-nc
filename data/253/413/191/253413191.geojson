@@ -2,13 +2,14 @@
   "id": 253413191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.842942,34.259529,-77.842942,34.259529",
     "geom:latitude":34.259529,
     "geom:longitude":-77.842942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 Windmill Way",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253413191,
-    "wof:lastmodified":1449063282,
+    "wof:lastmodified":1466647311,
     "wof:name":"Cape Fear Cycle Works",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.842942,34.259529,-77.842942,34.259529],
-  "geometry": {"coordinates":[-77.842942,34.259529],"type":"Point"}
+  "bbox": [
+    -77.842942,
+    34.259529,
+    -77.842942,
+    34.259529
+],
+  "geometry": {"coordinates":[-77.84294199999999,34.259529],"type":"Point"}
 }

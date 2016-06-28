@@ -2,13 +2,14 @@
   "id": 220047071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135477,35.879173,-80.135477,35.879173",
     "geom:latitude":35.879173,
     "geom:longitude":-80.135477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4279 Old US Hwy 29",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220047071,
-    "wof:lastmodified":1449074572,
+    "wof:lastmodified":1466643581,
     "wof:name":"Pilot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.135477,35.879173,-80.135477,35.879173],
-  "geometry": {"coordinates":[-80.135477,35.879173],"type":"Point"}
+  "bbox": [
+    -80.135477,
+    35.879173,
+    -80.135477,
+    35.879173
+],
+  "geometry": {"coordinates":[-80.13547699999999,35.879173],"type":"Point"}
 }

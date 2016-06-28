@@ -2,13 +2,14 @@
   "id": 252782777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.642052,35.775359,-78.642052,35.775359",
     "geom:latitude":35.775359,
     "geom:longitude":-78.642052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 S McDowell St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252782777,
-    "wof:lastmodified":1449005397,
+    "wof:lastmodified":1466643897,
     "wof:name":"King's",
     "wof:parent_id":85873475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-78.642052,35.775359,-78.642052,35.775359],
-  "geometry": {"coordinates":[-78.642052,35.775359],"type":"Point"}
+  "bbox": [
+    -78.642052,
+    35.775359,
+    -78.642052,
+    35.775359
+],
+  "geometry": {"coordinates":[-78.64205200000001,35.775359],"type":"Point"}
 }

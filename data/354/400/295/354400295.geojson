@@ -2,13 +2,14 @@
   "id": 354400295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.807396,36.088264,-79.807396,36.088264",
     "geom:latitude":36.088264,
     "geom:longitude":-79.807396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Battleground Ct",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354400295,
-    "wof:lastmodified":1449066096,
+    "wof:lastmodified":1466652175,
     "wof:name":"Association",
     "wof:parent_id":85877979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-79.807396,36.088264,-79.807396,36.088264],
+  "bbox": [
+    -79.807396,
+    36.088264,
+    -79.807396,
+    36.088264
+],
   "geometry": {"coordinates":[-79.807396,36.088264],"type":"Point"}
 }

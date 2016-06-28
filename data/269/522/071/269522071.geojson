@@ -2,13 +2,14 @@
   "id": 269522071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.919198,35.359819,-81.919198,35.359819",
     "geom:latitude":35.359819,
     "geom:longitude":-81.919198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Carver St",
     "sg:city":"Spindale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269522071,
-    "wof:lastmodified":1449037285,
+    "wof:lastmodified":1466643668,
     "wof:name":"Carver Center",
     "wof:parent_id":85817829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.919198,35.359819,-81.919198,35.359819],
-  "geometry": {"coordinates":[-81.919198,35.359819],"type":"Point"}
+  "bbox": [
+    -81.919198,
+    35.359819,
+    -81.919198,
+    35.359819
+],
+  "geometry": {"coordinates":[-81.91919799999999,35.359819],"type":"Point"}
 }

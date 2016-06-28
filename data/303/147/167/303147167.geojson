@@ -2,13 +2,14 @@
   "id": 303147167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.56601,35.606094,-78.56601,35.606094",
     "geom:latitude":35.606094,
     "geom:longitude":-78.56601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5402 State Hwy 42 W",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303147167,
-    "wof:lastmodified":1449000302,
+    "wof:lastmodified":1466645422,
     "wof:name":"Special Effects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rug"
     ]
 },
-  "bbox": [-78.56601,35.606094,-78.56601,35.606094],
-  "geometry": {"coordinates":[-78.56601,35.606094],"type":"Point"}
+  "bbox": [
+    -78.56601,
+    35.606094,
+    -78.56601,
+    35.606094
+],
+  "geometry": {"coordinates":[-78.56601000000001,35.606094],"type":"Point"}
 }

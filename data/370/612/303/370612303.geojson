@@ -2,13 +2,14 @@
   "id": 370612303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.442436,34.767198,-77.442436,34.767198",
     "geom:latitude":34.767198,
     "geom:longitude":-77.442436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Brookview Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370612303,
-    "wof:lastmodified":1449030589,
+    "wof:lastmodified":1466654033,
     "wof:name":"Henry D Browning IV DDS",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-77.442436,34.767198,-77.442436,34.767198],
+  "bbox": [
+    -77.442436,
+    34.767198,
+    -77.442436,
+    34.767198
+],
   "geometry": {"coordinates":[-77.442436,34.767198],"type":"Point"}
 }

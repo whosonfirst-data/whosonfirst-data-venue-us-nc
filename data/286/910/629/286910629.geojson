@@ -2,13 +2,14 @@
   "id": 286910629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245156,36.099685,-80.245156,36.099685",
     "geom:latitude":36.099685,
     "geom:longitude":-80.245156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 N Liberty St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286910629,
-    "wof:lastmodified":1449016403,
+    "wof:lastmodified":1466651959,
     "wof:name":"U S Hair Of Nc",
     "wof:parent_id":85867051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hairpiece"
     ]
 },
-  "bbox": [-80.245156,36.099685,-80.245156,36.099685],
-  "geometry": {"coordinates":[-80.245156,36.099685],"type":"Point"}
+  "bbox": [
+    -80.245156,
+    36.099685,
+    -80.245156,
+    36.099685
+],
+  "geometry": {"coordinates":[-80.24515599999999,36.099685],"type":"Point"}
 }

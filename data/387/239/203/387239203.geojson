@@ -2,13 +2,14 @@
   "id": 387239203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.694001,35.782702,-77.694001,35.782702",
     "geom:latitude":35.782702,
     "geom:longitude":-77.694001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5470 State Hwy 42 W",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387239203,
-    "wof:lastmodified":1449056475,
+    "wof:lastmodified":1466653021,
     "wof:name":"Parkway Ag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.694001,35.782702,-77.694001,35.782702],
+  "bbox": [
+    -77.694001,
+    35.782702,
+    -77.694001,
+    35.782702
+],
   "geometry": {"coordinates":[-77.694001,35.782702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320380211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.798743,35.975218,-77.798743,35.975218",
     "geom:latitude":35.975218,
     "geom:longitude":-77.798743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Tiffany Blvd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320380211,
-    "wof:lastmodified":1449012982,
+    "wof:lastmodified":1466650629,
     "wof:name":"Tech Knowledge Center",
     "wof:parent_id":85851697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-77.798743,35.975218,-77.798743,35.975218],
+  "bbox": [
+    -77.798743,
+    35.975218,
+    -77.798743,
+    35.975218
+],
   "geometry": {"coordinates":[-77.798743,35.975218],"type":"Point"}
 }

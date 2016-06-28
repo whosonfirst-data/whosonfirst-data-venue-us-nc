@@ -2,13 +2,14 @@
   "id": 303596579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.810926,35.837194,-77.810926,35.837194",
     "geom:latitude":35.837194,
     "geom:longitude":-77.810926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6919 Reedy Branch Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303596579,
-    "wof:lastmodified":1448999374,
+    "wof:lastmodified":1466651899,
     "wof:name":"Durhams Maintenance & Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.810926,35.837194,-77.810926,35.837194],
-  "geometry": {"coordinates":[-77.810926,35.837194],"type":"Point"}
+  "bbox": [
+    -77.810926,
+    35.837194,
+    -77.810926,
+    35.837194
+],
+  "geometry": {"coordinates":[-77.81092599999999,35.837194],"type":"Point"}
 }

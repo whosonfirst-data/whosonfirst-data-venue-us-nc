@@ -2,13 +2,14 @@
   "id": 220023417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.008543,34.619277,-79.008543,34.619277",
     "geom:latitude":34.619277,
     "geom:longitude":-79.008543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N Elm St",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220023417,
-    "wof:lastmodified":1449074798,
+    "wof:lastmodified":1466643400,
     "wof:name":"Mary's Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-79.008543,34.619277,-79.008543,34.619277],
+  "bbox": [
+    -79.008543,
+    34.619277,
+    -79.008543,
+    34.619277
+],
   "geometry": {"coordinates":[-79.008543,34.619277],"type":"Point"}
 }

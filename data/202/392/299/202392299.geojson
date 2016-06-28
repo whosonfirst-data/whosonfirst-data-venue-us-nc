@@ -2,13 +2,14 @@
   "id": 202392299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.63348,35.821692,-78.63348,35.821692",
     "geom:latitude":35.821692,
     "geom:longitude":-78.63348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 Anderson Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202392299,
-    "wof:lastmodified":1449062156,
+    "wof:lastmodified":1466654150,
     "wof:name":"Mid-Atlantic Securities Inc",
     "wof:parent_id":85892047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-78.63348,35.821692,-78.63348,35.821692],
-  "geometry": {"coordinates":[-78.63348,35.821692],"type":"Point"}
+  "bbox": [
+    -78.63348,
+    35.821692,
+    -78.63348,
+    35.821692
+],
+  "geometry": {"coordinates":[-78.63348000000001,35.821692],"type":"Point"}
 }

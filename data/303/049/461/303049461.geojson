@@ -2,13 +2,14 @@
   "id": 303049461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.894325,35.180589,-80.894325,35.180589",
     "geom:latitude":35.180589,
     "geom:longitude":-80.894325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4928 Lochlain Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303049461,
-    "wof:lastmodified":1448999327,
+    "wof:lastmodified":1466643946,
     "wof:name":"A 1 Transportation Consultants",
     "wof:parent_id":85817833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-80.894325,35.180589,-80.894325,35.180589],
-  "geometry": {"coordinates":[-80.894325,35.180589],"type":"Point"}
+  "bbox": [
+    -80.894325,
+    35.180589,
+    -80.894325,
+    35.180589
+],
+  "geometry": {"coordinates":[-80.89432499999999,35.180589],"type":"Point"}
 }

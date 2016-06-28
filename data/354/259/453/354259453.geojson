@@ -2,13 +2,14 @@
   "id": 354259453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.471106,35.678032,-80.471106,35.678032",
     "geom:latitude":35.678032,
     "geom:longitude":-80.471106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Mocksville Ave",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354259453,
-    "wof:lastmodified":1449066321,
+    "wof:lastmodified":1466650530,
     "wof:name":"Rowan Anesthiology",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.471106,35.678032,-80.471106,35.678032],
-  "geometry": {"coordinates":[-80.471106,35.678032],"type":"Point"}
+  "bbox": [
+    -80.471106,
+    35.678032,
+    -80.471106,
+    35.678032
+],
+  "geometry": {"coordinates":[-80.47110600000001,35.678032],"type":"Point"}
 }

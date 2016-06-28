@@ -2,13 +2,14 @@
   "id": 336912333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.486108,35.683683,-80.486108,35.683683",
     "geom:latitude":35.683683,
     "geom:longitude":-80.486108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 Brenner Ave",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336912333,
-    "wof:lastmodified":1448997490,
+    "wof:lastmodified":1466650603,
     "wof:name":"Veterans Affairs Med Ctr",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.486108,35.683683,-80.486108,35.683683],
+  "bbox": [
+    -80.486108,
+    35.683683,
+    -80.486108,
+    35.683683
+],
   "geometry": {"coordinates":[-80.486108,35.683683],"type":"Point"}
 }

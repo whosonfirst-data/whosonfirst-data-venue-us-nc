@@ -2,13 +2,14 @@
   "id": 286865079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.808433,35.915185,-77.808433,35.915185",
     "geom:latitude":35.915185,
     "geom:longitude":-77.808433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 S Church St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286865079,
-    "wof:lastmodified":1449017407,
+    "wof:lastmodified":1466651357,
     "wof:name":"Daniel Auto Sale",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.808433,35.915185,-77.808433,35.915185],
-  "geometry": {"coordinates":[-77.808433,35.915185],"type":"Point"}
+  "bbox": [
+    -77.808433,
+    35.915185,
+    -77.808433,
+    35.915185
+],
+  "geometry": {"coordinates":[-77.80843299999999,35.915185],"type":"Point"}
 }

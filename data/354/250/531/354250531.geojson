@@ -2,13 +2,14 @@
   "id": 354250531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.435149,33.90773,-78.435149,33.90773",
     "geom:latitude":33.90773,
     "geom:longitude":-78.435149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5930 Beach Dr SW",
     "sg:city":"South Brunswick",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354250531,
-    "wof:lastmodified":1449066922,
+    "wof:lastmodified":1466650436,
     "wof:name":"A & G Pawn",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-78.435149,33.90773,-78.435149,33.90773],
+  "bbox": [
+    -78.435149,
+    33.90773,
+    -78.435149,
+    33.90773
+],
   "geometry": {"coordinates":[-78.435149,33.90773],"type":"Point"}
 }

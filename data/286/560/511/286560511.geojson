@@ -2,13 +2,14 @@
   "id": 286560511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.006115,35.216145,-80.006115,35.216145",
     "geom:latitude":35.216145,
     "geom:longitude":-80.006115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Wadesboro Blvd",
     "sg:city":"Mt Gilead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286560511,
-    "wof:lastmodified":1449017428,
+    "wof:lastmodified":1466647198,
     "wof:name":"Mullis Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.006115,35.216145,-80.006115,35.216145],
-  "geometry": {"coordinates":[-80.006115,35.216145],"type":"Point"}
+  "bbox": [
+    -80.006115,
+    35.216145,
+    -80.006115,
+    35.216145
+],
+  "geometry": {"coordinates":[-80.00611499999999,35.216145],"type":"Point"}
 }

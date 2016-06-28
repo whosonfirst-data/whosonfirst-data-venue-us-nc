@@ -2,13 +2,14 @@
   "id": 403880701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.574547,35.441365,-80.574547,35.441365",
     "geom:latitude":35.441365,
     "geom:longitude":-80.574547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 Abington Dr NE",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403880701,
-    "wof:lastmodified":1449055975,
+    "wof:lastmodified":1466652662,
     "wof:name":"Abernathy Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.574547,35.441365,-80.574547,35.441365],
+  "bbox": [
+    -80.574547,
+    35.441365,
+    -80.574547,
+    35.441365
+],
   "geometry": {"coordinates":[-80.574547,35.441365],"type":"Point"}
 }

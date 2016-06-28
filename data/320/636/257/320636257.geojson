@@ -2,13 +2,14 @@
   "id": 320636257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.593561,35.572667,-82.593561,35.572667",
     "geom:latitude":35.572667,
     "geom:longitude":-82.593561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Brevard Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320636257,
-    "wof:lastmodified":1449012748,
+    "wof:lastmodified":1466654359,
     "wof:name":"Care Link",
     "wof:parent_id":85853555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-82.593561,35.572667,-82.593561,35.572667],
-  "geometry": {"coordinates":[-82.593561,35.572667],"type":"Point"}
+  "bbox": [
+    -82.593561,
+    35.572667,
+    -82.593561,
+    35.572667
+],
+  "geometry": {"coordinates":[-82.59356099999999,35.572667],"type":"Point"}
 }

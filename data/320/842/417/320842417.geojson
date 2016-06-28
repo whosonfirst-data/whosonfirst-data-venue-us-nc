@@ -2,13 +2,14 @@
   "id": 320842417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.56343,35.832623,-78.56343,35.832623",
     "geom:latitude":35.832623,
     "geom:longitude":-78.56343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4531 Antique Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320842417,
-    "wof:lastmodified":1449011516,
+    "wof:lastmodified":1466656892,
     "wof:name":"Drainworks Sewer and Drain Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.56343,35.832623,-78.56343,35.832623],
+  "bbox": [
+    -78.56343,
+    35.832623,
+    -78.56343,
+    35.832623
+],
   "geometry": {"coordinates":[-78.56343,35.832623],"type":"Point"}
 }

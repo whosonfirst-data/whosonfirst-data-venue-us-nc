@@ -2,13 +2,14 @@
   "id": 286274823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.314273,36.074912,-80.314273,36.074912",
     "geom:latitude":36.074912,
     "geom:longitude":-80.314273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Vest Mill Cir",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":286274823,
-    "wof:lastmodified":1449015531,
+    "wof:lastmodified":1466643401,
     "wof:name":"Salem Family Practice",
     "wof:parent_id":85881845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.314273,36.074912,-80.314273,36.074912],
+  "bbox": [
+    -80.314273,
+    36.074912,
+    -80.314273,
+    36.074912
+],
   "geometry": {"coordinates":[-80.314273,36.074912],"type":"Point"}
 }

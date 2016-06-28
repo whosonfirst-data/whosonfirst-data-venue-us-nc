@@ -2,13 +2,14 @@
   "id": 387182909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.340312,35.383219,-80.340312,35.383219",
     "geom:latitude":35.383219,
     "geom:longitude":-80.340312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20002 State Hwy 73",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387182909,
-    "wof:lastmodified":1449058518,
+    "wof:lastmodified":1466652261,
     "wof:name":"Steve Barbee",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-80.340312,35.383219,-80.340312,35.383219],
+  "bbox": [
+    -80.340312,
+    35.383219,
+    -80.340312,
+    35.383219
+],
   "geometry": {"coordinates":[-80.340312,35.383219],"type":"Point"}
 }

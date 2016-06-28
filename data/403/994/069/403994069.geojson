@@ -2,13 +2,14 @@
   "id": 403994069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.682234,35.385804,-80.682234,35.385804",
     "geom:latitude":35.385804,
     "geom:longitude":-80.682234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Quail Dr",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":403994069,
-    "wof:lastmodified":1449054689,
+    "wof:lastmodified":1466654115,
     "wof:name":"Cornerstone of Concord Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.682234,35.385804,-80.682234,35.385804],
-  "geometry": {"coordinates":[-80.682234,35.385804],"type":"Point"}
+  "bbox": [
+    -80.682234,
+    35.385804,
+    -80.682234,
+    35.385804
+],
+  "geometry": {"coordinates":[-80.68223399999999,35.385804],"type":"Point"}
 }

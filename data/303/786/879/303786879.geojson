@@ -2,13 +2,14 @@
   "id": 303786879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.589041,35.572746,-82.589041,35.572746",
     "geom:latitude":35.572746,
     "geom:longitude":-82.589041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Virginia Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303786879,
-    "wof:lastmodified":1448998436,
+    "wof:lastmodified":1466654679,
     "wof:name":"Misty Mountain Design",
     "wof:parent_id":85842077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.589041,35.572746,-82.589041,35.572746],
-  "geometry": {"coordinates":[-82.589041,35.572746],"type":"Point"}
+  "bbox": [
+    -82.589041,
+    35.572746,
+    -82.589041,
+    35.572746
+],
+  "geometry": {"coordinates":[-82.58904099999999,35.572746],"type":"Point"}
 }

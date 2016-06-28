@@ -2,13 +2,14 @@
   "id": 403751963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.464263,35.532813,-80.464263,35.532813",
     "geom:latitude":35.532813,
     "geom:longitude":-80.464263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Shive Rd",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403751963,
-    "wof:lastmodified":1449054699,
+    "wof:lastmodified":1466650965,
     "wof:name":"Lambert S Welding",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.464263,35.532813,-80.464263,35.532813],
+  "bbox": [
+    -80.464263,
+    35.532813,
+    -80.464263,
+    35.532813
+],
   "geometry": {"coordinates":[-80.464263,35.532813],"type":"Point"}
 }

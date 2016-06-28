@@ -2,13 +2,14 @@
   "id": 203061907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.303705,35.522932,-78.303705,35.522932",
     "geom:latitude":35.522932,
     "geom:longitude":-78.303705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1688 S Pollock St",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203061907,
-    "wof:lastmodified":1449026338,
+    "wof:lastmodified":1466654581,
     "wof:name":"Club Element",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-78.303705,35.522932,-78.303705,35.522932],
-  "geometry": {"coordinates":[-78.303705,35.522932],"type":"Point"}
+  "bbox": [
+    -78.303705,
+    35.522932,
+    -78.303705,
+    35.522932
+],
+  "geometry": {"coordinates":[-78.30370499999999,35.522932],"type":"Point"}
 }

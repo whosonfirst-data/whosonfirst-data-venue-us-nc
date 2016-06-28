@@ -2,13 +2,14 @@
   "id": 320783099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.552439,35.589257,-82.552439,35.589257",
     "geom:latitude":35.589257,
     "geom:longitude":-82.552439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Church St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320783099,
-    "wof:lastmodified":1449011382,
+    "wof:lastmodified":1466656194,
     "wof:name":"Western Carolina Optical",
     "wof:parent_id":85830137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "optical"
     ]
 },
-  "bbox": [-82.552439,35.589257,-82.552439,35.589257],
-  "geometry": {"coordinates":[-82.552439,35.589257],"type":"Point"}
+  "bbox": [
+    -82.552439,
+    35.589257,
+    -82.552439,
+    35.589257
+],
+  "geometry": {"coordinates":[-82.55243900000001,35.589257],"type":"Point"}
 }

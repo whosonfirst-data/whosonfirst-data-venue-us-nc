@@ -2,13 +2,14 @@
   "id": 269884459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.810893,34.873568,-77.810893,34.873568",
     "geom:latitude":34.873568,
     "geom:longitude":-77.810893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 Durwood Evans Rd",
     "sg:city":"Beulaville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269884459,
-    "wof:lastmodified":1449038378,
+    "wof:lastmodified":1466647909,
     "wof:name":"Sandlin Delano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-77.810893,34.873568,-77.810893,34.873568],
-  "geometry": {"coordinates":[-77.810893,34.873568],"type":"Point"}
+  "bbox": [
+    -77.810893,
+    34.873568,
+    -77.810893,
+    34.873568
+],
+  "geometry": {"coordinates":[-77.81089299999999,34.873568],"type":"Point"}
 }

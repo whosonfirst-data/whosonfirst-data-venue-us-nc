@@ -2,13 +2,14 @@
   "id": 387948089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.797165,34.262879,-77.797165,34.262879",
     "geom:latitude":34.262879,
     "geom:longitude":-77.797165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Sandybrook Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387948089,
-    "wof:lastmodified":1449059121,
+    "wof:lastmodified":1466658099,
     "wof:name":"Additions Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-77.797165,34.262879,-77.797165,34.262879],
-  "geometry": {"coordinates":[-77.797165,34.262879],"type":"Point"}
+  "bbox": [
+    -77.797165,
+    34.262879,
+    -77.797165,
+    34.262879
+],
+  "geometry": {"coordinates":[-77.79716500000001,34.262879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303169665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.582198,36.218654,-79.582198,36.218654",
     "geom:latitude":36.218654,
     "geom:longitude":-79.582198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5903 Osceola Ossipee Rd",
     "sg:city":"Browns Summit",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303169665,
-    "wof:lastmodified":1448999627,
+    "wof:lastmodified":1466645752,
     "wof:name":"Joe & Lils Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.582198,36.218654,-79.582198,36.218654],
-  "geometry": {"coordinates":[-79.582198,36.218654],"type":"Point"}
+  "bbox": [
+    -79.582198,
+    36.218654,
+    -79.582198,
+    36.218654
+],
+  "geometry": {"coordinates":[-79.58219800000001,36.218654],"type":"Point"}
 }

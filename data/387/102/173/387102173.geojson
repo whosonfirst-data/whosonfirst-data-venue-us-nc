@@ -2,13 +2,14 @@
   "id": 387102173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.837145,35.531583,-82.837145,35.531583",
     "geom:latitude":35.531583,
     "geom:longitude":-82.837145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Academy St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387102173,
-    "wof:lastmodified":1449059631,
+    "wof:lastmodified":1466651184,
     "wof:name":"First Baptist Church Of Canton",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.837145,35.531583,-82.837145,35.531583],
-  "geometry": {"coordinates":[-82.837145,35.531583],"type":"Point"}
+  "bbox": [
+    -82.837145,
+    35.531583,
+    -82.837145,
+    35.531583
+],
+  "geometry": {"coordinates":[-82.83714500000001,35.531583],"type":"Point"}
 }

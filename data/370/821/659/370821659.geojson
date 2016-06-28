@@ -2,13 +2,14 @@
   "id": 370821659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.004989,35.129976,-79.004989,35.129976",
     "geom:latitude":35.129976,
     "geom:longitude":-79.004989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 Bastogne Dr",
     "sg:city":"Fort Bragg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370821659,
-    "wof:lastmodified":1449030909,
+    "wof:lastmodified":1466656475,
     "wof:name":"Vanguard Contractors Inc",
     "wof:parent_id":85810619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.004989,35.129976,-79.004989,35.129976],
-  "geometry": {"coordinates":[-79.004989,35.129976],"type":"Point"}
+  "bbox": [
+    -79.004989,
+    35.129976,
+    -79.004989,
+    35.129976
+],
+  "geometry": {"coordinates":[-79.00498899999999,35.129976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320483031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.624992,35.590547,-78.624992,35.590547",
     "geom:latitude":35.590547,
     "geom:longitude":-78.624992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Stone Water Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320483031,
-    "wof:lastmodified":1449014170,
+    "wof:lastmodified":1466652114,
     "wof:name":"Charles P Dorman Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.624992,35.590547,-78.624992,35.590547],
-  "geometry": {"coordinates":[-78.624992,35.590547],"type":"Point"}
+  "bbox": [
+    -78.624992,
+    35.590547,
+    -78.624992,
+    35.590547
+],
+  "geometry": {"coordinates":[-78.62499200000001,35.590547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320018095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.562266,35.23016,-81.562266,35.23016",
     "geom:latitude":35.23016,
     "geom:longitude":-81.562266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Davis Rd",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320018095,
-    "wof:lastmodified":1449013122,
+    "wof:lastmodified":1466645605,
     "wof:name":"David Bolton Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.562266,35.23016,-81.562266,35.23016],
-  "geometry": {"coordinates":[-81.562266,35.23016],"type":"Point"}
+  "bbox": [
+    -81.562266,
+    35.23016,
+    -81.562266,
+    35.23016
+],
+  "geometry": {"coordinates":[-81.56226599999999,35.23016],"type":"Point"}
 }

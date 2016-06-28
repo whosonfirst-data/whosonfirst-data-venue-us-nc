@@ -2,13 +2,14 @@
   "id": 387080539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.377991,36.043559,-80.377991,36.043559",
     "geom:latitude":36.043559,
     "geom:longitude":-80.377991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2949 Hopewood Ln",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387080539,
-    "wof:lastmodified":1449059816,
+    "wof:lastmodified":1466650899,
     "wof:name":"Petersons Welding",
     "wof:parent_id":85840801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.377991,36.043559,-80.377991,36.043559],
-  "geometry": {"coordinates":[-80.377991,36.043559],"type":"Point"}
+  "bbox": [
+    -80.377991,
+    36.043559,
+    -80.377991,
+    36.043559
+],
+  "geometry": {"coordinates":[-80.37799099999999,36.043559],"type":"Point"}
 }

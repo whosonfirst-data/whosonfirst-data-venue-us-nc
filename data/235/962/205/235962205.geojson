@@ -2,13 +2,14 @@
   "id": 235962205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.889007,35.895302,-78.889007,35.895302",
     "geom:latitude":35.895302,
     "geom:longitude":-78.889007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Englert Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235962205,
-    "wof:lastmodified":1449008446,
+    "wof:lastmodified":1466643475,
     "wof:name":"Urban Import",
     "wof:parent_id":85831613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-78.889007,35.895302,-78.889007,35.895302],
-  "geometry": {"coordinates":[-78.889007,35.895302],"type":"Point"}
+  "bbox": [
+    -78.889007,
+    35.895302,
+    -78.889007,
+    35.895302
+],
+  "geometry": {"coordinates":[-78.88900700000001,35.895302],"type":"Point"}
 }

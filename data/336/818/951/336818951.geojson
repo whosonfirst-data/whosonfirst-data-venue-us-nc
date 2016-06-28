@@ -2,13 +2,14 @@
   "id": 336818951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.798498,35.328542,-77.798498,35.328542",
     "geom:latitude":35.328542,
     "geom:longitude":-77.798498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 Ed Herring Rd",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336818951,
-    "wof:lastmodified":1448997480,
+    "wof:lastmodified":1466649172,
     "wof:name":"David Herring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-77.798498,35.328542,-77.798498,35.328542],
+  "bbox": [
+    -77.798498,
+    35.328542,
+    -77.798498,
+    35.328542
+],
   "geometry": {"coordinates":[-77.798498,35.328542],"type":"Point"}
 }

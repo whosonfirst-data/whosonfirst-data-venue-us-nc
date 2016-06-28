@@ -2,13 +2,14 @@
   "id": 202807743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.02107,33.92505,-78.02107,33.92505",
     "geom:latitude":33.92505,
     "geom:longitude":-78.02107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 N Howe St",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202807743,
-    "wof:lastmodified":1449060768,
+    "wof:lastmodified":1466644225,
     "wof:name":"Fiducial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-78.02107,33.92505,-78.02107,33.92505],
-  "geometry": {"coordinates":[-78.02107,33.92505],"type":"Point"}
+  "bbox": [
+    -78.02107,
+    33.92505,
+    -78.02107,
+    33.92505
+],
+  "geometry": {"coordinates":[-78.02106999999999,33.92505],"type":"Point"}
 }

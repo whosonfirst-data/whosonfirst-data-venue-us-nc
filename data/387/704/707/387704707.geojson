@@ -2,13 +2,14 @@
   "id": 387704707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.076682,35.563849,-77.076682,35.563849",
     "geom:latitude":35.563849,
     "geom:longitude":-77.076682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 Grimes Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387704707,
-    "wof:lastmodified":1449057096,
+    "wof:lastmodified":1466657354,
     "wof:name":"Arins",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-77.076682,35.563849,-77.076682,35.563849],
-  "geometry": {"coordinates":[-77.076682,35.563849],"type":"Point"}
+  "bbox": [
+    -77.076682,
+    35.563849,
+    -77.076682,
+    35.563849
+],
+  "geometry": {"coordinates":[-77.07668200000001,35.563849],"type":"Point"}
 }

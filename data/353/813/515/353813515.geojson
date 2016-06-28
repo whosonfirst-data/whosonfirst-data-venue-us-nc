@@ -2,13 +2,14 @@
   "id": 353813515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.179223,35.263748,-81.179223,35.263748",
     "geom:latitude":35.263748,
     "geom:longitude":-81.179223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 E Main Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353813515,
-    "wof:lastmodified":1449018916,
+    "wof:lastmodified":1466651925,
     "wof:name":"Ford Seeds & Plants",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.179223,35.263748,-81.179223,35.263748],
-  "geometry": {"coordinates":[-81.179223,35.263748],"type":"Point"}
+  "bbox": [
+    -81.179223,
+    35.263748,
+    -81.179223,
+    35.263748
+],
+  "geometry": {"coordinates":[-81.17922299999999,35.263748],"type":"Point"}
 }

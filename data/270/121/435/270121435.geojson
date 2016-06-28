@@ -2,13 +2,14 @@
   "id": 270121435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.378304,34.742816,-77.378304,34.742816",
     "geom:latitude":34.742816,
     "geom:longitude":-77.378304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Lejeune Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270121435,
-    "wof:lastmodified":1449010520,
+    "wof:lastmodified":1466644602,
     "wof:name":"Flash Foto",
     "wof:parent_id":85841997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-77.378304,34.742816,-77.378304,34.742816],
+  "bbox": [
+    -77.378304,
+    34.742816,
+    -77.378304,
+    34.742816
+],
   "geometry": {"coordinates":[-77.378304,34.742816],"type":"Point"}
 }

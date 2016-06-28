@@ -2,13 +2,14 @@
   "id": 303468623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.845153,36.054025,-79.845153,36.054025",
     "geom:latitude":36.054025,
     "geom:longitude":-79.845153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Town St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303468623,
-    "wof:lastmodified":1448999870,
+    "wof:lastmodified":1466650078,
     "wof:name":"First Evangelical Methodist",
     "wof:parent_id":85826501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.845153,36.054025,-79.845153,36.054025],
+  "bbox": [
+    -79.845153,
+    36.054025,
+    -79.845153,
+    36.054025
+],
   "geometry": {"coordinates":[-79.845153,36.054025],"type":"Point"}
 }

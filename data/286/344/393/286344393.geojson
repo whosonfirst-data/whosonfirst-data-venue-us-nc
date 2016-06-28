@@ -2,13 +2,14 @@
   "id": 286344393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.16831,35.234539,-81.16831,35.234539",
     "geom:latitude":35.234539,
     "geom:longitude":-81.16831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 Skating Rink Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286344393,
-    "wof:lastmodified":1449015318,
+    "wof:lastmodified":1466644310,
     "wof:name":"Kate's Skating Rink",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rink"
     ]
 },
-  "bbox": [-81.16831,35.234539,-81.16831,35.234539],
-  "geometry": {"coordinates":[-81.16831,35.234539],"type":"Point"}
+  "bbox": [
+    -81.16831,
+    35.234539,
+    -81.16831,
+    35.234539
+],
+  "geometry": {"coordinates":[-81.16831000000001,35.234539],"type":"Point"}
 }

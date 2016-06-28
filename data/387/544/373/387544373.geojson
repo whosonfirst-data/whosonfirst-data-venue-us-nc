@@ -2,13 +2,14 @@
   "id": 387544373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.723723,35.786249,-78.723723,35.786249",
     "geom:latitude":35.786249,
     "geom:longitude":-78.723723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5612 Hillsborough St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387544373,
-    "wof:lastmodified":1449059914,
+    "wof:lastmodified":1466656341,
     "wof:name":"Hispano Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.723723,35.786249,-78.723723,35.786249],
-  "geometry": {"coordinates":[-78.723723,35.786249],"type":"Point"}
+  "bbox": [
+    -78.723723,
+    35.786249,
+    -78.723723,
+    35.786249
+],
+  "geometry": {"coordinates":[-78.72372300000001,35.786249],"type":"Point"}
 }

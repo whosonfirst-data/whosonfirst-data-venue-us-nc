@@ -2,13 +2,14 @@
   "id": 353642431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.864996,36.119211,-79.864996,36.119211",
     "geom:latitude":36.119211,
     "geom:longitude":-79.864996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Strathmore Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353642431,
-    "wof:lastmodified":1449018401,
+    "wof:lastmodified":1466649918,
     "wof:name":"Button Builders",
     "wof:parent_id":85878001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.864996,36.119211,-79.864996,36.119211],
+  "bbox": [
+    -79.864996,
+    36.119211,
+    -79.864996,
+    36.119211
+],
   "geometry": {"coordinates":[-79.864996,36.119211],"type":"Point"}
 }

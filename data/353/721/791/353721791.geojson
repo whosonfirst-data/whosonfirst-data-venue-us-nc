@@ -2,13 +2,14 @@
   "id": 353721791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.464357,35.545628,-82.464357,35.545628",
     "geom:latitude":35.545628,
     "geom:longitude":-82.464357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 Cedar Crest Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353721791,
-    "wof:lastmodified":1449020787,
+    "wof:lastmodified":1466650879,
     "wof:name":"Pisgah Holdings LLC",
     "wof:parent_id":85807723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.464357,35.545628,-82.464357,35.545628],
-  "geometry": {"coordinates":[-82.464357,35.545628],"type":"Point"}
+  "bbox": [
+    -82.464357,
+    35.545628,
+    -82.464357,
+    35.545628
+],
+  "geometry": {"coordinates":[-82.46435700000001,35.545628],"type":"Point"}
 }

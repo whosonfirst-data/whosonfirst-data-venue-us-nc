@@ -2,13 +2,14 @@
   "id": 203168209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.081569,35.876597,-79.081569,35.876597",
     "geom:latitude":35.876597,
     "geom:longitude":-79.081569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 Smith Level Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203168209,
-    "wof:lastmodified":1449025931,
+    "wof:lastmodified":1466655093,
     "wof:name":"Womble Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-79.081569,35.876597,-79.081569,35.876597],
+  "bbox": [
+    -79.081569,
+    35.876597,
+    -79.081569,
+    35.876597
+],
   "geometry": {"coordinates":[-79.081569,35.876597],"type":"Point"}
 }

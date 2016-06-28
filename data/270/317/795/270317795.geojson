@@ -2,13 +2,14 @@
   "id": 270317795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.471973,35.60536,-77.471973,35.60536",
     "geom:latitude":35.60536,
     "geom:longitude":-77.471973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Blacksmith Ln",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270317795,
-    "wof:lastmodified":1449009745,
+    "wof:lastmodified":1466647094,
     "wof:name":"WGPM",
     "wof:parent_id":85820763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-77.471973,35.60536,-77.471973,35.60536],
-  "geometry": {"coordinates":[-77.471973,35.60536],"type":"Point"}
+  "bbox": [
+    -77.471973,
+    35.60536,
+    -77.471973,
+    35.60536
+],
+  "geometry": {"coordinates":[-77.47197300000001,35.60536],"type":"Point"}
 }

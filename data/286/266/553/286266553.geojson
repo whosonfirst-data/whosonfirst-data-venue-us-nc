@@ -2,13 +2,14 @@
   "id": 286266553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.450555,36.116138,-79.450555,36.116138",
     "geom:latitude":36.116138,
     "geom:longitude":-79.450555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 Burch Bridge Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286266553,
-    "wof:lastmodified":1449015245,
+    "wof:lastmodified":1466643290,
     "wof:name":"WBAG",
     "wof:parent_id":85810235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-79.450555,36.116138,-79.450555,36.116138],
-  "geometry": {"coordinates":[-79.450555,36.116138],"type":"Point"}
+  "bbox": [
+    -79.450555,
+    36.116138,
+    -79.450555,
+    36.116138
+],
+  "geometry": {"coordinates":[-79.45055499999999,36.116138],"type":"Point"}
 }

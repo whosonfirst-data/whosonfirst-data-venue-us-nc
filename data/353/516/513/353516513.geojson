@@ -2,13 +2,14 @@
   "id": 353516513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.545058,35.910177,-77.545058,35.910177",
     "geom:latitude":35.910177,
     "geom:longitude":-77.545058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Mayo St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353516513,
-    "wof:lastmodified":1449018746,
+    "wof:lastmodified":1466648362,
     "wof:name":"Biddle Painting & Wallpaper",
     "wof:parent_id":85856477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-77.545058,35.910177,-77.545058,35.910177],
+  "bbox": [
+    -77.545058,
+    35.910177,
+    -77.545058,
+    35.910177
+],
   "geometry": {"coordinates":[-77.545058,35.910177],"type":"Point"}
 }

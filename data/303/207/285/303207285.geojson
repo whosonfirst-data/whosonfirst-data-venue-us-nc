@@ -2,13 +2,14 @@
   "id": 303207285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.760364,35.817457,-81.760364,35.817457",
     "geom:latitude":35.817457,
     "geom:longitude":-81.760364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2785 Hollybrook Ln",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303207285,
-    "wof:lastmodified":1448999828,
+    "wof:lastmodified":1466646320,
     "wof:name":"Slate Construction",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.760364,35.817457,-81.760364,35.817457],
+  "bbox": [
+    -81.760364,
+    35.817457,
+    -81.760364,
+    35.817457
+],
   "geometry": {"coordinates":[-81.760364,35.817457],"type":"Point"}
 }

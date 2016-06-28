@@ -2,13 +2,14 @@
   "id": 253504479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.831975,35.85253,-79.831975,35.85253",
     "geom:latitude":35.85253,
     "geom:longitude":-79.831975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5762 Davis Country Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253504479,
-    "wof:lastmodified":1449063338,
+    "wof:lastmodified":1466648427,
     "wof:name":"Thomasville Direct",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.831975,35.85253,-79.831975,35.85253],
+  "bbox": [
+    -79.831975,
+    35.85253,
+    -79.831975,
+    35.85253
+],
   "geometry": {"coordinates":[-79.831975,35.85253],"type":"Point"}
 }

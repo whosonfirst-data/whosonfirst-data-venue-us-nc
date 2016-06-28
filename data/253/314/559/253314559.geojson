@@ -2,13 +2,14 @@
   "id": 253314559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.13505,35.525766,-81.13505,35.525766",
     "geom:latitude":35.525766,
     "geom:longitude":-81.13505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5138 State Rd 150",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253314559,
-    "wof:lastmodified":1449065674,
+    "wof:lastmodified":1466646195,
     "wof:name":"Piedmont Bait & Tackle Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "boat"
     ]
 },
-  "bbox": [-81.13505,35.525766,-81.13505,35.525766],
-  "geometry": {"coordinates":[-81.13505,35.525766],"type":"Point"}
+  "bbox": [
+    -81.13505,
+    35.525766,
+    -81.13505,
+    35.525766
+],
+  "geometry": {"coordinates":[-81.13505000000001,35.525766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371066549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.753195,36.407125,-76.753195,36.407125",
     "geom:latitude":36.407125,
     "geom:longitude":-76.753195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Main St",
     "sg:city":"Gatesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371066549,
-    "wof:lastmodified":1449049310,
+    "wof:lastmodified":1466649664,
     "wof:name":"Gatesville Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-76.753195,36.407125,-76.753195,36.407125],
-  "geometry": {"coordinates":[-76.753195,36.407125],"type":"Point"}
+  "bbox": [
+    -76.753195,
+    36.407125,
+    -76.753195,
+    36.407125
+],
+  "geometry": {"coordinates":[-76.75319500000001,36.407125],"type":"Point"}
 }

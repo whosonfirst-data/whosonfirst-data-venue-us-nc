@@ -2,13 +2,14 @@
   "id": 202511507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.492633,35.841705,-81.492633,35.841705",
     "geom:latitude":35.841705,
     "geom:longitude":-81.492633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 Central St",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202511507,
-    "wof:lastmodified":1449061293,
+    "wof:lastmodified":1466655049,
     "wof:name":"C M Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.492633,35.841705,-81.492633,35.841705],
+  "bbox": [
+    -81.492633,
+    35.841705,
+    -81.492633,
+    35.841705
+],
   "geometry": {"coordinates":[-81.492633,35.841705],"type":"Point"}
 }

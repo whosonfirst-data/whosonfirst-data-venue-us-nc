@@ -2,13 +2,14 @@
   "id": 220190831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.383508,34.567405,-77.383508,34.567405",
     "geom:latitude":34.567405,
     "geom:longitude":-77.383508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Everett Ln",
     "sg:city":"Sneads Ferry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220190831,
-    "wof:lastmodified":1449074838,
+    "wof:lastmodified":1466644723,
     "wof:name":"Bowman's Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-77.383508,34.567405,-77.383508,34.567405],
-  "geometry": {"coordinates":[-77.383508,34.567405],"type":"Point"}
+  "bbox": [
+    -77.383508,
+    34.567405,
+    -77.383508,
+    34.567405
+],
+  "geometry": {"coordinates":[-77.38350800000001,34.567405],"type":"Point"}
 }

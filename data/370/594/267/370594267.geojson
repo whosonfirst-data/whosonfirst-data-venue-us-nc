@@ -2,13 +2,14 @@
   "id": 370594267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.751827,35.111691,-80.751827,35.111691",
     "geom:latitude":35.111691,
     "geom:longitude":-80.751827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Rose Arbor Ln",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370594267,
-    "wof:lastmodified":1449029585,
+    "wof:lastmodified":1466653810,
     "wof:name":"Castle Realty & Auction",
     "wof:parent_id":85847807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "realty"
     ]
 },
-  "bbox": [-80.751827,35.111691,-80.751827,35.111691],
-  "geometry": {"coordinates":[-80.751827,35.111691],"type":"Point"}
+  "bbox": [
+    -80.751827,
+    35.111691,
+    -80.751827,
+    35.111691
+],
+  "geometry": {"coordinates":[-80.75182700000001,35.111691],"type":"Point"}
 }

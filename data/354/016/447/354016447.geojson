@@ -2,13 +2,14 @@
   "id": 354016447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.657057,35.724916,-78.657057,35.724916",
     "geom:latitude":35.724916,
     "geom:longitude":-78.657057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1482 Garner Station Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354016447,
-    "wof:lastmodified":1449066234,
+    "wof:lastmodified":1466647745,
     "wof:name":"Wireless Co",
     "wof:parent_id":85892051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-78.657057,35.724916,-78.657057,35.724916],
-  "geometry": {"coordinates":[-78.657057,35.724916],"type":"Point"}
+  "bbox": [
+    -78.657057,
+    35.724916,
+    -78.657057,
+    35.724916
+],
+  "geometry": {"coordinates":[-78.65705699999999,35.724916],"type":"Point"}
 }

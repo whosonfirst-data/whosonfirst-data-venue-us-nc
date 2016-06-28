@@ -2,13 +2,14 @@
   "id": 387824695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.932386,35.35882,-81.932386,35.35882",
     "geom:latitude":35.35882,
     "geom:longitude":-81.932386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Oak St",
     "sg:city":"Spindale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387824695,
-    "wof:lastmodified":1449057453,
+    "wof:lastmodified":1466657832,
     "wof:name":"Spindale Elementary School",
     "wof:parent_id":85817829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-81.932386,35.35882,-81.932386,35.35882],
-  "geometry": {"coordinates":[-81.932386,35.35882],"type":"Point"}
+  "bbox": [
+    -81.932386,
+    35.35882,
+    -81.932386,
+    35.35882
+],
+  "geometry": {"coordinates":[-81.93238599999999,35.35882],"type":"Point"}
 }

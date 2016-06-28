@@ -2,13 +2,14 @@
   "id": 303615575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.538625,35.811454,-78.538625,35.811454",
     "geom:latitude":35.811454,
     "geom:longitude":-78.538625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2152 Castle Pines Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303615575,
-    "wof:lastmodified":1448998889,
+    "wof:lastmodified":1466652185,
     "wof:name":"Lewis Bordeau Enterprises",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-78.538625,35.811454,-78.538625,35.811454],
+  "bbox": [
+    -78.538625,
+    35.811454,
+    -78.538625,
+    35.811454
+],
   "geometry": {"coordinates":[-78.538625,35.811454],"type":"Point"}
 }

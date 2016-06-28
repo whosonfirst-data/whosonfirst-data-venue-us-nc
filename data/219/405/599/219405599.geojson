@@ -2,13 +2,14 @@
   "id": 219405599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.382692,35.571497,-77.382692,35.571497",
     "geom:latitude":35.571497,
     "geom:longitude":-77.382692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 S Evans St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219405599,
-    "wof:lastmodified":1449073626,
+    "wof:lastmodified":1466644179,
     "wof:name":"Brookfield Apartments",
     "wof:parent_id":85857865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-77.382692,35.571497,-77.382692,35.571497],
-  "geometry": {"coordinates":[-77.382692,35.571497],"type":"Point"}
+  "bbox": [
+    -77.382692,
+    35.571497,
+    -77.382692,
+    35.571497
+],
+  "geometry": {"coordinates":[-77.38269200000001,35.571497],"type":"Point"}
 }

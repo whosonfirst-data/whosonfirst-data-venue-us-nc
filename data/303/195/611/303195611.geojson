@@ -2,13 +2,14 @@
   "id": 303195611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.793698,36.072588,-79.793698,36.072588",
     "geom:latitude":36.072588,
     "geom:longitude":-79.793698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Market St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303195611,
-    "wof:lastmodified":1448999725,
+    "wof:lastmodified":1466646162,
     "wof:name":"Guilford County Facilities Adm",
     "wof:parent_id":85877967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.793698,36.072588,-79.793698,36.072588],
-  "geometry": {"coordinates":[-79.793698,36.072588],"type":"Point"}
+  "bbox": [
+    -79.793698,
+    36.072588,
+    -79.793698,
+    36.072588
+],
+  "geometry": {"coordinates":[-79.79369800000001,36.072588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286288251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.675762,35.038099,-78.675762,35.038099",
     "geom:latitude":35.038099,
     "geom:longitude":-78.675762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 Obershea Ln",
     "sg:city":"Stedman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286288251,
-    "wof:lastmodified":1449015485,
+    "wof:lastmodified":1466643570,
     "wof:name":"K-Z Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.675762,35.038099,-78.675762,35.038099],
-  "geometry": {"coordinates":[-78.675762,35.038099],"type":"Point"}
+  "bbox": [
+    -78.675762,
+    35.038099,
+    -78.675762,
+    35.038099
+],
+  "geometry": {"coordinates":[-78.67576200000001,35.038099],"type":"Point"}
 }

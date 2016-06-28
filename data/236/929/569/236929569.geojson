@@ -2,13 +2,14 @@
   "id": 236929569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.252487,35.531082,-77.252487,35.531082",
     "geom:latitude":35.531082,
     "geom:longitude":-77.252487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3640 Hudsons Crossroads Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236929569,
-    "wof:lastmodified":1449002814,
+    "wof:lastmodified":1466651544,
     "wof:name":"Hudson's Mowing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-77.252487,35.531082,-77.252487,35.531082],
+  "bbox": [
+    -77.252487,
+    35.531082,
+    -77.252487,
+    35.531082
+],
   "geometry": {"coordinates":[-77.252487,35.531082],"type":"Point"}
 }

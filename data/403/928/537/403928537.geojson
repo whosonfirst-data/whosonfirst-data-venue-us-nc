@@ -2,13 +2,14 @@
   "id": 403928537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.021146,35.539919,-81.021146,35.539919",
     "geom:latitude":35.539919,
     "geom:longitude":-81.021146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7061 Campground Rd",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403928537,
-    "wof:lastmodified":1449055779,
+    "wof:lastmodified":1466653267,
     "wof:name":"Monroe Roadways Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.021146,35.539919,-81.021146,35.539919],
+  "bbox": [
+    -81.021146,
+    35.539919,
+    -81.021146,
+    35.539919
+],
   "geometry": {"coordinates":[-81.021146,35.539919],"type":"Point"}
 }

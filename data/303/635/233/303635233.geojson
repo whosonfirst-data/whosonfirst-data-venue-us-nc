@@ -2,13 +2,14 @@
   "id": 303635233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.923031,35.967577,-78.923031,35.967577",
     "geom:latitude":35.967577,
     "geom:longitude":-78.923031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 W Cornwallis Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303635233,
-    "wof:lastmodified":1448999180,
+    "wof:lastmodified":1466652481,
     "wof:name":"Cornwallis Road Animal Hosp",
     "wof:parent_id":85826221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "animal"
     ]
 },
-  "bbox": [-78.923031,35.967577,-78.923031,35.967577],
-  "geometry": {"coordinates":[-78.923031,35.967577],"type":"Point"}
+  "bbox": [
+    -78.923031,
+    35.967577,
+    -78.923031,
+    35.967577
+],
+  "geometry": {"coordinates":[-78.92303099999999,35.967577],"type":"Point"}
 }

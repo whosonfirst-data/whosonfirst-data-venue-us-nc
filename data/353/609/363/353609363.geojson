@@ -2,13 +2,14 @@
   "id": 353609363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.041244,35.455754,-83.041244,35.455754",
     "geom:latitude":35.455754,
     "geom:longitude":-83.041244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18129 Great Smoky Mountain Expy",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":353609363,
-    "wof:lastmodified":1449019214,
+    "wof:lastmodified":1466649539,
     "wof:name":"Homes America",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.041244,35.455754,-83.041244,35.455754],
-  "geometry": {"coordinates":[-83.041244,35.455754],"type":"Point"}
+  "bbox": [
+    -83.041244,
+    35.455754,
+    -83.041244,
+    35.455754
+],
+  "geometry": {"coordinates":[-83.04124400000001,35.455754],"type":"Point"}
 }

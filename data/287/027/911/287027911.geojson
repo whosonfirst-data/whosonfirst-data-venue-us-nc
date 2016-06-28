@@ -2,13 +2,14 @@
   "id": 287027911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.056542,35.545769,-77.056542,35.545769",
     "geom:latitude":35.545769,
     "geom:longitude":-77.056542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 W 3rd St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287027911,
-    "wof:lastmodified":1449000829,
+    "wof:lastmodified":1466643624,
     "wof:name":"Smith Hearing Care Center",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-77.056542,35.545769,-77.056542,35.545769],
-  "geometry": {"coordinates":[-77.056542,35.545769],"type":"Point"}
+  "bbox": [
+    -77.056542,
+    35.545769,
+    -77.056542,
+    35.545769
+],
+  "geometry": {"coordinates":[-77.05654199999999,35.545769],"type":"Point"}
 }

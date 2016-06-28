@@ -2,13 +2,14 @@
   "id": 253587893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.727786,35.897031,-78.727786,35.897031",
     "geom:latitude":35.897031,
     "geom:longitude":-78.727786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8301 Trumpetor Way",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253587893,
-    "wof:lastmodified":1449063840,
+    "wof:lastmodified":1466649432,
     "wof:name":"H-Cubed Inc",
     "wof:parent_id":85892131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "technology"
     ]
 },
-  "bbox": [-78.727786,35.897031,-78.727786,35.897031],
-  "geometry": {"coordinates":[-78.727786,35.897031],"type":"Point"}
+  "bbox": [
+    -78.727786,
+    35.897031,
+    -78.727786,
+    35.897031
+],
+  "geometry": {"coordinates":[-78.72778599999999,35.897031],"type":"Point"}
 }

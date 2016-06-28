@@ -2,13 +2,14 @@
   "id": 403908819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256744,35.826844,-80.256744,35.826844",
     "geom:latitude":35.826844,
     "geom:longitude":-80.256744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 W Center St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403908819,
-    "wof:lastmodified":1449055393,
+    "wof:lastmodified":1466653013,
     "wof:name":"Business Computer Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.256744,35.826844,-80.256744,35.826844],
+  "bbox": [
+    -80.256744,
+    35.826844,
+    -80.256744,
+    35.826844
+],
   "geometry": {"coordinates":[-80.256744,35.826844],"type":"Point"}
 }

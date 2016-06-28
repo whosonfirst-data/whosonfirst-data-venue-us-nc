@@ -2,13 +2,14 @@
   "id": 303042671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.108308,35.940052,-78.108308,35.940052",
     "geom:latitude":35.940052,
     "geom:longitude":-78.108308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 S Pine St",
     "sg:city":"Spring Hope",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303042671,
-    "wof:lastmodified":1448999973,
+    "wof:lastmodified":1466643853,
     "wof:name":"St Steven Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.108308,35.940052,-78.108308,35.940052],
-  "geometry": {"coordinates":[-78.108308,35.940052],"type":"Point"}
+  "bbox": [
+    -78.108308,
+    35.940052,
+    -78.108308,
+    35.940052
+],
+  "geometry": {"coordinates":[-78.10830799999999,35.940052],"type":"Point"}
 }

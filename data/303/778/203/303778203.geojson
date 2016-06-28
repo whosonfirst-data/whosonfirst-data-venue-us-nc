@@ -2,13 +2,14 @@
   "id": 303778203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.891923,36.048654,-78.891923,36.048654",
     "geom:latitude":36.048654,
     "geom:longitude":-78.891923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4204 Technology Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303778203,
-    "wof:lastmodified":1448998166,
+    "wof:lastmodified":1466654546,
     "wof:name":"Clinical Trial Services",
     "wof:parent_id":85877187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.891923,36.048654,-78.891923,36.048654],
-  "geometry": {"coordinates":[-78.891923,36.048654],"type":"Point"}
+  "bbox": [
+    -78.891923,
+    36.048654,
+    -78.891923,
+    36.048654
+],
+  "geometry": {"coordinates":[-78.89192300000001,36.048654],"type":"Point"}
 }

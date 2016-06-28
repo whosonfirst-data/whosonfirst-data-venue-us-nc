@@ -2,13 +2,14 @@
   "id": 270022669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.217544,35.871866,-80.217544,35.871866",
     "geom:latitude":35.871866,
     "geom:longitude":-80.217544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 J D Essick Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270022669,
-    "wof:lastmodified":1449009443,
+    "wof:lastmodified":1466643462,
     "wof:name":"Lakewood Grading",
     "wof:parent_id":85837937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "grading"
     ]
 },
-  "bbox": [-80.217544,35.871866,-80.217544,35.871866],
+  "bbox": [
+    -80.217544,
+    35.871866,
+    -80.217544,
+    35.871866
+],
   "geometry": {"coordinates":[-80.217544,35.871866],"type":"Point"}
 }

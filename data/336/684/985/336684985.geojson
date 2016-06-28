@@ -2,13 +2,14 @@
   "id": 336684985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.229098,35.416011,-79.229098,35.416011",
     "geom:latitude":35.416011,
     "geom:longitude":-79.229098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 Jefferson Davis Hwy",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336684985,
-    "wof:lastmodified":1448997219,
+    "wof:lastmodified":1466647152,
     "wof:name":"Wayne Homes",
     "wof:parent_id":85852511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-79.229098,35.416011,-79.229098,35.416011],
-  "geometry": {"coordinates":[-79.229098,35.416011],"type":"Point"}
+  "bbox": [
+    -79.229098,
+    35.416011,
+    -79.229098,
+    35.416011
+],
+  "geometry": {"coordinates":[-79.22909799999999,35.416011],"type":"Point"}
 }

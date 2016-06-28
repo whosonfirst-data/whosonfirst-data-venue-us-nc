@@ -2,13 +2,14 @@
   "id": 303704363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943062,35.043999,-78.943062,35.043999",
     "geom:latitude":35.043999,
     "geom:longitude":-78.943062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Raeford Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303704363,
-    "wof:lastmodified":1448998750,
+    "wof:lastmodified":1466653477,
     "wof:name":"HPS Mortgage Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-78.943062,35.043999,-78.943062,35.043999],
+  "bbox": [
+    -78.943062,
+    35.043999,
+    -78.943062,
+    35.043999
+],
   "geometry": {"coordinates":[-78.943062,35.043999],"type":"Point"}
 }

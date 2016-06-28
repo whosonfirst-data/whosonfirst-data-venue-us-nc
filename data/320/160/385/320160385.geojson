@@ -2,13 +2,14 @@
   "id": 320160385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.112384,35.945013,-78.112384,35.945013",
     "geom:latitude":35.945013,
     "geom:longitude":-78.112384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Nash St",
     "sg:city":"Spring Hope",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320160385,
-    "wof:lastmodified":1449014378,
+    "wof:lastmodified":1466647548,
     "wof:name":"Hill's Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.112384,35.945013,-78.112384,35.945013],
-  "geometry": {"coordinates":[-78.112384,35.945013],"type":"Point"}
+  "bbox": [
+    -78.112384,
+    35.945013,
+    -78.112384,
+    35.945013
+],
+  "geometry": {"coordinates":[-78.11238400000001,35.945013],"type":"Point"}
 }

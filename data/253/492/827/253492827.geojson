@@ -2,13 +2,14 @@
   "id": 253492827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.526146,35.639465,-78.526146,35.639465",
     "geom:latitude":35.639465,
     "geom:longitude":-78.526146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 Winston Rd",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253492827,
-    "wof:lastmodified":1449062821,
+    "wof:lastmodified":1466648291,
     "wof:name":"Tellstart",
     "wof:parent_id":85807481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telemarketing"
     ]
 },
-  "bbox": [-78.526146,35.639465,-78.526146,35.639465],
+  "bbox": [
+    -78.526146,
+    35.639465,
+    -78.526146,
+    35.639465
+],
   "geometry": {"coordinates":[-78.526146,35.639465],"type":"Point"}
 }

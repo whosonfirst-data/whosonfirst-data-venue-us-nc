@@ -2,13 +2,14 @@
   "id": 303689705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.551914,34.981931,-80.551914,34.981931",
     "geom:latitude":34.981931,
     "geom:longitude":-80.551914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 W Morgan St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303689705,
-    "wof:lastmodified":1449000152,
+    "wof:lastmodified":1466653269,
     "wof:name":"Robert L Huffman",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.551914,34.981931,-80.551914,34.981931],
+  "bbox": [
+    -80.551914,
+    34.981931,
+    -80.551914,
+    34.981931
+],
   "geometry": {"coordinates":[-80.551914,34.981931],"type":"Point"}
 }

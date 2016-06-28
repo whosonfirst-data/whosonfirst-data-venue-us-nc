@@ -2,13 +2,14 @@
   "id": 202930125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.664391,35.32769,-80.664391,35.32769",
     "geom:latitude":35.32769,
     "geom:longitude":-80.664391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6278 Morehead Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202930125,
-    "wof:lastmodified":1449060922,
+    "wof:lastmodified":1466645183,
     "wof:name":"Handy Works",
     "wof:parent_id":85891947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.664391,35.32769,-80.664391,35.32769],
-  "geometry": {"coordinates":[-80.664391,35.32769],"type":"Point"}
+  "bbox": [
+    -80.664391,
+    35.32769,
+    -80.664391,
+    35.32769
+],
+  "geometry": {"coordinates":[-80.66439099999999,35.32769],"type":"Point"}
 }

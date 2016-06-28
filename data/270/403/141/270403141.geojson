@@ -2,13 +2,14 @@
   "id": 270403141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.772686,35.69486,-78.772686,35.69486",
     "geom:latitude":35.69486,
     "geom:longitude":-78.772686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8712 Holly Springs Rd",
     "sg:city":"Apex",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270403141,
-    "wof:lastmodified":1449010743,
+    "wof:lastmodified":1466648175,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leasing"
     ]
 },
-  "bbox": [-78.772686,35.69486,-78.772686,35.69486],
-  "geometry": {"coordinates":[-78.772686,35.69486],"type":"Point"}
+  "bbox": [
+    -78.772686,
+    35.69486,
+    -78.772686,
+    35.69486
+],
+  "geometry": {"coordinates":[-78.77268599999999,35.69486],"type":"Point"}
 }

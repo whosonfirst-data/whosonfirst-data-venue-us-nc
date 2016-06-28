@@ -2,13 +2,14 @@
   "id": 253464799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.339573,35.732288,-81.339573,35.732288",
     "geom:latitude":35.732288,
     "geom:longitude":-81.339573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 2nd St NW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253464799,
-    "wof:lastmodified":1449063609,
+    "wof:lastmodified":1466647933,
     "wof:name":"RBC Dain Rauscher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.339573,35.732288,-81.339573,35.732288],
+  "bbox": [
+    -81.339573,
+    35.732288,
+    -81.339573,
+    35.732288
+],
   "geometry": {"coordinates":[-81.339573,35.732288],"type":"Point"}
 }

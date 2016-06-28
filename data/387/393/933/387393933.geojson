@@ -2,13 +2,14 @@
   "id": 387393933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.591091,35.821118,-78.591091,35.821118",
     "geom:latitude":35.821118,
     "geom:longitude":-78.591091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3141 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387393933,
-    "wof:lastmodified":1449057295,
+    "wof:lastmodified":1466655028,
     "wof:name":"Radio Shack",
     "wof:parent_id":85892133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-78.591091,35.821118,-78.591091,35.821118],
-  "geometry": {"coordinates":[-78.591091,35.821118],"type":"Point"}
+  "bbox": [
+    -78.591091,
+    35.821118,
+    -78.591091,
+    35.821118
+],
+  "geometry": {"coordinates":[-78.59109100000001,35.821118],"type":"Point"}
 }

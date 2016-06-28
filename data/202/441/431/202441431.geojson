@@ -2,13 +2,14 @@
   "id": 202441431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.789228,34.642487,-78.789228,34.642487",
     "geom:latitude":34.642487,
     "geom:longitude":-78.789228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 Plum Nellie Rd",
     "sg:city":"Bladenboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202441431,
-    "wof:lastmodified":1449060304,
+    "wof:lastmodified":1466654507,
     "wof:name":"Prestage Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.789228,34.642487,-78.789228,34.642487],
-  "geometry": {"coordinates":[-78.789228,34.642487],"type":"Point"}
+  "bbox": [
+    -78.789228,
+    34.642487,
+    -78.789228,
+    34.642487
+],
+  "geometry": {"coordinates":[-78.78922799999999,34.642487],"type":"Point"}
 }

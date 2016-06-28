@@ -2,13 +2,14 @@
   "id": 387389977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.41303,36.132575,-79.41303,36.132575",
     "geom:latitude":36.132575,
     "geom:longitude":-79.41303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 Carolina Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387389977,
-    "wof:lastmodified":1449059140,
+    "wof:lastmodified":1466654973,
     "wof:name":"Simmons Upholstery",
     "wof:parent_id":85826513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-79.41303,36.132575,-79.41303,36.132575],
-  "geometry": {"coordinates":[-79.41303,36.132575],"type":"Point"}
+  "bbox": [
+    -79.41303,
+    36.132575,
+    -79.41303,
+    36.132575
+],
+  "geometry": {"coordinates":[-79.41303000000001,36.132575],"type":"Point"}
 }

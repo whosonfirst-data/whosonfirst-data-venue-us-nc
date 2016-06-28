@@ -2,13 +2,14 @@
   "id": 220015129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.856885,35.122497,-80.856885,35.122497",
     "geom:latitude":35.122497,
     "geom:longitude":-80.856885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7151 Meeting St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220015129,
-    "wof:lastmodified":1449074230,
+    "wof:lastmodified":1466643336,
     "wof:name":"Km & Company Inc",
     "wof:parent_id":85850645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.856885,35.122497,-80.856885,35.122497],
-  "geometry": {"coordinates":[-80.856885,35.122497],"type":"Point"}
+  "bbox": [
+    -80.856885,
+    35.122497,
+    -80.856885,
+    35.122497
+],
+  "geometry": {"coordinates":[-80.85688500000001,35.122497],"type":"Point"}
 }

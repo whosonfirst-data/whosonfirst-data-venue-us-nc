@@ -2,13 +2,14 @@
   "id": 303319031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.653887,35.813649,-78.653887,35.813649",
     "geom:latitude":35.813649,
     "geom:longitude":-78.653887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Wake Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303319031,
-    "wof:lastmodified":1448999116,
+    "wof:lastmodified":1466647932,
     "wof:name":"Bob Rollins",
     "wof:parent_id":85812499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.653887,35.813649,-78.653887,35.813649],
+  "bbox": [
+    -78.653887,
+    35.813649,
+    -78.653887,
+    35.813649
+],
   "geometry": {"coordinates":[-78.653887,35.813649],"type":"Point"}
 }

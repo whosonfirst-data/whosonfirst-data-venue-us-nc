@@ -2,13 +2,14 @@
   "id": 202520401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.821832,35.207895,-80.821832,35.207895",
     "geom:latitude":35.207895,
     "geom:longitude":-80.821832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2028 Randolph Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202520401,
-    "wof:lastmodified":1449060943,
+    "wof:lastmodified":1466655100,
     "wof:name":"George Andrinopoulos",
     "wof:parent_id":85817775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.821832,35.207895,-80.821832,35.207895],
+  "bbox": [
+    -80.821832,
+    35.207895,
+    -80.821832,
+    35.207895
+],
   "geometry": {"coordinates":[-80.821832,35.207895],"type":"Point"}
 }

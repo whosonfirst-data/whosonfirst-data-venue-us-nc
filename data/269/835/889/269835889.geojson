@@ -2,13 +2,14 @@
   "id": 269835889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.754241,35.853858,-76.754241,35.853858",
     "geom:latitude":35.853858,
     "geom:longitude":-76.754241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Spencer St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269835889,
-    "wof:lastmodified":1449036477,
+    "wof:lastmodified":1466647347,
     "wof:name":"Mary's Little Lambs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-76.754241,35.853858,-76.754241,35.853858],
-  "geometry": {"coordinates":[-76.754241,35.853858],"type":"Point"}
+  "bbox": [
+    -76.754241,
+    35.853858,
+    -76.754241,
+    35.853858
+],
+  "geometry": {"coordinates":[-76.75424099999999,35.853858],"type":"Point"}
 }

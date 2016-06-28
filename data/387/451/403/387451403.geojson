@@ -2,13 +2,14 @@
   "id": 387451403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.575071,36.016045,-78.575071,36.016045",
     "geom:latitude":36.016045,
     "geom:longitude":-78.575071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3609 Purnell Rd",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387451403,
-    "wof:lastmodified":1449057771,
+    "wof:lastmodified":1466655779,
     "wof:name":"Veterans of Fgn Wars 8466",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.575071,36.016045,-78.575071,36.016045],
-  "geometry": {"coordinates":[-78.575071,36.016045],"type":"Point"}
+  "bbox": [
+    -78.575071,
+    36.016045,
+    -78.575071,
+    36.016045
+],
+  "geometry": {"coordinates":[-78.57507099999999,36.016045],"type":"Point"}
 }

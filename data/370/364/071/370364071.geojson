@@ -2,13 +2,14 @@
   "id": 370364071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.628921,35.533508,-82.628921,35.533508",
     "geom:latitude":35.533508,
     "geom:longitude":-82.628921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Gaston Mountain Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370364071,
-    "wof:lastmodified":1449030971,
+    "wof:lastmodified":1466650807,
     "wof:name":"North Carolina Forest Services",
     "wof:parent_id":85853555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-82.628921,35.533508,-82.628921,35.533508],
-  "geometry": {"coordinates":[-82.628921,35.533508],"type":"Point"}
+  "bbox": [
+    -82.628921,
+    35.533508,
+    -82.628921,
+    35.533508
+],
+  "geometry": {"coordinates":[-82.62892100000001,35.533508],"type":"Point"}
 }

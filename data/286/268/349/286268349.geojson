@@ -2,13 +2,14 @@
   "id": 286268349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.349567,35.511244,-78.349567,35.511244",
     "geom:latitude":35.511244,
     "geom:longitude":-78.349567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Johnston St",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286268349,
-    "wof:lastmodified":1449016859,
+    "wof:lastmodified":1466643316,
     "wof:name":"Johnston County Housing Asstnc",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.349567,35.511244,-78.349567,35.511244],
-  "geometry": {"coordinates":[-78.349567,35.511244],"type":"Point"}
+  "bbox": [
+    -78.349567,
+    35.511244,
+    -78.349567,
+    35.511244
+],
+  "geometry": {"coordinates":[-78.34956699999999,35.511244],"type":"Point"}
 }

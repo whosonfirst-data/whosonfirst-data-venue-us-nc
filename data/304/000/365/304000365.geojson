@@ -2,13 +2,14 @@
   "id": 304000365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.550891,35.591503,-80.550891,35.591503",
     "geom:latitude":35.591503,
     "geom:longitude":-80.550891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6460 US Hwy 601",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304000365,
-    "wof:lastmodified":1449043647,
+    "wof:lastmodified":1466655840,
     "wof:name":"Jim Shoaf Barn Dance",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.550891,35.591503,-80.550891,35.591503],
-  "geometry": {"coordinates":[-80.550891,35.591503],"type":"Point"}
+  "bbox": [
+    -80.550891,
+    35.591503,
+    -80.550891,
+    35.591503
+],
+  "geometry": {"coordinates":[-80.55089099999999,35.591503],"type":"Point"}
 }

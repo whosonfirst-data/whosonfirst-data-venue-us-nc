@@ -2,13 +2,14 @@
   "id": 202751623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.589265,35.874355,-78.589265,35.874355",
     "geom:latitude":35.874355,
     "geom:longitude":-78.589265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Sumner Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202751623,
-    "wof:lastmodified":1449060246,
+    "wof:lastmodified":1466643810,
     "wof:name":"Church Of The Apostles",
     "wof:parent_id":85892081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.589265,35.874355,-78.589265,35.874355],
+  "bbox": [
+    -78.589265,
+    35.874355,
+    -78.589265,
+    35.874355
+],
   "geometry": {"coordinates":[-78.589265,35.874355],"type":"Point"}
 }

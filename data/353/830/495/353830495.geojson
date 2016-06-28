@@ -2,13 +2,14 @@
   "id": 353830495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.021257,34.446645,-78.021257,34.446645",
     "geom:latitude":34.446645,
     "geom:longitude":-78.021257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5590 Herrings Chapel Rd",
     "sg:city":"Rocky Point",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353830495,
-    "wof:lastmodified":1449018808,
+    "wof:lastmodified":1466652111,
     "wof:name":"NBQ Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.021257,34.446645,-78.021257,34.446645],
-  "geometry": {"coordinates":[-78.021257,34.446645],"type":"Point"}
+  "bbox": [
+    -78.021257,
+    34.446645,
+    -78.021257,
+    34.446645
+],
+  "geometry": {"coordinates":[-78.02125700000001,34.446645],"type":"Point"}
 }

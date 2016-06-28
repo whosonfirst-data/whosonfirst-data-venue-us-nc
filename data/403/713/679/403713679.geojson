@@ -2,13 +2,14 @@
   "id": 403713679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.883554,35.095013,-80.883554,35.095013",
     "geom:latitude":35.095013,
     "geom:longitude":-80.883554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10833 Pineville Rd",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403713679,
-    "wof:lastmodified":1449055844,
+    "wof:lastmodified":1466650473,
     "wof:name":"Pineville Animal Hospital",
     "wof:parent_id":85851011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.883554,35.095013,-80.883554,35.095013],
+  "bbox": [
+    -80.883554,
+    35.095013,
+    -80.883554,
+    35.095013
+],
   "geometry": {"coordinates":[-80.883554,35.095013],"type":"Point"}
 }

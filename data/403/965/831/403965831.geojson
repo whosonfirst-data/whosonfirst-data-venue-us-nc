@@ -2,13 +2,14 @@
   "id": 403965831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.578274,35.266817,-78.578274,35.266817",
     "geom:latitude":35.266817,
     "geom:longitude":-78.578274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7390 Plain View Hwy",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403965831,
-    "wof:lastmodified":1449055541,
+    "wof:lastmodified":1466653747,
     "wof:name":"Plain View Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-78.578274,35.266817,-78.578274,35.266817],
-  "geometry": {"coordinates":[-78.578274,35.266817],"type":"Point"}
+  "bbox": [
+    -78.578274,
+    35.266817,
+    -78.578274,
+    35.266817
+],
+  "geometry": {"coordinates":[-78.57827399999999,35.266817],"type":"Point"}
 }

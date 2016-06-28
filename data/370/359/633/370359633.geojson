@@ -2,13 +2,14 @@
   "id": 370359633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.767047,35.081161,-78.767047,35.081161",
     "geom:latitude":35.081161,
     "geom:longitude":-78.767047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2090 Orville St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370359633,
-    "wof:lastmodified":1449029019,
+    "wof:lastmodified":1466650747,
     "wof:name":"Mobile Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-78.767047,35.081161,-78.767047,35.081161],
-  "geometry": {"coordinates":[-78.767047,35.081161],"type":"Point"}
+  "bbox": [
+    -78.767047,
+    35.081161,
+    -78.767047,
+    35.081161
+],
+  "geometry": {"coordinates":[-78.76704700000001,35.081161],"type":"Point"}
 }

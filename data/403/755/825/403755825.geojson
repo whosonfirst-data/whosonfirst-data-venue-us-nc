@@ -2,13 +2,14 @@
   "id": 403755825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.685671,35.390477,-80.685671,35.390477",
     "geom:latitude":35.390477,
     "geom:longitude":-80.685671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6637 Weldon Cir NW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403755825,
-    "wof:lastmodified":1449055014,
+    "wof:lastmodified":1466651016,
     "wof:name":"Window Gang",
     "wof:parent_id":85891909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-80.685671,35.390477,-80.685671,35.390477],
+  "bbox": [
+    -80.685671,
+    35.390477,
+    -80.685671,
+    35.390477
+],
   "geometry": {"coordinates":[-80.685671,35.390477],"type":"Point"}
 }

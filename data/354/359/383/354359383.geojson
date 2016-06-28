@@ -2,13 +2,14 @@
   "id": 354359383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.412793,36.27699,-78.412793,36.27699",
     "geom:latitude":36.27699,
     "geom:longitude":-78.412793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 N Lynnbank Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":354359383,
-    "wof:lastmodified":1449065905,
+    "wof:lastmodified":1466651703,
     "wof:name":"Grant J Burns Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transporter"
     ]
 },
-  "bbox": [-78.412793,36.27699,-78.412793,36.27699],
-  "geometry": {"coordinates":[-78.412793,36.27699],"type":"Point"}
+  "bbox": [
+    -78.412793,
+    36.27699,
+    -78.412793,
+    36.27699
+],
+  "geometry": {"coordinates":[-78.41279299999999,36.27699],"type":"Point"}
 }

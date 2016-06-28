@@ -2,13 +2,14 @@
   "id": 303992863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.863408,35.800883,-80.863408,35.800883",
     "geom:latitude":35.800883,
     "geom:longitude":-80.863408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Davie Ave",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303992863,
-    "wof:lastmodified":1448999271,
+    "wof:lastmodified":1466656936,
     "wof:name":"Piedmont Health Care Ob/Gyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.863408,35.800883,-80.863408,35.800883],
-  "geometry": {"coordinates":[-80.863408,35.800883],"type":"Point"}
+  "bbox": [
+    -80.863408,
+    35.800883,
+    -80.863408,
+    35.800883
+],
+  "geometry": {"coordinates":[-80.86340800000001,35.800883],"type":"Point"}
 }

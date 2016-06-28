@@ -2,13 +2,14 @@
   "id": 270429263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.327285,35.819168,-78.327285,35.819168",
     "geom:latitude":35.819168,
     "geom:longitude":-78.327285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Hospital Rd",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270429263,
-    "wof:lastmodified":1449010995,
+    "wof:lastmodified":1466648508,
     "wof:name":"Allen Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.327285,35.819168,-78.327285,35.819168],
+  "bbox": [
+    -78.327285,
+    35.819168,
+    -78.327285,
+    35.819168
+],
   "geometry": {"coordinates":[-78.327285,35.819168],"type":"Point"}
 }

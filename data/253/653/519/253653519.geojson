@@ -2,13 +2,14 @@
   "id": 253653519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.963244,35.890071,-79.963244,35.890071",
     "geom:latitude":35.890071,
     "geom:longitude":-79.963244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Barwood Ter",
     "sg:city":"Trinity",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253653519,
-    "wof:lastmodified":1449063039,
+    "wof:lastmodified":1466650190,
     "wof:name":"Shore General Maintenance",
     "wof:parent_id":85843865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-79.963244,35.890071,-79.963244,35.890071],
+  "bbox": [
+    -79.963244,
+    35.890071,
+    -79.963244,
+    35.890071
+],
   "geometry": {"coordinates":[-79.963244,35.890071],"type":"Point"}
 }

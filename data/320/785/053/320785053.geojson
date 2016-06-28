@@ -2,13 +2,14 @@
   "id": 320785053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.245183,36.207001,-81.245183,36.207001",
     "geom:latitude":36.207001,
     "geom:longitude":-81.245183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4337 N State Hwy 16",
     "sg:city":"Millers Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320785053,
-    "wof:lastmodified":1449014334,
+    "wof:lastmodified":1466656223,
     "wof:name":"Igloo Ice Cream & Sandwich Shp",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-81.245183,36.207001,-81.245183,36.207001],
+  "bbox": [
+    -81.245183,
+    36.207001,
+    -81.245183,
+    36.207001
+],
   "geometry": {"coordinates":[-81.245183,36.207001],"type":"Point"}
 }

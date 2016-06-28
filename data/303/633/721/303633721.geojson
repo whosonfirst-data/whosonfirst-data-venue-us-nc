@@ -2,13 +2,14 @@
   "id": 303633721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.81565,35.703377,-79.81565,35.703377",
     "geom:latitude":35.703377,
     "geom:longitude":-79.81565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 W Academy St",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303633721,
-    "wof:lastmodified":1449000547,
+    "wof:lastmodified":1466652458,
     "wof:name":"Credit Bureau Collection Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-79.81565,35.703377,-79.81565,35.703377],
-  "geometry": {"coordinates":[-79.81565,35.703377],"type":"Point"}
+  "bbox": [
+    -79.81565,
+    35.703377,
+    -79.81565,
+    35.703377
+],
+  "geometry": {"coordinates":[-79.81565000000001,35.703377],"type":"Point"}
 }

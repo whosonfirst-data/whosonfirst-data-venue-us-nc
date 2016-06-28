@@ -2,13 +2,14 @@
   "id": 337396263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.907823,34.190277,-77.907823,34.190277",
     "geom:latitude":34.190277,
     "geom:longitude":-77.907823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Stonewall Jackson Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337396263,
-    "wof:lastmodified":1449027487,
+    "wof:lastmodified":1466646765,
     "wof:name":"Southeast Building",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.907823,34.190277,-77.907823,34.190277],
-  "geometry": {"coordinates":[-77.907823,34.190277],"type":"Point"}
+  "bbox": [
+    -77.907823,
+    34.190277,
+    -77.907823,
+    34.190277
+],
+  "geometry": {"coordinates":[-77.90782299999999,34.190277],"type":"Point"}
 }

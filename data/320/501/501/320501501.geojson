@@ -2,13 +2,14 @@
   "id": 320501501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.63592,36.43318,-77.63592,36.43318",
     "geom:latitude":36.43318,
     "geom:longitude":-77.63592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 US Hwy 158",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320501501,
-    "wof:lastmodified":1449015004,
+    "wof:lastmodified":1466652386,
     "wof:name":"Community Self Serve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.63592,36.43318,-77.63592,36.43318],
+  "bbox": [
+    -77.63592,
+    36.43318,
+    -77.63592,
+    36.43318
+],
   "geometry": {"coordinates":[-77.63592,36.43318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387129043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.421786,36.130788,-77.421786,36.130788",
     "geom:latitude":36.130788,
     "geom:longitude":-77.421786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 Main St",
     "sg:city":"Scotland Neck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387129043,
-    "wof:lastmodified":1449059185,
+    "wof:lastmodified":1466651529,
     "wof:name":"Family Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-77.421786,36.130788,-77.421786,36.130788],
+  "bbox": [
+    -77.421786,
+    36.130788,
+    -77.421786,
+    36.130788
+],
   "geometry": {"coordinates":[-77.421786,36.130788],"type":"Point"}
 }

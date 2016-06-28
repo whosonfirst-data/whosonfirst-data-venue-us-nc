@@ -2,13 +2,14 @@
   "id": 219860009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.021645,35.580771,-80.021645,35.580771",
     "geom:latitude":35.580771,
     "geom:longitude":-80.021645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6232 Gravel Hill Rd",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219860009,
-    "wof:lastmodified":1449071970,
+    "wof:lastmodified":1466647671,
     "wof:name":"Laniers Grocery & Service",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.021645,35.580771,-80.021645,35.580771],
-  "geometry": {"coordinates":[-80.021645,35.580771],"type":"Point"}
+  "bbox": [
+    -80.021645,
+    35.580771,
+    -80.021645,
+    35.580771
+],
+  "geometry": {"coordinates":[-80.02164500000001,35.580771],"type":"Point"}
 }

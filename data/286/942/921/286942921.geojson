@@ -2,13 +2,14 @@
   "id": 286942921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.040725,35.542382,-79.040725,35.542382",
     "geom:latitude":35.542382,
     "geom:longitude":-79.040725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Mary Emma Ln",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286942921,
-    "wof:lastmodified":1449016530,
+    "wof:lastmodified":1466652413,
     "wof:name":"Smoak Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.040725,35.542382,-79.040725,35.542382],
-  "geometry": {"coordinates":[-79.040725,35.542382],"type":"Point"}
+  "bbox": [
+    -79.040725,
+    35.542382,
+    -79.040725,
+    35.542382
+],
+  "geometry": {"coordinates":[-79.04072499999999,35.542382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387335631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003949,35.96821,-80.003949,35.96821",
     "geom:latitude":35.96821,
     "geom:longitude":-80.003949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Montlieu Ave",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387335631,
-    "wof:lastmodified":1449058620,
+    "wof:lastmodified":1466654275,
     "wof:name":"Vision One Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-80.003949,35.96821,-80.003949,35.96821],
-  "geometry": {"coordinates":[-80.003949,35.96821],"type":"Point"}
+  "bbox": [
+    -80.003949,
+    35.96821,
+    -80.003949,
+    35.96821
+],
+  "geometry": {"coordinates":[-80.00394900000001,35.96821],"type":"Point"}
 }

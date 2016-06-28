@@ -2,13 +2,14 @@
   "id": 354283033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.825834,35.145969,-80.825834,35.145969",
     "geom:latitude":35.145969,
     "geom:longitude":-80.825834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 Phillips Place Ct",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":354283033,
-    "wof:lastmodified":1449066409,
+    "wof:lastmodified":1466650803,
     "wof:name":"Poole Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.825834,35.145969,-80.825834,35.145969],
+  "bbox": [
+    -80.825834,
+    35.145969,
+    -80.825834,
+    35.145969
+],
   "geometry": {"coordinates":[-80.825834,35.145969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387060505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.323044,35.404314,-82.323044,35.404314",
     "geom:latitude":35.404314,
     "geom:longitude":-82.323044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 US Hwy 64",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387060505,
-    "wof:lastmodified":1449059571,
+    "wof:lastmodified":1466650647,
     "wof:name":"Horse Shoe Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.323044,35.404314,-82.323044,35.404314],
+  "bbox": [
+    -82.323044,
+    35.404314,
+    -82.323044,
+    35.404314
+],
   "geometry": {"coordinates":[-82.323044,35.404314],"type":"Point"}
 }

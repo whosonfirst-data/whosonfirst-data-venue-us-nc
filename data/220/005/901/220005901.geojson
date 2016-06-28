@@ -2,13 +2,14 @@
   "id": 220005901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.654949,35.826243,-78.654949,35.826243",
     "geom:latitude":35.826243,
     "geom:longitude":-78.654949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3212 Rutherford Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220005901,
-    "wof:lastmodified":1449074815,
+    "wof:lastmodified":1466643261,
     "wof:name":"Duke Properties",
     "wof:parent_id":85892093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.654949,35.826243,-78.654949,35.826243],
+  "bbox": [
+    -78.654949,
+    35.826243,
+    -78.654949,
+    35.826243
+],
   "geometry": {"coordinates":[-78.654949,35.826243],"type":"Point"}
 }

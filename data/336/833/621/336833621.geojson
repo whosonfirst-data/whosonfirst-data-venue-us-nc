@@ -2,13 +2,14 @@
   "id": 336833621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.652414,35.900937,-78.652414,35.900937",
     "geom:latitude":35.900937,
     "geom:longitude":-78.652414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 Strickland Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336833621,
-    "wof:lastmodified":1448997065,
+    "wof:lastmodified":1466649387,
     "wof:name":"Magnolia Marketplace-Raleigh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-78.652414,35.900937,-78.652414,35.900937],
-  "geometry": {"coordinates":[-78.652414,35.900937],"type":"Point"}
+  "bbox": [
+    -78.652414,
+    35.900937,
+    -78.652414,
+    35.900937
+],
+  "geometry": {"coordinates":[-78.65241399999999,35.900937],"type":"Point"}
 }

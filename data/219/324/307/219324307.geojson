@@ -2,13 +2,14 @@
   "id": 219324307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.809502,35.805966,-78.809502,35.805966",
     "geom:latitude":35.805966,
     "geom:longitude":-78.809502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9549 Chapel Hill Rd",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219324307,
-    "wof:lastmodified":1449072443,
+    "wof:lastmodified":1466643493,
     "wof:name":"Yarmis Cafe",
     "wof:parent_id":85824439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.809502,35.805966,-78.809502,35.805966],
-  "geometry": {"coordinates":[-78.809502,35.805966],"type":"Point"}
+  "bbox": [
+    -78.809502,
+    35.805966,
+    -78.809502,
+    35.805966
+],
+  "geometry": {"coordinates":[-78.80950199999999,35.805966],"type":"Point"}
 }

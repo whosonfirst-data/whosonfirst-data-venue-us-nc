@@ -2,13 +2,14 @@
   "id": 320200025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.880021,35.505889,-80.880021,35.505889",
     "geom:latitude":35.505889,
     "geom:longitude":-80.880021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21614 Norman Shores Dr",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320200025,
-    "wof:lastmodified":1449012762,
+    "wof:lastmodified":1466648095,
     "wof:name":"Auto Data Processing",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.880021,35.505889,-80.880021,35.505889],
+  "bbox": [
+    -80.880021,
+    35.505889,
+    -80.880021,
+    35.505889
+],
   "geometry": {"coordinates":[-80.880021,35.505889],"type":"Point"}
 }

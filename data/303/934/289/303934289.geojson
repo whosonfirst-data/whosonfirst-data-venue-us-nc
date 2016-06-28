@@ -2,13 +2,14 @@
   "id": 303934289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.542865,35.234028,-81.542865,35.234028",
     "geom:latitude":35.234028,
     "geom:longitude":-81.542865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Horse Trail Dr",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303934289,
-    "wof:lastmodified":1448998239,
+    "wof:lastmodified":1466656335,
     "wof:name":"Philbeck JB Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.542865,35.234028,-81.542865,35.234028],
-  "geometry": {"coordinates":[-81.542865,35.234028],"type":"Point"}
+  "bbox": [
+    -81.542865,
+    35.234028,
+    -81.542865,
+    35.234028
+],
+  "geometry": {"coordinates":[-81.54286500000001,35.234028],"type":"Point"}
 }

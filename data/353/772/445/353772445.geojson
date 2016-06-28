@@ -2,13 +2,14 @@
   "id": 353772445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.439259,34.799528,-77.439259,34.799528",
     "geom:latitude":34.799528,
     "geom:longitude":-77.439259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Gum Branch Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353772445,
-    "wof:lastmodified":1449019402,
+    "wof:lastmodified":1466651445,
     "wof:name":"Food Lion LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.439259,34.799528,-77.439259,34.799528],
-  "geometry": {"coordinates":[-77.439259,34.799528],"type":"Point"}
+  "bbox": [
+    -77.439259,
+    34.799528,
+    -77.439259,
+    34.799528
+],
+  "geometry": {"coordinates":[-77.43925900000001,34.799528],"type":"Point"}
 }

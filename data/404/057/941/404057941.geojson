@@ -2,13 +2,14 @@
   "id": 404057941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.656483,35.714749,-78.656483,35.714749",
     "geom:latitude":35.714749,
     "geom:longitude":-78.656483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4824 Fayetteville Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404057941,
-    "wof:lastmodified":1449039632,
+    "wof:lastmodified":1466652031,
     "wof:name":"Landscape Management Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.656483,35.714749,-78.656483,35.714749],
-  "geometry": {"coordinates":[-78.656483,35.714749],"type":"Point"}
+  "bbox": [
+    -78.656483,
+    35.714749,
+    -78.656483,
+    35.714749
+],
+  "geometry": {"coordinates":[-78.65648299999999,35.714749],"type":"Point"}
 }

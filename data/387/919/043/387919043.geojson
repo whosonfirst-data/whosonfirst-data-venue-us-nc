@@ -2,13 +2,14 @@
   "id": 387919043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.450033,35.256262,-82.450033,35.256262",
     "geom:latitude":35.256262,
     "geom:longitude":-82.450033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Forest View Dr",
     "sg:city":"Flat Rock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387919043,
-    "wof:lastmodified":1449058982,
+    "wof:lastmodified":1466657999,
     "wof:name":"Just My Type",
     "wof:parent_id":85819569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-82.450033,35.256262,-82.450033,35.256262],
+  "bbox": [
+    -82.450033,
+    35.256262,
+    -82.450033,
+    35.256262
+],
   "geometry": {"coordinates":[-82.450033,35.256262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403769823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.085724,35.095064,-77.085724,35.095064",
     "geom:latitude":35.095064,
     "geom:longitude":-77.085724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3012 Trent Rd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403769823,
-    "wof:lastmodified":1449055074,
+    "wof:lastmodified":1466651189,
     "wof:name":"Eastern Engineering & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-77.085724,35.095064,-77.085724,35.095064],
+  "bbox": [
+    -77.085724,
+    35.095064,
+    -77.085724,
+    35.095064
+],
   "geometry": {"coordinates":[-77.085724,35.095064],"type":"Point"}
 }

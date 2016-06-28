@@ -2,13 +2,14 @@
   "id": 303633979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251467,36.099126,-80.251467,36.099126",
     "geom:latitude":36.099126,
     "geom:longitude":-80.251467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 W 5th St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303633979,
-    "wof:lastmodified":1449000548,
+    "wof:lastmodified":1466652461,
     "wof:name":"Forsyth County Central Library",
     "wof:parent_id":85867051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-80.251467,36.099126,-80.251467,36.099126],
-  "geometry": {"coordinates":[-80.251467,36.099126],"type":"Point"}
+  "bbox": [
+    -80.251467,
+    36.099126,
+    -80.251467,
+    36.099126
+],
+  "geometry": {"coordinates":[-80.25146700000001,36.099126],"type":"Point"}
 }

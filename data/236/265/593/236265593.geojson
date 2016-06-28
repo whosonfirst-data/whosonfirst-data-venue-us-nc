@@ -2,13 +2,14 @@
   "id": 236265593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.94815,34.208451,-77.94815,34.208451",
     "geom:latitude":34.208451,
     "geom:longitude":-77.94815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Burnett Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236265593,
-    "wof:lastmodified":1449002635,
+    "wof:lastmodified":1466645602,
     "wof:name":"Cape Fear Outdoor Equipment",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lawnmowers"
     ]
 },
-  "bbox": [-77.94815,34.208451,-77.94815,34.208451],
+  "bbox": [
+    -77.94815,
+    34.208451,
+    -77.94815,
+    34.208451
+],
   "geometry": {"coordinates":[-77.94815,34.208451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270045071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.645457,36.160461,-81.645457,36.160461",
     "geom:latitude":36.160461,
     "geom:longitude":-81.645457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Jennifer Rd",
     "sg:city":"Blowing Rock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270045071,
-    "wof:lastmodified":1449010808,
+    "wof:lastmodified":1466643724,
     "wof:name":"Estate Maintenance Co",
     "wof:parent_id":85849339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "parking"
     ]
 },
-  "bbox": [-81.645457,36.160461,-81.645457,36.160461],
-  "geometry": {"coordinates":[-81.645457,36.160461],"type":"Point"}
+  "bbox": [
+    -81.645457,
+    36.160461,
+    -81.645457,
+    36.160461
+],
+  "geometry": {"coordinates":[-81.64545699999999,36.160461],"type":"Point"}
 }

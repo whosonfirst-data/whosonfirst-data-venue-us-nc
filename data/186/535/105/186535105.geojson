@@ -2,13 +2,14 @@
   "id": 186535105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.896009,35.118072,-78.896009,35.118072",
     "geom:latitude":35.118072,
     "geom:longitude":-78.896009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4017 Calver Ct",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186535105,
-    "wof:lastmodified":1449050903,
+    "wof:lastmodified":1466654593,
     "wof:name":"Geeves Valet Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.896009,35.118072,-78.896009,35.118072],
-  "geometry": {"coordinates":[-78.896009,35.118072],"type":"Point"}
+  "bbox": [
+    -78.896009,
+    35.118072,
+    -78.896009,
+    35.118072
+],
+  "geometry": {"coordinates":[-78.89600900000001,35.118072],"type":"Point"}
 }

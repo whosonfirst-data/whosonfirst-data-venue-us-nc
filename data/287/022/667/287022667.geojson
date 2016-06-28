@@ -2,13 +2,14 @@
   "id": 287022667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.803244,35.226429,-80.803244,35.226429",
     "geom:latitude":35.226429,
     "geom:longitude":-80.803244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Belvedere Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287022667,
-    "wof:lastmodified":1449000953,
+    "wof:lastmodified":1466643548,
     "wof:name":"Insys Corp",
     "wof:parent_id":85834157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.803244,35.226429,-80.803244,35.226429],
-  "geometry": {"coordinates":[-80.803244,35.226429],"type":"Point"}
+  "bbox": [
+    -80.803244,
+    35.226429,
+    -80.803244,
+    35.226429
+],
+  "geometry": {"coordinates":[-80.80324400000001,35.226429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303082355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.610324,35.920942,-78.610324,35.920942",
     "geom:latitude":35.920942,
     "geom:longitude":-78.610324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 King Cross Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303082355,
-    "wof:lastmodified":1448998179,
+    "wof:lastmodified":1466644431,
     "wof:name":"Entek Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.610324,35.920942,-78.610324,35.920942],
-  "geometry": {"coordinates":[-78.610324,35.920942],"type":"Point"}
+  "bbox": [
+    -78.610324,
+    35.920942,
+    -78.610324,
+    35.920942
+],
+  "geometry": {"coordinates":[-78.61032400000001,35.920942],"type":"Point"}
 }

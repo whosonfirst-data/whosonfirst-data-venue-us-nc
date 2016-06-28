@@ -2,13 +2,14 @@
   "id": 253618269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.678559,36.130499,-81.678559,36.130499",
     "geom:latitude":36.130499,
     "geom:longitude":-81.678559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Main St",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253618269,
-    "wof:lastmodified":1449064655,
+    "wof:lastmodified":1466649782,
     "wof:name":"Lansing Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.678559,36.130499,-81.678559,36.130499],
-  "geometry": {"coordinates":[-81.678559,36.130499],"type":"Point"}
+  "bbox": [
+    -81.678559,
+    36.130499,
+    -81.678559,
+    36.130499
+],
+  "geometry": {"coordinates":[-81.67855900000001,36.130499],"type":"Point"}
 }

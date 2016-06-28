@@ -2,13 +2,14 @@
   "id": 269553841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.131863,36.039511,-79.131863,36.039511",
     "geom:latitude":36.039511,
     "geom:longitude":-79.131863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2814 Orange Grove Rd",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269553841,
-    "wof:lastmodified":1449036164,
+    "wof:lastmodified":1466644019,
     "wof:name":"Voxnet",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-79.131863,36.039511,-79.131863,36.039511],
+  "bbox": [
+    -79.131863,
+    36.039511,
+    -79.131863,
+    36.039511
+],
   "geometry": {"coordinates":[-79.131863,36.039511],"type":"Point"}
 }

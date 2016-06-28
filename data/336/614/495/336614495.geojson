@@ -2,13 +2,14 @@
   "id": 336614495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.065215,35.912268,-79.065215,35.912268",
     "geom:latitude":35.912268,
     "geom:longitude":-79.065215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 N Graham St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336614495,
-    "wof:lastmodified":1448998050,
+    "wof:lastmodified":1466646052,
     "wof:name":"Garner 2 Inc",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.065215,35.912268,-79.065215,35.912268],
-  "geometry": {"coordinates":[-79.065215,35.912268],"type":"Point"}
+  "bbox": [
+    -79.065215,
+    35.912268,
+    -79.065215,
+    35.912268
+],
+  "geometry": {"coordinates":[-79.06521499999999,35.912268],"type":"Point"}
 }

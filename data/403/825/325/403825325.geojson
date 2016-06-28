@@ -2,13 +2,14 @@
   "id": 403825325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.948847,34.236456,-77.948847,34.236456",
     "geom:latitude":34.236456,
     "geom:longitude":-77.948847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Princess St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403825325,
-    "wof:lastmodified":1449054667,
+    "wof:lastmodified":1466651929,
     "wof:name":"Port of Entry",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "affairs"
     ]
 },
-  "bbox": [-77.948847,34.236456,-77.948847,34.236456],
+  "bbox": [
+    -77.948847,
+    34.236456,
+    -77.948847,
+    34.236456
+],
   "geometry": {"coordinates":[-77.948847,34.236456],"type":"Point"}
 }

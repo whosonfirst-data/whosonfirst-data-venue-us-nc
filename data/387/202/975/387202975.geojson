@@ -2,13 +2,14 @@
   "id": 387202975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.421112,35.982196,-79.421112,35.982196",
     "geom:latitude":35.982196,
     "geom:longitude":-79.421112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4657 Bellemont-Mt Hermon Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387202975,
-    "wof:lastmodified":1449059427,
+    "wof:lastmodified":1466652535,
     "wof:name":"Alamance County EMS",
     "wof:parent_id":85843335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.421112,35.982196,-79.421112,35.982196],
-  "geometry": {"coordinates":[-79.421112,35.982196],"type":"Point"}
+  "bbox": [
+    -79.421112,
+    35.982196,
+    -79.421112,
+    35.982196
+],
+  "geometry": {"coordinates":[-79.42111199999999,35.982196],"type":"Point"}
 }

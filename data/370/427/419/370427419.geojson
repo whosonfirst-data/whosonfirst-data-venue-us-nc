@@ -2,13 +2,14 @@
   "id": 370427419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.436635,35.215773,-77.436635,35.215773",
     "geom:latitude":35.215773,
     "geom:longitude":-77.436635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Main St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370427419,
-    "wof:lastmodified":1449030120,
+    "wof:lastmodified":1466651636,
     "wof:name":"Town Of Dover",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-77.436635,35.215773,-77.436635,35.215773],
+  "bbox": [
+    -77.436635,
+    35.215773,
+    -77.436635,
+    35.215773
+],
   "geometry": {"coordinates":[-77.436635,35.215773],"type":"Point"}
 }

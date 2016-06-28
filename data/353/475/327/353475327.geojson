@@ -2,13 +2,14 @@
   "id": 353475327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.835023,34.278688,-77.835023,34.278688",
     "geom:latitude":34.278688,
     "geom:longitude":-77.835023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 Tenby Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353475327,
-    "wof:lastmodified":1449019304,
+    "wof:lastmodified":1466647931,
     "wof:name":"Deconn Painting Inc",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.835023,34.278688,-77.835023,34.278688],
-  "geometry": {"coordinates":[-77.835023,34.278688],"type":"Point"}
+  "bbox": [
+    -77.835023,
+    34.278688,
+    -77.835023,
+    34.278688
+],
+  "geometry": {"coordinates":[-77.83502300000001,34.278688],"type":"Point"}
 }

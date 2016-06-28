@@ -2,13 +2,14 @@
   "id": 236220621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.306948,35.511628,-78.306948,35.511628",
     "geom:latitude":35.511628,
     "geom:longitude":-78.306948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Industrial Park Dr",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236220621,
-    "wof:lastmodified":1449005107,
+    "wof:lastmodified":1466645192,
     "wof:name":"IZOD",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.306948,35.511628,-78.306948,35.511628],
-  "geometry": {"coordinates":[-78.306948,35.511628],"type":"Point"}
+  "bbox": [
+    -78.306948,
+    35.511628,
+    -78.306948,
+    35.511628
+],
+  "geometry": {"coordinates":[-78.30694800000001,35.511628],"type":"Point"}
 }

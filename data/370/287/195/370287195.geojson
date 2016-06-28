@@ -2,13 +2,14 @@
   "id": 370287195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.927305,34.19697,-77.927305,34.19697",
     "geom:latitude":34.19697,
     "geom:longitude":-77.927305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Wellington Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370287195,
-    "wof:lastmodified":1449029286,
+    "wof:lastmodified":1466649861,
     "wof:name":"Ducker & Falk LLC",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-77.927305,34.19697,-77.927305,34.19697],
+  "bbox": [
+    -77.927305,
+    34.19697,
+    -77.927305,
+    34.19697
+],
   "geometry": {"coordinates":[-77.927305,34.19697],"type":"Point"}
 }

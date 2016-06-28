@@ -2,13 +2,14 @@
   "id": 370508519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.124091,35.595098,-78.124091,35.595098",
     "geom:latitude":35.595098,
     "geom:longitude":-78.124091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W 2nd St",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370508519,
-    "wof:lastmodified":1449030968,
+    "wof:lastmodified":1466652665,
     "wof:name":"Kenly Fast Stop",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.124091,35.595098,-78.124091,35.595098],
-  "geometry": {"coordinates":[-78.124091,35.595098],"type":"Point"}
+  "bbox": [
+    -78.124091,
+    35.595098,
+    -78.124091,
+    35.595098
+],
+  "geometry": {"coordinates":[-78.12409100000001,35.595098],"type":"Point"}
 }

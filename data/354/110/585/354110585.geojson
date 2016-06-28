@@ -2,13 +2,14 @@
   "id": 354110585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.195524,35.05401,-83.195524,35.05401",
     "geom:latitude":35.05401,
     "geom:longitude":-83.195524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"448 Carolina Way",
     "sg:city":"Highlands",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354110585,
-    "wof:lastmodified":1449066475,
+    "wof:lastmodified":1466648832,
     "wof:name":"Total Picture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "framing"
     ]
 },
-  "bbox": [-83.195524,35.05401,-83.195524,35.05401],
-  "geometry": {"coordinates":[-83.195524,35.05401],"type":"Point"}
+  "bbox": [
+    -83.195524,
+    35.05401,
+    -83.195524,
+    35.05401
+],
+  "geometry": {"coordinates":[-83.19552400000001,35.05401],"type":"Point"}
 }

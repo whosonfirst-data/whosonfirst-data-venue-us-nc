@@ -2,13 +2,14 @@
   "id": 354248895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.617416,35.312235,-78.617416,35.312235",
     "geom:latitude":35.312235,
     "geom:longitude":-78.617416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 W Broad St",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354248895,
-    "wof:lastmodified":1449066873,
+    "wof:lastmodified":1466650419,
     "wof:name":"Cox Framing",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-78.617416,35.312235,-78.617416,35.312235],
-  "geometry": {"coordinates":[-78.617416,35.312235],"type":"Point"}
+  "bbox": [
+    -78.617416,
+    35.312235,
+    -78.617416,
+    35.312235
+],
+  "geometry": {"coordinates":[-78.61741600000001,35.312235],"type":"Point"}
 }

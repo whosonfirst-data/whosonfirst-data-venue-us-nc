@@ -2,13 +2,14 @@
   "id": 303476555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.228215,36.102344,-80.228215,36.102344",
     "geom:latitude":36.102344,
     "geom:longitude":-80.228215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1497 New Walkertown Rd NE",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303476555,
-    "wof:lastmodified":1448999108,
+    "wof:lastmodified":1466650199,
     "wof:name":"Local Government Federal CU",
     "wof:parent_id":85816949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.228215,36.102344,-80.228215,36.102344],
-  "geometry": {"coordinates":[-80.228215,36.102344],"type":"Point"}
+  "bbox": [
+    -80.228215,
+    36.102344,
+    -80.228215,
+    36.102344
+],
+  "geometry": {"coordinates":[-80.22821500000001,36.102344],"type":"Point"}
 }

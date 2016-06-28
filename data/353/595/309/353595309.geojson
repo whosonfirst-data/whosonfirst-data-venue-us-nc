@@ -2,13 +2,14 @@
   "id": 353595309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.990503,35.381055,-77.990503,35.381055",
     "geom:latitude":35.381055,
     "geom:longitude":-77.990503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 E Walnut St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353595309,
-    "wof:lastmodified":1449020559,
+    "wof:lastmodified":1466649362,
     "wof:name":"Lighthouse Of Wayne County",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-77.990503,35.381055,-77.990503,35.381055],
+  "bbox": [
+    -77.990503,
+    35.381055,
+    -77.990503,
+    35.381055
+],
   "geometry": {"coordinates":[-77.990503,35.381055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354038299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.309657,35.243949,-80.309657,35.243949",
     "geom:latitude":35.243949,
     "geom:longitude":-80.309657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12611 Saint Martin Rd",
     "sg:city":"Oakboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354038299,
-    "wof:lastmodified":1449067060,
+    "wof:lastmodified":1466648002,
     "wof:name":"Whitley Engineering Inc",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.309657,35.243949,-80.309657,35.243949],
+  "bbox": [
+    -80.309657,
+    35.243949,
+    -80.309657,
+    35.243949
+],
   "geometry": {"coordinates":[-80.309657,35.243949],"type":"Point"}
 }

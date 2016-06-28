@@ -2,13 +2,14 @@
   "id": 370737575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.652561,35.806173,-78.652561,35.806173",
     "geom:latitude":35.806173,
     "geom:longitude":-78.652561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Cowper Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370737575,
-    "wof:lastmodified":1449029854,
+    "wof:lastmodified":1466655673,
     "wof:name":"Rising Stream Media",
     "wof:parent_id":85824345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-78.652561,35.806173,-78.652561,35.806173],
-  "geometry": {"coordinates":[-78.652561,35.806173],"type":"Point"}
+  "bbox": [
+    -78.652561,
+    35.806173,
+    -78.652561,
+    35.806173
+],
+  "geometry": {"coordinates":[-78.65256100000001,35.806173],"type":"Point"}
 }

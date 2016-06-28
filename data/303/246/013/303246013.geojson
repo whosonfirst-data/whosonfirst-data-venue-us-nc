@@ -2,13 +2,14 @@
   "id": 303246013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.468971,35.647871,-78.468971,35.647871",
     "geom:latitude":35.647871,
     "geom:longitude":-78.468971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Greenwood Dr",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303246013,
-    "wof:lastmodified":1448998286,
+    "wof:lastmodified":1466646894,
     "wof:name":"Greenwood Apartments",
     "wof:parent_id":85850943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.468971,35.647871,-78.468971,35.647871],
+  "bbox": [
+    -78.468971,
+    35.647871,
+    -78.468971,
+    35.647871
+],
   "geometry": {"coordinates":[-78.468971,35.647871],"type":"Point"}
 }

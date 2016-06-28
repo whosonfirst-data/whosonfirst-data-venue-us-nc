@@ -2,13 +2,14 @@
   "id": 320134757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.170855,35.295298,-78.170855,35.295298",
     "geom:latitude":35.295298,
     "geom:longitude":-78.170855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3484 US Hwy 13 S",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320134757,
-    "wof:lastmodified":1449014751,
+    "wof:lastmodified":1466647189,
     "wof:name":"Wayne Heart Internal Med Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "medical"
     ]
 },
-  "bbox": [-78.170855,35.295298,-78.170855,35.295298],
+  "bbox": [
+    -78.170855,
+    35.295298,
+    -78.170855,
+    35.295298
+],
   "geometry": {"coordinates":[-78.170855,35.295298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387111677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.765099,35.088039,-80.765099,35.088039",
     "geom:latitude":35.088039,
     "geom:longitude":-80.765099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3704 High Ridge Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387111677,
-    "wof:lastmodified":1449060036,
+    "wof:lastmodified":1466651299,
     "wof:name":"Hvolt Inc",
     "wof:parent_id":85843235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.765099,35.088039,-80.765099,35.088039],
-  "geometry": {"coordinates":[-80.765099,35.088039],"type":"Point"}
+  "bbox": [
+    -80.765099,
+    35.088039,
+    -80.765099,
+    35.088039
+],
+  "geometry": {"coordinates":[-80.76509900000001,35.088039],"type":"Point"}
 }

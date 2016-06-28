@@ -2,13 +2,14 @@
   "id": 336663187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.933201,35.888951,-79.933201,35.888951",
     "geom:latitude":35.888951,
     "geom:longitude":-79.933201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9814 US Hwy 311",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336663187,
-    "wof:lastmodified":1448997724,
+    "wof:lastmodified":1466646820,
     "wof:name":"Diamond W Builders",
     "wof:parent_id":85846265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.933201,35.888951,-79.933201,35.888951],
+  "bbox": [
+    -79.933201,
+    35.888951,
+    -79.933201,
+    35.888951
+],
   "geometry": {"coordinates":[-79.933201,35.888951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253390271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.895849,34.212299,-77.895849,34.212299",
     "geom:latitude":34.212299,
     "geom:longitude":-77.895849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 Oleander Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253390271,
-    "wof:lastmodified":1449065839,
+    "wof:lastmodified":1466647049,
     "wof:name":"Electric Scooters & Scootalong",
     "wof:parent_id":85830591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-77.895849,34.212299,-77.895849,34.212299],
+  "bbox": [
+    -77.895849,
+    34.212299,
+    -77.895849,
+    34.212299
+],
   "geometry": {"coordinates":[-77.895849,34.212299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387290833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.234949,33.949337,-78.234949,33.949337",
     "geom:latitude":33.949337,
     "geom:longitude":-78.234949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Paul Andrew St",
     "sg:city":"Holden Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387290833,
-    "wof:lastmodified":1449057742,
+    "wof:lastmodified":1466653678,
     "wof:name":"Jimmy Elmore Painting",
     "wof:parent_id":85853519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-78.234949,33.949337,-78.234949,33.949337],
+  "bbox": [
+    -78.234949,
+    33.949337,
+    -78.234949,
+    33.949337
+],
   "geometry": {"coordinates":[-78.234949,33.949337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286582935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.953348,35.968369,-78.953348,35.968369",
     "geom:latitude":35.968369,
     "geom:longitude":-78.953348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3708 Mayfair St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286582935,
-    "wof:lastmodified":1449016772,
+    "wof:lastmodified":1466647498,
     "wof:name":"Columbia HCA",
     "wof:parent_id":85877193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counseling"
     ]
 },
-  "bbox": [-78.953348,35.968369,-78.953348,35.968369],
-  "geometry": {"coordinates":[-78.953348,35.968369],"type":"Point"}
+  "bbox": [
+    -78.953348,
+    35.968369,
+    -78.953348,
+    35.968369
+],
+  "geometry": {"coordinates":[-78.95334800000001,35.968369],"type":"Point"}
 }

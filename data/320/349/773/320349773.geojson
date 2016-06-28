@@ -2,13 +2,14 @@
   "id": 320349773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.449622,35.383484,-82.449622,35.383484",
     "geom:latitude":35.383484,
     "geom:longitude":-82.449622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3149 Locust Grove Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320349773,
-    "wof:lastmodified":1449012690,
+    "wof:lastmodified":1466650204,
     "wof:name":"Bunker Express",
     "wof:parent_id":85858765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.449622,35.383484,-82.449622,35.383484],
-  "geometry": {"coordinates":[-82.449622,35.383484],"type":"Point"}
+  "bbox": [
+    -82.449622,
+    35.383484,
+    -82.449622,
+    35.383484
+],
+  "geometry": {"coordinates":[-82.44962200000001,35.383484],"type":"Point"}
 }

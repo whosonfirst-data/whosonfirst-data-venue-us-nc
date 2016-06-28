@@ -2,13 +2,14 @@
   "id": 387091589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.589109,35.822275,-78.589109,35.822275",
     "geom:latitude":35.822275,
     "geom:longitude":-78.589109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387091589,
-    "wof:lastmodified":1449056488,
+    "wof:lastmodified":1466651050,
     "wof:name":"Cspeednet Internet Service",
     "wof:parent_id":85892133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-78.589109,35.822275,-78.589109,35.822275],
-  "geometry": {"coordinates":[-78.589109,35.822275],"type":"Point"}
+  "bbox": [
+    -78.589109,
+    35.822275,
+    -78.589109,
+    35.822275
+],
+  "geometry": {"coordinates":[-78.58910899999999,35.822275],"type":"Point"}
 }

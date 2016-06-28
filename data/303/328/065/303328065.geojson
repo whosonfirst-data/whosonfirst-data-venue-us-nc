@@ -2,13 +2,14 @@
   "id": 303328065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.802859,35.882842,-79.802859,35.882842",
     "geom:latitude":35.882842,
     "geom:longitude":-79.802859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9608 US Hwy 220 Bus N",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303328065,
-    "wof:lastmodified":1448999563,
+    "wof:lastmodified":1466648042,
     "wof:name":"Level Cross BP",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.802859,35.882842,-79.802859,35.882842],
+  "bbox": [
+    -79.802859,
+    35.882842,
+    -79.802859,
+    35.882842
+],
   "geometry": {"coordinates":[-79.802859,35.882842],"type":"Point"}
 }

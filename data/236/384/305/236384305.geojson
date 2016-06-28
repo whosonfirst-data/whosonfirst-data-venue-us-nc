@@ -2,13 +2,14 @@
   "id": 236384305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.857306,35.177697,-78.857306,35.177697",
     "geom:latitude":35.177697,
     "geom:longitude":-78.857306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6989 Ramsey St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236384305,
-    "wof:lastmodified":1449001984,
+    "wof:lastmodified":1466646597,
     "wof:name":"Westarea Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-78.857306,35.177697,-78.857306,35.177697],
-  "geometry": {"coordinates":[-78.857306,35.177697],"type":"Point"}
+  "bbox": [
+    -78.857306,
+    35.177697,
+    -78.857306,
+    35.177697
+],
+  "geometry": {"coordinates":[-78.85730599999999,35.177697],"type":"Point"}
 }

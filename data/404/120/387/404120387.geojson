@@ -2,13 +2,14 @@
   "id": 404120387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.98753,35.490802,-82.98753,35.490802",
     "geom:latitude":35.490802,
     "geom:longitude":-82.98753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 N Main St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404120387,
-    "wof:lastmodified":1449040150,
+    "wof:lastmodified":1466652799,
     "wof:name":"Wild Fire",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.98753,35.490802,-82.98753,35.490802],
-  "geometry": {"coordinates":[-82.98753,35.490802],"type":"Point"}
+  "bbox": [
+    -82.98753,
+    35.490802,
+    -82.98753,
+    35.490802
+],
+  "geometry": {"coordinates":[-82.98753000000001,35.490802],"type":"Point"}
 }

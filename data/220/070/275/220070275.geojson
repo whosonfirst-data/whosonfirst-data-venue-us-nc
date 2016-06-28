@@ -2,13 +2,14 @@
   "id": 220070275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.80496,35.998772,-77.80496,35.998772",
     "geom:latitude":35.998772,
     "geom:longitude":-77.80496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Gold Rock Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220070275,
-    "wof:lastmodified":1449074410,
+    "wof:lastmodified":1466643765,
     "wof:name":"Gold Rock Food Mart",
     "wof:parent_id":85851697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.80496,35.998772,-77.80496,35.998772],
-  "geometry": {"coordinates":[-77.80496,35.998772],"type":"Point"}
+  "bbox": [
+    -77.80496,
+    35.998772,
+    -77.80496,
+    35.998772
+],
+  "geometry": {"coordinates":[-77.80495999999999,35.998772],"type":"Point"}
 }

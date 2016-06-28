@@ -2,13 +2,14 @@
   "id": 303525777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.552427,35.814909,-80.552427,35.814909",
     "geom:latitude":35.814909,
     "geom:longitude":-80.552427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Marginal St",
     "sg:city":"Cooleemee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303525777,
-    "wof:lastmodified":1449000056,
+    "wof:lastmodified":1466650880,
     "wof:name":"Cooleemee School Parent Cnctn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.552427,35.814909,-80.552427,35.814909],
-  "geometry": {"coordinates":[-80.552427,35.814909],"type":"Point"}
+  "bbox": [
+    -80.552427,
+    35.814909,
+    -80.552427,
+    35.814909
+],
+  "geometry": {"coordinates":[-80.55242699999999,35.814909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353565023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.615536,33.876065,-78.615536,33.876065",
     "geom:latitude":33.876065,
     "geom:longitude":-78.615536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1569 US Hwy 17",
     "sg:city":"Little River",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353565023,
-    "wof:lastmodified":1449020581,
+    "wof:lastmodified":1466648959,
     "wof:name":"Little River Chamber-Commerce",
     "wof:parent_id":85824761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-78.615536,33.876065,-78.615536,33.876065],
-  "geometry": {"coordinates":[-78.615536,33.876065],"type":"Point"}
+  "bbox": [
+    -78.615536,
+    33.876065,
+    -78.615536,
+    33.876065
+],
+  "geometry": {"coordinates":[-78.61553600000001,33.876065],"type":"Point"}
 }

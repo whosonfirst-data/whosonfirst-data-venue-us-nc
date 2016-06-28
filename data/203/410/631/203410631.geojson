@@ -2,13 +2,14 @@
   "id": 203410631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.83674,35.567288,-82.83674,35.567288",
     "geom:latitude":35.567288,
     "geom:longitude":-82.83674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"398 Great Oak Dr",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203410631,
-    "wof:lastmodified":1449024968,
+    "wof:lastmodified":1466644085,
     "wof:name":"Plus Linen & Uniform Svc",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.83674,35.567288,-82.83674,35.567288],
-  "geometry": {"coordinates":[-82.83674,35.567288],"type":"Point"}
+  "bbox": [
+    -82.83674,
+    35.567288,
+    -82.83674,
+    35.567288
+],
+  "geometry": {"coordinates":[-82.83674000000001,35.567288],"type":"Point"}
 }

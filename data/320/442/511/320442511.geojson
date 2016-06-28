@@ -2,13 +2,14 @@
   "id": 320442511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.562021,35.896247,-81.562021,35.896247",
     "geom:latitude":35.896247,
     "geom:longitude":-81.562021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2053 Morganton Blvd SW",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320442511,
-    "wof:lastmodified":1449012890,
+    "wof:lastmodified":1466651533,
     "wof:name":"Boulevard Mulch & Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mulch"
     ]
 },
-  "bbox": [-81.562021,35.896247,-81.562021,35.896247],
+  "bbox": [
+    -81.562021,
+    35.896247,
+    -81.562021,
+    35.896247
+],
   "geometry": {"coordinates":[-81.562021,35.896247],"type":"Point"}
 }

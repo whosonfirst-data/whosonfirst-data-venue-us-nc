@@ -2,13 +2,14 @@
   "id": 286511395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355319,36.160898,-80.355319,36.160898",
     "geom:latitude":36.160898,
     "geom:longitude":-80.355319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4430 Pebble Lake Dr",
     "sg:city":"Pfafftown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286511395,
-    "wof:lastmodified":1449016547,
+    "wof:lastmodified":1466646496,
     "wof:name":"Turnerdillon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-80.355319,36.160898,-80.355319,36.160898],
-  "geometry": {"coordinates":[-80.355319,36.160898],"type":"Point"}
+  "bbox": [
+    -80.355319,
+    36.160898,
+    -80.355319,
+    36.160898
+],
+  "geometry": {"coordinates":[-80.35531899999999,36.160898],"type":"Point"}
 }

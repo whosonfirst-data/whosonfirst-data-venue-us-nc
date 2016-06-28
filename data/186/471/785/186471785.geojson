@@ -2,13 +2,14 @@
   "id": 186471785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.790376,36.070243,-79.790376,36.070243",
     "geom:latitude":36.070243,
     "geom:longitude":-79.790376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Elm St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186471785,
-    "wof:lastmodified":1449051450,
+    "wof:lastmodified":1466654235,
     "wof:name":"Idiot Box",
     "wof:parent_id":85877967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-79.790376,36.070243,-79.790376,36.070243],
-  "geometry": {"coordinates":[-79.790376,36.070243],"type":"Point"}
+  "bbox": [
+    -79.790376,
+    36.070243,
+    -79.790376,
+    36.070243
+],
+  "geometry": {"coordinates":[-79.79037599999999,36.070243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220040259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.416042,36.100453,-79.416042,36.100453",
     "geom:latitude":36.100453,
     "geom:longitude":-79.416042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Vaughn Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220040259,
-    "wof:lastmodified":1449074849,
+    "wof:lastmodified":1466643531,
     "wof:name":"Beyer Shriley",
     "wof:parent_id":85838431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.416042,36.100453,-79.416042,36.100453],
+  "bbox": [
+    -79.416042,
+    36.100453,
+    -79.416042,
+    36.100453
+],
   "geometry": {"coordinates":[-79.416042,36.100453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337325673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.113743,35.095335,-77.113743,35.095335",
     "geom:latitude":35.095335,
     "geom:longitude":-77.113743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 M L King Jr Blvd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337325673,
-    "wof:lastmodified":1449027242,
+    "wof:lastmodified":1466646367,
     "wof:name":"Community Yellow Pages",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-77.113743,35.095335,-77.113743,35.095335],
+  "bbox": [
+    -77.113743,
+    35.095335,
+    -77.113743,
+    35.095335
+],
   "geometry": {"coordinates":[-77.113743,35.095335],"type":"Point"}
 }

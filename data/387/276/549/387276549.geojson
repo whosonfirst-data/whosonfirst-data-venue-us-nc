@@ -2,13 +2,14 @@
   "id": 387276549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.768651,35.685189,-80.768651,35.685189",
     "geom:latitude":35.685189,
     "geom:longitude":-80.768651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Mount Tabor Rd",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387276549,
-    "wof:lastmodified":1449056257,
+    "wof:lastmodified":1466653497,
     "wof:name":"Larry Freeze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-80.768651,35.685189,-80.768651,35.685189],
-  "geometry": {"coordinates":[-80.768651,35.685189],"type":"Point"}
+  "bbox": [
+    -80.768651,
+    35.685189,
+    -80.768651,
+    35.685189
+],
+  "geometry": {"coordinates":[-80.76865100000001,35.685189],"type":"Point"}
 }

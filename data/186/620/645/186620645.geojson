@@ -2,13 +2,14 @@
   "id": 186620645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.933292,35.715794,-77.933292,35.715794",
     "geom:latitude":35.715794,
     "geom:longitude":-77.933292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Ward Blvd",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186620645,
-    "wof:lastmodified":1449052787,
+    "wof:lastmodified":1466654956,
     "wof:name":"Wilson Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "offset"
     ]
 },
-  "bbox": [-77.933292,35.715794,-77.933292,35.715794],
-  "geometry": {"coordinates":[-77.933292,35.715794],"type":"Point"}
+  "bbox": [
+    -77.933292,
+    35.715794,
+    -77.933292,
+    35.715794
+],
+  "geometry": {"coordinates":[-77.93329199999999,35.715794],"type":"Point"}
 }

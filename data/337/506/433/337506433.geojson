@@ -2,13 +2,14 @@
   "id": 337506433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.864415,34.151351,-77.864415,34.151351",
     "geom:latitude":34.151351,
     "geom:longitude":-77.864415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Marsh Hen Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":337506433,
-    "wof:lastmodified":1449026948,
+    "wof:lastmodified":1466647411,
     "wof:name":"Coastal Carolina Pool & Spa",
     "wof:parent_id":85851795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-77.864415,34.151351,-77.864415,34.151351],
-  "geometry": {"coordinates":[-77.864415,34.151351],"type":"Point"}
+  "bbox": [
+    -77.864415,
+    34.151351,
+    -77.864415,
+    34.151351
+],
+  "geometry": {"coordinates":[-77.86441499999999,34.151351],"type":"Point"}
 }

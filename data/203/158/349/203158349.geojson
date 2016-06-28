@@ -2,13 +2,14 @@
   "id": 203158349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355122,36.081058,-80.355122,36.081058",
     "geom:latitude":36.081058,
     "geom:longitude":-80.355122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Heatherton Way",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203158349,
-    "wof:lastmodified":1449026242,
+    "wof:lastmodified":1466655047,
     "wof:name":"Charles H Tegeler Dr",
     "wof:parent_id":85881849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "neurologist"
     ]
 },
-  "bbox": [-80.355122,36.081058,-80.355122,36.081058],
-  "geometry": {"coordinates":[-80.355122,36.081058],"type":"Point"}
+  "bbox": [
+    -80.355122,
+    36.081058,
+    -80.355122,
+    36.081058
+],
+  "geometry": {"coordinates":[-80.35512199999999,36.081058],"type":"Point"}
 }

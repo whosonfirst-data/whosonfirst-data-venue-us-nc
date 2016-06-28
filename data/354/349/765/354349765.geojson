@@ -2,13 +2,14 @@
   "id": 354349765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.048113,35.108316,-77.048113,35.108316",
     "geom:latitude":35.108316,
     "geom:longitude":-77.048113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Broad St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354349765,
-    "wof:lastmodified":1449066562,
+    "wof:lastmodified":1466651607,
     "wof:name":"Cowell's Cleaners",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-77.048113,35.108316,-77.048113,35.108316],
+  "bbox": [
+    -77.048113,
+    35.108316,
+    -77.048113,
+    35.108316
+],
   "geometry": {"coordinates":[-77.048113,35.108316],"type":"Point"}
 }

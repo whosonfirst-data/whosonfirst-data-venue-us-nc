@@ -2,13 +2,14 @@
   "id": 404008797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.702638,35.274975,-82.702638,35.274975",
     "geom:latitude":35.274975,
     "geom:longitude":-82.702638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Asheville Hwy",
     "sg:city":"Pisgah Forest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404008797,
-    "wof:lastmodified":1449039396,
+    "wof:lastmodified":1466651419,
     "wof:name":"Allison-Deaver House",
     "wof:parent_id":85817267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.702638,35.274975,-82.702638,35.274975],
-  "geometry": {"coordinates":[-82.702638,35.274975],"type":"Point"}
+  "bbox": [
+    -82.702638,
+    35.274975,
+    -82.702638,
+    35.274975
+],
+  "geometry": {"coordinates":[-82.70263799999999,35.274975],"type":"Point"}
 }

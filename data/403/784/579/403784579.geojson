@@ -2,13 +2,14 @@
   "id": 403784579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.945045,36.018685,-78.945045,36.018685",
     "geom:latitude":36.018685,
     "geom:longitude":-78.945045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3419 Hillsborough Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403784579,
-    "wof:lastmodified":1449055501,
+    "wof:lastmodified":1466651378,
     "wof:name":"Capital Fitness",
     "wof:parent_id":85877141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gymnasium"
     ]
 },
-  "bbox": [-78.945045,36.018685,-78.945045,36.018685],
-  "geometry": {"coordinates":[-78.945045,36.018685],"type":"Point"}
+  "bbox": [
+    -78.945045,
+    36.018685,
+    -78.945045,
+    36.018685
+],
+  "geometry": {"coordinates":[-78.94504499999999,36.018685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303880561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.140492,35.076242,-77.140492,35.076242",
     "geom:latitude":35.076242,
     "geom:longitude":-77.140492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Mariners Ct",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303880561,
-    "wof:lastmodified":1449000588,
+    "wof:lastmodified":1466656010,
     "wof:name":"Pro-TEC System One",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.140492,35.076242,-77.140492,35.076242],
-  "geometry": {"coordinates":[-77.140492,35.076242],"type":"Point"}
+  "bbox": [
+    -77.140492,
+    35.076242,
+    -77.140492,
+    35.076242
+],
+  "geometry": {"coordinates":[-77.14049199999999,35.076242],"type":"Point"}
 }

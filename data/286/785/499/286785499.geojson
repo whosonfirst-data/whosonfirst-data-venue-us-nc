@@ -2,13 +2,14 @@
   "id": 286785499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.610554,35.855287,-78.610554,35.855287",
     "geom:latitude":35.855287,
     "geom:longitude":-78.610554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Beechwood Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":286785499,
-    "wof:lastmodified":1449017612,
+    "wof:lastmodified":1466650241,
     "wof:name":"Capital Mobile Power Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "carwash"
     ]
 },
-  "bbox": [-78.610554,35.855287,-78.610554,35.855287],
-  "geometry": {"coordinates":[-78.610554,35.855287],"type":"Point"}
+  "bbox": [
+    -78.610554,
+    35.855287,
+    -78.610554,
+    35.855287
+],
+  "geometry": {"coordinates":[-78.61055399999999,35.855287],"type":"Point"}
 }

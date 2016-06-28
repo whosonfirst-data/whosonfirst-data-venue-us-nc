@@ -2,13 +2,14 @@
   "id": 387971395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.810763,35.215596,-80.810763,35.215596",
     "geom:latitude":35.215596,
     "geom:longitude":-80.810763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Shenandoah Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387971395,
-    "wof:lastmodified":1449058034,
+    "wof:lastmodified":1466658038,
     "wof:name":"Morgan School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.810763,35.215596,-80.810763,35.215596],
-  "geometry": {"coordinates":[-80.810763,35.215596],"type":"Point"}
+  "bbox": [
+    -80.810763,
+    35.215596,
+    -80.810763,
+    35.215596
+],
+  "geometry": {"coordinates":[-80.81076299999999,35.215596],"type":"Point"}
 }

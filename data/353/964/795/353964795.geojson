@@ -2,13 +2,14 @@
   "id": 353964795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.561192,35.865219,-78.561192,35.865219",
     "geom:latitude":35.865219,
     "geom:longitude":-78.561192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4824 Bivens Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353964795,
-    "wof:lastmodified":1449020176,
+    "wof:lastmodified":1466653696,
     "wof:name":"Barber Group",
     "wof:parent_id":85857779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.561192,35.865219,-78.561192,35.865219],
-  "geometry": {"coordinates":[-78.561192,35.865219],"type":"Point"}
+  "bbox": [
+    -78.561192,
+    35.865219,
+    -78.561192,
+    35.865219
+],
+  "geometry": {"coordinates":[-78.56119200000001,35.865219],"type":"Point"}
 }

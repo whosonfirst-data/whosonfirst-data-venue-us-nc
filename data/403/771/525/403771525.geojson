@@ -2,13 +2,14 @@
   "id": 403771525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.789656,36.134119,-79.789656,36.134119",
     "geom:latitude":36.134119,
     "geom:longitude":-79.789656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 N Church St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403771525,
-    "wof:lastmodified":1449055357,
+    "wof:lastmodified":1466651214,
     "wof:name":"M D Medical Inc",
     "wof:parent_id":85850467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.789656,36.134119,-79.789656,36.134119],
-  "geometry": {"coordinates":[-79.789656,36.134119],"type":"Point"}
+  "bbox": [
+    -79.789656,
+    36.134119,
+    -79.789656,
+    36.134119
+],
+  "geometry": {"coordinates":[-79.78965599999999,36.134119],"type":"Point"}
 }

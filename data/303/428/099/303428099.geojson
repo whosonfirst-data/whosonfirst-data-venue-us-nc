@@ -2,13 +2,14 @@
   "id": 303428099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.777251,35.242196,-80.777251,35.242196",
     "geom:latitude":35.242196,
     "geom:longitude":-80.777251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 Purser Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303428099,
-    "wof:lastmodified":1449000400,
+    "wof:lastmodified":1466649477,
     "wof:name":"Drain Masters",
     "wof:parent_id":85834157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.777251,35.242196,-80.777251,35.242196],
-  "geometry": {"coordinates":[-80.777251,35.242196],"type":"Point"}
+  "bbox": [
+    -80.777251,
+    35.242196,
+    -80.777251,
+    35.242196
+],
+  "geometry": {"coordinates":[-80.77725100000001,35.242196],"type":"Point"}
 }

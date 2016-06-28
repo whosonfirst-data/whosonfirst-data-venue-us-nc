@@ -2,13 +2,14 @@
   "id": 370482553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.860048,35.737041,-78.860048,35.737041",
     "geom:latitude":35.737041,
     "geom:longitude":-78.860048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Gablefield Ln",
     "sg:city":"Apex",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370482553,
-    "wof:lastmodified":1449030286,
+    "wof:lastmodified":1466652333,
     "wof:name":"Artistic Expressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.860048,35.737041,-78.860048,35.737041],
-  "geometry": {"coordinates":[-78.860048,35.737041],"type":"Point"}
+  "bbox": [
+    -78.860048,
+    35.737041,
+    -78.860048,
+    35.737041
+],
+  "geometry": {"coordinates":[-78.86004800000001,35.737041],"type":"Point"}
 }

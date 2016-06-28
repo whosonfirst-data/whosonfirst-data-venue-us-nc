@@ -2,13 +2,14 @@
   "id": 387306787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.941553,34.219636,-77.941553,34.219636",
     "geom:latitude":34.219636,
     "geom:longitude":-77.941553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 S 5th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387306787,
-    "wof:lastmodified":1449059743,
+    "wof:lastmodified":1466653894,
     "wof:name":"B & M Heating & AC",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.941553,34.219636,-77.941553,34.219636],
+  "bbox": [
+    -77.941553,
+    34.219636,
+    -77.941553,
+    34.219636
+],
   "geometry": {"coordinates":[-77.941553,34.219636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336780335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.214543,35.378193,-77.214543,35.378193",
     "geom:latitude":35.378193,
     "geom:longitude":-77.214543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 Wilmar Rd",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336780335,
-    "wof:lastmodified":1448997747,
+    "wof:lastmodified":1466648587,
     "wof:name":"Williams Garage",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-77.214543,35.378193,-77.214543,35.378193],
-  "geometry": {"coordinates":[-77.214543,35.378193],"type":"Point"}
+  "bbox": [
+    -77.214543,
+    35.378193,
+    -77.214543,
+    35.378193
+],
+  "geometry": {"coordinates":[-77.21454300000001,35.378193],"type":"Point"}
 }

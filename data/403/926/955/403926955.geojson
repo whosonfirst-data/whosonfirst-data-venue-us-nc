@@ -2,13 +2,14 @@
   "id": 403926955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.320169,35.49072,-78.320169,35.49072",
     "geom:latitude":35.49072,
     "geom:longitude":-78.320169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1890 Mallard Rd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403926955,
-    "wof:lastmodified":1449055090,
+    "wof:lastmodified":1466653249,
     "wof:name":"General Hydraulic & Pneumatic",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [-78.320169,35.49072,-78.320169,35.49072],
-  "geometry": {"coordinates":[-78.320169,35.49072],"type":"Point"}
+  "bbox": [
+    -78.320169,
+    35.49072,
+    -78.320169,
+    35.49072
+],
+  "geometry": {"coordinates":[-78.32016900000001,35.49072],"type":"Point"}
 }

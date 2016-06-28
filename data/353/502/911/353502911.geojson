@@ -2,13 +2,14 @@
   "id": 353502911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.642327,35.839482,-78.642327,35.839482",
     "geom:latitude":35.839482,
     "geom:longitude":-78.642327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Six Forks Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353502911,
-    "wof:lastmodified":1449019433,
+    "wof:lastmodified":1466648187,
     "wof:name":"Dyson Hopter Brennan Brad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.642327,35.839482,-78.642327,35.839482],
-  "geometry": {"coordinates":[-78.642327,35.839482],"type":"Point"}
+  "bbox": [
+    -78.642327,
+    35.839482,
+    -78.642327,
+    35.839482
+],
+  "geometry": {"coordinates":[-78.64232699999999,35.839482],"type":"Point"}
 }

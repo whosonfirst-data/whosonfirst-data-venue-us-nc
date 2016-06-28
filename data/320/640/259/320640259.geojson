@@ -2,13 +2,14 @@
   "id": 320640259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.611696,35.799725,-78.611696,35.799725",
     "geom:latitude":35.799725,
     "geom:longitude":-78.611696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Dennis Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320640259,
-    "wof:lastmodified":1449012873,
+    "wof:lastmodified":1466654413,
     "wof:name":"United Assets Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-78.611696,35.799725,-78.611696,35.799725],
-  "geometry": {"coordinates":[-78.611696,35.799725],"type":"Point"}
+  "bbox": [
+    -78.611696,
+    35.799725,
+    -78.611696,
+    35.799725
+],
+  "geometry": {"coordinates":[-78.61169599999999,35.799725],"type":"Point"}
 }

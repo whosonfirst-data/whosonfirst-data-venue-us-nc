@@ -2,13 +2,14 @@
   "id": 202736433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.058065,35.553681,-77.058065,35.553681",
     "geom:latitude":35.553681,
     "geom:longitude":-77.058065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 Washington St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202736433,
-    "wof:lastmodified":1449062605,
+    "wof:lastmodified":1466643699,
     "wof:name":"US Social Security Admin",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "human"
     ]
 },
-  "bbox": [-77.058065,35.553681,-77.058065,35.553681],
+  "bbox": [
+    -77.058065,
+    35.553681,
+    -77.058065,
+    35.553681
+],
   "geometry": {"coordinates":[-77.058065,35.553681],"type":"Point"}
 }

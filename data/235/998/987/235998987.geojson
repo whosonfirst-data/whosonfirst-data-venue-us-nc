@@ -2,13 +2,14 @@
   "id": 235998987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.60523,35.447902,-80.60523,35.447902",
     "geom:latitude":35.447902,
     "geom:longitude":-80.60523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3371 Cloverleaf Pkwy",
     "sg:city":"Kannapolis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":235998987,
-    "wof:lastmodified":1449008373,
+    "wof:lastmodified":1466643788,
     "wof:name":"Edward Jones 02615",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "bond"
     ]
 },
-  "bbox": [-80.60523,35.447902,-80.60523,35.447902],
-  "geometry": {"coordinates":[-80.60523,35.447902],"type":"Point"}
+  "bbox": [
+    -80.60523,
+    35.447902,
+    -80.60523,
+    35.447902
+],
+  "geometry": {"coordinates":[-80.60523000000001,35.447902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220164481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.976244,34.806274,-78.976244,34.806274",
     "geom:latitude":34.806274,
     "geom:longitude":-78.976244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 W Blue St",
     "sg:city":"Saint Pauls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220164481,
-    "wof:lastmodified":1449074129,
+    "wof:lastmodified":1466644512,
     "wof:name":"John B Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.976244,34.806274,-78.976244,34.806274],
-  "geometry": {"coordinates":[-78.976244,34.806274],"type":"Point"}
+  "bbox": [
+    -78.976244,
+    34.806274,
+    -78.976244,
+    34.806274
+],
+  "geometry": {"coordinates":[-78.97624399999999,34.806274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370842281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.892966,35.910488,-78.892966,35.910488",
     "geom:latitude":35.910488,
     "geom:longitude":-78.892966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4405 State Hwy 55",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370842281,
-    "wof:lastmodified":1449029335,
+    "wof:lastmodified":1466656412,
     "wof:name":"Red Roof Inn",
     "wof:parent_id":85831613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-78.892966,35.910488,-78.892966,35.910488],
+  "bbox": [
+    -78.892966,
+    35.910488,
+    -78.892966,
+    35.910488
+],
   "geometry": {"coordinates":[-78.892966,35.910488],"type":"Point"}
 }

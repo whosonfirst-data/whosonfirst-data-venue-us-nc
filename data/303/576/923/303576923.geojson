@@ -2,13 +2,14 @@
   "id": 303576923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.827925,35.213286,-80.827925,35.213286",
     "geom:latitude":35.213286,
     "geom:longitude":-80.827925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 E 4th St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303576923,
-    "wof:lastmodified":1448999999,
+    "wof:lastmodified":1466651623,
     "wof:name":"Old Dog Clothing",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnishing"
     ]
 },
-  "bbox": [-80.827925,35.213286,-80.827925,35.213286],
-  "geometry": {"coordinates":[-80.827925,35.213286],"type":"Point"}
+  "bbox": [
+    -80.827925,
+    35.213286,
+    -80.827925,
+    35.213286
+],
+  "geometry": {"coordinates":[-80.82792499999999,35.213286],"type":"Point"}
 }

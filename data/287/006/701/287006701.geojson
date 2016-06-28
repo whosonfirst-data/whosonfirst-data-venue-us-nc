@@ -2,13 +2,14 @@
   "id": 287006701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.98457,35.565639,-76.98457,35.565639",
     "geom:latitude":35.565639,
     "geom:longitude":-76.98457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2076 Slatestone Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287006701,
-    "wof:lastmodified":1449001379,
+    "wof:lastmodified":1466643317,
     "wof:name":"Young Potato Equipment Sales",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "potato"
     ]
 },
-  "bbox": [-76.98457,35.565639,-76.98457,35.565639],
-  "geometry": {"coordinates":[-76.98457,35.565639],"type":"Point"}
+  "bbox": [
+    -76.98457,
+    35.565639,
+    -76.98457,
+    35.565639
+],
+  "geometry": {"coordinates":[-76.98457000000001,35.565639],"type":"Point"}
 }

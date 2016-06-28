@@ -2,13 +2,14 @@
   "id": 387462689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.82143,36.20259,-79.82143,36.20259",
     "geom:latitude":36.20259,
     "geom:longitude":-79.82143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 Longhorn Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387462689,
-    "wof:lastmodified":1449059770,
+    "wof:lastmodified":1466655881,
     "wof:name":"CAD Plus Home Design",
     "wof:parent_id":85877987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "architectural"
     ]
 },
-  "bbox": [-79.82143,36.20259,-79.82143,36.20259],
-  "geometry": {"coordinates":[-79.82143,36.20259],"type":"Point"}
+  "bbox": [
+    -79.82143,
+    36.20259,
+    -79.82143,
+    36.20259
+],
+  "geometry": {"coordinates":[-79.82143000000001,36.20259],"type":"Point"}
 }

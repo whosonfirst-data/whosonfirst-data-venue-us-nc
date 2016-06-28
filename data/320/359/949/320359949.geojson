@@ -2,13 +2,14 @@
   "id": 320359949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.844383,36.01347,-78.844383,36.01347",
     "geom:latitude":36.01347,
     "geom:longitude":-78.844383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 Harvest St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320359949,
-    "wof:lastmodified":1449011201,
+    "wof:lastmodified":1466650349,
     "wof:name":"Biggs & Watson Wrecker Svc",
     "wof:parent_id":85827667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-78.844383,36.01347,-78.844383,36.01347],
-  "geometry": {"coordinates":[-78.844383,36.01347],"type":"Point"}
+  "bbox": [
+    -78.844383,
+    36.01347,
+    -78.844383,
+    36.01347
+],
+  "geometry": {"coordinates":[-78.84438299999999,36.01347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387116299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.906686,35.745523,-77.906686,35.745523",
     "geom:latitude":35.745523,
     "geom:longitude":-77.906686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Rountree St NE",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387116299,
-    "wof:lastmodified":1449056658,
+    "wof:lastmodified":1466651364,
     "wof:name":"Dennis M Daniels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.906686,35.745523,-77.906686,35.745523],
-  "geometry": {"coordinates":[-77.906686,35.745523],"type":"Point"}
+  "bbox": [
+    -77.906686,
+    35.745523,
+    -77.906686,
+    35.745523
+],
+  "geometry": {"coordinates":[-77.90668599999999,35.745523],"type":"Point"}
 }

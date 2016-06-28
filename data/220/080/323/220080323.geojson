@@ -2,13 +2,14 @@
   "id": 220080323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.234839,35.413563,-81.234839,35.413563",
     "geom:latitude":35.413563,
     "geom:longitude":-81.234839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3209 Springfield Dr",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220080323,
-    "wof:lastmodified":1449074851,
+    "wof:lastmodified":1466643845,
     "wof:name":"Dry-Pro Basement Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.234839,35.413563,-81.234839,35.413563],
-  "geometry": {"coordinates":[-81.234839,35.413563],"type":"Point"}
+  "bbox": [
+    -81.234839,
+    35.413563,
+    -81.234839,
+    35.413563
+],
+  "geometry": {"coordinates":[-81.23483899999999,35.413563],"type":"Point"}
 }

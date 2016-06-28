@@ -2,13 +2,14 @@
   "id": 320609389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.89007,35.224316,-80.89007,35.224316",
     "geom:latitude":35.224316,
     "geom:longitude":-80.89007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Wilkinson Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320609389,
-    "wof:lastmodified":1449012675,
+    "wof:lastmodified":1466653965,
     "wof:name":"Oil Nisbit",
     "wof:parent_id":85882291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-80.89007,35.224316,-80.89007,35.224316],
-  "geometry": {"coordinates":[-80.89007,35.224316],"type":"Point"}
+  "bbox": [
+    -80.89007,
+    35.224316,
+    -80.89007,
+    35.224316
+],
+  "geometry": {"coordinates":[-80.89006999999999,35.224316],"type":"Point"}
 }

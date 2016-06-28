@@ -2,13 +2,14 @@
   "id": 203022499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.55448,35.595488,-82.55448,35.595488",
     "geom:latitude":35.595488,
     "geom:longitude":-82.55448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Haywood St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203022499,
-    "wof:lastmodified":1449025544,
+    "wof:lastmodified":1466654292,
     "wof:name":"Mobilia",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furnishing"
     ]
 },
-  "bbox": [-82.55448,35.595488,-82.55448,35.595488],
+  "bbox": [
+    -82.55448,
+    35.595488,
+    -82.55448,
+    35.595488
+],
   "geometry": {"coordinates":[-82.55448,35.595488],"type":"Point"}
 }

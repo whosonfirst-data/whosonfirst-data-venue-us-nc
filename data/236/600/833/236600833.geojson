@@ -2,13 +2,14 @@
   "id": 236600833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.911679,35.915573,-78.911679,35.915573",
     "geom:latitude":35.915573,
     "geom:longitude":-78.911679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Auburn Village Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236600833,
-    "wof:lastmodified":1449001899,
+    "wof:lastmodified":1466648531,
     "wof:name":"Terry Peterson Residential",
     "wof:parent_id":85877125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.911679,35.915573,-78.911679,35.915573],
-  "geometry": {"coordinates":[-78.911679,35.915573],"type":"Point"}
+  "bbox": [
+    -78.911679,
+    35.915573,
+    -78.911679,
+    35.915573
+],
+  "geometry": {"coordinates":[-78.91167900000001,35.915573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202759651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.592242,35.854212,-78.592242,35.854212",
     "geom:latitude":35.854212,
     "geom:longitude":-78.592242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4730 Hargrove Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202759651,
-    "wof:lastmodified":1449062692,
+    "wof:lastmodified":1466643872,
     "wof:name":"EDS",
     "wof:parent_id":85824473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-78.592242,35.854212,-78.592242,35.854212],
+  "bbox": [
+    -78.592242,
+    35.854212,
+    -78.592242,
+    35.854212
+],
   "geometry": {"coordinates":[-78.592242,35.854212],"type":"Point"}
 }

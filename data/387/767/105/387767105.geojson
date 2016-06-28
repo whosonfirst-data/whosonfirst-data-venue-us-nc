@@ -2,13 +2,14 @@
   "id": 387767105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.498189,35.852179,-81.498189,35.852179",
     "geom:latitude":35.852179,
     "geom:longitude":-81.498189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"383 Main St",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387767105,
-    "wof:lastmodified":1449057185,
+    "wof:lastmodified":1466657429,
     "wof:name":"Hudson United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.498189,35.852179,-81.498189,35.852179],
+  "bbox": [
+    -81.498189,
+    35.852179,
+    -81.498189,
+    35.852179
+],
   "geometry": {"coordinates":[-81.498189,35.852179],"type":"Point"}
 }

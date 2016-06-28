@@ -2,13 +2,14 @@
   "id": 354053639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.583209,35.425349,-79.583209,35.425349",
     "geom:latitude":35.425349,
     "geom:longitude":-79.583209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Sunset Dr",
     "sg:city":"Robbins",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354053639,
-    "wof:lastmodified":1449066253,
+    "wof:lastmodified":1466648182,
     "wof:name":"Sunset Pottery & Christmas Sp",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-79.583209,35.425349,-79.583209,35.425349],
+  "bbox": [
+    -79.583209,
+    35.425349,
+    -79.583209,
+    35.425349
+],
   "geometry": {"coordinates":[-79.583209,35.425349],"type":"Point"}
 }

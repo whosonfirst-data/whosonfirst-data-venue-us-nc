@@ -2,13 +2,14 @@
   "id": 303662605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.584866,35.829978,-78.584866,35.829978",
     "geom:latitude":35.829978,
     "geom:longitude":-78.584866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3741 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303662605,
-    "wof:lastmodified":1448999772,
+    "wof:lastmodified":1466652868,
     "wof:name":"Pantry Inc",
     "wof:parent_id":85873447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-78.584866,35.829978,-78.584866,35.829978],
-  "geometry": {"coordinates":[-78.584866,35.829978],"type":"Point"}
+  "bbox": [
+    -78.584866,
+    35.829978,
+    -78.584866,
+    35.829978
+],
+  "geometry": {"coordinates":[-78.58486600000001,35.829978],"type":"Point"}
 }

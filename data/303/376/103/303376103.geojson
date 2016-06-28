@@ -2,13 +2,14 @@
   "id": 303376103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.020201,35.532999,-77.020201,35.532999",
     "geom:latitude":35.532999,
     "geom:longitude":-77.020201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Dixon Cir",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303376103,
-    "wof:lastmodified":1448998952,
+    "wof:lastmodified":1466648732,
     "wof:name":"East Coast Heating & Air Cond",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air"
     ]
 },
-  "bbox": [-77.020201,35.532999,-77.020201,35.532999],
+  "bbox": [
+    -77.020201,
+    35.532999,
+    -77.020201,
+    35.532999
+],
   "geometry": {"coordinates":[-77.020201,35.532999],"type":"Point"}
 }

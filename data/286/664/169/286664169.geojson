@@ -2,13 +2,14 @@
   "id": 286664169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.002598,35.478434,-83.002598,35.478434",
     "geom:latitude":35.478434,
     "geom:longitude":-83.002598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 Brown Ave",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286664169,
-    "wof:lastmodified":1449016268,
+    "wof:lastmodified":1466648619,
     "wof:name":"Hazelwood Family Medicine Pllc",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-83.002598,35.478434,-83.002598,35.478434],
-  "geometry": {"coordinates":[-83.002598,35.478434],"type":"Point"}
+  "bbox": [
+    -83.002598,
+    35.478434,
+    -83.002598,
+    35.478434
+],
+  "geometry": {"coordinates":[-83.00259800000001,35.478434],"type":"Point"}
 }

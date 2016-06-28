@@ -2,13 +2,14 @@
   "id": 303328761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.462744,35.316328,-82.462744,35.316328",
     "geom:latitude":35.316328,
     "geom:longitude":-82.462744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N Washington St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303328761,
-    "wof:lastmodified":1448999564,
+    "wof:lastmodified":1466648051,
     "wof:name":"Conceptual Planning Consultant",
     "wof:parent_id":85804503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-82.462744,35.316328,-82.462744,35.316328],
+  "bbox": [
+    -82.462744,
+    35.316328,
+    -82.462744,
+    35.316328
+],
   "geometry": {"coordinates":[-82.462744,35.316328],"type":"Point"}
 }

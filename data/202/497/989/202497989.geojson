@@ -2,13 +2,14 @@
   "id": 202497989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.065525,34.690256,-77.065525,34.690256",
     "geom:latitude":34.690256,
     "geom:longitude":-77.065525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 W B McLean Dr",
     "sg:city":"Swansboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202497989,
-    "wof:lastmodified":1449062599,
+    "wof:lastmodified":1466654950,
     "wof:name":"First Citizens Bank",
     "wof:parent_id":85843465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-77.065525,34.690256,-77.065525,34.690256],
-  "geometry": {"coordinates":[-77.065525,34.690256],"type":"Point"}
+  "bbox": [
+    -77.065525,
+    34.690256,
+    -77.065525,
+    34.690256
+],
+  "geometry": {"coordinates":[-77.06552499999999,34.690256],"type":"Point"}
 }

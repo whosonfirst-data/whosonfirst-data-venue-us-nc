@@ -2,13 +2,14 @@
   "id": 370570607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.906112,35.636209,-79.906112,35.636209",
     "geom:latitude":35.636209,
     "geom:longitude":-79.906112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3185 Tot Hill Farm Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370570607,
-    "wof:lastmodified":1449031082,
+    "wof:lastmodified":1466653494,
     "wof:name":"Tot Hill Farm Sales",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.906112,35.636209,-79.906112,35.636209],
-  "geometry": {"coordinates":[-79.906112,35.636209],"type":"Point"}
+  "bbox": [
+    -79.906112,
+    35.636209,
+    -79.906112,
+    35.636209
+],
+  "geometry": {"coordinates":[-79.90611199999999,35.636209],"type":"Point"}
 }

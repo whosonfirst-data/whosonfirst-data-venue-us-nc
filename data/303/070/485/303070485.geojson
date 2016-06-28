@@ -2,13 +2,14 @@
   "id": 303070485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.367157,35.229701,-81.367157,35.229701",
     "geom:latitude":35.229701,
     "geom:longitude":-81.367157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Lee St",
     "sg:city":"Kings Mountain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303070485,
-    "wof:lastmodified":1448999313,
+    "wof:lastmodified":1466644256,
     "wof:name":"Morrow's Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "roofing"
     ]
 },
-  "bbox": [-81.367157,35.229701,-81.367157,35.229701],
-  "geometry": {"coordinates":[-81.367157,35.229701],"type":"Point"}
+  "bbox": [
+    -81.367157,
+    35.229701,
+    -81.367157,
+    35.229701
+],
+  "geometry": {"coordinates":[-81.36715700000001,35.229701],"type":"Point"}
 }

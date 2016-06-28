@@ -2,13 +2,14 @@
   "id": 203161189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.958357,35.964723,-78.958357,35.964723",
     "geom:latitude":35.964723,
     "geom:longitude":-78.958357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4015 University Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203161189,
-    "wof:lastmodified":1449025667,
+    "wof:lastmodified":1466655053,
     "wof:name":"Encore",
     "wof:parent_id":85877193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consignment"
     ]
 },
-  "bbox": [-78.958357,35.964723,-78.958357,35.964723],
-  "geometry": {"coordinates":[-78.958357,35.964723],"type":"Point"}
+  "bbox": [
+    -78.958357,
+    35.964723,
+    -78.958357,
+    35.964723
+],
+  "geometry": {"coordinates":[-78.95835700000001,35.964723],"type":"Point"}
 }

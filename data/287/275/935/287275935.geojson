@@ -2,13 +2,14 @@
   "id": 287275935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.587662,35.541975,-78.587662,35.541975",
     "geom:latitude":35.541975,
     "geom:longitude":-78.587662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12591 State Hwy 50 N",
     "sg:city":"Willow Spring",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287275935,
-    "wof:lastmodified":1449000936,
+    "wof:lastmodified":1466647140,
     "wof:name":"Poole Sealing & Lot Striping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "parking"
     ]
 },
-  "bbox": [-78.587662,35.541975,-78.587662,35.541975],
-  "geometry": {"coordinates":[-78.587662,35.541975],"type":"Point"}
+  "bbox": [
+    -78.587662,
+    35.541975,
+    -78.587662,
+    35.541975
+],
+  "geometry": {"coordinates":[-78.58766199999999,35.541975],"type":"Point"}
 }

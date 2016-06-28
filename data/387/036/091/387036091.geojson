@@ -2,13 +2,14 @@
   "id": 387036091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.800869,36.120055,-79.800869,36.120055",
     "geom:latitude":36.120055,
     "geom:longitude":-79.800869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Sturbridge Ln",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387036091,
-    "wof:lastmodified":1449056955,
+    "wof:lastmodified":1466650335,
     "wof:name":"Tadpole Inc",
     "wof:parent_id":85850467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-79.800869,36.120055,-79.800869,36.120055],
-  "geometry": {"coordinates":[-79.800869,36.120055],"type":"Point"}
+  "bbox": [
+    -79.800869,
+    36.120055,
+    -79.800869,
+    36.120055
+],
+  "geometry": {"coordinates":[-79.80086900000001,36.120055],"type":"Point"}
 }

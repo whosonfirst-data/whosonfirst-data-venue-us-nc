@@ -2,13 +2,14 @@
   "id": 303482647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.934481,35.470596,-80.934481,35.470596",
     "geom:latitude":35.470596,
     "geom:longitude":-80.934481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16816 America Cup Rd",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303482647,
-    "wof:lastmodified":1448998987,
+    "wof:lastmodified":1466650285,
     "wof:name":"Tara N Barr MD",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.934481,35.470596,-80.934481,35.470596],
-  "geometry": {"coordinates":[-80.934481,35.470596],"type":"Point"}
+  "bbox": [
+    -80.934481,
+    35.470596,
+    -80.934481,
+    35.470596
+],
+  "geometry": {"coordinates":[-80.93448100000001,35.470596],"type":"Point"}
 }

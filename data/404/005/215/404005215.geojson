@@ -2,13 +2,14 @@
   "id": 404005215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.822825,35.663988,-79.822825,35.663988",
     "geom:latitude":35.663988,
     "geom:longitude":-79.822825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 US Hwy 220 Bus S",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404005215,
-    "wof:lastmodified":1449040239,
+    "wof:lastmodified":1466651371,
     "wof:name":"Smiths Welding Rental",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-79.822825,35.663988,-79.822825,35.663988],
-  "geometry": {"coordinates":[-79.822825,35.663988],"type":"Point"}
+  "bbox": [
+    -79.822825,
+    35.663988,
+    -79.822825,
+    35.663988
+],
+  "geometry": {"coordinates":[-79.82282499999999,35.663988],"type":"Point"}
 }

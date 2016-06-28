@@ -2,13 +2,14 @@
   "id": 203003789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.844722,34.258653,-77.844722,34.258653",
     "geom:latitude":34.258653,
     "geom:longitude":-77.844722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6502 Windmill Way",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203003789,
-    "wof:lastmodified":1449026721,
+    "wof:lastmodified":1466654147,
     "wof:name":"Bradford Spas",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.844722,34.258653,-77.844722,34.258653],
+  "bbox": [
+    -77.844722,
+    34.258653,
+    -77.844722,
+    34.258653
+],
   "geometry": {"coordinates":[-77.844722,34.258653],"type":"Point"}
 }

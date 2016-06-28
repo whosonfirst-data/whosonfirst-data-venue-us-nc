@@ -2,13 +2,14 @@
   "id": 303315463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.320473,35.277094,-80.320473,35.277094",
     "geom:latitude":35.277094,
     "geom:longitude":-80.320473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20130 Newsome Rd",
     "sg:city":"Oakboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303315463,
-    "wof:lastmodified":1449000438,
+    "wof:lastmodified":1466647880,
     "wof:name":"Frog Pond Mower Svc",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mower"
     ]
 },
-  "bbox": [-80.320473,35.277094,-80.320473,35.277094],
-  "geometry": {"coordinates":[-80.320473,35.277094],"type":"Point"}
+  "bbox": [
+    -80.320473,
+    35.277094,
+    -80.320473,
+    35.277094
+],
+  "geometry": {"coordinates":[-80.32047300000001,35.277094],"type":"Point"}
 }

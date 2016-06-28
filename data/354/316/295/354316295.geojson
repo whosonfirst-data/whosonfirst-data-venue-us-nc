@@ -2,13 +2,14 @@
   "id": 354316295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949907,34.239663,-77.949907,34.239663",
     "geom:latitude":34.239663,
     "geom:longitude":-77.949907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Nutt St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354316295,
-    "wof:lastmodified":1449067129,
+    "wof:lastmodified":1466651211,
     "wof:name":"German Cafe",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-77.949907,34.239663,-77.949907,34.239663],
+  "bbox": [
+    -77.949907,
+    34.239663,
+    -77.949907,
+    34.239663
+],
   "geometry": {"coordinates":[-77.949907,34.239663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236722323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.049152,35.95762,-79.049152,35.95762",
     "geom:latitude":35.95762,
     "geom:longitude":-79.049152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Blackcherry Ln",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236722323,
-    "wof:lastmodified":1449002673,
+    "wof:lastmodified":1466649696,
     "wof:name":"Allen Glazner",
     "wof:parent_id":85851367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "scientific"
     ]
 },
-  "bbox": [-79.049152,35.95762,-79.049152,35.95762],
-  "geometry": {"coordinates":[-79.049152,35.95762],"type":"Point"}
+  "bbox": [
+    -79.049152,
+    35.95762,
+    -79.049152,
+    35.95762
+],
+  "geometry": {"coordinates":[-79.04915200000001,35.95762],"type":"Point"}
 }

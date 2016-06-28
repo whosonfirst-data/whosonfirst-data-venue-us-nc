@@ -2,13 +2,14 @@
   "id": 236880681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.28606,35.248008,-81.28606,35.248008",
     "geom:latitude":35.248008,
     "geom:longitude":-81.28606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Sparrow Springs Rd",
     "sg:city":"Kings Mountain",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236880681,
-    "wof:lastmodified":1449005287,
+    "wof:lastmodified":1466651123,
     "wof:name":"First Congregational United",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.28606,35.248008,-81.28606,35.248008],
-  "geometry": {"coordinates":[-81.28606,35.248008],"type":"Point"}
+  "bbox": [
+    -81.28606,
+    35.248008,
+    -81.28606,
+    35.248008
+],
+  "geometry": {"coordinates":[-81.28606000000001,35.248008],"type":"Point"}
 }

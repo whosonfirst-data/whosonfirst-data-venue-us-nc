@@ -2,13 +2,14 @@
   "id": 387243249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.819359,34.215262,-77.819359,34.215262",
     "geom:latitude":34.215262,
     "geom:longitude":-77.819359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Edgewater Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387243249,
-    "wof:lastmodified":1449057332,
+    "wof:lastmodified":1466653069,
     "wof:name":"Dorothy Balkcum",
     "wof:parent_id":85806997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.819359,34.215262,-77.819359,34.215262],
-  "geometry": {"coordinates":[-77.819359,34.215262],"type":"Point"}
+  "bbox": [
+    -77.819359,
+    34.215262,
+    -77.819359,
+    34.215262
+],
+  "geometry": {"coordinates":[-77.81935900000001,34.215262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303661579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.645789,35.429944,-80.645789,35.429944",
     "geom:latitude":35.429944,
     "geom:longitude":-80.645789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4152 Brownwood Ln NW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303661579,
-    "wof:lastmodified":1449000305,
+    "wof:lastmodified":1466652853,
     "wof:name":"Mom Properties LLC",
     "wof:parent_id":85842735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.645789,35.429944,-80.645789,35.429944],
-  "geometry": {"coordinates":[-80.645789,35.429944],"type":"Point"}
+  "bbox": [
+    -80.645789,
+    35.429944,
+    -80.645789,
+    35.429944
+],
+  "geometry": {"coordinates":[-80.64578899999999,35.429944],"type":"Point"}
 }

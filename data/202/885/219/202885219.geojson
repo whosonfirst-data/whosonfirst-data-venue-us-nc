@@ -2,13 +2,14 @@
   "id": 202885219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.237682,34.881236,-77.237682,34.881236",
     "geom:latitude":34.881236,
     "geom:longitude":-77.237682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 White Oak River Rd",
     "sg:city":"Maysville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202885219,
-    "wof:lastmodified":1449061459,
+    "wof:lastmodified":1466644826,
     "wof:name":"Chase Rivers Electric",
     "wof:parent_id":85834913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.237682,34.881236,-77.237682,34.881236],
-  "geometry": {"coordinates":[-77.237682,34.881236],"type":"Point"}
+  "bbox": [
+    -77.237682,
+    34.881236,
+    -77.237682,
+    34.881236
+],
+  "geometry": {"coordinates":[-77.23768200000001,34.881236],"type":"Point"}
 }

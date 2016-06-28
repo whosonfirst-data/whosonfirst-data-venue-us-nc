@@ -2,13 +2,14 @@
   "id": 370533109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.132224,35.057276,-78.132224,35.057276",
     "geom:latitude":35.057276,
     "geom:longitude":-78.132224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"579 Warren Rd",
     "sg:city":"Faison",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370533109,
-    "wof:lastmodified":1449029027,
+    "wof:lastmodified":1466652990,
     "wof:name":"Grady Farming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-78.132224,35.057276,-78.132224,35.057276],
-  "geometry": {"coordinates":[-78.132224,35.057276],"type":"Point"}
+  "bbox": [
+    -78.132224,
+    35.057276,
+    -78.132224,
+    35.057276
+],
+  "geometry": {"coordinates":[-78.13222399999999,35.057276],"type":"Point"}
 }

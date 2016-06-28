@@ -2,13 +2,14 @@
   "id": 203018717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.760905,35.74867,-78.760905,35.74867",
     "geom:latitude":35.74867,
     "geom:longitude":-78.760905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Kirkfield Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203018717,
-    "wof:lastmodified":1449025871,
+    "wof:lastmodified":1466654264,
     "wof:name":"Legal Wheels Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-78.760905,35.74867,-78.760905,35.74867],
-  "geometry": {"coordinates":[-78.760905,35.74867],"type":"Point"}
+  "bbox": [
+    -78.760905,
+    35.74867,
+    -78.760905,
+    35.74867
+],
+  "geometry": {"coordinates":[-78.76090499999999,35.74867],"type":"Point"}
 }

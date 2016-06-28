@@ -2,13 +2,14 @@
   "id": 403835675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.357246,35.493246,-78.357246,35.493246",
     "geom:latitude":35.493246,
     "geom:longitude":-78.357246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 S Brightleaf Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403835675,
-    "wof:lastmodified":1449054819,
+    "wof:lastmodified":1466652074,
     "wof:name":"Charlie B's Electronic",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.357246,35.493246,-78.357246,35.493246],
+  "bbox": [
+    -78.357246,
+    35.493246,
+    -78.357246,
+    35.493246
+],
   "geometry": {"coordinates":[-78.357246,35.493246],"type":"Point"}
 }

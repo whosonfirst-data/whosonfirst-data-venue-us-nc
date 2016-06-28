@@ -2,13 +2,14 @@
   "id": 320551719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.849257,35.978526,-78.849257,35.978526",
     "geom:latitude":35.978526,
     "geom:longitude":-78.849257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2948 Carolyn Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320551719,
-    "wof:lastmodified":1449012011,
+    "wof:lastmodified":1466653112,
     "wof:name":"Moore's Paint & Decorating",
     "wof:parent_id":85827667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.849257,35.978526,-78.849257,35.978526],
-  "geometry": {"coordinates":[-78.849257,35.978526],"type":"Point"}
+  "bbox": [
+    -78.849257,
+    35.978526,
+    -78.849257,
+    35.978526
+],
+  "geometry": {"coordinates":[-78.84925699999999,35.978526],"type":"Point"}
 }

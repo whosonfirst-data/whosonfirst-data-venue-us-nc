@@ -2,13 +2,14 @@
   "id": 303871897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.60129,35.762448,-80.60129,35.762448",
     "geom:latitude":35.762448,
     "geom:longitude":-80.60129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"885 Woodleaf Barber Rd",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303871897,
-    "wof:lastmodified":1448998921,
+    "wof:lastmodified":1466655884,
     "wof:name":"Unity Presbyterian Church",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.60129,35.762448,-80.60129,35.762448],
-  "geometry": {"coordinates":[-80.60129,35.762448],"type":"Point"}
+  "bbox": [
+    -80.60129,
+    35.762448,
+    -80.60129,
+    35.762448
+],
+  "geometry": {"coordinates":[-80.60129000000001,35.762448],"type":"Point"}
 }

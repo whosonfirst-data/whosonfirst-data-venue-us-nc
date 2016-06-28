@@ -2,13 +2,14 @@
   "id": 370396649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.835349,35.559017,-80.835349,35.559017",
     "geom:latitude":35.559017,
     "geom:longitude":-80.835349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1865 Mecklenburg Hwy",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370396649,
-    "wof:lastmodified":1449031297,
+    "wof:lastmodified":1466651235,
     "wof:name":"Family Movers",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.835349,35.559017,-80.835349,35.559017],
-  "geometry": {"coordinates":[-80.835349,35.559017],"type":"Point"}
+  "bbox": [
+    -80.835349,
+    35.559017,
+    -80.835349,
+    35.559017
+],
+  "geometry": {"coordinates":[-80.83534899999999,35.559017],"type":"Point"}
 }

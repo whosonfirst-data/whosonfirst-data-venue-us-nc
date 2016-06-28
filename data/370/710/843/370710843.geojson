@@ -2,13 +2,14 @@
   "id": 370710843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.821109,35.819151,-78.821109,35.819151",
     "geom:latitude":35.819151,
     "geom:longitude":-78.821109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Langstonshire Ln",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370710843,
-    "wof:lastmodified":1449029288,
+    "wof:lastmodified":1466655327,
     "wof:name":"Bulwark Exterminating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.821109,35.819151,-78.821109,35.819151],
-  "geometry": {"coordinates":[-78.821109,35.819151],"type":"Point"}
+  "bbox": [
+    -78.821109,
+    35.819151,
+    -78.821109,
+    35.819151
+],
+  "geometry": {"coordinates":[-78.82110900000001,35.819151],"type":"Point"}
 }

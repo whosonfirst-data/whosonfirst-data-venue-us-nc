@@ -2,13 +2,14 @@
   "id": 286300241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.057015,35.030975,-79.057015,35.030975",
     "geom:latitude":35.030975,
     "geom:longitude":-79.057015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7790 Raeford Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286300241,
-    "wof:lastmodified":1449016839,
+    "wof:lastmodified":1466643741,
     "wof:name":"Advance Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-79.057015,35.030975,-79.057015,35.030975],
-  "geometry": {"coordinates":[-79.057015,35.030975],"type":"Point"}
+  "bbox": [
+    -79.057015,
+    35.030975,
+    -79.057015,
+    35.030975
+],
+  "geometry": {"coordinates":[-79.05701500000001,35.030975],"type":"Point"}
 }

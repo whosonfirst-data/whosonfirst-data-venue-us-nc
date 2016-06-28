@@ -2,13 +2,14 @@
   "id": 202965423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.526583,35.273901,-81.526583,35.273901",
     "geom:latitude":35.273901,
     "geom:longitude":-81.526583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 E Dixon Blvd",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202965423,
-    "wof:lastmodified":1449061866,
+    "wof:lastmodified":1466645455,
     "wof:name":"Alpha Mailing Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-81.526583,35.273901,-81.526583,35.273901],
+  "bbox": [
+    -81.526583,
+    35.273901,
+    -81.526583,
+    35.273901
+],
   "geometry": {"coordinates":[-81.526583,35.273901],"type":"Point"}
 }

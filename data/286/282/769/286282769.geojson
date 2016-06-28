@@ -2,13 +2,14 @@
   "id": 286282769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.936101,36.009629,-78.936101,36.009629",
     "geom:latitude":36.009629,
     "geom:longitude":-78.936101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Elf St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":286282769,
-    "wof:lastmodified":1449017042,
+    "wof:lastmodified":1466643500,
     "wof:name":"University Inn",
     "wof:parent_id":85877141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.936101,36.009629,-78.936101,36.009629],
-  "geometry": {"coordinates":[-78.936101,36.009629],"type":"Point"}
+  "bbox": [
+    -78.936101,
+    36.009629,
+    -78.936101,
+    36.009629
+],
+  "geometry": {"coordinates":[-78.93610099999999,36.009629],"type":"Point"}
 }

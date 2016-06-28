@@ -2,13 +2,14 @@
   "id": 353435503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.009566,35.089136,-79.009566,35.089136",
     "geom:latitude":35.089136,
     "geom:longitude":-79.009566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Meed Ct",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353435503,
-    "wof:lastmodified":1449020575,
+    "wof:lastmodified":1466647769,
     "wof:name":"Uspa and Ira",
     "wof:parent_id":85851349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.009566,35.089136,-79.009566,35.089136],
-  "geometry": {"coordinates":[-79.009566,35.089136],"type":"Point"}
+  "bbox": [
+    -79.009566,
+    35.089136,
+    -79.009566,
+    35.089136
+],
+  "geometry": {"coordinates":[-79.00956600000001,35.089136],"type":"Point"}
 }

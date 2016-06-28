@@ -2,13 +2,14 @@
   "id": 320830215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.012601,35.953196,-80.012601,35.953196",
     "geom:latitude":35.953196,
     "geom:longitude":-80.012601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 W High Ave",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320830215,
-    "wof:lastmodified":1449012049,
+    "wof:lastmodified":1466656600,
     "wof:name":"Global Trade",
     "wof:parent_id":85891965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.012601,35.953196,-80.012601,35.953196],
+  "bbox": [
+    -80.012601,
+    35.953196,
+    -80.012601,
+    35.953196
+],
   "geometry": {"coordinates":[-80.012601,35.953196],"type":"Point"}
 }

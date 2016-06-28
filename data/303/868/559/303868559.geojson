@@ -2,13 +2,14 @@
   "id": 303868559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.625076,35.932215,-78.625076,35.932215",
     "geom:latitude":35.932215,
     "geom:longitude":-78.625076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10701 Trappers Creek Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303868559,
-    "wof:lastmodified":1448998229,
+    "wof:lastmodified":1466655853,
     "wof:name":"Wakefield Mortgage Group LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-78.625076,35.932215,-78.625076,35.932215],
-  "geometry": {"coordinates":[-78.625076,35.932215],"type":"Point"}
+  "bbox": [
+    -78.625076,
+    35.932215,
+    -78.625076,
+    35.932215
+],
+  "geometry": {"coordinates":[-78.62507600000001,35.932215],"type":"Point"}
 }

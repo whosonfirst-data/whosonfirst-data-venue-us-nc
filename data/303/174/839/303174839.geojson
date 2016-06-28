@@ -2,13 +2,14 @@
   "id": 303174839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.10779,35.078421,-77.10779,35.078421",
     "geom:latitude":35.078421,
     "geom:longitude":-77.10779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4907 Trent Woods Dr",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303174839,
-    "wof:lastmodified":1448998451,
+    "wof:lastmodified":1466645829,
     "wof:name":"Parker Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-77.10779,35.078421,-77.10779,35.078421],
-  "geometry": {"coordinates":[-77.10779,35.078421],"type":"Point"}
+  "bbox": [
+    -77.10779,
+    35.078421,
+    -77.10779,
+    35.078421
+],
+  "geometry": {"coordinates":[-77.10778999999999,35.078421],"type":"Point"}
 }

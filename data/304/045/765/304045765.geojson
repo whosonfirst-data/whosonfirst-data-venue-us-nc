@@ -2,13 +2,14 @@
   "id": 304045765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.241951,35.651754,-79.241951,35.651754",
     "geom:latitude":35.651754,
     "geom:longitude":-79.241951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2692 Pittsboro Goldston Rd",
     "sg:city":"Pittsboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304045765,
-    "wof:lastmodified":1449044093,
+    "wof:lastmodified":1466644811,
     "wof:name":"KVT Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-79.241951,35.651754,-79.241951,35.651754],
+  "bbox": [
+    -79.241951,
+    35.651754,
+    -79.241951,
+    35.651754
+],
   "geometry": {"coordinates":[-79.241951,35.651754],"type":"Point"}
 }

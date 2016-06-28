@@ -2,13 +2,14 @@
   "id": 387871455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.419266,36.039507,-80.419266,36.039507",
     "geom:latitude":36.039507,
     "geom:longitude":-80.419266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8497 Lasater Rd",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387871455,
-    "wof:lastmodified":1449057350,
+    "wof:lastmodified":1466657926,
     "wof:name":"Lowder Trucking",
     "wof:parent_id":85811307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.419266,36.039507,-80.419266,36.039507],
-  "geometry": {"coordinates":[-80.419266,36.039507],"type":"Point"}
+  "bbox": [
+    -80.419266,
+    36.039507,
+    -80.419266,
+    36.039507
+],
+  "geometry": {"coordinates":[-80.41926599999999,36.039507],"type":"Point"}
 }

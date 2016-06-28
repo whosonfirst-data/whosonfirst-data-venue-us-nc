@@ -2,13 +2,14 @@
   "id": 353603267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.452019,35.205486,-79.452019,35.205486",
     "geom:latitude":35.205486,
     "geom:longitude":-79.452019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Aviemore Dr",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353603267,
-    "wof:lastmodified":1449020426,
+    "wof:lastmodified":1466649466,
     "wof:name":"St Joseph Hospital Home H",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-79.452019,35.205486,-79.452019,35.205486],
-  "geometry": {"coordinates":[-79.452019,35.205486],"type":"Point"}
+  "bbox": [
+    -79.452019,
+    35.205486,
+    -79.452019,
+    35.205486
+],
+  "geometry": {"coordinates":[-79.45201900000001,35.205486],"type":"Point"}
 }

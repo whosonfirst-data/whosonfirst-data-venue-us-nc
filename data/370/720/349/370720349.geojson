@@ -2,13 +2,14 @@
   "id": 370720349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.781326,35.198261,-82.781326,35.198261",
     "geom:latitude":35.198261,
     "geom:longitude":-82.781326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Clement Rd",
     "sg:city":"Brevard",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370720349,
-    "wof:lastmodified":1449029901,
+    "wof:lastmodified":1466655455,
     "wof:name":"Head Over Wheels Trucking",
     "wof:parent_id":85815335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.781326,35.198261,-82.781326,35.198261],
-  "geometry": {"coordinates":[-82.781326,35.198261],"type":"Point"}
+  "bbox": [
+    -82.781326,
+    35.198261,
+    -82.781326,
+    35.198261
+],
+  "geometry": {"coordinates":[-82.78132600000001,35.198261],"type":"Point"}
 }

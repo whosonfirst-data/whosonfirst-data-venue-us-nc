@@ -2,13 +2,14 @@
   "id": 236890213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.352843,35.38347,-81.352843,35.38347",
     "geom:latitude":35.38347,
     "geom:longitude":-81.352843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Ed Rudisill Rd",
     "sg:city":"Cherryville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236890213,
-    "wof:lastmodified":1449002217,
+    "wof:lastmodified":1466651197,
     "wof:name":"Advanced Color Graphics",
     "wof:parent_id":85809581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-81.352843,35.38347,-81.352843,35.38347],
-  "geometry": {"coordinates":[-81.352843,35.38347],"type":"Point"}
+  "bbox": [
+    -81.352843,
+    35.38347,
+    -81.352843,
+    35.38347
+],
+  "geometry": {"coordinates":[-81.35284299999999,35.38347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270419943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.340944,34.819871,-77.340944,34.819871",
     "geom:latitude":34.819871,
     "geom:longitude":-77.340944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1673 Kellum Loop Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270419943,
-    "wof:lastmodified":1449011093,
+    "wof:lastmodified":1466648382,
     "wof:name":"Ronny Jones Masonry",
     "wof:parent_id":85839091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.340944,34.819871,-77.340944,34.819871],
-  "geometry": {"coordinates":[-77.340944,34.819871],"type":"Point"}
+  "bbox": [
+    -77.340944,
+    34.819871,
+    -77.340944,
+    34.819871
+],
+  "geometry": {"coordinates":[-77.34094399999999,34.819871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202813075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.743293,35.235193,-80.743293,35.235193",
     "geom:latitude":35.235193,
     "geom:longitude":-80.743293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7123 Barrington Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202813075,
-    "wof:lastmodified":1449060770,
+    "wof:lastmodified":1466644264,
     "wof:name":"Barrington Oaks Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.743293,35.235193,-80.743293,35.235193],
-  "geometry": {"coordinates":[-80.743293,35.235193],"type":"Point"}
+  "bbox": [
+    -80.743293,
+    35.235193,
+    -80.743293,
+    35.235193
+],
+  "geometry": {"coordinates":[-80.74329299999999,35.235193],"type":"Point"}
 }

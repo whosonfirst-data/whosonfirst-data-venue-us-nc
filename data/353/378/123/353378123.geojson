@@ -2,13 +2,14 @@
   "id": 353378123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.74008,35.088191,-80.74008,35.088191",
     "geom:latitude":35.088191,
     "geom:longitude":-80.74008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2706 Foxfire Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353378123,
-    "wof:lastmodified":1449019962,
+    "wof:lastmodified":1466647504,
     "wof:name":"Waxhaw Partners LLP",
     "wof:parent_id":85843235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.74008,35.088191,-80.74008,35.088191],
-  "geometry": {"coordinates":[-80.74008,35.088191],"type":"Point"}
+  "bbox": [
+    -80.74008,
+    35.088191,
+    -80.74008,
+    35.088191
+],
+  "geometry": {"coordinates":[-80.74008000000001,35.088191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202619333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.036338,36.459648,-79.036338,36.459648",
     "geom:latitude":36.459648,
     "geom:longitude":-79.036338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Munday Rd",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202619333,
-    "wof:lastmodified":1449060561,
+    "wof:lastmodified":1466655579,
     "wof:name":"Goldsboro Wesleyan Church",
     "wof:parent_id":85808801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.036338,36.459648,-79.036338,36.459648],
+  "bbox": [
+    -79.036338,
+    36.459648,
+    -79.036338,
+    36.459648
+],
   "geometry": {"coordinates":[-79.036338,36.459648],"type":"Point"}
 }

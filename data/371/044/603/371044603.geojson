@@ -2,13 +2,14 @@
   "id": 371044603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.801512,35.795405,-78.801512,35.795405",
     "geom:latitude":35.795405,
     "geom:longitude":-78.801512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1783 NW Maynard Rd",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371044603,
-    "wof:lastmodified":1449049579,
+    "wof:lastmodified":1466649390,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-78.801512,35.795405,-78.801512,35.795405],
+  "bbox": [
+    -78.801512,
+    35.795405,
+    -78.801512,
+    35.795405
+],
   "geometry": {"coordinates":[-78.801512,35.795405],"type":"Point"}
 }

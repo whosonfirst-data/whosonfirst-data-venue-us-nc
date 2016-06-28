@@ -2,13 +2,14 @@
   "id": 303114977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.701986,35.791477,-78.701986,35.791477",
     "geom:latitude":35.791477,
     "geom:longitude":-78.701986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Hutton St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303114977,
-    "wof:lastmodified":1448999139,
+    "wof:lastmodified":1466644931,
     "wof:name":"Materials Analytical Services",
     "wof:parent_id":85833903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "inspects"
     ]
 },
-  "bbox": [-78.701986,35.791477,-78.701986,35.791477],
-  "geometry": {"coordinates":[-78.701986,35.791477],"type":"Point"}
+  "bbox": [
+    -78.701986,
+    35.791477,
+    -78.701986,
+    35.791477
+],
+  "geometry": {"coordinates":[-78.70198600000001,35.791477],"type":"Point"}
 }

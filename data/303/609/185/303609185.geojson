@@ -2,13 +2,14 @@
   "id": 303609185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.419199,35.421743,-77.419199,35.421743",
     "geom:latitude":35.421743,
     "geom:longitude":-77.419199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5723 Weyerhaeuser Rd",
     "sg:city":"Ayden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303609185,
-    "wof:lastmodified":1448999027,
+    "wof:lastmodified":1466652086,
     "wof:name":"Ideal Overhead Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "door"
     ]
 },
-  "bbox": [-77.419199,35.421743,-77.419199,35.421743],
-  "geometry": {"coordinates":[-77.419199,35.421743],"type":"Point"}
+  "bbox": [
+    -77.419199,
+    35.421743,
+    -77.419199,
+    35.421743
+],
+  "geometry": {"coordinates":[-77.41919900000001,35.421743],"type":"Point"}
 }

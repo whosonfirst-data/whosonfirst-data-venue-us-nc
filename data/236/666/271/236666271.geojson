@@ -2,13 +2,14 @@
   "id": 236666271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.322201,35.507369,-78.322201,35.507369",
     "geom:latitude":35.507369,
     "geom:longitude":-78.322201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 S Equity Dr",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236666271,
-    "wof:lastmodified":1449002737,
+    "wof:lastmodified":1466649138,
     "wof:name":"Best Western Smithfield",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.322201,35.507369,-78.322201,35.507369],
-  "geometry": {"coordinates":[-78.322201,35.507369],"type":"Point"}
+  "bbox": [
+    -78.322201,
+    35.507369,
+    -78.322201,
+    35.507369
+],
+  "geometry": {"coordinates":[-78.32220100000001,35.507369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253668373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.804037,35.587293,-80.804037,35.587293",
     "geom:latitude":35.587293,
     "geom:longitude":-80.804037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 W Statesville Ave",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253668373,
-    "wof:lastmodified":1449064902,
+    "wof:lastmodified":1466650368,
     "wof:name":"Counseling Center Of Iredell",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-80.804037,35.587293,-80.804037,35.587293],
-  "geometry": {"coordinates":[-80.804037,35.587293],"type":"Point"}
+  "bbox": [
+    -80.804037,
+    35.587293,
+    -80.804037,
+    35.587293
+],
+  "geometry": {"coordinates":[-80.80403699999999,35.587293],"type":"Point"}
 }

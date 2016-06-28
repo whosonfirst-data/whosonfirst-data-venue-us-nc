@@ -2,13 +2,14 @@
   "id": 403825755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.878164,35.859508,-79.878164,35.859508",
     "geom:latitude":35.859508,
     "geom:longitude":-79.878164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5224 Farlowe Davis Dr",
     "sg:city":"Sophia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403825755,
-    "wof:lastmodified":1449054667,
+    "wof:lastmodified":1466651934,
     "wof:name":"Hawks Greenhouse",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-79.878164,35.859508,-79.878164,35.859508],
+  "bbox": [
+    -79.878164,
+    35.859508,
+    -79.878164,
+    35.859508
+],
   "geometry": {"coordinates":[-79.878164,35.859508],"type":"Point"}
 }

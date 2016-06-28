@@ -2,13 +2,14 @@
   "id": 303709569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.810977,35.841697,-78.810977,35.841697",
     "geom:latitude":35.841697,
     "geom:longitude":-78.810977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Dominion Dr",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303709569,
-    "wof:lastmodified":1448998604,
+    "wof:lastmodified":1466653558,
     "wof:name":"Syprotec Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.810977,35.841697,-78.810977,35.841697],
-  "geometry": {"coordinates":[-78.810977,35.841697],"type":"Point"}
+  "bbox": [
+    -78.810977,
+    35.841697,
+    -78.810977,
+    35.841697
+],
+  "geometry": {"coordinates":[-78.81097699999999,35.841697],"type":"Point"}
 }

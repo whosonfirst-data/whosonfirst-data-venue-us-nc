@@ -2,13 +2,14 @@
   "id": 370841699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.579417,35.517177,-78.579417,35.517177",
     "geom:latitude":35.517177,
     "geom:longitude":-78.579417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13596 State Hwy 210",
     "sg:city":"Angier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370841699,
-    "wof:lastmodified":1449029800,
+    "wof:lastmodified":1466656405,
     "wof:name":"Crossroads Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-78.579417,35.517177,-78.579417,35.517177],
-  "geometry": {"coordinates":[-78.579417,35.517177],"type":"Point"}
+  "bbox": [
+    -78.579417,
+    35.517177,
+    -78.579417,
+    35.517177
+],
+  "geometry": {"coordinates":[-78.57941700000001,35.517177],"type":"Point"}
 }

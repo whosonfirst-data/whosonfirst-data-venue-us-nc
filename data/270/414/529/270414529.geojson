@@ -2,13 +2,14 @@
   "id": 270414529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.804463,35.584972,-78.804463,35.584972",
     "geom:latitude":35.584972,
     "geom:longitude":-78.804463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Bay Tree St",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270414529,
-    "wof:lastmodified":1449009782,
+    "wof:lastmodified":1466648319,
     "wof:name":"Bay Tree Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.804463,35.584972,-78.804463,35.584972],
+  "bbox": [
+    -78.804463,
+    35.584972,
+    -78.804463,
+    35.584972
+],
   "geometry": {"coordinates":[-78.804463,35.584972],"type":"Point"}
 }

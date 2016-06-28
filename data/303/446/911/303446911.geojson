@@ -2,13 +2,14 @@
   "id": 303446911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.003306,35.170086,-79.003306,35.170086",
     "geom:latitude":35.170086,
     "geom:longitude":-79.003306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Ethridge St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303446911,
-    "wof:lastmodified":1449000359,
+    "wof:lastmodified":1466649753,
     "wof:name":"Chapel",
     "wof:parent_id":85804719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chapel"
     ]
 },
-  "bbox": [-79.003306,35.170086,-79.003306,35.170086],
-  "geometry": {"coordinates":[-79.003306,35.170086],"type":"Point"}
+  "bbox": [
+    -79.003306,
+    35.170086,
+    -79.003306,
+    35.170086
+],
+  "geometry": {"coordinates":[-79.00330599999999,35.170086],"type":"Point"}
 }

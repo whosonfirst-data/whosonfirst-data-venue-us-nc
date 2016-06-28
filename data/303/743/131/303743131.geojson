@@ -2,13 +2,14 @@
   "id": 303743131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.163243,36.158259,-81.163243,36.158259",
     "geom:latitude":36.158259,
     "geom:longitude":-81.163243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Hickory St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303743131,
-    "wof:lastmodified":1449000552,
+    "wof:lastmodified":1466654038,
     "wof:name":"North Wilkesboro Housing",
     "wof:parent_id":85828719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.163243,36.158259,-81.163243,36.158259],
-  "geometry": {"coordinates":[-81.163243,36.158259],"type":"Point"}
+  "bbox": [
+    -81.163243,
+    36.158259,
+    -81.163243,
+    36.158259
+],
+  "geometry": {"coordinates":[-81.16324299999999,36.158259],"type":"Point"}
 }

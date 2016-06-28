@@ -2,13 +2,14 @@
   "id": 371179559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.812958,34.27932,-77.812958,34.27932",
     "geom:latitude":34.27932,
     "geom:longitude":-77.812958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7465 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371179559,
-    "wof:lastmodified":1449050028,
+    "wof:lastmodified":1466651100,
     "wof:name":"North 17 Garage",
     "wof:parent_id":85807111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-77.812958,34.27932,-77.812958,34.27932],
-  "geometry": {"coordinates":[-77.812958,34.27932],"type":"Point"}
+  "bbox": [
+    -77.812958,
+    34.27932,
+    -77.812958,
+    34.27932
+],
+  "geometry": {"coordinates":[-77.81295799999999,34.27932],"type":"Point"}
 }

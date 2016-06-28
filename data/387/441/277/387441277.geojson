@@ -2,13 +2,14 @@
   "id": 387441277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.438127,36.095178,-79.438127,36.095178",
     "geom:latitude":36.095178,
     "geom:longitude":-79.438127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W Front St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387441277,
-    "wof:lastmodified":1449056400,
+    "wof:lastmodified":1466655648,
     "wof:name":"Tasty Bakery",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-79.438127,36.095178,-79.438127,36.095178],
-  "geometry": {"coordinates":[-79.438127,36.095178],"type":"Point"}
+  "bbox": [
+    -79.438127,
+    36.095178,
+    -79.438127,
+    36.095178
+],
+  "geometry": {"coordinates":[-79.43812699999999,36.095178],"type":"Point"}
 }

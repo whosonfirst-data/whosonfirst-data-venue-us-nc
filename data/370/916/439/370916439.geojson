@@ -2,13 +2,14 @@
   "id": 370916439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.322364,35.625798,-77.322364,35.625798",
     "geom:latitude":35.625798,
     "geom:longitude":-77.322364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3778 US Hwy 264 E",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370916439,
-    "wof:lastmodified":1449030920,
+    "wof:lastmodified":1466656984,
     "wof:name":"East Carolina Homes Inc",
     "wof:parent_id":85824139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.322364,35.625798,-77.322364,35.625798],
-  "geometry": {"coordinates":[-77.322364,35.625798],"type":"Point"}
+  "bbox": [
+    -77.322364,
+    35.625798,
+    -77.322364,
+    35.625798
+],
+  "geometry": {"coordinates":[-77.32236399999999,35.625798],"type":"Point"}
 }

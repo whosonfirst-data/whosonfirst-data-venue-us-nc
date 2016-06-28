@@ -2,13 +2,14 @@
   "id": 270465193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.669947,36.446788,-81.669947,36.446788",
     "geom:latitude":36.446788,
     "geom:longitude":-81.669947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 Roundabout Rd",
     "sg:city":"Creston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270465193,
-    "wof:lastmodified":1449010310,
+    "wof:lastmodified":1466648981,
     "wof:name":"Violin Shop Solitude",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.669947,36.446788,-81.669947,36.446788],
-  "geometry": {"coordinates":[-81.669947,36.446788],"type":"Point"}
+  "bbox": [
+    -81.669947,
+    36.446788,
+    -81.669947,
+    36.446788
+],
+  "geometry": {"coordinates":[-81.66994699999999,36.446788],"type":"Point"}
 }

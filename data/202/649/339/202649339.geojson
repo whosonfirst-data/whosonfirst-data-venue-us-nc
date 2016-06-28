@@ -2,13 +2,14 @@
   "id": 202649339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.79965,35.753463,-79.79965,35.753463",
     "geom:latitude":35.753463,
     "geom:longitude":-79.79965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2022 Walnut St",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202649339,
-    "wof:lastmodified":1449061814,
+    "wof:lastmodified":1466655704,
     "wof:name":"William Donald Smith Surveyor",
     "wof:parent_id":85844107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-79.79965,35.753463,-79.79965,35.753463],
+  "bbox": [
+    -79.79965,
+    35.753463,
+    -79.79965,
+    35.753463
+],
   "geometry": {"coordinates":[-79.79965,35.753463],"type":"Point"}
 }

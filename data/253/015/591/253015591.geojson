@@ -2,13 +2,14 @@
   "id": 253015591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.648226,35.389376,-79.648226,35.389376",
     "geom:latitude":35.389376,
     "geom:longitude":-79.648226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15347 State Hwy 24/27",
     "sg:city":"Eagle Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253015591,
-    "wof:lastmodified":1449063486,
+    "wof:lastmodified":1466643321,
     "wof:name":"Annie's Country Florist",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.648226,35.389376,-79.648226,35.389376],
-  "geometry": {"coordinates":[-79.648226,35.389376],"type":"Point"}
+  "bbox": [
+    -79.648226,
+    35.389376,
+    -79.648226,
+    35.389376
+],
+  "geometry": {"coordinates":[-79.64822599999999,35.389376],"type":"Point"}
 }

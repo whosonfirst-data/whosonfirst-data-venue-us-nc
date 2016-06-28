@@ -2,13 +2,14 @@
   "id": 287054115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.768476,35.267053,-80.768476,35.267053",
     "geom:latitude":35.267053,
     "geom:longitude":-80.768476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5924 N Tryon St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287054115,
-    "wof:lastmodified":1449001071,
+    "wof:lastmodified":1466644002,
     "wof:name":"Acme Fence Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-80.768476,35.267053,-80.768476,35.267053],
-  "geometry": {"coordinates":[-80.768476,35.267053],"type":"Point"}
+  "bbox": [
+    -80.768476,
+    35.267053,
+    -80.768476,
+    35.267053
+],
+  "geometry": {"coordinates":[-80.76847600000001,35.267053],"type":"Point"}
 }

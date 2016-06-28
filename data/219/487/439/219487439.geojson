@@ -2,13 +2,14 @@
   "id": 219487439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.789206,35.858256,-79.789206,35.858256",
     "geom:latitude":35.858256,
     "geom:longitude":-79.789206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5417 Old Greensboro Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219487439,
-    "wof:lastmodified":1449071552,
+    "wof:lastmodified":1466644805,
     "wof:name":"Level Cross Elementary School",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.789206,35.858256,-79.789206,35.858256],
-  "geometry": {"coordinates":[-79.789206,35.858256],"type":"Point"}
+  "bbox": [
+    -79.789206,
+    35.858256,
+    -79.789206,
+    35.858256
+],
+  "geometry": {"coordinates":[-79.78920599999999,35.858256],"type":"Point"}
 }

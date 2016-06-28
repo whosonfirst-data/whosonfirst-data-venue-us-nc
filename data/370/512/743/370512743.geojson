@@ -2,13 +2,14 @@
   "id": 370512743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.715794,35.11728,-80.715794,35.11728",
     "geom:latitude":35.11728,
     "geom:longitude":-80.715794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"452 Matthews-Mint Hill Rd",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370512743,
-    "wof:lastmodified":1449031559,
+    "wof:lastmodified":1466652726,
     "wof:name":"Interior Concepts",
     "wof:parent_id":85811531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.715794,35.11728,-80.715794,35.11728],
+  "bbox": [
+    -80.715794,
+    35.11728,
+    -80.715794,
+    35.11728
+],
   "geometry": {"coordinates":[-80.715794,35.11728],"type":"Point"}
 }

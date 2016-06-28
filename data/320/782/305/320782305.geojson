@@ -2,13 +2,14 @@
   "id": 320782305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.751885,35.907905,-79.751885,35.907905",
     "geom:latitude":35.907905,
     "geom:longitude":-79.751885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6806 Taylor Woods Ln",
     "sg:city":"Pleasant Garden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320782305,
-    "wof:lastmodified":1449011244,
+    "wof:lastmodified":1466656185,
     "wof:name":"Carter Construction",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.751885,35.907905,-79.751885,35.907905],
+  "bbox": [
+    -79.751885,
+    35.907905,
+    -79.751885,
+    35.907905
+],
   "geometry": {"coordinates":[-79.751885,35.907905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320500001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.477208,36.13067,-79.477208,36.13067",
     "geom:latitude":36.13067,
     "geom:longitude":-79.477208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2685 Durham St Exd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320500001,
-    "wof:lastmodified":1449012191,
+    "wof:lastmodified":1466652370,
     "wof:name":"Wsml Radio",
     "wof:parent_id":85845553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-79.477208,36.13067,-79.477208,36.13067],
+  "bbox": [
+    -79.477208,
+    36.13067,
+    -79.477208,
+    36.13067
+],
   "geometry": {"coordinates":[-79.477208,36.13067],"type":"Point"}
 }

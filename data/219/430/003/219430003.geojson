@@ -2,13 +2,14 @@
   "id": 219430003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.00173,36.068009,-79.00173,36.068009",
     "geom:latitude":36.068009,
     "geom:longitude":-79.00173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 Grady Ln",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219430003,
-    "wof:lastmodified":1449072632,
+    "wof:lastmodified":1466644353,
     "wof:name":"Quinn Consulting",
     "wof:parent_id":85807487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-79.00173,36.068009,-79.00173,36.068009],
-  "geometry": {"coordinates":[-79.00173,36.068009],"type":"Point"}
+  "bbox": [
+    -79.00173,
+    36.068009,
+    -79.00173,
+    36.068009
+],
+  "geometry": {"coordinates":[-79.00172999999999,36.068009],"type":"Point"}
 }

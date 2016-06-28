@@ -2,13 +2,14 @@
   "id": 354000565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.636057,35.626604,-82.636057,35.626604",
     "geom:latitude":35.626604,
     "geom:longitude":-82.636057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Sunset Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354000565,
-    "wof:lastmodified":1449066204,
+    "wof:lastmodified":1466655850,
     "wof:name":"P F Guns",
     "wof:parent_id":85808963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gun"
     ]
 },
-  "bbox": [-82.636057,35.626604,-82.636057,35.626604],
-  "geometry": {"coordinates":[-82.636057,35.626604],"type":"Point"}
+  "bbox": [
+    -82.636057,
+    35.626604,
+    -82.636057,
+    35.626604
+],
+  "geometry": {"coordinates":[-82.63605699999999,35.626604],"type":"Point"}
 }

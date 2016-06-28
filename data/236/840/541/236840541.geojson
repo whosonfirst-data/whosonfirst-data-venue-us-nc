@@ -2,13 +2,14 @@
   "id": 236840541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.51502,36.080278,-79.51502,36.080278",
     "geom:latitude":36.080278,
     "geom:longitude":-79.51502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3364 S Church St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236840541,
-    "wof:lastmodified":1449004349,
+    "wof:lastmodified":1466650758,
     "wof:name":"Carolina Restaurant Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.51502,36.080278,-79.51502,36.080278],
-  "geometry": {"coordinates":[-79.51502,36.080278],"type":"Point"}
+  "bbox": [
+    -79.51502,
+    36.080278,
+    -79.51502,
+    36.080278
+],
+  "geometry": {"coordinates":[-79.51502000000001,36.080278],"type":"Point"}
 }

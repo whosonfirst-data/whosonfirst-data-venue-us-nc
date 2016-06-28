@@ -2,13 +2,14 @@
   "id": 203209441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.783719,35.372906,-80.783719,35.372906",
     "geom:latitude":35.372906,
     "geom:longitude":-80.783719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5045 Ridge Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203209441,
-    "wof:lastmodified":1449026665,
+    "wof:lastmodified":1466655251,
     "wof:name":"Highland Creek Amoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-80.783719,35.372906,-80.783719,35.372906],
+  "bbox": [
+    -80.783719,
+    35.372906,
+    -80.783719,
+    35.372906
+],
   "geometry": {"coordinates":[-80.783719,35.372906],"type":"Point"}
 }

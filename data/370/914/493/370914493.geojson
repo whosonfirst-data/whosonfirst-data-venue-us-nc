@@ -2,13 +2,14 @@
   "id": 370914493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.93943,34.209745,-77.93943,34.209745",
     "geom:latitude":34.209745,
     "geom:longitude":-77.93943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 Amphitheater Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370914493,
-    "wof:lastmodified":1449030377,
+    "wof:lastmodified":1466656982,
     "wof:name":"Elderhaus Inc",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.93943,34.209745,-77.93943,34.209745],
+  "bbox": [
+    -77.93943,
+    34.209745,
+    -77.93943,
+    34.209745
+],
   "geometry": {"coordinates":[-77.93943,34.209745],"type":"Point"}
 }

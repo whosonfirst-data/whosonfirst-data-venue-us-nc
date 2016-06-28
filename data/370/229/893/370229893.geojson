@@ -2,13 +2,14 @@
   "id": 370229893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.734583,35.75454,-78.734583,35.75454",
     "geom:latitude":35.75454,
     "geom:longitude":-78.734583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5520 Dillard Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370229893,
-    "wof:lastmodified":1449031796,
+    "wof:lastmodified":1466649148,
     "wof:name":"Election Systems & Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-78.734583,35.75454,-78.734583,35.75454],
+  "bbox": [
+    -78.734583,
+    35.75454,
+    -78.734583,
+    35.75454
+],
   "geometry": {"coordinates":[-78.734583,35.75454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353983031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.60546,36.069293,-76.60546,36.069293",
     "geom:latitude":36.069293,
     "geom:longitude":-76.60546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 N Broad St",
     "sg:city":"Edenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353983031,
-    "wof:lastmodified":1449020597,
+    "wof:lastmodified":1466653921,
     "wof:name":"Edenton Floral Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.60546,36.069293,-76.60546,36.069293],
-  "geometry": {"coordinates":[-76.60546,36.069293],"type":"Point"}
+  "bbox": [
+    -76.60546,
+    36.069293,
+    -76.60546,
+    36.069293
+],
+  "geometry": {"coordinates":[-76.60545999999999,36.069293],"type":"Point"}
 }

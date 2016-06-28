@@ -2,13 +2,14 @@
   "id": 387952859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.42418,36.08256,-79.42418,36.08256",
     "geom:latitude":36.08256,
     "geom:longitude":-79.42418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1131 E Webb Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387952859,
-    "wof:lastmodified":1449058849,
+    "wof:lastmodified":1466657940,
     "wof:name":"Bennett-Hockett Supply Co",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-79.42418,36.08256,-79.42418,36.08256],
-  "geometry": {"coordinates":[-79.42418,36.08256],"type":"Point"}
+  "bbox": [
+    -79.42418,
+    36.08256,
+    -79.42418,
+    36.08256
+],
+  "geometry": {"coordinates":[-79.42418000000001,36.08256],"type":"Point"}
 }

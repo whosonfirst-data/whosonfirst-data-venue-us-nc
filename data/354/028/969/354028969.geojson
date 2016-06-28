@@ -2,13 +2,14 @@
   "id": 354028969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.879011,35.444485,-80.879011,35.444485",
     "geom:latitude":35.444485,
     "geom:longitude":-80.879011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8625 Townley Rd",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354028969,
-    "wof:lastmodified":1449066861,
+    "wof:lastmodified":1466647883,
     "wof:name":"Harris Group Birkdale",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.879011,35.444485,-80.879011,35.444485],
-  "geometry": {"coordinates":[-80.879011,35.444485],"type":"Point"}
+  "bbox": [
+    -80.879011,
+    35.444485,
+    -80.879011,
+    35.444485
+],
+  "geometry": {"coordinates":[-80.87901100000001,35.444485],"type":"Point"}
 }

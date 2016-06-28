@@ -2,13 +2,14 @@
   "id": 303561691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.728958,34.905909,-80.728958,34.905909",
     "geom:latitude":34.905909,
     "geom:longitude":-80.728958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8217 Old Waxhaw Monroe Rd",
     "sg:city":"Waxhaw",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303561691,
-    "wof:lastmodified":1448999851,
+    "wof:lastmodified":1466651405,
     "wof:name":"American Pressure Wshg & Pntg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hanging"
     ]
 },
-  "bbox": [-80.728958,34.905909,-80.728958,34.905909],
-  "geometry": {"coordinates":[-80.728958,34.905909],"type":"Point"}
+  "bbox": [
+    -80.728958,
+    34.905909,
+    -80.728958,
+    34.905909
+],
+  "geometry": {"coordinates":[-80.72895800000001,34.905909],"type":"Point"}
 }

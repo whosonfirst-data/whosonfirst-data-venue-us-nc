@@ -2,13 +2,14 @@
   "id": 253645131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.697207,35.900756,-78.697207,35.900756",
     "geom:latitude":35.900756,
     "geom:longitude":-78.697207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8844 Foggy Bottom Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253645131,
-    "wof:lastmodified":1449063104,
+    "wof:lastmodified":1466650090,
     "wof:name":"Ces Publications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [-78.697207,35.900756,-78.697207,35.900756],
-  "geometry": {"coordinates":[-78.697207,35.900756],"type":"Point"}
+  "bbox": [
+    -78.697207,
+    35.900756,
+    -78.697207,
+    35.900756
+],
+  "geometry": {"coordinates":[-78.69720700000001,35.900756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220119069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.326848,35.515137,-78.326848,35.515137",
     "geom:latitude":35.515137,
     "geom:longitude":-78.326848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 N Brightleaf Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220119069,
-    "wof:lastmodified":1449074626,
+    "wof:lastmodified":1466644157,
     "wof:name":"Joe's Upholstery",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-78.326848,35.515137,-78.326848,35.515137],
+  "bbox": [
+    -78.326848,
+    35.515137,
+    -78.326848,
+    35.515137
+],
   "geometry": {"coordinates":[-78.326848,35.515137],"type":"Point"}
 }

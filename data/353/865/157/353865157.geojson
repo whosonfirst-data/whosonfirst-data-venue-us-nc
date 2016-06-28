@@ -2,13 +2,14 @@
   "id": 353865157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.551431,35.593794,-82.551431,35.593794",
     "geom:latitude":35.593794,
     "geom:longitude":-82.551431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Biltmore Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353865157,
-    "wof:lastmodified":1449020184,
+    "wof:lastmodified":1466652497,
     "wof:name":"Shangri LA Fusion Cafe",
     "wof:parent_id":85830137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.551431,35.593794,-82.551431,35.593794],
-  "geometry": {"coordinates":[-82.551431,35.593794],"type":"Point"}
+  "bbox": [
+    -82.551431,
+    35.593794,
+    -82.551431,
+    35.593794
+],
+  "geometry": {"coordinates":[-82.55143099999999,35.593794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286523009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.053553,35.547369,-77.053553,35.547369",
     "geom:latitude":35.547369,
     "geom:longitude":-77.053553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W 5th St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286523009,
-    "wof:lastmodified":1449016882,
+    "wof:lastmodified":1466646653,
     "wof:name":"J & L Automotive",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-77.053553,35.547369,-77.053553,35.547369],
-  "geometry": {"coordinates":[-77.053553,35.547369],"type":"Point"}
+  "bbox": [
+    -77.053553,
+    35.547369,
+    -77.053553,
+    35.547369
+],
+  "geometry": {"coordinates":[-77.05355299999999,35.547369],"type":"Point"}
 }

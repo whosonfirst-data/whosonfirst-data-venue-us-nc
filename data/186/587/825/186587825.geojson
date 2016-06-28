@@ -2,13 +2,14 @@
   "id": 186587825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.014203,35.985293,-80.014203,35.985293",
     "geom:latitude":35.985293,
     "geom:longitude":-80.014203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Crossing Way",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186587825,
-    "wof:lastmodified":1449051310,
+    "wof:lastmodified":1466654836,
     "wof:name":"Church Of Jesus Christ Apt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.014203,35.985293,-80.014203,35.985293],
-  "geometry": {"coordinates":[-80.014203,35.985293],"type":"Point"}
+  "bbox": [
+    -80.014203,
+    35.985293,
+    -80.014203,
+    35.985293
+],
+  "geometry": {"coordinates":[-80.01420299999999,35.985293],"type":"Point"}
 }

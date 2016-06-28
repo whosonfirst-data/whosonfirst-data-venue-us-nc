@@ -2,13 +2,14 @@
   "id": 236908745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.880256,35.452183,-80.880256,35.452183",
     "geom:latitude":35.452183,
     "geom:longitude":-80.880256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8641 Camberly Rd",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236908745,
-    "wof:lastmodified":1449003536,
+    "wof:lastmodified":1466651360,
     "wof:name":"Camberly Homes",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.880256,35.452183,-80.880256,35.452183],
+  "bbox": [
+    -80.880256,
+    35.452183,
+    -80.880256,
+    35.452183
+],
   "geometry": {"coordinates":[-80.880256,35.452183],"type":"Point"}
 }

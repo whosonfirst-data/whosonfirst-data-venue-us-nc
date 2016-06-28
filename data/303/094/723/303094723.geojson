@@ -2,13 +2,14 @@
   "id": 303094723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.850879,34.232631,-77.850879,34.232631",
     "geom:latitude":34.232631,
     "geom:longitude":-77.850879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6314 Mallard St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303094723,
-    "wof:lastmodified":1448999653,
+    "wof:lastmodified":1466644613,
     "wof:name":"Carriage House Properties LLC",
     "wof:parent_id":85809845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-77.850879,34.232631,-77.850879,34.232631],
-  "geometry": {"coordinates":[-77.850879,34.232631],"type":"Point"}
+  "bbox": [
+    -77.850879,
+    34.232631,
+    -77.850879,
+    34.232631
+],
+  "geometry": {"coordinates":[-77.85087900000001,34.232631],"type":"Point"}
 }

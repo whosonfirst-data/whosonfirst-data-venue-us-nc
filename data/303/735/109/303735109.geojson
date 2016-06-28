@@ -2,13 +2,14 @@
   "id": 303735109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.535383,35.898332,-77.535383,35.898332",
     "geom:latitude":35.898332,
     "geom:longitude":-77.535383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Church St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303735109,
-    "wof:lastmodified":1449000509,
+    "wof:lastmodified":1466653928,
     "wof:name":"Tarboro Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-77.535383,35.898332,-77.535383,35.898332],
+  "bbox": [
+    -77.535383,
+    35.898332,
+    -77.535383,
+    35.898332
+],
   "geometry": {"coordinates":[-77.535383,35.898332],"type":"Point"}
 }

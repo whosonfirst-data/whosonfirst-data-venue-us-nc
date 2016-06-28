@@ -2,13 +2,14 @@
   "id": 286614943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.828714,34.234372,-77.828714,34.234372",
     "geom:latitude":34.234372,
     "geom:longitude":-77.828714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Military Cutoff Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286614943,
-    "wof:lastmodified":1449018176,
+    "wof:lastmodified":1466647934,
     "wof:name":"Urgent Care of Wilmington PA",
     "wof:parent_id":85809845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-77.828714,34.234372,-77.828714,34.234372],
-  "geometry": {"coordinates":[-77.828714,34.234372],"type":"Point"}
+  "bbox": [
+    -77.828714,
+    34.234372,
+    -77.828714,
+    34.234372
+],
+  "geometry": {"coordinates":[-77.82871400000001,34.234372],"type":"Point"}
 }

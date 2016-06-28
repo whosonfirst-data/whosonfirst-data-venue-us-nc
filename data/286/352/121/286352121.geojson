@@ -2,13 +2,14 @@
   "id": 286352121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.657389,35.784044,-78.657389,35.784044",
     "geom:latitude":35.784044,
     "geom:longitude":-78.657389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Hillcrest Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286352121,
-    "wof:lastmodified":1449017010,
+    "wof:lastmodified":1466644408,
     "wof:name":"Cms Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-78.657389,35.784044,-78.657389,35.784044],
-  "geometry": {"coordinates":[-78.657389,35.784044],"type":"Point"}
+  "bbox": [
+    -78.657389,
+    35.784044,
+    -78.657389,
+    35.784044
+],
+  "geometry": {"coordinates":[-78.65738899999999,35.784044],"type":"Point"}
 }

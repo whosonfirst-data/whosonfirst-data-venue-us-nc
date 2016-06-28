@@ -2,13 +2,14 @@
   "id": 303174825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.852816,35.251725,-80.852816,35.251725",
     "geom:latitude":35.251725,
     "geom:longitude":-80.852816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Oaklawn Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303174825,
-    "wof:lastmodified":1448998450,
+    "wof:lastmodified":1466645829,
     "wof:name":"Oaklawn Elem Schl of Mth Scnc",
     "wof:parent_id":85806031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-80.852816,35.251725,-80.852816,35.251725],
+  "bbox": [
+    -80.852816,
+    35.251725,
+    -80.852816,
+    35.251725
+],
   "geometry": {"coordinates":[-80.852816,35.251725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236199619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.875281,35.198327,-80.875281,35.198327",
     "geom:latitude":35.198327,
     "geom:longitude":-80.875281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3251 S Tryon St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236199619,
-    "wof:lastmodified":1449001929,
+    "wof:lastmodified":1466645019,
     "wof:name":"CASE Consulting",
     "wof:parent_id":85847687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-80.875281,35.198327,-80.875281,35.198327],
+  "bbox": [
+    -80.875281,
+    35.198327,
+    -80.875281,
+    35.198327
+],
   "geometry": {"coordinates":[-80.875281,35.198327],"type":"Point"}
 }

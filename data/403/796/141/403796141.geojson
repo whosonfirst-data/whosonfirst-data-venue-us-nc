@@ -2,13 +2,14 @@
   "id": 403796141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.18613,35.707503,-81.18613,35.707503",
     "geom:latitude":35.707503,
     "geom:longitude":-81.18613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 McLin Creek Rd N",
     "sg:city":"Conover",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403796141,
-    "wof:lastmodified":1449055257,
+    "wof:lastmodified":1466651520,
     "wof:name":"Sutton Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.18613,35.707503,-81.18613,35.707503],
-  "geometry": {"coordinates":[-81.18613,35.707503],"type":"Point"}
+  "bbox": [
+    -81.18613,
+    35.707503,
+    -81.18613,
+    35.707503
+],
+  "geometry": {"coordinates":[-81.18613000000001,35.707503],"type":"Point"}
 }

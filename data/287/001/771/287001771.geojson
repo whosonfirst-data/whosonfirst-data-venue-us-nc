@@ -2,13 +2,14 @@
   "id": 287001771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.54981,35.592821,-80.54981,35.592821",
     "geom:latitude":35.592821,
     "geom:longitude":-80.54981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6370 S Main St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287001771,
-    "wof:lastmodified":1449000865,
+    "wof:lastmodified":1466643237,
     "wof:name":"Southern Cross Apartments",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.54981,35.592821,-80.54981,35.592821],
-  "geometry": {"coordinates":[-80.54981,35.592821],"type":"Point"}
+  "bbox": [
+    -80.54981,
+    35.592821,
+    -80.54981,
+    35.592821
+],
+  "geometry": {"coordinates":[-80.54980999999999,35.592821],"type":"Point"}
 }

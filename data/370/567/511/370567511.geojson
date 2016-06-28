@@ -2,13 +2,14 @@
   "id": 370567511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.516326,36.001811,-79.516326,36.001811",
     "geom:latitude":36.001811,
     "geom:longitude":-79.516326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3907 Clapp Mill Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370567511,
-    "wof:lastmodified":1449032497,
+    "wof:lastmodified":1466653450,
     "wof:name":"A Gaude Audio Disc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-79.516326,36.001811,-79.516326,36.001811],
-  "geometry": {"coordinates":[-79.516326,36.001811],"type":"Point"}
+  "bbox": [
+    -79.516326,
+    36.001811,
+    -79.516326,
+    36.001811
+],
+  "geometry": {"coordinates":[-79.51632600000001,36.001811],"type":"Point"}
 }

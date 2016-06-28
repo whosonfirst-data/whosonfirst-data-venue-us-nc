@@ -2,13 +2,14 @@
   "id": 202399913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.497779,34.308403,-78.497779,34.308403",
     "geom:latitude":34.308403,
     "geom:longitude":-78.497779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Pine St",
     "sg:city":"Lake Waccamaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202399913,
-    "wof:lastmodified":1449060551,
+    "wof:lastmodified":1466654225,
     "wof:name":"Alsup John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-78.497779,34.308403,-78.497779,34.308403],
-  "geometry": {"coordinates":[-78.497779,34.308403],"type":"Point"}
+  "bbox": [
+    -78.497779,
+    34.308403,
+    -78.497779,
+    34.308403
+],
+  "geometry": {"coordinates":[-78.49777899999999,34.308403],"type":"Point"}
 }

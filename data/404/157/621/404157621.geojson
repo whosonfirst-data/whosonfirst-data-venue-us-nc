@@ -2,13 +2,14 @@
   "id": 404157621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.386024,36.469491,-78.386024,36.469491",
     "geom:latitude":36.469491,
     "geom:longitude":-78.386024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4848 Thomas Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404157621,
-    "wof:lastmodified":1449040153,
+    "wof:lastmodified":1466653283,
     "wof:name":"Auto Motion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.386024,36.469491,-78.386024,36.469491],
-  "geometry": {"coordinates":[-78.386024,36.469491],"type":"Point"}
+  "bbox": [
+    -78.386024,
+    36.469491,
+    -78.386024,
+    36.469491
+],
+  "geometry": {"coordinates":[-78.38602400000001,36.469491],"type":"Point"}
 }

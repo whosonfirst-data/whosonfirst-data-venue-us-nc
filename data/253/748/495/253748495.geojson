@@ -2,13 +2,14 @@
   "id": 253748495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.979477,35.395964,-77.979477,35.395964",
     "geom:latitude":35.395964,
     "geom:longitude":-77.979477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 N Clingman St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253748495,
-    "wof:lastmodified":1449065036,
+    "wof:lastmodified":1466651350,
     "wof:name":"Goldsboro Central Maintenance",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-77.979477,35.395964,-77.979477,35.395964],
+  "bbox": [
+    -77.979477,
+    35.395964,
+    -77.979477,
+    35.395964
+],
   "geometry": {"coordinates":[-77.979477,35.395964],"type":"Point"}
 }

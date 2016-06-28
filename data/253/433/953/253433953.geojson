@@ -2,13 +2,14 @@
   "id": 253433953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.522309,35.870065,-78.522309,35.870065",
     "geom:latitude":35.870065,
     "geom:longitude":-78.522309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3745 Cashew Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253433953,
-    "wof:lastmodified":1449063162,
+    "wof:lastmodified":1466647552,
     "wof:name":"Triangle Phlebotomy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.522309,35.870065,-78.522309,35.870065],
-  "geometry": {"coordinates":[-78.522309,35.870065],"type":"Point"}
+  "bbox": [
+    -78.522309,
+    35.870065,
+    -78.522309,
+    35.870065
+],
+  "geometry": {"coordinates":[-78.52230900000001,35.870065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303223629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.541227,35.300324,-81.541227,35.300324",
     "geom:latitude":35.300324,
     "geom:longitude":-81.541227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Lee St",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":303223629,
-    "wof:lastmodified":1448998289,
+    "wof:lastmodified":1466646557,
     "wof:name":"Carolina Foot & Ankle PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-81.541227,35.300324,-81.541227,35.300324],
-  "geometry": {"coordinates":[-81.541227,35.300324],"type":"Point"}
+  "bbox": [
+    -81.541227,
+    35.300324,
+    -81.541227,
+    35.300324
+],
+  "geometry": {"coordinates":[-81.54122700000001,35.300324],"type":"Point"}
 }

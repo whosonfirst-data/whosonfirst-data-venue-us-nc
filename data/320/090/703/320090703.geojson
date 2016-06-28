@@ -2,13 +2,14 @@
   "id": 320090703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.900911,35.731166,-78.900911,35.731166",
     "geom:latitude":35.731166,
     "geom:longitude":-78.900911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Brierridge Dr",
     "sg:city":"Apex",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320090703,
-    "wof:lastmodified":1449014206,
+    "wof:lastmodified":1466646580,
     "wof:name":"D R Horton Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-78.900911,35.731166,-78.900911,35.731166],
-  "geometry": {"coordinates":[-78.900911,35.731166],"type":"Point"}
+  "bbox": [
+    -78.900911,
+    35.731166,
+    -78.900911,
+    35.731166
+],
+  "geometry": {"coordinates":[-78.90091099999999,35.731166],"type":"Point"}
 }

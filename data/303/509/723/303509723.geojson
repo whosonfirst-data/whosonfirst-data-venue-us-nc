@@ -2,13 +2,14 @@
   "id": 303509723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.843848,35.379417,-80.843848,35.379417",
     "geom:latitude":35.379417,
     "geom:longitude":-80.843848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11600 Statesville Rd",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303509723,
-    "wof:lastmodified":1448998220,
+    "wof:lastmodified":1466650660,
     "wof:name":"Southern Pools & Spas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.843848,35.379417,-80.843848,35.379417],
-  "geometry": {"coordinates":[-80.843848,35.379417],"type":"Point"}
+  "bbox": [
+    -80.843848,
+    35.379417,
+    -80.843848,
+    35.379417
+],
+  "geometry": {"coordinates":[-80.84384799999999,35.379417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186507309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.501252,35.624328,-82.501252,35.624328",
     "geom:latitude":35.624328,
     "geom:longitude":-82.501252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"378 E Sondley Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186507309,
-    "wof:lastmodified":1449051747,
+    "wof:lastmodified":1466654418,
     "wof:name":"Davidson Jones & Associates",
     "wof:parent_id":85845703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-82.501252,35.624328,-82.501252,35.624328],
-  "geometry": {"coordinates":[-82.501252,35.624328],"type":"Point"}
+  "bbox": [
+    -82.501252,
+    35.624328,
+    -82.501252,
+    35.624328
+],
+  "geometry": {"coordinates":[-82.50125199999999,35.624328],"type":"Point"}
 }

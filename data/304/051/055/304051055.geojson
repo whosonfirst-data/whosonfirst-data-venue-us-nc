@@ -2,13 +2,14 @@
   "id": 304051055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.056239,35.030748,-79.056239,35.030748",
     "geom:latitude":35.030748,
     "geom:longitude":-79.056239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7711 Raeford Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304051055,
-    "wof:lastmodified":1449043946,
+    "wof:lastmodified":1466644885,
     "wof:name":"Link",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hairpiece"
     ]
 },
-  "bbox": [-79.056239,35.030748,-79.056239,35.030748],
-  "geometry": {"coordinates":[-79.056239,35.030748],"type":"Point"}
+  "bbox": [
+    -79.056239,
+    35.030748,
+    -79.056239,
+    35.030748
+],
+  "geometry": {"coordinates":[-79.05623900000001,35.030748],"type":"Point"}
 }

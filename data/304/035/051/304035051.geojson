@@ -2,13 +2,14 @@
   "id": 304035051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.637014,35.568888,-82.637014,35.568888",
     "geom:latitude":35.568888,
     "geom:longitude":-82.637014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Starnes Cove Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304035051,
-    "wof:lastmodified":1449044043,
+    "wof:lastmodified":1466644660,
     "wof:name":"Contract Carpets",
     "wof:parent_id":85802397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpet"
     ]
 },
-  "bbox": [-82.637014,35.568888,-82.637014,35.568888],
-  "geometry": {"coordinates":[-82.637014,35.568888],"type":"Point"}
+  "bbox": [
+    -82.637014,
+    35.568888,
+    -82.637014,
+    35.568888
+],
+  "geometry": {"coordinates":[-82.63701399999999,35.568888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320324741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.901119,34.164899,-77.901119,34.164899",
     "geom:latitude":34.164899,
     "geom:longitude":-77.901119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 Aftonshire Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320324741,
-    "wof:lastmodified":1449013435,
+    "wof:lastmodified":1466649837,
     "wof:name":"Bowman Beauty & Barber Supply",
     "wof:parent_id":85817219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "barber"
     ]
 },
-  "bbox": [-77.901119,34.164899,-77.901119,34.164899],
-  "geometry": {"coordinates":[-77.901119,34.164899],"type":"Point"}
+  "bbox": [
+    -77.901119,
+    34.164899,
+    -77.901119,
+    34.164899
+],
+  "geometry": {"coordinates":[-77.90111899999999,34.164899],"type":"Point"}
 }

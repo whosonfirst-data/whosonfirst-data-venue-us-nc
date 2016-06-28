@@ -2,13 +2,14 @@
   "id": 186591605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.165759,35.248558,-81.165759,35.248558",
     "geom:latitude":35.248558,
     "geom:longitude":-81.165759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Nottingham Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186591605,
-    "wof:lastmodified":1449051810,
+    "wof:lastmodified":1466654852,
     "wof:name":"Headliners",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.165759,35.248558,-81.165759,35.248558],
-  "geometry": {"coordinates":[-81.165759,35.248558],"type":"Point"}
+  "bbox": [
+    -81.165759,
+    35.248558,
+    -81.165759,
+    35.248558
+],
+  "geometry": {"coordinates":[-81.16575899999999,35.248558],"type":"Point"}
 }

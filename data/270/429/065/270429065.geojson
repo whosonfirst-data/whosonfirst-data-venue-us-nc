@@ -2,13 +2,14 @@
   "id": 270429065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.599613,35.455648,-80.599613,35.455648",
     "geom:latitude":35.455648,
     "geom:longitude":-80.599613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 North Ave",
     "sg:city":"Kannapolis",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270429065,
-    "wof:lastmodified":1449010995,
+    "wof:lastmodified":1466648505,
     "wof:name":"Magaldi Interior Designers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.599613,35.455648,-80.599613,35.455648],
-  "geometry": {"coordinates":[-80.599613,35.455648],"type":"Point"}
+  "bbox": [
+    -80.599613,
+    35.455648,
+    -80.599613,
+    35.455648
+],
+  "geometry": {"coordinates":[-80.59961300000001,35.455648],"type":"Point"}
 }

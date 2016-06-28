@@ -2,13 +2,14 @@
   "id": 353428351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.008851,35.763708,-78.008851,35.763708",
     "geom:latitude":35.763708,
     "geom:longitude":-78.008851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5033 US Hwy 264 Alt",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353428351,
-    "wof:lastmodified":1449020621,
+    "wof:lastmodified":1466647735,
     "wof:name":"Bojangles",
     "wof:parent_id":85829633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.008851,35.763708,-78.008851,35.763708],
-  "geometry": {"coordinates":[-78.008851,35.763708],"type":"Point"}
+  "bbox": [
+    -78.008851,
+    35.763708,
+    -78.008851,
+    35.763708
+],
+  "geometry": {"coordinates":[-78.00885100000001,35.763708],"type":"Point"}
 }

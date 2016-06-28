@@ -2,13 +2,14 @@
   "id": 387619715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.898791,35.065998,-78.898791,35.065998",
     "geom:latitude":35.065998,
     "geom:longitude":-78.898791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Bragg Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387619715,
-    "wof:lastmodified":1449056786,
+    "wof:lastmodified":1466656953,
     "wof:name":"Express Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.898791,35.065998,-78.898791,35.065998],
+  "bbox": [
+    -78.898791,
+    35.065998,
+    -78.898791,
+    35.065998
+],
   "geometry": {"coordinates":[-78.898791,35.065998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403807247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.966879,35.914534,-79.966879,35.914534",
     "geom:latitude":35.914534,
     "geom:longitude":-79.966879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Liberty Pl",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403807247,
-    "wof:lastmodified":1449054982,
+    "wof:lastmodified":1466651672,
     "wof:name":"Worley International",
     "wof:parent_id":85843865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.966879,35.914534,-79.966879,35.914534],
-  "geometry": {"coordinates":[-79.966879,35.914534],"type":"Point"}
+  "bbox": [
+    -79.966879,
+    35.914534,
+    -79.966879,
+    35.914534
+],
+  "geometry": {"coordinates":[-79.96687900000001,35.914534],"type":"Point"}
 }

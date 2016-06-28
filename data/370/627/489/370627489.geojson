@@ -2,13 +2,14 @@
   "id": 370627489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.295594,36.159239,-80.295594,36.159239",
     "geom:latitude":36.159239,
     "geom:longitude":-80.295594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4911 Brian Center Ln",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370627489,
-    "wof:lastmodified":1449032550,
+    "wof:lastmodified":1466654232,
     "wof:name":"Brian Center Health & Rtrmnt",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-80.295594,36.159239,-80.295594,36.159239],
-  "geometry": {"coordinates":[-80.295594,36.159239],"type":"Point"}
+  "bbox": [
+    -80.295594,
+    36.159239,
+    -80.295594,
+    36.159239
+],
+  "geometry": {"coordinates":[-80.29559399999999,36.159239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371101583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.088119,35.926166,-78.088119,35.926166",
     "geom:latitude":35.926166,
     "geom:longitude":-78.088119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6219 W Old Spring Hope Rd",
     "sg:city":"Spring Hope",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371101583,
-    "wof:lastmodified":1449049591,
+    "wof:lastmodified":1466650100,
     "wof:name":"AJB Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.088119,35.926166,-78.088119,35.926166],
-  "geometry": {"coordinates":[-78.088119,35.926166],"type":"Point"}
+  "bbox": [
+    -78.088119,
+    35.926166,
+    -78.088119,
+    35.926166
+],
+  "geometry": {"coordinates":[-78.08811900000001,35.926166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320322833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.548309,35.963035,-78.548309,35.963035",
     "geom:latitude":35.963035,
     "geom:longitude":-78.548309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3407 Archdale Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320322833,
-    "wof:lastmodified":1449011219,
+    "wof:lastmodified":1466649810,
     "wof:name":"Maya Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-78.548309,35.963035,-78.548309,35.963035],
+  "bbox": [
+    -78.548309,
+    35.963035,
+    -78.548309,
+    35.963035
+],
   "geometry": {"coordinates":[-78.548309,35.963035],"type":"Point"}
 }

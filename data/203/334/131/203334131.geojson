@@ -2,13 +2,14 @@
   "id": 203334131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.406224,34.773633,-77.406224,34.773633",
     "geom:latitude":34.773633,
     "geom:longitude":-77.406224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Little John Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203334131,
-    "wof:lastmodified":1449025459,
+    "wof:lastmodified":1466643490,
     "wof:name":"Military Medals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-77.406224,34.773633,-77.406224,34.773633],
-  "geometry": {"coordinates":[-77.406224,34.773633],"type":"Point"}
+  "bbox": [
+    -77.406224,
+    34.773633,
+    -77.406224,
+    34.773633
+],
+  "geometry": {"coordinates":[-77.40622399999999,34.773633],"type":"Point"}
 }

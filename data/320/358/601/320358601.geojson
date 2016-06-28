@@ -2,13 +2,14 @@
   "id": 320358601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.041975,35.084844,-77.041975,35.084844",
     "geom:latitude":35.084844,
     "geom:longitude":-77.041975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Howell Rd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320358601,
-    "wof:lastmodified":1449012829,
+    "wof:lastmodified":1466650327,
     "wof:name":"Howell Road Mini Storage",
     "wof:parent_id":85827311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mini"
     ]
 },
-  "bbox": [-77.041975,35.084844,-77.041975,35.084844],
-  "geometry": {"coordinates":[-77.041975,35.084844],"type":"Point"}
+  "bbox": [
+    -77.041975,
+    35.084844,
+    -77.041975,
+    35.084844
+],
+  "geometry": {"coordinates":[-77.04197499999999,35.084844],"type":"Point"}
 }

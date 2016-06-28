@@ -2,13 +2,14 @@
   "id": 353453389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.454294,35.647747,-78.454294,35.647747",
     "geom:latitude":35.647747,
     "geom:longitude":-78.454294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 E 2nd St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353453389,
-    "wof:lastmodified":1449020171,
+    "wof:lastmodified":1466647839,
     "wof:name":"Douglas Johnson",
     "wof:parent_id":85845801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-78.454294,35.647747,-78.454294,35.647747],
+  "bbox": [
+    -78.454294,
+    35.647747,
+    -78.454294,
+    35.647747
+],
   "geometry": {"coordinates":[-78.454294,35.647747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303503117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.808056,35.771561,-79.808056,35.771561",
     "geom:latitude":35.771561,
     "geom:longitude":-79.808056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2439 N Fayetteville St",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303503117,
-    "wof:lastmodified":1449000573,
+    "wof:lastmodified":1466650562,
     "wof:name":"Randolph Auto Parts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-79.808056,35.771561,-79.808056,35.771561],
-  "geometry": {"coordinates":[-79.808056,35.771561],"type":"Point"}
+  "bbox": [
+    -79.808056,
+    35.771561,
+    -79.808056,
+    35.771561
+],
+  "geometry": {"coordinates":[-79.80805599999999,35.771561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303577105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.745928,35.853615,-79.745928,35.853615",
     "geom:latitude":35.853615,
     "geom:longitude":-79.745928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1952 New Salem Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303577105,
-    "wof:lastmodified":1449000641,
+    "wof:lastmodified":1466651626,
     "wof:name":"Larry Cox",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-79.745928,35.853615,-79.745928,35.853615],
-  "geometry": {"coordinates":[-79.745928,35.853615],"type":"Point"}
+  "bbox": [
+    -79.745928,
+    35.853615,
+    -79.745928,
+    35.853615
+],
+  "geometry": {"coordinates":[-79.74592800000001,35.853615],"type":"Point"}
 }

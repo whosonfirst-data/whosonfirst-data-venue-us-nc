@@ -2,13 +2,14 @@
   "id": 370811771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.214586,35.383527,-83.214586,35.383527",
     "geom:latitude":35.383527,
     "geom:longitude":-83.214586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Allen St",
     "sg:city":"Sylva",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370811771,
-    "wof:lastmodified":1449030722,
+    "wof:lastmodified":1466656415,
     "wof:name":"Town of Sylva",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "municipality"
     ]
 },
-  "bbox": [-83.214586,35.383527,-83.214586,35.383527],
+  "bbox": [
+    -83.214586,
+    35.383527,
+    -83.214586,
+    35.383527
+],
   "geometry": {"coordinates":[-83.214586,35.383527],"type":"Point"}
 }

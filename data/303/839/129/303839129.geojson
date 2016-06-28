@@ -2,13 +2,14 @@
   "id": 303839129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253614,35.372761,-80.253614,35.372761",
     "geom:latitude":35.372761,
     "geom:longitude":-80.253614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29440 Nelson Mountain Rd",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303839129,
-    "wof:lastmodified":1448999590,
+    "wof:lastmodified":1466655432,
     "wof:name":"Mountain Brook Golf Course",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-80.253614,35.372761,-80.253614,35.372761],
+  "bbox": [
+    -80.253614,
+    35.372761,
+    -80.253614,
+    35.372761
+],
   "geometry": {"coordinates":[-80.253614,35.372761],"type":"Point"}
 }

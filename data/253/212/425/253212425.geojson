@@ -2,13 +2,14 @@
   "id": 253212425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.396765,36.007628,-80.396765,36.007628",
     "geom:latitude":36.007628,
     "geom:longitude":-80.396765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Epping Rd",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253212425,
-    "wof:lastmodified":1449064751,
+    "wof:lastmodified":1466645208,
     "wof:name":"Lounsbury Tree Svc",
     "wof:parent_id":85811307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-80.396765,36.007628,-80.396765,36.007628],
+  "bbox": [
+    -80.396765,
+    36.007628,
+    -80.396765,
+    36.007628
+],
   "geometry": {"coordinates":[-80.396765,36.007628],"type":"Point"}
 }

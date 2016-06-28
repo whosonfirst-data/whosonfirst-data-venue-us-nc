@@ -2,13 +2,14 @@
   "id": 303319615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.581825,35.582888,-82.581825,35.582888",
     "geom:latitude":35.582888,
     "geom:longitude":-82.581825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Wilmington St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303319615,
-    "wof:lastmodified":1448999116,
+    "wof:lastmodified":1466647941,
     "wof:name":"Biltmore Press Inc",
     "wof:parent_id":85842077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-82.581825,35.582888,-82.581825,35.582888],
-  "geometry": {"coordinates":[-82.581825,35.582888],"type":"Point"}
+  "bbox": [
+    -82.581825,
+    35.582888,
+    -82.581825,
+    35.582888
+],
+  "geometry": {"coordinates":[-82.58182499999999,35.582888],"type":"Point"}
 }

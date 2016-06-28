@@ -2,13 +2,14 @@
   "id": 403827263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.168955,36.111176,-80.168955,36.111176",
     "geom:latitude":36.111176,
     "geom:longitude":-80.168955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3475 Myer Lee Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403827263,
-    "wof:lastmodified":1449055105,
+    "wof:lastmodified":1466651955,
     "wof:name":"TSI",
     "wof:parent_id":85881829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-80.168955,36.111176,-80.168955,36.111176],
+  "bbox": [
+    -80.168955,
+    36.111176,
+    -80.168955,
+    36.111176
+],
   "geometry": {"coordinates":[-80.168955,36.111176],"type":"Point"}
 }

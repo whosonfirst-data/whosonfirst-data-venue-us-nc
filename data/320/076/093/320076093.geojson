@@ -2,13 +2,14 @@
   "id": 320076093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.146775,35.460223,-79.146775,35.460223",
     "geom:latitude":35.460223,
     "geom:longitude":-79.146775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 S Horner Blvd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320076093,
-    "wof:lastmodified":1449014158,
+    "wof:lastmodified":1466646372,
     "wof:name":"KERR Drug",
     "wof:parent_id":85827995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "finishing"
     ]
 },
-  "bbox": [-79.146775,35.460223,-79.146775,35.460223],
-  "geometry": {"coordinates":[-79.146775,35.460223],"type":"Point"}
+  "bbox": [
+    -79.146775,
+    35.460223,
+    -79.146775,
+    35.460223
+],
+  "geometry": {"coordinates":[-79.14677500000001,35.460223],"type":"Point"}
 }

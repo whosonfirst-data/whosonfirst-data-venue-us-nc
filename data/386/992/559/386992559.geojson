@@ -2,13 +2,14 @@
   "id": 386992559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.954001,35.671682,-77.954001,35.671682",
     "geom:latitude":35.671682,
     "geom:longitude":-77.954001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4206 Williamson Rd",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386992559,
-    "wof:lastmodified":1449028770,
+    "wof:lastmodified":1466650217,
     "wof:name":"Industrial Supply Corp",
     "wof:parent_id":85857683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.954001,35.671682,-77.954001,35.671682],
-  "geometry": {"coordinates":[-77.954001,35.671682],"type":"Point"}
+  "bbox": [
+    -77.954001,
+    35.671682,
+    -77.954001,
+    35.671682
+],
+  "geometry": {"coordinates":[-77.95400100000001,35.671682],"type":"Point"}
 }

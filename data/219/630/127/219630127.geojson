@@ -2,13 +2,14 @@
   "id": 219630127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199419,35.356041,-80.199419,35.356041",
     "geom:latitude":35.356041,
     "geom:longitude":-80.199419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N 1st St",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219630127,
-    "wof:lastmodified":1449071653,
+    "wof:lastmodified":1466645812,
     "wof:name":"Spina Care Of The Carolinas",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.199419,35.356041,-80.199419,35.356041],
-  "geometry": {"coordinates":[-80.199419,35.356041],"type":"Point"}
+  "bbox": [
+    -80.199419,
+    35.356041,
+    -80.199419,
+    35.356041
+],
+  "geometry": {"coordinates":[-80.19941900000001,35.356041],"type":"Point"}
 }

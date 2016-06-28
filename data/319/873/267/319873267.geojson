@@ -2,13 +2,14 @@
   "id": 319873267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945458,34.229404,-77.945458,34.229404",
     "geom:latitude":34.229404,
     "geom:longitude":-77.945458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 S 3rd St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319873267,
-    "wof:lastmodified":1449024259,
+    "wof:lastmodified":1466645652,
     "wof:name":"The Worth House",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [-77.945458,34.229404,-77.945458,34.229404],
+  "bbox": [
+    -77.945458,
+    34.229404,
+    -77.945458,
+    34.229404
+],
   "geometry": {"coordinates":[-77.945458,34.229404],"type":"Point"}
 }

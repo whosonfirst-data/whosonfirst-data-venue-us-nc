@@ -2,13 +2,14 @@
   "id": 386925295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.551887,35.598344,-82.551887,35.598344",
     "geom:latitude":35.598344,
     "geom:longitude":-82.551887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 N Market St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386925295,
-    "wof:lastmodified":1449028626,
+    "wof:lastmodified":1466649320,
     "wof:name":"Wilkie Paramedical Svc Examone",
     "wof:parent_id":85825097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgical"
     ]
 },
-  "bbox": [-82.551887,35.598344,-82.551887,35.598344],
-  "geometry": {"coordinates":[-82.551887,35.598344],"type":"Point"}
+  "bbox": [
+    -82.551887,
+    35.598344,
+    -82.551887,
+    35.598344
+],
+  "geometry": {"coordinates":[-82.55188699999999,35.598344],"type":"Point"}
 }

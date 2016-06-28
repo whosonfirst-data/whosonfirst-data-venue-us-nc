@@ -2,13 +2,14 @@
   "id": 286950373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.825383,35.267493,-80.825383,35.267493",
     "geom:latitude":35.267493,
     "geom:longitude":-80.825383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Woodpark Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286950373,
-    "wof:lastmodified":1449016331,
+    "wof:lastmodified":1466652523,
     "wof:name":"Coca-Cola",
     "wof:parent_id":85815277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.825383,35.267493,-80.825383,35.267493],
+  "bbox": [
+    -80.825383,
+    35.267493,
+    -80.825383,
+    35.267493
+],
   "geometry": {"coordinates":[-80.825383,35.267493],"type":"Point"}
 }

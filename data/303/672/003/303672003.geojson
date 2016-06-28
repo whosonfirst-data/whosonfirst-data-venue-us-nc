@@ -2,13 +2,14 @@
   "id": 303672003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.231951,36.305209,-76.231951,36.305209",
     "geom:latitude":36.305209,
     "geom:longitude":-76.231951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 W Elizabeth St",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303672003,
-    "wof:lastmodified":1448998276,
+    "wof:lastmodified":1466653004,
     "wof:name":"Eyeball Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.231951,36.305209,-76.231951,36.305209],
+  "bbox": [
+    -76.231951,
+    36.305209,
+    -76.231951,
+    36.305209
+],
   "geometry": {"coordinates":[-76.231951,36.305209],"type":"Point"}
 }

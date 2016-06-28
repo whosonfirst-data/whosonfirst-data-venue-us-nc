@@ -2,13 +2,14 @@
   "id": 303865509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.911627,35.234639,-80.911627,35.234639",
     "geom:latitude":35.234639,
     "geom:longitude":-80.911627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2916 Interstate St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303865509,
-    "wof:lastmodified":1448999963,
+    "wof:lastmodified":1466655827,
     "wof:name":"Eastern Supply Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scaffolding"
     ]
 },
-  "bbox": [-80.911627,35.234639,-80.911627,35.234639],
+  "bbox": [
+    -80.911627,
+    35.234639,
+    -80.911627,
+    35.234639
+],
   "geometry": {"coordinates":[-80.911627,35.234639],"type":"Point"}
 }

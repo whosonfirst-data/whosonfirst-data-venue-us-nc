@@ -2,13 +2,14 @@
   "id": 387890079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.687491,35.741913,-81.687491,35.741913",
     "geom:latitude":35.741913,
     "geom:longitude":-81.687491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 College St",
     "sg:city":"Boone",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387890079,
-    "wof:lastmodified":1449056937,
+    "wof:lastmodified":1466657959,
     "wof:name":"Carol Grotnes Belk Library",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.687491,35.741913,-81.687491,35.741913],
-  "geometry": {"coordinates":[-81.687491,35.741913],"type":"Point"}
+  "bbox": [
+    -81.687491,
+    35.741913,
+    -81.687491,
+    35.741913
+],
+  "geometry": {"coordinates":[-81.68749099999999,35.741913],"type":"Point"}
 }

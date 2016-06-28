@@ -2,13 +2,14 @@
   "id": 203320441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.813963,35.272667,-80.813963,35.272667",
     "geom:latitude":35.272667,
     "geom:longitude":-80.813963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4239 Joe St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203320441,
-    "wof:lastmodified":1449025392,
+    "wof:lastmodified":1466643382,
     "wof:name":"Floor Sweep",
     "wof:parent_id":85814373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.813963,35.272667,-80.813963,35.272667],
+  "bbox": [
+    -80.813963,
+    35.272667,
+    -80.813963,
+    35.272667
+],
   "geometry": {"coordinates":[-80.813963,35.272667],"type":"Point"}
 }

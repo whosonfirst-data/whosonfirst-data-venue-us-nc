@@ -2,13 +2,14 @@
   "id": 202781193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.193098,36.159102,-81.193098,36.159102",
     "geom:latitude":36.159102,
     "geom:longitude":-81.193098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Oakley Dr",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202781193,
-    "wof:lastmodified":1449060584,
+    "wof:lastmodified":1466644019,
     "wof:name":"Tires After Hours",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-81.193098,36.159102,-81.193098,36.159102],
-  "geometry": {"coordinates":[-81.193098,36.159102],"type":"Point"}
+  "bbox": [
+    -81.193098,
+    36.159102,
+    -81.193098,
+    36.159102
+],
+  "geometry": {"coordinates":[-81.19309800000001,36.159102],"type":"Point"}
 }

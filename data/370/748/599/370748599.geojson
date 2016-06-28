@@ -2,13 +2,14 @@
   "id": 370748599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.274005,36.091939,-80.274005,36.091939",
     "geom:latitude":36.091939,
     "geom:longitude":-80.274005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Miller St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370748599,
-    "wof:lastmodified":1449031634,
+    "wof:lastmodified":1466655815,
     "wof:name":"Dialysis Access Group",
     "wof:parent_id":85855629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dialysis"
     ]
 },
-  "bbox": [-80.274005,36.091939,-80.274005,36.091939],
+  "bbox": [
+    -80.274005,
+    36.091939,
+    -80.274005,
+    36.091939
+],
   "geometry": {"coordinates":[-80.274005,36.091939],"type":"Point"}
 }

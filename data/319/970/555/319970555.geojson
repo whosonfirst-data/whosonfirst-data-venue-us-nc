@@ -2,13 +2,14 @@
   "id": 319970555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.586086,34.824782,-79.586086,34.824782",
     "geom:latitude":34.824782,
     "geom:longitude":-79.586086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6741 Andrew Jackson Hwy",
     "sg:city":"Laurel Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319970555,
-    "wof:lastmodified":1449024867,
+    "wof:lastmodified":1466647042,
     "wof:name":"Morgan Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.586086,34.824782,-79.586086,34.824782],
-  "geometry": {"coordinates":[-79.586086,34.824782],"type":"Point"}
+  "bbox": [
+    -79.586086,
+    34.824782,
+    -79.586086,
+    34.824782
+],
+  "geometry": {"coordinates":[-79.58608599999999,34.824782],"type":"Point"}
 }

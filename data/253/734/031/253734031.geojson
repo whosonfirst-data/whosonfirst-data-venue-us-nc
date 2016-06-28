@@ -2,13 +2,14 @@
   "id": 253734031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.304797,36.500775,-78.304797,36.500775",
     "geom:latitude":36.500775,
     "geom:longitude":-78.304797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6547 Drewry-Virginia Line Rd",
     "sg:city":"Manson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253734031,
-    "wof:lastmodified":1449065395,
+    "wof:lastmodified":1466651187,
     "wof:name":"Buchanan's Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-78.304797,36.500775,-78.304797,36.500775],
-  "geometry": {"coordinates":[-78.304797,36.500775],"type":"Point"}
+  "bbox": [
+    -78.304797,
+    36.500775,
+    -78.304797,
+    36.500775
+],
+  "geometry": {"coordinates":[-78.30479699999999,36.500775],"type":"Point"}
 }

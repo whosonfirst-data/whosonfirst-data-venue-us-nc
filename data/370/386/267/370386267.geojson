@@ -2,13 +2,14 @@
   "id": 370386267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.632618,35.064215,-80.632618,35.064215",
     "geom:latitude":35.064215,
     "geom:longitude":-80.632618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Sardis Church Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370386267,
-    "wof:lastmodified":1449030859,
+    "wof:lastmodified":1466651089,
     "wof:name":"Reid Tool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-80.632618,35.064215,-80.632618,35.064215],
-  "geometry": {"coordinates":[-80.632618,35.064215],"type":"Point"}
+  "bbox": [
+    -80.632618,
+    35.064215,
+    -80.632618,
+    35.064215
+],
+  "geometry": {"coordinates":[-80.63261799999999,35.064215],"type":"Point"}
 }

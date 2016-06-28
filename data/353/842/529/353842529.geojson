@@ -2,13 +2,14 @@
   "id": 353842529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.081336,35.249191,-81.081336,35.249191",
     "geom:latitude":35.249191,
     "geom:longitude":-81.081336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Market St",
     "sg:city":"Cramerton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353842529,
-    "wof:lastmodified":1449018447,
+    "wof:lastmodified":1466652236,
     "wof:name":"Performance Contracting",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.081336,35.249191,-81.081336,35.249191],
-  "geometry": {"coordinates":[-81.081336,35.249191],"type":"Point"}
+  "bbox": [
+    -81.081336,
+    35.249191,
+    -81.081336,
+    35.249191
+],
+  "geometry": {"coordinates":[-81.08133599999999,35.249191],"type":"Point"}
 }

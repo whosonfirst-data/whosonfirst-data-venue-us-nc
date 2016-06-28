@@ -2,13 +2,14 @@
   "id": 202608627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.07014,35.910548,-79.07014,35.910548",
     "geom:latitude":35.910548,
     "geom:longitude":-79.07014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Main St",
     "sg:city":"Carrboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202608627,
-    "wof:lastmodified":1449061202,
+    "wof:lastmodified":1466655551,
     "wof:name":"Open Eye Cafe",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "eating"
     ]
 },
-  "bbox": [-79.07014,35.910548,-79.07014,35.910548],
-  "geometry": {"coordinates":[-79.07014,35.910548],"type":"Point"}
+  "bbox": [
+    -79.07014,
+    35.910548,
+    -79.07014,
+    35.910548
+],
+  "geometry": {"coordinates":[-79.07013999999999,35.910548],"type":"Point"}
 }

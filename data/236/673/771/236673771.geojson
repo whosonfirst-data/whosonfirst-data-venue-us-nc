@@ -2,13 +2,14 @@
   "id": 236673771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.926831,34.416551,-78.926831,34.416551",
     "geom:latitude":34.416551,
     "geom:longitude":-78.926831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9257 Old Hwy 74",
     "sg:city":"Evergreen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236673771,
-    "wof:lastmodified":1449002831,
+    "wof:lastmodified":1466649216,
     "wof:name":"Williamson & Son Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-78.926831,34.416551,-78.926831,34.416551],
-  "geometry": {"coordinates":[-78.926831,34.416551],"type":"Point"}
+  "bbox": [
+    -78.926831,
+    34.416551,
+    -78.926831,
+    34.416551
+],
+  "geometry": {"coordinates":[-78.92683100000001,34.416551],"type":"Point"}
 }

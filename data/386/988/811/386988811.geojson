@@ -2,13 +2,14 @@
   "id": 386988811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.033382,35.55099,-77.033382,35.55099",
     "geom:latitude":35.55099,
     "geom:longitude":-77.033382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Avon Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386988811,
-    "wof:lastmodified":1449028731,
+    "wof:lastmodified":1466650178,
     "wof:name":"David R Swarner MD",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.033382,35.55099,-77.033382,35.55099],
+  "bbox": [
+    -77.033382,
+    35.55099,
+    -77.033382,
+    35.55099
+],
   "geometry": {"coordinates":[-77.033382,35.55099],"type":"Point"}
 }

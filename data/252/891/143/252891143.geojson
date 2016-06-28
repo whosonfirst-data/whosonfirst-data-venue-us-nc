@@ -2,13 +2,14 @@
   "id": 252891143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.290765,35.732306,-81.290765,35.732306",
     "geom:latitude":35.732306,
     "geom:longitude":-81.290765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 Highland Ave NE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252891143,
-    "wof:lastmodified":1449006091,
+    "wof:lastmodified":1466644859,
     "wof:name":"Suburban Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-81.290765,35.732306,-81.290765,35.732306],
-  "geometry": {"coordinates":[-81.290765,35.732306],"type":"Point"}
+  "bbox": [
+    -81.290765,
+    35.732306,
+    -81.290765,
+    35.732306
+],
+  "geometry": {"coordinates":[-81.29076499999999,35.732306],"type":"Point"}
 }

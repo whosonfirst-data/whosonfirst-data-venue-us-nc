@@ -2,13 +2,14 @@
   "id": 387202757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.503852,35.254234,-80.503852,35.254234",
     "geom:latitude":35.254234,
     "geom:longitude":-80.503852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4215 Wesley Dr",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387202757,
-    "wof:lastmodified":1449059425,
+    "wof:lastmodified":1466652531,
     "wof:name":"Custom Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-80.503852,35.254234,-80.503852,35.254234],
-  "geometry": {"coordinates":[-80.503852,35.254234],"type":"Point"}
+  "bbox": [
+    -80.503852,
+    35.254234,
+    -80.503852,
+    35.254234
+],
+  "geometry": {"coordinates":[-80.50385199999999,35.254234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303926163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.543591,35.560206,-78.543591,35.560206",
     "geom:latitude":35.560206,
     "geom:longitude":-78.543591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Rudy Dr",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303926163,
-    "wof:lastmodified":1448998973,
+    "wof:lastmodified":1466656244,
     "wof:name":"1 Leach Detail Powerwashing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "deck"
     ]
 },
-  "bbox": [-78.543591,35.560206,-78.543591,35.560206],
-  "geometry": {"coordinates":[-78.543591,35.560206],"type":"Point"}
+  "bbox": [
+    -78.543591,
+    35.560206,
+    -78.543591,
+    35.560206
+],
+  "geometry": {"coordinates":[-78.54359100000001,35.560206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202766759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.106811,35.101146,-77.106811,35.101146",
     "geom:latitude":35.101146,
     "geom:longitude":-77.106811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Norwich Rd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202766759,
-    "wof:lastmodified":1449060077,
+    "wof:lastmodified":1466643912,
     "wof:name":"Equine Express MBL Veterinary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.106811,35.101146,-77.106811,35.101146],
-  "geometry": {"coordinates":[-77.106811,35.101146],"type":"Point"}
+  "bbox": [
+    -77.106811,
+    35.101146,
+    -77.106811,
+    35.101146
+],
+  "geometry": {"coordinates":[-77.10681099999999,35.101146],"type":"Point"}
 }

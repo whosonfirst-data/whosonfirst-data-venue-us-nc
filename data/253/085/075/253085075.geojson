@@ -2,13 +2,14 @@
   "id": 253085075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076347,35.957212,-80.076347,35.957212",
     "geom:latitude":35.957212,
     "geom:longitude":-80.076347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Calvin St",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253085075,
-    "wof:lastmodified":1449063560,
+    "wof:lastmodified":1466643925,
     "wof:name":"Hometown Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.076347,35.957212,-80.076347,35.957212],
+  "bbox": [
+    -80.076347,
+    35.957212,
+    -80.076347,
+    35.957212
+],
   "geometry": {"coordinates":[-80.076347,35.957212],"type":"Point"}
 }

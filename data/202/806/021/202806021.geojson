@@ -2,13 +2,14 @@
   "id": 202806021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.886028,35.700595,-80.886028,35.700595",
     "geom:latitude":35.700595,
     "geom:longitude":-80.886028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Main St",
     "sg:city":"Troutman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202806021,
-    "wof:lastmodified":1449060102,
+    "wof:lastmodified":1466644211,
     "wof:name":"Troutman Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.886028,35.700595,-80.886028,35.700595],
+  "bbox": [
+    -80.886028,
+    35.700595,
+    -80.886028,
+    35.700595
+],
   "geometry": {"coordinates":[-80.886028,35.700595],"type":"Point"}
 }

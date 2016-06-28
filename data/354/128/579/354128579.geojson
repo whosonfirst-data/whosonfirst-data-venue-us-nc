@@ -2,13 +2,14 @@
   "id": 354128579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.061405,34.659463,-77.061405,34.659463",
     "geom:latitude":34.659463,
     "geom:longitude":-77.061405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 Coast Guard Rd",
     "sg:city":"Emerald Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354128579,
-    "wof:lastmodified":1449066575,
+    "wof:lastmodified":1466649044,
     "wof:name":"Pebble Beach Homeowners A",
     "wof:parent_id":85843465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.061405,34.659463,-77.061405,34.659463],
-  "geometry": {"coordinates":[-77.061405,34.659463],"type":"Point"}
+  "bbox": [
+    -77.061405,
+    34.659463,
+    -77.061405,
+    34.659463
+],
+  "geometry": {"coordinates":[-77.06140499999999,34.659463],"type":"Point"}
 }

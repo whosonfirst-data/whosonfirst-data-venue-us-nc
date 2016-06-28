@@ -2,13 +2,14 @@
   "id": 303916757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.230821,35.361965,-80.230821,35.361965",
     "geom:latitude":35.361965,
     "geom:longitude":-80.230821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Old Parker Rd",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303916757,
-    "wof:lastmodified":1448999460,
+    "wof:lastmodified":1466656113,
     "wof:name":"Proctor Installation Service",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.230821,35.361965,-80.230821,35.361965],
-  "geometry": {"coordinates":[-80.230821,35.361965],"type":"Point"}
+  "bbox": [
+    -80.230821,
+    35.361965,
+    -80.230821,
+    35.361965
+],
+  "geometry": {"coordinates":[-80.23082100000001,35.361965],"type":"Point"}
 }

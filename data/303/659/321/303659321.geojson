@@ -2,13 +2,14 @@
   "id": 303659321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.856535,36.059919,-79.856535,36.059919",
     "geom:latitude":36.059919,
     "geom:longitude":-79.856535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 Clifton Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303659321,
-    "wof:lastmodified":1448998382,
+    "wof:lastmodified":1466652816,
     "wof:name":"Hutchens Barber & Styling Shop",
     "wof:parent_id":85826501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.856535,36.059919,-79.856535,36.059919],
-  "geometry": {"coordinates":[-79.856535,36.059919],"type":"Point"}
+  "bbox": [
+    -79.856535,
+    36.059919,
+    -79.856535,
+    36.059919
+],
+  "geometry": {"coordinates":[-79.85653499999999,36.059919],"type":"Point"}
 }

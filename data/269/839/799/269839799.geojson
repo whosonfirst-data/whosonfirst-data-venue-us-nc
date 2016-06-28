@@ -2,13 +2,14 @@
   "id": 269839799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.809886,35.784046,-78.809886,35.784046",
     "geom:latitude":35.784046,
     "geom:longitude":-78.809886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 NW Maynard Rd",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269839799,
-    "wof:lastmodified":1449037596,
+    "wof:lastmodified":1466647386,
     "wof:name":"Triangle Tile & Marble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.809886,35.784046,-78.809886,35.784046],
-  "geometry": {"coordinates":[-78.809886,35.784046],"type":"Point"}
+  "bbox": [
+    -78.809886,
+    35.784046,
+    -78.809886,
+    35.784046
+],
+  "geometry": {"coordinates":[-78.80988600000001,35.784046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320711737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.517983,36.1102,-79.517983,36.1102",
     "geom:latitude":36.1102,
     "geom:longitude":-79.517983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"499 Manning Ave",
     "sg:city":"Elon College",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320711737,
-    "wof:lastmodified":1449014280,
+    "wof:lastmodified":1466655421,
     "wof:name":"Hamlet",
     "wof:parent_id":85857167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.517983,36.1102,-79.517983,36.1102],
+  "bbox": [
+    -79.517983,
+    36.1102,
+    -79.517983,
+    36.1102
+],
   "geometry": {"coordinates":[-79.517983,36.1102],"type":"Point"}
 }

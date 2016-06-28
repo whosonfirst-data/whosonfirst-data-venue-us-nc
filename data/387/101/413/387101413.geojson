@@ -2,13 +2,14 @@
   "id": 387101413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.945879,35.952801,-79.945879,35.952801",
     "geom:latitude":35.952801,
     "geom:longitude":-79.945879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Elon Pl",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387101413,
-    "wof:lastmodified":1449058106,
+    "wof:lastmodified":1466651172,
     "wof:name":"K & S Tool & Mfg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.945879,35.952801,-79.945879,35.952801],
-  "geometry": {"coordinates":[-79.945879,35.952801],"type":"Point"}
+  "bbox": [
+    -79.945879,
+    35.952801,
+    -79.945879,
+    35.952801
+],
+  "geometry": {"coordinates":[-79.94587900000001,35.952801],"type":"Point"}
 }

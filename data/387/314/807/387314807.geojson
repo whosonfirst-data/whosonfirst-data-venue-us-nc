@@ -2,13 +2,14 @@
   "id": 387314807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.945771,35.562478,-76.945771,35.562478",
     "geom:latitude":35.562478,
     "geom:longitude":-76.945771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"798 Betsy Elbow Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387314807,
-    "wof:lastmodified":1449059754,
+    "wof:lastmodified":1466654004,
     "wof:name":"R-Tex",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-76.945771,35.562478,-76.945771,35.562478],
-  "geometry": {"coordinates":[-76.945771,35.562478],"type":"Point"}
+  "bbox": [
+    -76.945771,
+    35.562478,
+    -76.945771,
+    35.562478
+],
+  "geometry": {"coordinates":[-76.94577099999999,35.562478],"type":"Point"}
 }

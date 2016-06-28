@@ -2,13 +2,14 @@
   "id": 186504095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.808107,36.282378,-81.808107,36.282378",
     "geom:latitude":36.282378,
     "geom:longitude":-81.808107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Blueberry Ln",
     "sg:city":"Vilas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186504095,
-    "wof:lastmodified":1449050887,
+    "wof:lastmodified":1466654401,
     "wof:name":"David Hagaman",
     "wof:parent_id":85814995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.808107,36.282378,-81.808107,36.282378],
-  "geometry": {"coordinates":[-81.808107,36.282378],"type":"Point"}
+  "bbox": [
+    -81.808107,
+    36.282378,
+    -81.808107,
+    36.282378
+],
+  "geometry": {"coordinates":[-81.80810700000001,36.282378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202729963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.460412,34.778389,-79.460412,34.778389",
     "geom:latitude":34.778389,
     "geom:longitude":-79.460412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Main St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202729963,
-    "wof:lastmodified":1449061400,
+    "wof:lastmodified":1466643647,
     "wof:name":"Shirley's Closet",
     "wof:parent_id":85834007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-79.460412,34.778389,-79.460412,34.778389],
-  "geometry": {"coordinates":[-79.460412,34.778389],"type":"Point"}
+  "bbox": [
+    -79.460412,
+    34.778389,
+    -79.460412,
+    34.778389
+],
+  "geometry": {"coordinates":[-79.46041200000001,34.778389],"type":"Point"}
 }

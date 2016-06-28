@@ -2,13 +2,14 @@
   "id": 253600701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.59675,35.895609,-78.59675,35.895609",
     "geom:latitude":35.895609,
     "geom:longitude":-78.59675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8508 Boot Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253600701,
-    "wof:lastmodified":1449063079,
+    "wof:lastmodified":1466649591,
     "wof:name":"Central Carolina Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.59675,35.895609,-78.59675,35.895609],
+  "bbox": [
+    -78.59675,
+    35.895609,
+    -78.59675,
+    35.895609
+],
   "geometry": {"coordinates":[-78.59675,35.895609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303334293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.835777,36.00179,-78.835777,36.00179",
     "geom:latitude":36.00179,
     "geom:longitude":-78.835777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Callahan Cir",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303334293,
-    "wof:lastmodified":1448998828,
+    "wof:lastmodified":1466648120,
     "wof:name":"Triangle Residential Service",
     "wof:parent_id":85827667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-78.835777,36.00179,-78.835777,36.00179],
-  "geometry": {"coordinates":[-78.835777,36.00179],"type":"Point"}
+  "bbox": [
+    -78.835777,
+    36.00179,
+    -78.835777,
+    36.00179
+],
+  "geometry": {"coordinates":[-78.83577699999999,36.00179],"type":"Point"}
 }

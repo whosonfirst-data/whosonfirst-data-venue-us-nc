@@ -2,13 +2,14 @@
   "id": 320251781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.877845,34.145664,-78.877845,34.145664",
     "geom:latitude":34.145664,
     "geom:longitude":-78.877845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Green Sea Rd",
     "sg:city":"Tabor City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320251781,
-    "wof:lastmodified":1449011324,
+    "wof:lastmodified":1466648825,
     "wof:name":"City Tire Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-78.877845,34.145664,-78.877845,34.145664],
-  "geometry": {"coordinates":[-78.877845,34.145664],"type":"Point"}
+  "bbox": [
+    -78.877845,
+    34.145664,
+    -78.877845,
+    34.145664
+],
+  "geometry": {"coordinates":[-78.87784499999999,34.145664],"type":"Point"}
 }

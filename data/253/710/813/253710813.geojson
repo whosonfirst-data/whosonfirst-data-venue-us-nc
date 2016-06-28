@@ -2,13 +2,14 @@
   "id": 253710813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.06825,36.058707,-79.06825,36.058707",
     "geom:latitude":36.058707,
     "geom:longitude":-79.06825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1807 Adams Pl",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253710813,
-    "wof:lastmodified":1449063003,
+    "wof:lastmodified":1466650880,
     "wof:name":"T K Clark & Assoc Inc",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.06825,36.058707,-79.06825,36.058707],
-  "geometry": {"coordinates":[-79.06825,36.058707],"type":"Point"}
+  "bbox": [
+    -79.06825,
+    36.058707,
+    -79.06825,
+    36.058707
+],
+  "geometry": {"coordinates":[-79.06825000000001,36.058707],"type":"Point"}
 }

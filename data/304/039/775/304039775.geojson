@@ -2,13 +2,14 @@
   "id": 304039775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.450189,36.086554,-79.450189,36.086554",
     "geom:latitude":36.086554,
     "geom:longitude":-79.450189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Craig St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304039775,
-    "wof:lastmodified":1449044089,
+    "wof:lastmodified":1466644726,
     "wof:name":"Agape Family Care Home",
     "wof:parent_id":85810235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-79.450189,36.086554,-79.450189,36.086554],
-  "geometry": {"coordinates":[-79.450189,36.086554],"type":"Point"}
+  "bbox": [
+    -79.450189,
+    36.086554,
+    -79.450189,
+    36.086554
+],
+  "geometry": {"coordinates":[-79.45018899999999,36.086554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387784663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.577852,35.272525,-77.577852,35.272525",
     "geom:latitude":35.272525,
     "geom:longitude":-77.577852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Summit Ave",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387784663,
-    "wof:lastmodified":1449058649,
+    "wof:lastmodified":1466657646,
     "wof:name":"Granger Place Apartments",
     "wof:parent_id":85817087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-77.577852,35.272525,-77.577852,35.272525],
-  "geometry": {"coordinates":[-77.577852,35.272525],"type":"Point"}
+  "bbox": [
+    -77.577852,
+    35.272525,
+    -77.577852,
+    35.272525
+],
+  "geometry": {"coordinates":[-77.57785199999999,35.272525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386977549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.293365,36.125267,-80.293365,36.125267",
     "geom:latitude":36.125267,
     "geom:longitude":-80.293365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2911 Hope Valley Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386977549,
-    "wof:lastmodified":1449028977,
+    "wof:lastmodified":1466650026,
     "wof:name":"Salem Star",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-80.293365,36.125267,-80.293365,36.125267],
-  "geometry": {"coordinates":[-80.293365,36.125267],"type":"Point"}
+  "bbox": [
+    -80.293365,
+    36.125267,
+    -80.293365,
+    36.125267
+],
+  "geometry": {"coordinates":[-80.29336499999999,36.125267],"type":"Point"}
 }

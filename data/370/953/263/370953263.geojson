@@ -2,13 +2,14 @@
   "id": 370953263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.705238,35.035564,-78.705238,35.035564",
     "geom:latitude":35.035564,
     "geom:longitude":-78.705238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Magnolia Church Rd",
     "sg:city":"Stedman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370953263,
-    "wof:lastmodified":1449031416,
+    "wof:lastmodified":1466657148,
     "wof:name":"Highways Byways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.705238,35.035564,-78.705238,35.035564],
-  "geometry": {"coordinates":[-78.705238,35.035564],"type":"Point"}
+  "bbox": [
+    -78.705238,
+    35.035564,
+    -78.705238,
+    35.035564
+],
+  "geometry": {"coordinates":[-78.70523799999999,35.035564],"type":"Point"}
 }

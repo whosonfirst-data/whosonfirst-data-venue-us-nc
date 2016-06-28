@@ -2,13 +2,14 @@
   "id": 236870083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.936675,35.112376,-78.936675,35.112376",
     "geom:latitude":35.112376,
     "geom:longitude":-78.936675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5940 Gregory St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236870083,
-    "wof:lastmodified":1449002332,
+    "wof:lastmodified":1466651015,
     "wof:name":"Tolley's Mobile Home Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.936675,35.112376,-78.936675,35.112376],
-  "geometry": {"coordinates":[-78.936675,35.112376],"type":"Point"}
+  "bbox": [
+    -78.936675,
+    35.112376,
+    -78.936675,
+    35.112376
+],
+  "geometry": {"coordinates":[-78.93667499999999,35.112376],"type":"Point"}
 }

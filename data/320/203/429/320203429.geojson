@@ -2,13 +2,14 @@
   "id": 320203429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.836571,34.263435,-77.836571,34.263435",
     "geom:latitude":34.263435,
     "geom:longitude":-77.836571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 Amsterdam Way",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320203429,
-    "wof:lastmodified":1449012911,
+    "wof:lastmodified":1466648134,
     "wof:name":"Sunbelt Rentals Inc",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "construction"
     ]
 },
-  "bbox": [-77.836571,34.263435,-77.836571,34.263435],
-  "geometry": {"coordinates":[-77.836571,34.263435],"type":"Point"}
+  "bbox": [
+    -77.836571,
+    34.263435,
+    -77.836571,
+    34.263435
+],
+  "geometry": {"coordinates":[-77.83657100000001,34.263435],"type":"Point"}
 }

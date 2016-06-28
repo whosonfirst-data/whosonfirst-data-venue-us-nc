@@ -2,13 +2,14 @@
   "id": 286906101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.798741,35.179145,-80.798741,35.179145",
     "geom:latitude":35.179145,
     "geom:longitude":-80.798741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Greenwich Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286906101,
-    "wof:lastmodified":1449016299,
+    "wof:lastmodified":1466651901,
     "wof:name":"Elder Broach Properties Inc",
     "wof:parent_id":85812387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.798741,35.179145,-80.798741,35.179145],
-  "geometry": {"coordinates":[-80.798741,35.179145],"type":"Point"}
+  "bbox": [
+    -80.798741,
+    35.179145,
+    -80.798741,
+    35.179145
+],
+  "geometry": {"coordinates":[-80.79874100000001,35.179145],"type":"Point"}
 }

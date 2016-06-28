@@ -2,13 +2,14 @@
   "id": 320195139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.835716,35.780471,-78.835716,35.780471",
     "geom:latitude":35.780471,
     "geom:longitude":-78.835716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Fetzer Ct",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320195139,
-    "wof:lastmodified":1449013722,
+    "wof:lastmodified":1466648025,
     "wof:name":"Orange Cardiovascular Fndtn",
     "wof:parent_id":85840759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.835716,35.780471,-78.835716,35.780471],
-  "geometry": {"coordinates":[-78.835716,35.780471],"type":"Point"}
+  "bbox": [
+    -78.835716,
+    35.780471,
+    -78.835716,
+    35.780471
+],
+  "geometry": {"coordinates":[-78.83571600000001,35.780471],"type":"Point"}
 }

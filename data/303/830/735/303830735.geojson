@@ -2,13 +2,14 @@
   "id": 303830735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.702581,35.827948,-80.702581,35.827948",
     "geom:latitude":35.827948,
     "geom:longitude":-80.702581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16579 Cool Springs Rd",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303830735,
-    "wof:lastmodified":1448998635,
+    "wof:lastmodified":1466655301,
     "wof:name":"Steele Well Co",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-80.702581,35.827948,-80.702581,35.827948],
+  "bbox": [
+    -80.702581,
+    35.827948,
+    -80.702581,
+    35.827948
+],
   "geometry": {"coordinates":[-80.702581,35.827948],"type":"Point"}
 }

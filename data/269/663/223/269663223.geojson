@@ -2,13 +2,14 @@
   "id": 269663223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.220165,35.659456,-81.220165,35.659456",
     "geom:latitude":35.659456,
     "geom:longitude":-81.220165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E D St",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269663223,
-    "wof:lastmodified":1449038030,
+    "wof:lastmodified":1466645368,
     "wof:name":"Hope Cathedral Word Of Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.220165,35.659456,-81.220165,35.659456],
-  "geometry": {"coordinates":[-81.220165,35.659456],"type":"Point"}
+  "bbox": [
+    -81.220165,
+    35.659456,
+    -81.220165,
+    35.659456
+],
+  "geometry": {"coordinates":[-81.22016499999999,35.659456],"type":"Point"}
 }

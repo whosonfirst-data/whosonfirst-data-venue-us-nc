@@ -2,13 +2,14 @@
   "id": 303413077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.999262,35.382217,-77.999262,35.382217",
     "geom:latitude":35.382217,
     "geom:longitude":-77.999262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S James St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303413077,
-    "wof:lastmodified":1448998506,
+    "wof:lastmodified":1466649261,
     "wof:name":"Wayne County Mental Health Ctr",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "clinic"
     ]
 },
-  "bbox": [-77.999262,35.382217,-77.999262,35.382217],
+  "bbox": [
+    -77.999262,
+    35.382217,
+    -77.999262,
+    35.382217
+],
   "geometry": {"coordinates":[-77.999262,35.382217],"type":"Point"}
 }

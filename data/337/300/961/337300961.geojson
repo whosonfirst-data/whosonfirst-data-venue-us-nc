@@ -2,13 +2,14 @@
   "id": 337300961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.965313,35.984545,-78.965313,35.984545",
     "geom:latitude":35.984545,
     "geom:longitude":-78.965313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2941 Welcome Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":337300961,
-    "wof:lastmodified":1449027412,
+    "wof:lastmodified":1466646112,
     "wof:name":"Gwp Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-78.965313,35.984545,-78.965313,35.984545],
-  "geometry": {"coordinates":[-78.965313,35.984545],"type":"Point"}
+  "bbox": [
+    -78.965313,
+    35.984545,
+    -78.965313,
+    35.984545
+],
+  "geometry": {"coordinates":[-78.96531299999999,35.984545],"type":"Point"}
 }

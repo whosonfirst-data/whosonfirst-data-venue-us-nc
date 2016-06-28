@@ -2,13 +2,14 @@
   "id": 320210215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.83707,35.222097,-80.83707,35.222097",
     "geom:latitude":35.222097,
     "geom:longitude":-80.83707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 E Trade St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320210215,
-    "wof:lastmodified":1449012544,
+    "wof:lastmodified":1466648236,
     "wof:name":"Char-Meck Emergency Svc",
     "wof:parent_id":85871237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.83707,35.222097,-80.83707,35.222097],
+  "bbox": [
+    -80.83707,
+    35.222097,
+    -80.83707,
+    35.222097
+],
   "geometry": {"coordinates":[-80.83707,35.222097],"type":"Point"}
 }

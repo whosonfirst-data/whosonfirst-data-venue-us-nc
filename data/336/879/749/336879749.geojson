@@ -2,13 +2,14 @@
   "id": 336879749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.325594,36.544994,-76.325594,36.544994",
     "geom:latitude":36.544994,
     "geom:longitude":-76.325594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Ponderosa Rd",
     "sg:city":"South Mills",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336879749,
-    "wof:lastmodified":1448996933,
+    "wof:lastmodified":1466650122,
     "wof:name":"Camden Yards Materials",
     "wof:parent_id":85846085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gravel"
     ]
 },
-  "bbox": [-76.325594,36.544994,-76.325594,36.544994],
+  "bbox": [
+    -76.325594,
+    36.544994,
+    -76.325594,
+    36.544994
+],
   "geometry": {"coordinates":[-76.325594,36.544994],"type":"Point"}
 }

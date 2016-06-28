@@ -2,13 +2,14 @@
   "id": 219760723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.572976,35.8619,-79.572976,35.8619",
     "geom:latitude":35.8619,
     "geom:longitude":-79.572976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 N Greensboro St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219760723,
-    "wof:lastmodified":1449073783,
+    "wof:lastmodified":1466646862,
     "wof:name":"Farm Credit Svc",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-79.572976,35.8619,-79.572976,35.8619],
+  "bbox": [
+    -79.572976,
+    35.8619,
+    -79.572976,
+    35.8619
+],
   "geometry": {"coordinates":[-79.572976,35.8619],"type":"Point"}
 }

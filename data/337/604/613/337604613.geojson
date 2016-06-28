@@ -2,13 +2,14 @@
   "id": 337604613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.781224,35.785735,-78.781224,35.785735",
     "geom:latitude":35.785735,
     "geom:longitude":-78.781224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Academy St",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337604613,
-    "wof:lastmodified":1449027646,
+    "wof:lastmodified":1466647899,
     "wof:name":"Latenight Creative",
     "wof:parent_id":85891809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-78.781224,35.785735,-78.781224,35.785735],
-  "geometry": {"coordinates":[-78.781224,35.785735],"type":"Point"}
+  "bbox": [
+    -78.781224,
+    35.785735,
+    -78.781224,
+    35.785735
+],
+  "geometry": {"coordinates":[-78.78122399999999,35.785735],"type":"Point"}
 }

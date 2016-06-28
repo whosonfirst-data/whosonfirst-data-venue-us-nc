@@ -2,13 +2,14 @@
   "id": 320592901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.254382,36.139569,-79.254382,36.139569",
     "geom:latitude":36.139569,
     "geom:longitude":-79.254382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 Spoon Ln",
     "sg:city":"Mebane",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320592901,
-    "wof:lastmodified":1449013403,
+    "wof:lastmodified":1466653725,
     "wof:name":"Spoon Lake Subdivision Ho",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.254382,36.139569,-79.254382,36.139569],
-  "geometry": {"coordinates":[-79.254382,36.139569],"type":"Point"}
+  "bbox": [
+    -79.254382,
+    36.139569,
+    -79.254382,
+    36.139569
+],
+  "geometry": {"coordinates":[-79.25438200000001,36.139569],"type":"Point"}
 }

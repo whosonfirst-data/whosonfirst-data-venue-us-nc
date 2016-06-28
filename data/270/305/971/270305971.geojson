@@ -2,13 +2,14 @@
   "id": 270305971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.920685,34.325699,-78.920685,34.325699",
     "geom:latitude":34.325699,
     "geom:longitude":-78.920685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Pine St",
     "sg:city":"Cerro Gordo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270305971,
-    "wof:lastmodified":1449009006,
+    "wof:lastmodified":1466646952,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.920685,34.325699,-78.920685,34.325699],
-  "geometry": {"coordinates":[-78.920685,34.325699],"type":"Point"}
+  "bbox": [
+    -78.920685,
+    34.325699,
+    -78.920685,
+    34.325699
+],
+  "geometry": {"coordinates":[-78.92068500000001,34.325699],"type":"Point"}
 }

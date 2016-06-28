@@ -2,13 +2,14 @@
   "id": 370308401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.324925,35.019795,-78.324925,35.019795",
     "geom:latitude":35.019795,
     "geom:longitude":-78.324925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Isaac Weeks Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370308401,
-    "wof:lastmodified":1449032574,
+    "wof:lastmodified":1466650122,
     "wof:name":"Seed Time & Harvest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "seed"
     ]
 },
-  "bbox": [-78.324925,35.019795,-78.324925,35.019795],
-  "geometry": {"coordinates":[-78.324925,35.019795],"type":"Point"}
+  "bbox": [
+    -78.324925,
+    35.019795,
+    -78.324925,
+    35.019795
+],
+  "geometry": {"coordinates":[-78.32492499999999,35.019795],"type":"Point"}
 }

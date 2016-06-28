@@ -2,13 +2,14 @@
   "id": 253537437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.806502,34.216515,-77.806502,34.216515",
     "geom:latitude":34.216515,
     "geom:longitude":-77.806502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 W Salisbury St",
     "sg:city":"Wrightsville Bch",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":253537437,
-    "wof:lastmodified":1449063538,
+    "wof:lastmodified":1466648824,
     "wof:name":"Wrightsville Beach Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.806502,34.216515,-77.806502,34.216515],
-  "geometry": {"coordinates":[-77.806502,34.216515],"type":"Point"}
+  "bbox": [
+    -77.806502,
+    34.216515,
+    -77.806502,
+    34.216515
+],
+  "geometry": {"coordinates":[-77.80650199999999,34.216515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387528611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.987493,36.397245,-78.987493,36.397245",
     "geom:latitude":36.397245,
     "geom:longitude":-78.987493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Morgan St",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387528611,
-    "wof:lastmodified":1449057122,
+    "wof:lastmodified":1466656412,
     "wof:name":"NCR Mission",
     "wof:parent_id":85829253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.987493,36.397245,-78.987493,36.397245],
+  "bbox": [
+    -78.987493,
+    36.397245,
+    -78.987493,
+    36.397245
+],
   "geometry": {"coordinates":[-78.987493,36.397245],"type":"Point"}
 }

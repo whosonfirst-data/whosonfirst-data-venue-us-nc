@@ -2,13 +2,14 @@
   "id": 303498191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.002705,35.896023,-79.002705,35.896023",
     "geom:latitude":35.896023,
     "geom:longitude":-79.002705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19201 Spring Meadow Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303498191,
-    "wof:lastmodified":1448999971,
+    "wof:lastmodified":1466650490,
     "wof:name":"Look Great In Photos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-79.002705,35.896023,-79.002705,35.896023],
-  "geometry": {"coordinates":[-79.002705,35.896023],"type":"Point"}
+  "bbox": [
+    -79.002705,
+    35.896023,
+    -79.002705,
+    35.896023
+],
+  "geometry": {"coordinates":[-79.00270500000001,35.896023],"type":"Point"}
 }

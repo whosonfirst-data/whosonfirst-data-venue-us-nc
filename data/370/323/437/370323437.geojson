@@ -2,13 +2,14 @@
   "id": 370323437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.293265,36.240569,-80.293265,36.240569",
     "geom:latitude":36.240569,
     "geom:longitude":-80.293265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8096 Broad St",
     "sg:city":"Rural Hall",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370323437,
-    "wof:lastmodified":1449029381,
+    "wof:lastmodified":1466650305,
     "wof:name":"Consigned Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-80.293265,36.240569,-80.293265,36.240569],
-  "geometry": {"coordinates":[-80.293265,36.240569],"type":"Point"}
+  "bbox": [
+    -80.293265,
+    36.240569,
+    -80.293265,
+    36.240569
+],
+  "geometry": {"coordinates":[-80.29326500000001,36.240569],"type":"Point"}
 }

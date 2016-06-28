@@ -2,13 +2,14 @@
   "id": 371182883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.453089,35.963083,-78.453089,35.963083",
     "geom:latitude":35.963083,
     "geom:longitude":-78.453089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Averette Rd",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371182883,
-    "wof:lastmodified":1449049724,
+    "wof:lastmodified":1466651144,
     "wof:name":"Country Herritage Nersery",
     "wof:parent_id":85892195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-78.453089,35.963083,-78.453089,35.963083],
-  "geometry": {"coordinates":[-78.453089,35.963083],"type":"Point"}
+  "bbox": [
+    -78.453089,
+    35.963083,
+    -78.453089,
+    35.963083
+],
+  "geometry": {"coordinates":[-78.45308900000001,35.963083],"type":"Point"}
 }

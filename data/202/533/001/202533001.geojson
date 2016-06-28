@@ -2,13 +2,14 @@
   "id": 202533001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.95646,36.012986,-78.95646,36.012986",
     "geom:latitude":36.012986,
     "geom:longitude":-78.95646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Morrene Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202533001,
-    "wof:lastmodified":1449060080,
+    "wof:lastmodified":1466655923,
     "wof:name":"Covenant Community Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-78.95646,36.012986,-78.95646,36.012986],
-  "geometry": {"coordinates":[-78.95646,36.012986],"type":"Point"}
+  "bbox": [
+    -78.95646,
+    36.012986,
+    -78.95646,
+    36.012986
+],
+  "geometry": {"coordinates":[-78.95646000000001,36.012986],"type":"Point"}
 }

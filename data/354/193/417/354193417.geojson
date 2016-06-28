@@ -2,13 +2,14 @@
   "id": 354193417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.045565,35.131989,-83.045565,35.131989",
     "geom:latitude":35.131989,
     "geom:longitude":-83.045565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Merrie-Woode Rd",
     "sg:city":"Sapphire",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354193417,
-    "wof:lastmodified":1449066213,
+    "wof:lastmodified":1466649815,
     "wof:name":"Camp Merrie Wood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "camp"
     ]
 },
-  "bbox": [-83.045565,35.131989,-83.045565,35.131989],
+  "bbox": [
+    -83.045565,
+    35.131989,
+    -83.045565,
+    35.131989
+],
   "geometry": {"coordinates":[-83.045565,35.131989],"type":"Point"}
 }

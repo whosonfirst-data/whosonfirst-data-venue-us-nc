@@ -2,13 +2,14 @@
   "id": 303614413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.98229,35.182649,-78.98229,35.182649",
     "geom:latitude":35.182649,
     "geom:longitude":-78.98229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1183 N Bragg Blvd",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303614413,
-    "wof:lastmodified":1449000635,
+    "wof:lastmodified":1466652164,
     "wof:name":"Video Hut",
     "wof:parent_id":85803425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cassette"
     ]
 },
-  "bbox": [-78.98229,35.182649,-78.98229,35.182649],
-  "geometry": {"coordinates":[-78.98229,35.182649],"type":"Point"}
+  "bbox": [
+    -78.98229,
+    35.182649,
+    -78.98229,
+    35.182649
+],
+  "geometry": {"coordinates":[-78.98229000000001,35.182649],"type":"Point"}
 }

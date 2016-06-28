@@ -2,13 +2,14 @@
   "id": 203298311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.994312,34.240377,-77.994312,34.240377",
     "geom:latitude":34.240377,
     "geom:longitude":-77.994312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Wedgewood Dr NE",
     "sg:city":"Leland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203298311,
-    "wof:lastmodified":1449025421,
+    "wof:lastmodified":1466643236,
     "wof:name":"HLD Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "product"
     ]
 },
-  "bbox": [-77.994312,34.240377,-77.994312,34.240377],
-  "geometry": {"coordinates":[-77.994312,34.240377],"type":"Point"}
+  "bbox": [
+    -77.994312,
+    34.240377,
+    -77.994312,
+    34.240377
+],
+  "geometry": {"coordinates":[-77.99431199999999,34.240377],"type":"Point"}
 }

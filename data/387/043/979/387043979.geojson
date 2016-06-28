@@ -2,13 +2,14 @@
   "id": 387043979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.630315,36.530309,-80.630315,36.530309",
     "geom:latitude":36.530309,
     "geom:longitude":-80.630315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Patrol Station Rd",
     "sg:city":"Mount Airy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387043979,
-    "wof:lastmodified":1449058950,
+    "wof:lastmodified":1466650429,
     "wof:name":"Mount Airy Weigh Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "weight"
     ]
 },
-  "bbox": [-80.630315,36.530309,-80.630315,36.530309],
+  "bbox": [
+    -80.630315,
+    36.530309,
+    -80.630315,
+    36.530309
+],
   "geometry": {"coordinates":[-80.630315,36.530309],"type":"Point"}
 }

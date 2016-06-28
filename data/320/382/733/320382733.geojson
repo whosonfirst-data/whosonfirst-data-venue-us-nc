@@ -2,13 +2,14 @@
   "id": 320382733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.479047,35.582689,-82.479047,35.582689",
     "geom:latitude":35.582689,
     "geom:longitude":-82.479047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Looking Glass Ln",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320382733,
-    "wof:lastmodified":1449012251,
+    "wof:lastmodified":1466650662,
     "wof:name":"Appliance Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "electrical"
     ]
 },
-  "bbox": [-82.479047,35.582689,-82.479047,35.582689],
-  "geometry": {"coordinates":[-82.479047,35.582689],"type":"Point"}
+  "bbox": [
+    -82.479047,
+    35.582689,
+    -82.479047,
+    35.582689
+],
+  "geometry": {"coordinates":[-82.47904699999999,35.582689],"type":"Point"}
 }

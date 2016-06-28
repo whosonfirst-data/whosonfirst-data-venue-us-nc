@@ -2,13 +2,14 @@
   "id": 203409543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.301348,35.248258,-77.301348,35.248258",
     "geom:latitude":35.248258,
     "geom:longitude":-77.301348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3236 Wintergreen Rd",
     "sg:city":"Cove City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203409543,
-    "wof:lastmodified":1449025701,
+    "wof:lastmodified":1466644078,
     "wof:name":"Paul R Bullard",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-77.301348,35.248258,-77.301348,35.248258],
+  "bbox": [
+    -77.301348,
+    35.248258,
+    -77.301348,
+    35.248258
+],
   "geometry": {"coordinates":[-77.301348,35.248258],"type":"Point"}
 }

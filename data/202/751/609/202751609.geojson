@@ -2,13 +2,14 @@
   "id": 202751609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.081072,35.120272,-77.081072,35.120272",
     "geom:latitude":35.120272,
     "geom:longitude":-77.081072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 Neuse Blvd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202751609,
-    "wof:lastmodified":1449060245,
+    "wof:lastmodified":1466643809,
     "wof:name":"Advantage Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-77.081072,35.120272,-77.081072,35.120272],
-  "geometry": {"coordinates":[-77.081072,35.120272],"type":"Point"}
+  "bbox": [
+    -77.081072,
+    35.120272,
+    -77.081072,
+    35.120272
+],
+  "geometry": {"coordinates":[-77.08107200000001,35.120272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320386249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.861061,36.05975,-79.861061,36.05975",
     "geom:latitude":36.05975,
     "geom:longitude":-79.861061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Oak Branch Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320386249,
-    "wof:lastmodified":1449013219,
+    "wof:lastmodified":1466650714,
     "wof:name":"Dalcom Consulting Inc",
     "wof:parent_id":85851941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "software"
     ]
 },
-  "bbox": [-79.861061,36.05975,-79.861061,36.05975],
-  "geometry": {"coordinates":[-79.861061,36.05975],"type":"Point"}
+  "bbox": [
+    -79.861061,
+    36.05975,
+    -79.861061,
+    36.05975
+],
+  "geometry": {"coordinates":[-79.86106100000001,36.05975],"type":"Point"}
 }

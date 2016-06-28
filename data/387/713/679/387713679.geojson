@@ -2,13 +2,14 @@
   "id": 387713679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.768509,35.267388,-80.768509,35.267388",
     "geom:latitude":35.267388,
     "geom:longitude":-80.768509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5905 N Tryon St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387713679,
-    "wof:lastmodified":1449059561,
+    "wof:lastmodified":1466657371,
     "wof:name":"LA Providencia",
     "wof:parent_id":85818497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.768509,35.267388,-80.768509,35.267388],
-  "geometry": {"coordinates":[-80.768509,35.267388],"type":"Point"}
+  "bbox": [
+    -80.768509,
+    35.267388,
+    -80.768509,
+    35.267388
+],
+  "geometry": {"coordinates":[-80.76850899999999,35.267388],"type":"Point"}
 }

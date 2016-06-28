@@ -2,13 +2,14 @@
   "id": 354035591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.862729,34.211763,-77.862729,34.211763",
     "geom:latitude":34.211763,
     "geom:longitude":-77.862729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5305 Wrightsville Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354035591,
-    "wof:lastmodified":1449067311,
+    "wof:lastmodified":1466647961,
     "wof:name":"Port City Internal Medicine",
     "wof:parent_id":85838865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.862729,34.211763,-77.862729,34.211763],
+  "bbox": [
+    -77.862729,
+    34.211763,
+    -77.862729,
+    34.211763
+],
   "geometry": {"coordinates":[-77.862729,34.211763],"type":"Point"}
 }

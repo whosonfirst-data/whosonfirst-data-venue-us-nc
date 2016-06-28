@@ -2,13 +2,14 @@
   "id": 202918913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.76356,34.724001,-76.76356,34.724001",
     "geom:latitude":34.724001,
     "geom:longitude":-76.76356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Banks St",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202918913,
-    "wof:lastmodified":1449061809,
+    "wof:lastmodified":1466645095,
     "wof:name":"Dependable Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-76.76356,34.724001,-76.76356,34.724001],
+  "bbox": [
+    -76.76356,
+    34.724001,
+    -76.76356,
+    34.724001
+],
   "geometry": {"coordinates":[-76.76356,34.724001],"type":"Point"}
 }

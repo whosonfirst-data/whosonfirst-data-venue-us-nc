@@ -2,13 +2,14 @@
   "id": 370905627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.297249,36.171058,-80.297249,36.171058",
     "geom:latitude":36.171058,
     "geom:longitude":-80.297249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5426 Shattalon Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370905627,
-    "wof:lastmodified":1449030409,
+    "wof:lastmodified":1466656940,
     "wof:name":"Forsyth Academy",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.297249,36.171058,-80.297249,36.171058],
-  "geometry": {"coordinates":[-80.297249,36.171058],"type":"Point"}
+  "bbox": [
+    -80.297249,
+    36.171058,
+    -80.297249,
+    36.171058
+],
+  "geometry": {"coordinates":[-80.29724899999999,36.171058],"type":"Point"}
 }

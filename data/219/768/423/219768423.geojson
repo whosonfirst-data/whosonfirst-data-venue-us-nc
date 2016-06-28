@@ -2,13 +2,14 @@
   "id": 219768423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.77594,35.538549,-78.77594,35.538549",
     "geom:latitude":35.538549,
     "geom:longitude":-78.77594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 Atkins Rd",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219768423,
-    "wof:lastmodified":1449071744,
+    "wof:lastmodified":1466646927,
     "wof:name":"Shekinah Lil Angels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.77594,35.538549,-78.77594,35.538549],
-  "geometry": {"coordinates":[-78.77594,35.538549],"type":"Point"}
+  "bbox": [
+    -78.77594,
+    35.538549,
+    -78.77594,
+    35.538549
+],
+  "geometry": {"coordinates":[-78.77594000000001,35.538549],"type":"Point"}
 }

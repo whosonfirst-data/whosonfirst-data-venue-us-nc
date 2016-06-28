@@ -2,13 +2,14 @@
   "id": 387065363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.976953,35.540226,-77.976953,35.540226",
     "geom:latitude":35.540226,
     "geom:longitude":-77.976953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 S Goldsboro St",
     "sg:city":"Fremont",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387065363,
-    "wof:lastmodified":1449059877,
+    "wof:lastmodified":1466650708,
     "wof:name":"An Open Door CDC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "drug"
     ]
 },
-  "bbox": [-77.976953,35.540226,-77.976953,35.540226],
-  "geometry": {"coordinates":[-77.976953,35.540226],"type":"Point"}
+  "bbox": [
+    -77.976953,
+    35.540226,
+    -77.976953,
+    35.540226
+],
+  "geometry": {"coordinates":[-77.97695299999999,35.540226],"type":"Point"}
 }

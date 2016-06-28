@@ -2,13 +2,14 @@
   "id": 270522593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.581494,35.92787,-78.581494,35.92787",
     "geom:latitude":35.92787,
     "geom:longitude":-78.581494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 High Holly Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270522593,
-    "wof:lastmodified":1449009802,
+    "wof:lastmodified":1466649746,
     "wof:name":"Fortis Homes Woodbridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-78.581494,35.92787,-78.581494,35.92787],
-  "geometry": {"coordinates":[-78.581494,35.92787],"type":"Point"}
+  "bbox": [
+    -78.581494,
+    35.92787,
+    -78.581494,
+    35.92787
+],
+  "geometry": {"coordinates":[-78.58149400000001,35.92787],"type":"Point"}
 }

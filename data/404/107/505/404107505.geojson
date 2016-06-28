@@ -2,13 +2,14 @@
   "id": 404107505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.508305,35.348164,-75.508305,35.348164",
     "geom:latitude":35.348164,
     "geom:longitude":-75.508305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40191 Carflay Ct",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404107505,
-    "wof:lastmodified":1449039092,
+    "wof:lastmodified":1466652632,
     "wof:name":"Watkins Custom Sewing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cover"
     ]
 },
-  "bbox": [-75.508305,35.348164,-75.508305,35.348164],
-  "geometry": {"coordinates":[-75.508305,35.348164],"type":"Point"}
+  "bbox": [
+    -75.508305,
+    35.348164,
+    -75.508305,
+    35.348164
+],
+  "geometry": {"coordinates":[-75.50830499999999,35.348164],"type":"Point"}
 }

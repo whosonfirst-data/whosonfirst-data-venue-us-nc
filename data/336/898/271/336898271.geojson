@@ -2,13 +2,14 @@
   "id": 336898271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.608729,35.868758,-78.608729,35.868758",
     "geom:latitude":35.868758,
     "geom:longitude":-78.608729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Briarforest Pl",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336898271,
-    "wof:lastmodified":1448996903,
+    "wof:lastmodified":1466650393,
     "wof:name":"CCI Appraisals",
     "wof:parent_id":85830857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-78.608729,35.868758,-78.608729,35.868758],
+  "bbox": [
+    -78.608729,
+    35.868758,
+    -78.608729,
+    35.868758
+],
   "geometry": {"coordinates":[-78.608729,35.868758],"type":"Point"}
 }

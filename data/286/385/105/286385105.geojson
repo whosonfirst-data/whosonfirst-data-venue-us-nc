@@ -2,13 +2,14 @@
   "id": 286385105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.352759,35.387204,-81.352759,35.387204",
     "geom:latitude":35.387204,
     "geom:longitude":-81.352759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 E Main St",
     "sg:city":"Cherryville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286385105,
-    "wof:lastmodified":1449016942,
+    "wof:lastmodified":1466644818,
     "wof:name":"Rippy Small Engine Sales & Svc",
     "wof:parent_id":85809581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "repair"
     ]
 },
-  "bbox": [-81.352759,35.387204,-81.352759,35.387204],
-  "geometry": {"coordinates":[-81.352759,35.387204],"type":"Point"}
+  "bbox": [
+    -81.352759,
+    35.387204,
+    -81.352759,
+    35.387204
+],
+  "geometry": {"coordinates":[-81.35275900000001,35.387204],"type":"Point"}
 }

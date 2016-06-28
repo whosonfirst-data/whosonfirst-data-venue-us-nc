@@ -2,13 +2,14 @@
   "id": 370798709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.438065,35.506397,-78.438065,35.506397",
     "geom:latitude":35.506397,
     "geom:longitude":-78.438065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4903 State Hwy 210",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370798709,
-    "wof:lastmodified":1449029723,
+    "wof:lastmodified":1466656155,
     "wof:name":"Stuart Sprinkler Systems",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-78.438065,35.506397,-78.438065,35.506397],
-  "geometry": {"coordinates":[-78.438065,35.506397],"type":"Point"}
+  "bbox": [
+    -78.438065,
+    35.506397,
+    -78.438065,
+    35.506397
+],
+  "geometry": {"coordinates":[-78.43806499999999,35.506397],"type":"Point"}
 }

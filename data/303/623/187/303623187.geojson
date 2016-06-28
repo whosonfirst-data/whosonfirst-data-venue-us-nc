@@ -2,13 +2,14 @@
   "id": 303623187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.843539,35.532547,-78.843539,35.532547",
     "geom:latitude":35.532547,
     "geom:longitude":-78.843539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Hectors Creek Ln",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303623187,
-    "wof:lastmodified":1448999833,
+    "wof:lastmodified":1466652305,
     "wof:name":"RAD Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-78.843539,35.532547,-78.843539,35.532547],
-  "geometry": {"coordinates":[-78.843539,35.532547],"type":"Point"}
+  "bbox": [
+    -78.843539,
+    35.532547,
+    -78.843539,
+    35.532547
+],
+  "geometry": {"coordinates":[-78.84353900000001,35.532547],"type":"Point"}
 }

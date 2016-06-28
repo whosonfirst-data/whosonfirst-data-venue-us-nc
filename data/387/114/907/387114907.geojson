@@ -2,13 +2,14 @@
   "id": 387114907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.117467,35.780135,-78.117467,35.780135",
     "geom:latitude":35.780135,
     "geom:longitude":-78.117467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6421 Deans St",
     "sg:city":"Bailey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387114907,
-    "wof:lastmodified":1449057690,
+    "wof:lastmodified":1466651346,
     "wof:name":"Bailey Feed Mill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-78.117467,35.780135,-78.117467,35.780135],
+  "bbox": [
+    -78.117467,
+    35.780135,
+    -78.117467,
+    35.780135
+],
   "geometry": {"coordinates":[-78.117467,35.780135],"type":"Point"}
 }

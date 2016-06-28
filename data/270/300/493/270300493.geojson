@@ -2,13 +2,14 @@
   "id": 270300493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.645975,35.449506,-80.645975,35.449506",
     "geom:latitude":35.449506,
     "geom:longitude":-80.645975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2418 Applegate Dr",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270300493,
-    "wof:lastmodified":1449010029,
+    "wof:lastmodified":1466646878,
     "wof:name":"Smith Delivery LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.645975,35.449506,-80.645975,35.449506],
-  "geometry": {"coordinates":[-80.645975,35.449506],"type":"Point"}
+  "bbox": [
+    -80.645975,
+    35.449506,
+    -80.645975,
+    35.449506
+],
+  "geometry": {"coordinates":[-80.64597500000001,35.449506],"type":"Point"}
 }

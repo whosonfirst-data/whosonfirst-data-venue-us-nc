@@ -2,13 +2,14 @@
   "id": 303259769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.205596,35.469674,-78.205596,35.469674",
     "geom:latitude":35.469674,
     "geom:longitude":-78.205596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5943 US Hwy 70 E",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303259769,
-    "wof:lastmodified":1448998668,
+    "wof:lastmodified":1466647094,
     "wof:name":"Hicks Service Co",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-78.205596,35.469674,-78.205596,35.469674],
+  "bbox": [
+    -78.205596,
+    35.469674,
+    -78.205596,
+    35.469674
+],
   "geometry": {"coordinates":[-78.205596,35.469674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202568907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.045128,35.556762,-83.045128,35.556762",
     "geom:latitude":35.556762,
     "geom:longitude":-83.045128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Biodome Dr",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202568907,
-    "wof:lastmodified":1449060052,
+    "wof:lastmodified":1466655383,
     "wof:name":"Aspen Glow",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.045128,35.556762,-83.045128,35.556762],
-  "geometry": {"coordinates":[-83.045128,35.556762],"type":"Point"}
+  "bbox": [
+    -83.045128,
+    35.556762,
+    -83.045128,
+    35.556762
+],
+  "geometry": {"coordinates":[-83.04512800000001,35.556762],"type":"Point"}
 }

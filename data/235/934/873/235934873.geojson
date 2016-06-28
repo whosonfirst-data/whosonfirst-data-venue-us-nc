@@ -2,13 +2,14 @@
   "id": 235934873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.658685,35.761483,-78.658685,35.761483",
     "geom:latitude":35.761483,
     "geom:longitude":-78.658685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Maywood Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235934873,
-    "wof:lastmodified":1449008293,
+    "wof:lastmodified":1466643254,
     "wof:name":"Carolinian",
     "wof:parent_id":85873461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-78.658685,35.761483,-78.658685,35.761483],
-  "geometry": {"coordinates":[-78.658685,35.761483],"type":"Point"}
+  "bbox": [
+    -78.658685,
+    35.761483,
+    -78.658685,
+    35.761483
+],
+  "geometry": {"coordinates":[-78.65868500000001,35.761483],"type":"Point"}
 }

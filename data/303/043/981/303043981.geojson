@@ -2,13 +2,14 @@
   "id": 303043981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.677296,35.736805,-81.677296,35.736805",
     "geom:latitude":35.736805,
     "geom:longitude":-81.677296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 S Sterling St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303043981,
-    "wof:lastmodified":1448999945,
+    "wof:lastmodified":1466643875,
     "wof:name":"Pharmacy Svcs Broughton Hosp",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical"
     ]
 },
-  "bbox": [-81.677296,35.736805,-81.677296,35.736805],
+  "bbox": [
+    -81.677296,
+    35.736805,
+    -81.677296,
+    35.736805
+],
   "geometry": {"coordinates":[-81.677296,35.736805],"type":"Point"}
 }

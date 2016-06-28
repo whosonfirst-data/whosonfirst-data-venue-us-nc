@@ -2,13 +2,14 @@
   "id": 203268441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.005058,35.95333,-79.005058,35.95333",
     "geom:latitude":35.95333,
     "geom:longitude":-79.005058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Cloister Ct",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203268441,
-    "wof:lastmodified":1449026028,
+    "wof:lastmodified":1466655698,
     "wof:name":"Nicole Engel PHD",
     "wof:parent_id":85817095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-79.005058,35.95333,-79.005058,35.95333],
-  "geometry": {"coordinates":[-79.005058,35.95333],"type":"Point"}
+  "bbox": [
+    -79.005058,
+    35.95333,
+    -79.005058,
+    35.95333
+],
+  "geometry": {"coordinates":[-79.00505800000001,35.95333],"type":"Point"}
 }

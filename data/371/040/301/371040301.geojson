@@ -2,13 +2,14 @@
   "id": 371040301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.495066,35.847729,-81.495066,35.847729",
     "geom:latitude":35.847729,
     "geom:longitude":-81.495066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Main St",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371040301,
-    "wof:lastmodified":1449050105,
+    "wof:lastmodified":1466649336,
     "wof:name":"Computer Stuff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.495066,35.847729,-81.495066,35.847729],
-  "geometry": {"coordinates":[-81.495066,35.847729],"type":"Point"}
+  "bbox": [
+    -81.495066,
+    35.847729,
+    -81.495066,
+    35.847729
+],
+  "geometry": {"coordinates":[-81.49506599999999,35.847729],"type":"Point"}
 }

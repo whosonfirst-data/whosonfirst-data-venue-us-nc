@@ -2,13 +2,14 @@
   "id": 303875191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.570608,35.85305,-79.570608,35.85305",
     "geom:latitude":35.85305,
     "geom:longitude":-79.570608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Fayetteville St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303875191,
-    "wof:lastmodified":1448999935,
+    "wof:lastmodified":1466655975,
     "wof:name":"Moore Professional Land Srvyrs",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-79.570608,35.85305,-79.570608,35.85305],
-  "geometry": {"coordinates":[-79.570608,35.85305],"type":"Point"}
+  "bbox": [
+    -79.570608,
+    35.85305,
+    -79.570608,
+    35.85305
+],
+  "geometry": {"coordinates":[-79.57060799999999,35.85305],"type":"Point"}
 }

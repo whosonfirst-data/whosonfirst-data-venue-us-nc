@@ -2,13 +2,14 @@
   "id": 387317935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.844098,34.206327,-77.844098,34.206327",
     "geom:latitude":34.206327,
     "geom:longitude":-77.844098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Peiffer Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387317935,
-    "wof:lastmodified":1449057843,
+    "wof:lastmodified":1466654049,
     "wof:name":"Friends School of Wilmington",
     "wof:parent_id":85838865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-77.844098,34.206327,-77.844098,34.206327],
+  "bbox": [
+    -77.844098,
+    34.206327,
+    -77.844098,
+    34.206327
+],
   "geometry": {"coordinates":[-77.844098,34.206327],"type":"Point"}
 }

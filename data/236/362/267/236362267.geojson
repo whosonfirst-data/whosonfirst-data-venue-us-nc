@@ -2,13 +2,14 @@
   "id": 236362267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.649318,35.817744,-78.649318,35.817744",
     "geom:latitude":35.817744,
     "geom:longitude":-78.649318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 Gaddy Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236362267,
-    "wof:lastmodified":1449003854,
+    "wof:lastmodified":1466646413,
     "wof:name":"Hair Metrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-78.649318,35.817744,-78.649318,35.817744],
-  "geometry": {"coordinates":[-78.649318,35.817744],"type":"Point"}
+  "bbox": [
+    -78.649318,
+    35.817744,
+    -78.649318,
+    35.817744
+],
+  "geometry": {"coordinates":[-78.64931799999999,35.817744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253383401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.219383,36.301337,-76.219383,36.301337",
     "geom:latitude":36.301337,
     "geom:longitude":-76.219383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N Poindexter St",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253383401,
-    "wof:lastmodified":1449064082,
+    "wof:lastmodified":1466646962,
     "wof:name":"Total Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-76.219383,36.301337,-76.219383,36.301337],
-  "geometry": {"coordinates":[-76.219383,36.301337],"type":"Point"}
+  "bbox": [
+    -76.219383,
+    36.301337,
+    -76.219383,
+    36.301337
+],
+  "geometry": {"coordinates":[-76.21938299999999,36.301337],"type":"Point"}
 }

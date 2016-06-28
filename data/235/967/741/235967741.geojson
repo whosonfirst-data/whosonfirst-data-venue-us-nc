@@ -2,13 +2,14 @@
   "id": 235967741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.219771,35.48105,-79.219771,35.48105",
     "geom:latitude":35.48105,
     "geom:longitude":-79.219771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2418 Carbonton Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235967741,
-    "wof:lastmodified":1449008590,
+    "wof:lastmodified":1466643521,
     "wof:name":"All Bright Coatings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.219771,35.48105,-79.219771,35.48105],
-  "geometry": {"coordinates":[-79.219771,35.48105],"type":"Point"}
+  "bbox": [
+    -79.219771,
+    35.48105,
+    -79.219771,
+    35.48105
+],
+  "geometry": {"coordinates":[-79.21977099999999,35.48105],"type":"Point"}
 }

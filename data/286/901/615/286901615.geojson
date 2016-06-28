@@ -2,13 +2,14 @@
   "id": 286901615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.941189,34.203613,-77.941189,34.203613",
     "geom:latitude":34.203613,
     "geom:longitude":-77.941189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2075 Carolina Beach Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286901615,
-    "wof:lastmodified":1449016410,
+    "wof:lastmodified":1466651831,
     "wof:name":"Antiques Plus",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.941189,34.203613,-77.941189,34.203613],
-  "geometry": {"coordinates":[-77.941189,34.203613],"type":"Point"}
+  "bbox": [
+    -77.941189,
+    34.203613,
+    -77.941189,
+    34.203613
+],
+  "geometry": {"coordinates":[-77.94118899999999,34.203613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386945401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.461723,35.661566,-80.461723,35.661566",
     "geom:latitude":35.661566,
     "geom:longitude":-80.461723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 N Green St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":386945401,
-    "wof:lastmodified":1449028658,
+    "wof:lastmodified":1466649600,
     "wof:name":"Harviel's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.461723,35.661566,-80.461723,35.661566],
-  "geometry": {"coordinates":[-80.461723,35.661566],"type":"Point"}
+  "bbox": [
+    -80.461723,
+    35.661566,
+    -80.461723,
+    35.661566
+],
+  "geometry": {"coordinates":[-80.46172300000001,35.661566],"type":"Point"}
 }

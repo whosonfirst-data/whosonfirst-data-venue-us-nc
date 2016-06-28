@@ -2,13 +2,14 @@
   "id": 303225549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.867088,34.788023,-76.867088,34.788023",
     "geom:latitude":34.788023,
     "geom:longitude":-76.867088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Howard Blvd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303225549,
-    "wof:lastmodified":1448998878,
+    "wof:lastmodified":1466646588,
     "wof:name":"Newport Florist",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.867088,34.788023,-76.867088,34.788023],
+  "bbox": [
+    -76.867088,
+    34.788023,
+    -76.867088,
+    34.788023
+],
   "geometry": {"coordinates":[-76.867088,34.788023],"type":"Point"}
 }

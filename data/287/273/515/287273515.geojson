@@ -2,13 +2,14 @@
   "id": 287273515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.846333,34.274095,-77.846333,34.274095",
     "geom:latitude":34.274095,
     "geom:longitude":-77.846333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 Hopscotch Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287273515,
-    "wof:lastmodified":1449001118,
+    "wof:lastmodified":1466647105,
     "wof:name":"East Coast Towing",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-77.846333,34.274095,-77.846333,34.274095],
+  "bbox": [
+    -77.846333,
+    34.274095,
+    -77.846333,
+    34.274095
+],
   "geometry": {"coordinates":[-77.846333,34.274095],"type":"Point"}
 }

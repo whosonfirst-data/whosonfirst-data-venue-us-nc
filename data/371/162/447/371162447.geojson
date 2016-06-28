@@ -2,13 +2,14 @@
   "id": 371162447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.297462,36.147988,-80.297462,36.147988",
     "geom:latitude":36.147988,
     "geom:longitude":-80.297462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Woods Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371162447,
-    "wof:lastmodified":1449049976,
+    "wof:lastmodified":1466650875,
     "wof:name":"Woods",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.297462,36.147988,-80.297462,36.147988],
+  "bbox": [
+    -80.297462,
+    36.147988,
+    -80.297462,
+    36.147988
+],
   "geometry": {"coordinates":[-80.297462,36.147988],"type":"Point"}
 }

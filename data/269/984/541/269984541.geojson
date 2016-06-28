@@ -2,13 +2,14 @@
   "id": 269984541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.510247,33.885314,-78.510247,33.885314",
     "geom:latitude":33.885314,
     "geom:longitude":-78.510247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Shoreline Dr E",
     "sg:city":"Sunset Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269984541,
-    "wof:lastmodified":1449037488,
+    "wof:lastmodified":1466649143,
     "wof:name":"Island Breeze Inc",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-78.510247,33.885314,-78.510247,33.885314],
-  "geometry": {"coordinates":[-78.510247,33.885314],"type":"Point"}
+  "bbox": [
+    -78.510247,
+    33.885314,
+    -78.510247,
+    33.885314
+],
+  "geometry": {"coordinates":[-78.51024700000001,33.885314],"type":"Point"}
 }

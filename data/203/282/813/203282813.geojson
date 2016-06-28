@@ -2,13 +2,14 @@
   "id": 203282813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.647444,35.781766,-78.647444,35.781766",
     "geom:latitude":35.781766,
     "geom:longitude":-78.647444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Glenwood Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203282813,
-    "wof:lastmodified":1449026137,
+    "wof:lastmodified":1466655771,
     "wof:name":"Fab Faux",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.647444,35.781766,-78.647444,35.781766],
-  "geometry": {"coordinates":[-78.647444,35.781766],"type":"Point"}
+  "bbox": [
+    -78.647444,
+    35.781766,
+    -78.647444,
+    35.781766
+],
+  "geometry": {"coordinates":[-78.64744399999999,35.781766],"type":"Point"}
 }

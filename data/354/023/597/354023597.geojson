@@ -2,13 +2,14 @@
   "id": 354023597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.440015,35.394461,-78.440015,35.394461",
     "geom:latitude":35.394461,
     "geom:longitude":-78.440015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Dodd-Mclamb Rd",
     "sg:city":"Four Oaks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354023597,
-    "wof:lastmodified":1449067507,
+    "wof:lastmodified":1466647821,
     "wof:name":"Child Nutrition Svc",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-78.440015,35.394461,-78.440015,35.394461],
+  "bbox": [
+    -78.440015,
+    35.394461,
+    -78.440015,
+    35.394461
+],
   "geometry": {"coordinates":[-78.440015,35.394461],"type":"Point"}
 }

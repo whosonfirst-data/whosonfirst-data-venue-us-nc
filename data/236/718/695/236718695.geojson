@@ -2,13 +2,14 @@
   "id": 236718695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.334887,35.261349,-81.334887,35.261349",
     "geom:latitude":35.261349,
     "geom:longitude":-81.334887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Cyclone Ln",
     "sg:city":"Kings Mountain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236718695,
-    "wof:lastmodified":1449002210,
+    "wof:lastmodified":1466649660,
     "wof:name":"Lovelace's Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-81.334887,35.261349,-81.334887,35.261349],
-  "geometry": {"coordinates":[-81.334887,35.261349],"type":"Point"}
+  "bbox": [
+    -81.334887,
+    35.261349,
+    -81.334887,
+    35.261349
+],
+  "geometry": {"coordinates":[-81.33488699999999,35.261349],"type":"Point"}
 }

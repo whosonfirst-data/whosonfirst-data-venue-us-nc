@@ -2,13 +2,14 @@
   "id": 370390021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.710584,35.722548,-78.710584,35.722548",
     "geom:latitude":35.722548,
     "geom:longitude":-78.710584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4117 Charles Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370390021,
-    "wof:lastmodified":1449032510,
+    "wof:lastmodified":1466651142,
     "wof:name":"Tax Deferred Benefits",
     "wof:parent_id":85892163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-78.710584,35.722548,-78.710584,35.722548],
+  "bbox": [
+    -78.710584,
+    35.722548,
+    -78.710584,
+    35.722548
+],
   "geometry": {"coordinates":[-78.710584,35.722548],"type":"Point"}
 }

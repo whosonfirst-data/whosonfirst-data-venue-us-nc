@@ -2,13 +2,14 @@
   "id": 270264289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.455629,35.320242,-78.455629,35.320242",
     "geom:latitude":35.320242,
     "geom:longitude":-78.455629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7368 State Hwy 50 S",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270264289,
-    "wof:lastmodified":1449010256,
+    "wof:lastmodified":1466646397,
     "wof:name":"Balloons & Beyond",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.455629,35.320242,-78.455629,35.320242],
+  "bbox": [
+    -78.455629,
+    35.320242,
+    -78.455629,
+    35.320242
+],
   "geometry": {"coordinates":[-78.455629,35.320242],"type":"Point"}
 }

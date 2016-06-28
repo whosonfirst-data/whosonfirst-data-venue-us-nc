@@ -2,13 +2,14 @@
   "id": 370488169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.391309,35.174524,-79.391309,35.174524",
     "geom:latitude":35.174524,
     "geom:longitude":-79.391309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 NW Broad St",
     "sg:city":"Southern Pines",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370488169,
-    "wof:lastmodified":1449032383,
+    "wof:lastmodified":1466652408,
     "wof:name":"Country Bookshop Inc",
     "wof:parent_id":85834083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-79.391309,35.174524,-79.391309,35.174524],
-  "geometry": {"coordinates":[-79.391309,35.174524],"type":"Point"}
+  "bbox": [
+    -79.391309,
+    35.174524,
+    -79.391309,
+    35.174524
+],
+  "geometry": {"coordinates":[-79.39130900000001,35.174524],"type":"Point"}
 }

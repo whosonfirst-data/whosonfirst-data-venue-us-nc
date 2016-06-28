@@ -2,13 +2,14 @@
   "id": 403771231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.652465,35.323367,-78.652465,35.323367",
     "geom:latitude":35.323367,
     "geom:longitude":-78.652465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Pope St",
     "sg:city":"Erwin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403771231,
-    "wof:lastmodified":1449055353,
+    "wof:lastmodified":1466651210,
     "wof:name":"Stewerts Painting",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.652465,35.323367,-78.652465,35.323367],
-  "geometry": {"coordinates":[-78.652465,35.323367],"type":"Point"}
+  "bbox": [
+    -78.652465,
+    35.323367,
+    -78.652465,
+    35.323367
+],
+  "geometry": {"coordinates":[-78.65246500000001,35.323367],"type":"Point"}
 }

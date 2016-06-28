@@ -2,13 +2,14 @@
   "id": 303384485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.449199,34.775357,-79.449199,34.775357",
     "geom:latitude":34.775357,
     "geom:longitude":-79.449199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Old Lumberton Rd",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303384485,
-    "wof:lastmodified":1448998423,
+    "wof:lastmodified":1466648845,
     "wof:name":"A & S Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.449199,34.775357,-79.449199,34.775357],
-  "geometry": {"coordinates":[-79.449199,34.775357],"type":"Point"}
+  "bbox": [
+    -79.449199,
+    34.775357,
+    -79.449199,
+    34.775357
+],
+  "geometry": {"coordinates":[-79.44919899999999,34.775357],"type":"Point"}
 }

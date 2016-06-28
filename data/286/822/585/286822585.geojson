@@ -2,13 +2,14 @@
   "id": 286822585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.559294,35.621458,-82.559294,35.621458",
     "geom:latitude":35.621458,
     "geom:longitude":-82.559294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Maney Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286822585,
-    "wof:lastmodified":1449017996,
+    "wof:lastmodified":1466650753,
     "wof:name":"Trees Unlimited",
     "wof:parent_id":85859101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-82.559294,35.621458,-82.559294,35.621458],
-  "geometry": {"coordinates":[-82.559294,35.621458],"type":"Point"}
+  "bbox": [
+    -82.559294,
+    35.621458,
+    -82.559294,
+    35.621458
+],
+  "geometry": {"coordinates":[-82.55929399999999,35.621458],"type":"Point"}
 }

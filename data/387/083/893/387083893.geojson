@@ -2,13 +2,14 @@
   "id": 387083893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.337696,35.736692,-81.337696,35.736692",
     "geom:latitude":35.736692,
     "geom:longitude":-81.337696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N Center St",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387083893,
-    "wof:lastmodified":1449057907,
+    "wof:lastmodified":1466650943,
     "wof:name":"Hickory Heart Lung & Vascular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.337696,35.736692,-81.337696,35.736692],
-  "geometry": {"coordinates":[-81.337696,35.736692],"type":"Point"}
+  "bbox": [
+    -81.337696,
+    35.736692,
+    -81.337696,
+    35.736692
+],
+  "geometry": {"coordinates":[-81.33769599999999,35.736692],"type":"Point"}
 }

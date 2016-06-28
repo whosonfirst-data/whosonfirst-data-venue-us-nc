@@ -2,13 +2,14 @@
   "id": 303847125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.745002,35.142026,-80.745002,35.142026",
     "geom:latitude":35.142026,
     "geom:longitude":-80.745002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9404 Wenlock Cir",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303847125,
-    "wof:lastmodified":1448999011,
+    "wof:lastmodified":1466655542,
     "wof:name":"Chesapeake Commercial Prpts",
     "wof:parent_id":85847177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.745002,35.142026,-80.745002,35.142026],
+  "bbox": [
+    -80.745002,
+    35.142026,
+    -80.745002,
+    35.142026
+],
   "geometry": {"coordinates":[-80.745002,35.142026],"type":"Point"}
 }

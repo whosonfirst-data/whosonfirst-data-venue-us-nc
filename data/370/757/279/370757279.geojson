@@ -2,13 +2,14 @@
   "id": 370757279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.592447,35.805222,-78.592447,35.805222",
     "geom:latitude":35.805222,
     "geom:longitude":-78.592447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3053 Lake Woodard Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370757279,
-    "wof:lastmodified":1449030979,
+    "wof:lastmodified":1466655900,
     "wof:name":"Step Up Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.592447,35.805222,-78.592447,35.805222],
-  "geometry": {"coordinates":[-78.592447,35.805222],"type":"Point"}
+  "bbox": [
+    -78.592447,
+    35.805222,
+    -78.592447,
+    35.805222
+],
+  "geometry": {"coordinates":[-78.59244700000001,35.805222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220108483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.473127,35.641397,-80.473127,35.641397",
     "geom:latitude":35.641397,
     "geom:longitude":-80.473127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1953 Jake Alexander Blvd S",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220108483,
-    "wof:lastmodified":1449074079,
+    "wof:lastmodified":1466644079,
     "wof:name":"Addison's Barbering Styles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.473127,35.641397,-80.473127,35.641397],
-  "geometry": {"coordinates":[-80.473127,35.641397],"type":"Point"}
+  "bbox": [
+    -80.473127,
+    35.641397,
+    -80.473127,
+    35.641397
+],
+  "geometry": {"coordinates":[-80.47312700000001,35.641397],"type":"Point"}
 }

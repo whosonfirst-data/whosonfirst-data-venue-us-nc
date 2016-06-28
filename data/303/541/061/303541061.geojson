@@ -2,13 +2,14 @@
   "id": 303541061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.125035,35.259141,-81.125035,35.259141",
     "geom:latitude":35.259141,
     "geom:longitude":-81.125035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2964 E Franklin Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303541061,
-    "wof:lastmodified":1448998392,
+    "wof:lastmodified":1466651109,
     "wof:name":"EPW Communications",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-81.125035,35.259141,-81.125035,35.259141],
+  "bbox": [
+    -81.125035,
+    35.259141,
+    -81.125035,
+    35.259141
+],
   "geometry": {"coordinates":[-81.125035,35.259141],"type":"Point"}
 }

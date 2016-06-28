@@ -2,13 +2,14 @@
   "id": 303830191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.82466,35.864745,-78.82466,35.864745",
     "geom:latitude":35.864745,
     "geom:longitude":-78.82466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Slater Rd",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303830191,
-    "wof:lastmodified":1448998634,
+    "wof:lastmodified":1466655290,
     "wof:name":"Emis International",
     "wof:parent_id":85892019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-78.82466,35.864745,-78.82466,35.864745],
-  "geometry": {"coordinates":[-78.82466,35.864745],"type":"Point"}
+  "bbox": [
+    -78.82466,
+    35.864745,
+    -78.82466,
+    35.864745
+],
+  "geometry": {"coordinates":[-78.82465999999999,35.864745],"type":"Point"}
 }

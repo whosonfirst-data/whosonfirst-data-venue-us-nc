@@ -2,13 +2,14 @@
   "id": 386960197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.185876,35.477051,-79.185876,35.477051",
     "geom:latitude":35.477051,
     "geom:longitude":-79.185876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Carthage St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":386960197,
-    "wof:lastmodified":1449028853,
+    "wof:lastmodified":1466649801,
     "wof:name":"Camerons Body Shop Inc",
     "wof:parent_id":85851589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-79.185876,35.477051,-79.185876,35.477051],
-  "geometry": {"coordinates":[-79.185876,35.477051],"type":"Point"}
+  "bbox": [
+    -79.185876,
+    35.477051,
+    -79.185876,
+    35.477051
+],
+  "geometry": {"coordinates":[-79.18587599999999,35.477051],"type":"Point"}
 }

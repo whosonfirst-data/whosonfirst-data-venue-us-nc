@@ -2,13 +2,14 @@
   "id": 320031663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.41818,36.111851,-79.41818,36.111851",
     "geom:latitude":36.111851,
     "geom:longitude":-79.41818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Sharpe Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320031663,
-    "wof:lastmodified":1449012668,
+    "wof:lastmodified":1466645782,
     "wof:name":"Angie's Salon",
     "wof:parent_id":85838431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.41818,36.111851,-79.41818,36.111851],
-  "geometry": {"coordinates":[-79.41818,36.111851],"type":"Point"}
+  "bbox": [
+    -79.41818,
+    36.111851,
+    -79.41818,
+    36.111851
+],
+  "geometry": {"coordinates":[-79.41818000000001,36.111851],"type":"Point"}
 }

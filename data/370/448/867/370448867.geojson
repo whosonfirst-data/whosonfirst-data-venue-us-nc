@@ -2,13 +2,14 @@
   "id": 370448867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.469012,36.420975,-81.469012,36.420975",
     "geom:latitude":36.420975,
     "geom:longitude":-81.469012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E Main St",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370448867,
-    "wof:lastmodified":1449032305,
+    "wof:lastmodified":1466651906,
     "wof:name":"Ashe County Food Stamps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-81.469012,36.420975,-81.469012,36.420975],
-  "geometry": {"coordinates":[-81.469012,36.420975],"type":"Point"}
+  "bbox": [
+    -81.469012,
+    36.420975,
+    -81.469012,
+    36.420975
+],
+  "geometry": {"coordinates":[-81.46901200000001,36.420975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387258573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.865788,35.783021,-80.865788,35.783021",
     "geom:latitude":35.783021,
     "geom:longitude":-80.865788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Spring Valley Ln",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387258573,
-    "wof:lastmodified":1449059133,
+    "wof:lastmodified":1466653269,
     "wof:name":"Gill's Painting & Decorating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.865788,35.783021,-80.865788,35.783021],
-  "geometry": {"coordinates":[-80.865788,35.783021],"type":"Point"}
+  "bbox": [
+    -80.865788,
+    35.783021,
+    -80.865788,
+    35.783021
+],
+  "geometry": {"coordinates":[-80.86578799999999,35.783021],"type":"Point"}
 }

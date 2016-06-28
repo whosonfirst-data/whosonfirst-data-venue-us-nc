@@ -2,13 +2,14 @@
   "id": 303160597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.085916,35.926216,-79.085916,35.926216",
     "geom:latitude":35.926216,
     "geom:longitude":-79.085916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Blueridge Rd",
     "sg:city":"Carrboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303160597,
-    "wof:lastmodified":1449000174,
+    "wof:lastmodified":1466645619,
     "wof:name":"Robert Millikan",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-79.085916,35.926216,-79.085916,35.926216],
+  "bbox": [
+    -79.085916,
+    35.926216,
+    -79.085916,
+    35.926216
+],
   "geometry": {"coordinates":[-79.085916,35.926216],"type":"Point"}
 }

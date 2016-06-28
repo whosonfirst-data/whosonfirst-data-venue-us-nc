@@ -2,13 +2,14 @@
   "id": 387047839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.509893,35.977068,-78.509893,35.977068",
     "geom:latitude":35.977068,
     "geom:longitude":-78.509893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 E Owen Ave",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387047839,
-    "wof:lastmodified":1449058566,
+    "wof:lastmodified":1466650481,
     "wof:name":"Holding Park Pool",
     "wof:parent_id":85892169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-78.509893,35.977068,-78.509893,35.977068],
-  "geometry": {"coordinates":[-78.509893,35.977068],"type":"Point"}
+  "bbox": [
+    -78.509893,
+    35.977068,
+    -78.509893,
+    35.977068
+],
+  "geometry": {"coordinates":[-78.50989300000001,35.977068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353860111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.838462,35.204578,-80.838462,35.204578",
     "geom:latitude":35.204578,
     "geom:longitude":-80.838462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Blythe Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353860111,
-    "wof:lastmodified":1449019399,
+    "wof:lastmodified":1466652443,
     "wof:name":"Blumenthal Cancer Ctr",
     "wof:parent_id":85814539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.838462,35.204578,-80.838462,35.204578],
-  "geometry": {"coordinates":[-80.838462,35.204578],"type":"Point"}
+  "bbox": [
+    -80.838462,
+    35.204578,
+    -80.838462,
+    35.204578
+],
+  "geometry": {"coordinates":[-80.83846200000001,35.204578],"type":"Point"}
 }

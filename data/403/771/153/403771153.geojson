@@ -2,13 +2,14 @@
   "id": 403771153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.597997,35.273208,-77.597997,35.273208",
     "geom:latitude":35.273208,
     "geom:longitude":-77.597997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Greenbriar Rd",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403771153,
-    "wof:lastmodified":1449055352,
+    "wof:lastmodified":1466651209,
     "wof:name":"C-Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.597997,35.273208,-77.597997,35.273208],
-  "geometry": {"coordinates":[-77.597997,35.273208],"type":"Point"}
+  "bbox": [
+    -77.597997,
+    35.273208,
+    -77.597997,
+    35.273208
+],
+  "geometry": {"coordinates":[-77.59799700000001,35.273208],"type":"Point"}
 }

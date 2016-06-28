@@ -2,13 +2,14 @@
   "id": 370608721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.936408,34.276757,-78.936408,34.276757",
     "geom:latitude":34.276757,
     "geom:longitude":-78.936408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4835 Dolph Lewis Rd",
     "sg:city":"Cerro Gordo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370608721,
-    "wof:lastmodified":1449030534,
+    "wof:lastmodified":1466653988,
     "wof:name":"Bushey Bay Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-78.936408,34.276757,-78.936408,34.276757],
+  "bbox": [
+    -78.936408,
+    34.276757,
+    -78.936408,
+    34.276757
+],
   "geometry": {"coordinates":[-78.936408,34.276757],"type":"Point"}
 }

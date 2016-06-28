@@ -2,13 +2,14 @@
   "id": 353652389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.587427,36.313188,-78.587427,36.313188",
     "geom:latitude":36.313188,
     "geom:longitude":-78.587427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 New College St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353652389,
-    "wof:lastmodified":1449019898,
+    "wof:lastmodified":1466650030,
     "wof:name":"Eugene D Day MD",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.587427,36.313188,-78.587427,36.313188],
-  "geometry": {"coordinates":[-78.587427,36.313188],"type":"Point"}
+  "bbox": [
+    -78.587427,
+    36.313188,
+    -78.587427,
+    36.313188
+],
+  "geometry": {"coordinates":[-78.58742700000001,36.313188],"type":"Point"}
 }

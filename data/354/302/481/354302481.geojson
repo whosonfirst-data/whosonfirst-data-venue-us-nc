@@ -2,13 +2,14 @@
   "id": 354302481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.393338,36.295091,-78.393338,36.295091",
     "geom:latitude":36.295091,
     "geom:longitude":-78.393338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 J P Taylor Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354302481,
-    "wof:lastmodified":1449066485,
+    "wof:lastmodified":1466651042,
     "wof:name":"Gilbert Manufacturing",
     "wof:parent_id":85857977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-78.393338,36.295091,-78.393338,36.295091],
+  "bbox": [
+    -78.393338,
+    36.295091,
+    -78.393338,
+    36.295091
+],
   "geometry": {"coordinates":[-78.393338,36.295091],"type":"Point"}
 }

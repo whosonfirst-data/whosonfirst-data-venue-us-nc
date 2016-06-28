@@ -2,13 +2,14 @@
   "id": 353585129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.040895,34.458207,-79.040895,34.458207",
     "geom:latitude":34.458207,
     "geom:longitude":-79.040895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Byrd Rd",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353585129,
-    "wof:lastmodified":1449019945,
+    "wof:lastmodified":1466649220,
     "wof:name":"Ellerbee Meat Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.040895,34.458207,-79.040895,34.458207],
-  "geometry": {"coordinates":[-79.040895,34.458207],"type":"Point"}
+  "bbox": [
+    -79.040895,
+    34.458207,
+    -79.040895,
+    34.458207
+],
+  "geometry": {"coordinates":[-79.04089500000001,34.458207],"type":"Point"}
 }

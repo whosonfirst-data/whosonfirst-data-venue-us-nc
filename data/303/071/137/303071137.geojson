@@ -2,13 +2,14 @@
   "id": 303071137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.300363,35.67612,-77.300363,35.67612",
     "geom:latitude":35.67612,
     "geom:longitude":-77.300363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2647 Oakley Rd",
     "sg:city":"Stokes",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303071137,
-    "wof:lastmodified":1448999658,
+    "wof:lastmodified":1466644265,
     "wof:name":"Lisbon Farm",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-77.300363,35.67612,-77.300363,35.67612],
+  "bbox": [
+    -77.300363,
+    35.67612,
+    -77.300363,
+    35.67612
+],
   "geometry": {"coordinates":[-77.300363,35.67612],"type":"Point"}
 }

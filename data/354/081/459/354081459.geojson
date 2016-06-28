@@ -2,13 +2,14 @@
   "id": 354081459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.936828,35.044185,-78.936828,35.044185",
     "geom:latitude":35.044185,
     "geom:longitude":-78.936828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Raeford Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354081459,
-    "wof:lastmodified":1449066431,
+    "wof:lastmodified":1466648513,
     "wof:name":"Pierros Italian Bistro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.936828,35.044185,-78.936828,35.044185],
-  "geometry": {"coordinates":[-78.936828,35.044185],"type":"Point"}
+  "bbox": [
+    -78.936828,
+    35.044185,
+    -78.936828,
+    35.044185
+],
+  "geometry": {"coordinates":[-78.93682800000001,35.044185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370276053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.819231,35.951273,-77.819231,35.951273",
     "geom:latitude":35.951273,
     "geom:longitude":-77.819231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 W Thomas St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370276053,
-    "wof:lastmodified":1449029190,
+    "wof:lastmodified":1466649721,
     "wof:name":"Anderson & Anderson LLP",
     "wof:parent_id":85851697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-77.819231,35.951273,-77.819231,35.951273],
+  "bbox": [
+    -77.819231,
+    35.951273,
+    -77.819231,
+    35.951273
+],
   "geometry": {"coordinates":[-77.819231,35.951273],"type":"Point"}
 }

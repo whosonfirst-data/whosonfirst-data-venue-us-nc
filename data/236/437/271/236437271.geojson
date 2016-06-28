@@ -2,13 +2,14 @@
   "id": 236437271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.608155,34.408755,-77.608155,34.408755",
     "geom:latitude":34.408755,
     "geom:longitude":-77.608155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"547 Lewis Rd",
     "sg:city":"Hampstead",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236437271,
-    "wof:lastmodified":1449004147,
+    "wof:lastmodified":1466647058,
     "wof:name":"Medical Pro Files",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-77.608155,34.408755,-77.608155,34.408755],
+  "bbox": [
+    -77.608155,
+    34.408755,
+    -77.608155,
+    34.408755
+],
   "geometry": {"coordinates":[-77.608155,34.408755],"type":"Point"}
 }

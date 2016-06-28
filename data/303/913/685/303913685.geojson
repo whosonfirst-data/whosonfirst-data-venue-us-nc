@@ -2,13 +2,14 @@
   "id": 303913685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.640155,35.79734,-78.640155,35.79734",
     "geom:latitude":35.79734,
     "geom:longitude":-78.640155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303913685,
-    "wof:lastmodified":1448999064,
+    "wof:lastmodified":1466656101,
     "wof:name":"Capitol Auto Inc",
     "wof:parent_id":85873453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-78.640155,35.79734,-78.640155,35.79734],
-  "geometry": {"coordinates":[-78.640155,35.79734],"type":"Point"}
+  "bbox": [
+    -78.640155,
+    35.79734,
+    -78.640155,
+    35.79734
+],
+  "geometry": {"coordinates":[-78.64015499999999,35.79734],"type":"Point"}
 }

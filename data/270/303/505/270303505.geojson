@@ -2,13 +2,14 @@
   "id": 270303505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.099461,35.050682,-77.099461,35.050682",
     "geom:latitude":35.050682,
     "geom:longitude":-77.099461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Croatan Ln",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270303505,
-    "wof:lastmodified":1449008682,
+    "wof:lastmodified":1466646922,
     "wof:name":"New Eastern Furniture Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-77.099461,35.050682,-77.099461,35.050682],
-  "geometry": {"coordinates":[-77.099461,35.050682],"type":"Point"}
+  "bbox": [
+    -77.099461,
+    35.050682,
+    -77.099461,
+    35.050682
+],
+  "geometry": {"coordinates":[-77.09946100000001,35.050682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303493917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.808956,35.640978,-78.808956,35.640978",
     "geom:latitude":35.640978,
     "geom:longitude":-78.808956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Stephen Springs Ct",
     "sg:city":"Holly Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303493917,
-    "wof:lastmodified":1448998892,
+    "wof:lastmodified":1466650434,
     "wof:name":"Principal Life Insurance Co",
     "wof:parent_id":85891973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-78.808956,35.640978,-78.808956,35.640978],
-  "geometry": {"coordinates":[-78.808956,35.640978],"type":"Point"}
+  "bbox": [
+    -78.808956,
+    35.640978,
+    -78.808956,
+    35.640978
+],
+  "geometry": {"coordinates":[-78.80895599999999,35.640978],"type":"Point"}
 }

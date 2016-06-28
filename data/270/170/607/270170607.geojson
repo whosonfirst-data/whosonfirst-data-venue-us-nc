@@ -2,13 +2,14 @@
   "id": 270170607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.939881,35.991178,-76.939881,35.991178",
     "geom:latitude":35.991178,
     "geom:longitude":-76.939881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 S King St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270170607,
-    "wof:lastmodified":1449008869,
+    "wof:lastmodified":1466645239,
     "wof:name":"Bertie Ambulance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-76.939881,35.991178,-76.939881,35.991178],
+  "bbox": [
+    -76.939881,
+    35.991178,
+    -76.939881,
+    35.991178
+],
   "geometry": {"coordinates":[-76.939881,35.991178],"type":"Point"}
 }

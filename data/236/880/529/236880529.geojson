@@ -2,13 +2,14 @@
   "id": 236880529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.544418,35.844815,-78.544418,35.844815",
     "geom:latitude":35.844815,
     "geom:longitude":-78.544418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 Dogtrott Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236880529,
-    "wof:lastmodified":1449005287,
+    "wof:lastmodified":1466651122,
     "wof:name":"Shaggs Cleaning Svc",
     "wof:parent_id":85857779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-78.544418,35.844815,-78.544418,35.844815],
-  "geometry": {"coordinates":[-78.544418,35.844815],"type":"Point"}
+  "bbox": [
+    -78.544418,
+    35.844815,
+    -78.544418,
+    35.844815
+],
+  "geometry": {"coordinates":[-78.54441799999999,35.844815],"type":"Point"}
 }

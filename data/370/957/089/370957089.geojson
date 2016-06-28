@@ -2,13 +2,14 @@
   "id": 370957089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.645896,35.847828,-75.645896,35.847828",
     "geom:latitude":35.847828,
     "geom:longitude":-75.645896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Darrell Ln",
     "sg:city":"Wanchese",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370957089,
-    "wof:lastmodified":1449031963,
+    "wof:lastmodified":1466656992,
     "wof:name":"TCH Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.645896,35.847828,-75.645896,35.847828],
-  "geometry": {"coordinates":[-75.645896,35.847828],"type":"Point"}
+  "bbox": [
+    -75.645896,
+    35.847828,
+    -75.645896,
+    35.847828
+],
+  "geometry": {"coordinates":[-75.64589599999999,35.847828],"type":"Point"}
 }

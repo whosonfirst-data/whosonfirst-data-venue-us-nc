@@ -2,13 +2,14 @@
   "id": 336845509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.170127,35.261146,-81.170127,35.261146",
     "geom:latitude":35.261146,
     "geom:longitude":-81.170127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 S Chestnut St",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336845509,
-    "wof:lastmodified":1448997118,
+    "wof:lastmodified":1466649578,
     "wof:name":"Whitsides & Company Insurance",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.170127,35.261146,-81.170127,35.261146],
-  "geometry": {"coordinates":[-81.170127,35.261146],"type":"Point"}
+  "bbox": [
+    -81.170127,
+    35.261146,
+    -81.170127,
+    35.261146
+],
+  "geometry": {"coordinates":[-81.17012699999999,35.261146],"type":"Point"}
 }

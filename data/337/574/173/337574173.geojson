@@ -2,13 +2,14 @@
   "id": 337574173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.415883,35.159888,-79.415883,35.159888",
     "geom:latitude":35.159888,
     "geom:longitude":-79.415883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Pinehurst Ave",
     "sg:city":"Southern Pines",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337574173,
-    "wof:lastmodified":1449026925,
+    "wof:lastmodified":1466647756,
     "wof:name":"Flower Stall 1",
     "wof:parent_id":85834083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.415883,35.159888,-79.415883,35.159888],
-  "geometry": {"coordinates":[-79.415883,35.159888],"type":"Point"}
+  "bbox": [
+    -79.415883,
+    35.159888,
+    -79.415883,
+    35.159888
+],
+  "geometry": {"coordinates":[-79.41588299999999,35.159888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320457453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815031,35.813156,-79.815031,35.813156",
     "geom:latitude":35.813156,
     "geom:longitude":-79.815031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 S Stout St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320457453,
-    "wof:lastmodified":1449013781,
+    "wof:lastmodified":1466651745,
     "wof:name":"Randleman City Parks",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-79.815031,35.813156,-79.815031,35.813156],
+  "bbox": [
+    -79.815031,
+    35.813156,
+    -79.815031,
+    35.813156
+],
   "geometry": {"coordinates":[-79.815031,35.813156],"type":"Point"}
 }

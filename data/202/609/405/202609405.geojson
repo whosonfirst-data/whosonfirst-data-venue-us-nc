@@ -2,13 +2,14 @@
   "id": 202609405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.871581,34.916697,-78.871581,34.916697",
     "geom:latitude":34.916697,
     "geom:longitude":-78.871581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6441 Emu Dr",
     "sg:city":"Hope Mills",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202609405,
-    "wof:lastmodified":1449061058,
+    "wof:lastmodified":1466655549,
     "wof:name":"Keystone Construction & Cnslt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.871581,34.916697,-78.871581,34.916697],
-  "geometry": {"coordinates":[-78.871581,34.916697],"type":"Point"}
+  "bbox": [
+    -78.871581,
+    34.916697,
+    -78.871581,
+    34.916697
+],
+  "geometry": {"coordinates":[-78.87158100000001,34.916697],"type":"Point"}
 }

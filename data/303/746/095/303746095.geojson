@@ -2,13 +2,14 @@
   "id": 303746095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.490176,33.890852,-78.490176,33.890852",
     "geom:latitude":33.890852,
     "geom:longitude":-78.490176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Indigo Cir",
     "sg:city":"Sunset Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303746095,
-    "wof:lastmodified":1448998096,
+    "wof:lastmodified":1466654082,
     "wof:name":"Ferguson Heating & Cooling",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.490176,33.890852,-78.490176,33.890852],
-  "geometry": {"coordinates":[-78.490176,33.890852],"type":"Point"}
+  "bbox": [
+    -78.490176,
+    33.890852,
+    -78.490176,
+    33.890852
+],
+  "geometry": {"coordinates":[-78.49017600000001,33.890852],"type":"Point"}
 }

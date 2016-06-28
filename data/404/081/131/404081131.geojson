@@ -2,13 +2,14 @@
   "id": 404081131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.544199,35.34428,-82.544199,35.34428",
     "geom:latitude":35.34428,
     "geom:longitude":-82.544199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Larchmont Dr",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404081131,
-    "wof:lastmodified":1449039390,
+    "wof:lastmodified":1466652313,
     "wof:name":"Big Ridge Tree Farm",
     "wof:parent_id":85857753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-82.544199,35.34428,-82.544199,35.34428],
-  "geometry": {"coordinates":[-82.544199,35.34428],"type":"Point"}
+  "bbox": [
+    -82.544199,
+    35.34428,
+    -82.544199,
+    35.34428
+],
+  "geometry": {"coordinates":[-82.54419900000001,35.34428],"type":"Point"}
 }

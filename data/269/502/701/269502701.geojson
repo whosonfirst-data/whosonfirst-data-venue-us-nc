@@ -2,13 +2,14 @@
   "id": 269502701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.568237,35.675328,-79.568237,35.675328",
     "geom:latitude":35.675328,
     "geom:longitude":-79.568237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2898 Old Coleridge Rd",
     "sg:city":"Siler City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269502701,
-    "wof:lastmodified":1449037244,
+    "wof:lastmodified":1466643440,
     "wof:name":"LTR Svc",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-79.568237,35.675328,-79.568237,35.675328],
+  "bbox": [
+    -79.568237,
+    35.675328,
+    -79.568237,
+    35.675328
+],
   "geometry": {"coordinates":[-79.568237,35.675328],"type":"Point"}
 }

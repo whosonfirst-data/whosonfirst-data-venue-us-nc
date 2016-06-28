@@ -2,13 +2,14 @@
   "id": 371173633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.785013,35.973643,-77.785013,35.973643",
     "geom:latitude":35.973643,
     "geom:longitude":-77.785013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 N Church St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371173633,
-    "wof:lastmodified":1449049245,
+    "wof:lastmodified":1466651027,
     "wof:name":"Automatic Bankcard Svc",
     "wof:parent_id":85851697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-77.785013,35.973643,-77.785013,35.973643],
-  "geometry": {"coordinates":[-77.785013,35.973643],"type":"Point"}
+  "bbox": [
+    -77.785013,
+    35.973643,
+    -77.785013,
+    35.973643
+],
+  "geometry": {"coordinates":[-77.78501300000001,35.973643],"type":"Point"}
 }

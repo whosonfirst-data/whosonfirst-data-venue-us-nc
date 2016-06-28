@@ -2,13 +2,14 @@
   "id": 354325717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.746361,35.20893,-80.746361,35.20893",
     "geom:latitude":35.20893,
     "geom:longitude":-80.746361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Wilora Lake Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354325717,
-    "wof:lastmodified":1449066577,
+    "wof:lastmodified":1466651325,
     "wof:name":"Paragon Rehabilitation",
     "wof:parent_id":85882269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-80.746361,35.20893,-80.746361,35.20893],
-  "geometry": {"coordinates":[-80.746361,35.20893],"type":"Point"}
+  "bbox": [
+    -80.746361,
+    35.20893,
+    -80.746361,
+    35.20893
+],
+  "geometry": {"coordinates":[-80.74636099999999,35.20893],"type":"Point"}
 }

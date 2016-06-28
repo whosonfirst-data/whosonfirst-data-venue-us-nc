@@ -2,13 +2,14 @@
   "id": 270401251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.051426,34.666337,-78.051426,34.666337",
     "geom:latitude":34.666337,
     "geom:longitude":-78.051426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Gail Rd",
     "sg:city":"Willard",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270401251,
-    "wof:lastmodified":1449010711,
+    "wof:lastmodified":1466648149,
     "wof:name":"Flip Flop Hair & Tanning Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.051426,34.666337,-78.051426,34.666337],
-  "geometry": {"coordinates":[-78.051426,34.666337],"type":"Point"}
+  "bbox": [
+    -78.051426,
+    34.666337,
+    -78.051426,
+    34.666337
+],
+  "geometry": {"coordinates":[-78.05142600000001,34.666337],"type":"Point"}
 }

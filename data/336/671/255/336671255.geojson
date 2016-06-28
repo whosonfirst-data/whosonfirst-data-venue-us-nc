@@ -2,13 +2,14 @@
   "id": 336671255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.478535,35.665836,-80.478535,35.665836",
     "geom:latitude":35.665836,
     "geom:longitude":-80.478535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 W Marsh St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336671255,
-    "wof:lastmodified":1448997198,
+    "wof:lastmodified":1466646941,
     "wof:name":"Temple Dowd",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.478535,35.665836,-80.478535,35.665836],
-  "geometry": {"coordinates":[-80.478535,35.665836],"type":"Point"}
+  "bbox": [
+    -80.478535,
+    35.665836,
+    -80.478535,
+    35.665836
+],
+  "geometry": {"coordinates":[-80.47853499999999,35.665836],"type":"Point"}
 }

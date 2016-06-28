@@ -2,13 +2,14 @@
   "id": 353633725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.208413,35.237905,-82.208413,35.237905",
     "geom:latitude":35.237905,
     "geom:longitude":-82.208413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Shuford Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353633725,
-    "wof:lastmodified":1449020762,
+    "wof:lastmodified":1466649829,
     "wof:name":"Bonnie Brae Vet Hosp Pa Equine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-82.208413,35.237905,-82.208413,35.237905],
-  "geometry": {"coordinates":[-82.208413,35.237905],"type":"Point"}
+  "bbox": [
+    -82.208413,
+    35.237905,
+    -82.208413,
+    35.237905
+],
+  "geometry": {"coordinates":[-82.20841299999999,35.237905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303546585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.608337,35.875822,-78.608337,35.875822",
     "geom:latitude":35.875822,
     "geom:longitude":-78.608337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7116 N Ridge Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303546585,
-    "wof:lastmodified":1448998110,
+    "wof:lastmodified":1466651188,
     "wof:name":"HBO Systems Inc",
     "wof:parent_id":85830857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-78.608337,35.875822,-78.608337,35.875822],
-  "geometry": {"coordinates":[-78.608337,35.875822],"type":"Point"}
+  "bbox": [
+    -78.608337,
+    35.875822,
+    -78.608337,
+    35.875822
+],
+  "geometry": {"coordinates":[-78.60833700000001,35.875822],"type":"Point"}
 }

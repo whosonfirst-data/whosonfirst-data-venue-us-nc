@@ -2,13 +2,14 @@
   "id": 404217959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.034845,35.549945,-77.034845,35.549945",
     "geom:latitude":35.549945,
     "geom:longitude":-77.034845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Highland Dr",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":404217959,
-    "wof:lastmodified":1449040272,
+    "wof:lastmodified":1466654070,
     "wof:name":"Tideland Mental Health Center",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "specialty"
     ]
 },
-  "bbox": [-77.034845,35.549945,-77.034845,35.549945],
+  "bbox": [
+    -77.034845,
+    35.549945,
+    -77.034845,
+    35.549945
+],
   "geometry": {"coordinates":[-77.034845,35.549945],"type":"Point"}
 }

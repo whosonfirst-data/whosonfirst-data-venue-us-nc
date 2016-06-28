@@ -2,13 +2,14 @@
   "id": 370185079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.988901,35.491926,-82.988901,35.491926",
     "geom:latitude":35.491926,
     "geom:longitude":-82.988901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 N Haywood St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370185079,
-    "wof:lastmodified":1449029643,
+    "wof:lastmodified":1466648581,
     "wof:name":"US Marine Recruiting Station",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recruiting"
     ]
 },
-  "bbox": [-82.988901,35.491926,-82.988901,35.491926],
+  "bbox": [
+    -82.988901,
+    35.491926,
+    -82.988901,
+    35.491926
+],
   "geometry": {"coordinates":[-82.988901,35.491926],"type":"Point"}
 }

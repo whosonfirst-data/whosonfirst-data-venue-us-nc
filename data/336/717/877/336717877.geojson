@@ -2,13 +2,14 @@
   "id": 336717877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24675,35.835137,-80.24675,35.835137",
     "geom:latitude":35.835137,
     "geom:longitude":-80.24675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Piedmont Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336717877,
-    "wof:lastmodified":1448996940,
+    "wof:lastmodified":1466647628,
     "wof:name":"Midtown Grill",
     "wof:parent_id":85837937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.24675,35.835137,-80.24675,35.835137],
-  "geometry": {"coordinates":[-80.24675,35.835137],"type":"Point"}
+  "bbox": [
+    -80.24675,
+    35.835137,
+    -80.24675,
+    35.835137
+],
+  "geometry": {"coordinates":[-80.24675000000001,35.835137],"type":"Point"}
 }

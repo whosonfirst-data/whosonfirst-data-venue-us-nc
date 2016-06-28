@@ -2,13 +2,14 @@
   "id": 403742031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.47902,35.265435,-81.47902,35.265435",
     "geom:latitude":35.265435,
     "geom:longitude":-81.47902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2056 E Dixon Blvd",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403742031,
-    "wof:lastmodified":1449054720,
+    "wof:lastmodified":1466650831,
     "wof:name":"Shoco Inc Boats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "marine"
     ]
 },
-  "bbox": [-81.47902,35.265435,-81.47902,35.265435],
-  "geometry": {"coordinates":[-81.47902,35.265435],"type":"Point"}
+  "bbox": [
+    -81.47902,
+    35.265435,
+    -81.47902,
+    35.265435
+],
+  "geometry": {"coordinates":[-81.47902000000001,35.265435],"type":"Point"}
 }

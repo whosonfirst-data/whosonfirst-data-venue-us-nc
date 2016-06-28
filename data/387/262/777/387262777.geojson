@@ -2,13 +2,14 @@
   "id": 387262777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.354481,35.245518,-78.354481,35.245518",
     "geom:latitude":35.245518,
     "geom:longitude":-78.354481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Fayetteville St",
     "sg:city":"Newton Grove",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387262777,
-    "wof:lastmodified":1449058459,
+    "wof:lastmodified":1466653321,
     "wof:name":"Newton Grove Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.354481,35.245518,-78.354481,35.245518],
-  "geometry": {"coordinates":[-78.354481,35.245518],"type":"Point"}
+  "bbox": [
+    -78.354481,
+    35.245518,
+    -78.354481,
+    35.245518
+],
+  "geometry": {"coordinates":[-78.35448100000001,35.245518],"type":"Point"}
 }

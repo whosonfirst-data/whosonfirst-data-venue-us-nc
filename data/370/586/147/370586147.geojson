@@ -2,13 +2,14 @@
   "id": 370586147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.330373,34.771286,-77.330373,34.771286",
     "geom:latitude":34.771286,
     "geom:longitude":-77.330373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Carolina Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370586147,
-    "wof:lastmodified":1449032086,
+    "wof:lastmodified":1466653704,
     "wof:name":"Jacksonville Realty Inc",
     "wof:parent_id":85834913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.330373,34.771286,-77.330373,34.771286],
-  "geometry": {"coordinates":[-77.330373,34.771286],"type":"Point"}
+  "bbox": [
+    -77.330373,
+    34.771286,
+    -77.330373,
+    34.771286
+],
+  "geometry": {"coordinates":[-77.33037299999999,34.771286],"type":"Point"}
 }

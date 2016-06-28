@@ -2,13 +2,14 @@
   "id": 320104933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.864765,35.95687,-78.864765,35.95687",
     "geom:latitude":35.95687,
     "geom:longitude":-78.864765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 Glover Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320104933,
-    "wof:lastmodified":1449012807,
+    "wof:lastmodified":1466646770,
     "wof:name":"Reece Pump Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-78.864765,35.95687,-78.864765,35.95687],
-  "geometry": {"coordinates":[-78.864765,35.95687],"type":"Point"}
+  "bbox": [
+    -78.864765,
+    35.95687,
+    -78.864765,
+    35.95687
+],
+  "geometry": {"coordinates":[-78.86476500000001,35.95687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320102497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.088485,36.062717,-79.088485,36.062717",
     "geom:latitude":36.062717,
     "geom:longitude":-79.088485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Valley Forge Rd",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320102497,
-    "wof:lastmodified":1449014683,
+    "wof:lastmodified":1466646739,
     "wof:name":"Orange Enterprises Inc",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-79.088485,36.062717,-79.088485,36.062717],
-  "geometry": {"coordinates":[-79.088485,36.062717],"type":"Point"}
+  "bbox": [
+    -79.088485,
+    36.062717,
+    -79.088485,
+    36.062717
+],
+  "geometry": {"coordinates":[-79.08848500000001,36.062717],"type":"Point"}
 }

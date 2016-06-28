@@ -2,13 +2,14 @@
   "id": 235953535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.092062,35.23014,-81.092062,35.23014",
     "geom:latitude":35.23014,
     "geom:longitude":-81.092062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 King Arthur Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235953535,
-    "wof:lastmodified":1449008469,
+    "wof:lastmodified":1466643401,
     "wof:name":"RES-Care Inc",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.092062,35.23014,-81.092062,35.23014],
+  "bbox": [
+    -81.092062,
+    35.23014,
+    -81.092062,
+    35.23014
+],
   "geometry": {"coordinates":[-81.092062,35.23014],"type":"Point"}
 }

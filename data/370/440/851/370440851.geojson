@@ -2,13 +2,14 @@
   "id": 370440851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.050255,36.068777,-79.050255,36.068777",
     "geom:latitude":36.068777,
     "geom:longitude":-79.050255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Palmers Grove Church Rd",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370440851,
-    "wof:lastmodified":1449030287,
+    "wof:lastmodified":1466651812,
     "wof:name":"Palmer's Grove United Meth Chr",
     "wof:parent_id":85807487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.050255,36.068777,-79.050255,36.068777],
-  "geometry": {"coordinates":[-79.050255,36.068777],"type":"Point"}
+  "bbox": [
+    -79.050255,
+    36.068777,
+    -79.050255,
+    36.068777
+],
+  "geometry": {"coordinates":[-79.05025500000001,36.068777],"type":"Point"}
 }

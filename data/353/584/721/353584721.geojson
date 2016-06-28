@@ -2,13 +2,14 @@
   "id": 353584721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246051,36.099728,-80.246051,36.099728",
     "geom:latitude":36.099728,
     "geom:longitude":-80.246051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Trade St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353584721,
-    "wof:lastmodified":1449018533,
+    "wof:lastmodified":1466649215,
     "wof:name":"Beauty Town",
     "wof:parent_id":85867051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "perfume"
     ]
 },
-  "bbox": [-80.246051,36.099728,-80.246051,36.099728],
-  "geometry": {"coordinates":[-80.246051,36.099728],"type":"Point"}
+  "bbox": [
+    -80.246051,
+    36.099728,
+    -80.246051,
+    36.099728
+],
+  "geometry": {"coordinates":[-80.24605099999999,36.099728],"type":"Point"}
 }

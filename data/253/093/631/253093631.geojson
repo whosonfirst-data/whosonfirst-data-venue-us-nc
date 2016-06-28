@@ -2,13 +2,14 @@
   "id": 253093631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.868223,35.815985,-79.868223,35.815985",
     "geom:latitude":35.815985,
     "geom:longitude":-79.868223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2092 Beckerdite Rd",
     "sg:city":"Sophia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253093631,
-    "wof:lastmodified":1449062830,
+    "wof:lastmodified":1466644011,
     "wof:name":"Heritage Fence",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-79.868223,35.815985,-79.868223,35.815985],
+  "bbox": [
+    -79.868223,
+    35.815985,
+    -79.868223,
+    35.815985
+],
   "geometry": {"coordinates":[-79.868223,35.815985],"type":"Point"}
 }

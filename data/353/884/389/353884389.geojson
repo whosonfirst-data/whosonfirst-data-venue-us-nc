@@ -2,13 +2,14 @@
   "id": 353884389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.802332,34.251637,-77.802332,34.251637",
     "geom:latitude":34.251637,
     "geom:longitude":-77.802332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"837 Gull Point Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353884389,
-    "wof:lastmodified":1449020337,
+    "wof:lastmodified":1466652721,
     "wof:name":"John Twisdale Ltd",
     "wof:parent_id":85830827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.802332,34.251637,-77.802332,34.251637],
-  "geometry": {"coordinates":[-77.802332,34.251637],"type":"Point"}
+  "bbox": [
+    -77.802332,
+    34.251637,
+    -77.802332,
+    34.251637
+],
+  "geometry": {"coordinates":[-77.80233200000001,34.251637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320596793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.646286,35.555403,-82.646286,35.555403",
     "geom:latitude":35.555403,
     "geom:longitude":-82.646286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Acton Woods Dr",
     "sg:city":"Candler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320596793,
-    "wof:lastmodified":1449013168,
+    "wof:lastmodified":1466653781,
     "wof:name":"Acton Woods Apartments",
     "wof:parent_id":85846965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.646286,35.555403,-82.646286,35.555403],
+  "bbox": [
+    -82.646286,
+    35.555403,
+    -82.646286,
+    35.555403
+],
   "geometry": {"coordinates":[-82.646286,35.555403],"type":"Point"}
 }

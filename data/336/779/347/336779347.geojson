@@ -2,13 +2,14 @@
   "id": 336779347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.094226,35.9123,-79.094226,35.9123",
     "geom:latitude":35.9123,
     "geom:longitude":-79.094226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Old Fayetteville Rd",
     "sg:city":"Carrboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336779347,
-    "wof:lastmodified":1448997105,
+    "wof:lastmodified":1466648572,
     "wof:name":"Varsity Meal Plan",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.094226,35.9123,-79.094226,35.9123],
-  "geometry": {"coordinates":[-79.094226,35.9123],"type":"Point"}
+  "bbox": [
+    -79.094226,
+    35.9123,
+    -79.094226,
+    35.9123
+],
+  "geometry": {"coordinates":[-79.09422600000001,35.9123],"type":"Point"}
 }

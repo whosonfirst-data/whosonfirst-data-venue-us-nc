@@ -2,13 +2,14 @@
   "id": 403812719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.661411,35.748343,-81.661411,35.748343",
     "geom:latitude":35.748343,
     "geom:longitude":-81.661411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 E Fleming Dr",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403812719,
-    "wof:lastmodified":1449054657,
+    "wof:lastmodified":1466651749,
     "wof:name":"Rick's Cars",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.661411,35.748343,-81.661411,35.748343],
+  "bbox": [
+    -81.661411,
+    35.748343,
+    -81.661411,
+    35.748343
+],
   "geometry": {"coordinates":[-81.661411,35.748343],"type":"Point"}
 }

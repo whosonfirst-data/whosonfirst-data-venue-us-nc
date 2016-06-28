@@ -2,13 +2,14 @@
   "id": 336752799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.702565,35.140657,-77.702565,35.140657",
     "geom:latitude":35.140657,
     "geom:longitude":-77.702565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Liddell Rd",
     "sg:city":"Deep Run",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336752799,
-    "wof:lastmodified":1448997124,
+    "wof:lastmodified":1466648139,
     "wof:name":"Deep Run Water Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sewage"
     ]
 },
-  "bbox": [-77.702565,35.140657,-77.702565,35.140657],
-  "geometry": {"coordinates":[-77.702565,35.140657],"type":"Point"}
+  "bbox": [
+    -77.702565,
+    35.140657,
+    -77.702565,
+    35.140657
+],
+  "geometry": {"coordinates":[-77.70256500000001,35.140657],"type":"Point"}
 }

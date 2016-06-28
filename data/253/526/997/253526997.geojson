@@ -2,13 +2,14 @@
   "id": 253526997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.72982,35.769518,-78.72982,35.769518",
     "geom:latitude":35.769518,
     "geom:longitude":-78.72982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5415 Dana Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253526997,
-    "wof:lastmodified":1449063727,
+    "wof:lastmodified":1466648701,
     "wof:name":"A Active Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-78.72982,35.769518,-78.72982,35.769518],
+  "bbox": [
+    -78.72982,
+    35.769518,
+    -78.72982,
+    35.769518
+],
   "geometry": {"coordinates":[-78.72982,35.769518],"type":"Point"}
 }

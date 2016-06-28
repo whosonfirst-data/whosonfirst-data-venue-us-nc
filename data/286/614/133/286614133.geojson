@@ -2,13 +2,14 @@
   "id": 286614133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.984744,35.356328,-77.984744,35.356328",
     "geom:latitude":35.356328,
     "geom:longitude":-77.984744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 W Seymour Dr",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286614133,
-    "wof:lastmodified":1449018177,
+    "wof:lastmodified":1466647922,
     "wof:name":"My Brothas Keeper Inc",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.984744,35.356328,-77.984744,35.356328],
-  "geometry": {"coordinates":[-77.984744,35.356328],"type":"Point"}
+  "bbox": [
+    -77.984744,
+    35.356328,
+    -77.984744,
+    35.356328
+],
+  "geometry": {"coordinates":[-77.98474400000001,35.356328],"type":"Point"}
 }

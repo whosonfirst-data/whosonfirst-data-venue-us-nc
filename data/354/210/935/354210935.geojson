@@ -2,13 +2,14 @@
   "id": 354210935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.234107,34.773525,-79.234107,34.773525",
     "geom:latitude":34.773525,
     "geom:longitude":-79.234107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 Old Red Springs Rd",
     "sg:city":"Maxton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354210935,
-    "wof:lastmodified":1449066489,
+    "wof:lastmodified":1466650011,
     "wof:name":"Bullard's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [-79.234107,34.773525,-79.234107,34.773525],
-  "geometry": {"coordinates":[-79.234107,34.773525],"type":"Point"}
+  "bbox": [
+    -79.234107,
+    34.773525,
+    -79.234107,
+    34.773525
+],
+  "geometry": {"coordinates":[-79.23410699999999,34.773525],"type":"Point"}
 }

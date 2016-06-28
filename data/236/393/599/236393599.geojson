@@ -2,13 +2,14 @@
   "id": 236393599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.040992,35.272088,-78.040992,35.272088",
     "geom:latitude":35.272088,
     "geom:longitude":-78.040992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4219 US Hwy 117 Alt",
     "sg:city":"Dudley",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236393599,
-    "wof:lastmodified":1449002533,
+    "wof:lastmodified":1466646678,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.040992,35.272088,-78.040992,35.272088],
+  "bbox": [
+    -78.040992,
+    35.272088,
+    -78.040992,
+    35.272088
+],
   "geometry": {"coordinates":[-78.040992,35.272088],"type":"Point"}
 }

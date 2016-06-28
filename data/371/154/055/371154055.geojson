@@ -2,13 +2,14 @@
   "id": 371154055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.719242,34.337576,-78.719242,34.337576",
     "geom:latitude":34.337576,
     "geom:longitude":-78.719242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Washington St",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371154055,
-    "wof:lastmodified":1449050157,
+    "wof:lastmodified":1466650766,
     "wof:name":"Sheriff's Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-78.719242,34.337576,-78.719242,34.337576],
-  "geometry": {"coordinates":[-78.719242,34.337576],"type":"Point"}
+  "bbox": [
+    -78.719242,
+    34.337576,
+    -78.719242,
+    34.337576
+],
+  "geometry": {"coordinates":[-78.71924199999999,34.337576],"type":"Point"}
 }

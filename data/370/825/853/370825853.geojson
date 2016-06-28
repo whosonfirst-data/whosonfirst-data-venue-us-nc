@@ -2,13 +2,14 @@
   "id": 370825853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253481,35.83736,-80.253481,35.83736",
     "geom:latitude":35.83736,
     "geom:longitude":-80.253481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Winston Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370825853,
-    "wof:lastmodified":1449029197,
+    "wof:lastmodified":1466656489,
     "wof:name":"Young Trading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-80.253481,35.83736,-80.253481,35.83736],
-  "geometry": {"coordinates":[-80.253481,35.83736],"type":"Point"}
+  "bbox": [
+    -80.253481,
+    35.83736,
+    -80.253481,
+    35.83736
+],
+  "geometry": {"coordinates":[-80.25348099999999,35.83736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403843105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259329,36.059975,-80.259329,36.059975",
     "geom:latitude":36.059975,
     "geom:longitude":-80.259329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Trade Mart Blvd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403843105,
-    "wof:lastmodified":1449054750,
+    "wof:lastmodified":1466652183,
     "wof:name":"Time Warner Cable",
     "wof:parent_id":85881837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-80.259329,36.059975,-80.259329,36.059975],
-  "geometry": {"coordinates":[-80.259329,36.059975],"type":"Point"}
+  "bbox": [
+    -80.259329,
+    36.059975,
+    -80.259329,
+    36.059975
+],
+  "geometry": {"coordinates":[-80.25932899999999,36.059975],"type":"Point"}
 }

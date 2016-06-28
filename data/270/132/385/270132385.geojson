@@ -2,13 +2,14 @@
   "id": 270132385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.999051,35.774003,-80.999051,35.774003",
     "geom:latitude":35.774003,
     "geom:longitude":-80.999051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1978 Old Mountain Rd",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270132385,
-    "wof:lastmodified":1449009827,
+    "wof:lastmodified":1466644744,
     "wof:name":"Prospt",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.999051,35.774003,-80.999051,35.774003],
-  "geometry": {"coordinates":[-80.999051,35.774003],"type":"Point"}
+  "bbox": [
+    -80.999051,
+    35.774003,
+    -80.999051,
+    35.774003
+],
+  "geometry": {"coordinates":[-80.99905099999999,35.774003],"type":"Point"}
 }

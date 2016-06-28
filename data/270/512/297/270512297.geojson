@@ -2,13 +2,14 @@
   "id": 270512297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.25289,33.95834,-78.25289,33.95834",
     "geom:latitude":33.95834,
     "geom:longitude":-78.25289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Baker Dr SW",
     "sg:city":"Supply",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270512297,
-    "wof:lastmodified":1449010433,
+    "wof:lastmodified":1466649622,
     "wof:name":"Houndsounds",
     "wof:parent_id":85853519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.25289,33.95834,-78.25289,33.95834],
-  "geometry": {"coordinates":[-78.25289,33.95834],"type":"Point"}
+  "bbox": [
+    -78.25289,
+    33.95834,
+    -78.25289,
+    33.95834
+],
+  "geometry": {"coordinates":[-78.25288999999999,33.95834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370929139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.544993,35.381059,-78.544993,35.381059",
     "geom:latitude":35.381059,
     "geom:longitude":-78.544993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E Church St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370929139,
-    "wof:lastmodified":1449030381,
+    "wof:lastmodified":1466657066,
     "wof:name":"Benson Magistrate Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "city"
     ]
 },
-  "bbox": [-78.544993,35.381059,-78.544993,35.381059],
-  "geometry": {"coordinates":[-78.544993,35.381059],"type":"Point"}
+  "bbox": [
+    -78.544993,
+    35.381059,
+    -78.544993,
+    35.381059
+],
+  "geometry": {"coordinates":[-78.54499300000001,35.381059],"type":"Point"}
 }

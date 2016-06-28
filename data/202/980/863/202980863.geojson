@@ -2,13 +2,14 @@
   "id": 202980863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.805648,35.815278,-79.805648,35.815278",
     "geom:latitude":35.815278,
     "geom:longitude":-79.805648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Railroad Ave",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202980863,
-    "wof:lastmodified":1449060282,
+    "wof:lastmodified":1466645582,
     "wof:name":"Wow Properties LLC",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.805648,35.815278,-79.805648,35.815278],
-  "geometry": {"coordinates":[-79.805648,35.815278],"type":"Point"}
+  "bbox": [
+    -79.805648,
+    35.815278,
+    -79.805648,
+    35.815278
+],
+  "geometry": {"coordinates":[-79.80564800000001,35.815278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269890017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.114305,35.095295,-77.114305,35.095295",
     "geom:latitude":35.095295,
     "geom:longitude":-77.114305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3930 Clarendon Blvd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269890017,
-    "wof:lastmodified":1449036678,
+    "wof:lastmodified":1466647981,
     "wof:name":"Auto Outlet Inc",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.114305,35.095295,-77.114305,35.095295],
+  "bbox": [
+    -77.114305,
+    35.095295,
+    -77.114305,
+    35.095295
+],
   "geometry": {"coordinates":[-77.114305,35.095295],"type":"Point"}
 }

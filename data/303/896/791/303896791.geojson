@@ -2,13 +2,14 @@
   "id": 303896791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.328696,35.21407,-79.328696,35.21407",
     "geom:latitude":35.21407,
     "geom:longitude":-79.328696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5587 US Hwy 1",
     "sg:city":"Vass",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303896791,
-    "wof:lastmodified":1448999012,
+    "wof:lastmodified":1466656143,
     "wof:name":"Highland Baptist Church",
     "wof:parent_id":85859287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.328696,35.21407,-79.328696,35.21407],
-  "geometry": {"coordinates":[-79.328696,35.21407],"type":"Point"}
+  "bbox": [
+    -79.328696,
+    35.21407,
+    -79.328696,
+    35.21407
+],
+  "geometry": {"coordinates":[-79.32869599999999,35.21407],"type":"Point"}
 }

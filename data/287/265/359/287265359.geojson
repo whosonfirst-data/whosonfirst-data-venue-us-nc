@@ -2,13 +2,14 @@
   "id": 287265359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.806011,36.088379,-79.806011,36.088379",
     "geom:latitude":36.088379,
     "geom:longitude":-79.806011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 W Wendover Ave",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287265359,
-    "wof:lastmodified":1449000960,
+    "wof:lastmodified":1466646991,
     "wof:name":"Aiken Services",
     "wof:parent_id":85877979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-79.806011,36.088379,-79.806011,36.088379],
+  "bbox": [
+    -79.806011,
+    36.088379,
+    -79.806011,
+    36.088379
+],
   "geometry": {"coordinates":[-79.806011,36.088379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236665087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.889063,36.045629,-78.889063,36.045629",
     "geom:latitude":36.045629,
     "geom:longitude":-78.889063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 E Carver St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236665087,
-    "wof:lastmodified":1449002495,
+    "wof:lastmodified":1466649126,
     "wof:name":"Carver Creek Apartments",
     "wof:parent_id":85877187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.889063,36.045629,-78.889063,36.045629],
-  "geometry": {"coordinates":[-78.889063,36.045629],"type":"Point"}
+  "bbox": [
+    -78.889063,
+    36.045629,
+    -78.889063,
+    36.045629
+],
+  "geometry": {"coordinates":[-78.88906299999999,36.045629],"type":"Point"}
 }

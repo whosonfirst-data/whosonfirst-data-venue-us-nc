@@ -2,13 +2,14 @@
   "id": 370321241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.215866,35.441546,-79.215866,35.441546",
     "geom:latitude":35.441546,
     "geom:longitude":-79.215866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2107 Jefferson Davis Hwy",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370321241,
-    "wof:lastmodified":1449029146,
+    "wof:lastmodified":1466650278,
     "wof:name":"Mid Atlantic Insurance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.215866,35.441546,-79.215866,35.441546],
-  "geometry": {"coordinates":[-79.215866,35.441546],"type":"Point"}
+  "bbox": [
+    -79.215866,
+    35.441546,
+    -79.215866,
+    35.441546
+],
+  "geometry": {"coordinates":[-79.21586600000001,35.441546],"type":"Point"}
 }

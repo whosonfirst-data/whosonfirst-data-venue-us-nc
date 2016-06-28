@@ -2,13 +2,14 @@
   "id": 320682161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.658764,35.763888,-77.658764,35.763888",
     "geom:latitude":35.763888,
     "geom:longitude":-77.658764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2579 Pinetops-Macclesfield Rd",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320682161,
-    "wof:lastmodified":1449011910,
+    "wof:lastmodified":1466655005,
     "wof:name":"A-1 Automotive Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-77.658764,35.763888,-77.658764,35.763888],
-  "geometry": {"coordinates":[-77.658764,35.763888],"type":"Point"}
+  "bbox": [
+    -77.658764,
+    35.763888,
+    -77.658764,
+    35.763888
+],
+  "geometry": {"coordinates":[-77.65876400000001,35.763888],"type":"Point"}
 }

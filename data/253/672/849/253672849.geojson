@@ -2,13 +2,14 @@
   "id": 253672849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.149301,35.470452,-77.149301,35.470452",
     "geom:latitude":35.470452,
     "geom:longitude":-77.149301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2273 W Barr Rd",
     "sg:city":"Chocowinity",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253672849,
-    "wof:lastmodified":1449063008,
+    "wof:lastmodified":1466650423,
     "wof:name":"Brico Inc",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-77.149301,35.470452,-77.149301,35.470452],
-  "geometry": {"coordinates":[-77.149301,35.470452],"type":"Point"}
+  "bbox": [
+    -77.149301,
+    35.470452,
+    -77.149301,
+    35.470452
+],
+  "geometry": {"coordinates":[-77.14930099999999,35.470452],"type":"Point"}
 }

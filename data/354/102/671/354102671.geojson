@@ -2,13 +2,14 @@
   "id": 354102671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.453285,35.994638,-78.453285,35.994638",
     "geom:latitude":35.994638,
     "geom:longitude":-78.453285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Cornwall Ct",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354102671,
-    "wof:lastmodified":1449067546,
+    "wof:lastmodified":1466648744,
     "wof:name":"JDSS Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-78.453285,35.994638,-78.453285,35.994638],
-  "geometry": {"coordinates":[-78.453285,35.994638],"type":"Point"}
+  "bbox": [
+    -78.453285,
+    35.994638,
+    -78.453285,
+    35.994638
+],
+  "geometry": {"coordinates":[-78.45328499999999,35.994638],"type":"Point"}
 }

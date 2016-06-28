@@ -2,13 +2,14 @@
   "id": 354153011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.730359,35.231965,-82.730359,35.231965",
     "geom:latitude":35.231965,
     "geom:longitude":-82.730359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Main St",
     "sg:city":"Brevard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354153011,
-    "wof:lastmodified":1449067148,
+    "wof:lastmodified":1466649326,
     "wof:name":"Young Life Of Brevard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-82.730359,35.231965,-82.730359,35.231965],
-  "geometry": {"coordinates":[-82.730359,35.231965],"type":"Point"}
+  "bbox": [
+    -82.730359,
+    35.231965,
+    -82.730359,
+    35.231965
+],
+  "geometry": {"coordinates":[-82.73035900000001,35.231965],"type":"Point"}
 }

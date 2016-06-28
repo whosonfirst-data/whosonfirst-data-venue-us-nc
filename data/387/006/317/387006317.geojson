@@ -2,13 +2,14 @@
   "id": 387006317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.39297,35.174763,-79.39297,35.174763",
     "geom:latitude":35.174763,
     "geom:longitude":-79.39297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Pennsylvania Ave",
     "sg:city":"Southern Pines",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387006317,
-    "wof:lastmodified":1449059177,
+    "wof:lastmodified":1466649953,
     "wof:name":"Robert L Alley",
     "wof:parent_id":85834083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.39297,35.174763,-79.39297,35.174763],
-  "geometry": {"coordinates":[-79.39297,35.174763],"type":"Point"}
+  "bbox": [
+    -79.39297,
+    35.174763,
+    -79.39297,
+    35.174763
+],
+  "geometry": {"coordinates":[-79.39297000000001,35.174763],"type":"Point"}
 }

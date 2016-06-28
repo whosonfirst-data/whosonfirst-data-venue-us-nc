@@ -2,13 +2,14 @@
   "id": 387816431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.68497,35.684078,-78.68497,35.684078",
     "geom:latitude":35.684078,
     "geom:longitude":-78.68497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 Brookwood Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387816431,
-    "wof:lastmodified":1449058318,
+    "wof:lastmodified":1466657806,
     "wof:name":"Brookwood Veterinary Clinic",
     "wof:parent_id":85892141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.68497,35.684078,-78.68497,35.684078],
-  "geometry": {"coordinates":[-78.68497,35.684078],"type":"Point"}
+  "bbox": [
+    -78.68497,
+    35.684078,
+    -78.68497,
+    35.684078
+],
+  "geometry": {"coordinates":[-78.68497000000001,35.684078],"type":"Point"}
 }

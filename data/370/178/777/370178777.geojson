@@ -2,13 +2,14 @@
   "id": 370178777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.927039,34.220467,-77.927039,34.220467",
     "geom:latitude":34.220467,
     "geom:longitude":-77.927039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 Kidder St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370178777,
-    "wof:lastmodified":1449031521,
+    "wof:lastmodified":1466648495,
     "wof:name":"Hanover Dental Lab",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-77.927039,34.220467,-77.927039,34.220467],
-  "geometry": {"coordinates":[-77.927039,34.220467],"type":"Point"}
+  "bbox": [
+    -77.927039,
+    34.220467,
+    -77.927039,
+    34.220467
+],
+  "geometry": {"coordinates":[-77.92703899999999,34.220467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353873443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.964725,35.505703,-82.964725,35.505703",
     "geom:latitude":35.505703,
     "geom:longitude":-82.964725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2177 Asheville Rd",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353873443,
-    "wof:lastmodified":1449018791,
+    "wof:lastmodified":1466652594,
     "wof:name":"Haywood County Health Dept",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-82.964725,35.505703,-82.964725,35.505703],
+  "bbox": [
+    -82.964725,
+    35.505703,
+    -82.964725,
+    35.505703
+],
   "geometry": {"coordinates":[-82.964725,35.505703],"type":"Point"}
 }

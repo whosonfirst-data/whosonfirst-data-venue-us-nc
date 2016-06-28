@@ -2,13 +2,14 @@
   "id": 403939857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.561701,35.594549,-82.561701,35.594549",
     "geom:latitude":35.594549,
     "geom:longitude":-82.561701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Haywood St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403939857,
-    "wof:lastmodified":1449055040,
+    "wof:lastmodified":1466653420,
     "wof:name":"Ameri Tech Consulting",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.561701,35.594549,-82.561701,35.594549],
+  "bbox": [
+    -82.561701,
+    35.594549,
+    -82.561701,
+    35.594549
+],
   "geometry": {"coordinates":[-82.561701,35.594549],"type":"Point"}
 }

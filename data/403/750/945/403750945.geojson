@@ -2,13 +2,14 @@
   "id": 403750945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.550958,35.372408,-80.550958,35.372408",
     "geom:latitude":35.372408,
     "geom:longitude":-80.550958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3358 US Hwy 601 S",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403750945,
-    "wof:lastmodified":1449055460,
+    "wof:lastmodified":1466650949,
     "wof:name":"Carolina Fast Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.550958,35.372408,-80.550958,35.372408],
-  "geometry": {"coordinates":[-80.550958,35.372408],"type":"Point"}
+  "bbox": [
+    -80.550958,
+    35.372408,
+    -80.550958,
+    35.372408
+],
+  "geometry": {"coordinates":[-80.55095799999999,35.372408],"type":"Point"}
 }

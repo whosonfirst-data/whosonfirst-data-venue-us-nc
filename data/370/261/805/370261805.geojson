@@ -2,13 +2,14 @@
   "id": 370261805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.646988,35.887108,-78.646988,35.887108",
     "geom:latitude":35.887108,
     "geom:longitude":-78.646988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Farrington Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370261805,
-    "wof:lastmodified":1449029122,
+    "wof:lastmodified":1466649557,
     "wof:name":"Pyramid Assoc Inc",
     "wof:parent_id":85848847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.646988,35.887108,-78.646988,35.887108],
-  "geometry": {"coordinates":[-78.646988,35.887108],"type":"Point"}
+  "bbox": [
+    -78.646988,
+    35.887108,
+    -78.646988,
+    35.887108
+],
+  "geometry": {"coordinates":[-78.64698799999999,35.887108],"type":"Point"}
 }

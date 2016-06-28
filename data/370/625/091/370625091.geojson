@@ -2,13 +2,14 @@
   "id": 370625091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.464124,36.207684,-76.464124,36.207684",
     "geom:latitude":36.207684,
     "geom:longitude":-76.464124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Lomas St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370625091,
-    "wof:lastmodified":1449032528,
+    "wof:lastmodified":1466654202,
     "wof:name":"Hunter Harris Robert",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.464124,36.207684,-76.464124,36.207684],
+  "bbox": [
+    -76.464124,
+    36.207684,
+    -76.464124,
+    36.207684
+],
   "geometry": {"coordinates":[-76.464124,36.207684],"type":"Point"}
 }

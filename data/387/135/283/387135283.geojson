@@ -2,13 +2,14 @@
   "id": 387135283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.907823,35.266662,-80.907823,35.266662",
     "geom:latitude":35.266662,
     "geom:longitude":-80.907823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Tar Heel Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387135283,
-    "wof:lastmodified":1449057566,
+    "wof:lastmodified":1466651609,
     "wof:name":"Barbeques Galore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.907823,35.266662,-80.907823,35.266662],
-  "geometry": {"coordinates":[-80.907823,35.266662],"type":"Point"}
+  "bbox": [
+    -80.907823,
+    35.266662,
+    -80.907823,
+    35.266662
+],
+  "geometry": {"coordinates":[-80.90782299999999,35.266662],"type":"Point"}
 }

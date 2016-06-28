@@ -2,13 +2,14 @@
   "id": 303206979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.100653,36.442328,-77.100653,36.442328",
     "geom:latitude":36.442328,
     "geom:longitude":-77.100653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 US Hwy 158",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303206979,
-    "wof:lastmodified":1448999779,
+    "wof:lastmodified":1466646315,
     "wof:name":"Murfreesboro Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.100653,36.442328,-77.100653,36.442328],
-  "geometry": {"coordinates":[-77.100653,36.442328],"type":"Point"}
+  "bbox": [
+    -77.100653,
+    36.442328,
+    -77.100653,
+    36.442328
+],
+  "geometry": {"coordinates":[-77.10065299999999,36.442328],"type":"Point"}
 }

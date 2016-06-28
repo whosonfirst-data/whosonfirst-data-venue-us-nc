@@ -2,13 +2,14 @@
   "id": 354340579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.553227,35.603633,-82.553227,35.603633",
     "geom:latitude":35.603633,
     "geom:longitude":-82.553227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Merrimon Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354340579,
-    "wof:lastmodified":1449067249,
+    "wof:lastmodified":1466651500,
     "wof:name":"Deal Of Asheville",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.553227,35.603633,-82.553227,35.603633],
-  "geometry": {"coordinates":[-82.553227,35.603633],"type":"Point"}
+  "bbox": [
+    -82.553227,
+    35.603633,
+    -82.553227,
+    35.603633
+],
+  "geometry": {"coordinates":[-82.55322700000001,35.603633],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202528463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.688842,35.827414,-78.688842,35.827414",
     "geom:latitude":35.827414,
     "geom:longitude":-78.688842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 Dunraven Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202528463,
-    "wof:lastmodified":1449060804,
+    "wof:lastmodified":1466655151,
     "wof:name":"Sonic Boom Music LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.688842,35.827414,-78.688842,35.827414],
-  "geometry": {"coordinates":[-78.688842,35.827414],"type":"Point"}
+  "bbox": [
+    -78.688842,
+    35.827414,
+    -78.688842,
+    35.827414
+],
+  "geometry": {"coordinates":[-78.68884199999999,35.827414],"type":"Point"}
 }

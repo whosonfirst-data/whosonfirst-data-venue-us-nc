@@ -2,13 +2,14 @@
   "id": 203234485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.580999,35.932085,-78.580999,35.932085",
     "geom:latitude":35.932085,
     "geom:longitude":-78.580999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11817 Falls of Neuse Rd",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203234485,
-    "wof:lastmodified":1449026767,
+    "wof:lastmodified":1466655431,
     "wof:name":"North Rligh Sven Day Adventist",
     "wof:parent_id":85892177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.580999,35.932085,-78.580999,35.932085],
-  "geometry": {"coordinates":[-78.580999,35.932085],"type":"Point"}
+  "bbox": [
+    -78.580999,
+    35.932085,
+    -78.580999,
+    35.932085
+],
+  "geometry": {"coordinates":[-78.58099900000001,35.932085],"type":"Point"}
 }

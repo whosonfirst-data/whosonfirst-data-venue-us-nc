@@ -2,13 +2,14 @@
   "id": 320098367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.550024,35.669131,-78.550024,35.669131",
     "geom:latitude":35.669131,
     "geom:longitude":-78.550024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Old Meadowbrook Dr",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320098367,
-    "wof:lastmodified":1449014571,
+    "wof:lastmodified":1466646680,
     "wof:name":"La Nells Drapery & Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.550024,35.669131,-78.550024,35.669131],
-  "geometry": {"coordinates":[-78.550024,35.669131],"type":"Point"}
+  "bbox": [
+    -78.550024,
+    35.669131,
+    -78.550024,
+    35.669131
+],
+  "geometry": {"coordinates":[-78.55002399999999,35.669131],"type":"Point"}
 }

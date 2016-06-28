@@ -2,13 +2,14 @@
   "id": 303880243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.2751,36.090197,-80.2751,36.090197",
     "geom:latitude":36.090197,
     "geom:longitude":-80.2751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2227 Cloverdale Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303880243,
-    "wof:lastmodified":1449000588,
+    "wof:lastmodified":1466656007,
     "wof:name":"Mel Brooks Fashions",
     "wof:parent_id":85855629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-80.2751,36.090197,-80.2751,36.090197],
-  "geometry": {"coordinates":[-80.2751,36.090197],"type":"Point"}
+  "bbox": [
+    -80.2751,
+    36.090197,
+    -80.2751,
+    36.090197
+],
+  "geometry": {"coordinates":[-80.27509999999999,36.090197],"type":"Point"}
 }

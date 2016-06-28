@@ -2,13 +2,14 @@
   "id": 320204731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.990911,35.485978,-82.990911,35.485978",
     "geom:latitude":35.485978,
     "geom:longitude":-82.990911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"784 S Haywood St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320204731,
-    "wof:lastmodified":1449015069,
+    "wof:lastmodified":1466648154,
     "wof:name":"Horsepower Sales",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-82.990911,35.485978,-82.990911,35.485978],
+  "bbox": [
+    -82.990911,
+    35.485978,
+    -82.990911,
+    35.485978
+],
   "geometry": {"coordinates":[-82.990911,35.485978],"type":"Point"}
 }

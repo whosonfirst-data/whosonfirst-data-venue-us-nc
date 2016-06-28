@@ -2,13 +2,14 @@
   "id": 219835207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.68193,34.716358,-76.68193,34.716358",
     "geom:latitude":34.716358,
     "geom:longitude":-76.68193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Olde Towne Yacht Club Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219835207,
-    "wof:lastmodified":1449070898,
+    "wof:lastmodified":1466647474,
     "wof:name":"Olde Towne Yacht Club",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.68193,34.716358,-76.68193,34.716358],
-  "geometry": {"coordinates":[-76.68193,34.716358],"type":"Point"}
+  "bbox": [
+    -76.68193,
+    34.716358,
+    -76.68193,
+    34.716358
+],
+  "geometry": {"coordinates":[-76.68192999999999,34.716358],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403837547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.423453,34.749743,-77.423453,34.749743",
     "geom:latitude":34.749743,
     "geom:longitude":-77.423453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 New Bridge St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403837547,
-    "wof:lastmodified":1449054835,
+    "wof:lastmodified":1466652103,
     "wof:name":"First Transit Inc",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "suburban"
     ]
 },
-  "bbox": [-77.423453,34.749743,-77.423453,34.749743],
-  "geometry": {"coordinates":[-77.423453,34.749743],"type":"Point"}
+  "bbox": [
+    -77.423453,
+    34.749743,
+    -77.423453,
+    34.749743
+],
+  "geometry": {"coordinates":[-77.42345299999999,34.749743],"type":"Point"}
 }

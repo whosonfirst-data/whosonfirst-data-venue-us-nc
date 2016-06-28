@@ -2,13 +2,14 @@
   "id": 270333309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.815359,35.125515,-77.815359,35.125515",
     "geom:latitude":35.125515,
     "geom:longitude":-77.815359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3794 State Rd 903",
     "sg:city":"Albertson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270333309,
-    "wof:lastmodified":1449010936,
+    "wof:lastmodified":1466647284,
     "wof:name":"R-Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.815359,35.125515,-77.815359,35.125515],
+  "bbox": [
+    -77.815359,
+    35.125515,
+    -77.815359,
+    35.125515
+],
   "geometry": {"coordinates":[-77.815359,35.125515],"type":"Point"}
 }

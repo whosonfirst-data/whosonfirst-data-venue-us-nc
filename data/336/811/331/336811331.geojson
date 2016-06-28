@@ -2,13 +2,14 @@
   "id": 336811331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.821353,35.214519,-80.821353,35.214519",
     "geom:latitude":35.214519,
     "geom:longitude":-80.821353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Park Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336811331,
-    "wof:lastmodified":1448997471,
+    "wof:lastmodified":1466649055,
     "wof:name":"Glovia International Ofc",
     "wof:parent_id":85817775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.821353,35.214519,-80.821353,35.214519],
+  "bbox": [
+    -80.821353,
+    35.214519,
+    -80.821353,
+    35.214519
+],
   "geometry": {"coordinates":[-80.821353,35.214519],"type":"Point"}
 }

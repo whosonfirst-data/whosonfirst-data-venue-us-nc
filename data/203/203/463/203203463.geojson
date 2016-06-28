@@ -2,13 +2,14 @@
   "id": 203203463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.730063,35.516074,-79.730063,35.516074",
     "geom:latitude":35.516074,
     "geom:longitude":-79.730063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6644 Mustang Trl",
     "sg:city":"Seagrove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203203463,
-    "wof:lastmodified":1449025752,
+    "wof:lastmodified":1466655221,
     "wof:name":"Cole Trucking",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.730063,35.516074,-79.730063,35.516074],
+  "bbox": [
+    -79.730063,
+    35.516074,
+    -79.730063,
+    35.516074
+],
   "geometry": {"coordinates":[-79.730063,35.516074],"type":"Point"}
 }

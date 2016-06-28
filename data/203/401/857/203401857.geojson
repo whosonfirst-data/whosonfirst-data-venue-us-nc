@@ -2,13 +2,14 @@
   "id": 203401857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.091361,35.1297,-77.091361,35.1297",
     "geom:latitude":35.1297,
     "geom:longitude":-77.091361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 Neuse Blvd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203401857,
-    "wof:lastmodified":1449026567,
+    "wof:lastmodified":1466644015,
     "wof:name":"Neuse Memorial Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "mfg"
     ]
 },
-  "bbox": [-77.091361,35.1297,-77.091361,35.1297],
-  "geometry": {"coordinates":[-77.091361,35.1297],"type":"Point"}
+  "bbox": [
+    -77.091361,
+    35.1297,
+    -77.091361,
+    35.1297
+],
+  "geometry": {"coordinates":[-77.09136100000001,35.1297],"type":"Point"}
 }

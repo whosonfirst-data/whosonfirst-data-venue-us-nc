@@ -2,13 +2,14 @@
   "id": 370890293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.773037,35.073765,-80.773037,35.073765",
     "geom:latitude":35.073765,
     "geom:longitude":-80.773037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9925 Providence Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370890293,
-    "wof:lastmodified":1449029835,
+    "wof:lastmodified":1466656973,
     "wof:name":"Cornerstone Presbyterian",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.773037,35.073765,-80.773037,35.073765],
+  "bbox": [
+    -80.773037,
+    35.073765,
+    -80.773037,
+    35.073765
+],
   "geometry": {"coordinates":[-80.773037,35.073765],"type":"Point"}
 }

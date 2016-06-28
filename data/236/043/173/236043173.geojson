@@ -2,13 +2,14 @@
   "id": 236043173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.333481,35.514978,-82.333481,35.514978",
     "geom:latitude":35.514978,
     "geom:longitude":-82.333481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1366 Garren Creek Rd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236043173,
-    "wof:lastmodified":1449004236,
+    "wof:lastmodified":1466643617,
     "wof:name":"Garren Creek Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "protection"
     ]
 },
-  "bbox": [-82.333481,35.514978,-82.333481,35.514978],
-  "geometry": {"coordinates":[-82.333481,35.514978],"type":"Point"}
+  "bbox": [
+    -82.333481,
+    35.514978,
+    -82.333481,
+    35.514978
+],
+  "geometry": {"coordinates":[-82.33348100000001,35.514978],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219260161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.957219,35.367218,-81.957219,35.367218",
     "geom:latitude":35.367218,
     "geom:longitude":-81.957219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 N Main St",
     "sg:city":"Rutherfordton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219260161,
-    "wof:lastmodified":1449070974,
+    "wof:lastmodified":1466655664,
     "wof:name":"Mountain Living",
     "wof:parent_id":85819215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.957219,35.367218,-81.957219,35.367218],
-  "geometry": {"coordinates":[-81.957219,35.367218],"type":"Point"}
+  "bbox": [
+    -81.957219,
+    35.367218,
+    -81.957219,
+    35.367218
+],
+  "geometry": {"coordinates":[-81.95721899999999,35.367218],"type":"Point"}
 }

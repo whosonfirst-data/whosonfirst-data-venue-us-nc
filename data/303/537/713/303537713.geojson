@@ -2,13 +2,14 @@
   "id": 303537713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.784073,35.767742,-78.784073,35.767742",
     "geom:latitude":35.767742,
     "geom:longitude":-78.784073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Commonwealth Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303537713,
-    "wof:lastmodified":1448998712,
+    "wof:lastmodified":1466651052,
     "wof:name":"Richard C Hogg",
     "wof:parent_id":85818981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.784073,35.767742,-78.784073,35.767742],
-  "geometry": {"coordinates":[-78.784073,35.767742],"type":"Point"}
+  "bbox": [
+    -78.784073,
+    35.767742,
+    -78.784073,
+    35.767742
+],
+  "geometry": {"coordinates":[-78.78407300000001,35.767742],"type":"Point"}
 }

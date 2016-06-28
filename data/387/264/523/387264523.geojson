@@ -2,13 +2,14 @@
   "id": 387264523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.006192,35.678706,-82.006192,35.678706",
     "geom:latitude":35.678706,
     "geom:longitude":-82.006192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S Main St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387264523,
-    "wof:lastmodified":1449058582,
+    "wof:lastmodified":1466653345,
     "wof:name":"Lucy's Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.006192,35.678706,-82.006192,35.678706],
+  "bbox": [
+    -82.006192,
+    35.678706,
+    -82.006192,
+    35.678706
+],
   "geometry": {"coordinates":[-82.006192,35.678706],"type":"Point"}
 }

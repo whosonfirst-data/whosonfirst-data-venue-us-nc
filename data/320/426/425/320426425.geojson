@@ -2,13 +2,14 @@
   "id": 320426425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.545966,35.167808,-80.545966,35.167808",
     "geom:latitude":35.167808,
     "geom:longitude":-80.545966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Old Dutch Rd W",
     "sg:city":"Indian Trail",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320426425,
-    "wof:lastmodified":1449012051,
+    "wof:lastmodified":1466651304,
     "wof:name":"Purser SL",
     "wof:parent_id":85812565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.545966,35.167808,-80.545966,35.167808],
-  "geometry": {"coordinates":[-80.545966,35.167808],"type":"Point"}
+  "bbox": [
+    -80.545966,
+    35.167808,
+    -80.545966,
+    35.167808
+],
+  "geometry": {"coordinates":[-80.54596600000001,35.167808],"type":"Point"}
 }

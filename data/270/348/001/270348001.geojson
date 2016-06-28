@@ -2,13 +2,14 @@
   "id": 270348001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.220307,35.519259,-79.220307,35.519259",
     "geom:latitude":35.519259,
     "geom:longitude":-79.220307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Boone Trail Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270348001,
-    "wof:lastmodified":1449008787,
+    "wof:lastmodified":1466647475,
     "wof:name":"Parkdale Plant 29",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "yarn"
     ]
 },
-  "bbox": [-79.220307,35.519259,-79.220307,35.519259],
-  "geometry": {"coordinates":[-79.220307,35.519259],"type":"Point"}
+  "bbox": [
+    -79.220307,
+    35.519259,
+    -79.220307,
+    35.519259
+],
+  "geometry": {"coordinates":[-79.22030700000001,35.519259],"type":"Point"}
 }

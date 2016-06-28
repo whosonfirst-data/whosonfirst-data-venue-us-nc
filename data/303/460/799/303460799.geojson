@@ -2,13 +2,14 @@
   "id": 303460799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.060635,35.559219,-77.060635,35.559219",
     "geom:latitude":35.559219,
     "geom:longitude":-77.060635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Carolina Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303460799,
-    "wof:lastmodified":1449000429,
+    "wof:lastmodified":1466649963,
     "wof:name":"Telephone Connection",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "tape"
     ]
 },
-  "bbox": [-77.060635,35.559219,-77.060635,35.559219],
+  "bbox": [
+    -77.060635,
+    35.559219,
+    -77.060635,
+    35.559219
+],
   "geometry": {"coordinates":[-77.060635,35.559219],"type":"Point"}
 }

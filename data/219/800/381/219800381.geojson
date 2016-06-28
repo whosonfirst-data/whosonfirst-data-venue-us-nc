@@ -2,13 +2,14 @@
   "id": 219800381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.660745,36.284887,-79.660745,36.284887",
     "geom:latitude":36.284887,
     "geom:longitude":-79.660745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 Reid Lake Rd",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219800381,
-    "wof:lastmodified":1449070665,
+    "wof:lastmodified":1466647176,
     "wof:name":"Reidsville Water Treatment Plt",
     "wof:parent_id":85838759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.660745,36.284887,-79.660745,36.284887],
-  "geometry": {"coordinates":[-79.660745,36.284887],"type":"Point"}
+  "bbox": [
+    -79.660745,
+    36.284887,
+    -79.660745,
+    36.284887
+],
+  "geometry": {"coordinates":[-79.66074500000001,36.284887],"type":"Point"}
 }

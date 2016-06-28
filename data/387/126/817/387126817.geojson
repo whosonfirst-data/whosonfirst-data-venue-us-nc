@@ -2,13 +2,14 @@
   "id": 387126817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.030605,35.077072,-78.030605,35.077072",
     "geom:latitude":35.077072,
     "geom:longitude":-78.030605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Tear Shirt Rd",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387126817,
-    "wof:lastmodified":1449057506,
+    "wof:lastmodified":1466651503,
     "wof:name":"E Bar V",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.030605,35.077072,-78.030605,35.077072],
-  "geometry": {"coordinates":[-78.030605,35.077072],"type":"Point"}
+  "bbox": [
+    -78.030605,
+    35.077072,
+    -78.030605,
+    35.077072
+],
+  "geometry": {"coordinates":[-78.03060499999999,35.077072],"type":"Point"}
 }

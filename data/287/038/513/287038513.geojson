@@ -2,13 +2,14 @@
   "id": 287038513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.08134,35.882427,-80.08134,35.882427",
     "geom:latitude":35.882427,
     "geom:longitude":-80.08134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Randolph St",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287038513,
-    "wof:lastmodified":1449001254,
+    "wof:lastmodified":1466643774,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.08134,35.882427,-80.08134,35.882427],
+  "bbox": [
+    -80.08134,
+    35.882427,
+    -80.08134,
+    35.882427
+],
   "geometry": {"coordinates":[-80.08134,35.882427],"type":"Point"}
 }

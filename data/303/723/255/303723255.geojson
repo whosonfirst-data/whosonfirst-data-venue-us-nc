@@ -2,13 +2,14 @@
   "id": 303723255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.818622,35.637719,-79.818622,35.637719",
     "geom:latitude":35.637719,
     "geom:longitude":-79.818622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Tall Pine St",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303723255,
-    "wof:lastmodified":1448999552,
+    "wof:lastmodified":1466653752,
     "wof:name":"J & S Fire Extinguisher Svc",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-79.818622,35.637719,-79.818622,35.637719],
+  "bbox": [
+    -79.818622,
+    35.637719,
+    -79.818622,
+    35.637719
+],
   "geometry": {"coordinates":[-79.818622,35.637719],"type":"Point"}
 }

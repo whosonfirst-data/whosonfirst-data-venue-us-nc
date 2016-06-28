@@ -2,13 +2,14 @@
   "id": 304079187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.709527,35.096985,-80.709527,35.096985",
     "geom:latitude":35.096985,
     "geom:longitude":-80.709527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3223 Bridgemere Ter",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":304079187,
-    "wof:lastmodified":1449044063,
+    "wof:lastmodified":1466645280,
     "wof:name":"Advantage Home Inspections",
     "wof:parent_id":85811531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.709527,35.096985,-80.709527,35.096985],
-  "geometry": {"coordinates":[-80.709527,35.096985],"type":"Point"}
+  "bbox": [
+    -80.709527,
+    35.096985,
+    -80.709527,
+    35.096985
+],
+  "geometry": {"coordinates":[-80.70952699999999,35.096985],"type":"Point"}
 }

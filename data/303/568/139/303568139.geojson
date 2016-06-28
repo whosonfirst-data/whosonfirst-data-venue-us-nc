@@ -2,13 +2,14 @@
   "id": 303568139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.805258,35.942184,-77.805258,35.942184",
     "geom:latitude":35.942184,
     "geom:longitude":-77.805258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Nash St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303568139,
-    "wof:lastmodified":1448998058,
+    "wof:lastmodified":1466651495,
     "wof:name":"Vasanth B Baliga MD",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.805258,35.942184,-77.805258,35.942184],
-  "geometry": {"coordinates":[-77.805258,35.942184],"type":"Point"}
+  "bbox": [
+    -77.805258,
+    35.942184,
+    -77.805258,
+    35.942184
+],
+  "geometry": {"coordinates":[-77.80525799999999,35.942184],"type":"Point"}
 }

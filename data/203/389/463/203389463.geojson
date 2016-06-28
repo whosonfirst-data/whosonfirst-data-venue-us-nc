@@ -2,13 +2,14 @@
   "id": 203389463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.716113,34.420683,-77.716113,34.420683",
     "geom:latitude":34.420683,
     "geom:longitude":-77.716113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 J A Dr",
     "sg:city":"Hampstead",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203389463,
-    "wof:lastmodified":1449026440,
+    "wof:lastmodified":1466643908,
     "wof:name":"Gideon's Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.716113,34.420683,-77.716113,34.420683],
-  "geometry": {"coordinates":[-77.716113,34.420683],"type":"Point"}
+  "bbox": [
+    -77.716113,
+    34.420683,
+    -77.716113,
+    34.420683
+],
+  "geometry": {"coordinates":[-77.71611300000001,34.420683],"type":"Point"}
 }

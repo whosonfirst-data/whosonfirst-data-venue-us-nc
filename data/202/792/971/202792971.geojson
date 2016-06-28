@@ -2,13 +2,14 @@
   "id": 202792971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.065548,35.581107,-79.065548,35.581107",
     "geom:latitude":35.581107,
     "geom:longitude":-79.065548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3560 Lower River Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202792971,
-    "wof:lastmodified":1449060665,
+    "wof:lastmodified":1466644111,
     "wof:name":"Homestead Dev/Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-79.065548,35.581107,-79.065548,35.581107],
-  "geometry": {"coordinates":[-79.065548,35.581107],"type":"Point"}
+  "bbox": [
+    -79.065548,
+    35.581107,
+    -79.065548,
+    35.581107
+],
+  "geometry": {"coordinates":[-79.06554800000001,35.581107],"type":"Point"}
 }

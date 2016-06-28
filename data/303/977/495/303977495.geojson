@@ -2,13 +2,14 @@
   "id": 303977495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.514967,35.141388,-80.514967,35.141388",
     "geom:latitude":35.141388,
     "geom:longitude":-80.514967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 State Hwy 218",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303977495,
-    "wof:lastmodified":1449000624,
+    "wof:lastmodified":1466656975,
     "wof:name":"Hospice Of Union County",
     "wof:parent_id":85812565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-80.514967,35.141388,-80.514967,35.141388],
+  "bbox": [
+    -80.514967,
+    35.141388,
+    -80.514967,
+    35.141388
+],
   "geometry": {"coordinates":[-80.514967,35.141388],"type":"Point"}
 }

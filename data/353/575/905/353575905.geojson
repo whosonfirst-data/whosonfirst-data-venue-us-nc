@@ -2,13 +2,14 @@
   "id": 353575905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.776647,35.143149,-76.776647,35.143149",
     "geom:latitude":35.143149,
     "geom:longitude":-76.776647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Main St",
     "sg:city":"Bayboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353575905,
-    "wof:lastmodified":1449019009,
+    "wof:lastmodified":1466649103,
     "wof:name":"Willis Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-76.776647,35.143149,-76.776647,35.143149],
+  "bbox": [
+    -76.776647,
+    35.143149,
+    -76.776647,
+    35.143149
+],
   "geometry": {"coordinates":[-76.776647,35.143149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252784909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.689973,35.607401,-77.689973,35.607401",
     "geom:latitude":35.607401,
     "geom:longitude":-77.689973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 US Hwy 264A",
     "sg:city":"Walstonburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252784909,
-    "wof:lastmodified":1449006128,
+    "wof:lastmodified":1466643914,
     "wof:name":"Boykin Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.689973,35.607401,-77.689973,35.607401],
-  "geometry": {"coordinates":[-77.689973,35.607401],"type":"Point"}
+  "bbox": [
+    -77.689973,
+    35.607401,
+    -77.689973,
+    35.607401
+],
+  "geometry": {"coordinates":[-77.68997299999999,35.607401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286327331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.05566,35.913039,-79.05566,35.913039",
     "geom:latitude":35.913039,
     "geom:longitude":-79.05566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Columbia St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286327331,
-    "wof:lastmodified":1449015400,
+    "wof:lastmodified":1466644096,
     "wof:name":"Visitors Bureau-Orange County",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-79.05566,35.913039,-79.05566,35.913039],
+  "bbox": [
+    -79.05566,
+    35.913039,
+    -79.05566,
+    35.913039
+],
   "geometry": {"coordinates":[-79.05566,35.913039],"type":"Point"}
 }

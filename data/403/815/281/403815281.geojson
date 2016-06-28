@@ -2,13 +2,14 @@
   "id": 403815281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.932763,35.044845,-78.932763,35.044845",
     "geom:latitude":35.044845,
     "geom:longitude":-78.932763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Cambridge St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403815281,
-    "wof:lastmodified":1449055276,
+    "wof:lastmodified":1466651787,
     "wof:name":"Fit & Slender Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "weight"
     ]
 },
-  "bbox": [-78.932763,35.044845,-78.932763,35.044845],
-  "geometry": {"coordinates":[-78.932763,35.044845],"type":"Point"}
+  "bbox": [
+    -78.932763,
+    35.044845,
+    -78.932763,
+    35.044845
+],
+  "geometry": {"coordinates":[-78.93276299999999,35.044845],"type":"Point"}
 }

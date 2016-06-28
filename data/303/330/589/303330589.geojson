@@ -2,13 +2,14 @@
   "id": 303330589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.949042,36.309363,-78.949042,36.309363",
     "geom:latitude":36.309363,
     "geom:longitude":-78.949042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Lynn Credle",
     "sg:city":"Timberlake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303330589,
-    "wof:lastmodified":1448999336,
+    "wof:lastmodified":1466648078,
     "wof:name":"Credle's Sharpening Svc",
     "wof:parent_id":85823157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sharpening"
     ]
 },
-  "bbox": [-78.949042,36.309363,-78.949042,36.309363],
-  "geometry": {"coordinates":[-78.949042,36.309363],"type":"Point"}
+  "bbox": [
+    -78.949042,
+    36.309363,
+    -78.949042,
+    36.309363
+],
+  "geometry": {"coordinates":[-78.94904200000001,36.309363],"type":"Point"}
 }

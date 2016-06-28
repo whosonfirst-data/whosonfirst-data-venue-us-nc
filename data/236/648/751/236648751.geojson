@@ -2,13 +2,14 @@
   "id": 236648751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.847411,34.485561,-78.847411,34.485561",
     "geom:latitude":34.485561,
     "geom:longitude":-78.847411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18706 State Hwy 242 S",
     "sg:city":"Evergreen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236648751,
-    "wof:lastmodified":1449002362,
+    "wof:lastmodified":1466648978,
     "wof:name":"Keith Kinlaw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-78.847411,34.485561,-78.847411,34.485561],
-  "geometry": {"coordinates":[-78.847411,34.485561],"type":"Point"}
+  "bbox": [
+    -78.847411,
+    34.485561,
+    -78.847411,
+    34.485561
+],
+  "geometry": {"coordinates":[-78.84741099999999,34.485561],"type":"Point"}
 }

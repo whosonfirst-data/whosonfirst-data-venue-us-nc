@@ -2,13 +2,14 @@
   "id": 387479923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.442975,33.900192,-78.442975,33.900192",
     "geom:latitude":33.900192,
     "geom:longitude":-78.442975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 Hale Beach Rd SW",
     "sg:city":"Ocean Isle Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387479923,
-    "wof:lastmodified":1449058714,
+    "wof:lastmodified":1466656073,
     "wof:name":"Sugar Shack",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.442975,33.900192,-78.442975,33.900192],
+  "bbox": [
+    -78.442975,
+    33.900192,
+    -78.442975,
+    33.900192
+],
   "geometry": {"coordinates":[-78.442975,33.900192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354315315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.103923,34.680196,-77.103923,34.680196",
     "geom:latitude":34.680196,
     "geom:longitude":-77.103923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Cedar Ln",
     "sg:city":"Cedar Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354315315,
-    "wof:lastmodified":1449067590,
+    "wof:lastmodified":1466651197,
     "wof:name":"Lanier Surveying",
     "wof:parent_id":85843465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-77.103923,34.680196,-77.103923,34.680196],
-  "geometry": {"coordinates":[-77.103923,34.680196],"type":"Point"}
+  "bbox": [
+    -77.103923,
+    34.680196,
+    -77.103923,
+    34.680196
+],
+  "geometry": {"coordinates":[-77.10392299999999,34.680196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253475317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.027459,35.07691,-77.027459,35.07691",
     "geom:latitude":35.07691,
     "geom:longitude":-77.027459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Old Cherry Point Rd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253475317,
-    "wof:lastmodified":1449064054,
+    "wof:lastmodified":1466648050,
     "wof:name":"Williams Farm & Garden Ctr",
     "wof:parent_id":85827311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-77.027459,35.07691,-77.027459,35.07691],
-  "geometry": {"coordinates":[-77.027459,35.07691],"type":"Point"}
+  "bbox": [
+    -77.027459,
+    35.07691,
+    -77.027459,
+    35.07691
+],
+  "geometry": {"coordinates":[-77.02745899999999,35.07691],"type":"Point"}
 }

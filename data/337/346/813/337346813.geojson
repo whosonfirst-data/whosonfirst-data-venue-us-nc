@@ -2,13 +2,14 @@
   "id": 337346813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.320636,35.252459,-77.320636,35.252459",
     "geom:latitude":35.252459,
     "geom:longitude":-77.320636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1591 Jonestown Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337346813,
-    "wof:lastmodified":1449026927,
+    "wof:lastmodified":1466646551,
     "wof:name":"Haines Quality Care Constr",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.320636,35.252459,-77.320636,35.252459],
-  "geometry": {"coordinates":[-77.320636,35.252459],"type":"Point"}
+  "bbox": [
+    -77.320636,
+    35.252459,
+    -77.320636,
+    35.252459
+],
+  "geometry": {"coordinates":[-77.32063599999999,35.252459],"type":"Point"}
 }

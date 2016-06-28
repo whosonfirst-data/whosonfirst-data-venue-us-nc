@@ -2,13 +2,14 @@
   "id": 303170935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.469146,36.10649,-79.469146,36.10649",
     "geom:latitude":36.10649,
     "geom:longitude":-79.469146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2238 Radiance Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303170935,
-    "wof:lastmodified":1448998349,
+    "wof:lastmodified":1466645772,
     "wof:name":"D's Hair Salon",
     "wof:parent_id":85845553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.469146,36.10649,-79.469146,36.10649],
-  "geometry": {"coordinates":[-79.469146,36.10649],"type":"Point"}
+  "bbox": [
+    -79.469146,
+    36.10649,
+    -79.469146,
+    36.10649
+],
+  "geometry": {"coordinates":[-79.46914599999999,36.10649],"type":"Point"}
 }

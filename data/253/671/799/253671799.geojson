@@ -2,13 +2,14 @@
   "id": 253671799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.638123,35.778493,-78.638123,35.778493",
     "geom:latitude":35.778493,
     "geom:longitude":-78.638123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Wilmington St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253671799,
-    "wof:lastmodified":1449063497,
+    "wof:lastmodified":1466650410,
     "wof:name":"Mc Laurin Parking Co",
     "wof:parent_id":85873451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-78.638123,35.778493,-78.638123,35.778493],
-  "geometry": {"coordinates":[-78.638123,35.778493],"type":"Point"}
+  "bbox": [
+    -78.638123,
+    35.778493,
+    -78.638123,
+    35.778493
+],
+  "geometry": {"coordinates":[-78.63812299999999,35.778493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404029903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.074,35.103365,-77.074,35.103365",
     "geom:latitude":35.103365,
     "geom:longitude":-77.074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 Trent Blvd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404029903,
-    "wof:lastmodified":1449039543,
+    "wof:lastmodified":1466651681,
     "wof:name":"Terry Conway Construction",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.074,35.103365,-77.074,35.103365],
+  "bbox": [
+    -77.074,
+    35.103365,
+    -77.074,
+    35.103365
+],
   "geometry": {"coordinates":[-77.074,35.103365],"type":"Point"}
 }

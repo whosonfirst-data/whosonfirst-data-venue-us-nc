@@ -2,13 +2,14 @@
   "id": 186525165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.00302,35.635455,-79.00302,35.635455",
     "geom:latitude":35.635455,
     "geom:longitude":-79.00302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 Christian Chapel Church Rd",
     "sg:city":"New Hill",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186525165,
-    "wof:lastmodified":1449052450,
+    "wof:lastmodified":1466654535,
     "wof:name":"Mc Gill Environmental Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "topsoil"
     ]
 },
-  "bbox": [-79.00302,35.635455,-79.00302,35.635455],
-  "geometry": {"coordinates":[-79.00302,35.635455],"type":"Point"}
+  "bbox": [
+    -79.00302,
+    35.635455,
+    -79.00302,
+    35.635455
+],
+  "geometry": {"coordinates":[-79.00302000000001,35.635455],"type":"Point"}
 }

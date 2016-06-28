@@ -2,13 +2,14 @@
   "id": 403819639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.305562,35.914669,-82.305562,35.914669",
     "geom:latitude":35.914669,
     "geom:longitude":-82.305562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 US Hwy 19 E",
     "sg:city":"Burnsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403819639,
-    "wof:lastmodified":1449054959,
+    "wof:lastmodified":1466651847,
     "wof:name":"Grannys Attic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.305562,35.914669,-82.305562,35.914669],
-  "geometry": {"coordinates":[-82.305562,35.914669],"type":"Point"}
+  "bbox": [
+    -82.305562,
+    35.914669,
+    -82.305562,
+    35.914669
+],
+  "geometry": {"coordinates":[-82.30556199999999,35.914669],"type":"Point"}
 }

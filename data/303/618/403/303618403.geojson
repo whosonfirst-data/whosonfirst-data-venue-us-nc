@@ -2,13 +2,14 @@
   "id": 303618403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.091505,34.649287,-77.091505,34.649287",
     "geom:latitude":34.649287,
     "geom:longitude":-77.091505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10514 Island Cir",
     "sg:city":"Emerald Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303618403,
-    "wof:lastmodified":1448999642,
+    "wof:lastmodified":1466652230,
     "wof:name":"John M Schmitt",
     "wof:parent_id":85843465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-77.091505,34.649287,-77.091505,34.649287],
+  "bbox": [
+    -77.091505,
+    34.649287,
+    -77.091505,
+    34.649287
+],
   "geometry": {"coordinates":[-77.091505,34.649287],"type":"Point"}
 }

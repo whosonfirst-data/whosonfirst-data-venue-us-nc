@@ -2,13 +2,14 @@
   "id": 387163937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.088327,35.248985,-77.088327,35.248985",
     "geom:latitude":35.248985,
     "geom:longitude":-77.088327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5235 US Hwy 17",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387163937,
-    "wof:lastmodified":1449059835,
+    "wof:lastmodified":1466651996,
     "wof:name":"Manning Auto Sales",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.088327,35.248985,-77.088327,35.248985],
-  "geometry": {"coordinates":[-77.088327,35.248985],"type":"Point"}
+  "bbox": [
+    -77.088327,
+    35.248985,
+    -77.088327,
+    35.248985
+],
+  "geometry": {"coordinates":[-77.08832700000001,35.248985],"type":"Point"}
 }

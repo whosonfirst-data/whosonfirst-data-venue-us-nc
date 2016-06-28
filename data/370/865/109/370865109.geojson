@@ -2,13 +2,14 @@
   "id": 370865109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.419852,35.471145,-77.419852,35.471145",
     "geom:latitude":35.471145,
     "geom:longitude":-77.419852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 W 3rd St",
     "sg:city":"Ayden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370865109,
-    "wof:lastmodified":1449031649,
+    "wof:lastmodified":1466656666,
     "wof:name":"Dr Ned Craft",
     "wof:parent_id":85851255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.419852,35.471145,-77.419852,35.471145],
-  "geometry": {"coordinates":[-77.419852,35.471145],"type":"Point"}
+  "bbox": [
+    -77.419852,
+    35.471145,
+    -77.419852,
+    35.471145
+],
+  "geometry": {"coordinates":[-77.41985200000001,35.471145],"type":"Point"}
 }

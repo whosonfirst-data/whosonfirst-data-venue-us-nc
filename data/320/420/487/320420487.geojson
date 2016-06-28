@@ -2,13 +2,14 @@
   "id": 320420487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.964007,36.389833,-79.964007,36.389833",
     "geom:latitude":36.389833,
     "geom:longitude":-79.964007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Carter St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320420487,
-    "wof:lastmodified":1449013041,
+    "wof:lastmodified":1466651222,
     "wof:name":"Madison Police Dept",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-79.964007,36.389833,-79.964007,36.389833],
+  "bbox": [
+    -79.964007,
+    36.389833,
+    -79.964007,
+    36.389833
+],
   "geometry": {"coordinates":[-79.964007,36.389833],"type":"Point"}
 }

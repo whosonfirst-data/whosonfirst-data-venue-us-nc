@@ -2,13 +2,14 @@
   "id": 286691291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.525472,35.569357,-82.525472,35.569357",
     "geom:latitude":35.569357,
     "geom:longitude":-82.525472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 3rd St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286691291,
-    "wof:lastmodified":1449015427,
+    "wof:lastmodified":1466648973,
     "wof:name":"Asheville Industrial Repair",
     "wof:parent_id":85815973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forklift"
     ]
 },
-  "bbox": [-82.525472,35.569357,-82.525472,35.569357],
-  "geometry": {"coordinates":[-82.525472,35.569357],"type":"Point"}
+  "bbox": [
+    -82.525472,
+    35.569357,
+    -82.525472,
+    35.569357
+],
+  "geometry": {"coordinates":[-82.52547199999999,35.569357],"type":"Point"}
 }

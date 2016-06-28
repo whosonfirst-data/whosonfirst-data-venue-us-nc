@@ -2,13 +2,14 @@
   "id": 370390679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205132,35.338731,-80.205132,35.338731",
     "geom:latitude":35.338731,
     "geom:longitude":-80.205132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 State Hwy 27",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370390679,
-    "wof:lastmodified":1449032511,
+    "wof:lastmodified":1466651152,
     "wof:name":"Bank Of Stanly",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.205132,35.338731,-80.205132,35.338731],
-  "geometry": {"coordinates":[-80.205132,35.338731],"type":"Point"}
+  "bbox": [
+    -80.205132,
+    35.338731,
+    -80.205132,
+    35.338731
+],
+  "geometry": {"coordinates":[-80.20513200000001,35.338731],"type":"Point"}
 }

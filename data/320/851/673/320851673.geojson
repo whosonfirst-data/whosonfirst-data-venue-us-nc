@@ -2,13 +2,14 @@
   "id": 320851673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.233145,36.121781,-80.233145,36.121781",
     "geom:latitude":36.121781,
     "geom:longitude":-80.233145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 N Liberty St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320851673,
-    "wof:lastmodified":1449013728,
+    "wof:lastmodified":1466656735,
     "wof:name":"Liberty Heights Inn Inc",
     "wof:parent_id":85838183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.233145,36.121781,-80.233145,36.121781],
-  "geometry": {"coordinates":[-80.233145,36.121781],"type":"Point"}
+  "bbox": [
+    -80.233145,
+    36.121781,
+    -80.233145,
+    36.121781
+],
+  "geometry": {"coordinates":[-80.23314499999999,36.121781],"type":"Point"}
 }

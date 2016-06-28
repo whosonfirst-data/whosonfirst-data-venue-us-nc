@@ -2,13 +2,14 @@
   "id": 269833083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.455239,35.745357,-78.455239,35.745357",
     "geom:latitude":35.745357,
     "geom:longitude":-78.455239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Windy Field Cir",
     "sg:city":"Knightdale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269833083,
-    "wof:lastmodified":1449036443,
+    "wof:lastmodified":1466647315,
     "wof:name":"Rdjd Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-78.455239,35.745357,-78.455239,35.745357],
-  "geometry": {"coordinates":[-78.455239,35.745357],"type":"Point"}
+  "bbox": [
+    -78.455239,
+    35.745357,
+    -78.455239,
+    35.745357
+],
+  "geometry": {"coordinates":[-78.45523900000001,35.745357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387403635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.074984,35.707454,-81.074984,35.707454",
     "geom:latitude":35.707454,
     "geom:longitude":-81.074984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Central Ave",
     "sg:city":"Catawba",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387403635,
-    "wof:lastmodified":1449059390,
+    "wof:lastmodified":1466655161,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.074984,35.707454,-81.074984,35.707454],
+  "bbox": [
+    -81.074984,
+    35.707454,
+    -81.074984,
+    35.707454
+],
   "geometry": {"coordinates":[-81.074984,35.707454],"type":"Point"}
 }

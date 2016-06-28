@@ -2,13 +2,14 @@
   "id": 303983653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.15223,34.308519,-78.15223,34.308519",
     "geom:latitude":34.308519,
     "geom:longitude":-78.15223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4999 Northwest Rd NE",
     "sg:city":"Riegelwood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303983653,
-    "wof:lastmodified":1449000359,
+    "wof:lastmodified":1466656903,
     "wof:name":"Northwest Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.15223,34.308519,-78.15223,34.308519],
+  "bbox": [
+    -78.15223,
+    34.308519,
+    -78.15223,
+    34.308519
+],
   "geometry": {"coordinates":[-78.15223,34.308519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219659261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.88621,35.103099,-80.88621,35.103099",
     "geom:latitude":35.103099,
     "geom:longitude":-80.88621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9635 Industrial Dr",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219659261,
-    "wof:lastmodified":1449070768,
+    "wof:lastmodified":1466646035,
     "wof:name":"Alphagary Corp",
     "wof:parent_id":85851011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-80.88621,35.103099,-80.88621,35.103099],
-  "geometry": {"coordinates":[-80.88621,35.103099],"type":"Point"}
+  "bbox": [
+    -80.88621,
+    35.103099,
+    -80.88621,
+    35.103099
+],
+  "geometry": {"coordinates":[-80.88621000000001,35.103099],"type":"Point"}
 }

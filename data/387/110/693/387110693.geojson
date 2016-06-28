@@ -2,13 +2,14 @@
   "id": 387110693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.039636,35.975101,-79.039636,35.975101",
     "geom:latitude":35.975101,
     "geom:longitude":-79.039636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Longwood Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387110693,
-    "wof:lastmodified":1449057344,
+    "wof:lastmodified":1466651291,
     "wof:name":"Classic Structures & Designs",
     "wof:parent_id":85838755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-79.039636,35.975101,-79.039636,35.975101],
+  "bbox": [
+    -79.039636,
+    35.975101,
+    -79.039636,
+    35.975101
+],
   "geometry": {"coordinates":[-79.039636,35.975101],"type":"Point"}
 }

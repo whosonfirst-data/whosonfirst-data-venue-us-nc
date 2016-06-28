@@ -2,13 +2,14 @@
   "id": 403775323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.764073,35.78729,-78.764073,35.78729",
     "geom:latitude":35.78729,
     "geom:longitude":-78.764073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 SE Maynard Rd",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403775323,
-    "wof:lastmodified":1449055596,
+    "wof:lastmodified":1466651261,
     "wof:name":"EDMZ Security",
     "wof:parent_id":85827201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-78.764073,35.78729,-78.764073,35.78729],
+  "bbox": [
+    -78.764073,
+    35.78729,
+    -78.764073,
+    35.78729
+],
   "geometry": {"coordinates":[-78.764073,35.78729],"type":"Point"}
 }

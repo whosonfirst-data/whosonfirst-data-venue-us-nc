@@ -2,13 +2,14 @@
   "id": 353737005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.815621,35.236369,-80.815621,35.236369",
     "geom:latitude":35.236369,
     "geom:longitude":-80.815621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Catawba Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353737005,
-    "wof:lastmodified":1449018835,
+    "wof:lastmodified":1466651045,
     "wof:name":"Villa Heights Grocery & Grill",
     "wof:parent_id":85853801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.815621,35.236369,-80.815621,35.236369],
-  "geometry": {"coordinates":[-80.815621,35.236369],"type":"Point"}
+  "bbox": [
+    -80.815621,
+    35.236369,
+    -80.815621,
+    35.236369
+],
+  "geometry": {"coordinates":[-80.81562099999999,35.236369],"type":"Point"}
 }

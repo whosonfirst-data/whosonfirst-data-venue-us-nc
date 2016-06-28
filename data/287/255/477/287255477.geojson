@@ -2,13 +2,14 @@
   "id": 287255477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.482474,35.682829,-80.482474,35.682829",
     "geom:latitude":35.682829,
     "geom:longitude":-80.482474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 W Innes St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287255477,
-    "wof:lastmodified":1449001058,
+    "wof:lastmodified":1466646858,
     "wof:name":"ARP",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.482474,35.682829,-80.482474,35.682829],
+  "bbox": [
+    -80.482474,
+    35.682829,
+    -80.482474,
+    35.682829
+],
   "geometry": {"coordinates":[-80.482474,35.682829],"type":"Point"}
 }

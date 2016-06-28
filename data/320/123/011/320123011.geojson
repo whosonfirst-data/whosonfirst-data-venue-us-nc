@@ -2,13 +2,14 @@
   "id": 320123011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.531602,35.30865,-81.531602,35.30865",
     "geom:latitude":35.30865,
     "geom:longitude":-81.531602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Atlantic Ave",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320123011,
-    "wof:lastmodified":1449012382,
+    "wof:lastmodified":1466647030,
     "wof:name":"Audacian Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "membership"
     ]
 },
-  "bbox": [-81.531602,35.30865,-81.531602,35.30865],
-  "geometry": {"coordinates":[-81.531602,35.30865],"type":"Point"}
+  "bbox": [
+    -81.531602,
+    35.30865,
+    -81.531602,
+    35.30865
+],
+  "geometry": {"coordinates":[-81.53160200000001,35.30865],"type":"Point"}
 }

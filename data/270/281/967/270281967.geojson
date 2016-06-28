@@ -2,13 +2,14 @@
   "id": 270281967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.509138,35.254403,-81.509138,35.254403",
     "geom:latitude":35.254403,
     "geom:longitude":-81.509138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Troutman Ln",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270281967,
-    "wof:lastmodified":1449010706,
+    "wof:lastmodified":1466646627,
     "wof:name":"Harifield Vault Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "vault"
     ]
 },
-  "bbox": [-81.509138,35.254403,-81.509138,35.254403],
-  "geometry": {"coordinates":[-81.509138,35.254403],"type":"Point"}
+  "bbox": [
+    -81.509138,
+    35.254403,
+    -81.509138,
+    35.254403
+],
+  "geometry": {"coordinates":[-81.50913799999999,35.254403],"type":"Point"}
 }

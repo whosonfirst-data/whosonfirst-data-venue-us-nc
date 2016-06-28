@@ -2,13 +2,14 @@
   "id": 403842631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.263011,34.866144,-78.263011,34.866144",
     "geom:latitude":34.866144,
     "geom:longitude":-78.263011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7381 Taylors Bridge Hwy",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403842631,
-    "wof:lastmodified":1449054735,
+    "wof:lastmodified":1466652175,
     "wof:name":"Taylors Bridge Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.263011,34.866144,-78.263011,34.866144],
-  "geometry": {"coordinates":[-78.263011,34.866144],"type":"Point"}
+  "bbox": [
+    -78.263011,
+    34.866144,
+    -78.263011,
+    34.866144
+],
+  "geometry": {"coordinates":[-78.26301100000001,34.866144],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236696443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.800846,35.976784,-77.800846,35.976784",
     "geom:latitude":35.976784,
     "geom:longitude":-77.800846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Tiffany Blvd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236696443,
-    "wof:lastmodified":1449001861,
+    "wof:lastmodified":1466649440,
     "wof:name":"Westridge Homes",
     "wof:parent_id":85851697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.800846,35.976784,-77.800846,35.976784],
-  "geometry": {"coordinates":[-77.800846,35.976784],"type":"Point"}
+  "bbox": [
+    -77.800846,
+    35.976784,
+    -77.800846,
+    35.976784
+],
+  "geometry": {"coordinates":[-77.80084600000001,35.976784],"type":"Point"}
 }

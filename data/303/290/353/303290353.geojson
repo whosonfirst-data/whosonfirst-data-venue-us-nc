@@ -2,13 +2,14 @@
   "id": 303290353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.665525,36.345289,-79.665525,36.345289",
     "geom:latitude":36.345289,
     "geom:longitude":-79.665525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Racine Blvd",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303290353,
-    "wof:lastmodified":1448999168,
+    "wof:lastmodified":1466647536,
     "wof:name":"Fire Equipment Sales & Svc",
     "wof:parent_id":85852623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-79.665525,36.345289,-79.665525,36.345289],
+  "bbox": [
+    -79.665525,
+    36.345289,
+    -79.665525,
+    36.345289
+],
   "geometry": {"coordinates":[-79.665525,36.345289],"type":"Point"}
 }

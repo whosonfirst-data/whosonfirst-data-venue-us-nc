@@ -2,13 +2,14 @@
   "id": 387110123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.49049,35.840429,-81.49049,35.840429",
     "geom:latitude":35.840429,
     "geom:longitude":-81.49049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 International Blvd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387110123,
-    "wof:lastmodified":1449057346,
+    "wof:lastmodified":1466651283,
     "wof:name":"Autumn Wood Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.49049,35.840429,-81.49049,35.840429],
-  "geometry": {"coordinates":[-81.49049,35.840429],"type":"Point"}
+  "bbox": [
+    -81.49049,
+    35.840429,
+    -81.49049,
+    35.840429
+],
+  "geometry": {"coordinates":[-81.49048999999999,35.840429],"type":"Point"}
 }

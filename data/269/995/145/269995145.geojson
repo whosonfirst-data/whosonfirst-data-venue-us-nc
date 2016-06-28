@@ -2,13 +2,14 @@
   "id": 269995145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.78092,34.267222,-77.78092,34.267222",
     "geom:latitude":34.267222,
     "geom:longitude":-77.78092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Mark Twain Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269995145,
-    "wof:lastmodified":1449038686,
+    "wof:lastmodified":1466649259,
     "wof:name":"Safe & Secure",
     "wof:parent_id":85852563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-77.78092,34.267222,-77.78092,34.267222],
-  "geometry": {"coordinates":[-77.78092,34.267222],"type":"Point"}
+  "bbox": [
+    -77.78092,
+    34.267222,
+    -77.78092,
+    34.267222
+],
+  "geometry": {"coordinates":[-77.78091999999999,34.267222],"type":"Point"}
 }

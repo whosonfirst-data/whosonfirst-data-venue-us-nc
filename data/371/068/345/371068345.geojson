@@ -2,13 +2,14 @@
   "id": 371068345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.420235,36.129611,-77.420235,36.129611",
     "geom:latitude":36.129611,
     "geom:longitude":-77.420235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E 11th St",
     "sg:city":"Scotland Neck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371068345,
-    "wof:lastmodified":1449049569,
+    "wof:lastmodified":1466649685,
     "wof:name":"Hawthorne Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-77.420235,36.129611,-77.420235,36.129611],
-  "geometry": {"coordinates":[-77.420235,36.129611],"type":"Point"}
+  "bbox": [
+    -77.420235,
+    36.129611,
+    -77.420235,
+    36.129611
+],
+  "geometry": {"coordinates":[-77.42023500000001,36.129611],"type":"Point"}
 }

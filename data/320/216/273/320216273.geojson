@@ -2,13 +2,14 @@
   "id": 320216273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.625081,35.804634,-78.625081,35.804634",
     "geom:latitude":35.804634,
     "geom:longitude":-78.625081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Wake Forest Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320216273,
-    "wof:lastmodified":1449014537,
+    "wof:lastmodified":1466648314,
     "wof:name":"Charlie Brown's Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-78.625081,35.804634,-78.625081,35.804634],
-  "geometry": {"coordinates":[-78.625081,35.804634],"type":"Point"}
+  "bbox": [
+    -78.625081,
+    35.804634,
+    -78.625081,
+    35.804634
+],
+  "geometry": {"coordinates":[-78.62508099999999,35.804634],"type":"Point"}
 }

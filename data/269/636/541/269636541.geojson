@@ -2,13 +2,14 @@
   "id": 269636541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.811034,35.616133,-80.811034,35.616133",
     "geom:latitude":35.616133,
     "geom:longitude":-80.811034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"391 Mazeppa Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269636541,
-    "wof:lastmodified":1449037104,
+    "wof:lastmodified":1466645046,
     "wof:name":"Aerodyne Wind Tunnel LLC",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-80.811034,35.616133,-80.811034,35.616133],
-  "geometry": {"coordinates":[-80.811034,35.616133],"type":"Point"}
+  "bbox": [
+    -80.811034,
+    35.616133,
+    -80.811034,
+    35.616133
+],
+  "geometry": {"coordinates":[-80.81103400000001,35.616133],"type":"Point"}
 }

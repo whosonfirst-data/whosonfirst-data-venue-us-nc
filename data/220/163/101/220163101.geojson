@@ -2,13 +2,14 @@
   "id": 220163101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.437533,36.094736,-79.437533,36.094736",
     "geom:latitude":36.094736,
     "geom:longitude":-79.437533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"267 W Front St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220163101,
-    "wof:lastmodified":1449074858,
+    "wof:lastmodified":1466644500,
     "wof:name":"Crime Stoppers",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "crime"
     ]
 },
-  "bbox": [-79.437533,36.094736,-79.437533,36.094736],
+  "bbox": [
+    -79.437533,
+    36.094736,
+    -79.437533,
+    36.094736
+],
   "geometry": {"coordinates":[-79.437533,36.094736],"type":"Point"}
 }

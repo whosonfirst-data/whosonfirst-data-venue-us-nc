@@ -2,13 +2,14 @@
   "id": 320326635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.622042,35.890197,-78.622042,35.890197",
     "geom:latitude":35.890197,
     "geom:longitude":-78.622042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7313 Fiesta Way",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320326635,
-    "wof:lastmodified":1449012846,
+    "wof:lastmodified":1466649868,
     "wof:name":"North Wake County Basbal Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.622042,35.890197,-78.622042,35.890197],
-  "geometry": {"coordinates":[-78.622042,35.890197],"type":"Point"}
+  "bbox": [
+    -78.622042,
+    35.890197,
+    -78.622042,
+    35.890197
+],
+  "geometry": {"coordinates":[-78.62204199999999,35.890197],"type":"Point"}
 }

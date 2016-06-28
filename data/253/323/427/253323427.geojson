@@ -2,13 +2,14 @@
   "id": 253323427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.439715,35.374444,-77.439715,35.374444",
     "geom:latitude":35.374444,
     "geom:longitude":-77.439715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Highland Ave",
     "sg:city":"Grifton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253323427,
-    "wof:lastmodified":1449063070,
+    "wof:lastmodified":1466646278,
     "wof:name":"Times-Leader",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-77.439715,35.374444,-77.439715,35.374444],
-  "geometry": {"coordinates":[-77.439715,35.374444],"type":"Point"}
+  "bbox": [
+    -77.439715,
+    35.374444,
+    -77.439715,
+    35.374444
+],
+  "geometry": {"coordinates":[-77.43971500000001,35.374444],"type":"Point"}
 }

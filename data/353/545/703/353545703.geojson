@@ -2,13 +2,14 @@
   "id": 353545703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.685176,36.297566,-79.685176,36.297566",
     "geom:latitude":36.297566,
     "geom:longitude":-79.685176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Water Works Rd",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353545703,
-    "wof:lastmodified":1449018875,
+    "wof:lastmodified":1466648701,
     "wof:name":"Lake Reidsville",
     "wof:parent_id":85838759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-79.685176,36.297566,-79.685176,36.297566],
+  "bbox": [
+    -79.685176,
+    36.297566,
+    -79.685176,
+    36.297566
+],
   "geometry": {"coordinates":[-79.685176,36.297566],"type":"Point"}
 }

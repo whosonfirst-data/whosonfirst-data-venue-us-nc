@@ -2,13 +2,14 @@
   "id": 320264737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.826911,36.118349,-79.826911,36.118349",
     "geom:latitude":36.118349,
     "geom:longitude":-79.826911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 Pisgah Church Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320264737,
-    "wof:lastmodified":1449013691,
+    "wof:lastmodified":1466648999,
     "wof:name":"Off 'n Running",
     "wof:parent_id":85812537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.826911,36.118349,-79.826911,36.118349],
+  "bbox": [
+    -79.826911,
+    36.118349,
+    -79.826911,
+    36.118349
+],
   "geometry": {"coordinates":[-79.826911,36.118349],"type":"Point"}
 }

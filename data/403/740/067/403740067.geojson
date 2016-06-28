@@ -2,13 +2,14 @@
   "id": 403740067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.817715,36.19526,-79.817715,36.19526",
     "geom:latitude":36.19526,
     "geom:longitude":-79.817715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6087 Old Brick Store Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403740067,
-    "wof:lastmodified":1449055242,
+    "wof:lastmodified":1466650808,
     "wof:name":"Longaberger",
     "wof:parent_id":85877987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "basket"
     ]
 },
-  "bbox": [-79.817715,36.19526,-79.817715,36.19526],
-  "geometry": {"coordinates":[-79.817715,36.19526],"type":"Point"}
+  "bbox": [
+    -79.817715,
+    36.19526,
+    -79.817715,
+    36.19526
+],
+  "geometry": {"coordinates":[-79.81771500000001,36.19526],"type":"Point"}
 }

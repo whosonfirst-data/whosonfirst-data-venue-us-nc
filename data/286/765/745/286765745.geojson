@@ -2,13 +2,14 @@
   "id": 286765745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.884475,35.769445,-80.884475,35.769445",
     "geom:latitude":35.769445,
     "geom:longitude":-80.884475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Shelton Ave",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286765745,
-    "wof:lastmodified":1449016891,
+    "wof:lastmodified":1466649994,
     "wof:name":"Xaviers Barber Styling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "barber"
     ]
 },
-  "bbox": [-80.884475,35.769445,-80.884475,35.769445],
-  "geometry": {"coordinates":[-80.884475,35.769445],"type":"Point"}
+  "bbox": [
+    -80.884475,
+    35.769445,
+    -80.884475,
+    35.769445
+],
+  "geometry": {"coordinates":[-80.88447499999999,35.769445],"type":"Point"}
 }

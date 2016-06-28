@@ -2,13 +2,14 @@
   "id": 202519633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.768238,35.505611,-80.768238,35.505611",
     "geom:latitude":35.505611,
     "geom:longitude":-80.768238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13000 Mooresville Rd",
     "sg:city":"Davidson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202519633,
-    "wof:lastmodified":1449062476,
+    "wof:lastmodified":1466655095,
     "wof:name":"A Goodman Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.768238,35.505611,-80.768238,35.505611],
+  "bbox": [
+    -80.768238,
+    35.505611,
+    -80.768238,
+    35.505611
+],
   "geometry": {"coordinates":[-80.768238,35.505611],"type":"Point"}
 }

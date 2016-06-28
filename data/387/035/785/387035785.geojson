@@ -2,13 +2,14 @@
   "id": 387035785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.936653,35.115782,-78.936653,35.115782",
     "geom:latitude":35.115782,
     "geom:longitude":-78.936653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Charmain St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387035785,
-    "wof:lastmodified":1449059188,
+    "wof:lastmodified":1466650331,
     "wof:name":"Home Improvement Store",
     "wof:parent_id":85803239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.936653,35.115782,-78.936653,35.115782],
-  "geometry": {"coordinates":[-78.936653,35.115782],"type":"Point"}
+  "bbox": [
+    -78.936653,
+    35.115782,
+    -78.936653,
+    35.115782
+],
+  "geometry": {"coordinates":[-78.93665300000001,35.115782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353719465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.731322,34.737284,-76.731322,34.737284",
     "geom:latitude":34.737284,
     "geom:longitude":-76.731322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 N 20th St",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353719465,
-    "wof:lastmodified":1449018581,
+    "wof:lastmodified":1466650852,
     "wof:name":"Acme Movers & Storage Co Inc",
     "wof:parent_id":85851523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-76.731322,34.737284,-76.731322,34.737284],
-  "geometry": {"coordinates":[-76.731322,34.737284],"type":"Point"}
+  "bbox": [
+    -76.731322,
+    34.737284,
+    -76.731322,
+    34.737284
+],
+  "geometry": {"coordinates":[-76.73132200000001,34.737284],"type":"Point"}
 }

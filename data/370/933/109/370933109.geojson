@@ -2,13 +2,14 @@
   "id": 370933109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.694521,35.337126,-76.694521,35.337126",
     "geom:latitude":35.337126,
     "geom:longitude":-76.694521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Creek Rd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370933109,
-    "wof:lastmodified":1449029786,
+    "wof:lastmodified":1466657067,
     "wof:name":"P J & J Inc",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-76.694521,35.337126,-76.694521,35.337126],
-  "geometry": {"coordinates":[-76.694521,35.337126],"type":"Point"}
+  "bbox": [
+    -76.694521,
+    35.337126,
+    -76.694521,
+    35.337126
+],
+  "geometry": {"coordinates":[-76.69452099999999,35.337126],"type":"Point"}
 }

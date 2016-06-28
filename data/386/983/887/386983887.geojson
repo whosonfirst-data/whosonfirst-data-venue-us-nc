@@ -2,13 +2,14 @@
   "id": 386983887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.808956,35.926335,-79.808956,35.926335",
     "geom:latitude":35.926335,
     "geom:longitude":-79.808956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Auden Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386983887,
-    "wof:lastmodified":1449028957,
+    "wof:lastmodified":1466650113,
     "wof:name":"Causey Electric Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.808956,35.926335,-79.808956,35.926335],
-  "geometry": {"coordinates":[-79.808956,35.926335],"type":"Point"}
+  "bbox": [
+    -79.808956,
+    35.926335,
+    -79.808956,
+    35.926335
+],
+  "geometry": {"coordinates":[-79.80895599999999,35.926335],"type":"Point"}
 }

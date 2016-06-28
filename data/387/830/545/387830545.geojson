@@ -2,13 +2,14 @@
   "id": 387830545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.46399,35.714652,-77.46399,35.714652",
     "geom:latitude":35.714652,
     "geom:longitude":-77.46399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Porter Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387830545,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1466657831,
     "wof:name":"P B Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "graphics"
     ]
 },
-  "bbox": [-77.46399,35.714652,-77.46399,35.714652],
+  "bbox": [
+    -77.46399,
+    35.714652,
+    -77.46399,
+    35.714652
+],
   "geometry": {"coordinates":[-77.46399,35.714652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303602839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.435994,34.790217,-77.435994,34.790217",
     "geom:latitude":34.790217,
     "geom:longitude":-77.435994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Iverleigh Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303602839,
-    "wof:lastmodified":1448999267,
+    "wof:lastmodified":1466651994,
     "wof:name":"Jacksonville Raiders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-77.435994,34.790217,-77.435994,34.790217],
-  "geometry": {"coordinates":[-77.435994,34.790217],"type":"Point"}
+  "bbox": [
+    -77.435994,
+    34.790217,
+    -77.435994,
+    34.790217
+],
+  "geometry": {"coordinates":[-77.43599399999999,34.790217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320784229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.9368,35.032996,-78.9368,35.032996",
     "geom:latitude":35.032996,
     "geom:longitude":-78.9368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 Melrose Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320784229,
-    "wof:lastmodified":1449013765,
+    "wof:lastmodified":1466656209,
     "wof:name":"Cumberland Psychiatric",
     "wof:parent_id":85877381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.9368,35.032996,-78.9368,35.032996],
-  "geometry": {"coordinates":[-78.9368,35.032996],"type":"Point"}
+  "bbox": [
+    -78.9368,
+    35.032996,
+    -78.9368,
+    35.032996
+],
+  "geometry": {"coordinates":[-78.93680000000001,35.032996],"type":"Point"}
 }

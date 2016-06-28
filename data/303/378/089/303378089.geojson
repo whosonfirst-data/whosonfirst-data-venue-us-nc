@@ -2,13 +2,14 @@
   "id": 303378089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.257798,35.845085,-80.257798,35.845085",
     "geom:latitude":35.845085,
     "geom:longitude":-80.257798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Biesecker Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303378089,
-    "wof:lastmodified":1448999767,
+    "wof:lastmodified":1466648760,
     "wof:name":"Lampcrafters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lamp"
     ]
 },
-  "bbox": [-80.257798,35.845085,-80.257798,35.845085],
-  "geometry": {"coordinates":[-80.257798,35.845085],"type":"Point"}
+  "bbox": [
+    -80.257798,
+    35.845085,
+    -80.257798,
+    35.845085
+],
+  "geometry": {"coordinates":[-80.25779799999999,35.845085],"type":"Point"}
 }

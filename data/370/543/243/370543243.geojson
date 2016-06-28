@@ -2,13 +2,14 @@
   "id": 370543243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.642864,35.874283,-78.642864,35.874283",
     "geom:latitude":35.874283,
     "geom:longitude":-78.642864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Wind Chime Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370543243,
-    "wof:lastmodified":1449029751,
+    "wof:lastmodified":1466653129,
     "wof:name":"Legacy Healthcare Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-78.642864,35.874283,-78.642864,35.874283],
+  "bbox": [
+    -78.642864,
+    35.874283,
+    -78.642864,
+    35.874283
+],
   "geometry": {"coordinates":[-78.642864,35.874283],"type":"Point"}
 }

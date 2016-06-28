@@ -2,13 +2,14 @@
   "id": 303608433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.080508,35.220337,-81.080508,35.220337",
     "geom:latitude":35.220337,
     "geom:longitude":-81.080508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Hamrick Rd",
     "sg:city":"Ellenboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303608433,
-    "wof:lastmodified":1448999163,
+    "wof:lastmodified":1466652076,
     "wof:name":"Hollifield Enterprises",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.080508,35.220337,-81.080508,35.220337],
-  "geometry": {"coordinates":[-81.080508,35.220337],"type":"Point"}
+  "bbox": [
+    -81.080508,
+    35.220337,
+    -81.080508,
+    35.220337
+],
+  "geometry": {"coordinates":[-81.08050799999999,35.220337],"type":"Point"}
 }

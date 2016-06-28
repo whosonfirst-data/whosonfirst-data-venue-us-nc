@@ -2,13 +2,14 @@
   "id": 387847109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.422435,35.123427,-79.422435,35.123427",
     "geom:latitude":35.123427,
     "geom:longitude":-79.422435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Keyser St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387847109,
-    "wof:lastmodified":1449057481,
+    "wof:lastmodified":1466657859,
     "wof:name":"Aberdeen Elementary",
     "wof:parent_id":85841741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-79.422435,35.123427,-79.422435,35.123427],
-  "geometry": {"coordinates":[-79.422435,35.123427],"type":"Point"}
+  "bbox": [
+    -79.422435,
+    35.123427,
+    -79.422435,
+    35.123427
+],
+  "geometry": {"coordinates":[-79.42243499999999,35.123427],"type":"Point"}
 }

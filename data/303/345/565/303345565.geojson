@@ -2,13 +2,14 @@
   "id": 303345565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.948405,35.971436,-78.948405,35.971436",
     "geom:latitude":35.971436,
     "geom:longitude":-78.948405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Durham-Chapel Hill Blvd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303345565,
-    "wof:lastmodified":1449000374,
+    "wof:lastmodified":1466648281,
     "wof:name":"Saturn",
     "wof:parent_id":85877193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.948405,35.971436,-78.948405,35.971436],
-  "geometry": {"coordinates":[-78.948405,35.971436],"type":"Point"}
+  "bbox": [
+    -78.948405,
+    35.971436,
+    -78.948405,
+    35.971436
+],
+  "geometry": {"coordinates":[-78.94840499999999,35.971436],"type":"Point"}
 }

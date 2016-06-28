@@ -2,13 +2,14 @@
   "id": 269728143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.810938,35.776711,-78.810938,35.776711",
     "geom:latitude":35.776711,
     "geom:longitude":-78.810938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Castlefern Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269728143,
-    "wof:lastmodified":1449036701,
+    "wof:lastmodified":1466646114,
     "wof:name":"KMD Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.810938,35.776711,-78.810938,35.776711],
-  "geometry": {"coordinates":[-78.810938,35.776711],"type":"Point"}
+  "bbox": [
+    -78.810938,
+    35.776711,
+    -78.810938,
+    35.776711
+],
+  "geometry": {"coordinates":[-78.81093799999999,35.776711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320395961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.036847,36.456032,-79.036847,36.456032",
     "geom:latitude":36.456032,
     "geom:longitude":-79.036847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2065 Chub Lake Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320395961,
-    "wof:lastmodified":1449014427,
+    "wof:lastmodified":1466650865,
     "wof:name":"Maple Heights Rest Home",
     "wof:parent_id":85808801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rest"
     ]
 },
-  "bbox": [-79.036847,36.456032,-79.036847,36.456032],
-  "geometry": {"coordinates":[-79.036847,36.456032],"type":"Point"}
+  "bbox": [
+    -79.036847,
+    36.456032,
+    -79.036847,
+    36.456032
+],
+  "geometry": {"coordinates":[-79.03684699999999,36.456032],"type":"Point"}
 }

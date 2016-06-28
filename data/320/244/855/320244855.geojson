@@ -2,13 +2,14 @@
   "id": 320244855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.853794,35.047834,-80.853794,35.047834",
     "geom:latitude":35.047834,
     "geom:longitude":-80.853794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14515 Nolen Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320244855,
-    "wof:lastmodified":1449012752,
+    "wof:lastmodified":1466648721,
     "wof:name":"E Client Inc",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.853794,35.047834,-80.853794,35.047834],
-  "geometry": {"coordinates":[-80.853794,35.047834],"type":"Point"}
+  "bbox": [
+    -80.853794,
+    35.047834,
+    -80.853794,
+    35.047834
+],
+  "geometry": {"coordinates":[-80.85379399999999,35.047834],"type":"Point"}
 }

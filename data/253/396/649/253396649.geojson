@@ -2,13 +2,14 @@
   "id": 253396649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.154201,36.398309,-78.154201,36.398309",
     "geom:latitude":36.398309,
     "geom:longitude":-78.154201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Macon St",
     "sg:city":"Warrenton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253396649,
-    "wof:lastmodified":1449064781,
+    "wof:lastmodified":1466647136,
     "wof:name":"Warren County Farmers Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-78.154201,36.398309,-78.154201,36.398309],
+  "bbox": [
+    -78.154201,
+    36.398309,
+    -78.154201,
+    36.398309
+],
   "geometry": {"coordinates":[-78.154201,36.398309],"type":"Point"}
 }

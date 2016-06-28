@@ -2,13 +2,14 @@
   "id": 370896529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.841051,35.815177,-80.841051,35.815177",
     "geom:latitude":35.815177,
     "geom:longitude":-80.841051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Crawford Rd",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370896529,
-    "wof:lastmodified":1449030322,
+    "wof:lastmodified":1466656727,
     "wof:name":"N C Thona Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.841051,35.815177,-80.841051,35.815177],
-  "geometry": {"coordinates":[-80.841051,35.815177],"type":"Point"}
+  "bbox": [
+    -80.841051,
+    35.815177,
+    -80.841051,
+    35.815177
+],
+  "geometry": {"coordinates":[-80.84105099999999,35.815177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270283209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.145441,35.254788,-81.145441,35.254788",
     "geom:latitude":35.254788,
     "geom:longitude":-81.145441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Kirby Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270283209,
-    "wof:lastmodified":1449009331,
+    "wof:lastmodified":1466646646,
     "wof:name":"National League Of Junior",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "interest"
     ]
 },
-  "bbox": [-81.145441,35.254788,-81.145441,35.254788],
-  "geometry": {"coordinates":[-81.145441,35.254788],"type":"Point"}
+  "bbox": [
+    -81.145441,
+    35.254788,
+    -81.145441,
+    35.254788
+],
+  "geometry": {"coordinates":[-81.14544100000001,35.254788],"type":"Point"}
 }

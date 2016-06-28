@@ -2,13 +2,14 @@
   "id": 370518041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.157631,35.240238,-81.157631,35.240238",
     "geom:latitude":35.240238,
     "geom:longitude":-81.157631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 Buckingham Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370518041,
-    "wof:lastmodified":1449030985,
+    "wof:lastmodified":1466652791,
     "wof:name":"McHenry Mchenry Partnership",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.157631,35.240238,-81.157631,35.240238],
-  "geometry": {"coordinates":[-81.157631,35.240238],"type":"Point"}
+  "bbox": [
+    -81.157631,
+    35.240238,
+    -81.157631,
+    35.240238
+],
+  "geometry": {"coordinates":[-81.15763099999999,35.240238],"type":"Point"}
 }

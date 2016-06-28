@@ -2,13 +2,14 @@
   "id": 387696233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.661132,35.750166,-78.661132,35.750166",
     "geom:latitude":35.750166,
     "geom:longitude":-78.661132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2237 Henslowe Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387696233,
-    "wof:lastmodified":1449056395,
+    "wof:lastmodified":1466657431,
     "wof:name":"Visions In Glaze Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.661132,35.750166,-78.661132,35.750166],
-  "geometry": {"coordinates":[-78.661132,35.750166],"type":"Point"}
+  "bbox": [
+    -78.661132,
+    35.750166,
+    -78.661132,
+    35.750166
+],
+  "geometry": {"coordinates":[-78.66113199999999,35.750166],"type":"Point"}
 }

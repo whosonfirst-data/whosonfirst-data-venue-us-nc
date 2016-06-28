@@ -2,13 +2,14 @@
   "id": 202412863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.430299,35.512428,-82.430299,35.512428",
     "geom:latitude":35.512428,
     "geom:longitude":-82.430299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 John Tate Dr",
     "sg:city":"Fletcher",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202412863,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466654295,
     "wof:name":"Enchanted Forest Hardwood Flr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.430299,35.512428,-82.430299,35.512428],
-  "geometry": {"coordinates":[-82.430299,35.512428],"type":"Point"}
+  "bbox": [
+    -82.430299,
+    35.512428,
+    -82.430299,
+    35.512428
+],
+  "geometry": {"coordinates":[-82.43029900000001,35.512428],"type":"Point"}
 }

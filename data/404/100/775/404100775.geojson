@@ -2,13 +2,14 @@
   "id": 404100775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.991352,35.48637,-82.991352,35.48637",
     "geom:latitude":35.48637,
     "geom:longitude":-82.991352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"751 S Haywood St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404100775,
-    "wof:lastmodified":1449040003,
+    "wof:lastmodified":1466652546,
     "wof:name":"WLOS TV",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "co"
     ]
 },
-  "bbox": [-82.991352,35.48637,-82.991352,35.48637],
-  "geometry": {"coordinates":[-82.991352,35.48637],"type":"Point"}
+  "bbox": [
+    -82.991352,
+    35.48637,
+    -82.991352,
+    35.48637
+],
+  "geometry": {"coordinates":[-82.99135200000001,35.48637],"type":"Point"}
 }

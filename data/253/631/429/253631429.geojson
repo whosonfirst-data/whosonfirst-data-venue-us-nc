@@ -2,13 +2,14 @@
   "id": 253631429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.906658,33.998241,-77.906658,33.998241",
     "geom:latitude":33.998241,
     "geom:longitude":-77.906658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Ave K",
     "sg:city":"Kure Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253631429,
-    "wof:lastmodified":1449063735,
+    "wof:lastmodified":1466649926,
     "wof:name":"Kure Pier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fishing"
     ]
 },
-  "bbox": [-77.906658,33.998241,-77.906658,33.998241],
-  "geometry": {"coordinates":[-77.906658,33.998241],"type":"Point"}
+  "bbox": [
+    -77.906658,
+    33.998241,
+    -77.906658,
+    33.998241
+],
+  "geometry": {"coordinates":[-77.90665799999999,33.998241],"type":"Point"}
 }

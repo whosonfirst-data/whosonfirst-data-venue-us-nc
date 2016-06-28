@@ -2,13 +2,14 @@
   "id": 319960589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.596095,35.222451,-80.596095,35.222451",
     "geom:latitude":35.222451,
     "geom:longitude":-80.596095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10841 Coble Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":319960589,
-    "wof:lastmodified":1449024641,
+    "wof:lastmodified":1466646902,
     "wof:name":"Fix It Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engine"
     ]
 },
-  "bbox": [-80.596095,35.222451,-80.596095,35.222451],
-  "geometry": {"coordinates":[-80.596095,35.222451],"type":"Point"}
+  "bbox": [
+    -80.596095,
+    35.222451,
+    -80.596095,
+    35.222451
+],
+  "geometry": {"coordinates":[-80.59609500000001,35.222451],"type":"Point"}
 }

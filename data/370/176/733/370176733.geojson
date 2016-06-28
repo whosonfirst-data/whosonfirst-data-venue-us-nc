@@ -2,13 +2,14 @@
   "id": 370176733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.968327,36.030182,-78.968327,36.030182",
     "geom:latitude":36.030182,
     "geom:longitude":-78.968327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4122 Bennett Memorial Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370176733,
-    "wof:lastmodified":1449031281,
+    "wof:lastmodified":1466648468,
     "wof:name":"Durham Mechanical Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.968327,36.030182,-78.968327,36.030182],
+  "bbox": [
+    -78.968327,
+    36.030182,
+    -78.968327,
+    36.030182
+],
   "geometry": {"coordinates":[-78.968327,36.030182],"type":"Point"}
 }

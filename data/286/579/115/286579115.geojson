@@ -2,13 +2,14 @@
   "id": 286579115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.960101,34.927621,-78.960101,34.927621",
     "geom:latitude":34.927621,
     "geom:longitude":-78.960101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5862 McDonald Rd",
     "sg:city":"Parkton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286579115,
-    "wof:lastmodified":1449016116,
+    "wof:lastmodified":1466647443,
     "wof:name":"Henrys Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "air"
     ]
 },
-  "bbox": [-78.960101,34.927621,-78.960101,34.927621],
-  "geometry": {"coordinates":[-78.960101,34.927621],"type":"Point"}
+  "bbox": [
+    -78.960101,
+    34.927621,
+    -78.960101,
+    34.927621
+],
+  "geometry": {"coordinates":[-78.96010099999999,34.927621],"type":"Point"}
 }

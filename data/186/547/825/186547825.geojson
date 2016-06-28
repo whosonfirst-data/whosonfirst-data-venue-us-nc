@@ -2,13 +2,14 @@
   "id": 186547825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.890065,36.088101,-78.890065,36.088101",
     "geom:latitude":36.088101,
     "geom:longitude":-78.890065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Briardale Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186547825,
-    "wof:lastmodified":1449050515,
+    "wof:lastmodified":1466654658,
     "wof:name":"Pickett Sprouse",
     "wof:parent_id":85877167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.890065,36.088101,-78.890065,36.088101],
-  "geometry": {"coordinates":[-78.890065,36.088101],"type":"Point"}
+  "bbox": [
+    -78.890065,
+    36.088101,
+    -78.890065,
+    36.088101
+],
+  "geometry": {"coordinates":[-78.89006500000001,36.088101],"type":"Point"}
 }

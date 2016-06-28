@@ -2,13 +2,14 @@
   "id": 353652043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.696751,35.600465,-77.696751,35.600465",
     "geom:latitude":35.600465,
     "geom:longitude":-77.696751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N Wilson St",
     "sg:city":"Walstonburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353652043,
-    "wof:lastmodified":1449019897,
+    "wof:lastmodified":1466650026,
     "wof:name":"Walstonburg Rural Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-77.696751,35.600465,-77.696751,35.600465],
-  "geometry": {"coordinates":[-77.696751,35.600465],"type":"Point"}
+  "bbox": [
+    -77.696751,
+    35.600465,
+    -77.696751,
+    35.600465
+],
+  "geometry": {"coordinates":[-77.69675100000001,35.600465],"type":"Point"}
 }

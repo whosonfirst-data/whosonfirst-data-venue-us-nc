@@ -2,13 +2,14 @@
   "id": 303075751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.460051,34.77705,-79.460051,34.77705",
     "geom:latitude":34.77705,
     "geom:longitude":-79.460051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Railroad St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303075751,
-    "wof:lastmodified":1448999443,
+    "wof:lastmodified":1466644335,
     "wof:name":"Spring Hill Water Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-79.460051,34.77705,-79.460051,34.77705],
-  "geometry": {"coordinates":[-79.460051,34.77705],"type":"Point"}
+  "bbox": [
+    -79.460051,
+    34.77705,
+    -79.460051,
+    34.77705
+],
+  "geometry": {"coordinates":[-79.46005100000001,34.77705],"type":"Point"}
 }

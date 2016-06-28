@@ -2,13 +2,14 @@
   "id": 253723543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.625503,35.784572,-78.625503,35.784572",
     "geom:latitude":35.784572,
     "geom:longitude":-78.625503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Oakwood Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253723543,
-    "wof:lastmodified":1449064544,
+    "wof:lastmodified":1466651048,
     "wof:name":"Joy and Dlvrnce Christn Church",
     "wof:parent_id":85873445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.625503,35.784572,-78.625503,35.784572],
-  "geometry": {"coordinates":[-78.625503,35.784572],"type":"Point"}
+  "bbox": [
+    -78.625503,
+    35.784572,
+    -78.625503,
+    35.784572
+],
+  "geometry": {"coordinates":[-78.62550299999999,35.784572],"type":"Point"}
 }

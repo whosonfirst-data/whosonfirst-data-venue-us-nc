@@ -2,13 +2,14 @@
   "id": 403790281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.258223,35.470081,-81.258223,35.470081",
     "geom:latitude":35.470081,
     "geom:longitude":-81.258223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W Water St",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403790281,
-    "wof:lastmodified":1449055658,
+    "wof:lastmodified":1466651446,
     "wof:name":"Historical Coordinator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-81.258223,35.470081,-81.258223,35.470081],
+  "bbox": [
+    -81.258223,
+    35.470081,
+    -81.258223,
+    35.470081
+],
   "geometry": {"coordinates":[-81.258223,35.470081],"type":"Point"}
 }

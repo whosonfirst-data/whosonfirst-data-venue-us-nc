@@ -2,13 +2,14 @@
   "id": 404119357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.474223,35.667647,-80.474223,35.667647",
     "geom:latitude":35.667647,
     "geom:longitude":-80.474223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Jackson St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404119357,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466652784,
     "wof:name":"Alpine Construction Company",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.474223,35.667647,-80.474223,35.667647],
-  "geometry": {"coordinates":[-80.474223,35.667647],"type":"Point"}
+  "bbox": [
+    -80.474223,
+    35.667647,
+    -80.474223,
+    35.667647
+],
+  "geometry": {"coordinates":[-80.47422299999999,35.667647],"type":"Point"}
 }

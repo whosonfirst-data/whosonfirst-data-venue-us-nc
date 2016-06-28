@@ -2,13 +2,14 @@
   "id": 370610747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.50798,36.101633,-79.50798,36.101633",
     "geom:latitude":36.101633,
     "geom:longitude":-79.50798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Holt Ave",
     "sg:city":"Elon College",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370610747,
-    "wof:lastmodified":1449032412,
+    "wof:lastmodified":1466654014,
     "wof:name":"William M Crouch DDS",
     "wof:parent_id":85812463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.50798,36.101633,-79.50798,36.101633],
+  "bbox": [
+    -79.50798,
+    36.101633,
+    -79.50798,
+    36.101633
+],
   "geometry": {"coordinates":[-79.50798,36.101633],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253458629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.540061,35.294396,-81.540061,35.294396",
     "geom:latitude":35.294396,
     "geom:longitude":-81.540061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Lafayette St",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253458629,
-    "wof:lastmodified":1449064938,
+    "wof:lastmodified":1466647848,
     "wof:name":"Shelby Ice Cream & Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.540061,35.294396,-81.540061,35.294396],
-  "geometry": {"coordinates":[-81.540061,35.294396],"type":"Point"}
+  "bbox": [
+    -81.540061,
+    35.294396,
+    -81.540061,
+    35.294396
+],
+  "geometry": {"coordinates":[-81.54006099999999,35.294396],"type":"Point"}
 }

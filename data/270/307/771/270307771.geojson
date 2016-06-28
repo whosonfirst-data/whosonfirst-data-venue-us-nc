@@ -2,13 +2,14 @@
   "id": 270307771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.185251,35.298376,-77.185251,35.298376",
     "geom:latitude":35.298376,
     "geom:longitude":-77.185251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Piney Neck Rd",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270307771,
-    "wof:lastmodified":1449009256,
+    "wof:lastmodified":1466646973,
     "wof:name":"Barrow Electric Vanceboro",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.185251,35.298376,-77.185251,35.298376],
-  "geometry": {"coordinates":[-77.185251,35.298376],"type":"Point"}
+  "bbox": [
+    -77.185251,
+    35.298376,
+    -77.185251,
+    35.298376
+],
+  "geometry": {"coordinates":[-77.18525099999999,35.298376],"type":"Point"}
 }

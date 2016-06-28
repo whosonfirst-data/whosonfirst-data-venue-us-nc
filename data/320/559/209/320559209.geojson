@@ -2,13 +2,14 @@
   "id": 320559209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.29922,36.101329,-78.29922,36.101329",
     "geom:latitude":36.101329,
     "geom:longitude":-78.29922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320559209,
-    "wof:lastmodified":1449014151,
+    "wof:lastmodified":1466653227,
     "wof:name":"Hight & Mc Farlane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.29922,36.101329,-78.29922,36.101329],
-  "geometry": {"coordinates":[-78.29922,36.101329],"type":"Point"}
+  "bbox": [
+    -78.29922,
+    36.101329,
+    -78.29922,
+    36.101329
+],
+  "geometry": {"coordinates":[-78.29922000000001,36.101329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353630491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.091834,35.118338,-77.091834,35.118338",
     "geom:latitude":35.118338,
     "geom:longitude":-77.091834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 S Glenburnie Rd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353630491,
-    "wof:lastmodified":1449019160,
+    "wof:lastmodified":1466649783,
     "wof:name":"Colony Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.091834,35.118338,-77.091834,35.118338],
-  "geometry": {"coordinates":[-77.091834,35.118338],"type":"Point"}
+  "bbox": [
+    -77.091834,
+    35.118338,
+    -77.091834,
+    35.118338
+],
+  "geometry": {"coordinates":[-77.09183400000001,35.118338],"type":"Point"}
 }

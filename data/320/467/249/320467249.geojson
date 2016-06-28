@@ -2,13 +2,14 @@
   "id": 320467249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.055418,35.543784,-77.055418,35.543784",
     "geom:latitude":35.543784,
     "geom:longitude":-77.055418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W 2nd St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320467249,
-    "wof:lastmodified":1449014164,
+    "wof:lastmodified":1466651885,
     "wof:name":"Beaufort County Fire Marshall",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-77.055418,35.543784,-77.055418,35.543784],
+  "bbox": [
+    -77.055418,
+    35.543784,
+    -77.055418,
+    35.543784
+],
   "geometry": {"coordinates":[-77.055418,35.543784],"type":"Point"}
 }

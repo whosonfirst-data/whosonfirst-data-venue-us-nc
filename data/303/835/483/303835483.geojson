@@ -2,13 +2,14 @@
   "id": 303835483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.450099,35.327741,-82.450099,35.327741",
     "geom:latitude":35.327741,
     "geom:longitude":-82.450099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 7th Ave E",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303835483,
-    "wof:lastmodified":1448998468,
+    "wof:lastmodified":1466655373,
     "wof:name":"Four Seasons Cinemas",
     "wof:parent_id":85812455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pct"
     ]
 },
-  "bbox": [-82.450099,35.327741,-82.450099,35.327741],
-  "geometry": {"coordinates":[-82.450099,35.327741],"type":"Point"}
+  "bbox": [
+    -82.450099,
+    35.327741,
+    -82.450099,
+    35.327741
+],
+  "geometry": {"coordinates":[-82.45009899999999,35.327741],"type":"Point"}
 }

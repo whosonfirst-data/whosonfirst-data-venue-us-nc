@@ -2,13 +2,14 @@
   "id": 370628381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.53736,35.655855,-80.53736,35.655855",
     "geom:latitude":35.655855,
     "geom:longitude":-80.53736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Red Fox Run",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370628381,
-    "wof:lastmodified":1449031829,
+    "wof:lastmodified":1466654242,
     "wof:name":"Town & Country Limousine",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-80.53736,35.655855,-80.53736,35.655855],
-  "geometry": {"coordinates":[-80.53736,35.655855],"type":"Point"}
+  "bbox": [
+    -80.53736,
+    35.655855,
+    -80.53736,
+    35.655855
+],
+  "geometry": {"coordinates":[-80.53736000000001,35.655855],"type":"Point"}
 }

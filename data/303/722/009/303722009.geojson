@@ -2,13 +2,14 @@
   "id": 303722009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.231933,36.116902,-80.231933,36.116902",
     "geom:latitude":36.116902,
     "geom:longitude":-80.231933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Burke Village Ln",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303722009,
-    "wof:lastmodified":1448998976,
+    "wof:lastmodified":1466653736,
     "wof:name":"Burke Village Apts",
     "wof:parent_id":85838183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.231933,36.116902,-80.231933,36.116902],
+  "bbox": [
+    -80.231933,
+    36.116902,
+    -80.231933,
+    36.116902
+],
   "geometry": {"coordinates":[-80.231933,36.116902],"type":"Point"}
 }

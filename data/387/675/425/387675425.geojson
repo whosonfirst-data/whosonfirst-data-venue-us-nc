@@ -2,13 +2,14 @@
   "id": 387675425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.001995,35.936214,-79.001995,35.936214",
     "geom:latitude":35.936214,
     "geom:longitude":-79.001995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Colony Woods Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387675425,
-    "wof:lastmodified":1449058039,
+    "wof:lastmodified":1466657171,
     "wof:name":"Joes Tutoring Service",
     "wof:parent_id":85814421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.001995,35.936214,-79.001995,35.936214],
-  "geometry": {"coordinates":[-79.001995,35.936214],"type":"Point"}
+  "bbox": [
+    -79.001995,
+    35.936214,
+    -79.001995,
+    35.936214
+],
+  "geometry": {"coordinates":[-79.00199499999999,35.936214],"type":"Point"}
 }

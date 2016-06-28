@@ -2,13 +2,14 @@
   "id": 202555155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.693193,35.579025,-82.693193,35.579025",
     "geom:latitude":35.579025,
     "geom:longitude":-82.693193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Brooks Cove Rd",
     "sg:city":"Candler",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202555155,
-    "wof:lastmodified":1449062293,
+    "wof:lastmodified":1466655321,
     "wof:name":"Blairware Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-82.693193,35.579025,-82.693193,35.579025],
-  "geometry": {"coordinates":[-82.693193,35.579025],"type":"Point"}
+  "bbox": [
+    -82.693193,
+    35.579025,
+    -82.693193,
+    35.579025
+],
+  "geometry": {"coordinates":[-82.69319299999999,35.579025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202790683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.075927,34.686273,-77.075927,34.686273",
     "geom:latitude":34.686273,
     "geom:longitude":-77.075927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 Cedar Point Blvd",
     "sg:city":"Swansboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202790683,
-    "wof:lastmodified":1449062070,
+    "wof:lastmodified":1466644091,
     "wof:name":"Lewis Welding and Fabrication",
     "wof:parent_id":85843465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-77.075927,34.686273,-77.075927,34.686273],
-  "geometry": {"coordinates":[-77.075927,34.686273],"type":"Point"}
+  "bbox": [
+    -77.075927,
+    34.686273,
+    -77.075927,
+    34.686273
+],
+  "geometry": {"coordinates":[-77.07592699999999,34.686273],"type":"Point"}
 }

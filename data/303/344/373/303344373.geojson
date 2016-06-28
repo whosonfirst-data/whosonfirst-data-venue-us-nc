@@ -2,13 +2,14 @@
   "id": 303344373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.734204,36.098826,-75.734204,36.098826",
     "geom:latitude":36.098826,
     "geom:longitude":-75.734204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 S Dogwood Trl",
     "sg:city":"Kitty Hawk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303344373,
-    "wof:lastmodified":1448998243,
+    "wof:lastmodified":1466648266,
     "wof:name":"Dogwood Home Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-75.734204,36.098826,-75.734204,36.098826],
-  "geometry": {"coordinates":[-75.734204,36.098826],"type":"Point"}
+  "bbox": [
+    -75.734204,
+    36.098826,
+    -75.734204,
+    36.098826
+],
+  "geometry": {"coordinates":[-75.73420400000001,36.098826],"type":"Point"}
 }

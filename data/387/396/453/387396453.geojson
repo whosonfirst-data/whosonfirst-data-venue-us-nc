@@ -2,13 +2,14 @@
   "id": 387396453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.093125,35.355275,-81.093125,35.355275",
     "geom:latitude":35.355275,
     "geom:longitude":-81.093125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 S Main St",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387396453,
-    "wof:lastmodified":1449058609,
+    "wof:lastmodified":1466655065,
     "wof:name":"Stanley Well and Pump",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "drilling"
     ]
 },
-  "bbox": [-81.093125,35.355275,-81.093125,35.355275],
+  "bbox": [
+    -81.093125,
+    35.355275,
+    -81.093125,
+    35.355275
+],
   "geometry": {"coordinates":[-81.093125,35.355275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371053063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.543664,35.398514,-79.543664,35.398514",
     "geom:latitude":35.398514,
     "geom:longitude":-79.543664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11792 State Hwy 24/27",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371053063,
-    "wof:lastmodified":1449049232,
+    "wof:lastmodified":1466649493,
     "wof:name":"Down To Earth Pottery",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-79.543664,35.398514,-79.543664,35.398514],
-  "geometry": {"coordinates":[-79.543664,35.398514],"type":"Point"}
+  "bbox": [
+    -79.543664,
+    35.398514,
+    -79.543664,
+    35.398514
+],
+  "geometry": {"coordinates":[-79.54366400000001,35.398514],"type":"Point"}
 }

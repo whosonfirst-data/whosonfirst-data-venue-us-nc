@@ -2,13 +2,14 @@
   "id": 253484381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.172041,35.260691,-81.172041,35.260691",
     "geom:latitude":35.260691,
     "geom:longitude":-81.172041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 E 2nd Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253484381,
-    "wof:lastmodified":1449065623,
+    "wof:lastmodified":1466648181,
     "wof:name":"Carpenter Design",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-81.172041,35.260691,-81.172041,35.260691],
-  "geometry": {"coordinates":[-81.172041,35.260691],"type":"Point"}
+  "bbox": [
+    -81.172041,
+    35.260691,
+    -81.172041,
+    35.260691
+],
+  "geometry": {"coordinates":[-81.17204099999999,35.260691],"type":"Point"}
 }

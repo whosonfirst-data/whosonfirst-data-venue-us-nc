@@ -2,13 +2,14 @@
   "id": 303706157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.583576,35.573543,-76.583576,35.573543",
     "geom:latitude":35.573543,
     "geom:longitude":-76.583576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4016 Beech Ridge Rd",
     "sg:city":"Belhaven",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303706157,
-    "wof:lastmodified":1448998294,
+    "wof:lastmodified":1466653505,
     "wof:name":"Pope Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.583576,35.573543,-76.583576,35.573543],
-  "geometry": {"coordinates":[-76.583576,35.573543],"type":"Point"}
+  "bbox": [
+    -76.583576,
+    35.573543,
+    -76.583576,
+    35.573543
+],
+  "geometry": {"coordinates":[-76.58357599999999,35.573543],"type":"Point"}
 }

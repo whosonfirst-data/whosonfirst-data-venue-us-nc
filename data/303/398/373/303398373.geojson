@@ -2,13 +2,14 @@
   "id": 303398373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.605207,35.893476,-78.605207,35.893476",
     "geom:latitude":35.893476,
     "geom:longitude":-78.605207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Thorpshire Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303398373,
-    "wof:lastmodified":1448998317,
+    "wof:lastmodified":1466649050,
     "wof:name":"Venture Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-78.605207,35.893476,-78.605207,35.893476],
-  "geometry": {"coordinates":[-78.605207,35.893476],"type":"Point"}
+  "bbox": [
+    -78.605207,
+    35.893476,
+    -78.605207,
+    35.893476
+],
+  "geometry": {"coordinates":[-78.60520699999999,35.893476],"type":"Point"}
 }

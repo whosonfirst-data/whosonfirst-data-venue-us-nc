@@ -2,13 +2,14 @@
   "id": 253460281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.867601,35.051147,-80.867601,35.051147",
     "geom:latitude":35.051147,
     "geom:longitude":-80.867601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14155 Dunbritton Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253460281,
-    "wof:lastmodified":1449065629,
+    "wof:lastmodified":1466647870,
     "wof:name":"Pit Stop Tire Svc",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-80.867601,35.051147,-80.867601,35.051147],
-  "geometry": {"coordinates":[-80.867601,35.051147],"type":"Point"}
+  "bbox": [
+    -80.867601,
+    35.051147,
+    -80.867601,
+    35.051147
+],
+  "geometry": {"coordinates":[-80.86760099999999,35.051147],"type":"Point"}
 }

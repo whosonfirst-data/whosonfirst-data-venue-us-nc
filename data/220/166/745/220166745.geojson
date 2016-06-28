@@ -2,13 +2,14 @@
   "id": 220166745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.871269,36.018522,-79.871269,36.018522",
     "geom:latitude":36.018522,
     "geom:longitude":-79.871269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Cabarrus Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220166745,
-    "wof:lastmodified":1449074505,
+    "wof:lastmodified":1466644530,
     "wof:name":"Gboro Home Sales",
     "wof:parent_id":85847677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.871269,36.018522,-79.871269,36.018522],
+  "bbox": [
+    -79.871269,
+    36.018522,
+    -79.871269,
+    36.018522
+],
   "geometry": {"coordinates":[-79.871269,36.018522],"type":"Point"}
 }

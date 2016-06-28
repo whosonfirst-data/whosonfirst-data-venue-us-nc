@@ -2,13 +2,14 @@
   "id": 202778633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.510843,34.840595,-77.510843,34.840595",
     "geom:latitude":34.840595,
     "geom:longitude":-77.510843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Forest Bluff Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202778633,
-    "wof:lastmodified":1449060155,
+    "wof:lastmodified":1466644002,
     "wof:name":"East Floor Covering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.510843,34.840595,-77.510843,34.840595],
-  "geometry": {"coordinates":[-77.510843,34.840595],"type":"Point"}
+  "bbox": [
+    -77.510843,
+    34.840595,
+    -77.510843,
+    34.840595
+],
+  "geometry": {"coordinates":[-77.51084299999999,34.840595],"type":"Point"}
 }

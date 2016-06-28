@@ -2,13 +2,14 @@
   "id": 370381271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.181259,35.519736,-79.181259,35.519736",
     "geom:latitude":35.519736,
     "geom:longitude":-79.181259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Hawkins Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370381271,
-    "wof:lastmodified":1449029363,
+    "wof:lastmodified":1466651024,
     "wof:name":"Lee Memory Gardens Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-79.181259,35.519736,-79.181259,35.519736],
+  "bbox": [
+    -79.181259,
+    35.519736,
+    -79.181259,
+    35.519736
+],
   "geometry": {"coordinates":[-79.181259,35.519736],"type":"Point"}
 }

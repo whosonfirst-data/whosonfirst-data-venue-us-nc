@@ -2,13 +2,14 @@
   "id": 320392309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.175288,34.811416,-79.175288,34.811416",
     "geom:latitude":34.811416,
     "geom:longitude":-79.175288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E 4th Ave",
     "sg:city":"Red Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320392309,
-    "wof:lastmodified":1449014225,
+    "wof:lastmodified":1466650809,
     "wof:name":"Red Springs Dialysis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-79.175288,34.811416,-79.175288,34.811416],
-  "geometry": {"coordinates":[-79.175288,34.811416],"type":"Point"}
+  "bbox": [
+    -79.175288,
+    34.811416,
+    -79.175288,
+    34.811416
+],
+  "geometry": {"coordinates":[-79.17528799999999,34.811416],"type":"Point"}
 }

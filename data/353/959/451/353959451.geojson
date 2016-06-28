@@ -2,13 +2,14 @@
   "id": 353959451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.049377,35.805302,-81.049377,35.805302",
     "geom:latitude":35.805302,
     "geom:longitude":-81.049377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Westward Rd",
     "sg:city":"Stony Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353959451,
-    "wof:lastmodified":1449020547,
+    "wof:lastmodified":1466653633,
     "wof:name":"Dell Stony Dairy",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dairy"
     ]
 },
-  "bbox": [-81.049377,35.805302,-81.049377,35.805302],
-  "geometry": {"coordinates":[-81.049377,35.805302],"type":"Point"}
+  "bbox": [
+    -81.049377,
+    35.805302,
+    -81.049377,
+    35.805302
+],
+  "geometry": {"coordinates":[-81.04937700000001,35.805302],"type":"Point"}
 }

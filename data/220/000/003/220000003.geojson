@@ -2,13 +2,14 @@
   "id": 220000003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.912625,34.111683,-77.912625,34.111683",
     "geom:latitude":34.111683,
     "geom:longitude":-77.912625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Lodi Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220000003,
-    "wof:lastmodified":1449074167,
+    "wof:lastmodified":1466655945,
     "wof:name":"K B & Nolan",
     "wof:parent_id":85832597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-77.912625,34.111683,-77.912625,34.111683],
-  "geometry": {"coordinates":[-77.912625,34.111683],"type":"Point"}
+  "bbox": [
+    -77.912625,
+    34.111683,
+    -77.912625,
+    34.111683
+],
+  "geometry": {"coordinates":[-77.91262500000001,34.111683],"type":"Point"}
 }

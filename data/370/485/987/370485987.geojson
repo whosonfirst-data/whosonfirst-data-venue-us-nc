@@ -2,13 +2,14 @@
   "id": 370485987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.845515,35.803727,-78.845515,35.803727",
     "geom:latitude":35.803727,
     "geom:longitude":-78.845515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Glen Abbey Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370485987,
-    "wof:lastmodified":1449031148,
+    "wof:lastmodified":1466652379,
     "wof:name":"Bestbuy Design",
     "wof:parent_id":85843101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-78.845515,35.803727,-78.845515,35.803727],
-  "geometry": {"coordinates":[-78.845515,35.803727],"type":"Point"}
+  "bbox": [
+    -78.845515,
+    35.803727,
+    -78.845515,
+    35.803727
+],
+  "geometry": {"coordinates":[-78.84551500000001,35.803727],"type":"Point"}
 }

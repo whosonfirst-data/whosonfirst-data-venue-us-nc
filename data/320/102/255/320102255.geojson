@@ -2,13 +2,14 @@
   "id": 320102255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.992506,35.934987,-78.992506,35.934987",
     "geom:latitude":35.934987,
     "geom:longitude":-78.992506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5312 Bakers Mill Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320102255,
-    "wof:lastmodified":1449014680,
+    "wof:lastmodified":1466646735,
     "wof:name":"New Covenant Christian",
     "wof:parent_id":85814421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.992506,35.934987,-78.992506,35.934987],
-  "geometry": {"coordinates":[-78.992506,35.934987],"type":"Point"}
+  "bbox": [
+    -78.992506,
+    35.934987,
+    -78.992506,
+    35.934987
+],
+  "geometry": {"coordinates":[-78.99250600000001,35.934987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303104875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.788902,35.841815,-79.788902,35.841815",
     "geom:latitude":35.841815,
     "geom:longitude":-79.788902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Salem St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303104875,
-    "wof:lastmodified":1448999125,
+    "wof:lastmodified":1466644765,
     "wof:name":"D&K Vending",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.788902,35.841815,-79.788902,35.841815],
-  "geometry": {"coordinates":[-79.788902,35.841815],"type":"Point"}
+  "bbox": [
+    -79.788902,
+    35.841815,
+    -79.788902,
+    35.841815
+],
+  "geometry": {"coordinates":[-79.78890199999999,35.841815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387035923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.593557,36.309013,-78.593557,36.309013",
     "geom:latitude":36.309013,
     "geom:longitude":-78.593557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Orange St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387035923,
-    "wof:lastmodified":1449059188,
+    "wof:lastmodified":1466650333,
     "wof:name":"Granville County Sch Orange",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-78.593557,36.309013,-78.593557,36.309013],
+  "bbox": [
+    -78.593557,
+    36.309013,
+    -78.593557,
+    36.309013
+],
   "geometry": {"coordinates":[-78.593557,36.309013],"type":"Point"}
 }

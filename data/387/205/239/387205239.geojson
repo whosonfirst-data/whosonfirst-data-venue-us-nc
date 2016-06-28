@@ -2,13 +2,14 @@
   "id": 387205239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355432,36.080063,-80.355432,36.080063",
     "geom:latitude":36.080063,
     "geom:longitude":-80.355432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Breckindale Ct",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387205239,
-    "wof:lastmodified":1449058405,
+    "wof:lastmodified":1466652566,
     "wof:name":"S&P Enterprises Inc",
     "wof:parent_id":85881849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.355432,36.080063,-80.355432,36.080063],
-  "geometry": {"coordinates":[-80.355432,36.080063],"type":"Point"}
+  "bbox": [
+    -80.355432,
+    36.080063,
+    -80.355432,
+    36.080063
+],
+  "geometry": {"coordinates":[-80.35543199999999,36.080063],"type":"Point"}
 }

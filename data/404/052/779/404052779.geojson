@@ -2,13 +2,14 @@
   "id": 404052779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.753914,35.869535,-79.753914,35.869535",
     "geom:latitude":35.869535,
     "geom:longitude":-79.753914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5442 Rolling Meadows Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404052779,
-    "wof:lastmodified":1449039556,
+    "wof:lastmodified":1466651970,
     "wof:name":"Women In The Outdoors",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.753914,35.869535,-79.753914,35.869535],
-  "geometry": {"coordinates":[-79.753914,35.869535],"type":"Point"}
+  "bbox": [
+    -79.753914,
+    35.869535,
+    -79.753914,
+    35.869535
+],
+  "geometry": {"coordinates":[-79.75391399999999,35.869535],"type":"Point"}
 }

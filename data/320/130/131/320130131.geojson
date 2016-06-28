@@ -2,13 +2,14 @@
   "id": 320130131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795101,35.81621,-79.795101,35.81621",
     "geom:latitude":35.81621,
     "geom:longitude":-79.795101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Worthville St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320130131,
-    "wof:lastmodified":1449012558,
+    "wof:lastmodified":1466647128,
     "wof:name":"Meadowview Apartments",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.795101,35.81621,-79.795101,35.81621],
+  "bbox": [
+    -79.795101,
+    35.81621,
+    -79.795101,
+    35.81621
+],
   "geometry": {"coordinates":[-79.795101,35.81621],"type":"Point"}
 }

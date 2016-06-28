@@ -2,13 +2,14 @@
   "id": 370352909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.525711,34.992052,-80.525711,34.992052",
     "geom:latitude":34.992052,
     "geom:longitude":-80.525711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 Morgan Mill Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370352909,
-    "wof:lastmodified":1449031167,
+    "wof:lastmodified":1466650667,
     "wof:name":"North Carolina Forest Service",
     "wof:parent_id":85840585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.525711,34.992052,-80.525711,34.992052],
+  "bbox": [
+    -80.525711,
+    34.992052,
+    -80.525711,
+    34.992052
+],
   "geometry": {"coordinates":[-80.525711,34.992052],"type":"Point"}
 }

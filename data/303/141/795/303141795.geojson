@@ -2,13 +2,14 @@
   "id": 303141795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.042442,35.091196,-77.042442,35.091196",
     "geom:latitude":35.091196,
     "geom:longitude":-77.042442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Madame Moores Ln",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303141795,
-    "wof:lastmodified":1448998974,
+    "wof:lastmodified":1466645343,
     "wof:name":"New Bern Hispanic Seven Day",
     "wof:parent_id":85827311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.042442,35.091196,-77.042442,35.091196],
-  "geometry": {"coordinates":[-77.042442,35.091196],"type":"Point"}
+  "bbox": [
+    -77.042442,
+    35.091196,
+    -77.042442,
+    35.091196
+],
+  "geometry": {"coordinates":[-77.04244199999999,35.091196],"type":"Point"}
 }

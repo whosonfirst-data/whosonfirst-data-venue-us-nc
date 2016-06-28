@@ -2,13 +2,14 @@
   "id": 220009285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.830863,35.671454,-79.830863,35.671454",
     "geom:latitude":35.671454,
     "geom:longitude":-79.830863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Industrial Park Ave",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220009285,
-    "wof:lastmodified":1449074861,
+    "wof:lastmodified":1466643293,
     "wof:name":"Curamedica LLC",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.830863,35.671454,-79.830863,35.671454],
-  "geometry": {"coordinates":[-79.830863,35.671454],"type":"Point"}
+  "bbox": [
+    -79.830863,
+    35.671454,
+    -79.830863,
+    35.671454
+],
+  "geometry": {"coordinates":[-79.83086299999999,35.671454],"type":"Point"}
 }

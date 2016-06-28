@@ -2,13 +2,14 @@
   "id": 269778251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.86705,35.198275,-80.86705,35.198275",
     "geom:latitude":35.198275,
     "geom:longitude":-80.86705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Marsh Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269778251,
-    "wof:lastmodified":1449036185,
+    "wof:lastmodified":1466646709,
     "wof:name":"Deyines",
     "wof:parent_id":85847687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.86705,35.198275,-80.86705,35.198275],
-  "geometry": {"coordinates":[-80.86705,35.198275],"type":"Point"}
+  "bbox": [
+    -80.86705,
+    35.198275,
+    -80.86705,
+    35.198275
+],
+  "geometry": {"coordinates":[-80.86705000000001,35.198275],"type":"Point"}
 }

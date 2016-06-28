@@ -2,13 +2,14 @@
   "id": 303436415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.057065,35.104215,-77.057065,35.104215",
     "geom:latitude":35.104215,
     "geom:longitude":-77.057065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Rhem St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303436415,
-    "wof:lastmodified":1449000332,
+    "wof:lastmodified":1466649592,
     "wof:name":"Pools Plus",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.057065,35.104215,-77.057065,35.104215],
-  "geometry": {"coordinates":[-77.057065,35.104215],"type":"Point"}
+  "bbox": [
+    -77.057065,
+    35.104215,
+    -77.057065,
+    35.104215
+],
+  "geometry": {"coordinates":[-77.05706499999999,35.104215],"type":"Point"}
 }

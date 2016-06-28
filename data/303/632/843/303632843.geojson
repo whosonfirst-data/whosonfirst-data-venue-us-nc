@@ -2,13 +2,14 @@
   "id": 303632843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.939134,35.507303,-80.939134,35.507303",
     "geom:latitude":35.507303,
     "geom:longitude":-80.939134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Washam Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303632843,
-    "wof:lastmodified":1448999677,
+    "wof:lastmodified":1466652446,
     "wof:name":"Bell Enterprises",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.939134,35.507303,-80.939134,35.507303],
+  "bbox": [
+    -80.939134,
+    35.507303,
+    -80.939134,
+    35.507303
+],
   "geometry": {"coordinates":[-80.939134,35.507303],"type":"Point"}
 }

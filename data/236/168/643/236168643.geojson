@@ -2,13 +2,14 @@
   "id": 236168643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.669212,36.327949,-79.669212,36.327949",
     "geom:latitude":36.327949,
     "geom:longitude":-79.669212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Cypress Dr",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236168643,
-    "wof:lastmodified":1449003362,
+    "wof:lastmodified":1466644744,
     "wof:name":"Central Care Division",
     "wof:parent_id":85852623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "care"
     ]
 },
-  "bbox": [-79.669212,36.327949,-79.669212,36.327949],
+  "bbox": [
+    -79.669212,
+    36.327949,
+    -79.669212,
+    36.327949
+],
   "geometry": {"coordinates":[-79.669212,36.327949],"type":"Point"}
 }

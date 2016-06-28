@@ -2,13 +2,14 @@
   "id": 370629897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.943091,34.215326,-77.943091,34.215326",
     "geom:latitude":34.215326,
     "geom:longitude":-77.943091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Willard St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370629897,
-    "wof:lastmodified":1449031688,
+    "wof:lastmodified":1466654263,
     "wof:name":"Recreation Dept Adm",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-77.943091,34.215326,-77.943091,34.215326],
+  "bbox": [
+    -77.943091,
+    34.215326,
+    -77.943091,
+    34.215326
+],
   "geometry": {"coordinates":[-77.943091,34.215326],"type":"Point"}
 }

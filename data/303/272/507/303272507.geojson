@@ -2,13 +2,14 @@
   "id": 303272507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.401056,34.771254,-77.401056,34.771254",
     "geom:latitude":34.771254,
     "geom:longitude":-77.401056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 N Marine Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303272507,
-    "wof:lastmodified":1449000396,
+    "wof:lastmodified":1466647279,
     "wof:name":"Twin Auto Wholesalers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.401056,34.771254,-77.401056,34.771254],
+  "bbox": [
+    -77.401056,
+    34.771254,
+    -77.401056,
+    34.771254
+],
   "geometry": {"coordinates":[-77.401056,34.771254],"type":"Point"}
 }

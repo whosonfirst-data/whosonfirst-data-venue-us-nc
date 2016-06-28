@@ -2,13 +2,14 @@
   "id": 202412417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.364696,36.263773,-80.364696,36.263773",
     "geom:latitude":36.263773,
     "geom:longitude":-80.364696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Ingram Dr",
     "sg:city":"King",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202412417,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466654291,
     "wof:name":"A Cleaner World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.364696,36.263773,-80.364696,36.263773],
+  "bbox": [
+    -80.364696,
+    36.263773,
+    -80.364696,
+    36.263773
+],
   "geometry": {"coordinates":[-80.364696,36.263773],"type":"Point"}
 }

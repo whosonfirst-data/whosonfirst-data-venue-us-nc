@@ -2,13 +2,14 @@
   "id": 387811489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.246924,33.934001,-78.246924,33.934001",
     "geom:latitude":33.934001,
     "geom:longitude":-78.246924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 Stone Chimney Rd SW",
     "sg:city":"Holden Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387811489,
-    "wof:lastmodified":1449057934,
+    "wof:lastmodified":1466657880,
     "wof:name":"Robbins Home Improvement",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [-78.246924,33.934001,-78.246924,33.934001],
-  "geometry": {"coordinates":[-78.246924,33.934001],"type":"Point"}
+  "bbox": [
+    -78.246924,
+    33.934001,
+    -78.246924,
+    33.934001
+],
+  "geometry": {"coordinates":[-78.24692400000001,33.934001],"type":"Point"}
 }

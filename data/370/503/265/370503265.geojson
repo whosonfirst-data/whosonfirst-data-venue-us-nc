@@ -2,13 +2,14 @@
   "id": 370503265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.42328,35.571941,-77.42328,35.571941",
     "geom:latitude":35.571941,
     "geom:longitude":-77.42328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Allendale Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370503265,
-    "wof:lastmodified":1449032480,
+    "wof:lastmodified":1466652593,
     "wof:name":"Lewe-Redoak Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-77.42328,35.571941,-77.42328,35.571941],
-  "geometry": {"coordinates":[-77.42328,35.571941],"type":"Point"}
+  "bbox": [
+    -77.42328,
+    35.571941,
+    -77.42328,
+    35.571941
+],
+  "geometry": {"coordinates":[-77.42328000000001,35.571941],"type":"Point"}
 }

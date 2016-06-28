@@ -2,13 +2,14 @@
   "id": 403913003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.408324,35.293467,-82.408324,35.293467",
     "geom:latitude":35.293467,
     "geom:longitude":-82.408324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Commercial Blvd",
     "sg:city":"Flat Rock",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403913003,
-    "wof:lastmodified":1449055147,
+    "wof:lastmodified":1466653063,
     "wof:name":"Atlas Fasteners",
     "wof:parent_id":85852073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.408324,35.293467,-82.408324,35.293467],
-  "geometry": {"coordinates":[-82.408324,35.293467],"type":"Point"}
+  "bbox": [
+    -82.408324,
+    35.293467,
+    -82.408324,
+    35.293467
+],
+  "geometry": {"coordinates":[-82.40832399999999,35.293467],"type":"Point"}
 }

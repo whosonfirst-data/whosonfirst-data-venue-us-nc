@@ -2,13 +2,14 @@
   "id": 353450239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.112879,35.218888,-80.112879,35.218888",
     "geom:latitude":35.218888,
     "geom:longitude":-80.112879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"552 Fork Rd",
     "sg:city":"Norwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353450239,
-    "wof:lastmodified":1449020430,
+    "wof:lastmodified":1466647825,
     "wof:name":"Norwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.112879,35.218888,-80.112879,35.218888],
-  "geometry": {"coordinates":[-80.112879,35.218888],"type":"Point"}
+  "bbox": [
+    -80.112879,
+    35.218888,
+    -80.112879,
+    35.218888
+],
+  "geometry": {"coordinates":[-80.11287900000001,35.218888],"type":"Point"}
 }

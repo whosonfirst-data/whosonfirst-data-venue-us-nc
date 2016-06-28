@@ -2,13 +2,14 @@
   "id": 336634653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.013128,35.444476,-78.013128,35.444476",
     "geom:latitude":35.444476,
     "geom:longitude":-78.013128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Lake Ridge Dr",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336634653,
-    "wof:lastmodified":1448997465,
+    "wof:lastmodified":1466646359,
     "wof:name":"Wayne Correctional Relgs Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.013128,35.444476,-78.013128,35.444476],
-  "geometry": {"coordinates":[-78.013128,35.444476],"type":"Point"}
+  "bbox": [
+    -78.013128,
+    35.444476,
+    -78.013128,
+    35.444476
+],
+  "geometry": {"coordinates":[-78.01312799999999,35.444476],"type":"Point"}
 }

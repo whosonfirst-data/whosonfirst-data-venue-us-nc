@@ -2,13 +2,14 @@
   "id": 320136787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.869504,36.040154,-79.869504,36.040154",
     "geom:latitude":36.040154,
     "geom:longitude":-79.869504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4421 Pennydale Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320136787,
-    "wof:lastmodified":1449014906,
+    "wof:lastmodified":1466647217,
     "wof:name":"Baines Group",
     "wof:parent_id":85841251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.869504,36.040154,-79.869504,36.040154],
-  "geometry": {"coordinates":[-79.869504,36.040154],"type":"Point"}
+  "bbox": [
+    -79.869504,
+    36.040154,
+    -79.869504,
+    36.040154
+],
+  "geometry": {"coordinates":[-79.86950400000001,36.040154],"type":"Point"}
 }

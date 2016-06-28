@@ -2,13 +2,14 @@
   "id": 236872119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.841633,35.981648,-78.841633,35.981648",
     "geom:latitude":35.981648,
     "geom:longitude":-78.841633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Lynn Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236872119,
-    "wof:lastmodified":1449001895,
+    "wof:lastmodified":1466651041,
     "wof:name":"R H A North Carolina",
     "wof:parent_id":85877129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.841633,35.981648,-78.841633,35.981648],
+  "bbox": [
+    -78.841633,
+    35.981648,
+    -78.841633,
+    35.981648
+],
   "geometry": {"coordinates":[-78.841633,35.981648],"type":"Point"}
 }

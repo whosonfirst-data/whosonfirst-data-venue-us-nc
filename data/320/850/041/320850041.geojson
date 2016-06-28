@@ -2,13 +2,14 @@
   "id": 320850041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.803491,35.243465,-80.803491,35.243465",
     "geom:latitude":35.243465,
     "geom:longitude":-80.803491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Clemson Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320850041,
-    "wof:lastmodified":1449013421,
+    "wof:lastmodified":1466656720,
     "wof:name":"Highland Mill Montessori Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.803491,35.243465,-80.803491,35.243465],
-  "geometry": {"coordinates":[-80.803491,35.243465],"type":"Point"}
+  "bbox": [
+    -80.803491,
+    35.243465,
+    -80.803491,
+    35.243465
+],
+  "geometry": {"coordinates":[-80.80349099999999,35.243465],"type":"Point"}
 }

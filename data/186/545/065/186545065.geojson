@@ -2,13 +2,14 @@
   "id": 186545065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.89544,36.52573,-77.89544,36.52573",
     "geom:latitude":36.52573,
     "geom:longitude":-77.89544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Emporia Rd",
     "sg:city":"Henrico",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186545065,
-    "wof:lastmodified":1449051040,
+    "wof:lastmodified":1466654645,
     "wof:name":"M&L Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.89544,36.52573,-77.89544,36.52573],
-  "geometry": {"coordinates":[-77.89544,36.52573],"type":"Point"}
+  "bbox": [
+    -77.89544,
+    36.52573,
+    -77.89544,
+    36.52573
+],
+  "geometry": {"coordinates":[-77.89543999999999,36.52573],"type":"Point"}
 }

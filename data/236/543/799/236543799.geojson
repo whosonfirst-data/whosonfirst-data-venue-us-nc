@@ -2,13 +2,14 @@
   "id": 236543799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.242641,36.136793,-80.242641,36.136793",
     "geom:latitude":36.136793,
     "geom:longitude":-80.242641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3491 Patterson Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236543799,
-    "wof:lastmodified":1449002160,
+    "wof:lastmodified":1466648015,
     "wof:name":"China Restaurant",
     "wof:parent_id":85806595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.242641,36.136793,-80.242641,36.136793],
-  "geometry": {"coordinates":[-80.242641,36.136793],"type":"Point"}
+  "bbox": [
+    -80.242641,
+    36.136793,
+    -80.242641,
+    36.136793
+],
+  "geometry": {"coordinates":[-80.24264100000001,36.136793],"type":"Point"}
 }

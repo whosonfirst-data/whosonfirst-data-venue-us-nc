@@ -2,13 +2,14 @@
   "id": 253457485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.053975,35.925004,-79.053975,35.925004",
     "geom:latitude":35.925004,
     "geom:longitude":-79.053975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Hillsborough St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253457485,
-    "wof:lastmodified":1449064826,
+    "wof:lastmodified":1466647835,
     "wof:name":"Inn Town Chapel Hill",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.053975,35.925004,-79.053975,35.925004],
-  "geometry": {"coordinates":[-79.053975,35.925004],"type":"Point"}
+  "bbox": [
+    -79.053975,
+    35.925004,
+    -79.053975,
+    35.925004
+],
+  "geometry": {"coordinates":[-79.05397499999999,35.925004],"type":"Point"}
 }

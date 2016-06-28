@@ -2,13 +2,14 @@
   "id": 202728849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.606418,35.878293,-78.606418,35.878293",
     "geom:latitude":35.878293,
     "geom:longitude":-78.606418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 Huntingridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202728849,
-    "wof:lastmodified":1449060696,
+    "wof:lastmodified":1466643635,
     "wof:name":"American Funding Inc",
     "wof:parent_id":85830857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "bond"
     ]
 },
-  "bbox": [-78.606418,35.878293,-78.606418,35.878293],
-  "geometry": {"coordinates":[-78.606418,35.878293],"type":"Point"}
+  "bbox": [
+    -78.606418,
+    35.878293,
+    -78.606418,
+    35.878293
+],
+  "geometry": {"coordinates":[-78.60641800000001,35.878293],"type":"Point"}
 }

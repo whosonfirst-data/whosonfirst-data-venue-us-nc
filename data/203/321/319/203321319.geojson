@@ -2,13 +2,14 @@
   "id": 203321319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.076304,33.908839,-78.076304,33.908839",
     "geom:latitude":33.908839,
     "geom:longitude":-78.076304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Yaupon Dr",
     "sg:city":"Oak Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203321319,
-    "wof:lastmodified":1449024989,
+    "wof:lastmodified":1466643389,
     "wof:name":"Oak Island Sporting Goods",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-78.076304,33.908839,-78.076304,33.908839],
-  "geometry": {"coordinates":[-78.076304,33.908839],"type":"Point"}
+  "bbox": [
+    -78.076304,
+    33.908839,
+    -78.076304,
+    33.908839
+],
+  "geometry": {"coordinates":[-78.07630399999999,33.908839],"type":"Point"}
 }

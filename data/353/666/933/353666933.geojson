@@ -2,13 +2,14 @@
   "id": 353666933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.636749,35.781049,-78.636749,35.781049",
     "geom:latitude":35.781049,
     "geom:longitude":-78.636749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Edenton St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353666933,
-    "wof:lastmodified":1449019189,
+    "wof:lastmodified":1466650201,
     "wof:name":"Christ Chrch Mthers Mrning Out",
     "wof:parent_id":85873449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.636749,35.781049,-78.636749,35.781049],
-  "geometry": {"coordinates":[-78.636749,35.781049],"type":"Point"}
+  "bbox": [
+    -78.636749,
+    35.781049,
+    -78.636749,
+    35.781049
+],
+  "geometry": {"coordinates":[-78.63674899999999,35.781049],"type":"Point"}
 }

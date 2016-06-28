@@ -2,13 +2,14 @@
   "id": 253090385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.342352,35.948315,-80.342352,35.948315",
     "geom:latitude":35.948315,
     "geom:longitude":-80.342352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Emery Ln",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253090385,
-    "wof:lastmodified":1449065164,
+    "wof:lastmodified":1466643981,
     "wof:name":"Conrads Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.342352,35.948315,-80.342352,35.948315],
-  "geometry": {"coordinates":[-80.342352,35.948315],"type":"Point"}
+  "bbox": [
+    -80.342352,
+    35.948315,
+    -80.342352,
+    35.948315
+],
+  "geometry": {"coordinates":[-80.34235200000001,35.948315],"type":"Point"}
 }

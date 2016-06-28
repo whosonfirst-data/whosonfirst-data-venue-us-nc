@@ -2,13 +2,14 @@
   "id": 287141431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.800137,35.768904,-78.800137,35.768904",
     "geom:latitude":35.768904,
     "geom:longitude":-78.800137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Oakley Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287141431,
-    "wof:lastmodified":1449000975,
+    "wof:lastmodified":1466645265,
     "wof:name":"Painter Ptr & Moore-Painter",
     "wof:parent_id":85847215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.800137,35.768904,-78.800137,35.768904],
-  "geometry": {"coordinates":[-78.800137,35.768904],"type":"Point"}
+  "bbox": [
+    -78.800137,
+    35.768904,
+    -78.800137,
+    35.768904
+],
+  "geometry": {"coordinates":[-78.80013700000001,35.768904],"type":"Point"}
 }

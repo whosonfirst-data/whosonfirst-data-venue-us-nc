@@ -2,13 +2,14 @@
   "id": 320819975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.995567,35.370654,-77.995567,35.370654",
     "geom:latitude":35.370654,
     "geom:longitude":-77.995567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Wilmington Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320819975,
-    "wof:lastmodified":1449012152,
+    "wof:lastmodified":1466656530,
     "wof:name":"Tamaras Home Shopping",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-77.995567,35.370654,-77.995567,35.370654],
-  "geometry": {"coordinates":[-77.995567,35.370654],"type":"Point"}
+  "bbox": [
+    -77.995567,
+    35.370654,
+    -77.995567,
+    35.370654
+],
+  "geometry": {"coordinates":[-77.99556699999999,35.370654],"type":"Point"}
 }

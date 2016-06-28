@@ -2,13 +2,14 @@
   "id": 303405913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.827846,35.202763,-80.827846,35.202763",
     "geom:latitude":35.202763,
     "geom:longitude":-80.827846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Hermitage Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303405913,
-    "wof:lastmodified":1449000364,
+    "wof:lastmodified":1466649149,
     "wof:name":"Belk",
     "wof:parent_id":85811911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.827846,35.202763,-80.827846,35.202763],
-  "geometry": {"coordinates":[-80.827846,35.202763],"type":"Point"}
+  "bbox": [
+    -80.827846,
+    35.202763,
+    -80.827846,
+    35.202763
+],
+  "geometry": {"coordinates":[-80.82784599999999,35.202763],"type":"Point"}
 }

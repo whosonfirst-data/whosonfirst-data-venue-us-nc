@@ -2,13 +2,14 @@
   "id": 336802785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.680978,36.415016,-77.680978,36.415016",
     "geom:latitude":36.415016,
     "geom:longitude":-77.680978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Sun Ray Rd",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336802785,
-    "wof:lastmodified":1448997831,
+    "wof:lastmodified":1466648931,
     "wof:name":"John B Smith Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.680978,36.415016,-77.680978,36.415016],
+  "bbox": [
+    -77.680978,
+    36.415016,
+    -77.680978,
+    36.415016
+],
   "geometry": {"coordinates":[-77.680978,36.415016],"type":"Point"}
 }

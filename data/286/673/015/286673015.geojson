@@ -2,13 +2,14 @@
   "id": 286673015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.847989,36.143912,-79.847989,36.143912",
     "geom:latitude":36.143912,
     "geom:longitude":-79.847989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 Quaker Landing Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286673015,
-    "wof:lastmodified":1449016322,
+    "wof:lastmodified":1466648731,
     "wof:name":"Water & Earth",
     "wof:parent_id":85877975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-79.847989,36.143912,-79.847989,36.143912],
+  "bbox": [
+    -79.847989,
+    36.143912,
+    -79.847989,
+    36.143912
+],
   "geometry": {"coordinates":[-79.847989,36.143912],"type":"Point"}
 }

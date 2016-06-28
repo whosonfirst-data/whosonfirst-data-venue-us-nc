@@ -2,13 +2,14 @@
   "id": 336783407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.397951,34.759379,-77.397951,34.759379",
     "geom:latitude":34.759379,
     "geom:longitude":-77.397951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 Bell Fork Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336783407,
-    "wof:lastmodified":1448996947,
+    "wof:lastmodified":1466648637,
     "wof:name":"Bell Fork Electric Svc",
     "wof:parent_id":85812495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.397951,34.759379,-77.397951,34.759379],
-  "geometry": {"coordinates":[-77.397951,34.759379],"type":"Point"}
+  "bbox": [
+    -77.397951,
+    34.759379,
+    -77.397951,
+    34.759379
+],
+  "geometry": {"coordinates":[-77.39795100000001,34.759379],"type":"Point"}
 }

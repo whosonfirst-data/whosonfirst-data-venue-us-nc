@@ -2,13 +2,14 @@
   "id": 370446239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.500475,35.662064,-80.500475,35.662064",
     "geom:latitude":35.662064,
     "geom:longitude":-80.500475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Mooresville Rd",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370446239,
-    "wof:lastmodified":1449032187,
+    "wof:lastmodified":1466651878,
     "wof:name":"Covenant Commercial Invstmnt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.500475,35.662064,-80.500475,35.662064],
-  "geometry": {"coordinates":[-80.500475,35.662064],"type":"Point"}
+  "bbox": [
+    -80.500475,
+    35.662064,
+    -80.500475,
+    35.662064
+],
+  "geometry": {"coordinates":[-80.50047499999999,35.662064],"type":"Point"}
 }

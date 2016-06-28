@@ -2,13 +2,14 @@
   "id": 387526539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.22311,35.334503,-80.22311,35.334503",
     "geom:latitude":35.334503,
     "geom:longitude":-80.22311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 State Hwy 24",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387526539,
-    "wof:lastmodified":1449057270,
+    "wof:lastmodified":1466656252,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-80.22311,35.334503,-80.22311,35.334503],
-  "geometry": {"coordinates":[-80.22311,35.334503],"type":"Point"}
+  "bbox": [
+    -80.22311,
+    35.334503,
+    -80.22311,
+    35.334503
+],
+  "geometry": {"coordinates":[-80.22311000000001,35.334503],"type":"Point"}
 }

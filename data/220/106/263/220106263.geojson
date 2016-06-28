@@ -2,13 +2,14 @@
   "id": 220106263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.785738,36.102414,-79.785738,36.102414",
     "geom:latitude":36.102414,
     "geom:longitude":-79.785738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 E Cornwallis Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220106263,
-    "wof:lastmodified":1449074049,
+    "wof:lastmodified":1466644066,
     "wof:name":"Lane's Cleaners & Laundry",
     "wof:parent_id":85833115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-79.785738,36.102414,-79.785738,36.102414],
-  "geometry": {"coordinates":[-79.785738,36.102414],"type":"Point"}
+  "bbox": [
+    -79.785738,
+    36.102414,
+    -79.785738,
+    36.102414
+],
+  "geometry": {"coordinates":[-79.78573799999999,36.102414],"type":"Point"}
 }

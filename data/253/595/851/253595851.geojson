@@ -2,13 +2,14 @@
   "id": 253595851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.960085,34.966211,-77.960085,34.966211",
     "geom:latitude":34.966211,
     "geom:longitude":-77.960085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 N Main St",
     "sg:city":"Kenansville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253595851,
-    "wof:lastmodified":1449065496,
+    "wof:lastmodified":1466649525,
     "wof:name":"Duplin County Social Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-77.960085,34.966211,-77.960085,34.966211],
-  "geometry": {"coordinates":[-77.960085,34.966211],"type":"Point"}
+  "bbox": [
+    -77.960085,
+    34.966211,
+    -77.960085,
+    34.966211
+],
+  "geometry": {"coordinates":[-77.96008500000001,34.966211],"type":"Point"}
 }

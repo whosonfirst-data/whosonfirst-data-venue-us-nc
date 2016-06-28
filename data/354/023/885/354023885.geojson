@@ -2,13 +2,14 @@
   "id": 354023885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.887013,35.096551,-80.887013,35.096551",
     "geom:latitude":35.096551,
     "geom:longitude":-80.887013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10201 Rodney St",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354023885,
-    "wof:lastmodified":1449067505,
+    "wof:lastmodified":1466647824,
     "wof:name":"SCMS Inc",
     "wof:parent_id":85851011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.887013,35.096551,-80.887013,35.096551],
+  "bbox": [
+    -80.887013,
+    35.096551,
+    -80.887013,
+    35.096551
+],
   "geometry": {"coordinates":[-80.887013,35.096551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202878413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.148083,36.159219,-81.148083,36.159219",
     "geom:latitude":36.159219,
     "geom:longitude":-81.148083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 10th St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202878413,
-    "wof:lastmodified":1449061434,
+    "wof:lastmodified":1466644778,
     "wof:name":"AIA Architecture & Plan",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-81.148083,36.159219,-81.148083,36.159219],
+  "bbox": [
+    -81.148083,
+    36.159219,
+    -81.148083,
+    36.159219
+],
   "geometry": {"coordinates":[-81.148083,36.159219],"type":"Point"}
 }

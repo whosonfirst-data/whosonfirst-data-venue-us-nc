@@ -2,13 +2,14 @@
   "id": 304030589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.052095,35.106694,-77.052095,35.106694",
     "geom:latitude":35.106694,
     "geom:longitude":-77.052095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Pollock St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304030589,
-    "wof:lastmodified":1449043780,
+    "wof:lastmodified":1466644596,
     "wof:name":"New Bern Mexican Bakery",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-77.052095,35.106694,-77.052095,35.106694],
-  "geometry": {"coordinates":[-77.052095,35.106694],"type":"Point"}
+  "bbox": [
+    -77.052095,
+    35.106694,
+    -77.052095,
+    35.106694
+],
+  "geometry": {"coordinates":[-77.05209499999999,35.106694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354213775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.361449,34.789634,-77.361449,34.789634",
     "geom:latitude":34.789634,
     "geom:longitude":-77.361449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Thomas Humphrey Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354213775,
-    "wof:lastmodified":1449065948,
+    "wof:lastmodified":1466650048,
     "wof:name":"Danny Humphrey Trucking Inc",
     "wof:parent_id":85839091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.361449,34.789634,-77.361449,34.789634],
-  "geometry": {"coordinates":[-77.361449,34.789634],"type":"Point"}
+  "bbox": [
+    -77.361449,
+    34.789634,
+    -77.361449,
+    34.789634
+],
+  "geometry": {"coordinates":[-77.36144899999999,34.789634],"type":"Point"}
 }

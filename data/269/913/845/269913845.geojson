@@ -2,13 +2,14 @@
   "id": 269913845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.908291,35.891877,-78.908291,35.891877",
     "geom:latitude":35.891877,
     "geom:longitude":-78.908291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5123 Revere Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269913845,
-    "wof:lastmodified":1449037076,
+    "wof:lastmodified":1466648282,
     "wof:name":"Small World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-78.908291,35.891877,-78.908291,35.891877],
-  "geometry": {"coordinates":[-78.908291,35.891877],"type":"Point"}
+  "bbox": [
+    -78.908291,
+    35.891877,
+    -78.908291,
+    35.891877
+],
+  "geometry": {"coordinates":[-78.90829100000001,35.891877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403766647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.149359,35.217013,-77.149359,35.217013",
     "geom:latitude":35.217013,
     "geom:longitude":-77.149359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 NW Craven Middle School Rd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403766647,
-    "wof:lastmodified":1449054612,
+    "wof:lastmodified":1466651148,
     "wof:name":"West Craven Middle School",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-77.149359,35.217013,-77.149359,35.217013],
+  "bbox": [
+    -77.149359,
+    35.217013,
+    -77.149359,
+    35.217013
+],
   "geometry": {"coordinates":[-77.149359,35.217013],"type":"Point"}
 }

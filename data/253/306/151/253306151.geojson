@@ -2,13 +2,14 @@
   "id": 253306151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.385626,35.985197,-80.385626,35.985197",
     "geom:latitude":35.985197,
     "geom:longitude":-80.385626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5044 Dock Davis Rd",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253306151,
-    "wof:lastmodified":1449065661,
+    "wof:lastmodified":1466646114,
     "wof:name":"Beeson Investigations",
     "wof:parent_id":85811307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-80.385626,35.985197,-80.385626,35.985197],
+  "bbox": [
+    -80.385626,
+    35.985197,
+    -80.385626,
+    35.985197
+],
   "geometry": {"coordinates":[-80.385626,35.985197],"type":"Point"}
 }

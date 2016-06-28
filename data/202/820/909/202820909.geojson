@@ -2,13 +2,14 @@
   "id": 202820909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.852776,35.768234,-78.852776,35.768234",
     "geom:latitude":35.768234,
     "geom:longitude":-78.852776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Burgwin Wright Way",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202820909,
-    "wof:lastmodified":1449061432,
+    "wof:lastmodified":1466644323,
     "wof:name":"Edison Project",
     "wof:parent_id":85840759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.852776,35.768234,-78.852776,35.768234],
-  "geometry": {"coordinates":[-78.852776,35.768234],"type":"Point"}
+  "bbox": [
+    -78.852776,
+    35.768234,
+    -78.852776,
+    35.768234
+],
+  "geometry": {"coordinates":[-78.85277600000001,35.768234],"type":"Point"}
 }

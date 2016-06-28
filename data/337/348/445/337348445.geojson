@@ -2,13 +2,14 @@
   "id": 337348445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.870866,35.332635,-81.870866,35.332635",
     "geom:latitude":35.332635,
     "geom:longitude":-81.870866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Oak St",
     "sg:city":"Forest City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337348445,
-    "wof:lastmodified":1449026972,
+    "wof:lastmodified":1466646567,
     "wof:name":"Piedmont Concrete Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pumping"
     ]
 },
-  "bbox": [-81.870866,35.332635,-81.870866,35.332635],
-  "geometry": {"coordinates":[-81.870866,35.332635],"type":"Point"}
+  "bbox": [
+    -81.870866,
+    35.332635,
+    -81.870866,
+    35.332635
+],
+  "geometry": {"coordinates":[-81.87086600000001,35.332635],"type":"Point"}
 }

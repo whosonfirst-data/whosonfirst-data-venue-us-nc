@@ -2,13 +2,14 @@
   "id": 303693007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.560501,34.695213,-76.560501,34.695213",
     "geom:latitude":34.695213,
     "geom:longitude":-76.560501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"957 Island Rd",
     "sg:city":"Harkers Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303693007,
-    "wof:lastmodified":1448998260,
+    "wof:lastmodified":1466653313,
     "wof:name":"Lighthouse Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-76.560501,34.695213,-76.560501,34.695213],
+  "bbox": [
+    -76.560501,
+    34.695213,
+    -76.560501,
+    34.695213
+],
   "geometry": {"coordinates":[-76.560501,34.695213],"type":"Point"}
 }

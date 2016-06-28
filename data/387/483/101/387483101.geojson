@@ -2,13 +2,14 @@
   "id": 387483101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031479,35.248852,-81.031479,35.248852",
     "geom:latitude":35.248852,
     "geom:longitude":-81.031479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Spruce St",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387483101,
-    "wof:lastmodified":1449059102,
+    "wof:lastmodified":1466656084,
     "wof:name":"Mc Cord & Assoc",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.031479,35.248852,-81.031479,35.248852],
+  "bbox": [
+    -81.031479,
+    35.248852,
+    -81.031479,
+    35.248852
+],
   "geometry": {"coordinates":[-81.031479,35.248852],"type":"Point"}
 }

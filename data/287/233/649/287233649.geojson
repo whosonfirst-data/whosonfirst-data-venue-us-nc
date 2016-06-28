@@ -2,13 +2,14 @@
   "id": 287233649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.760691,35.179978,-80.760691,35.179978",
     "geom:latitude":35.179978,
     "geom:longitude":-80.760691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Knickerbocker Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287233649,
-    "wof:lastmodified":1449001603,
+    "wof:lastmodified":1466646558,
     "wof:name":"Charlotte Water Heater Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "heater"
     ]
 },
-  "bbox": [-80.760691,35.179978,-80.760691,35.179978],
-  "geometry": {"coordinates":[-80.760691,35.179978],"type":"Point"}
+  "bbox": [
+    -80.760691,
+    35.179978,
+    -80.760691,
+    35.179978
+],
+  "geometry": {"coordinates":[-80.76069099999999,35.179978],"type":"Point"}
 }

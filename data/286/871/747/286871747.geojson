@@ -2,13 +2,14 @@
   "id": 286871747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.822442,35.257269,-80.822442,35.257269",
     "geom:latitude":35.257269,
     "geom:longitude":-80.822442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 N Graham St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286871747,
-    "wof:lastmodified":1449016143,
+    "wof:lastmodified":1466651441,
     "wof:name":"Auto Dealer Service",
     "wof:parent_id":85852747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-80.822442,35.257269,-80.822442,35.257269],
+  "bbox": [
+    -80.822442,
+    35.257269,
+    -80.822442,
+    35.257269
+],
   "geometry": {"coordinates":[-80.822442,35.257269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253345893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.112052,36.23032,-77.112052,36.23032",
     "geom:latitude":36.23032,
     "geom:longitude":-77.112052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Main St",
     "sg:city":"Aulander",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253345893,
-    "wof:lastmodified":1449065558,
+    "wof:lastmodified":1466646530,
     "wof:name":"Granite Vault Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vault"
     ]
 },
-  "bbox": [-77.112052,36.23032,-77.112052,36.23032],
-  "geometry": {"coordinates":[-77.112052,36.23032],"type":"Point"}
+  "bbox": [
+    -77.112052,
+    36.23032,
+    -77.112052,
+    36.23032
+],
+  "geometry": {"coordinates":[-77.11205200000001,36.23032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253668741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.606591,35.857557,-78.606591,35.857557",
     "geom:latitude":35.857557,
     "geom:longitude":-78.606591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 Quail Forest Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253668741,
-    "wof:lastmodified":1449064900,
+    "wof:lastmodified":1466650373,
     "wof:name":"John C Howell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.606591,35.857557,-78.606591,35.857557],
-  "geometry": {"coordinates":[-78.606591,35.857557],"type":"Point"}
+  "bbox": [
+    -78.606591,
+    35.857557,
+    -78.606591,
+    35.857557
+],
+  "geometry": {"coordinates":[-78.60659099999999,35.857557],"type":"Point"}
 }

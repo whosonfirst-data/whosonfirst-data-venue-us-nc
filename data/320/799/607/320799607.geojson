@@ -2,13 +2,14 @@
   "id": 320799607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.735228,34.724213,-76.735228,34.724213",
     "geom:latitude":34.724213,
     "geom:longitude":-76.735228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 N 24th St",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320799607,
-    "wof:lastmodified":1449014986,
+    "wof:lastmodified":1466656341,
     "wof:name":"US Cell Co U753",
     "wof:parent_id":85851523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-76.735228,34.724213,-76.735228,34.724213],
-  "geometry": {"coordinates":[-76.735228,34.724213],"type":"Point"}
+  "bbox": [
+    -76.735228,
+    34.724213,
+    -76.735228,
+    34.724213
+],
+  "geometry": {"coordinates":[-76.73522800000001,34.724213],"type":"Point"}
 }

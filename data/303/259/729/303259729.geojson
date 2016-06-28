@@ -2,13 +2,14 @@
   "id": 303259729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.98467,36.118417,-78.98467,36.118417",
     "geom:latitude":36.118417,
     "geom:longitude":-78.98467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Grand Oaks Rd",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303259729,
-    "wof:lastmodified":1448998670,
+    "wof:lastmodified":1466647094,
     "wof:name":"Leah Consulting Group Inc",
     "wof:parent_id":85857995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.98467,36.118417,-78.98467,36.118417],
-  "geometry": {"coordinates":[-78.98467,36.118417],"type":"Point"}
+  "bbox": [
+    -78.98467,
+    36.118417,
+    -78.98467,
+    36.118417
+],
+  "geometry": {"coordinates":[-78.98466999999999,36.118417],"type":"Point"}
 }

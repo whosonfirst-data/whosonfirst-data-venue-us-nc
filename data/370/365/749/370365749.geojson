@@ -2,13 +2,14 @@
   "id": 370365749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.453279,35.144268,-79.453279,35.144268",
     "geom:latitude":35.144268,
     "geom:longitude":-79.453279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Fields Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370365749,
-    "wof:lastmodified":1449029628,
+    "wof:lastmodified":1466650830,
     "wof:name":"American Environmental Drill",
     "wof:parent_id":85841741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "drilling"
     ]
 },
-  "bbox": [-79.453279,35.144268,-79.453279,35.144268],
-  "geometry": {"coordinates":[-79.453279,35.144268],"type":"Point"}
+  "bbox": [
+    -79.453279,
+    35.144268,
+    -79.453279,
+    35.144268
+],
+  "geometry": {"coordinates":[-79.45327899999999,35.144268],"type":"Point"}
 }

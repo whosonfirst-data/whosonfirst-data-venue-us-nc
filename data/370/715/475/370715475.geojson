@@ -2,13 +2,14 @@
   "id": 370715475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.785401,35.293414,-77.785401,35.293414",
     "geom:latitude":35.293414,
     "geom:longitude":-77.785401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Bryan Sq",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370715475,
-    "wof:lastmodified":1449031800,
+    "wof:lastmodified":1466655393,
     "wof:name":"Hightower Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-77.785401,35.293414,-77.785401,35.293414],
-  "geometry": {"coordinates":[-77.785401,35.293414],"type":"Point"}
+  "bbox": [
+    -77.785401,
+    35.293414,
+    -77.785401,
+    35.293414
+],
+  "geometry": {"coordinates":[-77.78540099999999,35.293414],"type":"Point"}
 }

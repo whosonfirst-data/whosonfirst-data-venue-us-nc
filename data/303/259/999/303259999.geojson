@@ -2,13 +2,14 @@
   "id": 303259999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.784259,35.290749,-80.784259,35.290749",
     "geom:latitude":35.290749,
     "geom:longitude":-80.784259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7120 Neal Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303259999,
-    "wof:lastmodified":1448998669,
+    "wof:lastmodified":1466647098,
     "wof:name":"Dan Crowley Inc",
     "wof:parent_id":85882277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.784259,35.290749,-80.784259,35.290749],
-  "geometry": {"coordinates":[-80.784259,35.290749],"type":"Point"}
+  "bbox": [
+    -80.784259,
+    35.290749,
+    -80.784259,
+    35.290749
+],
+  "geometry": {"coordinates":[-80.78425900000001,35.290749],"type":"Point"}
 }

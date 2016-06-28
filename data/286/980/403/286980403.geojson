@@ -2,13 +2,14 @@
   "id": 286980403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.430739,36.066005,-79.430739,36.066005",
     "geom:latitude":36.066005,
     "geom:longitude":-79.430739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Plaza Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286980403,
-    "wof:lastmodified":1449015374,
+    "wof:lastmodified":1466652944,
     "wof:name":"Roger K Miller Inc",
     "wof:parent_id":85809921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.430739,36.066005,-79.430739,36.066005],
+  "bbox": [
+    -79.430739,
+    36.066005,
+    -79.430739,
+    36.066005
+],
   "geometry": {"coordinates":[-79.430739,36.066005],"type":"Point"}
 }

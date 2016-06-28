@@ -2,13 +2,14 @@
   "id": 387758797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.750679,35.769501,-78.750679,35.769501",
     "geom:latitude":35.769501,
     "geom:longitude":-78.750679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Ashford Ln",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387758797,
-    "wof:lastmodified":1449057252,
+    "wof:lastmodified":1466657687,
     "wof:name":"Fleetcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [-78.750679,35.769501,-78.750679,35.769501],
-  "geometry": {"coordinates":[-78.750679,35.769501],"type":"Point"}
+  "bbox": [
+    -78.750679,
+    35.769501,
+    -78.750679,
+    35.769501
+],
+  "geometry": {"coordinates":[-78.75067900000001,35.769501],"type":"Point"}
 }

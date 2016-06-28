@@ -2,13 +2,14 @@
   "id": 303865257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.93403,35.379822,-77.93403,35.379822",
     "geom:latitude":35.379822,
     "geom:longitude":-77.93403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1195 N Berkeley Blvd",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303865257,
-    "wof:lastmodified":1448999964,
+    "wof:lastmodified":1466655821,
     "wof:name":"916th Air Refueling Wing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.93403,35.379822,-77.93403,35.379822],
-  "geometry": {"coordinates":[-77.93403,35.379822],"type":"Point"}
+  "bbox": [
+    -77.93403,
+    35.379822,
+    -77.93403,
+    35.379822
+],
+  "geometry": {"coordinates":[-77.93403000000001,35.379822],"type":"Point"}
 }

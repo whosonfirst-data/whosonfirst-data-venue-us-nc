@@ -2,13 +2,14 @@
   "id": 404161437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.791656,36.070089,-79.791656,36.070089",
     "geom:latitude":36.070089,
     "geom:longitude":-79.791656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S Greene St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404161437,
-    "wof:lastmodified":1449039509,
+    "wof:lastmodified":1466653336,
     "wof:name":"Greensboro Sports Commission",
     "wof:parent_id":85877967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commission"
     ]
 },
-  "bbox": [-79.791656,36.070089,-79.791656,36.070089],
+  "bbox": [
+    -79.791656,
+    36.070089,
+    -79.791656,
+    36.070089
+],
   "geometry": {"coordinates":[-79.791656,36.070089],"type":"Point"}
 }

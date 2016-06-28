@@ -2,13 +2,14 @@
   "id": 303129177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.507153,36.041128,-79.507153,36.041128",
     "geom:latitude":36.041128,
     "geom:longitude":-79.507153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Harris Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303129177,
-    "wof:lastmodified":1449000096,
+    "wof:lastmodified":1466645148,
     "wof:name":"Burlington JD Mackintosh Wtr",
     "wof:parent_id":85857181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-79.507153,36.041128,-79.507153,36.041128],
+  "bbox": [
+    -79.507153,
+    36.041128,
+    -79.507153,
+    36.041128
+],
   "geometry": {"coordinates":[-79.507153,36.041128],"type":"Point"}
 }

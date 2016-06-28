@@ -2,13 +2,14 @@
   "id": 220016837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.66796,35.897393,-75.66796,35.897393",
     "geom:latitude":35.897393,
     "geom:longitude":-75.66796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 US Hwy 64",
     "sg:city":"Manteo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220016837,
-    "wof:lastmodified":1449074180,
+    "wof:lastmodified":1466643346,
     "wof:name":"Dare County Home Health Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-75.66796,35.897393,-75.66796,35.897393],
-  "geometry": {"coordinates":[-75.66796,35.897393],"type":"Point"}
+  "bbox": [
+    -75.66796,
+    35.897393,
+    -75.66796,
+    35.897393
+],
+  "geometry": {"coordinates":[-75.66795999999999,35.897393],"type":"Point"}
 }

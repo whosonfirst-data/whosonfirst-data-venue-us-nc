@@ -2,13 +2,14 @@
   "id": 269801447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.475591,35.676362,-78.475591,35.676362",
     "geom:latitude":35.676362,
     "geom:longitude":-78.475591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1785 Shotwell Rd",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269801447,
-    "wof:lastmodified":1449038432,
+    "wof:lastmodified":1466646963,
     "wof:name":"Mark Lee's Hydro-Cut Grading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.475591,35.676362,-78.475591,35.676362],
-  "geometry": {"coordinates":[-78.475591,35.676362],"type":"Point"}
+  "bbox": [
+    -78.475591,
+    35.676362,
+    -78.475591,
+    35.676362
+],
+  "geometry": {"coordinates":[-78.47559099999999,35.676362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303205805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.67955,35.268251,-82.67955,35.268251",
     "geom:latitude":35.268251,
     "geom:longitude":-82.67955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Smith Rd",
     "sg:city":"Pisgah Forest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303205805,
-    "wof:lastmodified":1448999599,
+    "wof:lastmodified":1466646299,
     "wof:name":"Toms Small Engine Repair",
     "wof:parent_id":85805783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-82.67955,35.268251,-82.67955,35.268251],
-  "geometry": {"coordinates":[-82.67955,35.268251],"type":"Point"}
+  "bbox": [
+    -82.67955,
+    35.268251,
+    -82.67955,
+    35.268251
+],
+  "geometry": {"coordinates":[-82.67955000000001,35.268251],"type":"Point"}
 }

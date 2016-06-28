@@ -2,13 +2,14 @@
   "id": 320475017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.313779,35.344443,-77.313779,35.344443",
     "geom:latitude":35.344443,
     "geom:longitude":-77.313779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 David Rd",
     "sg:city":"Grifton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320475017,
-    "wof:lastmodified":1449012817,
+    "wof:lastmodified":1466651998,
     "wof:name":"Lagoon Processing",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-77.313779,35.344443,-77.313779,35.344443],
+  "bbox": [
+    -77.313779,
+    35.344443,
+    -77.313779,
+    35.344443
+],
   "geometry": {"coordinates":[-77.313779,35.344443],"type":"Point"}
 }

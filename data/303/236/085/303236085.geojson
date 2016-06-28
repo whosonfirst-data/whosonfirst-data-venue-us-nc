@@ -2,13 +2,14 @@
   "id": 303236085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.894196,35.02471,-78.894196,35.02471",
     "geom:latitude":35.02471,
     "geom:longitude":-78.894196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1816 Gillespie St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303236085,
-    "wof:lastmodified":1448998380,
+    "wof:lastmodified":1466646738,
     "wof:name":"Tyson Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.894196,35.02471,-78.894196,35.02471],
-  "geometry": {"coordinates":[-78.894196,35.02471],"type":"Point"}
+  "bbox": [
+    -78.894196,
+    35.02471,
+    -78.894196,
+    35.02471
+],
+  "geometry": {"coordinates":[-78.89419599999999,35.02471],"type":"Point"}
 }

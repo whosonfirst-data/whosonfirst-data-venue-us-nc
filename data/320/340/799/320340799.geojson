@@ -2,13 +2,14 @@
   "id": 320340799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.540251,36.269086,-78.540251,36.269086",
     "geom:latitude":36.269086,
     "geom:longitude":-78.540251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4139 Ed Harris Rd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320340799,
-    "wof:lastmodified":1449014119,
+    "wof:lastmodified":1466650068,
     "wof:name":"Richard W Harris III Pro Land",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-78.540251,36.269086,-78.540251,36.269086],
+  "bbox": [
+    -78.540251,
+    36.269086,
+    -78.540251,
+    36.269086
+],
   "geometry": {"coordinates":[-78.540251,36.269086],"type":"Point"}
 }

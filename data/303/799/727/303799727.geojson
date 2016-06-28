@@ -2,13 +2,14 @@
   "id": 303799727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.653123,35.743128,-79.653123,35.743128",
     "geom:latitude":35.743128,
     "geom:longitude":-79.653123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4724 Huntingwood Rd",
     "sg:city":"Ramseur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303799727,
-    "wof:lastmodified":1449000577,
+    "wof:lastmodified":1466654856,
     "wof:name":"King Hill Apts",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.653123,35.743128,-79.653123,35.743128],
-  "geometry": {"coordinates":[-79.653123,35.743128],"type":"Point"}
+  "bbox": [
+    -79.653123,
+    35.743128,
+    -79.653123,
+    35.743128
+],
+  "geometry": {"coordinates":[-79.65312299999999,35.743128],"type":"Point"}
 }

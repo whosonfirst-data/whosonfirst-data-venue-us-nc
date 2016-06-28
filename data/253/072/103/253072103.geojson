@@ -2,13 +2,14 @@
   "id": 253072103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949059,34.23862,-77.949059,34.23862",
     "geom:latitude":34.23862,
     "geom:longitude":-77.949059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 N Front St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253072103,
-    "wof:lastmodified":1449064385,
+    "wof:lastmodified":1466643819,
     "wof:name":"New Elements Gallery",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-77.949059,34.23862,-77.949059,34.23862],
-  "geometry": {"coordinates":[-77.949059,34.23862],"type":"Point"}
+  "bbox": [
+    -77.949059,
+    34.23862,
+    -77.949059,
+    34.23862
+],
+  "geometry": {"coordinates":[-77.94905900000001,34.23862],"type":"Point"}
 }

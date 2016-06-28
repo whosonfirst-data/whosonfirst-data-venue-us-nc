@@ -2,13 +2,14 @@
   "id": 219958273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.486501,34.663,-77.486501,34.663",
     "geom:latitude":34.663,
     "geom:longitude":-77.486501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 High Hill Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219958273,
-    "wof:lastmodified":1449073156,
+    "wof:lastmodified":1466648466,
     "wof:name":"Mc Coys Garage",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-77.486501,34.663,-77.486501,34.663],
+  "bbox": [
+    -77.486501,
+    34.663,
+    -77.486501,
+    34.663
+],
   "geometry": {"coordinates":[-77.486501,34.663],"type":"Point"}
 }

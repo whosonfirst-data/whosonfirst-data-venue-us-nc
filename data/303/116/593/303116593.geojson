@@ -2,13 +2,14 @@
   "id": 303116593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.511387,36.103434,-79.511387,36.103434",
     "geom:latitude":36.103434,
     "geom:longitude":-79.511387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 N Manning Ave",
     "sg:city":"Elon College",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303116593,
-    "wof:lastmodified":1448998476,
+    "wof:lastmodified":1466644955,
     "wof:name":"International Inventory Mgmt",
     "wof:parent_id":85857167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-79.511387,36.103434,-79.511387,36.103434],
+  "bbox": [
+    -79.511387,
+    36.103434,
+    -79.511387,
+    36.103434
+],
   "geometry": {"coordinates":[-79.511387,36.103434],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387712483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.177365,35.31543,-81.177365,35.31543",
     "geom:latitude":35.31543,
     "geom:longitude":-81.177365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Holland St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387712483,
-    "wof:lastmodified":1449057740,
+    "wof:lastmodified":1466657368,
     "wof:name":"Dallas Branch Public Library",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.177365,35.31543,-81.177365,35.31543],
-  "geometry": {"coordinates":[-81.177365,35.31543],"type":"Point"}
+  "bbox": [
+    -81.177365,
+    35.31543,
+    -81.177365,
+    35.31543
+],
+  "geometry": {"coordinates":[-81.17736499999999,35.31543],"type":"Point"}
 }

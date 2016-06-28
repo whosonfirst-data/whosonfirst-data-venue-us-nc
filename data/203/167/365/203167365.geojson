@@ -2,13 +2,14 @@
   "id": 203167365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.3634,35.865679,-80.3634,35.865679",
     "geom:latitude":35.865679,
     "geom:longitude":-80.3634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Tom Wood Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203167365,
-    "wof:lastmodified":1449025917,
+    "wof:lastmodified":1466655089,
     "wof:name":"K B Site Development",
     "wof:parent_id":85855127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.3634,35.865679,-80.3634,35.865679],
+  "bbox": [
+    -80.3634,
+    35.865679,
+    -80.3634,
+    35.865679
+],
   "geometry": {"coordinates":[-80.3634,35.865679],"type":"Point"}
 }

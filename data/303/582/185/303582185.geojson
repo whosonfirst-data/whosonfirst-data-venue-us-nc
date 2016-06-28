@@ -2,13 +2,14 @@
   "id": 303582185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.111095,36.443908,-77.111095,36.443908",
     "geom:latitude":36.443908,
     "geom:longitude":-77.111095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Lawrence St",
     "sg:city":"Como",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303582185,
-    "wof:lastmodified":1448999436,
+    "wof:lastmodified":1466651691,
     "wof:name":"Donald S Lawrence Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logger"
     ]
 },
-  "bbox": [-77.111095,36.443908,-77.111095,36.443908],
-  "geometry": {"coordinates":[-77.111095,36.443908],"type":"Point"}
+  "bbox": [
+    -77.111095,
+    36.443908,
+    -77.111095,
+    36.443908
+],
+  "geometry": {"coordinates":[-77.11109500000001,36.443908],"type":"Point"}
 }

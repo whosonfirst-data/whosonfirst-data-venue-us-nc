@@ -2,13 +2,14 @@
   "id": 370792187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.431902,36.081605,-79.431902,36.081605",
     "geom:latitude":36.081605,
     "geom:longitude":-79.431902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Avon Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370792187,
-    "wof:lastmodified":1449029817,
+    "wof:lastmodified":1466656303,
     "wof:name":"Belle Shire",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.431902,36.081605,-79.431902,36.081605],
-  "geometry": {"coordinates":[-79.431902,36.081605],"type":"Point"}
+  "bbox": [
+    -79.431902,
+    36.081605,
+    -79.431902,
+    36.081605
+],
+  "geometry": {"coordinates":[-79.43190199999999,36.081605],"type":"Point"}
 }

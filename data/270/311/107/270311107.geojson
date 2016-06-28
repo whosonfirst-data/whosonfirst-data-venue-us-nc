@@ -2,13 +2,14 @@
   "id": 270311107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.018375,35.971737,-79.018375,35.971737",
     "geom:latitude":35.971737,
     "geom:longitude":-79.018375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4523 Oak Hill Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270311107,
-    "wof:lastmodified":1449009203,
+    "wof:lastmodified":1466647013,
     "wof:name":"Levy Design & Mfg LLC",
     "wof:parent_id":85838755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.018375,35.971737,-79.018375,35.971737],
-  "geometry": {"coordinates":[-79.018375,35.971737],"type":"Point"}
+  "bbox": [
+    -79.018375,
+    35.971737,
+    -79.018375,
+    35.971737
+],
+  "geometry": {"coordinates":[-79.01837500000001,35.971737],"type":"Point"}
 }

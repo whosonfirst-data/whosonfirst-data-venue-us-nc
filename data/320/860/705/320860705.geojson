@@ -2,13 +2,14 @@
   "id": 320860705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.464632,36.420939,-81.464632,36.420939",
     "geom:latitude":36.420939,
     "geom:longitude":-81.464632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 E Main St",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320860705,
-    "wof:lastmodified":1449012917,
+    "wof:lastmodified":1466657117,
     "wof:name":"Ashe Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-81.464632,36.420939,-81.464632,36.420939],
-  "geometry": {"coordinates":[-81.464632,36.420939],"type":"Point"}
+  "bbox": [
+    -81.464632,
+    36.420939,
+    -81.464632,
+    36.420939
+],
+  "geometry": {"coordinates":[-81.46463199999999,36.420939],"type":"Point"}
 }

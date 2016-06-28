@@ -2,13 +2,14 @@
   "id": 219359815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.931536,35.970331,-78.931536,35.970331",
     "geom:latitude":35.970331,
     "geom:longitude":-78.931536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2741 University Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219359815,
-    "wof:lastmodified":1449070331,
+    "wof:lastmodified":1466643780,
     "wof:name":"Maxwell Freeman & Bowman",
     "wof:parent_id":85826221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.931536,35.970331,-78.931536,35.970331],
-  "geometry": {"coordinates":[-78.931536,35.970331],"type":"Point"}
+  "bbox": [
+    -78.931536,
+    35.970331,
+    -78.931536,
+    35.970331
+],
+  "geometry": {"coordinates":[-78.93153599999999,35.970331],"type":"Point"}
 }

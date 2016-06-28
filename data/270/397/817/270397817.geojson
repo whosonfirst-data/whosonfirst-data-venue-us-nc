@@ -2,13 +2,14 @@
   "id": 270397817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.459117,33.900169,-78.459117,33.900169",
     "geom:latitude":33.900169,
     "geom:longitude":-78.459117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6709 Beach Dr SW",
     "sg:city":"Ocean Isle Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270397817,
-    "wof:lastmodified":1449009607,
+    "wof:lastmodified":1466648104,
     "wof:name":"American Flooring Inc",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-78.459117,33.900169,-78.459117,33.900169],
-  "geometry": {"coordinates":[-78.459117,33.900169],"type":"Point"}
+  "bbox": [
+    -78.459117,
+    33.900169,
+    -78.459117,
+    33.900169
+],
+  "geometry": {"coordinates":[-78.45911700000001,33.900169],"type":"Point"}
 }

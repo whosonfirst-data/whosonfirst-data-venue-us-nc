@@ -2,13 +2,14 @@
   "id": 386990049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.083345,36.083371,-79.083345,36.083371",
     "geom:latitude":36.083371,
     "geom:longitude":-79.083345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Miller Rd",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386990049,
-    "wof:lastmodified":1449028828,
+    "wof:lastmodified":1466650191,
     "wof:name":"Oakley Acoustical",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.083345,36.083371,-79.083345,36.083371],
-  "geometry": {"coordinates":[-79.083345,36.083371],"type":"Point"}
+  "bbox": [
+    -79.083345,
+    36.083371,
+    -79.083345,
+    36.083371
+],
+  "geometry": {"coordinates":[-79.08334499999999,36.083371],"type":"Point"}
 }

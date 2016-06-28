@@ -2,13 +2,14 @@
   "id": 270216269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.178064,35.740218,-81.178064,35.740218",
     "geom:latitude":35.740218,
     "geom:longitude":-81.178064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3831 Rock Bridge Dr NE",
     "sg:city":"Conover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270216269,
-    "wof:lastmodified":1449010812,
+    "wof:lastmodified":1466645800,
     "wof:name":"Rock Barn Townhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barn"
     ]
 },
-  "bbox": [-81.178064,35.740218,-81.178064,35.740218],
-  "geometry": {"coordinates":[-81.178064,35.740218],"type":"Point"}
+  "bbox": [
+    -81.178064,
+    35.740218,
+    -81.178064,
+    35.740218
+],
+  "geometry": {"coordinates":[-81.17806400000001,35.740218],"type":"Point"}
 }

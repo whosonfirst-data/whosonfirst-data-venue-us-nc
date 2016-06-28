@@ -2,13 +2,14 @@
   "id": 387931845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.593561,35.578078,-82.593561,35.578078",
     "geom:latitude":35.578078,
     "geom:longitude":-82.593561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 Haywood Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387931845,
-    "wof:lastmodified":1449059575,
+    "wof:lastmodified":1466658025,
     "wof:name":"Ideal Market Cafe",
     "wof:parent_id":85824401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.593561,35.578078,-82.593561,35.578078],
-  "geometry": {"coordinates":[-82.593561,35.578078],"type":"Point"}
+  "bbox": [
+    -82.593561,
+    35.578078,
+    -82.593561,
+    35.578078
+],
+  "geometry": {"coordinates":[-82.59356099999999,35.578078],"type":"Point"}
 }

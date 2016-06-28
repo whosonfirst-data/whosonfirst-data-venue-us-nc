@@ -2,13 +2,14 @@
   "id": 403764787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.78136,36.151891,-79.78136,36.151891",
     "geom:latitude":36.151891,
     "geom:longitude":-79.78136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5303 Weeping Cherry Dr",
     "sg:city":"Browns Summit",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403764787,
-    "wof:lastmodified":1449055887,
+    "wof:lastmodified":1466651125,
     "wof:name":"Accra International",
     "wof:parent_id":85852095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-79.78136,36.151891,-79.78136,36.151891],
-  "geometry": {"coordinates":[-79.78136,36.151891],"type":"Point"}
+  "bbox": [
+    -79.78136,
+    36.151891,
+    -79.78136,
+    36.151891
+],
+  "geometry": {"coordinates":[-79.78136000000001,36.151891],"type":"Point"}
 }

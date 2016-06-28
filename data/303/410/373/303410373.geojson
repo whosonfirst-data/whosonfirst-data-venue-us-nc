@@ -2,13 +2,14 @@
   "id": 303410373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.138633,35.268486,-81.138633,35.268486",
     "geom:latitude":35.268486,
     "geom:longitude":-81.138633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 Aberdeen Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303410373,
-    "wof:lastmodified":1448998153,
+    "wof:lastmodified":1466649220,
     "wof:name":"Pediatric Dental Care",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.138633,35.268486,-81.138633,35.268486],
+  "bbox": [
+    -81.138633,
+    35.268486,
+    -81.138633,
+    35.268486
+],
   "geometry": {"coordinates":[-81.138633,35.268486],"type":"Point"}
 }

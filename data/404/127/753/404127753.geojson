@@ -2,13 +2,14 @@
   "id": 404127753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.647359,36.47396,-77.647359,36.47396",
     "geom:latitude":36.47396,
     "geom:longitude":-77.647359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Roanoke Ave",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404127753,
-    "wof:lastmodified":1449040230,
+    "wof:lastmodified":1466652903,
     "wof:name":"Village Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.647359,36.47396,-77.647359,36.47396],
-  "geometry": {"coordinates":[-77.647359,36.47396],"type":"Point"}
+  "bbox": [
+    -77.647359,
+    36.47396,
+    -77.647359,
+    36.47396
+],
+  "geometry": {"coordinates":[-77.64735899999999,36.47396],"type":"Point"}
 }

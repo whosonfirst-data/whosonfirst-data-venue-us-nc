@@ -2,13 +2,14 @@
   "id": 320379573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.482014,33.896522,-78.482014,33.896522",
     "geom:latitude":33.896522,
     "geom:longitude":-78.482014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 Hideaway Rd SW",
     "sg:city":"Ocean Isle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320379573,
-    "wof:lastmodified":1449013432,
+    "wof:lastmodified":1466650618,
     "wof:name":"Ray's Lawn Care",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-78.482014,33.896522,-78.482014,33.896522],
-  "geometry": {"coordinates":[-78.482014,33.896522],"type":"Point"}
+  "bbox": [
+    -78.482014,
+    33.896522,
+    -78.482014,
+    33.896522
+],
+  "geometry": {"coordinates":[-78.48201400000001,33.896522],"type":"Point"}
 }

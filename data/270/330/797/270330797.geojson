@@ -2,13 +2,14 @@
   "id": 270330797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.58621,35.825714,-78.58621,35.825714",
     "geom:latitude":35.825714,
     "geom:longitude":-78.58621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3314 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270330797,
-    "wof:lastmodified":1449009864,
+    "wof:lastmodified":1466647254,
     "wof:name":"North Carolina East W Nail Sup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.58621,35.825714,-78.58621,35.825714],
-  "geometry": {"coordinates":[-78.58621,35.825714],"type":"Point"}
+  "bbox": [
+    -78.58621,
+    35.825714,
+    -78.58621,
+    35.825714
+],
+  "geometry": {"coordinates":[-78.58620999999999,35.825714],"type":"Point"}
 }

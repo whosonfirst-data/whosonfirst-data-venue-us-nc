@@ -2,13 +2,14 @@
   "id": 235982631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.556914,35.594012,-82.556914,35.594012",
     "geom:latitude":35.594012,
     "geom:longitude":-82.556914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Patton Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235982631,
-    "wof:lastmodified":1449008320,
+    "wof:lastmodified":1466643651,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-82.556914,35.594012,-82.556914,35.594012],
-  "geometry": {"coordinates":[-82.556914,35.594012],"type":"Point"}
+  "bbox": [
+    -82.556914,
+    35.594012,
+    -82.556914,
+    35.594012
+],
+  "geometry": {"coordinates":[-82.55691400000001,35.594012],"type":"Point"}
 }

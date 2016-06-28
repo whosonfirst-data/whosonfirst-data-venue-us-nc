@@ -2,13 +2,14 @@
   "id": 354003665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.92445,35.029804,-78.92445,35.029804",
     "geom:latitude":35.029804,
     "geom:longitude":-78.92445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1841 Quiet Cove",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354003665,
-    "wof:lastmodified":1449067536,
+    "wof:lastmodified":1466647607,
     "wof:name":"Village Surgical Assoc PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.92445,35.029804,-78.92445,35.029804],
-  "geometry": {"coordinates":[-78.92445,35.029804],"type":"Point"}
+  "bbox": [
+    -78.92445,
+    35.029804,
+    -78.92445,
+    35.029804
+],
+  "geometry": {"coordinates":[-78.92444999999999,35.029804],"type":"Point"}
 }

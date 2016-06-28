@@ -2,13 +2,14 @@
   "id": 320254043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.039054,35.547091,-77.039054,35.547091",
     "geom:latitude":35.547091,
     "geom:longitude":-77.039054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Pennsylvania Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320254043,
-    "wof:lastmodified":1449013843,
+    "wof:lastmodified":1466648854,
     "wof:name":"Dixie's Drywall",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.039054,35.547091,-77.039054,35.547091],
-  "geometry": {"coordinates":[-77.039054,35.547091],"type":"Point"}
+  "bbox": [
+    -77.039054,
+    35.547091,
+    -77.039054,
+    35.547091
+],
+  "geometry": {"coordinates":[-77.03905399999999,35.547091],"type":"Point"}
 }

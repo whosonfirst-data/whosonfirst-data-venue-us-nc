@@ -2,13 +2,14 @@
   "id": 253001991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.599911,35.599482,-82.599911,35.599482",
     "geom:latitude":35.599482,
     "geom:longitude":-82.599911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Westside Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253001991,
-    "wof:lastmodified":1449063480,
+    "wof:lastmodified":1466655827,
     "wof:name":"S & D Coffee Inc",
     "wof:parent_id":85828711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-82.599911,35.599482,-82.599911,35.599482],
-  "geometry": {"coordinates":[-82.599911,35.599482],"type":"Point"}
+  "bbox": [
+    -82.599911,
+    35.599482,
+    -82.599911,
+    35.599482
+],
+  "geometry": {"coordinates":[-82.59991100000001,35.599482],"type":"Point"}
 }

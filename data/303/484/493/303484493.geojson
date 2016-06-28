@@ -2,13 +2,14 @@
   "id": 303484493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.351853,36.352096,-78.351853,36.352096",
     "geom:latitude":36.352096,
     "geom:longitude":-78.351853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1448 Warrenton Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303484493,
-    "wof:lastmodified":1449000425,
+    "wof:lastmodified":1466650312,
     "wof:name":"Superior Home Values",
     "wof:parent_id":85857977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-78.351853,36.352096,-78.351853,36.352096],
-  "geometry": {"coordinates":[-78.351853,36.352096],"type":"Point"}
+  "bbox": [
+    -78.351853,
+    36.352096,
+    -78.351853,
+    36.352096
+],
+  "geometry": {"coordinates":[-78.35185300000001,36.352096],"type":"Point"}
 }

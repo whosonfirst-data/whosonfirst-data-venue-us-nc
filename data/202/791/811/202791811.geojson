@@ -2,13 +2,14 @@
   "id": 202791811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.849963,36.244371,-80.849963,36.244371",
     "geom:latitude":36.244371,
     "geom:longitude":-80.849963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Main St",
     "sg:city":"Elkin",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202791811,
-    "wof:lastmodified":1449062073,
+    "wof:lastmodified":1466644102,
     "wof:name":"Sample Store The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-80.849963,36.244371,-80.849963,36.244371],
+  "bbox": [
+    -80.849963,
+    36.244371,
+    -80.849963,
+    36.244371
+],
   "geometry": {"coordinates":[-80.849963,36.244371],"type":"Point"}
 }

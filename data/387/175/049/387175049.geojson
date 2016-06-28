@@ -2,13 +2,14 @@
   "id": 387175049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.804341,35.089136,-78.804341,35.089136",
     "geom:latitude":35.089136,
     "geom:longitude":-78.804341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Middle Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387175049,
-    "wof:lastmodified":1449058745,
+    "wof:lastmodified":1466652154,
     "wof:name":"Fayetteville Community Church",
     "wof:parent_id":85825067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.804341,35.089136,-78.804341,35.089136],
-  "geometry": {"coordinates":[-78.804341,35.089136],"type":"Point"}
+  "bbox": [
+    -78.804341,
+    35.089136,
+    -78.804341,
+    35.089136
+],
+  "geometry": {"coordinates":[-78.80434099999999,35.089136],"type":"Point"}
 }

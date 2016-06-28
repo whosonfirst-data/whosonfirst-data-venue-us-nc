@@ -2,13 +2,14 @@
   "id": 354129701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.581443,36.187006,-80.581443,36.187006",
     "geom:latitude":36.187006,
     "geom:longitude":-80.581443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2824 Moccasin Gap Rd",
     "sg:city":"East Bend",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354129701,
-    "wof:lastmodified":1449067310,
+    "wof:lastmodified":1466649060,
     "wof:name":"Sloans Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.581443,36.187006,-80.581443,36.187006],
-  "geometry": {"coordinates":[-80.581443,36.187006],"type":"Point"}
+  "bbox": [
+    -80.581443,
+    36.187006,
+    -80.581443,
+    36.187006
+],
+  "geometry": {"coordinates":[-80.58144299999999,36.187006],"type":"Point"}
 }

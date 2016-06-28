@@ -2,13 +2,14 @@
   "id": 354191403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.909569,34.180336,-77.909569,34.180336",
     "geom:latitude":34.180336,
     "geom:longitude":-77.909569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 Robert Hoke Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354191403,
-    "wof:lastmodified":1449066967,
+    "wof:lastmodified":1466649787,
     "wof:name":"Eclipse Realty Inc",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.909569,34.180336,-77.909569,34.180336],
+  "bbox": [
+    -77.909569,
+    34.180336,
+    -77.909569,
+    34.180336
+],
   "geometry": {"coordinates":[-77.909569,34.180336],"type":"Point"}
 }

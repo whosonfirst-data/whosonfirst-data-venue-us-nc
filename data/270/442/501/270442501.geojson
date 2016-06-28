@@ -2,13 +2,14 @@
   "id": 270442501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.902304,34.22974,-77.902304,34.22974",
     "geom:latitude":34.22974,
     "geom:longitude":-77.902304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 Randall Pkwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":270442501,
-    "wof:lastmodified":1449009712,
+    "wof:lastmodified":1466648679,
     "wof:name":"Cape Fear Center For Inquiry",
     "wof:parent_id":85818553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.902304,34.22974,-77.902304,34.22974],
+  "bbox": [
+    -77.902304,
+    34.22974,
+    -77.902304,
+    34.22974
+],
   "geometry": {"coordinates":[-77.902304,34.22974],"type":"Point"}
 }

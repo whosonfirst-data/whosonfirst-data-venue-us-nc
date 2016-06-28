@@ -2,13 +2,14 @@
   "id": 336649235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.485041,35.348229,-78.485041,35.348229",
     "geom:latitude":35.348229,
     "geom:longitude":-78.485041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4709 State Hwy 50 S",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336649235,
-    "wof:lastmodified":1448997658,
+    "wof:lastmodified":1466646599,
     "wof:name":"Country Gas & Grocery",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.485041,35.348229,-78.485041,35.348229],
+  "bbox": [
+    -78.485041,
+    35.348229,
+    -78.485041,
+    35.348229
+],
   "geometry": {"coordinates":[-78.485041,35.348229],"type":"Point"}
 }

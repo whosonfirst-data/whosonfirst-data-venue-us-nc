@@ -2,13 +2,14 @@
   "id": 202404305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.998731,35.689467,-81.998731,35.689467",
     "geom:latitude":35.689467,
     "geom:longitude":-81.998731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"791 E Court St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202404305,
-    "wof:lastmodified":1449061770,
+    "wof:lastmodified":1466654247,
     "wof:name":"Jewelry Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-81.998731,35.689467,-81.998731,35.689467],
-  "geometry": {"coordinates":[-81.998731,35.689467],"type":"Point"}
+  "bbox": [
+    -81.998731,
+    35.689467,
+    -81.998731,
+    35.689467
+],
+  "geometry": {"coordinates":[-81.99873100000001,35.689467],"type":"Point"}
 }

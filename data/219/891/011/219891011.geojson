@@ -2,13 +2,14 @@
   "id": 219891011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.568548,35.835686,-79.568548,35.835686",
     "geom:latitude":35.835686,
     "geom:longitude":-79.568548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6889 Kinro Rd",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219891011,
-    "wof:lastmodified":1449072521,
+    "wof:lastmodified":1466647914,
     "wof:name":"Kinro Inc",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sash"
     ]
 },
-  "bbox": [-79.568548,35.835686,-79.568548,35.835686],
-  "geometry": {"coordinates":[-79.568548,35.835686],"type":"Point"}
+  "bbox": [
+    -79.568548,
+    35.835686,
+    -79.568548,
+    35.835686
+],
+  "geometry": {"coordinates":[-79.56854800000001,35.835686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370809449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.919307,34.237825,-77.919307,34.237825",
     "geom:latitude":34.237825,
     "geom:longitude":-77.919307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370809449,
-    "wof:lastmodified":1449031863,
+    "wof:lastmodified":1466656243,
     "wof:name":"Cape Fear Roasters",
     "wof:parent_id":85843149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-77.919307,34.237825,-77.919307,34.237825],
+  "bbox": [
+    -77.919307,
+    34.237825,
+    -77.919307,
+    34.237825
+],
   "geometry": {"coordinates":[-77.919307,34.237825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203002435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.657423,35.737752,-81.657423,35.737752",
     "geom:latitude":35.737752,
     "geom:longitude":-81.657423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Rebel Run St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203002435,
-    "wof:lastmodified":1449026499,
+    "wof:lastmodified":1466654146,
     "wof:name":"Autos Unlimited",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [-81.657423,35.737752,-81.657423,35.737752],
-  "geometry": {"coordinates":[-81.657423,35.737752],"type":"Point"}
+  "bbox": [
+    -81.657423,
+    35.737752,
+    -81.657423,
+    35.737752
+],
+  "geometry": {"coordinates":[-81.65742299999999,35.737752],"type":"Point"}
 }

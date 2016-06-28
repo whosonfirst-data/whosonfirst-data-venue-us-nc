@@ -2,13 +2,14 @@
   "id": 220126215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39655,35.598914,-82.39655,35.598914",
     "geom:latitude":35.598914,
     "geom:longitude":-82.39655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 South Ave",
     "sg:city":"Swannanoa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220126215,
-    "wof:lastmodified":1449074331,
+    "wof:lastmodified":1466644208,
     "wof:name":"Swannanoa Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.39655,35.598914,-82.39655,35.598914],
+  "bbox": [
+    -82.39655,
+    35.598914,
+    -82.39655,
+    35.598914
+],
   "geometry": {"coordinates":[-82.39655,35.598914],"type":"Point"}
 }

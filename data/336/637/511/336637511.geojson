@@ -2,13 +2,14 @@
   "id": 336637511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.320039,35.691733,-78.320039,35.691733",
     "geom:latitude":35.691733,
     "geom:longitude":-78.320039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4223 Thanksgiving Vfd Rd",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336637511,
-    "wof:lastmodified":1448996918,
+    "wof:lastmodified":1466646408,
     "wof:name":"Kathy's Classic Salon",
     "wof:parent_id":85854199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.320039,35.691733,-78.320039,35.691733],
-  "geometry": {"coordinates":[-78.320039,35.691733],"type":"Point"}
+  "bbox": [
+    -78.320039,
+    35.691733,
+    -78.320039,
+    35.691733
+],
+  "geometry": {"coordinates":[-78.32003899999999,35.691733],"type":"Point"}
 }

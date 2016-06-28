@@ -2,13 +2,14 @@
   "id": 219876589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.747492,35.867053,-76.747492,35.867053",
     "geom:latitude":35.867053,
     "geom:longitude":-76.747492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E Main St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219876589,
-    "wof:lastmodified":1449071109,
+    "wof:lastmodified":1466647808,
     "wof:name":"Washington County Permits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.747492,35.867053,-76.747492,35.867053],
-  "geometry": {"coordinates":[-76.747492,35.867053],"type":"Point"}
+  "bbox": [
+    -76.747492,
+    35.867053,
+    -76.747492,
+    35.867053
+],
+  "geometry": {"coordinates":[-76.74749199999999,35.867053],"type":"Point"}
 }

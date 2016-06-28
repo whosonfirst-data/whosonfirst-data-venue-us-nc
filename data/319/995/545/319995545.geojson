@@ -2,13 +2,14 @@
   "id": 319995545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771256,35.735651,-79.771256,35.735651",
     "geom:latitude":35.735651,
     "geom:longitude":-79.771256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Randolph Tabernacle Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":319995545,
-    "wof:lastmodified":1449024800,
+    "wof:lastmodified":1466647408,
     "wof:name":"Down Home Press",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-79.771256,35.735651,-79.771256,35.735651],
-  "geometry": {"coordinates":[-79.771256,35.735651],"type":"Point"}
+  "bbox": [
+    -79.771256,
+    35.735651,
+    -79.771256,
+    35.735651
+],
+  "geometry": {"coordinates":[-79.77125599999999,35.735651],"type":"Point"}
 }

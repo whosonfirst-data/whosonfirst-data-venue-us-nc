@@ -2,13 +2,14 @@
   "id": 320707111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.709047,34.89054,-79.709047,34.89054",
     "geom:latitude":34.89054,
     "geom:longitude":-79.709047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Bauersfeld St",
     "sg:city":"Hamlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320707111,
-    "wof:lastmodified":1449014384,
+    "wof:lastmodified":1466655358,
     "wof:name":"Urgent Care & Family Practice",
     "wof:parent_id":85836761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-79.709047,34.89054,-79.709047,34.89054],
+  "bbox": [
+    -79.709047,
+    34.89054,
+    -79.709047,
+    34.89054
+],
   "geometry": {"coordinates":[-79.709047,34.89054],"type":"Point"}
 }

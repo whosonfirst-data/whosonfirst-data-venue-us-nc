@@ -2,13 +2,14 @@
   "id": 270418301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.906501,36.026641,-78.906501,36.026641",
     "geom:latitude":36.026641,
     "geom:longitude":-78.906501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 W Maynard Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270418301,
-    "wof:lastmodified":1449010523,
+    "wof:lastmodified":1466648361,
     "wof:name":"Samuel C Hodges Jr Assoc",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.906501,36.026641,-78.906501,36.026641],
-  "geometry": {"coordinates":[-78.906501,36.026641],"type":"Point"}
+  "bbox": [
+    -78.906501,
+    36.026641,
+    -78.906501,
+    36.026641
+],
+  "geometry": {"coordinates":[-78.90650100000001,36.026641],"type":"Point"}
 }

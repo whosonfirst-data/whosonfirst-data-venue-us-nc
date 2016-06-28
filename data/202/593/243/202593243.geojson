@@ -2,13 +2,14 @@
   "id": 202593243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.738858,36.508155,-79.738858,36.508155",
     "geom:latitude":36.508155,
     "geom:longitude":-79.738858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 E Meadow Rd",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202593243,
-    "wof:lastmodified":1449061767,
+    "wof:lastmodified":1466655479,
     "wof:name":"Cassell's Car & Truck Sales",
     "wof:parent_id":85810227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.738858,36.508155,-79.738858,36.508155],
-  "geometry": {"coordinates":[-79.738858,36.508155],"type":"Point"}
+  "bbox": [
+    -79.738858,
+    36.508155,
+    -79.738858,
+    36.508155
+],
+  "geometry": {"coordinates":[-79.73885799999999,36.508155],"type":"Point"}
 }

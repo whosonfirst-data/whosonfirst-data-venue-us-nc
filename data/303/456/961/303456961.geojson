@@ -2,13 +2,14 @@
   "id": 303456961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.985729,35.391546,-77.985729,35.391546",
     "geom:latitude":35.391546,
     "geom:longitude":-77.985729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Royall Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303456961,
-    "wof:lastmodified":1448998844,
+    "wof:lastmodified":1466649908,
     "wof:name":"Progress Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "combination"
     ]
 },
-  "bbox": [-77.985729,35.391546,-77.985729,35.391546],
-  "geometry": {"coordinates":[-77.985729,35.391546],"type":"Point"}
+  "bbox": [
+    -77.985729,
+    35.391546,
+    -77.985729,
+    35.391546
+],
+  "geometry": {"coordinates":[-77.98572900000001,35.391546],"type":"Point"}
 }

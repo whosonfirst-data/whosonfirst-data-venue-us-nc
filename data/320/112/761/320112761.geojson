@@ -2,13 +2,14 @@
   "id": 320112761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.753043,35.203881,-80.753043,35.203881",
     "geom:latitude":35.203881,
     "geom:longitude":-80.753043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5618 Albemarle Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320112761,
-    "wof:lastmodified":1449012973,
+    "wof:lastmodified":1466646880,
     "wof:name":"Carolina Rent To Own",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "furniture"
     ]
 },
-  "bbox": [-80.753043,35.203881,-80.753043,35.203881],
-  "geometry": {"coordinates":[-80.753043,35.203881],"type":"Point"}
+  "bbox": [
+    -80.753043,
+    35.203881,
+    -80.753043,
+    35.203881
+],
+  "geometry": {"coordinates":[-80.75304300000001,35.203881],"type":"Point"}
 }

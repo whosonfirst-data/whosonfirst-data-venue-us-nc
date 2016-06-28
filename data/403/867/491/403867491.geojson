@@ -2,13 +2,14 @@
   "id": 403867491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.398884,35.196483,-80.398884,35.196483",
     "geom:latitude":35.196483,
     "geom:longitude":-80.398884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12495 Philadelphia Church Rd",
     "sg:city":"Stanfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403867491,
-    "wof:lastmodified":1449055212,
+    "wof:lastmodified":1466652503,
     "wof:name":"Philadelphia Baptist Church",
     "wof:parent_id":85892003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.398884,35.196483,-80.398884,35.196483],
+  "bbox": [
+    -80.398884,
+    35.196483,
+    -80.398884,
+    35.196483
+],
   "geometry": {"coordinates":[-80.398884,35.196483],"type":"Point"}
 }

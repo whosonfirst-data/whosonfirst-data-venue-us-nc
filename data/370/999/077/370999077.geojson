@@ -2,13 +2,14 @@
   "id": 370999077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.535645,35.566345,-82.535645,35.566345",
     "geom:latitude":35.566345,
     "geom:longitude":-82.535645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Fairview Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370999077,
-    "wof:lastmodified":1449032050,
+    "wof:lastmodified":1466657289,
     "wof:name":"French Broad Brewing",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "brewer"
     ]
 },
-  "bbox": [-82.535645,35.566345,-82.535645,35.566345],
+  "bbox": [
+    -82.535645,
+    35.566345,
+    -82.535645,
+    35.566345
+],
   "geometry": {"coordinates":[-82.535645,35.566345],"type":"Point"}
 }

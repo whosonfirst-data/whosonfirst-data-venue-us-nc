@@ -2,13 +2,14 @@
   "id": 303195061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.430469,35.809342,-81.430469,35.809342",
     "geom:latitude":35.809342,
     "geom:longitude":-81.430469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4076 US Hwy 321",
     "sg:city":"Granite Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303195061,
-    "wof:lastmodified":1448999726,
+    "wof:lastmodified":1466646151,
     "wof:name":"Town Of Sawmills",
     "wof:parent_id":85822593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.430469,35.809342,-81.430469,35.809342],
+  "bbox": [
+    -81.430469,
+    35.809342,
+    -81.430469,
+    35.809342
+],
   "geometry": {"coordinates":[-81.430469,35.809342],"type":"Point"}
 }

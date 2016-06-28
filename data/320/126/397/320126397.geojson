@@ -2,13 +2,14 @@
   "id": 320126397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.120778,36.225426,-77.120778,36.225426",
     "geom:latitude":36.225426,
     "geom:longitude":-77.120778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Sandpiper Sq",
     "sg:city":"Aulander",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320126397,
-    "wof:lastmodified":1449012657,
+    "wof:lastmodified":1466647077,
     "wof:name":"Sandpiper Square Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-77.120778,36.225426,-77.120778,36.225426],
+  "bbox": [
+    -77.120778,
+    36.225426,
+    -77.120778,
+    36.225426
+],
   "geometry": {"coordinates":[-77.120778,36.225426],"type":"Point"}
 }

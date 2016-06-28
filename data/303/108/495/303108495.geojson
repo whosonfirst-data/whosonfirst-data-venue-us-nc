@@ -2,13 +2,14 @@
   "id": 303108495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.62207,34.709733,-76.62207,34.709733",
     "geom:latitude":34.709733,
     "geom:longitude":-76.62207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Lewistown Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303108495,
-    "wof:lastmodified":1448998160,
+    "wof:lastmodified":1466644826,
     "wof:name":"Davis & Co",
     "wof:parent_id":85805099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-76.62207,34.709733,-76.62207,34.709733],
-  "geometry": {"coordinates":[-76.62207,34.709733],"type":"Point"}
+  "bbox": [
+    -76.62207,
+    34.709733,
+    -76.62207,
+    34.709733
+],
+  "geometry": {"coordinates":[-76.62206999999999,34.709733],"type":"Point"}
 }

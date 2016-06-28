@@ -2,13 +2,14 @@
   "id": 286672205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.638106,35.782442,-78.638106,35.782442",
     "geom:latitude":35.782442,
     "geom:longitude":-78.638106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 E Jones St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286672205,
-    "wof:lastmodified":1449015364,
+    "wof:lastmodified":1466648718,
     "wof:name":"Marc Basnight Campaign",
     "wof:parent_id":85873449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-78.638106,35.782442,-78.638106,35.782442],
-  "geometry": {"coordinates":[-78.638106,35.782442],"type":"Point"}
+  "bbox": [
+    -78.638106,
+    35.782442,
+    -78.638106,
+    35.782442
+],
+  "geometry": {"coordinates":[-78.63810599999999,35.782442],"type":"Point"}
 }

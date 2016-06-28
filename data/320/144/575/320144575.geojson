@@ -2,13 +2,14 @@
   "id": 320144575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949326,34.239705,-77.949326,34.239705",
     "geom:latitude":34.239705,
     "geom:longitude":-77.949326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N Front St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320144575,
-    "wof:lastmodified":1449013990,
+    "wof:lastmodified":1466647324,
     "wof:name":"A Zoo Train Shop",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-77.949326,34.239705,-77.949326,34.239705],
+  "bbox": [
+    -77.949326,
+    34.239705,
+    -77.949326,
+    34.239705
+],
   "geometry": {"coordinates":[-77.949326,34.239705],"type":"Point"}
 }

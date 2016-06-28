@@ -2,13 +2,14 @@
   "id": 320285523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.217727,36.044494,-80.217727,36.044494",
     "geom:latitude":36.044494,
     "geom:longitude":-80.217727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3753 Stoney Glenn Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320285523,
-    "wof:lastmodified":1449011366,
+    "wof:lastmodified":1466649283,
     "wof:name":"Winston Salem Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-80.217727,36.044494,-80.217727,36.044494],
+  "bbox": [
+    -80.217727,
+    36.044494,
+    -80.217727,
+    36.044494
+],
   "geometry": {"coordinates":[-80.217727,36.044494],"type":"Point"}
 }

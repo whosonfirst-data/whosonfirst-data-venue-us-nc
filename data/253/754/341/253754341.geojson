@@ -2,13 +2,14 @@
   "id": 253754341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.654801,35.800935,-78.654801,35.800935",
     "geom:latitude":35.800935,
     "geom:longitude":-78.654801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Pineview St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253754341,
-    "wof:lastmodified":1449064779,
+    "wof:lastmodified":1466651420,
     "wof:name":"Johnson Management Group",
     "wof:parent_id":85817545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-78.654801,35.800935,-78.654801,35.800935],
-  "geometry": {"coordinates":[-78.654801,35.800935],"type":"Point"}
+  "bbox": [
+    -78.654801,
+    35.800935,
+    -78.654801,
+    35.800935
+],
+  "geometry": {"coordinates":[-78.65480100000001,35.800935],"type":"Point"}
 }

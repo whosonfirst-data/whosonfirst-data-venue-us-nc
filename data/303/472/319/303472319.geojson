@@ -2,13 +2,14 @@
   "id": 303472319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.592864,35.801248,-78.592864,35.801248",
     "geom:latitude":35.801248,
     "geom:longitude":-78.592864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 Yonkers Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303472319,
-    "wof:lastmodified":1448998311,
+    "wof:lastmodified":1466650136,
     "wof:name":"Creative Visions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-78.592864,35.801248,-78.592864,35.801248],
-  "geometry": {"coordinates":[-78.592864,35.801248],"type":"Point"}
+  "bbox": [
+    -78.592864,
+    35.801248,
+    -78.592864,
+    35.801248
+],
+  "geometry": {"coordinates":[-78.59286400000001,35.801248],"type":"Point"}
 }

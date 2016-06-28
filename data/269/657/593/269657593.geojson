@@ -2,13 +2,14 @@
   "id": 269657593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.65676,35.842638,-78.65676,35.842638",
     "geom:latitude":35.842638,
     "geom:longitude":-78.65676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Meadow Hill Pl",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269657593,
-    "wof:lastmodified":1449036413,
+    "wof:lastmodified":1466645304,
     "wof:name":"Barbara N Parris",
     "wof:parent_id":85829417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.65676,35.842638,-78.65676,35.842638],
-  "geometry": {"coordinates":[-78.65676,35.842638],"type":"Point"}
+  "bbox": [
+    -78.65676,
+    35.842638,
+    -78.65676,
+    35.842638
+],
+  "geometry": {"coordinates":[-78.65676000000001,35.842638],"type":"Point"}
 }

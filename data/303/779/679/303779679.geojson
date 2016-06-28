@@ -2,13 +2,14 @@
   "id": 303779679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.853028,35.565154,-82.853028,35.565154",
     "geom:latitude":35.565154,
     "geom:longitude":-82.853028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Buckeye Cove Rd",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303779679,
-    "wof:lastmodified":1448998495,
+    "wof:lastmodified":1466654567,
     "wof:name":"Buckeye Construction Co",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-82.853028,35.565154,-82.853028,35.565154],
-  "geometry": {"coordinates":[-82.853028,35.565154],"type":"Point"}
+  "bbox": [
+    -82.853028,
+    35.565154,
+    -82.853028,
+    35.565154
+],
+  "geometry": {"coordinates":[-82.85302799999999,35.565154],"type":"Point"}
 }

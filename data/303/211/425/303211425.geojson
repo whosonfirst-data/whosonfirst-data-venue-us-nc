@@ -2,13 +2,14 @@
   "id": 303211425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.968206,36.407643,-79.968206,36.407643",
     "geom:latitude":36.407643,
     "geom:longitude":-79.968206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S 2nd Ave",
     "sg:city":"Mayodan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303211425,
-    "wof:lastmodified":1448998714,
+    "wof:lastmodified":1466646384,
     "wof:name":"First Bank",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.968206,36.407643,-79.968206,36.407643],
+  "bbox": [
+    -79.968206,
+    36.407643,
+    -79.968206,
+    36.407643
+],
   "geometry": {"coordinates":[-79.968206,36.407643],"type":"Point"}
 }

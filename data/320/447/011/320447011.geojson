@@ -2,13 +2,14 @@
   "id": 320447011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.612013,36.353716,-79.612013,36.353716",
     "geom:latitude":36.353716,
     "geom:longitude":-79.612013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Brooks Rd",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320447011,
-    "wof:lastmodified":1449013891,
+    "wof:lastmodified":1466651604,
     "wof:name":"Veterans of Foreign Wars",
     "wof:parent_id":85858481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.612013,36.353716,-79.612013,36.353716],
+  "bbox": [
+    -79.612013,
+    36.353716,
+    -79.612013,
+    36.353716
+],
   "geometry": {"coordinates":[-79.612013,36.353716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354241461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.177028,35.721348,-79.177028,35.721348",
     "geom:latitude":35.721348,
     "geom:longitude":-79.177028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Hillsboro St",
     "sg:city":"Pittsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354241461,
-    "wof:lastmodified":1449067642,
+    "wof:lastmodified":1466650338,
     "wof:name":"United Way Of Chatham County",
     "wof:parent_id":85892045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-79.177028,35.721348,-79.177028,35.721348],
-  "geometry": {"coordinates":[-79.177028,35.721348],"type":"Point"}
+  "bbox": [
+    -79.177028,
+    35.721348,
+    -79.177028,
+    35.721348
+],
+  "geometry": {"coordinates":[-79.17702800000001,35.721348],"type":"Point"}
 }

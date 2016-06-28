@@ -2,13 +2,14 @@
   "id": 269888657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.315545,36.066121,-80.315545,36.066121",
     "geom:latitude":36.066121,
     "geom:longitude":-80.315545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1074 Hanes Mall Blvd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269888657,
-    "wof:lastmodified":1449037640,
+    "wof:lastmodified":1466647964,
     "wof:name":"Shoe Carnival",
     "wof:parent_id":85881845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.315545,36.066121,-80.315545,36.066121],
+  "bbox": [
+    -80.315545,
+    36.066121,
+    -80.315545,
+    36.066121
+],
   "geometry": {"coordinates":[-80.315545,36.066121],"type":"Point"}
 }

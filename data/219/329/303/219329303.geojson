@@ -2,13 +2,14 @@
   "id": 219329303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.489832,35.921398,-78.489832,35.921398",
     "geom:latitude":35.921398,
     "geom:longitude":-78.489832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4904 Huntingcreek Dr",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219329303,
-    "wof:lastmodified":1449071383,
+    "wof:lastmodified":1466643533,
     "wof:name":"Light Touch Imagery",
     "wof:parent_id":85892165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-78.489832,35.921398,-78.489832,35.921398],
-  "geometry": {"coordinates":[-78.489832,35.921398],"type":"Point"}
+  "bbox": [
+    -78.489832,
+    35.921398,
+    -78.489832,
+    35.921398
+],
+  "geometry": {"coordinates":[-78.48983200000001,35.921398],"type":"Point"}
 }

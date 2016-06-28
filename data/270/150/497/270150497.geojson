@@ -2,13 +2,14 @@
   "id": 270150497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.693391,35.815636,-78.693391,35.815636",
     "geom:latitude":35.815636,
     "geom:longitude":-78.693391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 Myron Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270150497,
-    "wof:lastmodified":1449008697,
+    "wof:lastmodified":1466644977,
     "wof:name":"Easter Seals",
     "wof:parent_id":85892087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-78.693391,35.815636,-78.693391,35.815636],
-  "geometry": {"coordinates":[-78.693391,35.815636],"type":"Point"}
+  "bbox": [
+    -78.693391,
+    35.815636,
+    -78.693391,
+    35.815636
+],
+  "geometry": {"coordinates":[-78.69339100000001,35.815636],"type":"Point"}
 }

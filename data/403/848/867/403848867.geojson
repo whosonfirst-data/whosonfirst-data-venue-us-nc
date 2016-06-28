@@ -2,13 +2,14 @@
   "id": 403848867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.809319,35.220195,-80.809319,35.220195",
     "geom:latitude":35.220195,
     "geom:longitude":-80.809319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Central Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403848867,
-    "wof:lastmodified":1449054811,
+    "wof:lastmodified":1466652259,
     "wof:name":"T A P S",
     "wof:parent_id":85891859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-80.809319,35.220195,-80.809319,35.220195],
+  "bbox": [
+    -80.809319,
+    35.220195,
+    -80.809319,
+    35.220195
+],
   "geometry": {"coordinates":[-80.809319,35.220195],"type":"Point"}
 }

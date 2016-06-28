@@ -2,13 +2,14 @@
   "id": 286604473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.282603,35.734643,-78.282603,35.734643",
     "geom:latitude":35.734643,
     "geom:longitude":-78.282603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4811 State Hwy 231",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286604473,
-    "wof:lastmodified":1449017757,
+    "wof:lastmodified":1466647793,
     "wof:name":"Corbetts Nursery",
     "wof:parent_id":85854199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gathering"
     ]
 },
-  "bbox": [-78.282603,35.734643,-78.282603,35.734643],
-  "geometry": {"coordinates":[-78.282603,35.734643],"type":"Point"}
+  "bbox": [
+    -78.282603,
+    35.734643,
+    -78.282603,
+    35.734643
+],
+  "geometry": {"coordinates":[-78.28260299999999,35.734643],"type":"Point"}
 }

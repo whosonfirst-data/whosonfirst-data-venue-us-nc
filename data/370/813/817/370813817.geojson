@@ -2,13 +2,14 @@
   "id": 370813817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.333643,35.665552,-80.333643,35.665552",
     "geom:latitude":35.665552,
     "geom:longitude":-80.333643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Wood Duck Run",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370813817,
-    "wof:lastmodified":1449029971,
+    "wof:lastmodified":1466656272,
     "wof:name":"Piedmont Construction",
     "wof:parent_id":85836893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-80.333643,35.665552,-80.333643,35.665552],
+  "bbox": [
+    -80.333643,
+    35.665552,
+    -80.333643,
+    35.665552
+],
   "geometry": {"coordinates":[-80.333643,35.665552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303243071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.28347,35.535693,-78.28347,35.535693",
     "geom:latitude":35.535693,
     "geom:longitude":-78.28347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Anderson St",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303243071,
-    "wof:lastmodified":1448998910,
+    "wof:lastmodified":1466646849,
     "wof:name":"Selma City Courtroom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-78.28347,35.535693,-78.28347,35.535693],
-  "geometry": {"coordinates":[-78.28347,35.535693],"type":"Point"}
+  "bbox": [
+    -78.28347,
+    35.535693,
+    -78.28347,
+    35.535693
+],
+  "geometry": {"coordinates":[-78.28346999999999,35.535693],"type":"Point"}
 }

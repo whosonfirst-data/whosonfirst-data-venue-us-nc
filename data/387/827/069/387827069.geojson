@@ -2,13 +2,14 @@
   "id": 387827069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.97334,36.422603,-79.97334,36.422603",
     "geom:latitude":36.422603,
     "geom:longitude":-79.97334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Wilkins St",
     "sg:city":"Mayodan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387827069,
-    "wof:lastmodified":1449057462,
+    "wof:lastmodified":1466657826,
     "wof:name":"Disabled American Veteran",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.97334,36.422603,-79.97334,36.422603],
-  "geometry": {"coordinates":[-79.97334,36.422603],"type":"Point"}
+  "bbox": [
+    -79.97334,
+    36.422603,
+    -79.97334,
+    36.422603
+],
+  "geometry": {"coordinates":[-79.97333999999999,36.422603],"type":"Point"}
 }

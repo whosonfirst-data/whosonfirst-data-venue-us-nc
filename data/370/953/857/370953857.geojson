@@ -2,13 +2,14 @@
   "id": 370953857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.924973,36.227347,-80.924973,36.227347",
     "geom:latitude":36.227347,
     "geom:longitude":-80.924973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13315 Elkin Hwy",
     "sg:city":"Ronda",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370953857,
-    "wof:lastmodified":1449031412,
+    "wof:lastmodified":1466657156,
     "wof:name":"East Wilkes High School",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.924973,36.227347,-80.924973,36.227347],
-  "geometry": {"coordinates":[-80.924973,36.227347],"type":"Point"}
+  "bbox": [
+    -80.924973,
+    36.227347,
+    -80.924973,
+    36.227347
+],
+  "geometry": {"coordinates":[-80.92497299999999,36.227347],"type":"Point"}
 }

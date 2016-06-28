@@ -2,13 +2,14 @@
   "id": 387903881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.386687,36.000349,-80.386687,36.000349",
     "geom:latitude":36.000349,
     "geom:longitude":-80.386687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7053 Whitby Ave",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387903881,
-    "wof:lastmodified":1449056339,
+    "wof:lastmodified":1466658079,
     "wof:name":"F L Osborne & Associates",
     "wof:parent_id":85811307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "removal"
     ]
 },
-  "bbox": [-80.386687,36.000349,-80.386687,36.000349],
-  "geometry": {"coordinates":[-80.386687,36.000349],"type":"Point"}
+  "bbox": [
+    -80.386687,
+    36.000349,
+    -80.386687,
+    36.000349
+],
+  "geometry": {"coordinates":[-80.38668699999999,36.000349],"type":"Point"}
 }

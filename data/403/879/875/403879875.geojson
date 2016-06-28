@@ -2,13 +2,14 @@
   "id": 403879875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.608353,35.603949,-82.608353,35.603949",
     "geom:latitude":35.603949,
     "geom:longitude":-82.608353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Ben Lippen Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403879875,
-    "wof:lastmodified":1449054644,
+    "wof:lastmodified":1466652655,
     "wof:name":"Pressure Washing",
     "wof:parent_id":85808963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-82.608353,35.603949,-82.608353,35.603949],
-  "geometry": {"coordinates":[-82.608353,35.603949],"type":"Point"}
+  "bbox": [
+    -82.608353,
+    35.603949,
+    -82.608353,
+    35.603949
+],
+  "geometry": {"coordinates":[-82.60835299999999,35.603949],"type":"Point"}
 }

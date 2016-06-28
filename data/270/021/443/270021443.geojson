@@ -2,13 +2,14 @@
   "id": 270021443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.838104,35.532382,-82.838104,35.532382",
     "geom:latitude":35.532382,
     "geom:longitude":-82.838104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Main St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270021443,
-    "wof:lastmodified":1449010199,
+    "wof:lastmodified":1466643447,
     "wof:name":"El Chapala",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.838104,35.532382,-82.838104,35.532382],
+  "bbox": [
+    -82.838104,
+    35.532382,
+    -82.838104,
+    35.532382
+],
   "geometry": {"coordinates":[-82.838104,35.532382],"type":"Point"}
 }

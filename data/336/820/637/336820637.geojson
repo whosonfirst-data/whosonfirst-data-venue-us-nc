@@ -2,13 +2,14 @@
   "id": 336820637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943068,35.910699,-78.943068,35.910699",
     "geom:latitude":35.910699,
     "geom:longitude":-78.943068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5318 Highgate Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336820637,
-    "wof:lastmodified":1448997510,
+    "wof:lastmodified":1466649194,
     "wof:name":"Trio",
     "wof:parent_id":85858607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-78.943068,35.910699,-78.943068,35.910699],
+  "bbox": [
+    -78.943068,
+    35.910699,
+    -78.943068,
+    35.910699
+],
   "geometry": {"coordinates":[-78.943068,35.910699],"type":"Point"}
 }

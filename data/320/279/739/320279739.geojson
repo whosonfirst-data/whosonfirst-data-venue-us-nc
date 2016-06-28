@@ -2,13 +2,14 @@
   "id": 320279739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.546309,35.810208,-78.546309,35.810208",
     "geom:latitude":35.810208,
     "geom:longitude":-78.546309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 Spanish Bay Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320279739,
-    "wof:lastmodified":1449012968,
+    "wof:lastmodified":1466649201,
     "wof:name":"Ernie Behrle Co",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.546309,35.810208,-78.546309,35.810208],
-  "geometry": {"coordinates":[-78.546309,35.810208],"type":"Point"}
+  "bbox": [
+    -78.546309,
+    35.810208,
+    -78.546309,
+    35.810208
+],
+  "geometry": {"coordinates":[-78.54630899999999,35.810208],"type":"Point"}
 }

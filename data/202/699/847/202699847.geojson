@@ -2,13 +2,14 @@
   "id": 202699847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.839114,34.235379,-77.839114,34.235379",
     "geom:latitude":34.235379,
     "geom:longitude":-77.839114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 Bayside Cir E",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202699847,
-    "wof:lastmodified":1449060454,
+    "wof:lastmodified":1466643432,
     "wof:name":"Advertising Management/Consult",
     "wof:parent_id":85809845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-77.839114,34.235379,-77.839114,34.235379],
+  "bbox": [
+    -77.839114,
+    34.235379,
+    -77.839114,
+    34.235379
+],
   "geometry": {"coordinates":[-77.839114,34.235379],"type":"Point"}
 }

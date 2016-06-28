@@ -2,13 +2,14 @@
   "id": 320466837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.75186,35.891974,-78.75186,35.891974",
     "geom:latitude":35.891974,
     "geom:longitude":-78.75186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8901 Glenwood Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320466837,
-    "wof:lastmodified":1449012373,
+    "wof:lastmodified":1466651879,
     "wof:name":"Emission Monitoring Inc",
     "wof:parent_id":85892075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "training"
     ]
 },
-  "bbox": [-78.75186,35.891974,-78.75186,35.891974],
-  "geometry": {"coordinates":[-78.75186,35.891974],"type":"Point"}
+  "bbox": [
+    -78.75186,
+    35.891974,
+    -78.75186,
+    35.891974
+],
+  "geometry": {"coordinates":[-78.75185999999999,35.891974],"type":"Point"}
 }

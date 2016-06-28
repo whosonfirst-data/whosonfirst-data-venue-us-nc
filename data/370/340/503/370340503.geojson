@@ -2,13 +2,14 @@
   "id": 370340503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.356599,36.271289,-80.356599,36.271289",
     "geom:latitude":36.271289,
     "geom:longitude":-80.356599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Kirby Rd",
     "sg:city":"King",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370340503,
-    "wof:lastmodified":1449031714,
+    "wof:lastmodified":1466650519,
     "wof:name":"CFM Body Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-80.356599,36.271289,-80.356599,36.271289],
+  "bbox": [
+    -80.356599,
+    36.271289,
+    -80.356599,
+    36.271289
+],
   "geometry": {"coordinates":[-80.356599,36.271289],"type":"Point"}
 }

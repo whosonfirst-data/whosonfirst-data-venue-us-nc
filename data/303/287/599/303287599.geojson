@@ -2,13 +2,14 @@
   "id": 303287599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.054972,35.979384,-81.054972,35.979384",
     "geom:latitude":35.979384,
     "geom:longitude":-81.054972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8500 Cheatham Ford Rd",
     "sg:city":"Hiddenite",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303287599,
-    "wof:lastmodified":1448998267,
+    "wof:lastmodified":1466647501,
     "wof:name":"Paul Meadows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.054972,35.979384,-81.054972,35.979384],
-  "geometry": {"coordinates":[-81.054972,35.979384],"type":"Point"}
+  "bbox": [
+    -81.054972,
+    35.979384,
+    -81.054972,
+    35.979384
+],
+  "geometry": {"coordinates":[-81.05497200000001,35.979384],"type":"Point"}
 }

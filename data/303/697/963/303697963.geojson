@@ -2,13 +2,14 @@
   "id": 303697963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.097324,36.074467,-79.097324,36.074467",
     "geom:latitude":36.074467,
     "geom:longitude":-79.097324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 E Margaret Ln",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303697963,
-    "wof:lastmodified":1448999658,
+    "wof:lastmodified":1466653388,
     "wof:name":"Orange County Crime Stoppers",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "crime"
     ]
 },
-  "bbox": [-79.097324,36.074467,-79.097324,36.074467],
+  "bbox": [
+    -79.097324,
+    36.074467,
+    -79.097324,
+    36.074467
+],
   "geometry": {"coordinates":[-79.097324,36.074467],"type":"Point"}
 }

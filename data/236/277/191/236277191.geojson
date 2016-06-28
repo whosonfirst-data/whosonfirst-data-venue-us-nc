@@ -2,13 +2,14 @@
   "id": 236277191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949278,34.239117,-77.949278,34.239117",
     "geom:latitude":34.239117,
     "geom:longitude":-77.949278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"371 N Front St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236277191,
-    "wof:lastmodified":1449001960,
+    "wof:lastmodified":1466645702,
     "wof:name":"Harbour Associates Real Estate",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-77.949278,34.239117,-77.949278,34.239117],
-  "geometry": {"coordinates":[-77.949278,34.239117],"type":"Point"}
+  "bbox": [
+    -77.949278,
+    34.239117,
+    -77.949278,
+    34.239117
+],
+  "geometry": {"coordinates":[-77.94927800000001,34.239117],"type":"Point"}
 }

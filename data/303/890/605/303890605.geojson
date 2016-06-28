@@ -2,13 +2,14 @@
   "id": 303890605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.693545,35.124109,-80.693545,35.124109",
     "geom:latitude":35.124109,
     "geom:longitude":-80.693545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3029 Senna Dr",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303890605,
-    "wof:lastmodified":1448998649,
+    "wof:lastmodified":1466656110,
     "wof:name":"Therastat Data Corp",
     "wof:parent_id":85858513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "software"
     ]
 },
-  "bbox": [-80.693545,35.124109,-80.693545,35.124109],
+  "bbox": [
+    -80.693545,
+    35.124109,
+    -80.693545,
+    35.124109
+],
   "geometry": {"coordinates":[-80.693545,35.124109],"type":"Point"}
 }

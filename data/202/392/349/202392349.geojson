@@ -2,13 +2,14 @@
   "id": 202392349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.905521,36.222732,-79.905521,36.222732",
     "geom:latitude":36.222732,
     "geom:longitude":-79.905521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7965 Winfree Rd",
     "sg:city":"Summerfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202392349,
-    "wof:lastmodified":1449062157,
+    "wof:lastmodified":1466654150,
     "wof:name":"Summerfield Grading",
     "wof:parent_id":85877983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.905521,36.222732,-79.905521,36.222732],
-  "geometry": {"coordinates":[-79.905521,36.222732],"type":"Point"}
+  "bbox": [
+    -79.905521,
+    36.222732,
+    -79.905521,
+    36.222732
+],
+  "geometry": {"coordinates":[-79.90552099999999,36.222732],"type":"Point"}
 }

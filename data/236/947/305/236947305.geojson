@@ -2,13 +2,14 @@
   "id": 236947305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.59793,35.45258,-80.59793,35.45258",
     "geom:latitude":35.45258,
     "geom:longitude":-80.59793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Executive Park Dr NE",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236947305,
-    "wof:lastmodified":1449004149,
+    "wof:lastmodified":1466651716,
     "wof:name":"Turn 2 Collision Fleet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-80.59793,35.45258,-80.59793,35.45258],
-  "geometry": {"coordinates":[-80.59793,35.45258],"type":"Point"}
+  "bbox": [
+    -80.59793,
+    35.45258,
+    -80.59793,
+    35.45258
+],
+  "geometry": {"coordinates":[-80.59793000000001,35.45258],"type":"Point"}
 }

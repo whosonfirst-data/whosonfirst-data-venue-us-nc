@@ -2,13 +2,14 @@
   "id": 387915537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.394771,35.599242,-77.394771,35.599242",
     "geom:latitude":35.599242,
     "geom:longitude":-77.394771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2208 S Memorial Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387915537,
-    "wof:lastmodified":1449059880,
+    "wof:lastmodified":1466658084,
     "wof:name":"Memorial Coins & Pawn",
     "wof:parent_id":85853845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-77.394771,35.599242,-77.394771,35.599242],
-  "geometry": {"coordinates":[-77.394771,35.599242],"type":"Point"}
+  "bbox": [
+    -77.394771,
+    35.599242,
+    -77.394771,
+    35.599242
+],
+  "geometry": {"coordinates":[-77.39477100000001,35.599242],"type":"Point"}
 }

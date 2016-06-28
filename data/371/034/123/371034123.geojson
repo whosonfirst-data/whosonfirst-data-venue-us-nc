@@ -2,13 +2,14 @@
   "id": 371034123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.753972,35.377005,-80.753972,35.377005",
     "geom:latitude":35.377005,
     "geom:longitude":-80.753972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6103 Swanston Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371034123,
-    "wof:lastmodified":1449049140,
+    "wof:lastmodified":1466649262,
     "wof:name":"L K Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.753972,35.377005,-80.753972,35.377005],
+  "bbox": [
+    -80.753972,
+    35.377005,
+    -80.753972,
+    35.377005
+],
   "geometry": {"coordinates":[-80.753972,35.377005],"type":"Point"}
 }

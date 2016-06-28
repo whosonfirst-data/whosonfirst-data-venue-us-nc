@@ -2,13 +2,14 @@
   "id": 387135697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.301943,36.052751,-80.301943,36.052751",
     "geom:latitude":36.052751,
     "geom:longitude":-80.301943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2697 Weymoth Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387135697,
-    "wof:lastmodified":1449057566,
+    "wof:lastmodified":1466651614,
     "wof:name":"Iconics Inc",
     "wof:parent_id":85803907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.301943,36.052751,-80.301943,36.052751],
-  "geometry": {"coordinates":[-80.301943,36.052751],"type":"Point"}
+  "bbox": [
+    -80.301943,
+    36.052751,
+    -80.301943,
+    36.052751
+],
+  "geometry": {"coordinates":[-80.30194299999999,36.052751],"type":"Point"}
 }

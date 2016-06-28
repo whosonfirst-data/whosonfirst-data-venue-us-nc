@@ -2,13 +2,14 @@
   "id": 269857905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.890161,34.24325,-77.890161,34.24325",
     "geom:latitude":34.24325,
     "geom:longitude":-77.890161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 N Kerr Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269857905,
-    "wof:lastmodified":1449037678,
+    "wof:lastmodified":1466647596,
     "wof:name":"Surf 98.3",
     "wof:parent_id":85818553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-77.890161,34.24325,-77.890161,34.24325],
-  "geometry": {"coordinates":[-77.890161,34.24325],"type":"Point"}
+  "bbox": [
+    -77.890161,
+    34.24325,
+    -77.890161,
+    34.24325
+],
+  "geometry": {"coordinates":[-77.89016100000001,34.24325],"type":"Point"}
 }

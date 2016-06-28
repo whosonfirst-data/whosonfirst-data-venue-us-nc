@@ -2,13 +2,14 @@
   "id": 320020469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.976042,35.533793,-80.976042,35.533793",
     "geom:latitude":35.533793,
     "geom:longitude":-80.976042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Mariner Ln",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320020469,
-    "wof:lastmodified":1449013001,
+    "wof:lastmodified":1466645637,
     "wof:name":"Compusure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "house"
     ]
 },
-  "bbox": [-80.976042,35.533793,-80.976042,35.533793],
-  "geometry": {"coordinates":[-80.976042,35.533793],"type":"Point"}
+  "bbox": [
+    -80.976042,
+    35.533793,
+    -80.976042,
+    35.533793
+],
+  "geometry": {"coordinates":[-80.97604200000001,35.533793],"type":"Point"}
 }

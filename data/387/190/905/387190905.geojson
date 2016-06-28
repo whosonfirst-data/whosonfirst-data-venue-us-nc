@@ -2,13 +2,14 @@
   "id": 387190905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.55433,34.997799,-80.55433,34.997799",
     "geom:latitude":34.997799,
     "geom:longitude":-80.55433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Concord Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387190905,
-    "wof:lastmodified":1449059677,
+    "wof:lastmodified":1466652375,
     "wof:name":"Low Price Grocery",
     "wof:parent_id":85879029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.55433,34.997799,-80.55433,34.997799],
-  "geometry": {"coordinates":[-80.55433,34.997799],"type":"Point"}
+  "bbox": [
+    -80.55433,
+    34.997799,
+    -80.55433,
+    34.997799
+],
+  "geometry": {"coordinates":[-80.55432999999999,34.997799],"type":"Point"}
 }

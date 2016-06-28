@@ -2,13 +2,14 @@
   "id": 220183583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.962443,36.042682,-78.962443,36.042682",
     "geom:latitude":36.042682,
     "geom:longitude":-78.962443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Cole Mill Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220183583,
-    "wof:lastmodified":1449074478,
+    "wof:lastmodified":1466644666,
     "wof:name":"Durham Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-78.962443,36.042682,-78.962443,36.042682],
-  "geometry": {"coordinates":[-78.962443,36.042682],"type":"Point"}
+  "bbox": [
+    -78.962443,
+    36.042682,
+    -78.962443,
+    36.042682
+],
+  "geometry": {"coordinates":[-78.96244299999999,36.042682],"type":"Point"}
 }

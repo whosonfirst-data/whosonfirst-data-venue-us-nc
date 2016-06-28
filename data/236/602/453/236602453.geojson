@@ -2,13 +2,14 @@
   "id": 236602453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.42897,35.988259,-79.42897,35.988259",
     "geom:latitude":35.988259,
     "geom:longitude":-79.42897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Norris Ln",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236602453,
-    "wof:lastmodified":1449003153,
+    "wof:lastmodified":1466648547,
     "wof:name":"Norris Plumbing Co",
     "wof:parent_id":85843335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.42897,35.988259,-79.42897,35.988259],
-  "geometry": {"coordinates":[-79.42897,35.988259],"type":"Point"}
+  "bbox": [
+    -79.42897,
+    35.988259,
+    -79.42897,
+    35.988259
+],
+  "geometry": {"coordinates":[-79.42897000000001,35.988259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236254919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.700854,35.700348,-78.700854,35.700348",
     "geom:latitude":35.700348,
     "geom:longitude":-78.700854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5209 Birchleaf Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236254919,
-    "wof:lastmodified":1449004011,
+    "wof:lastmodified":1466645501,
     "wof:name":"Stage Magic",
     "wof:parent_id":85892089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "for"
     ]
 },
-  "bbox": [-78.700854,35.700348,-78.700854,35.700348],
-  "geometry": {"coordinates":[-78.700854,35.700348],"type":"Point"}
+  "bbox": [
+    -78.700854,
+    35.700348,
+    -78.700854,
+    35.700348
+],
+  "geometry": {"coordinates":[-78.70085400000001,35.700348],"type":"Point"}
 }

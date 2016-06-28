@@ -2,13 +2,14 @@
   "id": 320792561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.706641,34.754021,-78.706641,34.754021",
     "geom:latitude":34.754021,
     "geom:longitude":-78.706641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10384 State Hwy 53 W",
     "sg:city":"White Oak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320792561,
-    "wof:lastmodified":1449012057,
+    "wof:lastmodified":1466656286,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.706641,34.754021,-78.706641,34.754021],
+  "bbox": [
+    -78.706641,
+    34.754021,
+    -78.706641,
+    34.754021
+],
   "geometry": {"coordinates":[-78.706641,34.754021],"type":"Point"}
 }

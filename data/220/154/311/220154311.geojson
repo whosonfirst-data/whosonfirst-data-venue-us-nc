@@ -2,13 +2,14 @@
   "id": 220154311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.350951,35.73185,-81.350951,35.73185",
     "geom:latitude":35.73185,
     "geom:longitude":-81.350951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Main Ave SW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220154311,
-    "wof:lastmodified":1449074888,
+    "wof:lastmodified":1466644428,
     "wof:name":"A R Mc Kay Processing Machiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-81.350951,35.73185,-81.350951,35.73185],
-  "geometry": {"coordinates":[-81.350951,35.73185],"type":"Point"}
+  "bbox": [
+    -81.350951,
+    35.73185,
+    -81.350951,
+    35.73185
+],
+  "geometry": {"coordinates":[-81.35095099999999,35.73185],"type":"Point"}
 }

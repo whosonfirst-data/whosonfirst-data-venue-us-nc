@@ -2,13 +2,14 @@
   "id": 202611127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950521,36.09157,-79.950521,36.09157",
     "geom:latitude":36.09157,
     "geom:longitude":-79.950521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 Airline Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202611127,
-    "wof:lastmodified":1449062123,
+    "wof:lastmodified":1466655555,
     "wof:name":"Comair Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.950521,36.09157,-79.950521,36.09157],
-  "geometry": {"coordinates":[-79.950521,36.09157],"type":"Point"}
+  "bbox": [
+    -79.950521,
+    36.09157,
+    -79.950521,
+    36.09157
+],
+  "geometry": {"coordinates":[-79.95052099999999,36.09157],"type":"Point"}
 }

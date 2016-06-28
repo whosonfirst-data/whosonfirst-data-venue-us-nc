@@ -2,13 +2,14 @@
   "id": 336845585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.431272,34.750254,-77.431272,34.750254",
     "geom:latitude":34.750254,
     "geom:longitude":-77.431272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Court St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336845585,
-    "wof:lastmodified":1448997119,
+    "wof:lastmodified":1466649581,
     "wof:name":"Finance Office",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "policy"
     ]
 },
-  "bbox": [-77.431272,34.750254,-77.431272,34.750254],
-  "geometry": {"coordinates":[-77.431272,34.750254],"type":"Point"}
+  "bbox": [
+    -77.431272,
+    34.750254,
+    -77.431272,
+    34.750254
+],
+  "geometry": {"coordinates":[-77.43127200000001,34.750254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253107841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.05523,35.854818,-77.05523,35.854818",
     "geom:latitude":35.854818,
     "geom:longitude":-77.05523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Main St",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253107841,
-    "wof:lastmodified":1449062834,
+    "wof:lastmodified":1466644125,
     "wof:name":"Mitchell's Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-77.05523,35.854818,-77.05523,35.854818],
-  "geometry": {"coordinates":[-77.05523,35.854818],"type":"Point"}
+  "bbox": [
+    -77.05523,
+    35.854818,
+    -77.05523,
+    35.854818
+],
+  "geometry": {"coordinates":[-77.05522999999999,35.854818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202706085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.659534,35.753761,-81.659534,35.753761",
     "geom:latitude":35.753761,
     "geom:longitude":-81.659534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 E Union St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202706085,
-    "wof:lastmodified":1449060290,
+    "wof:lastmodified":1466643478,
     "wof:name":"Hamlet Associates",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.659534,35.753761,-81.659534,35.753761],
-  "geometry": {"coordinates":[-81.659534,35.753761],"type":"Point"}
+  "bbox": [
+    -81.659534,
+    35.753761,
+    -81.659534,
+    35.753761
+],
+  "geometry": {"coordinates":[-81.65953399999999,35.753761],"type":"Point"}
 }

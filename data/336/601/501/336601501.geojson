@@ -2,13 +2,14 @@
   "id": 336601501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.818465,35.189476,-80.818465,35.189476",
     "geom:latitude":35.189476,
     "geom:longitude":-80.818465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1422 Twiford Pl",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336601501,
-    "wof:lastmodified":1448997432,
+    "wof:lastmodified":1466645849,
     "wof:name":"Marian Fort",
     "wof:parent_id":85817091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-80.818465,35.189476,-80.818465,35.189476],
+  "bbox": [
+    -80.818465,
+    35.189476,
+    -80.818465,
+    35.189476
+],
   "geometry": {"coordinates":[-80.818465,35.189476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336861947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.647078,35.788419,-78.647078,35.788419",
     "geom:latitude":35.788419,
     "geom:longitude":-78.647078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Glenwood Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336861947,
-    "wof:lastmodified":1448997999,
+    "wof:lastmodified":1466649839,
     "wof:name":"Harry's Guitar Shop",
     "wof:parent_id":85892063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-78.647078,35.788419,-78.647078,35.788419],
-  "geometry": {"coordinates":[-78.647078,35.788419],"type":"Point"}
+  "bbox": [
+    -78.647078,
+    35.788419,
+    -78.647078,
+    35.788419
+],
+  "geometry": {"coordinates":[-78.64707799999999,35.788419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253263413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.332107,35.599387,-77.332107,35.599387",
     "geom:latitude":35.599387,
     "geom:longitude":-77.332107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3195 E 10th St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253263413,
-    "wof:lastmodified":1449065709,
+    "wof:lastmodified":1466645674,
     "wof:name":"Half Price Cleaners",
     "wof:parent_id":85817161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-77.332107,35.599387,-77.332107,35.599387],
-  "geometry": {"coordinates":[-77.332107,35.599387],"type":"Point"}
+  "bbox": [
+    -77.332107,
+    35.599387,
+    -77.332107,
+    35.599387
+],
+  "geometry": {"coordinates":[-77.33210699999999,35.599387],"type":"Point"}
 }

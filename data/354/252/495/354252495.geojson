@@ -2,13 +2,14 @@
   "id": 354252495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.045448,36.355048,-79.045448,36.355048",
     "geom:latitude":36.355048,
     "geom:longitude":-79.045448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Thee Hester Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354252495,
-    "wof:lastmodified":1449066159,
+    "wof:lastmodified":1466650458,
     "wof:name":"Waste Not Inc",
     "wof:parent_id":85823157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financing"
     ]
 },
-  "bbox": [-79.045448,36.355048,-79.045448,36.355048],
-  "geometry": {"coordinates":[-79.045448,36.355048],"type":"Point"}
+  "bbox": [
+    -79.045448,
+    36.355048,
+    -79.045448,
+    36.355048
+],
+  "geometry": {"coordinates":[-79.04544799999999,36.355048],"type":"Point"}
 }

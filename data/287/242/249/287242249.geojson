@@ -2,13 +2,14 @@
   "id": 287242249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.931396,35.761571,-77.931396,35.761571",
     "geom:latitude":35.761571,
     "geom:longitude":-77.931396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2811 Fieldstream Dr",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287242249,
-    "wof:lastmodified":1449001470,
+    "wof:lastmodified":1466646686,
     "wof:name":"Wilson Memorial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-77.931396,35.761571,-77.931396,35.761571],
-  "geometry": {"coordinates":[-77.931396,35.761571],"type":"Point"}
+  "bbox": [
+    -77.931396,
+    35.761571,
+    -77.931396,
+    35.761571
+],
+  "geometry": {"coordinates":[-77.93139600000001,35.761571],"type":"Point"}
 }

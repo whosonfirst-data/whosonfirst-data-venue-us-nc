@@ -2,13 +2,14 @@
   "id": 320319521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.501004,35.532534,-80.501004,35.532534",
     "geom:latitude":35.532534,
     "geom:longitude":-80.501004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1137 Phaniel Church Rd",
     "sg:city":"Rockwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320319521,
-    "wof:lastmodified":1449012796,
+    "wof:lastmodified":1466649757,
     "wof:name":"Hoppy's Truck World",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-80.501004,35.532534,-80.501004,35.532534],
-  "geometry": {"coordinates":[-80.501004,35.532534],"type":"Point"}
+  "bbox": [
+    -80.501004,
+    35.532534,
+    -80.501004,
+    35.532534
+],
+  "geometry": {"coordinates":[-80.50100399999999,35.532534],"type":"Point"}
 }

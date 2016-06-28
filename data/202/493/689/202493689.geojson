@@ -2,13 +2,14 @@
   "id": 202493689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.645046,36.500053,-77.645046,36.500053",
     "geom:latitude":36.500053,
     "geom:longitude":-77.645046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Roanoke Rapids Rd",
     "sg:city":"Gaston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202493689,
-    "wof:lastmodified":1449060914,
+    "wof:lastmodified":1466654917,
     "wof:name":"Nunnally Small Engine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-77.645046,36.500053,-77.645046,36.500053],
-  "geometry": {"coordinates":[-77.645046,36.500053],"type":"Point"}
+  "bbox": [
+    -77.645046,
+    36.500053,
+    -77.645046,
+    36.500053
+],
+  "geometry": {"coordinates":[-77.64504599999999,36.500053],"type":"Point"}
 }

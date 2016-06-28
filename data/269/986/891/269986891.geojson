@@ -2,13 +2,14 @@
   "id": 269986891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.829254,35.542265,-82.829254,35.542265",
     "geom:latitude":35.542265,
     "geom:longitude":-82.829254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Walnut St",
     "sg:city":"Sylva",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269986891,
-    "wof:lastmodified":1449038376,
+    "wof:lastmodified":1466649170,
     "wof:name":"US Post Office",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.829254,35.542265,-82.829254,35.542265],
-  "geometry": {"coordinates":[-82.829254,35.542265],"type":"Point"}
+  "bbox": [
+    -82.829254,
+    35.542265,
+    -82.829254,
+    35.542265
+],
+  "geometry": {"coordinates":[-82.82925400000001,35.542265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336679927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.61486,35.706757,-78.61486,35.706757",
     "geom:latitude":35.706757,
     "geom:longitude":-78.61486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 US Hwy 70 W",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336679927,
-    "wof:lastmodified":1448997624,
+    "wof:lastmodified":1466647071,
     "wof:name":"First Integrity Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.61486,35.706757,-78.61486,35.706757],
-  "geometry": {"coordinates":[-78.61486,35.706757],"type":"Point"}
+  "bbox": [
+    -78.61486,
+    35.706757,
+    -78.61486,
+    35.706757
+],
+  "geometry": {"coordinates":[-78.61485999999999,35.706757],"type":"Point"}
 }

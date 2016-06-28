@@ -2,13 +2,14 @@
   "id": 236051873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.386389,34.746365,-77.386389,34.746365",
     "geom:latitude":34.746365,
     "geom:longitude":-77.386389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Maypatch Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236051873,
-    "wof:lastmodified":1449003732,
+    "wof:lastmodified":1466643691,
     "wof:name":"Tarheel Taxi",
     "wof:parent_id":85808245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-77.386389,34.746365,-77.386389,34.746365],
-  "geometry": {"coordinates":[-77.386389,34.746365],"type":"Point"}
+  "bbox": [
+    -77.386389,
+    34.746365,
+    -77.386389,
+    34.746365
+],
+  "geometry": {"coordinates":[-77.38638899999999,34.746365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253515937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.317203,36.078478,-80.317203,36.078478",
     "geom:latitude":36.078478,
     "geom:longitude":-80.317203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4361 Johnsborough Ct SW",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253515937,
-    "wof:lastmodified":1449063499,
+    "wof:lastmodified":1466648561,
     "wof:name":"Miller Park Apts",
     "wof:parent_id":85856059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "operates"
     ]
 },
-  "bbox": [-80.317203,36.078478,-80.317203,36.078478],
-  "geometry": {"coordinates":[-80.317203,36.078478],"type":"Point"}
+  "bbox": [
+    -80.317203,
+    36.078478,
+    -80.317203,
+    36.078478
+],
+  "geometry": {"coordinates":[-80.31720300000001,36.078478],"type":"Point"}
 }

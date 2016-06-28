@@ -2,13 +2,14 @@
   "id": 320827263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.738335,35.513641,-78.738335,35.513641",
     "geom:latitude":35.513641,
     "geom:longitude":-78.738335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 N Dunn St",
     "sg:city":"Angier",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320827263,
-    "wof:lastmodified":1449012616,
+    "wof:lastmodified":1466656563,
     "wof:name":"Piano Tuning By Wayne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.738335,35.513641,-78.738335,35.513641],
-  "geometry": {"coordinates":[-78.738335,35.513641],"type":"Point"}
+  "bbox": [
+    -78.738335,
+    35.513641,
+    -78.738335,
+    35.513641
+],
+  "geometry": {"coordinates":[-78.73833500000001,35.513641],"type":"Point"}
 }

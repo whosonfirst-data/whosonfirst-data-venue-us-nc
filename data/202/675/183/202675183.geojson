@@ -2,13 +2,14 @@
   "id": 202675183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.374753,35.229249,-81.374753,35.229249",
     "geom:latitude":35.229249,
     "geom:longitude":-81.374753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Phifer Rd",
     "sg:city":"Kings Mountain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202675183,
-    "wof:lastmodified":1449061414,
+    "wof:lastmodified":1466643233,
     "wof:name":"Summit Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-81.374753,35.229249,-81.374753,35.229249],
+  "bbox": [
+    -81.374753,
+    35.229249,
+    -81.374753,
+    35.229249
+],
   "geometry": {"coordinates":[-81.374753,35.229249],"type":"Point"}
 }

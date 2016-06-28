@@ -2,13 +2,14 @@
   "id": 252784765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.010635,36.025968,-78.010635,36.025968",
     "geom:latitude":36.025968,
     "geom:longitude":-78.010635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4328 Becton Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252784765,
-    "wof:lastmodified":1449006124,
+    "wof:lastmodified":1466643912,
     "wof:name":"Wesley L Parrish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.010635,36.025968,-78.010635,36.025968],
-  "geometry": {"coordinates":[-78.010635,36.025968],"type":"Point"}
+  "bbox": [
+    -78.010635,
+    36.025968,
+    -78.010635,
+    36.025968
+],
+  "geometry": {"coordinates":[-78.01063499999999,36.025968],"type":"Point"}
 }

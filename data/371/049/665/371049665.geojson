@@ -2,13 +2,14 @@
   "id": 371049665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.461058,35.317062,-82.461058,35.317062",
     "geom:latitude":35.317062,
     "geom:longitude":-82.461058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 N Wall St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371049665,
-    "wof:lastmodified":1449049544,
+    "wof:lastmodified":1466649452,
     "wof:name":"Wall Street Book Exchange",
     "wof:parent_id":85804503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.461058,35.317062,-82.461058,35.317062],
-  "geometry": {"coordinates":[-82.461058,35.317062],"type":"Point"}
+  "bbox": [
+    -82.461058,
+    35.317062,
+    -82.461058,
+    35.317062
+],
+  "geometry": {"coordinates":[-82.46105799999999,35.317062],"type":"Point"}
 }

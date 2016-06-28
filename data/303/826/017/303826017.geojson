@@ -2,13 +2,14 @@
   "id": 303826017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.838244,35.21956,-80.838244,35.21956",
     "geom:latitude":35.21956,
     "geom:longitude":-80.838244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E 3rd St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303826017,
-    "wof:lastmodified":1448999895,
+    "wof:lastmodified":1466655231,
     "wof:name":"Daniel Service Co",
     "wof:parent_id":85871237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.838244,35.21956,-80.838244,35.21956],
+  "bbox": [
+    -80.838244,
+    35.21956,
+    -80.838244,
+    35.21956
+],
   "geometry": {"coordinates":[-80.838244,35.21956],"type":"Point"}
 }

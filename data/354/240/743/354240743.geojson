@@ -2,13 +2,14 @@
   "id": 354240743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.04981,35.921887,-79.04981,35.921887",
     "geom:latitude":35.921887,
     "geom:longitude":-79.04981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Mill Run Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354240743,
-    "wof:lastmodified":1449066110,
+    "wof:lastmodified":1466650330,
     "wof:name":"Mark W Scroggs Dr",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-79.04981,35.921887,-79.04981,35.921887],
-  "geometry": {"coordinates":[-79.04981,35.921887],"type":"Point"}
+  "bbox": [
+    -79.04981,
+    35.921887,
+    -79.04981,
+    35.921887
+],
+  "geometry": {"coordinates":[-79.04980999999999,35.921887],"type":"Point"}
 }

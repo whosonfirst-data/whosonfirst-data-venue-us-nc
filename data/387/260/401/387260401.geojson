@@ -2,13 +2,14 @@
   "id": 387260401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.760799,35.078222,-79.760799,35.078222",
     "geom:latitude":35.078222,
     "geom:longitude":-79.760799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 E Main St",
     "sg:city":"Ellerbe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387260401,
-    "wof:lastmodified":1449056737,
+    "wof:lastmodified":1466653294,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.760799,35.078222,-79.760799,35.078222],
-  "geometry": {"coordinates":[-79.760799,35.078222],"type":"Point"}
+  "bbox": [
+    -79.760799,
+    35.078222,
+    -79.760799,
+    35.078222
+],
+  "geometry": {"coordinates":[-79.76079900000001,35.078222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304081385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.681389,35.277787,-83.681389,35.277787",
     "geom:latitude":35.277787,
     "geom:longitude":-83.681389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"764 US Hwy 19",
     "sg:city":"Topton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304081385,
-    "wof:lastmodified":1449043734,
+    "wof:lastmodified":1466645309,
     "wof:name":"Brookside Campground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trip"
     ]
 },
-  "bbox": [-83.681389,35.277787,-83.681389,35.277787],
+  "bbox": [
+    -83.681389,
+    35.277787,
+    -83.681389,
+    35.277787
+],
   "geometry": {"coordinates":[-83.681389,35.277787],"type":"Point"}
 }

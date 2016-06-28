@@ -2,13 +2,14 @@
   "id": 286803445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.987963,36.386533,-78.987963,36.386533",
     "geom:latitude":36.386533,
     "geom:longitude":-78.987963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Madison Blvd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286803445,
-    "wof:lastmodified":1449018115,
+    "wof:lastmodified":1466650472,
     "wof:name":"Person County Recycle Ctr",
     "wof:parent_id":85823157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.987963,36.386533,-78.987963,36.386533],
-  "geometry": {"coordinates":[-78.987963,36.386533],"type":"Point"}
+  "bbox": [
+    -78.987963,
+    36.386533,
+    -78.987963,
+    36.386533
+],
+  "geometry": {"coordinates":[-78.98796299999999,36.386533],"type":"Point"}
 }

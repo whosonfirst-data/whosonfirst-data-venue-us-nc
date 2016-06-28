@@ -2,13 +2,14 @@
   "id": 370967741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.902442,34.171324,-77.902442,34.171324",
     "geom:latitude":34.171324,
     "geom:longitude":-77.902442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Amhearst Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370967741,
-    "wof:lastmodified":1449032215,
+    "wof:lastmodified":1466657194,
     "wof:name":"New Hanover County Hearing Ctr",
     "wof:parent_id":85817219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "impaired"
     ]
 },
-  "bbox": [-77.902442,34.171324,-77.902442,34.171324],
-  "geometry": {"coordinates":[-77.902442,34.171324],"type":"Point"}
+  "bbox": [
+    -77.902442,
+    34.171324,
+    -77.902442,
+    34.171324
+],
+  "geometry": {"coordinates":[-77.90244199999999,34.171324],"type":"Point"}
 }

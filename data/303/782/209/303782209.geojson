@@ -2,13 +2,14 @@
   "id": 303782209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.180236,35.579336,-82.180236,35.579336",
     "geom:latitude":35.579336,
     "geom:longitude":-82.180236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3990 Bat Cave Rd",
     "sg:city":"Old Fort",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303782209,
-    "wof:lastmodified":1448998105,
+    "wof:lastmodified":1466654605,
     "wof:name":"David S Bartlett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.180236,35.579336,-82.180236,35.579336],
-  "geometry": {"coordinates":[-82.180236,35.579336],"type":"Point"}
+  "bbox": [
+    -82.180236,
+    35.579336,
+    -82.180236,
+    35.579336
+],
+  "geometry": {"coordinates":[-82.18023599999999,35.579336],"type":"Point"}
 }

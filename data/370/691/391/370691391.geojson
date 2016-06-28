@@ -2,13 +2,14 @@
   "id": 370691391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.899005,34.218646,-77.899005,34.218646",
     "geom:latitude":34.218646,
     "geom:longitude":-77.899005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Floral Pkwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370691391,
-    "wof:lastmodified":1449029367,
+    "wof:lastmodified":1466655097,
     "wof:name":"Dineen Animal Hospital Inc",
     "wof:parent_id":85819913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-77.899005,34.218646,-77.899005,34.218646],
+  "bbox": [
+    -77.899005,
+    34.218646,
+    -77.899005,
+    34.218646
+],
   "geometry": {"coordinates":[-77.899005,34.218646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286506497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.689017,36.102825,-78.689017,36.102825",
     "geom:latitude":36.102825,
     "geom:longitude":-78.689017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1640 State Hwy 50",
     "sg:city":"Creedmoor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286506497,
-    "wof:lastmodified":1449015223,
+    "wof:lastmodified":1466646427,
     "wof:name":"Triplett's Automotive",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.689017,36.102825,-78.689017,36.102825],
-  "geometry": {"coordinates":[-78.689017,36.102825],"type":"Point"}
+  "bbox": [
+    -78.689017,
+    36.102825,
+    -78.689017,
+    36.102825
+],
+  "geometry": {"coordinates":[-78.68901700000001,36.102825],"type":"Point"}
 }

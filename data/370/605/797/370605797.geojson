@@ -2,13 +2,14 @@
   "id": 370605797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.345906,36.11606,-79.345906,36.11606",
     "geom:latitude":36.11606,
     "geom:longitude":-79.345906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2614 Green Level Church Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370605797,
-    "wof:lastmodified":1449030742,
+    "wof:lastmodified":1466653950,
     "wof:name":"Green Level Christian Church",
     "wof:parent_id":85832733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.345906,36.11606,-79.345906,36.11606],
+  "bbox": [
+    -79.345906,
+    36.11606,
+    -79.345906,
+    36.11606
+],
   "geometry": {"coordinates":[-79.345906,36.11606],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387100189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.902876,34.187928,-77.902876,34.187928",
     "geom:latitude":34.187928,
     "geom:longitude":-77.902876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Robert E Lee Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387100189,
-    "wof:lastmodified":1449058928,
+    "wof:lastmodified":1466651158,
     "wof:name":"Parker Realty",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.902876,34.187928,-77.902876,34.187928],
-  "geometry": {"coordinates":[-77.902876,34.187928],"type":"Point"}
+  "bbox": [
+    -77.902876,
+    34.187928,
+    -77.902876,
+    34.187928
+],
+  "geometry": {"coordinates":[-77.90287600000001,34.187928],"type":"Point"}
 }

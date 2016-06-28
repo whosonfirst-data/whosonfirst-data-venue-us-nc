@@ -2,13 +2,14 @@
   "id": 287279303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.290984,36.416471,-76.290984,36.416471",
     "geom:latitude":36.416471,
     "geom:longitude":-76.290984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1073 State Rd 343",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287279303,
-    "wof:lastmodified":1449001059,
+    "wof:lastmodified":1466647182,
     "wof:name":"W E Meiggs & Son Logging Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-76.290984,36.416471,-76.290984,36.416471],
-  "geometry": {"coordinates":[-76.290984,36.416471],"type":"Point"}
+  "bbox": [
+    -76.290984,
+    36.416471,
+    -76.290984,
+    36.416471
+],
+  "geometry": {"coordinates":[-76.29098399999999,36.416471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386963483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.298678,35.697679,-81.298678,35.697679",
     "geom:latitude":35.697679,
     "geom:longitude":-81.298678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 21st St SE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386963483,
-    "wof:lastmodified":1449028661,
+    "wof:lastmodified":1466649840,
     "wof:name":"Coin Machine",
     "wof:parent_id":85818467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "power"
     ]
 },
-  "bbox": [-81.298678,35.697679,-81.298678,35.697679],
+  "bbox": [
+    -81.298678,
+    35.697679,
+    -81.298678,
+    35.697679
+],
   "geometry": {"coordinates":[-81.298678,35.697679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303745831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.831044,34.260634,-77.831044,34.260634",
     "geom:latitude":34.260634,
     "geom:longitude":-77.831044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6841 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303745831,
-    "wof:lastmodified":1449000455,
+    "wof:lastmodified":1466654077,
     "wof:name":"National Foundation For Youth",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-77.831044,34.260634,-77.831044,34.260634],
-  "geometry": {"coordinates":[-77.831044,34.260634],"type":"Point"}
+  "bbox": [
+    -77.831044,
+    34.260634,
+    -77.831044,
+    34.260634
+],
+  "geometry": {"coordinates":[-77.83104400000001,34.260634],"type":"Point"}
 }

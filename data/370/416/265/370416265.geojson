@@ -2,13 +2,14 @@
   "id": 370416265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.452509,35.258584,-82.452509,35.258584",
     "geom:latitude":35.258584,
     "geom:longitude":-82.452509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Glenroy Ct",
     "sg:city":"Flat Rock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370416265,
-    "wof:lastmodified":1449030619,
+    "wof:lastmodified":1466651483,
     "wof:name":"Piedmont Capital Mgmt Inc",
     "wof:parent_id":85819569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.452509,35.258584,-82.452509,35.258584],
-  "geometry": {"coordinates":[-82.452509,35.258584],"type":"Point"}
+  "bbox": [
+    -82.452509,
+    35.258584,
+    -82.452509,
+    35.258584
+],
+  "geometry": {"coordinates":[-82.45250900000001,35.258584],"type":"Point"}
 }

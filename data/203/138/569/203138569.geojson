@@ -2,13 +2,14 @@
   "id": 203138569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801831,35.58706,-79.801831,35.58706",
     "geom:latitude":35.58706,
     "geom:longitude":-79.801831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6021 US Hwy 220 S",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203138569,
-    "wof:lastmodified":1449025453,
+    "wof:lastmodified":1466654972,
     "wof:name":"Davis Bobcat & Hauling Service",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.801831,35.58706,-79.801831,35.58706],
-  "geometry": {"coordinates":[-79.801831,35.58706],"type":"Point"}
+  "bbox": [
+    -79.801831,
+    35.58706,
+    -79.801831,
+    35.58706
+],
+  "geometry": {"coordinates":[-79.80183100000001,35.58706],"type":"Point"}
 }

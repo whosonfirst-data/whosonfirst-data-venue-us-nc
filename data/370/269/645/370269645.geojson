@@ -2,13 +2,14 @@
   "id": 370269645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.377169,36.082374,-79.377169,36.082374",
     "geom:latitude":36.082374,
     "geom:longitude":-79.377169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 E Elm St",
     "sg:city":"Graham",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370269645,
-    "wof:lastmodified":1449031204,
+    "wof:lastmodified":1466649645,
     "wof:name":"Permatech Inc",
     "wof:parent_id":85832733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "molten"
     ]
 },
-  "bbox": [-79.377169,36.082374,-79.377169,36.082374],
-  "geometry": {"coordinates":[-79.377169,36.082374],"type":"Point"}
+  "bbox": [
+    -79.377169,
+    36.082374,
+    -79.377169,
+    36.082374
+],
+  "geometry": {"coordinates":[-79.37716899999999,36.082374],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320125539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.690931,35.346464,-80.690931,35.346464",
     "geom:latitude":35.346464,
     "geom:longitude":-80.690931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 Hudspeth Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":320125539,
-    "wof:lastmodified":1449014836,
+    "wof:lastmodified":1466647063,
     "wof:name":"Concord ABC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.690931,35.346464,-80.690931,35.346464],
-  "geometry": {"coordinates":[-80.690931,35.346464],"type":"Point"}
+  "bbox": [
+    -80.690931,
+    35.346464,
+    -80.690931,
+    35.346464
+],
+  "geometry": {"coordinates":[-80.69093100000001,35.346464],"type":"Point"}
 }

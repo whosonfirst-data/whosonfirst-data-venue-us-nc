@@ -2,13 +2,14 @@
   "id": 186530727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.799829,34.277312,-77.799829,34.277312",
     "geom:latitude":34.277312,
     "geom:longitude":-77.799829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Bayshore Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186530727,
-    "wof:lastmodified":1449051802,
+    "wof:lastmodified":1466654566,
     "wof:name":"IPM Software",
     "wof:parent_id":85807111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-77.799829,34.277312,-77.799829,34.277312],
+  "bbox": [
+    -77.799829,
+    34.277312,
+    -77.799829,
+    34.277312
+],
   "geometry": {"coordinates":[-77.799829,34.277312],"type":"Point"}
 }

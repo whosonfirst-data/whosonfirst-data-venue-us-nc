@@ -2,13 +2,14 @@
   "id": 303205525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.704029,34.885729,-79.704029,34.885729",
     "geom:latitude":34.885729,
     "geom:longitude":-79.704029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Main St",
     "sg:city":"Hamlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303205525,
-    "wof:lastmodified":1448999600,
+    "wof:lastmodified":1466646294,
     "wof:name":"Church Of The Holy Spirit",
     "wof:parent_id":85836761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.704029,34.885729,-79.704029,34.885729],
-  "geometry": {"coordinates":[-79.704029,34.885729],"type":"Point"}
+  "bbox": [
+    -79.704029,
+    34.885729,
+    -79.704029,
+    34.885729
+],
+  "geometry": {"coordinates":[-79.70402900000001,34.885729],"type":"Point"}
 }

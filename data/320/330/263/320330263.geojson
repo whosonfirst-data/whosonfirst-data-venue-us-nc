@@ -2,13 +2,14 @@
   "id": 320330263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.118573,36.119748,-80.118573,36.119748",
     "geom:latitude":36.119748,
     "geom:longitude":-80.118573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Bluff School Rd",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320330263,
-    "wof:lastmodified":1449013127,
+    "wof:lastmodified":1466649924,
     "wof:name":"Windmill Fish Hatchery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [-80.118573,36.119748,-80.118573,36.119748],
+  "bbox": [
+    -80.118573,
+    36.119748,
+    -80.118573,
+    36.119748
+],
   "geometry": {"coordinates":[-80.118573,36.119748],"type":"Point"}
 }

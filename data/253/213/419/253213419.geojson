@@ -2,13 +2,14 @@
   "id": 253213419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.366538,35.781795,-81.366538,35.781795",
     "geom:latitude":35.781795,
     "geom:longitude":-81.366538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6068 Gold Creek Estate Dr",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253213419,
-    "wof:lastmodified":1449062853,
+    "wof:lastmodified":1466645217,
     "wof:name":"Sandhills Crown/Bridge Lab",
     "wof:parent_id":85822593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-81.366538,35.781795,-81.366538,35.781795],
-  "geometry": {"coordinates":[-81.366538,35.781795],"type":"Point"}
+  "bbox": [
+    -81.366538,
+    35.781795,
+    -81.366538,
+    35.781795
+],
+  "geometry": {"coordinates":[-81.36653800000001,35.781795],"type":"Point"}
 }

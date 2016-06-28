@@ -2,13 +2,14 @@
   "id": 353971155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.934796,34.180118,-77.934796,34.180118",
     "geom:latitude":34.180118,
     "geom:longitude":-77.934796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Raleigh St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353971155,
-    "wof:lastmodified":1449019562,
+    "wof:lastmodified":1466653766,
     "wof:name":"M& M Plumbing",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-77.934796,34.180118,-77.934796,34.180118],
-  "geometry": {"coordinates":[-77.934796,34.180118],"type":"Point"}
+  "bbox": [
+    -77.934796,
+    34.180118,
+    -77.934796,
+    34.180118
+],
+  "geometry": {"coordinates":[-77.93479600000001,34.180118],"type":"Point"}
 }

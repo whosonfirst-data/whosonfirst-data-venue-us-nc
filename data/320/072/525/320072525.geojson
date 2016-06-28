@@ -2,13 +2,14 @@
   "id": 320072525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.178614,35.314484,-81.178614,35.314484",
     "geom:latitude":35.314484,
     "geom:longitude":-81.178614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Church St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320072525,
-    "wof:lastmodified":1449013230,
+    "wof:lastmodified":1466646324,
     "wof:name":"Dallas Recreation Dept",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-81.178614,35.314484,-81.178614,35.314484],
+  "bbox": [
+    -81.178614,
+    35.314484,
+    -81.178614,
+    35.314484
+],
   "geometry": {"coordinates":[-81.178614,35.314484],"type":"Point"}
 }

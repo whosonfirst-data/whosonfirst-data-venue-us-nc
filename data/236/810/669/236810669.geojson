@@ -2,13 +2,14 @@
   "id": 236810669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.90337,34.224359,-77.90337,34.224359",
     "geom:latitude":34.224359,
     "geom:longitude":-77.90337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3142 Wrightsville Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236810669,
-    "wof:lastmodified":1449002433,
+    "wof:lastmodified":1466650506,
     "wof:name":"SENC Technical Svc Inc",
     "wof:parent_id":85819913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-77.90337,34.224359,-77.90337,34.224359],
+  "bbox": [
+    -77.90337,
+    34.224359,
+    -77.90337,
+    34.224359
+],
   "geometry": {"coordinates":[-77.90337,34.224359],"type":"Point"}
 }

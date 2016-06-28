@@ -2,13 +2,14 @@
   "id": 320423201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.94939,35.208579,-78.94939,35.208579",
     "geom:latitude":35.208579,
     "geom:longitude":-78.94939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2489 Lillington Hwy",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320423201,
-    "wof:lastmodified":1449011881,
+    "wof:lastmodified":1466651255,
     "wof:name":"S & S Cleaning and Sewing",
     "wof:parent_id":85804723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-78.94939,35.208579,-78.94939,35.208579],
-  "geometry": {"coordinates":[-78.94939,35.208579],"type":"Point"}
+  "bbox": [
+    -78.94939,
+    35.208579,
+    -78.94939,
+    35.208579
+],
+  "geometry": {"coordinates":[-78.94938999999999,35.208579],"type":"Point"}
 }

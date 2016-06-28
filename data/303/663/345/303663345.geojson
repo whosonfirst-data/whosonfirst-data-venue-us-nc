@@ -2,13 +2,14 @@
   "id": 303663345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.202368,35.197401,-77.202368,35.197401",
     "geom:latitude":35.197401,
     "geom:longitude":-77.202368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3783 State Hwy 55",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303663345,
-    "wof:lastmodified":1448999918,
+    "wof:lastmodified":1466652877,
     "wof:name":"Number 9 Township Fire Dept",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-77.202368,35.197401,-77.202368,35.197401],
-  "geometry": {"coordinates":[-77.202368,35.197401],"type":"Point"}
+  "bbox": [
+    -77.202368,
+    35.197401,
+    -77.202368,
+    35.197401
+],
+  "geometry": {"coordinates":[-77.20236800000001,35.197401],"type":"Point"}
 }

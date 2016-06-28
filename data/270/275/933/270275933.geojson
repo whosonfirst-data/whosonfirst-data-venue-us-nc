@@ -2,13 +2,14 @@
   "id": 270275933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.155989,35.305029,-77.155989,35.305029",
     "geom:latitude":35.305029,
     "geom:longitude":-77.155989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8150 Main St",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270275933,
-    "wof:lastmodified":1449009405,
+    "wof:lastmodified":1466646546,
     "wof:name":"Vanceboro's Victorian Inn",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-77.155989,35.305029,-77.155989,35.305029],
-  "geometry": {"coordinates":[-77.155989,35.305029],"type":"Point"}
+  "bbox": [
+    -77.155989,
+    35.305029,
+    -77.155989,
+    35.305029
+],
+  "geometry": {"coordinates":[-77.15598900000001,35.305029],"type":"Point"}
 }

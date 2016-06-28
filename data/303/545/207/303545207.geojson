@@ -2,13 +2,14 @@
   "id": 303545207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.992888,34.739704,-77.992888,34.739704",
     "geom:latitude":34.739704,
     "geom:longitude":-77.992888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N Graham St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303545207,
-    "wof:lastmodified":1448998701,
+    "wof:lastmodified":1466651168,
     "wof:name":"James A Dunn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.992888,34.739704,-77.992888,34.739704],
-  "geometry": {"coordinates":[-77.992888,34.739704],"type":"Point"}
+  "bbox": [
+    -77.992888,
+    34.739704,
+    -77.992888,
+    34.739704
+],
+  "geometry": {"coordinates":[-77.99288799999999,34.739704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403926919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.568367,35.384348,-80.568367,35.384348",
     "geom:latitude":35.384348,
     "geom:longitude":-80.568367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Manor Ave SW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403926919,
-    "wof:lastmodified":1449055090,
+    "wof:lastmodified":1466653249,
     "wof:name":"D R Huneycutt Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.568367,35.384348,-80.568367,35.384348],
-  "geometry": {"coordinates":[-80.568367,35.384348],"type":"Point"}
+  "bbox": [
+    -80.568367,
+    35.384348,
+    -80.568367,
+    35.384348
+],
+  "geometry": {"coordinates":[-80.56836699999999,35.384348],"type":"Point"}
 }

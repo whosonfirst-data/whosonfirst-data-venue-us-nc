@@ -2,13 +2,14 @@
   "id": 370784735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.430235,35.809,-81.430235,35.809",
     "geom:latitude":35.809,
     "geom:longitude":-81.430235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4096 Hickory Blvd",
     "sg:city":"Granite Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370784735,
-    "wof:lastmodified":1449031341,
+    "wof:lastmodified":1466656284,
     "wof:name":"Premier Home Care",
     "wof:parent_id":85822593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-81.430235,35.809,-81.430235,35.809],
+  "bbox": [
+    -81.430235,
+    35.809,
+    -81.430235,
+    35.809
+],
   "geometry": {"coordinates":[-81.430235,35.809],"type":"Point"}
 }

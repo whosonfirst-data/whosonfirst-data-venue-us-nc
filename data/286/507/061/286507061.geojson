@@ -2,13 +2,14 @@
   "id": 286507061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.256048,35.473166,-81.256048,35.473166",
     "geom:latitude":35.473166,
     "geom:longitude":-81.256048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Academy St",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286507061,
-    "wof:lastmodified":1449016706,
+    "wof:lastmodified":1466646436,
     "wof:name":"Stevenson Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.256048,35.473166,-81.256048,35.473166],
-  "geometry": {"coordinates":[-81.256048,35.473166],"type":"Point"}
+  "bbox": [
+    -81.256048,
+    35.473166,
+    -81.256048,
+    35.473166
+],
+  "geometry": {"coordinates":[-81.25604800000001,35.473166],"type":"Point"}
 }

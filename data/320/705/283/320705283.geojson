@@ -2,13 +2,14 @@
   "id": 320705283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.685262,35.74641,-81.685262,35.74641",
     "geom:latitude":35.74641,
     "geom:longitude":-81.685262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Meeting St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320705283,
-    "wof:lastmodified":1449014991,
+    "wof:lastmodified":1466655329,
     "wof:name":"Morganton",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chartered"
     ]
 },
-  "bbox": [-81.685262,35.74641,-81.685262,35.74641],
-  "geometry": {"coordinates":[-81.685262,35.74641],"type":"Point"}
+  "bbox": [
+    -81.685262,
+    35.74641,
+    -81.685262,
+    35.74641
+],
+  "geometry": {"coordinates":[-81.68526199999999,35.74641],"type":"Point"}
 }

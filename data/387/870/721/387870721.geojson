@@ -2,13 +2,14 @@
   "id": 387870721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.757021,35.184378,-80.757021,35.184378",
     "geom:latitude":35.184378,
     "geom:longitude":-80.757021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5226 E Independence Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387870721,
-    "wof:lastmodified":1449057104,
+    "wof:lastmodified":1466657906,
     "wof:name":"Mediterranean Cafe Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cafe"
     ]
 },
-  "bbox": [-80.757021,35.184378,-80.757021,35.184378],
-  "geometry": {"coordinates":[-80.757021,35.184378],"type":"Point"}
+  "bbox": [
+    -80.757021,
+    35.184378,
+    -80.757021,
+    35.184378
+],
+  "geometry": {"coordinates":[-80.75702099999999,35.184378],"type":"Point"}
 }

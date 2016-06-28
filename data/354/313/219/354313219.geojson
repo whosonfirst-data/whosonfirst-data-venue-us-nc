@@ -2,13 +2,14 @@
   "id": 354313219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.340009,36.353678,-78.340009,36.353678",
     "geom:latitude":36.353678,
     "geom:longitude":-78.340009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2636 Warrenton Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354313219,
-    "wof:lastmodified":1449065997,
+    "wof:lastmodified":1466651169,
     "wof:name":"P & W Group",
     "wof:parent_id":85857977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-78.340009,36.353678,-78.340009,36.353678],
-  "geometry": {"coordinates":[-78.340009,36.353678],"type":"Point"}
+  "bbox": [
+    -78.340009,
+    36.353678,
+    -78.340009,
+    36.353678
+],
+  "geometry": {"coordinates":[-78.34000899999999,36.353678],"type":"Point"}
 }

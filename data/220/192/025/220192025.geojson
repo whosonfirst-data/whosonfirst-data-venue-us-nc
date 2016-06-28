@@ -2,13 +2,14 @@
   "id": 220192025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.567169,35.953883,-78.567169,35.953883",
     "geom:latitude":35.953883,
     "geom:longitude":-78.567169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Wakefield Plantation Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220192025,
-    "wof:lastmodified":1449074621,
+    "wof:lastmodified":1466644730,
     "wof:name":"Tournament Players Golf Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.567169,35.953883,-78.567169,35.953883],
-  "geometry": {"coordinates":[-78.567169,35.953883],"type":"Point"}
+  "bbox": [
+    -78.567169,
+    35.953883,
+    -78.567169,
+    35.953883
+],
+  "geometry": {"coordinates":[-78.56716900000001,35.953883],"type":"Point"}
 }

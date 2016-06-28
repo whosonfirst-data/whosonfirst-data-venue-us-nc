@@ -2,13 +2,14 @@
   "id": 404074541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.558349,35.909927,-81.558349,35.909927",
     "geom:latitude":35.909927,
     "geom:longitude":-81.558349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Creekway Dr NW",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404074541,
-    "wof:lastmodified":1449039782,
+    "wof:lastmodified":1466652231,
     "wof:name":"Advertisers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-81.558349,35.909927,-81.558349,35.909927],
-  "geometry": {"coordinates":[-81.558349,35.909927],"type":"Point"}
+  "bbox": [
+    -81.558349,
+    35.909927,
+    -81.558349,
+    35.909927
+],
+  "geometry": {"coordinates":[-81.55834900000001,35.909927],"type":"Point"}
 }

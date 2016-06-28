@@ -2,13 +2,14 @@
   "id": 337625817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.90568,35.71561,-77.90568,35.71561",
     "geom:latitude":35.71561,
     "geom:longitude":-77.90568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Pender St SE",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337625817,
-    "wof:lastmodified":1449027745,
+    "wof:lastmodified":1466648011,
     "wof:name":"Super Duper Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.90568,35.71561,-77.90568,35.71561],
+  "bbox": [
+    -77.90568,
+    35.71561,
+    -77.90568,
+    35.71561
+],
   "geometry": {"coordinates":[-77.90568,35.71561],"type":"Point"}
 }

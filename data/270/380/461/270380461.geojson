@@ -2,13 +2,14 @@
   "id": 270380461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.614646,35.850123,-78.614646,35.850123",
     "geom:latitude":35.850123,
     "geom:longitude":-78.614646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5029 Falls of Neuse Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270380461,
-    "wof:lastmodified":1449009772,
+    "wof:lastmodified":1466647889,
     "wof:name":"Full Spectrum Design PLLC",
     "wof:parent_id":85809963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.614646,35.850123,-78.614646,35.850123],
-  "geometry": {"coordinates":[-78.614646,35.850123],"type":"Point"}
+  "bbox": [
+    -78.614646,
+    35.850123,
+    -78.614646,
+    35.850123
+],
+  "geometry": {"coordinates":[-78.61464599999999,35.850123],"type":"Point"}
 }

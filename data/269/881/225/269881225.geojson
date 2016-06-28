@@ -2,13 +2,14 @@
   "id": 269881225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.270603,36.097962,-79.270603,36.097962",
     "geom:latitude":36.097962,
     "geom:longitude":-79.270603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 W Clay St",
     "sg:city":"Mebane",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269881225,
-    "wof:lastmodified":1449037542,
+    "wof:lastmodified":1466647873,
     "wof:name":"Earthcentric Engineering",
     "wof:parent_id":85832733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-79.270603,36.097962,-79.270603,36.097962],
-  "geometry": {"coordinates":[-79.270603,36.097962],"type":"Point"}
+  "bbox": [
+    -79.270603,
+    36.097962,
+    -79.270603,
+    36.097962
+],
+  "geometry": {"coordinates":[-79.27060299999999,36.097962],"type":"Point"}
 }

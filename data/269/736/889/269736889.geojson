@@ -2,13 +2,14 @@
   "id": 269736889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.358995,35.975709,-78.358995,35.975709",
     "geom:latitude":35.975709,
     "geom:longitude":-78.358995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 State Rd 98",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269736889,
-    "wof:lastmodified":1449038919,
+    "wof:lastmodified":1466646229,
     "wof:name":"Old Phelps Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.358995,35.975709,-78.358995,35.975709],
-  "geometry": {"coordinates":[-78.358995,35.975709],"type":"Point"}
+  "bbox": [
+    -78.358995,
+    35.975709,
+    -78.358995,
+    35.975709
+],
+  "geometry": {"coordinates":[-78.35899499999999,35.975709],"type":"Point"}
 }

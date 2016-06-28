@@ -2,13 +2,14 @@
   "id": 353637575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.800011,35.879705,-79.800011,35.879705",
     "geom:latitude":35.879705,
     "geom:longitude":-79.800011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9755 US Hwy 220 Bus N",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353637575,
-    "wof:lastmodified":1449018263,
+    "wof:lastmodified":1466655858,
     "wof:name":"SPC Carolina",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-79.800011,35.879705,-79.800011,35.879705],
+  "bbox": [
+    -79.800011,
+    35.879705,
+    -79.800011,
+    35.879705
+],
   "geometry": {"coordinates":[-79.800011,35.879705],"type":"Point"}
 }

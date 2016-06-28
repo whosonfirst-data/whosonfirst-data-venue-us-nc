@@ -2,13 +2,14 @@
   "id": 336945283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.705391,34.446031,-78.705391,34.446031",
     "geom:latitude":34.446031,
     "geom:longitude":-78.705391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Elkins Ln",
     "sg:city":"Clarkton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336945283,
-    "wof:lastmodified":1448997019,
+    "wof:lastmodified":1466651095,
     "wof:name":"East Coast Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "structural"
     ]
 },
-  "bbox": [-78.705391,34.446031,-78.705391,34.446031],
-  "geometry": {"coordinates":[-78.705391,34.446031],"type":"Point"}
+  "bbox": [
+    -78.705391,
+    34.446031,
+    -78.705391,
+    34.446031
+],
+  "geometry": {"coordinates":[-78.70539100000001,34.446031],"type":"Point"}
 }

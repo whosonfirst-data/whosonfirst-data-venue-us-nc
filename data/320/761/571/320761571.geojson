@@ -2,13 +2,14 @@
   "id": 320761571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.598767,35.582657,-82.598767,35.582657",
     "geom:latitude":35.582657,
     "geom:longitude":-82.598767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Blue Ridge Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320761571,
-    "wof:lastmodified":1449014082,
+    "wof:lastmodified":1466656175,
     "wof:name":"JD Cornerstone",
     "wof:parent_id":85817225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-82.598767,35.582657,-82.598767,35.582657],
+  "bbox": [
+    -82.598767,
+    35.582657,
+    -82.598767,
+    35.582657
+],
   "geometry": {"coordinates":[-82.598767,35.582657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219900273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.851869,35.410384,-80.851869,35.410384",
     "geom:latitude":35.410384,
     "geom:longitude":-80.851869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Gilead Rd",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219900273,
-    "wof:lastmodified":1449071909,
+    "wof:lastmodified":1466647989,
     "wof:name":"Autobell Car Wash Inc",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-80.851869,35.410384,-80.851869,35.410384],
-  "geometry": {"coordinates":[-80.851869,35.410384],"type":"Point"}
+  "bbox": [
+    -80.851869,
+    35.410384,
+    -80.851869,
+    35.410384
+],
+  "geometry": {"coordinates":[-80.85186899999999,35.410384],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253269917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.880203,35.121313,-80.880203,35.121313",
     "geom:latitude":35.121313,
     "geom:longitude":-80.880203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8600 South Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253269917,
-    "wof:lastmodified":1449064678,
+    "wof:lastmodified":1466645736,
     "wof:name":"Lance Inc",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "potato"
     ]
 },
-  "bbox": [-80.880203,35.121313,-80.880203,35.121313],
-  "geometry": {"coordinates":[-80.880203,35.121313],"type":"Point"}
+  "bbox": [
+    -80.880203,
+    35.121313,
+    -80.880203,
+    35.121313
+],
+  "geometry": {"coordinates":[-80.88020299999999,35.121313],"type":"Point"}
 }

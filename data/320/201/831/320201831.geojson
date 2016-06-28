@@ -2,13 +2,14 @@
   "id": 320201831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.860858,35.585981,-80.860858,35.585981",
     "geom:latitude":35.585981,
     "geom:longitude":-80.860858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Rolling Hill Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320201831,
-    "wof:lastmodified":1449014470,
+    "wof:lastmodified":1466648117,
     "wof:name":"Softmark Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-80.860858,35.585981,-80.860858,35.585981],
-  "geometry": {"coordinates":[-80.860858,35.585981],"type":"Point"}
+  "bbox": [
+    -80.860858,
+    35.585981,
+    -80.860858,
+    35.585981
+],
+  "geometry": {"coordinates":[-80.86085799999999,35.585981],"type":"Point"}
 }

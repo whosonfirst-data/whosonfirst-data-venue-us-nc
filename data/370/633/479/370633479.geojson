@@ -2,13 +2,14 @@
   "id": 370633479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.888331,36.087594,-79.888331,36.087594",
     "geom:latitude":36.087594,
     "geom:longitude":-79.888331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 College Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370633479,
-    "wof:lastmodified":1449032440,
+    "wof:lastmodified":1466654315,
     "wof:name":"Central Carolina Bank",
     "wof:parent_id":85831901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.888331,36.087594,-79.888331,36.087594],
-  "geometry": {"coordinates":[-79.888331,36.087594],"type":"Point"}
+  "bbox": [
+    -79.888331,
+    36.087594,
+    -79.888331,
+    36.087594
+],
+  "geometry": {"coordinates":[-79.88833099999999,36.087594],"type":"Point"}
 }

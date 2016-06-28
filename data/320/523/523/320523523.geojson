@@ -2,13 +2,14 @@
   "id": 320523523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.54265,35.550175,-79.54265,35.550175",
     "geom:latitude":35.550175,
     "geom:longitude":-79.54265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Bernard Purvis Rd",
     "sg:city":"Bennett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320523523,
-    "wof:lastmodified":1449013413,
+    "wof:lastmodified":1466652708,
     "wof:name":"Tri County Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-79.54265,35.550175,-79.54265,35.550175],
-  "geometry": {"coordinates":[-79.54265,35.550175],"type":"Point"}
+  "bbox": [
+    -79.54265,
+    35.550175,
+    -79.54265,
+    35.550175
+],
+  "geometry": {"coordinates":[-79.54264999999999,35.550175],"type":"Point"}
 }

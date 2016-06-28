@@ -2,13 +2,14 @@
   "id": 252928605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.833291,35.192478,-80.833291,35.192478",
     "geom:latitude":35.192478,
     "geom:longitude":-80.833291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2044 Sherwood Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252928605,
-    "wof:lastmodified":1449006357,
+    "wof:lastmodified":1466645211,
     "wof:name":"McColman Family Cemetery",
     "wof:parent_id":85817091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-80.833291,35.192478,-80.833291,35.192478],
+  "bbox": [
+    -80.833291,
+    35.192478,
+    -80.833291,
+    35.192478
+],
   "geometry": {"coordinates":[-80.833291,35.192478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337468171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.90376,36.07711,-78.90376,36.07711",
     "geom:latitude":36.07711,
     "geom:longitude":-78.90376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Overlook Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337468171,
-    "wof:lastmodified":1449027533,
+    "wof:lastmodified":1466647212,
     "wof:name":"Graham's Towing Svc",
     "wof:parent_id":85877167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-78.90376,36.07711,-78.90376,36.07711],
-  "geometry": {"coordinates":[-78.90376,36.07711],"type":"Point"}
+  "bbox": [
+    -78.90376,
+    36.07711,
+    -78.90376,
+    36.07711
+],
+  "geometry": {"coordinates":[-78.90376000000001,36.07711],"type":"Point"}
 }

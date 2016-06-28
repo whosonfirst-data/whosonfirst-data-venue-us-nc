@@ -2,13 +2,14 @@
   "id": 387436773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.005215,35.097087,-79.005215,35.097087",
     "geom:latitude":35.097087,
     "geom:longitude":-79.005215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7216 Godfrey Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387436773,
-    "wof:lastmodified":1449059551,
+    "wof:lastmodified":1466655585,
     "wof:name":"Quan Properties",
     "wof:parent_id":85851349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.005215,35.097087,-79.005215,35.097087],
-  "geometry": {"coordinates":[-79.005215,35.097087],"type":"Point"}
+  "bbox": [
+    -79.005215,
+    35.097087,
+    -79.005215,
+    35.097087
+],
+  "geometry": {"coordinates":[-79.00521500000001,35.097087],"type":"Point"}
 }

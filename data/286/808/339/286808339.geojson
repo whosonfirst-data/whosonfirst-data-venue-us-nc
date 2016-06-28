@@ -2,13 +2,14 @@
   "id": 286808339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.640982,35.178808,-80.640982,35.178808",
     "geom:latitude":35.178808,
     "geom:longitude":-80.640982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8540 Fairview Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286808339,
-    "wof:lastmodified":1449015305,
+    "wof:lastmodified":1466650544,
     "wof:name":"Bill Medlin Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stable"
     ]
 },
-  "bbox": [-80.640982,35.178808,-80.640982,35.178808],
-  "geometry": {"coordinates":[-80.640982,35.178808],"type":"Point"}
+  "bbox": [
+    -80.640982,
+    35.178808,
+    -80.640982,
+    35.178808
+],
+  "geometry": {"coordinates":[-80.64098199999999,35.178808],"type":"Point"}
 }

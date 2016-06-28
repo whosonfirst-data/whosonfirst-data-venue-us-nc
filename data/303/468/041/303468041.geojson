@@ -2,13 +2,14 @@
   "id": 303468041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.738566,35.294779,-79.738566,35.294779",
     "geom:latitude":35.294779,
     "geom:longitude":-79.738566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 E Main St",
     "sg:city":"Candor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303468041,
-    "wof:lastmodified":1448999870,
+    "wof:lastmodified":1466650069,
     "wof:name":"Russ-Knits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "knit"
     ]
 },
-  "bbox": [-79.738566,35.294779,-79.738566,35.294779],
-  "geometry": {"coordinates":[-79.738566,35.294779],"type":"Point"}
+  "bbox": [
+    -79.738566,
+    35.294779,
+    -79.738566,
+    35.294779
+],
+  "geometry": {"coordinates":[-79.73856600000001,35.294779],"type":"Point"}
 }

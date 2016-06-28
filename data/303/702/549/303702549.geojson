@@ -2,13 +2,14 @@
   "id": 303702549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.063381,35.042496,-79.063381,35.042496",
     "geom:latitude":35.042496,
     "geom:longitude":-79.063381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1087 Quail Meadow Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303702549,
-    "wof:lastmodified":1448999338,
+    "wof:lastmodified":1466653450,
     "wof:name":"Vaughan Heating AC Repair",
     "wof:parent_id":85831097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.063381,35.042496,-79.063381,35.042496],
-  "geometry": {"coordinates":[-79.063381,35.042496],"type":"Point"}
+  "bbox": [
+    -79.063381,
+    35.042496,
+    -79.063381,
+    35.042496
+],
+  "geometry": {"coordinates":[-79.06338100000001,35.042496],"type":"Point"}
 }

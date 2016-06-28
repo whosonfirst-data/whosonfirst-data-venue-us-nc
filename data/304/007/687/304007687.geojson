@@ -2,13 +2,14 @@
   "id": 304007687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.951495,35.372084,-77.951495,35.372084",
     "geom:latitude":35.372084,
     "geom:longitude":-77.951495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N Berkeley Blvd",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304007687,
-    "wof:lastmodified":1449044058,
+    "wof:lastmodified":1466644278,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.951495,35.372084,-77.951495,35.372084],
-  "geometry": {"coordinates":[-77.951495,35.372084],"type":"Point"}
+  "bbox": [
+    -77.951495,
+    35.372084,
+    -77.951495,
+    35.372084
+],
+  "geometry": {"coordinates":[-77.95149499999999,35.372084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303659251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237787,36.050255,-80.237787,36.050255",
     "geom:latitude":36.050255,
     "geom:longitude":-80.237787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 Stockton St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303659251,
-    "wof:lastmodified":1448998382,
+    "wof:lastmodified":1466652815,
     "wof:name":"GLG Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.237787,36.050255,-80.237787,36.050255],
+  "bbox": [
+    -80.237787,
+    36.050255,
+    -80.237787,
+    36.050255
+],
   "geometry": {"coordinates":[-80.237787,36.050255],"type":"Point"}
 }

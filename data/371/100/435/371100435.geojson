@@ -2,13 +2,14 @@
   "id": 371100435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.690289,36.05654,-75.690289,36.05654",
     "geom:latitude":36.05654,
     "geom:longitude":-75.690289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Rabbit Hollow",
     "sg:city":"Kitty Hawk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371100435,
-    "wof:lastmodified":1449049826,
+    "wof:lastmodified":1466650086,
     "wof:name":"Outer Banks Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-75.690289,36.05654,-75.690289,36.05654],
-  "geometry": {"coordinates":[-75.690289,36.05654],"type":"Point"}
+  "bbox": [
+    -75.690289,
+    36.05654,
+    -75.690289,
+    36.05654
+],
+  "geometry": {"coordinates":[-75.69028900000001,36.05654],"type":"Point"}
 }

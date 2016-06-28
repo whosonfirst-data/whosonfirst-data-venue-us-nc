@@ -2,13 +2,14 @@
   "id": 353935495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.498106,35.492659,-78.498106,35.492659",
     "geom:latitude":35.492659,
     "geom:longitude":-78.498106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Trotters Ln",
     "sg:city":"Four Oaks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353935495,
-    "wof:lastmodified":1449020371,
+    "wof:lastmodified":1466653331,
     "wof:name":"Austin Siding",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.498106,35.492659,-78.498106,35.492659],
-  "geometry": {"coordinates":[-78.498106,35.492659],"type":"Point"}
+  "bbox": [
+    -78.498106,
+    35.492659,
+    -78.498106,
+    35.492659
+],
+  "geometry": {"coordinates":[-78.49810600000001,35.492659],"type":"Point"}
 }

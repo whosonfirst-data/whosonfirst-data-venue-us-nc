@@ -2,13 +2,14 @@
   "id": 320384121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.375831,35.083798,-79.375831,35.083798",
     "geom:latitude":35.083798,
     "geom:longitude":-79.375831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Strother Rd",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320384121,
-    "wof:lastmodified":1449011715,
+    "wof:lastmodified":1466650682,
     "wof:name":"Seafords Appl Repr Svc & Part",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.375831,35.083798,-79.375831,35.083798],
-  "geometry": {"coordinates":[-79.375831,35.083798],"type":"Point"}
+  "bbox": [
+    -79.375831,
+    35.083798,
+    -79.375831,
+    35.083798
+],
+  "geometry": {"coordinates":[-79.37583100000001,35.083798],"type":"Point"}
 }

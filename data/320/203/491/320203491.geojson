@@ -2,13 +2,14 @@
   "id": 320203491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.815469,35.620258,-80.815469,35.620258",
     "geom:latitude":35.620258,
     "geom:longitude":-80.815469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 McKenzie Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320203491,
-    "wof:lastmodified":1449012907,
+    "wof:lastmodified":1466648136,
     "wof:name":"Continental Sales Pog",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-80.815469,35.620258,-80.815469,35.620258],
-  "geometry": {"coordinates":[-80.815469,35.620258],"type":"Point"}
+  "bbox": [
+    -80.815469,
+    35.620258,
+    -80.815469,
+    35.620258
+],
+  "geometry": {"coordinates":[-80.81546899999999,35.620258],"type":"Point"}
 }

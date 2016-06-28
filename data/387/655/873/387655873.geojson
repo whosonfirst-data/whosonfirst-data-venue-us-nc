@@ -2,13 +2,14 @@
   "id": 387655873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.825786,34.770828,-77.825786,34.770828",
     "geom:latitude":34.770828,
     "geom:longitude":-77.825786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Fitz Williams Rd",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387655873,
-    "wof:lastmodified":1449058295,
+    "wof:lastmodified":1466657167,
     "wof:name":"B & P Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.825786,34.770828,-77.825786,34.770828],
-  "geometry": {"coordinates":[-77.825786,34.770828],"type":"Point"}
+  "bbox": [
+    -77.825786,
+    34.770828,
+    -77.825786,
+    34.770828
+],
+  "geometry": {"coordinates":[-77.82578599999999,34.770828],"type":"Point"}
 }

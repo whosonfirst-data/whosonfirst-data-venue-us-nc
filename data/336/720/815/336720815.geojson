@@ -2,13 +2,14 @@
   "id": 336720815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.44518,36.088643,-79.44518,36.088643",
     "geom:latitude":36.088643,
     "geom:longitude":-79.44518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 S Main St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336720815,
-    "wof:lastmodified":1448997207,
+    "wof:lastmodified":1466647673,
     "wof:name":"Biscuitville Training Ctr",
     "wof:parent_id":85810235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.44518,36.088643,-79.44518,36.088643],
-  "geometry": {"coordinates":[-79.44518,36.088643],"type":"Point"}
+  "bbox": [
+    -79.44518,
+    36.088643,
+    -79.44518,
+    36.088643
+],
+  "geometry": {"coordinates":[-79.44517999999999,36.088643],"type":"Point"}
 }

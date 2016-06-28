@@ -2,13 +2,14 @@
   "id": 387836189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.763446,36.194994,-79.763446,36.194994",
     "geom:latitude":36.194994,
     "geom:longitude":-79.763446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5293 Yanceyville Rd",
     "sg:city":"Browns Summit",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387836189,
-    "wof:lastmodified":1449058627,
+    "wof:lastmodified":1466657840,
     "wof:name":"Richardson Transmission",
     "wof:parent_id":85852095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-79.763446,36.194994,-79.763446,36.194994],
+  "bbox": [
+    -79.763446,
+    36.194994,
+    -79.763446,
+    36.194994
+],
   "geometry": {"coordinates":[-79.763446,36.194994],"type":"Point"}
 }

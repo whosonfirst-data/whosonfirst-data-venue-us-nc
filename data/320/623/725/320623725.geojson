@@ -2,13 +2,14 @@
   "id": 320623725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.467858,36.254921,-78.467858,36.254921",
     "geom:latitude":36.254921,
     "geom:longitude":-78.467858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Community House Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320623725,
-    "wof:lastmodified":1449013886,
+    "wof:lastmodified":1466654172,
     "wof:name":"Old Country Club Steak House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.467858,36.254921,-78.467858,36.254921],
-  "geometry": {"coordinates":[-78.467858,36.254921],"type":"Point"}
+  "bbox": [
+    -78.467858,
+    36.254921,
+    -78.467858,
+    36.254921
+],
+  "geometry": {"coordinates":[-78.46785800000001,36.254921],"type":"Point"}
 }

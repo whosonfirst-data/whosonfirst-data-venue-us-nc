@@ -2,13 +2,14 @@
   "id": 286412075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.992083,35.510994,-82.992083,35.510994",
     "geom:latitude":35.510994,
     "geom:longitude":-82.992083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1187 Russ Ave",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286412075,
-    "wof:lastmodified":1449015763,
+    "wof:lastmodified":1466645180,
     "wof:name":"Saki Sushi Asian Fusion",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.992083,35.510994,-82.992083,35.510994],
-  "geometry": {"coordinates":[-82.992083,35.510994],"type":"Point"}
+  "bbox": [
+    -82.992083,
+    35.510994,
+    -82.992083,
+    35.510994
+],
+  "geometry": {"coordinates":[-82.99208299999999,35.510994],"type":"Point"}
 }

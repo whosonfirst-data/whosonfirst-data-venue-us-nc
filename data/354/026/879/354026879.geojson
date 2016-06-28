@@ -2,13 +2,14 @@
   "id": 354026879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.652029,35.900679,-78.652029,35.900679",
     "geom:latitude":35.900679,
     "geom:longitude":-78.652029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8816 Six Forks Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354026879,
-    "wof:lastmodified":1449066947,
+    "wof:lastmodified":1466647857,
     "wof:name":"Legacy Private Client Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financial"
     ]
 },
-  "bbox": [-78.652029,35.900679,-78.652029,35.900679],
+  "bbox": [
+    -78.652029,
+    35.900679,
+    -78.652029,
+    35.900679
+],
   "geometry": {"coordinates":[-78.652029,35.900679],"type":"Point"}
 }

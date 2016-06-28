@@ -2,13 +2,14 @@
   "id": 220190997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.163384,34.566065,-78.163384,34.566065",
     "geom:latitude":34.566065,
     "geom:longitude":-78.163384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Tuckahoe Rd",
     "sg:city":"Atkinson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220190997,
-    "wof:lastmodified":1449074837,
+    "wof:lastmodified":1466644724,
     "wof:name":"J Cobb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-78.163384,34.566065,-78.163384,34.566065],
-  "geometry": {"coordinates":[-78.163384,34.566065],"type":"Point"}
+  "bbox": [
+    -78.163384,
+    34.566065,
+    -78.163384,
+    34.566065
+],
+  "geometry": {"coordinates":[-78.16338399999999,34.566065],"type":"Point"}
 }

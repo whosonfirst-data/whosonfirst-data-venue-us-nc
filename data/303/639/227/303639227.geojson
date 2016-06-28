@@ -2,13 +2,14 @@
   "id": 303639227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.69298,35.386301,-80.69298,35.386301",
     "geom:latitude":35.386301,
     "geom:longitude":-80.69298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Pitts School Rd NW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303639227,
-    "wof:lastmodified":1449000555,
+    "wof:lastmodified":1466652538,
     "wof:name":"East Coast Countertops",
     "wof:parent_id":85891909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "counter"
     ]
 },
-  "bbox": [-80.69298,35.386301,-80.69298,35.386301],
-  "geometry": {"coordinates":[-80.69298,35.386301],"type":"Point"}
+  "bbox": [
+    -80.69298,
+    35.386301,
+    -80.69298,
+    35.386301
+],
+  "geometry": {"coordinates":[-80.69298000000001,35.386301],"type":"Point"}
 }

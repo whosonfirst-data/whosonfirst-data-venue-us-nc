@@ -2,13 +2,14 @@
   "id": 270249059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94043,36.291758,-79.94043,36.291758",
     "geom:latitude":36.291758,
     "geom:longitude":-79.94043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Price Farm Rd",
     "sg:city":"Stokesdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270249059,
-    "wof:lastmodified":1449008799,
+    "wof:lastmodified":1466646198,
     "wof:name":"Shelton Logging & Chipping Inc",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-79.94043,36.291758,-79.94043,36.291758],
-  "geometry": {"coordinates":[-79.94043,36.291758],"type":"Point"}
+  "bbox": [
+    -79.94043,
+    36.291758,
+    -79.94043,
+    36.291758
+],
+  "geometry": {"coordinates":[-79.94043000000001,36.291758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387487661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.594275,36.311199,-78.594275,36.311199",
     "geom:latitude":36.311199,
     "geom:longitude":-78.594275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Penn Ave",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387487661,
-    "wof:lastmodified":1449057344,
+    "wof:lastmodified":1466655985,
     "wof:name":"Harris Used Tires",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-78.594275,36.311199,-78.594275,36.311199],
+  "bbox": [
+    -78.594275,
+    36.311199,
+    -78.594275,
+    36.311199
+],
   "geometry": {"coordinates":[-78.594275,36.311199],"type":"Point"}
 }

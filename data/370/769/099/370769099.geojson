@@ -2,13 +2,14 @@
   "id": 370769099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.33791,35.732328,-81.33791,35.732328",
     "geom:latitude":35.732328,
     "geom:longitude":-81.33791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 N Center St",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370769099,
-    "wof:lastmodified":1449030219,
+    "wof:lastmodified":1466656091,
     "wof:name":"Hickory Fire Marshall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.33791,35.732328,-81.33791,35.732328],
-  "geometry": {"coordinates":[-81.33791,35.732328],"type":"Point"}
+  "bbox": [
+    -81.33791,
+    35.732328,
+    -81.33791,
+    35.732328
+],
+  "geometry": {"coordinates":[-81.33790999999999,35.732328],"type":"Point"}
 }

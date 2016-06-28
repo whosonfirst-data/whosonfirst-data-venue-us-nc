@@ -2,13 +2,14 @@
   "id": 354015399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795246,36.067963,-79.795246,36.067963",
     "geom:latitude":36.067963,
     "geom:longitude":-79.795246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Blandwood Ave",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354015399,
-    "wof:lastmodified":1449066315,
+    "wof:lastmodified":1466647734,
     "wof:name":"Ronin Real Estate Svc",
     "wof:parent_id":85867043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.795246,36.067963,-79.795246,36.067963],
-  "geometry": {"coordinates":[-79.795246,36.067963],"type":"Point"}
+  "bbox": [
+    -79.795246,
+    36.067963,
+    -79.795246,
+    36.067963
+],
+  "geometry": {"coordinates":[-79.79524600000001,36.067963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370177415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.006426,35.478742,-83.006426,35.478742",
     "geom:latitude":35.478742,
     "geom:longitude":-83.006426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Hazelwood Ave",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370177415,
-    "wof:lastmodified":1449032469,
+    "wof:lastmodified":1466648480,
     "wof:name":"Performance Transmission",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-83.006426,35.478742,-83.006426,35.478742],
+  "bbox": [
+    -83.006426,
+    35.478742,
+    -83.006426,
+    35.478742
+],
   "geometry": {"coordinates":[-83.006426,35.478742],"type":"Point"}
 }

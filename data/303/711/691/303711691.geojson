@@ -2,13 +2,14 @@
   "id": 303711691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001235,35.999004,-80.001235,35.999004",
     "geom:latitude":35.999004,
     "geom:longitude":-80.001235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 N Centennial St",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303711691,
-    "wof:lastmodified":1449000117,
+    "wof:lastmodified":1466653590,
     "wof:name":"Knight Terri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.001235,35.999004,-80.001235,35.999004],
-  "geometry": {"coordinates":[-80.001235,35.999004],"type":"Point"}
+  "bbox": [
+    -80.001235,
+    35.999004,
+    -80.001235,
+    35.999004
+],
+  "geometry": {"coordinates":[-80.00123499999999,35.999004],"type":"Point"}
 }

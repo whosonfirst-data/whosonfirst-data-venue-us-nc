@@ -2,13 +2,14 @@
   "id": 303520709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.892647,36.281666,-75.892647,36.281666",
     "geom:latitude":36.281666,
     "geom:longitude":-75.892647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Poplar Branch Rd",
     "sg:city":"Poplar Branch",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303520709,
-    "wof:lastmodified":1448998922,
+    "wof:lastmodified":1466650816,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.892647,36.281666,-75.892647,36.281666],
+  "bbox": [
+    -75.892647,
+    36.281666,
+    -75.892647,
+    36.281666
+],
   "geometry": {"coordinates":[-75.892647,36.281666],"type":"Point"}
 }

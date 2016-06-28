@@ -2,13 +2,14 @@
   "id": 303490291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.473261,35.736779,-79.473261,35.736779",
     "geom:latitude":35.736779,
     "geom:longitude":-79.473261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 N Chatham Ave",
     "sg:city":"Siler City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303490291,
-    "wof:lastmodified":1449000319,
+    "wof:lastmodified":1466650387,
     "wof:name":"Busy Bees Creative Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.473261,35.736779,-79.473261,35.736779],
-  "geometry": {"coordinates":[-79.473261,35.736779],"type":"Point"}
+  "bbox": [
+    -79.473261,
+    35.736779,
+    -79.473261,
+    35.736779
+],
+  "geometry": {"coordinates":[-79.47326099999999,35.736779],"type":"Point"}
 }

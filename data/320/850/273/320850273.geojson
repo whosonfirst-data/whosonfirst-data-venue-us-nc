@@ -2,13 +2,14 @@
   "id": 320850273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.225429,35.417008,-78.225429,35.417008",
     "geom:latitude":35.417008,
     "geom:longitude":-78.225429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1167 Eli Olive Rd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320850273,
-    "wof:lastmodified":1449013423,
+    "wof:lastmodified":1466656722,
     "wof:name":"Randy K Rose Construction",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.225429,35.417008,-78.225429,35.417008],
-  "geometry": {"coordinates":[-78.225429,35.417008],"type":"Point"}
+  "bbox": [
+    -78.225429,
+    35.417008,
+    -78.225429,
+    35.417008
+],
+  "geometry": {"coordinates":[-78.22542900000001,35.417008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404143415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.745455,34.296789,-77.745455,34.296789",
     "geom:latitude":34.296789,
     "geom:longitude":-77.745455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8324 Bald Eagle Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404143415,
-    "wof:lastmodified":1449040106,
+    "wof:lastmodified":1466653100,
     "wof:name":"Canada & Canada Inc",
     "wof:parent_id":85852563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arbitration"
     ]
 },
-  "bbox": [-77.745455,34.296789,-77.745455,34.296789],
-  "geometry": {"coordinates":[-77.745455,34.296789],"type":"Point"}
+  "bbox": [
+    -77.745455,
+    34.296789,
+    -77.745455,
+    34.296789
+],
+  "geometry": {"coordinates":[-77.74545500000001,34.296789],"type":"Point"}
 }

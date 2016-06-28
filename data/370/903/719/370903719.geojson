@@ -2,13 +2,14 @@
   "id": 370903719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.528404,35.272556,-81.528404,35.272556",
     "geom:latitude":35.272556,
     "geom:longitude":-81.528404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Earl Rd",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370903719,
-    "wof:lastmodified":1449029279,
+    "wof:lastmodified":1466656801,
     "wof:name":"Condrey Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.528404,35.272556,-81.528404,35.272556],
-  "geometry": {"coordinates":[-81.528404,35.272556],"type":"Point"}
+  "bbox": [
+    -81.528404,
+    35.272556,
+    -81.528404,
+    35.272556
+],
+  "geometry": {"coordinates":[-81.52840399999999,35.272556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303901123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.972996,35.386309,-77.972996,35.386309",
     "geom:latitude":35.386309,
     "geom:longitude":-77.972996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 E Maple St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303901123,
-    "wof:lastmodified":1448999145,
+    "wof:lastmodified":1466656002,
     "wof:name":"S G's Painting",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-77.972996,35.386309,-77.972996,35.386309],
-  "geometry": {"coordinates":[-77.972996,35.386309],"type":"Point"}
+  "bbox": [
+    -77.972996,
+    35.386309,
+    -77.972996,
+    35.386309
+],
+  "geometry": {"coordinates":[-77.97299599999999,35.386309],"type":"Point"}
 }

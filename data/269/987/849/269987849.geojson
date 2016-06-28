@@ -2,13 +2,14 @@
   "id": 269987849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.300531,36.04864,-80.300531,36.04864",
     "geom:latitude":36.04864,
     "geom:longitude":-80.300531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Amesbury Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269987849,
-    "wof:lastmodified":1449037469,
+    "wof:lastmodified":1466649182,
     "wof:name":"National Surgical Assistance",
     "wof:parent_id":85857871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.300531,36.04864,-80.300531,36.04864],
-  "geometry": {"coordinates":[-80.300531,36.04864],"type":"Point"}
+  "bbox": [
+    -80.300531,
+    36.04864,
+    -80.300531,
+    36.04864
+],
+  "geometry": {"coordinates":[-80.30053100000001,36.04864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303339559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.941544,35.012949,-78.941544,35.012949",
     "geom:latitude":35.012949,
     "geom:longitude":-78.941544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3904 Cumberland Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303339559,
-    "wof:lastmodified":1448999211,
+    "wof:lastmodified":1466648198,
     "wof:name":"Clydes Automotive",
     "wof:parent_id":85877381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-78.941544,35.012949,-78.941544,35.012949],
-  "geometry": {"coordinates":[-78.941544,35.012949],"type":"Point"}
+  "bbox": [
+    -78.941544,
+    35.012949,
+    -78.941544,
+    35.012949
+],
+  "geometry": {"coordinates":[-78.94154399999999,35.012949],"type":"Point"}
 }

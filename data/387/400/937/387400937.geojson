@@ -2,13 +2,14 @@
   "id": 387400937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.976005,36.340167,-79.976005,36.340167",
     "geom:latitude":36.340167,
     "geom:longitude":-79.976005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2094 Ellisboro Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387400937,
-    "wof:lastmodified":1449056479,
+    "wof:lastmodified":1466655130,
     "wof:name":"Wholesale Tire Distributors",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-79.976005,36.340167,-79.976005,36.340167],
+  "bbox": [
+    -79.976005,
+    36.340167,
+    -79.976005,
+    36.340167
+],
   "geometry": {"coordinates":[-79.976005,36.340167],"type":"Point"}
 }

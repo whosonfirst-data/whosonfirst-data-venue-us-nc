@@ -2,13 +2,14 @@
   "id": 286559805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.131414,36.196561,-79.131414,36.196561",
     "geom:latitude":36.196561,
     "geom:longitude":-79.131414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Olin Rd",
     "sg:city":"Cedar Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286559805,
-    "wof:lastmodified":1449017486,
+    "wof:lastmodified":1466647189,
     "wof:name":"Parker Farms",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-79.131414,36.196561,-79.131414,36.196561],
-  "geometry": {"coordinates":[-79.131414,36.196561],"type":"Point"}
+  "bbox": [
+    -79.131414,
+    36.196561,
+    -79.131414,
+    36.196561
+],
+  "geometry": {"coordinates":[-79.13141400000001,36.196561],"type":"Point"}
 }

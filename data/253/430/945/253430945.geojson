@@ -2,13 +2,14 @@
   "id": 253430945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.294091,35.527619,-78.294091,35.527619",
     "geom:latitude":35.527619,
     "geom:longitude":-78.294091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 S Pollock St",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253430945,
-    "wof:lastmodified":1449064713,
+    "wof:lastmodified":1466647518,
     "wof:name":"Movies Unlimited",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cassette"
     ]
 },
-  "bbox": [-78.294091,35.527619,-78.294091,35.527619],
-  "geometry": {"coordinates":[-78.294091,35.527619],"type":"Point"}
+  "bbox": [
+    -78.294091,
+    35.527619,
+    -78.294091,
+    35.527619
+],
+  "geometry": {"coordinates":[-78.29409099999999,35.527619],"type":"Point"}
 }

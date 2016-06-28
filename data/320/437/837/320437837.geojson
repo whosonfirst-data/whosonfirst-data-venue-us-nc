@@ -2,13 +2,14 @@
   "id": 320437837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.002452,34.708537,-77.002452,34.708537",
     "geom:latitude":34.708537,
     "geom:longitude":-77.002452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4546 State Hwy 24",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320437837,
-    "wof:lastmodified":1449013957,
+    "wof:lastmodified":1466651461,
     "wof:name":"Goose Creek Marine",
     "wof:parent_id":85839153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-77.002452,34.708537,-77.002452,34.708537],
-  "geometry": {"coordinates":[-77.002452,34.708537],"type":"Point"}
+  "bbox": [
+    -77.002452,
+    34.708537,
+    -77.002452,
+    34.708537
+],
+  "geometry": {"coordinates":[-77.00245200000001,34.708537],"type":"Point"}
 }

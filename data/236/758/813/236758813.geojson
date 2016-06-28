@@ -2,13 +2,14 @@
   "id": 236758813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.642637,35.576027,-82.642637,35.576027",
     "geom:latitude":35.576027,
     "geom:longitude":-82.642637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Candler Knob Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236758813,
-    "wof:lastmodified":1449002483,
+    "wof:lastmodified":1466650043,
     "wof:name":"Office Clean Inc",
     "wof:parent_id":85813849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.642637,35.576027,-82.642637,35.576027],
-  "geometry": {"coordinates":[-82.642637,35.576027],"type":"Point"}
+  "bbox": [
+    -82.642637,
+    35.576027,
+    -82.642637,
+    35.576027
+],
+  "geometry": {"coordinates":[-82.64263699999999,35.576027],"type":"Point"}
 }

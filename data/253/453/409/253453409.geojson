@@ -2,13 +2,14 @@
   "id": 253453409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.170408,36.075026,-80.170408,36.075026",
     "geom:latitude":36.075026,
     "geom:longitude":-80.170408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Hines Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253453409,
-    "wof:lastmodified":1449065038,
+    "wof:lastmodified":1466647781,
     "wof:name":"Hooters",
     "wof:parent_id":85892207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.170408,36.075026,-80.170408,36.075026],
-  "geometry": {"coordinates":[-80.170408,36.075026],"type":"Point"}
+  "bbox": [
+    -80.170408,
+    36.075026,
+    -80.170408,
+    36.075026
+],
+  "geometry": {"coordinates":[-80.17040799999999,36.075026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370438949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.510421,36.172905,-79.510421,36.172905",
     "geom:latitude":36.172905,
     "geom:longitude":-79.510421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2551 State Hwy 87",
     "sg:city":"Elon College",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370438949,
-    "wof:lastmodified":1449030246,
+    "wof:lastmodified":1466651788,
     "wof:name":"Barber's Used Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "used"
     ]
 },
-  "bbox": [-79.510421,36.172905,-79.510421,36.172905],
-  "geometry": {"coordinates":[-79.510421,36.172905],"type":"Point"}
+  "bbox": [
+    -79.510421,
+    36.172905,
+    -79.510421,
+    36.172905
+],
+  "geometry": {"coordinates":[-79.51042099999999,36.172905],"type":"Point"}
 }

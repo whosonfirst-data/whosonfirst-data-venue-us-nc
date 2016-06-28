@@ -2,13 +2,14 @@
   "id": 304018885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.348075,35.611225,-82.348075,35.611225",
     "geom:latitude":35.611225,
     "geom:longitude":-82.348075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Tabernacle Rd",
     "sg:city":"Black Mountain",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304018885,
-    "wof:lastmodified":1449043868,
+    "wof:lastmodified":1466644422,
     "wof:name":"Highland Farms Retirement",
     "wof:parent_id":85823295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "residential"
     ]
 },
-  "bbox": [-82.348075,35.611225,-82.348075,35.611225],
-  "geometry": {"coordinates":[-82.348075,35.611225],"type":"Point"}
+  "bbox": [
+    -82.348075,
+    35.611225,
+    -82.348075,
+    35.611225
+],
+  "geometry": {"coordinates":[-82.34807499999999,35.611225],"type":"Point"}
 }

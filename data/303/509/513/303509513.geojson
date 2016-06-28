@@ -2,13 +2,14 @@
   "id": 303509513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.863049,35.442129,-80.863049,35.442129",
     "geom:latitude":35.442129,
     "geom:longitude":-80.863049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9719 Sam Furr Rd",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303509513,
-    "wof:lastmodified":1448998220,
+    "wof:lastmodified":1466650656,
     "wof:name":"Magic Fountain Inc",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.863049,35.442129,-80.863049,35.442129],
+  "bbox": [
+    -80.863049,
+    35.442129,
+    -80.863049,
+    35.442129
+],
   "geometry": {"coordinates":[-80.863049,35.442129],"type":"Point"}
 }

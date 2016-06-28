@@ -2,13 +2,14 @@
   "id": 320361175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.526311,35.341565,-78.526311,35.341565",
     "geom:latitude":35.341565,
     "geom:longitude":-78.526311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 State Hwy 242 S",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320361175,
-    "wof:lastmodified":1449013977,
+    "wof:lastmodified":1466650365,
     "wof:name":"Youngs Trucking Company Inc",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.526311,35.341565,-78.526311,35.341565],
-  "geometry": {"coordinates":[-78.526311,35.341565],"type":"Point"}
+  "bbox": [
+    -78.526311,
+    35.341565,
+    -78.526311,
+    35.341565
+],
+  "geometry": {"coordinates":[-78.52631100000001,35.341565],"type":"Point"}
 }

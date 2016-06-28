@@ -2,13 +2,14 @@
   "id": 353651695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259971,36.093674,-80.259971,36.093674",
     "geom:latitude":36.093674,
     "geom:longitude":-80.259971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Burke St NW",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353651695,
-    "wof:lastmodified":1449018756,
+    "wof:lastmodified":1466650020,
     "wof:name":"Hawthorne Barber Shop",
     "wof:parent_id":85881851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.259971,36.093674,-80.259971,36.093674],
-  "geometry": {"coordinates":[-80.259971,36.093674],"type":"Point"}
+  "bbox": [
+    -80.259971,
+    36.093674,
+    -80.259971,
+    36.093674
+],
+  "geometry": {"coordinates":[-80.25997099999999,36.093674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202788309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.694531,35.171185,-80.694531,35.171185",
     "geom:latitude":35.171185,
     "geom:longitude":-80.694531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6338 Farmlake Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202788309,
-    "wof:lastmodified":1449061424,
+    "wof:lastmodified":1466644075,
     "wof:name":"Brooks Notary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-80.694531,35.171185,-80.694531,35.171185],
+  "bbox": [
+    -80.694531,
+    35.171185,
+    -80.694531,
+    35.171185
+],
   "geometry": {"coordinates":[-80.694531,35.171185],"type":"Point"}
 }

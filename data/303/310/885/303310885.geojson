@@ -2,13 +2,14 @@
   "id": 303310885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.645412,34.332328,-78.645412,34.332328",
     "geom:latitude":34.332328,
     "geom:longitude":-78.645412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Honey Hill Rd",
     "sg:city":"Hallsboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303310885,
-    "wof:lastmodified":1448999625,
+    "wof:lastmodified":1466647822,
     "wof:name":"New Directions Group Care Mgmt",
     "wof:parent_id":85846389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-78.645412,34.332328,-78.645412,34.332328],
-  "geometry": {"coordinates":[-78.645412,34.332328],"type":"Point"}
+  "bbox": [
+    -78.645412,
+    34.332328,
+    -78.645412,
+    34.332328
+],
+  "geometry": {"coordinates":[-78.64541199999999,34.332328],"type":"Point"}
 }

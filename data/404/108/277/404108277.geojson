@@ -2,13 +2,14 @@
   "id": 404108277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.802123,35.586626,-80.802123,35.586626",
     "geom:latitude":35.586626,
     "geom:longitude":-80.802123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 N Main St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404108277,
-    "wof:lastmodified":1449039106,
+    "wof:lastmodified":1466652643,
     "wof:name":"Daves Pools and Spas Center",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.802123,35.586626,-80.802123,35.586626],
-  "geometry": {"coordinates":[-80.802123,35.586626],"type":"Point"}
+  "bbox": [
+    -80.802123,
+    35.586626,
+    -80.802123,
+    35.586626
+],
+  "geometry": {"coordinates":[-80.80212299999999,35.586626],"type":"Point"}
 }

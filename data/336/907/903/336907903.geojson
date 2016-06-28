@@ -2,13 +2,14 @@
   "id": 336907903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.221859,35.004096,-77.221859,35.004096",
     "geom:latitude":35.004096,
     "geom:longitude":-77.221859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Main St",
     "sg:city":"Pollocksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336907903,
-    "wof:lastmodified":1448997933,
+    "wof:lastmodified":1466650532,
     "wof:name":"Eubank Plumbing & Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.221859,35.004096,-77.221859,35.004096],
-  "geometry": {"coordinates":[-77.221859,35.004096],"type":"Point"}
+  "bbox": [
+    -77.221859,
+    35.004096,
+    -77.221859,
+    35.004096
+],
+  "geometry": {"coordinates":[-77.22185899999999,35.004096],"type":"Point"}
 }

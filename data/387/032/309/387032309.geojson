@@ -2,13 +2,14 @@
   "id": 387032309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.010996,35.094282,-79.010996,35.094282",
     "geom:latitude":35.094282,
     "geom:longitude":-79.010996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 N Reilly Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387032309,
-    "wof:lastmodified":1449057967,
+    "wof:lastmodified":1466650283,
     "wof:name":"Reilly Road Beauty Shop",
     "wof:parent_id":85851349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.010996,35.094282,-79.010996,35.094282],
-  "geometry": {"coordinates":[-79.010996,35.094282],"type":"Point"}
+  "bbox": [
+    -79.010996,
+    35.094282,
+    -79.010996,
+    35.094282
+],
+  "geometry": {"coordinates":[-79.01099600000001,35.094282],"type":"Point"}
 }

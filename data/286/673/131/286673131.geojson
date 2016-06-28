@@ -2,13 +2,14 @@
   "id": 286673131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.020159,35.764386,-78.020159,35.764386",
     "geom:latitude":35.764386,
     "geom:longitude":-78.020159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6060 US Hwy 264 Alt",
     "sg:city":"Sims",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286673131,
-    "wof:lastmodified":1449016322,
+    "wof:lastmodified":1466648732,
     "wof:name":"Simms Convenience",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.020159,35.764386,-78.020159,35.764386],
-  "geometry": {"coordinates":[-78.020159,35.764386],"type":"Point"}
+  "bbox": [
+    -78.020159,
+    35.764386,
+    -78.020159,
+    35.764386
+],
+  "geometry": {"coordinates":[-78.02015900000001,35.764386],"type":"Point"}
 }

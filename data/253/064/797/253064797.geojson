@@ -2,13 +2,14 @@
   "id": 253064797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.648373,36.437037,-77.648373,36.437037",
     "geom:latitude":36.437037,
     "geom:longitude":-77.648373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1165 E Littleton Rd",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253064797,
-    "wof:lastmodified":1449063871,
+    "wof:lastmodified":1466643753,
     "wof:name":"Owens Plantworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.648373,36.437037,-77.648373,36.437037],
-  "geometry": {"coordinates":[-77.648373,36.437037],"type":"Point"}
+  "bbox": [
+    -77.648373,
+    36.437037,
+    -77.648373,
+    36.437037
+],
+  "geometry": {"coordinates":[-77.64837300000001,36.437037],"type":"Point"}
 }

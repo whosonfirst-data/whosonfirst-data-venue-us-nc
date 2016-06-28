@@ -2,13 +2,14 @@
   "id": 203151273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.851678,35.052721,-80.851678,35.052721",
     "geom:latitude":35.052721,
     "geom:longitude":-80.851678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14835 John J Delaney Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203151273,
-    "wof:lastmodified":1449024956,
+    "wof:lastmodified":1466655018,
     "wof:name":"Genesis Ent & Plastic Surgery",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.851678,35.052721,-80.851678,35.052721],
-  "geometry": {"coordinates":[-80.851678,35.052721],"type":"Point"}
+  "bbox": [
+    -80.851678,
+    35.052721,
+    -80.851678,
+    35.052721
+],
+  "geometry": {"coordinates":[-80.85167800000001,35.052721],"type":"Point"}
 }

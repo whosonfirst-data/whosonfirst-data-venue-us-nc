@@ -2,13 +2,14 @@
   "id": 252804815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.486111,34.633049,-78.486111,34.633049",
     "geom:latitude":34.633049,
     "geom:longitude":-78.486111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 White Lake Dr",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252804815,
-    "wof:lastmodified":1449006154,
+    "wof:lastmodified":1466644089,
     "wof:name":"White Lake Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-78.486111,34.633049,-78.486111,34.633049],
-  "geometry": {"coordinates":[-78.486111,34.633049],"type":"Point"}
+  "bbox": [
+    -78.486111,
+    34.633049,
+    -78.486111,
+    34.633049
+],
+  "geometry": {"coordinates":[-78.48611099999999,34.633049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269493299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.005834,34.619999,-79.005834,34.619999",
     "geom:latitude":34.619999,
     "geom:longitude":-79.005834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 E 5th St",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269493299,
-    "wof:lastmodified":1449036909,
+    "wof:lastmodified":1466643331,
     "wof:name":"Associated Land Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "land"
     ]
 },
-  "bbox": [-79.005834,34.619999,-79.005834,34.619999],
-  "geometry": {"coordinates":[-79.005834,34.619999],"type":"Point"}
+  "bbox": [
+    -79.005834,
+    34.619999,
+    -79.005834,
+    34.619999
+],
+  "geometry": {"coordinates":[-79.00583399999999,34.619999],"type":"Point"}
 }

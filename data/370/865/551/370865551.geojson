@@ -2,13 +2,14 @@
   "id": 370865551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.238329,34.809763,-77.238329,34.809763",
     "geom:latitude":34.809763,
     "geom:longitude":-77.238329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 Riggs Rd",
     "sg:city":"Maysville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370865551,
-    "wof:lastmodified":1449031648,
+    "wof:lastmodified":1466656878,
     "wof:name":"Dixie Bray Cotton",
     "wof:parent_id":85834913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-77.238329,34.809763,-77.238329,34.809763],
-  "geometry": {"coordinates":[-77.238329,34.809763],"type":"Point"}
+  "bbox": [
+    -77.238329,
+    34.809763,
+    -77.238329,
+    34.809763
+],
+  "geometry": {"coordinates":[-77.23832899999999,34.809763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303404591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.780175,35.730623,-78.780175,35.730623",
     "geom:latitude":35.730623,
     "geom:longitude":-78.780175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Ayelsford Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303404591,
-    "wof:lastmodified":1448999741,
+    "wof:lastmodified":1466649129,
     "wof:name":"Central Material Handling Inc",
     "wof:parent_id":85854847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [-78.780175,35.730623,-78.780175,35.730623],
+  "bbox": [
+    -78.780175,
+    35.730623,
+    -78.780175,
+    35.730623
+],
   "geometry": {"coordinates":[-78.780175,35.730623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353450265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.268358,35.475764,-81.268358,35.475764",
     "geom:latitude":35.475764,
     "geom:longitude":-81.268358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Reepsville Rd",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353450265,
-    "wof:lastmodified":1449020429,
+    "wof:lastmodified":1466647826,
     "wof:name":"Mike's Westside Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.268358,35.475764,-81.268358,35.475764],
-  "geometry": {"coordinates":[-81.268358,35.475764],"type":"Point"}
+  "bbox": [
+    -81.268358,
+    35.475764,
+    -81.268358,
+    35.475764
+],
+  "geometry": {"coordinates":[-81.26835800000001,35.475764],"type":"Point"}
 }

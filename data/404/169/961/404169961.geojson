@@ -2,13 +2,14 @@
   "id": 404169961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.939529,35.077969,-78.939529,35.077969",
     "geom:latitude":35.077969,
     "geom:longitude":-78.939529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3637 Sycamore Dairy Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404169961,
-    "wof:lastmodified":1449039850,
+    "wof:lastmodified":1466653438,
     "wof:name":"TOTAL Billings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-78.939529,35.077969,-78.939529,35.077969],
-  "geometry": {"coordinates":[-78.939529,35.077969],"type":"Point"}
+  "bbox": [
+    -78.939529,
+    35.077969,
+    -78.939529,
+    35.077969
+],
+  "geometry": {"coordinates":[-78.93952899999999,35.077969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387332733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.556395,35.729013,-82.556395,35.729013",
     "geom:latitude":35.729013,
     "geom:longitude":-82.556395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Silverwood Farm Rd",
     "sg:city":"Weaverville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387332733,
-    "wof:lastmodified":1449058227,
+    "wof:lastmodified":1466654236,
     "wof:name":"Elkins Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "quarry"
     ]
 },
-  "bbox": [-82.556395,35.729013,-82.556395,35.729013],
-  "geometry": {"coordinates":[-82.556395,35.729013],"type":"Point"}
+  "bbox": [
+    -82.556395,
+    35.729013,
+    -82.556395,
+    35.729013
+],
+  "geometry": {"coordinates":[-82.55639499999999,35.729013],"type":"Point"}
 }

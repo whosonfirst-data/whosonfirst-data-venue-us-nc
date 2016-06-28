@@ -2,13 +2,14 @@
   "id": 387689195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.647258,35.322353,-80.647258,35.322353",
     "geom:latitude":35.322353,
     "geom:longitude":-80.647258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4244 State Hwy 49 S",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387689195,
-    "wof:lastmodified":1449059282,
+    "wof:lastmodified":1466657305,
     "wof:name":"Pets & Beyond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.647258,35.322353,-80.647258,35.322353],
-  "geometry": {"coordinates":[-80.647258,35.322353],"type":"Point"}
+  "bbox": [
+    -80.647258,
+    35.322353,
+    -80.647258,
+    35.322353
+],
+  "geometry": {"coordinates":[-80.64725799999999,35.322353],"type":"Point"}
 }

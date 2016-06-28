@@ -2,13 +2,14 @@
   "id": 236723251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.466683,35.669941,-80.466683,35.669941",
     "geom:latitude":35.669941,
     "geom:longitude":-80.466683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N Main St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236723251,
-    "wof:lastmodified":1449003599,
+    "wof:lastmodified":1466649703,
     "wof:name":"Crime Control & Public Safety",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crime"
     ]
 },
-  "bbox": [-80.466683,35.669941,-80.466683,35.669941],
+  "bbox": [
+    -80.466683,
+    35.669941,
+    -80.466683,
+    35.669941
+],
   "geometry": {"coordinates":[-80.466683,35.669941],"type":"Point"}
 }

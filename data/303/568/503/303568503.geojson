@@ -2,13 +2,14 @@
   "id": 303568503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.415099,36.097337,-79.415099,36.097337",
     "geom:latitude":36.097337,
     "geom:longitude":-79.415099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1382 N Church St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303568503,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1466651500,
     "wof:name":"Tommy's Mini Mart",
     "wof:parent_id":85838431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-79.415099,36.097337,-79.415099,36.097337],
+  "bbox": [
+    -79.415099,
+    36.097337,
+    -79.415099,
+    36.097337
+],
   "geometry": {"coordinates":[-79.415099,36.097337],"type":"Point"}
 }

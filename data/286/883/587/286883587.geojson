@@ -2,13 +2,14 @@
   "id": 286883587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.897438,34.177987,-77.897438,34.177987",
     "geom:latitude":34.177987,
     "geom:longitude":-77.897438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Macon Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286883587,
-    "wof:lastmodified":1449017434,
+    "wof:lastmodified":1466651603,
     "wof:name":"RLB & Assoc",
     "wof:parent_id":85817219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.897438,34.177987,-77.897438,34.177987],
-  "geometry": {"coordinates":[-77.897438,34.177987],"type":"Point"}
+  "bbox": [
+    -77.897438,
+    34.177987,
+    -77.897438,
+    34.177987
+],
+  "geometry": {"coordinates":[-77.89743799999999,34.177987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387704985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.59142,35.422099,-80.59142,35.422099",
     "geom:latitude":35.422099,
     "geom:longitude":-80.59142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"471 Church St N",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387704985,
-    "wof:lastmodified":1449057095,
+    "wof:lastmodified":1466657358,
     "wof:name":"Oakwood Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-80.59142,35.422099,-80.59142,35.422099],
+  "bbox": [
+    -80.59142,
+    35.422099,
+    -80.59142,
+    35.422099
+],
   "geometry": {"coordinates":[-80.59142,35.422099],"type":"Point"}
 }

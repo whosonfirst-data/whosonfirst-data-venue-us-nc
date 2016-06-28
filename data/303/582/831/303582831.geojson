@@ -2,13 +2,14 @@
   "id": 303582831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.108568,35.628285,-80.108568,35.628285",
     "geom:latitude":35.628285,
     "geom:longitude":-80.108568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18219 S State Hwy 109",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303582831,
-    "wof:lastmodified":1448999437,
+    "wof:lastmodified":1466651700,
     "wof:name":"Precision Buildings & Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "prefabricated"
     ]
 },
-  "bbox": [-80.108568,35.628285,-80.108568,35.628285],
-  "geometry": {"coordinates":[-80.108568,35.628285],"type":"Point"}
+  "bbox": [
+    -80.108568,
+    35.628285,
+    -80.108568,
+    35.628285
+],
+  "geometry": {"coordinates":[-80.10856800000001,35.628285],"type":"Point"}
 }

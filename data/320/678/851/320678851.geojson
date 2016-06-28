@@ -2,13 +2,14 @@
   "id": 320678851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.143651,35.269191,-81.143651,35.269191",
     "geom:latitude":35.269191,
     "geom:longitude":-81.143651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1867 Remount Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320678851,
-    "wof:lastmodified":1449013063,
+    "wof:lastmodified":1466654961,
     "wof:name":"Uniform Connections",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "uniform"
     ]
 },
-  "bbox": [-81.143651,35.269191,-81.143651,35.269191],
-  "geometry": {"coordinates":[-81.143651,35.269191],"type":"Point"}
+  "bbox": [
+    -81.143651,
+    35.269191,
+    -81.143651,
+    35.269191
+],
+  "geometry": {"coordinates":[-81.14365100000001,35.269191],"type":"Point"}
 }

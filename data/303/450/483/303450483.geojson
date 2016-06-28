@@ -2,13 +2,14 @@
   "id": 303450483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.781567,35.334332,-80.781567,35.334332",
     "geom:latitude":35.334332,
     "geom:longitude":-80.781567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3630 Deruyter Cir",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303450483,
-    "wof:lastmodified":1449000186,
+    "wof:lastmodified":1466649806,
     "wof:name":"John Konefal MD",
     "wof:parent_id":85853167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.781567,35.334332,-80.781567,35.334332],
+  "bbox": [
+    -80.781567,
+    35.334332,
+    -80.781567,
+    35.334332
+],
   "geometry": {"coordinates":[-80.781567,35.334332],"type":"Point"}
 }

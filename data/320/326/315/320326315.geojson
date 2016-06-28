@@ -2,13 +2,14 @@
   "id": 320326315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.590404,36.271664,-81.590404,36.271664",
     "geom:latitude":36.271664,
     "geom:longitude":-81.590404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1539 Castleford Rd",
     "sg:city":"Boone",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320326315,
-    "wof:lastmodified":1449012848,
+    "wof:lastmodified":1466649862,
     "wof:name":"Boone Industries Plant",
     "wof:parent_id":85836725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.590404,36.271664,-81.590404,36.271664],
-  "geometry": {"coordinates":[-81.590404,36.271664],"type":"Point"}
+  "bbox": [
+    -81.590404,
+    36.271664,
+    -81.590404,
+    36.271664
+],
+  "geometry": {"coordinates":[-81.59040400000001,36.271664],"type":"Point"}
 }

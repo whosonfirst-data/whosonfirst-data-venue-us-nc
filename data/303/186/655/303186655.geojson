@@ -2,13 +2,14 @@
   "id": 303186655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.742239,35.931651,-77.742239,35.931651",
     "geom:latitude":35.931651,
     "geom:longitude":-77.742239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Rouse Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303186655,
-    "wof:lastmodified":1449000033,
+    "wof:lastmodified":1466646006,
     "wof:name":"Universal Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-77.742239,35.931651,-77.742239,35.931651],
+  "bbox": [
+    -77.742239,
+    35.931651,
+    -77.742239,
+    35.931651
+],
   "geometry": {"coordinates":[-77.742239,35.931651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303533015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.088501,35.691933,-81.088501,35.691933",
     "geom:latitude":35.691933,
     "geom:longitude":-81.088501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4956 State Hwy 10 E",
     "sg:city":"Catawba",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303533015,
-    "wof:lastmodified":1448998086,
+    "wof:lastmodified":1466650982,
     "wof:name":"C R Miller Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.088501,35.691933,-81.088501,35.691933],
-  "geometry": {"coordinates":[-81.088501,35.691933],"type":"Point"}
+  "bbox": [
+    -81.088501,
+    35.691933,
+    -81.088501,
+    35.691933
+],
+  "geometry": {"coordinates":[-81.08850099999999,35.691933],"type":"Point"}
 }

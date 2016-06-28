@@ -2,13 +2,14 @@
   "id": 287283603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.750999,35.17785,-80.750999,35.17785",
     "geom:latitude":35.17785,
     "geom:longitude":-80.750999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6054 E Independence Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287283603,
-    "wof:lastmodified":1449000912,
+    "wof:lastmodified":1466647244,
     "wof:name":"Alta Mere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tinting"
     ]
 },
-  "bbox": [-80.750999,35.17785,-80.750999,35.17785],
-  "geometry": {"coordinates":[-80.750999,35.17785],"type":"Point"}
+  "bbox": [
+    -80.750999,
+    35.17785,
+    -80.750999,
+    35.17785
+],
+  "geometry": {"coordinates":[-80.75099899999999,35.17785],"type":"Point"}
 }

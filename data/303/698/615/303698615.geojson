@@ -2,13 +2,14 @@
   "id": 303698615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255424,36.074928,-80.255424,36.074928",
     "geom:latitude":36.074928,
     "geom:longitude":-80.255424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Salem Valley Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303698615,
-    "wof:lastmodified":1449000415,
+    "wof:lastmodified":1466653397,
     "wof:name":"Salem Crossings",
     "wof:parent_id":85803439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.255424,36.074928,-80.255424,36.074928],
+  "bbox": [
+    -80.255424,
+    36.074928,
+    -80.255424,
+    36.074928
+],
   "geometry": {"coordinates":[-80.255424,36.074928],"type":"Point"}
 }

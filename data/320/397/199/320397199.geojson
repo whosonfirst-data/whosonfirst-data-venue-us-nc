@@ -2,13 +2,14 @@
   "id": 320397199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.057234,35.848552,-77.057234,35.848552",
     "geom:latitude":35.848552,
     "geom:longitude":-77.057234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Washington St",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320397199,
-    "wof:lastmodified":1449012756,
+    "wof:lastmodified":1466650885,
     "wof:name":"Roanoke Land Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-77.057234,35.848552,-77.057234,35.848552],
-  "geometry": {"coordinates":[-77.057234,35.848552],"type":"Point"}
+  "bbox": [
+    -77.057234,
+    35.848552,
+    -77.057234,
+    35.848552
+],
+  "geometry": {"coordinates":[-77.05723399999999,35.848552],"type":"Point"}
 }

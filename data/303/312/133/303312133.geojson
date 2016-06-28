@@ -2,13 +2,14 @@
   "id": 303312133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.189429,36.111161,-81.189429,36.111161",
     "geom:latitude":36.111161,
     "geom:longitude":-81.189429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 Cain Ridge Rd",
     "sg:city":"Wilkesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303312133,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1466647839,
     "wof:name":"Cain Ridge Kennel",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-81.189429,36.111161,-81.189429,36.111161],
+  "bbox": [
+    -81.189429,
+    36.111161,
+    -81.189429,
+    36.111161
+],
   "geometry": {"coordinates":[-81.189429,36.111161],"type":"Point"}
 }

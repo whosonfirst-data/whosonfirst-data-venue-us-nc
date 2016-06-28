@@ -2,13 +2,14 @@
   "id": 303271359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.197538,35.252902,-82.197538,35.252902",
     "geom:latitude":35.252902,
     "geom:longitude":-82.197538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Peak St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303271359,
-    "wof:lastmodified":1448999401,
+    "wof:lastmodified":1466647264,
     "wof:name":"Columbus Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.197538,35.252902,-82.197538,35.252902],
-  "geometry": {"coordinates":[-82.197538,35.252902],"type":"Point"}
+  "bbox": [
+    -82.197538,
+    35.252902,
+    -82.197538,
+    35.252902
+],
+  "geometry": {"coordinates":[-82.19753799999999,35.252902],"type":"Point"}
 }

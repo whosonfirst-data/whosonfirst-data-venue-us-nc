@@ -2,13 +2,14 @@
   "id": 269856489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.599775,35.256619,-80.599775,35.256619",
     "geom:latitude":35.256619,
     "geom:longitude":-80.599775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 Morrison Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269856489,
-    "wof:lastmodified":1449036844,
+    "wof:lastmodified":1466647582,
     "wof:name":"Dulin Mechanical Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.599775,35.256619,-80.599775,35.256619],
-  "geometry": {"coordinates":[-80.599775,35.256619],"type":"Point"}
+  "bbox": [
+    -80.599775,
+    35.256619,
+    -80.599775,
+    35.256619
+],
+  "geometry": {"coordinates":[-80.59977499999999,35.256619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387797243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.560645,35.595197,-82.560645,35.595197",
     "geom:latitude":35.595197,
     "geom:longitude":-82.560645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 N Ann St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387797243,
-    "wof:lastmodified":1449059539,
+    "wof:lastmodified":1466657656,
     "wof:name":"William L Anixter MD",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatrist"
     ]
 },
-  "bbox": [-82.560645,35.595197,-82.560645,35.595197],
-  "geometry": {"coordinates":[-82.560645,35.595197],"type":"Point"}
+  "bbox": [
+    -82.560645,
+    35.595197,
+    -82.560645,
+    35.595197
+],
+  "geometry": {"coordinates":[-82.56064499999999,35.595197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320456739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.700848,35.906353,-78.700848,35.906353",
     "geom:latitude":35.906353,
     "geom:longitude":-78.700848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12203 Strickland Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320456739,
-    "wof:lastmodified":1449012372,
+    "wof:lastmodified":1466651738,
     "wof:name":"Strickland Farms Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-78.700848,35.906353,-78.700848,35.906353],
-  "geometry": {"coordinates":[-78.700848,35.906353],"type":"Point"}
+  "bbox": [
+    -78.700848,
+    35.906353,
+    -78.700848,
+    35.906353
+],
+  "geometry": {"coordinates":[-78.70084799999999,35.906353],"type":"Point"}
 }

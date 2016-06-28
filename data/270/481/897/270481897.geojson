@@ -2,13 +2,14 @@
   "id": 270481897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.228901,36.070561,-80.228901,36.070561",
     "geom:latitude":36.070561,
     "geom:longitude":-80.228901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Glendale St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270481897,
-    "wof:lastmodified":1449010775,
+    "wof:lastmodified":1466649196,
     "wof:name":"Sunnyside Ice & Fuel Co",
     "wof:parent_id":85851481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ice"
     ]
 },
-  "bbox": [-80.228901,36.070561,-80.228901,36.070561],
-  "geometry": {"coordinates":[-80.228901,36.070561],"type":"Point"}
+  "bbox": [
+    -80.228901,
+    36.070561,
+    -80.228901,
+    36.070561
+],
+  "geometry": {"coordinates":[-80.22890099999999,36.070561],"type":"Point"}
 }

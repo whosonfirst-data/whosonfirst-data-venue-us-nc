@@ -2,13 +2,14 @@
   "id": 387141297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.796327,35.790631,-78.796327,35.790631",
     "geom:latitude":35.790631,
     "geom:longitude":-78.796327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 White Oak Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387141297,
-    "wof:lastmodified":1449057432,
+    "wof:lastmodified":1466651688,
     "wof:name":"Cox Equipment Maintence & Wldg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-78.796327,35.790631,-78.796327,35.790631],
-  "geometry": {"coordinates":[-78.796327,35.790631],"type":"Point"}
+  "bbox": [
+    -78.796327,
+    35.790631,
+    -78.796327,
+    35.790631
+],
+  "geometry": {"coordinates":[-78.79632700000001,35.790631],"type":"Point"}
 }

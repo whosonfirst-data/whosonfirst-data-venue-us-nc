@@ -2,13 +2,14 @@
   "id": 287045033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.96716,35.898837,-79.96716,35.898837",
     "geom:latitude":35.898837,
     "geom:longitude":-79.96716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4405 Archdale Rd",
     "sg:city":"Trinity",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287045033,
-    "wof:lastmodified":1449001476,
+    "wof:lastmodified":1466643865,
     "wof:name":"Archdale Assembly Of God",
     "wof:parent_id":85843865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.96716,35.898837,-79.96716,35.898837],
-  "geometry": {"coordinates":[-79.96716,35.898837],"type":"Point"}
+  "bbox": [
+    -79.96716,
+    35.898837,
+    -79.96716,
+    35.898837
+],
+  "geometry": {"coordinates":[-79.96716000000001,35.898837],"type":"Point"}
 }

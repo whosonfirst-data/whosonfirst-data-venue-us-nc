@@ -2,13 +2,14 @@
   "id": 286760597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.41518,35.496127,-77.41518,35.496127",
     "geom:latitude":35.496127,
     "geom:longitude":-77.41518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3595 Old Nc 11",
     "sg:city":"Ayden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286760597,
-    "wof:lastmodified":1449017986,
+    "wof:lastmodified":1466649915,
     "wof:name":"Jason L Bowen & Son Septic Svc",
     "wof:parent_id":85851255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "septic"
     ]
 },
-  "bbox": [-77.41518,35.496127,-77.41518,35.496127],
-  "geometry": {"coordinates":[-77.41518,35.496127],"type":"Point"}
+  "bbox": [
+    -77.41518,
+    35.496127,
+    -77.41518,
+    35.496127
+],
+  "geometry": {"coordinates":[-77.41518000000001,35.496127],"type":"Point"}
 }

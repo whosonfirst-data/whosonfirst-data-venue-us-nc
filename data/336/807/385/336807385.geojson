@@ -2,13 +2,14 @@
   "id": 336807385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.466721,35.112991,-79.466721,35.112991",
     "geom:latitude":35.112991,
     "geom:longitude":-79.466721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 N Currant St",
     "sg:city":"Pinebluff",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336807385,
-    "wof:lastmodified":1448997221,
+    "wof:lastmodified":1466649005,
     "wof:name":"Village Pest Control",
     "wof:parent_id":85841741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.466721,35.112991,-79.466721,35.112991],
-  "geometry": {"coordinates":[-79.466721,35.112991],"type":"Point"}
+  "bbox": [
+    -79.466721,
+    35.112991,
+    -79.466721,
+    35.112991
+],
+  "geometry": {"coordinates":[-79.46672100000001,35.112991],"type":"Point"}
 }

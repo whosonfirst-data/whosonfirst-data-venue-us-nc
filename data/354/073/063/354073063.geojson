@@ -2,13 +2,14 @@
   "id": 354073063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.31005,35.703126,-81.31005,35.703126",
     "geom:latitude":35.703126,
     "geom:longitude":-81.31005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 Catawba Valley Blvd SE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354073063,
-    "wof:lastmodified":1449066165,
+    "wof:lastmodified":1466648413,
     "wof:name":"Bed Bath & Beyond Inc",
     "wof:parent_id":85818467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "housewares"
     ]
 },
-  "bbox": [-81.31005,35.703126,-81.31005,35.703126],
+  "bbox": [
+    -81.31005,
+    35.703126,
+    -81.31005,
+    35.703126
+],
   "geometry": {"coordinates":[-81.31005,35.703126],"type":"Point"}
 }

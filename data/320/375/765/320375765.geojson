@@ -2,13 +2,14 @@
   "id": 320375765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.640217,35.808256,-78.640217,35.808256",
     "geom:latitude":35.808256,
     "geom:longitude":-78.640217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2018 Carroll Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320375765,
-    "wof:lastmodified":1449011393,
+    "wof:lastmodified":1466650567,
     "wof:name":"Outta Sight Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "communication"
     ]
 },
-  "bbox": [-78.640217,35.808256,-78.640217,35.808256],
-  "geometry": {"coordinates":[-78.640217,35.808256],"type":"Point"}
+  "bbox": [
+    -78.640217,
+    35.808256,
+    -78.640217,
+    35.808256
+],
+  "geometry": {"coordinates":[-78.64021700000001,35.808256],"type":"Point"}
 }

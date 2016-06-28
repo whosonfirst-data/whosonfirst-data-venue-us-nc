@@ -2,13 +2,14 @@
   "id": 353559953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.704948,35.815392,-78.704948,35.815392",
     "geom:latitude":35.815392,
     "geom:longitude":-78.704948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 Lake Boone Trl",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353559953,
-    "wof:lastmodified":1449020270,
+    "wof:lastmodified":1466648891,
     "wof:name":"Mutual Builders",
     "wof:parent_id":85892087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.704948,35.815392,-78.704948,35.815392],
+  "bbox": [
+    -78.704948,
+    35.815392,
+    -78.704948,
+    35.815392
+],
   "geometry": {"coordinates":[-78.704948,35.815392],"type":"Point"}
 }

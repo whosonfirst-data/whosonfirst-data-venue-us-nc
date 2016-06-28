@@ -2,13 +2,14 @@
   "id": 202503469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.370608,35.604252,-77.370608,35.604252",
     "geom:latitude":35.604252,
     "geom:longitude":-77.370608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Charles St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202503469,
-    "wof:lastmodified":1449062656,
+    "wof:lastmodified":1466655009,
     "wof:name":"Temple Greenville Masonic",
     "wof:parent_id":85811829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.370608,35.604252,-77.370608,35.604252],
+  "bbox": [
+    -77.370608,
+    35.604252,
+    -77.370608,
+    35.604252
+],
   "geometry": {"coordinates":[-77.370608,35.604252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336816141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.011058,35.912884,-80.011058,35.912884",
     "geom:latitude":35.912884,
     "geom:longitude":-80.011058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Circle Dr",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336816141,
-    "wof:lastmodified":1448997564,
+    "wof:lastmodified":1466649126,
     "wof:name":"Gospel Way Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.011058,35.912884,-80.011058,35.912884],
-  "geometry": {"coordinates":[-80.011058,35.912884],"type":"Point"}
+  "bbox": [
+    -80.011058,
+    35.912884,
+    -80.011058,
+    35.912884
+],
+  "geometry": {"coordinates":[-80.01105800000001,35.912884],"type":"Point"}
 }

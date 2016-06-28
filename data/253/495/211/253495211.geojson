@@ -2,13 +2,14 @@
   "id": 253495211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.885513,35.764244,-80.885513,35.764244",
     "geom:latitude":35.764244,
     "geom:longitude":-80.885513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Shelton Ave",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253495211,
-    "wof:lastmodified":1449064129,
+    "wof:lastmodified":1466648320,
     "wof:name":"Frameworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-80.885513,35.764244,-80.885513,35.764244],
+  "bbox": [
+    -80.885513,
+    35.764244,
+    -80.885513,
+    35.764244
+],
   "geometry": {"coordinates":[-80.885513,35.764244],"type":"Point"}
 }

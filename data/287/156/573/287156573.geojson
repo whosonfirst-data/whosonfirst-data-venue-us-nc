@@ -2,13 +2,14 @@
   "id": 287156573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.751477,34.916995,-79.751477,34.916995",
     "geom:latitude":34.916995,
     "geom:longitude":-79.751477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Biltmore Dr",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287156573,
-    "wof:lastmodified":1449000840,
+    "wof:lastmodified":1466645475,
     "wof:name":"Sandhills Internal Medicine",
     "wof:parent_id":85832341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.751477,34.916995,-79.751477,34.916995],
-  "geometry": {"coordinates":[-79.751477,34.916995],"type":"Point"}
+  "bbox": [
+    -79.751477,
+    34.916995,
+    -79.751477,
+    34.916995
+],
+  "geometry": {"coordinates":[-79.75147699999999,34.916995],"type":"Point"}
 }

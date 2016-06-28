@@ -2,13 +2,14 @@
   "id": 269920607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.055309,35.912303,-79.055309,35.912303",
     "geom:latitude":35.912303,
     "geom:longitude":-79.055309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 S Columbia St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269920607,
-    "wof:lastmodified":1449038276,
+    "wof:lastmodified":1466648375,
     "wof:name":"DSLDKE",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.055309,35.912303,-79.055309,35.912303],
-  "geometry": {"coordinates":[-79.055309,35.912303],"type":"Point"}
+  "bbox": [
+    -79.055309,
+    35.912303,
+    -79.055309,
+    35.912303
+],
+  "geometry": {"coordinates":[-79.05530899999999,35.912303],"type":"Point"}
 }

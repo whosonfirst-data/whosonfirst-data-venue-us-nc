@@ -2,13 +2,14 @@
   "id": 370522127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.25783,35.486015,-78.25783,35.486015",
     "geom:latitude":35.486015,
     "geom:longitude":-78.25783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3295 US Hwy 70 E",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370522127,
-    "wof:lastmodified":1449030703,
+    "wof:lastmodified":1466652850,
     "wof:name":"Parrish Refrigeration Svc",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "refrigerating"
     ]
 },
-  "bbox": [-78.25783,35.486015,-78.25783,35.486015],
+  "bbox": [
+    -78.25783,
+    35.486015,
+    -78.25783,
+    35.486015
+],
   "geometry": {"coordinates":[-78.25783,35.486015],"type":"Point"}
 }

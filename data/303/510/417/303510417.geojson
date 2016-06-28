@@ -2,13 +2,14 @@
   "id": 303510417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.759257,35.841145,-76.759257,35.841145",
     "geom:latitude":35.841145,
     "geom:longitude":-76.759257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1474 US Hwy 64 W",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303510417,
-    "wof:lastmodified":1448999592,
+    "wof:lastmodified":1466650670,
     "wof:name":"Williams Waverly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-76.759257,35.841145,-76.759257,35.841145],
-  "geometry": {"coordinates":[-76.759257,35.841145],"type":"Point"}
+  "bbox": [
+    -76.759257,
+    35.841145,
+    -76.759257,
+    35.841145
+],
+  "geometry": {"coordinates":[-76.75925700000001,35.841145],"type":"Point"}
 }

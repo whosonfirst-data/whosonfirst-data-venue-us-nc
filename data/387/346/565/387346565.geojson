@@ -2,13 +2,14 @@
   "id": 387346565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.877656,35.805696,-80.877656,35.805696",
     "geom:latitude":35.805696,
     "geom:longitude":-80.877656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Carolina Ave N",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387346565,
-    "wof:lastmodified":1449056095,
+    "wof:lastmodified":1466654414,
     "wof:name":"Bob Farmer Pt",
     "wof:parent_id":85838343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.877656,35.805696,-80.877656,35.805696],
+  "bbox": [
+    -80.877656,
+    35.805696,
+    -80.877656,
+    35.805696
+],
   "geometry": {"coordinates":[-80.877656,35.805696],"type":"Point"}
 }

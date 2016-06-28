@@ -2,13 +2,14 @@
   "id": 370964545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.629641,35.738576,-78.629641,35.738576",
     "geom:latitude":35.738576,
     "geom:longitude":-78.629641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3114 Garner Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370964545,
-    "wof:lastmodified":1449031646,
+    "wof:lastmodified":1466657282,
     "wof:name":"Bobby's Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.629641,35.738576,-78.629641,35.738576],
-  "geometry": {"coordinates":[-78.629641,35.738576],"type":"Point"}
+  "bbox": [
+    -78.629641,
+    35.738576,
+    -78.629641,
+    35.738576
+],
+  "geometry": {"coordinates":[-78.62964100000001,35.738576],"type":"Point"}
 }

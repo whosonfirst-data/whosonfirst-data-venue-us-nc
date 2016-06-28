@@ -2,13 +2,14 @@
   "id": 303727957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.008051,35.532721,-77.008051,35.532721",
     "geom:latitude":35.532721,
     "geom:longitude":-77.008051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Dogwood Dr",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303727957,
-    "wof:lastmodified":1448998488,
+    "wof:lastmodified":1466653821,
     "wof:name":"Brian Dana Custom Building",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-77.008051,35.532721,-77.008051,35.532721],
-  "geometry": {"coordinates":[-77.008051,35.532721],"type":"Point"}
+  "bbox": [
+    -77.008051,
+    35.532721,
+    -77.008051,
+    35.532721
+],
+  "geometry": {"coordinates":[-77.00805099999999,35.532721],"type":"Point"}
 }

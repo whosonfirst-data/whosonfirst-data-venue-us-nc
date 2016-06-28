@@ -2,13 +2,14 @@
   "id": 354101365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.269889,36.172147,-80.269889,36.172147",
     "geom:latitude":36.172147,
     "geom:longitude":-80.269889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Laura Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354101365,
-    "wof:lastmodified":1449066835,
+    "wof:lastmodified":1466648730,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.269889,36.172147,-80.269889,36.172147],
-  "geometry": {"coordinates":[-80.269889,36.172147],"type":"Point"}
+  "bbox": [
+    -80.269889,
+    36.172147,
+    -80.269889,
+    36.172147
+],
+  "geometry": {"coordinates":[-80.26988900000001,36.172147],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252844123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.332026,35.637222,-77.332026,35.637222",
     "geom:latitude":35.637222,
     "geom:longitude":-77.332026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Greenville Blvd NE",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252844123,
-    "wof:lastmodified":1449005875,
+    "wof:lastmodified":1466644424,
     "wof:name":"Agri Supply",
     "wof:parent_id":85824139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-77.332026,35.637222,-77.332026,35.637222],
+  "bbox": [
+    -77.332026,
+    35.637222,
+    -77.332026,
+    35.637222
+],
   "geometry": {"coordinates":[-77.332026,35.637222],"type":"Point"}
 }

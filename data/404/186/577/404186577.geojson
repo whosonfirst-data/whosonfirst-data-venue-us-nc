@@ -2,13 +2,14 @@
   "id": 404186577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.892153,34.036159,-77.892153,34.036159",
     "geom:latitude":34.036159,
     "geom:longitude":-77.892153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Canal Dr",
     "sg:city":"Carolina Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404186577,
-    "wof:lastmodified":1449040034,
+    "wof:lastmodified":1466653670,
     "wof:name":"Carolina Beach Parks & Rec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-77.892153,34.036159,-77.892153,34.036159],
-  "geometry": {"coordinates":[-77.892153,34.036159],"type":"Point"}
+  "bbox": [
+    -77.892153,
+    34.036159,
+    -77.892153,
+    34.036159
+],
+  "geometry": {"coordinates":[-77.89215299999999,34.036159],"type":"Point"}
 }

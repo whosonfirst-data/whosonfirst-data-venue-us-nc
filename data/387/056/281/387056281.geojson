@@ -2,13 +2,14 @@
   "id": 387056281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.804305,35.934375,-77.804305,35.934375",
     "geom:latitude":35.934375,
     "geom:longitude":-77.804305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 W End St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387056281,
-    "wof:lastmodified":1449057190,
+    "wof:lastmodified":1466650593,
     "wof:name":"Impact One",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-77.804305,35.934375,-77.804305,35.934375],
+  "bbox": [
+    -77.804305,
+    35.934375,
+    -77.804305,
+    35.934375
+],
   "geometry": {"coordinates":[-77.804305,35.934375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186534723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.613205,35.871091,-76.613205,35.871091",
     "geom:latitude":35.871091,
     "geom:longitude":-76.613205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Union Ct",
     "sg:city":"Ahoskie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186534723,
-    "wof:lastmodified":1449051091,
+    "wof:lastmodified":1466654583,
     "wof:name":"Union Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.613205,35.871091,-76.613205,35.871091],
-  "geometry": {"coordinates":[-76.613205,35.871091],"type":"Point"}
+  "bbox": [
+    -76.613205,
+    35.871091,
+    -76.613205,
+    35.871091
+],
+  "geometry": {"coordinates":[-76.61320499999999,35.871091],"type":"Point"}
 }

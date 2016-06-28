@@ -2,13 +2,14 @@
   "id": 387818841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.704293,35.747333,-81.704293,35.747333",
     "geom:latitude":35.747333,
     "geom:longitude":-81.704293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Sanford Dr",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387818841,
-    "wof:lastmodified":1449057948,
+    "wof:lastmodified":1466657815,
     "wof:name":"David A Panzer DDS Pllc",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.704293,35.747333,-81.704293,35.747333],
-  "geometry": {"coordinates":[-81.704293,35.747333],"type":"Point"}
+  "bbox": [
+    -81.704293,
+    35.747333,
+    -81.704293,
+    35.747333
+],
+  "geometry": {"coordinates":[-81.70429300000001,35.747333],"type":"Point"}
 }

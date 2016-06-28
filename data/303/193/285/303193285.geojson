@@ -2,13 +2,14 @@
   "id": 303193285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.636339,35.853936,-78.636339,35.853936",
     "geom:latitude":35.853936,
     "geom:longitude":-78.636339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E Millbrook Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303193285,
-    "wof:lastmodified":1448998513,
+    "wof:lastmodified":1466646123,
     "wof:name":"Key Personnel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-78.636339,35.853936,-78.636339,35.853936],
-  "geometry": {"coordinates":[-78.636339,35.853936],"type":"Point"}
+  "bbox": [
+    -78.636339,
+    35.853936,
+    -78.636339,
+    35.853936
+],
+  "geometry": {"coordinates":[-78.63633900000001,35.853936],"type":"Point"}
 }

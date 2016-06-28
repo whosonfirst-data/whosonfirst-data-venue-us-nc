@@ -2,13 +2,14 @@
   "id": 236640983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.458401,35.652064,-78.458401,35.652064",
     "geom:latitude":35.652064,
     "geom:longitude":-78.458401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 E Main St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236640983,
-    "wof:lastmodified":1449003023,
+    "wof:lastmodified":1466648913,
     "wof:name":"Blackburn Consulting Engnrng",
     "wof:parent_id":85845801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-78.458401,35.652064,-78.458401,35.652064],
-  "geometry": {"coordinates":[-78.458401,35.652064],"type":"Point"}
+  "bbox": [
+    -78.458401,
+    35.652064,
+    -78.458401,
+    35.652064
+],
+  "geometry": {"coordinates":[-78.45840099999999,35.652064],"type":"Point"}
 }

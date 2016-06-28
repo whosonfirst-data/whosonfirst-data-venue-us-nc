@@ -2,13 +2,14 @@
   "id": 253138899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.59538,36.318071,-77.59538,36.318071",
     "geom:latitude":36.318071,
     "geom:longitude":-77.59538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8330 State Hwy 903",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253138899,
-    "wof:lastmodified":1449063668,
+    "wof:lastmodified":1466644451,
     "wof:name":"Benjamin Tripp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-77.59538,36.318071,-77.59538,36.318071],
-  "geometry": {"coordinates":[-77.59538,36.318071],"type":"Point"}
+  "bbox": [
+    -77.59538,
+    36.318071,
+    -77.59538,
+    36.318071
+],
+  "geometry": {"coordinates":[-77.59538000000001,36.318071],"type":"Point"}
 }

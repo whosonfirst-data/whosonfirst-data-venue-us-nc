@@ -2,13 +2,14 @@
   "id": 303061583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.999111,35.433846,-78.999111,35.433846",
     "geom:latitude":35.433846,
     "geom:longitude":-78.999111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Rosin Ln",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303061583,
-    "wof:lastmodified":1448999884,
+    "wof:lastmodified":1466644123,
     "wof:name":"UNC Chapel Hill Schl Pub Hlth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.999111,35.433846,-78.999111,35.433846],
+  "bbox": [
+    -78.999111,
+    35.433846,
+    -78.999111,
+    35.433846
+],
   "geometry": {"coordinates":[-78.999111,35.433846],"type":"Point"}
 }

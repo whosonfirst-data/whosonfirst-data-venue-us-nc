@@ -2,13 +2,14 @@
   "id": 287042749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.830627,35.576876,-78.830627,35.576876",
     "geom:latitude":35.576876,
     "geom:longitude":-78.830627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 W Academy St",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":287042749,
-    "wof:lastmodified":1449001343,
+    "wof:lastmodified":1466643828,
     "wof:name":"Marina Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.830627,35.576876,-78.830627,35.576876],
-  "geometry": {"coordinates":[-78.830627,35.576876],"type":"Point"}
+  "bbox": [
+    -78.830627,
+    35.576876,
+    -78.830627,
+    35.576876
+],
+  "geometry": {"coordinates":[-78.83062700000001,35.576876],"type":"Point"}
 }

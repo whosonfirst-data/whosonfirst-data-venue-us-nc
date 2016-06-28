@@ -2,13 +2,14 @@
   "id": 320807417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.056122,34.697213,-77.056122,34.697213",
     "geom:latitude":34.697213,
     "geom:longitude":-77.056122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Taylor Notion Rd",
     "sg:city":"Cape Carteret",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320807417,
-    "wof:lastmodified":1449012221,
+    "wof:lastmodified":1466656398,
     "wof:name":"Cape Carteret Physical Therapy",
     "wof:parent_id":85812509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-77.056122,34.697213,-77.056122,34.697213],
+  "bbox": [
+    -77.056122,
+    34.697213,
+    -77.056122,
+    34.697213
+],
   "geometry": {"coordinates":[-77.056122,34.697213],"type":"Point"}
 }

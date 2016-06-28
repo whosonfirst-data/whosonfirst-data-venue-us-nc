@@ -2,13 +2,14 @@
   "id": 286921675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.230928,35.693618,-81.230928,35.693618",
     "geom:latitude":35.693618,
     "geom:longitude":-81.230928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Old Conover-Startown Rd",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286921675,
-    "wof:lastmodified":1449017080,
+    "wof:lastmodified":1466652121,
     "wof:name":"Bradbury Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.230928,35.693618,-81.230928,35.693618],
-  "geometry": {"coordinates":[-81.230928,35.693618],"type":"Point"}
+  "bbox": [
+    -81.230928,
+    35.693618,
+    -81.230928,
+    35.693618
+],
+  "geometry": {"coordinates":[-81.23092800000001,35.693618],"type":"Point"}
 }

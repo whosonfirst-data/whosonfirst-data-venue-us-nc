@@ -2,13 +2,14 @@
   "id": 286633051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.52997,35.638939,-80.52997,35.638939",
     "geom:latitude":35.638939,
     "geom:longitude":-80.52997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Airport Rd",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286633051,
-    "wof:lastmodified":1449018059,
+    "wof:lastmodified":1466648186,
     "wof:name":"Shinn Systems Inc",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.52997,35.638939,-80.52997,35.638939],
-  "geometry": {"coordinates":[-80.52997,35.638939],"type":"Point"}
+  "bbox": [
+    -80.52997,
+    35.638939,
+    -80.52997,
+    35.638939
+],
+  "geometry": {"coordinates":[-80.52997000000001,35.638939],"type":"Point"}
 }

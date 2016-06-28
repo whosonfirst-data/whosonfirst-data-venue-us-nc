@@ -2,13 +2,14 @@
   "id": 387188261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.388629,33.970948,-78.388629,33.970948",
     "geom:latitude":33.970948,
     "geom:longitude":-78.388629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4924 Main St",
     "sg:city":"South Brunswick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387188261,
-    "wof:lastmodified":1449057995,
+    "wof:lastmodified":1466652335,
     "wof:name":"Atlantic Seawinds Shallotte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-78.388629,33.970948,-78.388629,33.970948],
-  "geometry": {"coordinates":[-78.388629,33.970948],"type":"Point"}
+  "bbox": [
+    -78.388629,
+    33.970948,
+    -78.388629,
+    33.970948
+],
+  "geometry": {"coordinates":[-78.38862899999999,33.970948],"type":"Point"}
 }

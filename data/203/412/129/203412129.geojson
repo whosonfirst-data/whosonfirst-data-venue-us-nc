@@ -2,13 +2,14 @@
   "id": 203412129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.747706,35.099259,-80.747706,35.099259",
     "geom:latitude":35.099259,
     "geom:longitude":-80.747706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Stanhope Ln",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203412129,
-    "wof:lastmodified":1449025323,
+    "wof:lastmodified":1466644097,
     "wof:name":"Southeast Sales",
     "wof:parent_id":85847807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-80.747706,35.099259,-80.747706,35.099259],
-  "geometry": {"coordinates":[-80.747706,35.099259],"type":"Point"}
+  "bbox": [
+    -80.747706,
+    35.099259,
+    -80.747706,
+    35.099259
+],
+  "geometry": {"coordinates":[-80.74770599999999,35.099259],"type":"Point"}
 }

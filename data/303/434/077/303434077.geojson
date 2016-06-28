@@ -2,13 +2,14 @@
   "id": 303434077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.048893,34.666587,-77.048893,34.666587",
     "geom:latitude":34.666587,
     "geom:longitude":-77.048893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8705 Emerald Plantation Rd",
     "sg:city":"Emerald Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303434077,
-    "wof:lastmodified":1448998643,
+    "wof:lastmodified":1466649562,
     "wof:name":"Rice Construction",
     "wof:parent_id":85839153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [-77.048893,34.666587,-77.048893,34.666587],
-  "geometry": {"coordinates":[-77.048893,34.666587],"type":"Point"}
+  "bbox": [
+    -77.048893,
+    34.666587,
+    -77.048893,
+    34.666587
+],
+  "geometry": {"coordinates":[-77.04889300000001,34.666587],"type":"Point"}
 }

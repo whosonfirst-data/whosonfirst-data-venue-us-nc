@@ -2,13 +2,14 @@
   "id": 203397647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.991458,34.633116,-78.991458,34.633116",
     "geom:latitude":34.633116,
     "geom:longitude":-78.991458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 E Elizabethtown Rd",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203397647,
-    "wof:lastmodified":1449025674,
+    "wof:lastmodified":1466643976,
     "wof:name":"Mac's Vacuum World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-78.991458,34.633116,-78.991458,34.633116],
-  "geometry": {"coordinates":[-78.991458,34.633116],"type":"Point"}
+  "bbox": [
+    -78.991458,
+    34.633116,
+    -78.991458,
+    34.633116
+],
+  "geometry": {"coordinates":[-78.99145799999999,34.633116],"type":"Point"}
 }

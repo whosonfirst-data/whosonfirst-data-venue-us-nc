@@ -2,13 +2,14 @@
   "id": 320140735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.351441,35.234141,-81.351441,35.234141",
     "geom:latitude":35.234141,
     "geom:longitude":-81.351441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Crescent Cir",
     "sg:city":"Kings Mountain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320140735,
-    "wof:lastmodified":1449011798,
+    "wof:lastmodified":1466647276,
     "wof:name":"Resurrction Evang Lthran Chrch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.351441,35.234141,-81.351441,35.234141],
-  "geometry": {"coordinates":[-81.351441,35.234141],"type":"Point"}
+  "bbox": [
+    -81.351441,
+    35.234141,
+    -81.351441,
+    35.234141
+],
+  "geometry": {"coordinates":[-81.35144099999999,35.234141],"type":"Point"}
 }

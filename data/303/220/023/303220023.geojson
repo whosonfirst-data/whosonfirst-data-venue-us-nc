@@ -2,13 +2,14 @@
   "id": 303220023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.055354,35.854152,-77.055354,35.854152",
     "geom:latitude":35.854152,
     "geom:longitude":-77.055354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Harrison St",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303220023,
-    "wof:lastmodified":1449000479,
+    "wof:lastmodified":1466646507,
     "wof:name":"J & W Sandwich Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-77.055354,35.854152,-77.055354,35.854152],
-  "geometry": {"coordinates":[-77.055354,35.854152],"type":"Point"}
+  "bbox": [
+    -77.055354,
+    35.854152,
+    -77.055354,
+    35.854152
+],
+  "geometry": {"coordinates":[-77.05535399999999,35.854152],"type":"Point"}
 }

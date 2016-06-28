@@ -2,13 +2,14 @@
   "id": 303832995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.35747,35.271792,-78.35747,35.271792",
     "geom:latitude":35.271792,
     "geom:longitude":-78.35747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 Main St",
     "sg:city":"Olivia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303832995,
-    "wof:lastmodified":1448998130,
+    "wof:lastmodified":1466655334,
     "wof:name":"Michael Wicker Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.35747,35.271792,-78.35747,35.271792],
-  "geometry": {"coordinates":[-78.35747,35.271792],"type":"Point"}
+  "bbox": [
+    -78.35747,
+    35.271792,
+    -78.35747,
+    35.271792
+],
+  "geometry": {"coordinates":[-78.35747000000001,35.271792],"type":"Point"}
 }

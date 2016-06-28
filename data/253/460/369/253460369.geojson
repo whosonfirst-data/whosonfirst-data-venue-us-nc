@@ -2,13 +2,14 @@
   "id": 253460369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.525089,35.849619,-81.525089,35.849619",
     "geom:latitude":35.849619,
     "geom:longitude":-81.525089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 Legion Rd",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253460369,
-    "wof:lastmodified":1449065630,
+    "wof:lastmodified":1466647872,
     "wof:name":"Investigative Resources Global",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "investigator"
     ]
 },
-  "bbox": [-81.525089,35.849619,-81.525089,35.849619],
-  "geometry": {"coordinates":[-81.525089,35.849619],"type":"Point"}
+  "bbox": [
+    -81.525089,
+    35.849619,
+    -81.525089,
+    35.849619
+],
+  "geometry": {"coordinates":[-81.52508899999999,35.849619],"type":"Point"}
 }

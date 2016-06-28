@@ -2,13 +2,14 @@
   "id": 319993217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.526288,35.509986,-82.526288,35.509986",
     "geom:latitude":35.509986,
     "geom:longitude":-82.526288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 Hendersonville Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319993217,
-    "wof:lastmodified":1449024442,
+    "wof:lastmodified":1466647369,
     "wof:name":"Applied Building Controls LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.526288,35.509986,-82.526288,35.509986],
-  "geometry": {"coordinates":[-82.526288,35.509986],"type":"Point"}
+  "bbox": [
+    -82.526288,
+    35.509986,
+    -82.526288,
+    35.509986
+],
+  "geometry": {"coordinates":[-82.52628799999999,35.509986],"type":"Point"}
 }

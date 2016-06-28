@@ -2,13 +2,14 @@
   "id": 354227493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.997442,35.475468,-80.997442,35.475468",
     "geom:latitude":35.475468,
     "geom:longitude":-80.997442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 Triangle Cir",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354227493,
-    "wof:lastmodified":1449066286,
+    "wof:lastmodified":1466650189,
     "wof:name":"Triangle Carpet Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-80.997442,35.475468,-80.997442,35.475468],
-  "geometry": {"coordinates":[-80.997442,35.475468],"type":"Point"}
+  "bbox": [
+    -80.997442,
+    35.475468,
+    -80.997442,
+    35.475468
+],
+  "geometry": {"coordinates":[-80.99744200000001,35.475468],"type":"Point"}
 }

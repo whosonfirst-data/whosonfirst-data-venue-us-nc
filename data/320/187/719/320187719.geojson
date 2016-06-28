@@ -2,13 +2,14 @@
   "id": 320187719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.734811,35.123405,-80.734811,35.123405",
     "geom:latitude":35.123405,
     "geom:longitude":-80.734811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Scarborough Ln",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320187719,
-    "wof:lastmodified":1449011808,
+    "wof:lastmodified":1466647921,
     "wof:name":"Gobble Lowry Associates Inc",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.734811,35.123405,-80.734811,35.123405],
-  "geometry": {"coordinates":[-80.734811,35.123405],"type":"Point"}
+  "bbox": [
+    -80.734811,
+    35.123405,
+    -80.734811,
+    35.123405
+],
+  "geometry": {"coordinates":[-80.73481099999999,35.123405],"type":"Point"}
 }

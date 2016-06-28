@@ -2,13 +2,14 @@
   "id": 336615209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.558682,35.890528,-77.558682,35.890528",
     "geom:latitude":35.890528,
     "geom:longitude":-77.558682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 W Wilson St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336615209,
-    "wof:lastmodified":1448997283,
+    "wof:lastmodified":1466646063,
     "wof:name":"Tarboro Square Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-77.558682,35.890528,-77.558682,35.890528],
+  "bbox": [
+    -77.558682,
+    35.890528,
+    -77.558682,
+    35.890528
+],
   "geometry": {"coordinates":[-77.558682,35.890528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387951601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.345776,34.994649,-80.345776,34.994649",
     "geom:latitude":34.994649,
     "geom:longitude":-80.345776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1053 Old Peachland Rd",
     "sg:city":"Marshville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387951601,
-    "wof:lastmodified":1449056286,
+    "wof:lastmodified":1466657921,
     "wof:name":"Four-T Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.345776,34.994649,-80.345776,34.994649],
+  "bbox": [
+    -80.345776,
+    34.994649,
+    -80.345776,
+    34.994649
+],
   "geometry": {"coordinates":[-80.345776,34.994649],"type":"Point"}
 }

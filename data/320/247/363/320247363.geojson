@@ -2,13 +2,14 @@
   "id": 320247363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.302432,35.200735,-77.302432,35.200735",
     "geom:latitude":35.200735,
     "geom:longitude":-77.302432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Wintergreen Rd",
     "sg:city":"Cove City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320247363,
-    "wof:lastmodified":1449013446,
+    "wof:lastmodified":1466648760,
     "wof:name":"Matthews Surveying",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-77.302432,35.200735,-77.302432,35.200735],
+  "bbox": [
+    -77.302432,
+    35.200735,
+    -77.302432,
+    35.200735
+],
   "geometry": {"coordinates":[-77.302432,35.200735],"type":"Point"}
 }

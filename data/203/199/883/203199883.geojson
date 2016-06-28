@@ -2,13 +2,14 @@
   "id": 203199883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.670841,35.802523,-78.670841,35.802523",
     "geom:latitude":35.802523,
     "geom:longitude":-78.670841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Brooks Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203199883,
-    "wof:lastmodified":1449025129,
+    "wof:lastmodified":1466655205,
     "wof:name":"Vending Guy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-78.670841,35.802523,-78.670841,35.802523],
+  "bbox": [
+    -78.670841,
+    35.802523,
+    -78.670841,
+    35.802523
+],
   "geometry": {"coordinates":[-78.670841,35.802523],"type":"Point"}
 }

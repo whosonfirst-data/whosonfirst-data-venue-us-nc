@@ -2,13 +2,14 @@
   "id": 387200471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.626185,35.708349,-78.626185,35.708349",
     "geom:latitude":35.708349,
     "geom:longitude":-78.626185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Foxwood Dr",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387200471,
-    "wof:lastmodified":1449057628,
+    "wof:lastmodified":1466652502,
     "wof:name":"Charles Pallet Svc",
     "wof:parent_id":85851535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.626185,35.708349,-78.626185,35.708349],
-  "geometry": {"coordinates":[-78.626185,35.708349],"type":"Point"}
+  "bbox": [
+    -78.626185,
+    35.708349,
+    -78.626185,
+    35.708349
+],
+  "geometry": {"coordinates":[-78.62618500000001,35.708349],"type":"Point"}
 }

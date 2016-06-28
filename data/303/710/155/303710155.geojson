@@ -2,13 +2,14 @@
   "id": 303710155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949152,34.201582,-77.949152,34.201582",
     "geom:latitude":34.201582,
     "geom:longitude":-77.949152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2055 Harrison St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303710155,
-    "wof:lastmodified":1448998269,
+    "wof:lastmodified":1466653568,
     "wof:name":"Norman's Mobile Lock & Key Svc",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-77.949152,34.201582,-77.949152,34.201582],
+  "bbox": [
+    -77.949152,
+    34.201582,
+    -77.949152,
+    34.201582
+],
   "geometry": {"coordinates":[-77.949152,34.201582],"type":"Point"}
 }

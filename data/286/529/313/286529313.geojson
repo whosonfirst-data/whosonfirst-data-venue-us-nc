@@ -2,13 +2,14 @@
   "id": 286529313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.584595,34.991068,-79.584595,34.991068",
     "geom:latitude":34.991068,
     "geom:longitude":-79.584595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Mercer St",
     "sg:city":"Marston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286529313,
-    "wof:lastmodified":1449016474,
+    "wof:lastmodified":1466646748,
     "wof:name":"Marston Poultry Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.584595,34.991068,-79.584595,34.991068],
-  "geometry": {"coordinates":[-79.584595,34.991068],"type":"Point"}
+  "bbox": [
+    -79.584595,
+    34.991068,
+    -79.584595,
+    34.991068
+],
+  "geometry": {"coordinates":[-79.58459499999999,34.991068],"type":"Point"}
 }

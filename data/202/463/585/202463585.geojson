@@ -2,13 +2,14 @@
   "id": 202463585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.647608,35.781405,-78.647608,35.781405",
     "geom:latitude":35.781405,
     "geom:longitude":-78.647608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Glenwood Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202463585,
-    "wof:lastmodified":1449061857,
+    "wof:lastmodified":1466654646,
     "wof:name":"Oriental Express",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.647608,35.781405,-78.647608,35.781405],
-  "geometry": {"coordinates":[-78.647608,35.781405],"type":"Point"}
+  "bbox": [
+    -78.647608,
+    35.781405,
+    -78.647608,
+    35.781405
+],
+  "geometry": {"coordinates":[-78.64760800000001,35.781405],"type":"Point"}
 }

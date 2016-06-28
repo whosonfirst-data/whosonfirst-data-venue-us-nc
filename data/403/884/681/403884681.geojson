@@ -2,13 +2,14 @@
   "id": 403884681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.008783,35.464769,-83.008783,35.464769",
     "geom:latitude":35.464769,
     "geom:longitude":-83.008783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 S Main St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403884681,
-    "wof:lastmodified":1449055706,
+    "wof:lastmodified":1466652716,
     "wof:name":"Sherriff Office",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-83.008783,35.464769,-83.008783,35.464769],
-  "geometry": {"coordinates":[-83.008783,35.464769],"type":"Point"}
+  "bbox": [
+    -83.008783,
+    35.464769,
+    -83.008783,
+    35.464769
+],
+  "geometry": {"coordinates":[-83.00878299999999,35.464769],"type":"Point"}
 }

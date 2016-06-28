@@ -2,13 +2,14 @@
   "id": 354408535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.793703,35.566761,-79.793703,35.566761",
     "geom:latitude":35.566761,
     "geom:longitude":-79.793703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7042 US Hwy 220 S",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354408535,
-    "wof:lastmodified":1449066148,
+    "wof:lastmodified":1466652265,
     "wof:name":"Jugtown Cafe",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.793703,35.566761,-79.793703,35.566761],
-  "geometry": {"coordinates":[-79.793703,35.566761],"type":"Point"}
+  "bbox": [
+    -79.793703,
+    35.566761,
+    -79.793703,
+    35.566761
+],
+  "geometry": {"coordinates":[-79.79370299999999,35.566761],"type":"Point"}
 }

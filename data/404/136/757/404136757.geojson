@@ -2,13 +2,14 @@
   "id": 404136757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.3366,36.186437,-80.3366,36.186437",
     "geom:latitude":36.186437,
     "geom:longitude":-80.3366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5670 Main St",
     "sg:city":"Bethania",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404136757,
-    "wof:lastmodified":1449040317,
+    "wof:lastmodified":1466653011,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.3366,36.186437,-80.3366,36.186437],
+  "bbox": [
+    -80.3366,
+    36.186437,
+    -80.3366,
+    36.186437
+],
   "geometry": {"coordinates":[-80.3366,36.186437],"type":"Point"}
 }

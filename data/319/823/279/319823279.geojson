@@ -2,13 +2,14 @@
   "id": 319823279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.154772,34.681641,-77.154772,34.681641",
     "geom:latitude":34.681641,
     "geom:longitude":-77.154772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 White Swan Way",
     "sg:city":"Swansboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":319823279,
-    "wof:lastmodified":1449024874,
+    "wof:lastmodified":1466644911,
     "wof:name":"Parkview Developers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.154772,34.681641,-77.154772,34.681641],
-  "geometry": {"coordinates":[-77.154772,34.681641],"type":"Point"}
+  "bbox": [
+    -77.154772,
+    34.681641,
+    -77.154772,
+    34.681641
+],
+  "geometry": {"coordinates":[-77.15477199999999,34.681641],"type":"Point"}
 }

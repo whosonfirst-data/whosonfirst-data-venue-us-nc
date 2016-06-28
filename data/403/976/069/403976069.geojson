@@ -2,13 +2,14 @@
   "id": 403976069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.813938,35.710701,-79.813938,35.710701",
     "geom:latitude":35.710701,
     "geom:longitude":-79.813938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 McArthur St",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":403976069,
-    "wof:lastmodified":1449055177,
+    "wof:lastmodified":1466653885,
     "wof:name":"Southern Piedmont Surgical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.813938,35.710701,-79.813938,35.710701],
-  "geometry": {"coordinates":[-79.813938,35.710701],"type":"Point"}
+  "bbox": [
+    -79.813938,
+    35.710701,
+    -79.813938,
+    35.710701
+],
+  "geometry": {"coordinates":[-79.81393799999999,35.710701],"type":"Point"}
 }

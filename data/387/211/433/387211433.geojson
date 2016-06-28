@@ -2,13 +2,14 @@
   "id": 387211433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.355721,35.586782,-77.355721,35.586782",
     "geom:latitude":35.586782,
     "geom:longitude":-77.355721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Fairview Way",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387211433,
-    "wof:lastmodified":1449057041,
+    "wof:lastmodified":1466652648,
     "wof:name":"Charles Hill Agent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.355721,35.586782,-77.355721,35.586782],
+  "bbox": [
+    -77.355721,
+    35.586782,
+    -77.355721,
+    35.586782
+],
   "geometry": {"coordinates":[-77.355721,35.586782],"type":"Point"}
 }

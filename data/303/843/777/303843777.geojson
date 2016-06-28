@@ -2,13 +2,14 @@
   "id": 303843777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.560033,36.497729,-81.560033,36.497729",
     "geom:latitude":36.497729,
     "geom:longitude":-81.560033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Miller Dr",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303843777,
-    "wof:lastmodified":1448998335,
+    "wof:lastmodified":1466655499,
     "wof:name":"Miller's Century Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.560033,36.497729,-81.560033,36.497729],
+  "bbox": [
+    -81.560033,
+    36.497729,
+    -81.560033,
+    36.497729
+],
   "geometry": {"coordinates":[-81.560033,36.497729],"type":"Point"}
 }

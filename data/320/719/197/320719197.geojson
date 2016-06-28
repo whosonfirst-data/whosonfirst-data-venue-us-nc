@@ -2,13 +2,14 @@
   "id": 320719197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.33173,35.809913,-78.33173,35.809913",
     "geom:latitude":35.809913,
     "geom:longitude":-78.33173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Barbee St Exd",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320719197,
-    "wof:lastmodified":1449011735,
+    "wof:lastmodified":1466655530,
     "wof:name":"S T Wooten Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "concrete"
     ]
 },
-  "bbox": [-78.33173,35.809913,-78.33173,35.809913],
-  "geometry": {"coordinates":[-78.33173,35.809913],"type":"Point"}
+  "bbox": [
+    -78.33173,
+    35.809913,
+    -78.33173,
+    35.809913
+],
+  "geometry": {"coordinates":[-78.33172999999999,35.809913],"type":"Point"}
 }

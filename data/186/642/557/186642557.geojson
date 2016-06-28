@@ -2,13 +2,14 @@
   "id": 186642557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.336819,35.753454,-81.336819,35.753454",
     "geom:latitude":35.753454,
     "geom:longitude":-81.336819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 2nd St NE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186642557,
-    "wof:lastmodified":1449050423,
+    "wof:lastmodified":1466655072,
     "wof:name":"Fast Photo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "processing"
     ]
 },
-  "bbox": [-81.336819,35.753454,-81.336819,35.753454],
-  "geometry": {"coordinates":[-81.336819,35.753454],"type":"Point"}
+  "bbox": [
+    -81.336819,
+    35.753454,
+    -81.336819,
+    35.753454
+],
+  "geometry": {"coordinates":[-81.33681900000001,35.753454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371126993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.451634,35.64392,-78.451634,35.64392",
     "geom:latitude":35.64392,
     "geom:longitude":-78.451634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Durham St",
     "sg:city":"Stovall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371126993,
-    "wof:lastmodified":1449049403,
+    "wof:lastmodified":1466650411,
     "wof:name":"Stovall Medical Center",
     "wof:parent_id":85854199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-78.451634,35.64392,-78.451634,35.64392],
+  "bbox": [
+    -78.451634,
+    35.64392,
+    -78.451634,
+    35.64392
+],
   "geometry": {"coordinates":[-78.451634,35.64392],"type":"Point"}
 }

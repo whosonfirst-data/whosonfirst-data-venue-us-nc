@@ -2,13 +2,14 @@
   "id": 303687301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.401367,36.328009,-78.401367,36.328009",
     "geom:latitude":36.328009,
     "geom:longitude":-78.401367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Garnett St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303687301,
-    "wof:lastmodified":1448998797,
+    "wof:lastmodified":1466653236,
     "wof:name":"Chase Development Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.401367,36.328009,-78.401367,36.328009],
-  "geometry": {"coordinates":[-78.401367,36.328009],"type":"Point"}
+  "bbox": [
+    -78.401367,
+    36.328009,
+    -78.401367,
+    36.328009
+],
+  "geometry": {"coordinates":[-78.40136699999999,36.328009],"type":"Point"}
 }

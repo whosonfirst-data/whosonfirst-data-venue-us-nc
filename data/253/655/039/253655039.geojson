@@ -2,13 +2,14 @@
   "id": 253655039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.312993,34.9853,-78.312993,34.9853",
     "geom:latitude":34.9853,
     "geom:longitude":-78.312993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Southwest Blvd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253655039,
-    "wof:lastmodified":1449064533,
+    "wof:lastmodified":1466650209,
     "wof:name":"J Fowler Henry 319 Amer Legion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.312993,34.9853,-78.312993,34.9853],
-  "geometry": {"coordinates":[-78.312993,34.9853],"type":"Point"}
+  "bbox": [
+    -78.312993,
+    34.9853,
+    -78.312993,
+    34.9853
+],
+  "geometry": {"coordinates":[-78.31299300000001,34.9853],"type":"Point"}
 }

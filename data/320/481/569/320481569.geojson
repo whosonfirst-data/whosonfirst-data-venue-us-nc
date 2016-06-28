@@ -2,13 +2,14 @@
   "id": 320481569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.435126,35.255387,-80.435126,35.255387",
     "geom:latitude":35.255387,
     "geom:longitude":-80.435126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 W Main St",
     "sg:city":"Locust",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320481569,
-    "wof:lastmodified":1449014488,
+    "wof:lastmodified":1466652092,
     "wof:name":"Buds Welding Service",
     "wof:parent_id":85892003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.435126,35.255387,-80.435126,35.255387],
+  "bbox": [
+    -80.435126,
+    35.255387,
+    -80.435126,
+    35.255387
+],
   "geometry": {"coordinates":[-80.435126,35.255387],"type":"Point"}
 }

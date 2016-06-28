@@ -2,13 +2,14 @@
   "id": 253324607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.631297,35.828514,-78.631297,35.828514",
     "geom:latitude":35.828514,
     "geom:longitude":-78.631297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4004 Barrett Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253324607,
-    "wof:lastmodified":1449064540,
+    "wof:lastmodified":1466646293,
     "wof:name":"Medical Insurance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.631297,35.828514,-78.631297,35.828514],
+  "bbox": [
+    -78.631297,
+    35.828514,
+    -78.631297,
+    35.828514
+],
   "geometry": {"coordinates":[-78.631297,35.828514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370389827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.911617,36.185387,-77.911617,36.185387",
     "geom:latitude":36.185387,
     "geom:longitude":-77.911617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5278 Ita Rd",
     "sg:city":"Enfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370389827,
-    "wof:lastmodified":1449031792,
+    "wof:lastmodified":1466651140,
     "wof:name":"Eastern Carolina Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.911617,36.185387,-77.911617,36.185387],
-  "geometry": {"coordinates":[-77.911617,36.185387],"type":"Point"}
+  "bbox": [
+    -77.911617,
+    36.185387,
+    -77.911617,
+    36.185387
+],
+  "geometry": {"coordinates":[-77.91161700000001,36.185387],"type":"Point"}
 }

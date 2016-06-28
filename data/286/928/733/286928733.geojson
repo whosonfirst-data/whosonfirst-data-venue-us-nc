@@ -2,13 +2,14 @@
   "id": 286928733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.15963,35.664579,-81.15963,35.664579",
     "geom:latitude":35.664579,
     "geom:longitude":-81.15963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Twin Oaks St",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286928733,
-    "wof:lastmodified":1449017692,
+    "wof:lastmodified":1466652218,
     "wof:name":"Shook Properties LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.15963,35.664579,-81.15963,35.664579],
-  "geometry": {"coordinates":[-81.15963,35.664579],"type":"Point"}
+  "bbox": [
+    -81.15963,
+    35.664579,
+    -81.15963,
+    35.664579
+],
+  "geometry": {"coordinates":[-81.15963000000001,35.664579],"type":"Point"}
 }

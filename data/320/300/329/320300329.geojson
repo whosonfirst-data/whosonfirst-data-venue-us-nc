@@ -2,13 +2,14 @@
   "id": 320300329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.616568,35.546991,-80.616568,35.546991",
     "geom:latitude":35.546991,
     "geom:longitude":-80.616568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Rice St",
     "sg:city":"Landis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320300329,
-    "wof:lastmodified":1449013360,
+    "wof:lastmodified":1466649482,
     "wof:name":"Landis Town of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-80.616568,35.546991,-80.616568,35.546991],
+  "bbox": [
+    -80.616568,
+    35.546991,
+    -80.616568,
+    35.546991
+],
   "geometry": {"coordinates":[-80.616568,35.546991],"type":"Point"}
 }

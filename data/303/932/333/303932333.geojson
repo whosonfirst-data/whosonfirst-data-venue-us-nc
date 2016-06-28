@@ -2,13 +2,14 @@
   "id": 303932333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.509672,35.886313,-78.509672,35.886313",
     "geom:latitude":35.886313,
     "geom:longitude":-78.509672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3329 Forestville Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303932333,
-    "wof:lastmodified":1448999025,
+    "wof:lastmodified":1466656312,
     "wof:name":"Wake Cross Roads Baptst Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.509672,35.886313,-78.509672,35.886313],
-  "geometry": {"coordinates":[-78.509672,35.886313],"type":"Point"}
+  "bbox": [
+    -78.509672,
+    35.886313,
+    -78.509672,
+    35.886313
+],
+  "geometry": {"coordinates":[-78.50967199999999,35.886313],"type":"Point"}
 }

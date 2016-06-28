@@ -2,13 +2,14 @@
   "id": 354273145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.932977,35.914228,-78.932977,35.914228",
     "geom:latitude":35.914228,
     "geom:longitude":-78.932977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6224 Fayetteville Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354273145,
-    "wof:lastmodified":1449066808,
+    "wof:lastmodified":1466650685,
     "wof:name":"Diamond Touch",
     "wof:parent_id":85858607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.932977,35.914228,-78.932977,35.914228],
-  "geometry": {"coordinates":[-78.932977,35.914228],"type":"Point"}
+  "bbox": [
+    -78.932977,
+    35.914228,
+    -78.932977,
+    35.914228
+],
+  "geometry": {"coordinates":[-78.93297699999999,35.914228],"type":"Point"}
 }

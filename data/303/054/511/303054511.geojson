@@ -2,13 +2,14 @@
   "id": 303054511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.509702,35.97889,-78.509702,35.97889",
     "geom:latitude":35.97889,
     "geom:longitude":-78.509702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Wait Ave",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303054511,
-    "wof:lastmodified":1448999269,
+    "wof:lastmodified":1466644022,
     "wof:name":"Alphabet Soup Educational Spls",
     "wof:parent_id":85892169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-78.509702,35.97889,-78.509702,35.97889],
+  "bbox": [
+    -78.509702,
+    35.97889,
+    -78.509702,
+    35.97889
+],
   "geometry": {"coordinates":[-78.509702,35.97889],"type":"Point"}
 }

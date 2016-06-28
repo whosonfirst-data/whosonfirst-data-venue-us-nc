@@ -2,13 +2,14 @@
   "id": 220134143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.553587,35.002697,-80.553587,35.002697",
     "geom:latitude":35.002697,
     "geom:longitude":-80.553587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 W Roosevelt Blvd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220134143,
-    "wof:lastmodified":1449074843,
+    "wof:lastmodified":1466644275,
     "wof:name":"Blessed Assurance Church",
     "wof:parent_id":85879029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.553587,35.002697,-80.553587,35.002697],
-  "geometry": {"coordinates":[-80.553587,35.002697],"type":"Point"}
+  "bbox": [
+    -80.553587,
+    35.002697,
+    -80.553587,
+    35.002697
+],
+  "geometry": {"coordinates":[-80.55358699999999,35.002697],"type":"Point"}
 }

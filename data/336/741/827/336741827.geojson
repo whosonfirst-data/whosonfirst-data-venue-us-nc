@@ -2,13 +2,14 @@
   "id": 336741827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.87596,36.014082,-78.87596,36.014082",
     "geom:latitude":36.014082,
     "geom:longitude":-78.87596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1433 Camden Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336741827,
-    "wof:lastmodified":1448996970,
+    "wof:lastmodified":1466647984,
     "wof:name":"Contract Grading Inc",
     "wof:parent_id":85877169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.87596,36.014082,-78.87596,36.014082],
-  "geometry": {"coordinates":[-78.87596,36.014082],"type":"Point"}
+  "bbox": [
+    -78.87596,
+    36.014082,
+    -78.87596,
+    36.014082
+],
+  "geometry": {"coordinates":[-78.87596000000001,36.014082],"type":"Point"}
 }

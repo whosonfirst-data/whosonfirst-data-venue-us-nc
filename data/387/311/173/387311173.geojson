@@ -2,13 +2,14 @@
   "id": 387311173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.598612,35.701085,-78.598612,35.701085",
     "geom:latitude":35.701085,
     "geom:longitude":-78.598612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 US Hwy 70 E",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387311173,
-    "wof:lastmodified":1449056995,
+    "wof:lastmodified":1466653953,
     "wof:name":"Wake County Animal Shelter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.598612,35.701085,-78.598612,35.701085],
+  "bbox": [
+    -78.598612,
+    35.701085,
+    -78.598612,
+    35.701085
+],
   "geometry": {"coordinates":[-78.598612,35.701085],"type":"Point"}
 }

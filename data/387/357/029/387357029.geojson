@@ -2,13 +2,14 @@
   "id": 387357029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134042,35.232835,-80.134042,35.232835",
     "geom:latitude":35.232835,
     "geom:longitude":-80.134042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"846 N Main St",
     "sg:city":"Norwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387357029,
-    "wof:lastmodified":1449059452,
+    "wof:lastmodified":1466654555,
     "wof:name":"Smart Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.134042,35.232835,-80.134042,35.232835],
-  "geometry": {"coordinates":[-80.134042,35.232835],"type":"Point"}
+  "bbox": [
+    -80.134042,
+    35.232835,
+    -80.134042,
+    35.232835
+],
+  "geometry": {"coordinates":[-80.13404199999999,35.232835],"type":"Point"}
 }

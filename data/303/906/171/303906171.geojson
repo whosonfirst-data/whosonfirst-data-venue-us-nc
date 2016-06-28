@@ -2,13 +2,14 @@
   "id": 303906171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.578066,35.966377,-79.578066,35.966377",
     "geom:latitude":35.966377,
     "geom:longitude":-79.578066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 Alamance Church Rd",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303906171,
-    "wof:lastmodified":1448999047,
+    "wof:lastmodified":1466656028,
     "wof:name":"Liberty Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.578066,35.966377,-79.578066,35.966377],
-  "geometry": {"coordinates":[-79.578066,35.966377],"type":"Point"}
+  "bbox": [
+    -79.578066,
+    35.966377,
+    -79.578066,
+    35.966377
+],
+  "geometry": {"coordinates":[-79.57806600000001,35.966377],"type":"Point"}
 }

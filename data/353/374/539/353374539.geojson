@@ -2,13 +2,14 @@
   "id": 353374539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.027273,35.936259,-79.027273,35.936259",
     "geom:latitude":35.936259,
     "geom:longitude":-79.027273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 E Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353374539,
-    "wof:lastmodified":1449019371,
+    "wof:lastmodified":1466647484,
     "wof:name":"Brewster Co",
     "wof:parent_id":85852075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.027273,35.936259,-79.027273,35.936259],
-  "geometry": {"coordinates":[-79.027273,35.936259],"type":"Point"}
+  "bbox": [
+    -79.027273,
+    35.936259,
+    -79.027273,
+    35.936259
+],
+  "geometry": {"coordinates":[-79.02727299999999,35.936259],"type":"Point"}
 }

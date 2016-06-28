@@ -2,13 +2,14 @@
   "id": 236030069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.256532,35.474608,-81.256532,35.474608",
     "geom:latitude":35.474608,
     "geom:longitude":-81.256532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Academy St",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236030069,
-    "wof:lastmodified":1449002741,
+    "wof:lastmodified":1466643509,
     "wof:name":"Fire Marshall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.256532,35.474608,-81.256532,35.474608],
-  "geometry": {"coordinates":[-81.256532,35.474608],"type":"Point"}
+  "bbox": [
+    -81.256532,
+    35.474608,
+    -81.256532,
+    35.474608
+],
+  "geometry": {"coordinates":[-81.25653200000001,35.474608],"type":"Point"}
 }

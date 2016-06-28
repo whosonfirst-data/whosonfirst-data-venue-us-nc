@@ -2,13 +2,14 @@
   "id": 387932227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.58871,35.333085,-81.58871,35.333085",
     "geom:latitude":35.333085,
     "geom:longitude":-81.58871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 Chatfield Rd",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387932227,
-    "wof:lastmodified":1449057516,
+    "wof:lastmodified":1466658017,
     "wof:name":"Gold Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.58871,35.333085,-81.58871,35.333085],
-  "geometry": {"coordinates":[-81.58871,35.333085],"type":"Point"}
+  "bbox": [
+    -81.58871,
+    35.333085,
+    -81.58871,
+    35.333085
+],
+  "geometry": {"coordinates":[-81.58871000000001,35.333085],"type":"Point"}
 }

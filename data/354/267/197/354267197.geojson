@@ -2,13 +2,14 @@
   "id": 354267197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.934638,35.091049,-78.934638,35.091049",
     "geom:latitude":35.091049,
     "geom:longitude":-78.934638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1737 Daisy Ln",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354267197,
-    "wof:lastmodified":1449067514,
+    "wof:lastmodified":1466650621,
     "wof:name":"Little Debbies",
     "wof:parent_id":85858619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [-78.934638,35.091049,-78.934638,35.091049],
-  "geometry": {"coordinates":[-78.934638,35.091049],"type":"Point"}
+  "bbox": [
+    -78.934638,
+    35.091049,
+    -78.934638,
+    35.091049
+],
+  "geometry": {"coordinates":[-78.93463800000001,35.091049],"type":"Point"}
 }

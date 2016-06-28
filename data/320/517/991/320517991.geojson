@@ -2,13 +2,14 @@
   "id": 320517991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.348908,35.506457,-78.348908,35.506457",
     "geom:latitude":35.506457,
     "geom:longitude":-78.348908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 S 3rd St",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320517991,
-    "wof:lastmodified":1449013390,
+    "wof:lastmodified":1466652625,
     "wof:name":"Construction Inc",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.348908,35.506457,-78.348908,35.506457],
-  "geometry": {"coordinates":[-78.348908,35.506457],"type":"Point"}
+  "bbox": [
+    -78.348908,
+    35.506457,
+    -78.348908,
+    35.506457
+],
+  "geometry": {"coordinates":[-78.34890799999999,35.506457],"type":"Point"}
 }

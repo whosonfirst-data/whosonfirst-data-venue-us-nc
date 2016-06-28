@@ -2,13 +2,14 @@
   "id": 320550461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.813949,34.279959,-77.813949,34.279959",
     "geom:latitude":34.279959,
     "geom:longitude":-77.813949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7413 Ridgeview Pl",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320550461,
-    "wof:lastmodified":1449013286,
+    "wof:lastmodified":1466653096,
     "wof:name":"Babs McCullen",
     "wof:parent_id":85807111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "instructor"
     ]
 },
-  "bbox": [-77.813949,34.279959,-77.813949,34.279959],
-  "geometry": {"coordinates":[-77.813949,34.279959],"type":"Point"}
+  "bbox": [
+    -77.813949,
+    34.279959,
+    -77.813949,
+    34.279959
+],
+  "geometry": {"coordinates":[-77.81394899999999,34.279959],"type":"Point"}
 }

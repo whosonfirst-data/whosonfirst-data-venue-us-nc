@@ -2,13 +2,14 @@
   "id": 203242609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.185697,35.338452,-81.185697,35.338452",
     "geom:latitude":35.338452,
     "geom:longitude":-81.185697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Hooper Hill Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203242609,
-    "wof:lastmodified":1449026640,
+    "wof:lastmodified":1466655510,
     "wof:name":"Hamrick's Garage",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-81.185697,35.338452,-81.185697,35.338452],
+  "bbox": [
+    -81.185697,
+    35.338452,
+    -81.185697,
+    35.338452
+],
   "geometry": {"coordinates":[-81.185697,35.338452],"type":"Point"}
 }

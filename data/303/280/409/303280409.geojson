@@ -2,13 +2,14 @@
   "id": 303280409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.941386,34.218194,-77.941386,34.218194",
     "geom:latitude":34.218194,
     "geom:longitude":-77.941386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 S 5th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303280409,
-    "wof:lastmodified":1448999317,
+    "wof:lastmodified":1466647399,
     "wof:name":"Balding Brothers Constuction",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.941386,34.218194,-77.941386,34.218194],
-  "geometry": {"coordinates":[-77.941386,34.218194],"type":"Point"}
+  "bbox": [
+    -77.941386,
+    34.218194,
+    -77.941386,
+    34.218194
+],
+  "geometry": {"coordinates":[-77.94138599999999,34.218194],"type":"Point"}
 }

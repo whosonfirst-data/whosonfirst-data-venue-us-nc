@@ -2,13 +2,14 @@
   "id": 370805327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.807186,35.807299,-80.807186,35.807299",
     "geom:latitude":35.807299,
     "geom:longitude":-80.807186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Mocksville Hwy",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370805327,
-    "wof:lastmodified":1449030226,
+    "wof:lastmodified":1466656190,
     "wof:name":"E Z Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.807186,35.807299,-80.807186,35.807299],
+  "bbox": [
+    -80.807186,
+    35.807299,
+    -80.807186,
+    35.807299
+],
   "geometry": {"coordinates":[-80.807186,35.807299],"type":"Point"}
 }

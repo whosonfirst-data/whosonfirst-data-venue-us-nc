@@ -2,13 +2,14 @@
   "id": 236636983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.818544,34.738475,-76.818544,34.738475",
     "geom:latitude":34.738475,
     "geom:longitude":-76.818544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5306 High St",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236636983,
-    "wof:lastmodified":1449002871,
+    "wof:lastmodified":1466648869,
     "wof:name":"Southeast Elevator",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-76.818544,34.738475,-76.818544,34.738475],
+  "bbox": [
+    -76.818544,
+    34.738475,
+    -76.818544,
+    34.738475
+],
   "geometry": {"coordinates":[-76.818544,34.738475],"type":"Point"}
 }

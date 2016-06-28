@@ -2,13 +2,14 @@
   "id": 286784483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.610639,35.712737,-78.610639,35.712737",
     "geom:latitude":35.712737,
     "geom:longitude":-78.610639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Avery St",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286784483,
-    "wof:lastmodified":1449017155,
+    "wof:lastmodified":1466650229,
     "wof:name":"Avery Street Recreation Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-78.610639,35.712737,-78.610639,35.712737],
-  "geometry": {"coordinates":[-78.610639,35.712737],"type":"Point"}
+  "bbox": [
+    -78.610639,
+    35.712737,
+    -78.610639,
+    35.712737
+],
+  "geometry": {"coordinates":[-78.61063900000001,35.712737],"type":"Point"}
 }

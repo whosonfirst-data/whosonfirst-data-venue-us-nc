@@ -2,13 +2,14 @@
   "id": 320309823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.998055,34.628866,-78.998055,34.628866",
     "geom:latitude":34.628866,
     "geom:longitude":-78.998055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 E 17th St",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320309823,
-    "wof:lastmodified":1449012088,
+    "wof:lastmodified":1466649619,
     "wof:name":"Beauty Booth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-78.998055,34.628866,-78.998055,34.628866],
-  "geometry": {"coordinates":[-78.998055,34.628866],"type":"Point"}
+  "bbox": [
+    -78.998055,
+    34.628866,
+    -78.998055,
+    34.628866
+],
+  "geometry": {"coordinates":[-78.99805499999999,34.628866],"type":"Point"}
 }

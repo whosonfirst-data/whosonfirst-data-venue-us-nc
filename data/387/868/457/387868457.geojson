@@ -2,13 +2,14 @@
   "id": 387868457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.386671,35.606452,-82.386671,35.606452",
     "geom:latitude":35.606452,
     "geom:longitude":-82.386671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Stonewall Ave",
     "sg:city":"Swannanoa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387868457,
-    "wof:lastmodified":1449056293,
+    "wof:lastmodified":1466657841,
     "wof:name":"Veterans of Foreign Wars of US",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.386671,35.606452,-82.386671,35.606452],
-  "geometry": {"coordinates":[-82.386671,35.606452],"type":"Point"}
+  "bbox": [
+    -82.386671,
+    35.606452,
+    -82.386671,
+    35.606452
+],
+  "geometry": {"coordinates":[-82.38667100000001,35.606452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370855933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.600952,35.863293,-78.600952,35.863293",
     "geom:latitude":35.863293,
     "geom:longitude":-78.600952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Dixie Forest Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370855933,
-    "wof:lastmodified":1449031587,
+    "wof:lastmodified":1466656467,
     "wof:name":"Glenwood Properties Inc",
     "wof:parent_id":85830857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.600952,35.863293,-78.600952,35.863293],
-  "geometry": {"coordinates":[-78.600952,35.863293],"type":"Point"}
+  "bbox": [
+    -78.600952,
+    35.863293,
+    -78.600952,
+    35.863293
+],
+  "geometry": {"coordinates":[-78.60095200000001,35.863293],"type":"Point"}
 }

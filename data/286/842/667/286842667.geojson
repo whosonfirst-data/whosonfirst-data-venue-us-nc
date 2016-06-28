@@ -2,13 +2,14 @@
   "id": 286842667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.815048,35.249476,-80.815048,35.249476",
     "geom:latitude":35.249476,
     "geom:longitude":-80.815048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2729 N Tryon St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286842667,
-    "wof:lastmodified":1449015392,
+    "wof:lastmodified":1466651038,
     "wof:name":"Beauty Shoppe",
     "wof:parent_id":85852747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.815048,35.249476,-80.815048,35.249476],
+  "bbox": [
+    -80.815048,
+    35.249476,
+    -80.815048,
+    35.249476
+],
   "geometry": {"coordinates":[-80.815048,35.249476],"type":"Point"}
 }

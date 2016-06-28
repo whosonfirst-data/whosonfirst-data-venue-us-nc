@@ -2,13 +2,14 @@
   "id": 202809113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.295567,36.223304,-80.295567,36.223304",
     "geom:latitude":36.223304,
     "geom:longitude":-80.295567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"788 Ashley Dr",
     "sg:city":"Rural Hall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202809113,
-    "wof:lastmodified":1449062211,
+    "wof:lastmodified":1466644236,
     "wof:name":"James S Campbell Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.295567,36.223304,-80.295567,36.223304],
-  "geometry": {"coordinates":[-80.295567,36.223304],"type":"Point"}
+  "bbox": [
+    -80.295567,
+    36.223304,
+    -80.295567,
+    36.223304
+],
+  "geometry": {"coordinates":[-80.29556700000001,36.223304],"type":"Point"}
 }

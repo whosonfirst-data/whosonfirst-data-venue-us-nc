@@ -2,13 +2,14 @@
   "id": 370385321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.551647,35.600853,-82.551647,35.600853",
     "geom:latitude":35.600853,
     "geom:longitude":-82.551647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 S Liberty St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370385321,
-    "wof:lastmodified":1449031085,
+    "wof:lastmodified":1466651076,
     "wof:name":"Mc Dowall & Moorefield",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.551647,35.600853,-82.551647,35.600853],
+  "bbox": [
+    -82.551647,
+    35.600853,
+    -82.551647,
+    35.600853
+],
   "geometry": {"coordinates":[-82.551647,35.600853],"type":"Point"}
 }

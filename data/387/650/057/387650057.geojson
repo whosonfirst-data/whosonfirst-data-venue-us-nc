@@ -2,13 +2,14 @@
   "id": 387650057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.230129,35.674305,-80.230129,35.674305",
     "geom:latitude":35.674305,
     "geom:longitude":-80.230129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Periwinkle Ln",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387650057,
-    "wof:lastmodified":1449058424,
+    "wof:lastmodified":1466657148,
     "wof:name":"Oakhill Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "rental"
     ]
 },
-  "bbox": [-80.230129,35.674305,-80.230129,35.674305],
-  "geometry": {"coordinates":[-80.230129,35.674305],"type":"Point"}
+  "bbox": [
+    -80.230129,
+    35.674305,
+    -80.230129,
+    35.674305
+],
+  "geometry": {"coordinates":[-80.23012900000001,35.674305],"type":"Point"}
 }

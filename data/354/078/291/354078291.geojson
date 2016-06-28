@@ -2,13 +2,14 @@
   "id": 354078291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.387025,35.29711,-82.387025,35.29711",
     "geom:latitude":35.29711,
     "geom:longitude":-82.387025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5754 Howard Gap Rd",
     "sg:city":"Flat Rock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354078291,
-    "wof:lastmodified":1449067384,
+    "wof:lastmodified":1466648480,
     "wof:name":"Animals R Us",
     "wof:parent_id":85852073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-82.387025,35.29711,-82.387025,35.29711],
-  "geometry": {"coordinates":[-82.387025,35.29711],"type":"Point"}
+  "bbox": [
+    -82.387025,
+    35.29711,
+    -82.387025,
+    35.29711
+],
+  "geometry": {"coordinates":[-82.38702499999999,35.29711],"type":"Point"}
 }

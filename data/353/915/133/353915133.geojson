@@ -2,13 +2,14 @@
   "id": 353915133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.440818,34.870542,-78.440818,34.870542",
     "geom:latitude":34.870542,
     "geom:longitude":-78.440818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6640 Old Mintz Hwy",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353915133,
-    "wof:lastmodified":1449020755,
+    "wof:lastmodified":1466653074,
     "wof:name":"Murphy-Brown LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-78.440818,34.870542,-78.440818,34.870542],
-  "geometry": {"coordinates":[-78.440818,34.870542],"type":"Point"}
+  "bbox": [
+    -78.440818,
+    34.870542,
+    -78.440818,
+    34.870542
+],
+  "geometry": {"coordinates":[-78.44081799999999,34.870542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320173781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.360121,35.489315,-78.360121,35.489315",
     "geom:latitude":35.489315,
     "geom:longitude":-78.360121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1685 S Brightleaf Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320173781,
-    "wof:lastmodified":1449011979,
+    "wof:lastmodified":1466647726,
     "wof:name":"G & D Transportion",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.360121,35.489315,-78.360121,35.489315],
-  "geometry": {"coordinates":[-78.360121,35.489315],"type":"Point"}
+  "bbox": [
+    -78.360121,
+    35.489315,
+    -78.360121,
+    35.489315
+],
+  "geometry": {"coordinates":[-78.36012100000001,35.489315],"type":"Point"}
 }

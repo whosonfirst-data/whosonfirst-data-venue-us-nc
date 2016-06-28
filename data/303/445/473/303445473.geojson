@@ -2,13 +2,14 @@
   "id": 303445473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.020047,35.075182,-77.020047,35.075182",
     "geom:latitude":35.075182,
     "geom:longitude":-77.020047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Hoke St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303445473,
-    "wof:lastmodified":1448998446,
+    "wof:lastmodified":1466649728,
     "wof:name":"Brad S Lawn Care",
     "wof:parent_id":85827311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.020047,35.075182,-77.020047,35.075182],
-  "geometry": {"coordinates":[-77.020047,35.075182],"type":"Point"}
+  "bbox": [
+    -77.020047,
+    35.075182,
+    -77.020047,
+    35.075182
+],
+  "geometry": {"coordinates":[-77.02004700000001,35.075182],"type":"Point"}
 }

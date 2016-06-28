@@ -2,13 +2,14 @@
   "id": 203400129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.174977,35.833789,-80.174977,35.833789",
     "geom:latitude":35.833789,
     "geom:longitude":-80.174977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Davidson County Landfill Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203400129,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466643999,
     "wof:name":"County Landfill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.174977,35.833789,-80.174977,35.833789],
+  "bbox": [
+    -80.174977,
+    35.833789,
+    -80.174977,
+    35.833789
+],
   "geometry": {"coordinates":[-80.174977,35.833789],"type":"Point"}
 }

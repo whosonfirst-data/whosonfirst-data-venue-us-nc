@@ -2,13 +2,14 @@
   "id": 336883231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.485655,35.679198,-80.485655,35.679198",
     "geom:latitude":35.679198,
     "geom:longitude":-80.485655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Warehouse Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336883231,
-    "wof:lastmodified":1448997777,
+    "wof:lastmodified":1466650170,
     "wof:name":"Jim's Welding",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.485655,35.679198,-80.485655,35.679198],
-  "geometry": {"coordinates":[-80.485655,35.679198],"type":"Point"}
+  "bbox": [
+    -80.485655,
+    35.679198,
+    -80.485655,
+    35.679198
+],
+  "geometry": {"coordinates":[-80.48565499999999,35.679198],"type":"Point"}
 }

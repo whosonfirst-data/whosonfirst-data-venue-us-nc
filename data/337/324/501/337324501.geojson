@@ -2,13 +2,14 @@
   "id": 337324501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.847299,35.193663,-81.847299,35.193663",
     "geom:latitude":35.193663,
     "geom:longitude":-81.847299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Hicks Grove Rd",
     "sg:city":"Mooresboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337324501,
-    "wof:lastmodified":1449027422,
+    "wof:lastmodified":1466646363,
     "wof:name":"Cub Scouts",
     "wof:parent_id":85817829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.847299,35.193663,-81.847299,35.193663],
-  "geometry": {"coordinates":[-81.847299,35.193663],"type":"Point"}
+  "bbox": [
+    -81.847299,
+    35.193663,
+    -81.847299,
+    35.193663
+],
+  "geometry": {"coordinates":[-81.84729900000001,35.193663],"type":"Point"}
 }

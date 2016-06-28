@@ -2,13 +2,14 @@
   "id": 387462189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.981169,35.390665,-77.981169,35.390665",
     "geom:latitude":35.390665,
     "geom:longitude":-77.981169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Royall Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387462189,
-    "wof:lastmodified":1449059770,
+    "wof:lastmodified":1466655961,
     "wof:name":"Majestic Kuts By Ann",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.981169,35.390665,-77.981169,35.390665],
-  "geometry": {"coordinates":[-77.981169,35.390665],"type":"Point"}
+  "bbox": [
+    -77.981169,
+    35.390665,
+    -77.981169,
+    35.390665
+],
+  "geometry": {"coordinates":[-77.98116899999999,35.390665],"type":"Point"}
 }

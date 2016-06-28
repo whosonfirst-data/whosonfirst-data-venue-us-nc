@@ -2,13 +2,14 @@
   "id": 286828633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.610648,35.494403,-80.610648,35.494403",
     "geom:latitude":35.494403,
     "geom:longitude":-80.610648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 US Hwy 29",
     "sg:city":"Kannapolis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286828633,
-    "wof:lastmodified":1449016689,
+    "wof:lastmodified":1466650839,
     "wof:name":"Plaza Cleaners",
     "wof:parent_id":85891993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.610648,35.494403,-80.610648,35.494403],
+  "bbox": [
+    -80.610648,
+    35.494403,
+    -80.610648,
+    35.494403
+],
   "geometry": {"coordinates":[-80.610648,35.494403],"type":"Point"}
 }

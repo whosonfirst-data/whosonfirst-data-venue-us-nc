@@ -2,13 +2,14 @@
   "id": 303615817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.711621,34.72027,-76.711621,34.72027",
     "geom:latitude":34.72027,
     "geom:longitude":-76.711621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Shepard St",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303615817,
-    "wof:lastmodified":1448998890,
+    "wof:lastmodified":1466652190,
     "wof:name":"Stardust",
     "wof:parent_id":85834767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-76.711621,34.72027,-76.711621,34.72027],
-  "geometry": {"coordinates":[-76.711621,34.72027],"type":"Point"}
+  "bbox": [
+    -76.711621,
+    34.72027,
+    -76.711621,
+    34.72027
+],
+  "geometry": {"coordinates":[-76.71162099999999,34.72027],"type":"Point"}
 }

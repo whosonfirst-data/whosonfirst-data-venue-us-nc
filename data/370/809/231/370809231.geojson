@@ -2,13 +2,14 @@
   "id": 370809231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.859976,35.536072,-82.859976,35.536072",
     "geom:latitude":35.536072,
     "geom:longitude":-82.859976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Lowe St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370809231,
-    "wof:lastmodified":1449031862,
+    "wof:lastmodified":1466656239,
     "wof:name":"West Canton Baptist Church",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.859976,35.536072,-82.859976,35.536072],
+  "bbox": [
+    -82.859976,
+    35.536072,
+    -82.859976,
+    35.536072
+],
   "geometry": {"coordinates":[-82.859976,35.536072],"type":"Point"}
 }

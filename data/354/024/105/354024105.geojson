@@ -2,13 +2,14 @@
   "id": 354024105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.569494,35.949636,-78.569494,35.949636",
     "geom:latitude":35.949636,
     "geom:longitude":-78.569494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12313 Schoolhouse St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354024105,
-    "wof:lastmodified":1449066734,
+    "wof:lastmodified":1466647827,
     "wof:name":"Southrock Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-78.569494,35.949636,-78.569494,35.949636],
-  "geometry": {"coordinates":[-78.569494,35.949636],"type":"Point"}
+  "bbox": [
+    -78.569494,
+    35.949636,
+    -78.569494,
+    35.949636
+],
+  "geometry": {"coordinates":[-78.56949400000001,35.949636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253476901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.40081,36.069812,-81.40081,36.069812",
     "geom:latitude":36.069812,
     "geom:longitude":-81.40081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14635 W State Hwy 268",
     "sg:city":"Ferguson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253476901,
-    "wof:lastmodified":1449064024,
+    "wof:lastmodified":1466648073,
     "wof:name":"S D Eller Store",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.40081,36.069812,-81.40081,36.069812],
-  "geometry": {"coordinates":[-81.40081,36.069812],"type":"Point"}
+  "bbox": [
+    -81.40081,
+    36.069812,
+    -81.40081,
+    36.069812
+],
+  "geometry": {"coordinates":[-81.40081000000001,36.069812],"type":"Point"}
 }

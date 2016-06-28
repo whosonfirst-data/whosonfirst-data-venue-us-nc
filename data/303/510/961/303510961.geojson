@@ -2,13 +2,14 @@
   "id": 303510961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943475,36.073007,-79.943475,36.073007",
     "geom:latitude":36.073007,
     "geom:longitude":-79.943475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Gallimore Dairy Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303510961,
-    "wof:lastmodified":1448999593,
+    "wof:lastmodified":1466650677,
     "wof:name":"Liftone",
     "wof:parent_id":85843403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-79.943475,36.073007,-79.943475,36.073007],
-  "geometry": {"coordinates":[-79.943475,36.073007],"type":"Point"}
+  "bbox": [
+    -79.943475,
+    36.073007,
+    -79.943475,
+    36.073007
+],
+  "geometry": {"coordinates":[-79.94347500000001,36.073007],"type":"Point"}
 }

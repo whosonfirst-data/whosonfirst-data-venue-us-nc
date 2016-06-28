@@ -2,13 +2,14 @@
   "id": 202916285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.425262,34.819379,-77.425262,34.819379",
     "geom:latitude":34.819379,
     "geom:longitude":-77.425262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"542 Chief Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202916285,
-    "wof:lastmodified":1449061501,
+    "wof:lastmodified":1466645077,
     "wof:name":"Taylor's Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-77.425262,34.819379,-77.425262,34.819379],
+  "bbox": [
+    -77.425262,
+    34.819379,
+    -77.425262,
+    34.819379
+],
   "geometry": {"coordinates":[-77.425262,34.819379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370331803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.544536,35.912672,-77.544536,35.912672",
     "geom:latitude":35.912672,
     "geom:longitude":-77.544536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 N Main St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370331803,
-    "wof:lastmodified":1449031145,
+    "wof:lastmodified":1466650407,
     "wof:name":"International Healthcare",
     "wof:parent_id":85856477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "registry"
     ]
 },
-  "bbox": [-77.544536,35.912672,-77.544536,35.912672],
-  "geometry": {"coordinates":[-77.544536,35.912672],"type":"Point"}
+  "bbox": [
+    -77.544536,
+    35.912672,
+    -77.544536,
+    35.912672
+],
+  "geometry": {"coordinates":[-77.54453599999999,35.912672],"type":"Point"}
 }

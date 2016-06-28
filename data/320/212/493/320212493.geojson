@@ -2,13 +2,14 @@
   "id": 320212493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.40663,35.556751,-80.40663,35.556751",
     "geom:latitude":35.556751,
     "geom:longitude":-80.40663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 Palmer Cir",
     "sg:city":"Rockwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320212493,
-    "wof:lastmodified":1449013682,
+    "wof:lastmodified":1466648268,
     "wof:name":"Piedmont Sunrooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.40663,35.556751,-80.40663,35.556751],
-  "geometry": {"coordinates":[-80.40663,35.556751],"type":"Point"}
+  "bbox": [
+    -80.40663,
+    35.556751,
+    -80.40663,
+    35.556751
+],
+  "geometry": {"coordinates":[-80.40663000000001,35.556751],"type":"Point"}
 }

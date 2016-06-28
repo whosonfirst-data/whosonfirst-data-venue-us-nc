@@ -2,13 +2,14 @@
   "id": 354418273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.595695,35.852344,-78.595695,35.852344",
     "geom:latitude":35.852344,
     "geom:longitude":-78.595695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5132 Departure Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354418273,
-    "wof:lastmodified":1449067269,
+    "wof:lastmodified":1466652371,
     "wof:name":"Hedrick Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.595695,35.852344,-78.595695,35.852344],
-  "geometry": {"coordinates":[-78.595695,35.852344],"type":"Point"}
+  "bbox": [
+    -78.595695,
+    35.852344,
+    -78.595695,
+    35.852344
+],
+  "geometry": {"coordinates":[-78.59569500000001,35.852344],"type":"Point"}
 }

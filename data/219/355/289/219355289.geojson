@@ -2,13 +2,14 @@
   "id": 219355289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.407222,34.769648,-77.407222,34.769648",
     "geom:latitude":34.769648,
     "geom:longitude":-77.407222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Gum Branch Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219355289,
-    "wof:lastmodified":1449071392,
+    "wof:lastmodified":1466643740,
     "wof:name":"SIA Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-77.407222,34.769648,-77.407222,34.769648],
+  "bbox": [
+    -77.407222,
+    34.769648,
+    -77.407222,
+    34.769648
+],
   "geometry": {"coordinates":[-77.407222,34.769648],"type":"Point"}
 }

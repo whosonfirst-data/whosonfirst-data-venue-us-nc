@@ -2,13 +2,14 @@
   "id": 202681003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.239263,36.117582,-80.239263,36.117582",
     "geom:latitude":36.117582,
     "geom:longitude":-80.239263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Ivy Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202681003,
-    "wof:lastmodified":1449061672,
+    "wof:lastmodified":1466643281,
     "wof:name":"Joyce Brothers Produce Div",
     "wof:parent_id":85838183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-80.239263,36.117582,-80.239263,36.117582],
-  "geometry": {"coordinates":[-80.239263,36.117582],"type":"Point"}
+  "bbox": [
+    -80.239263,
+    36.117582,
+    -80.239263,
+    36.117582
+],
+  "geometry": {"coordinates":[-80.23926299999999,36.117582],"type":"Point"}
 }

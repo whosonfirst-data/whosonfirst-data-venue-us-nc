@@ -2,13 +2,14 @@
   "id": 370240615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.59274,35.56596,-78.59274,35.56596",
     "geom:latitude":35.56596,
     "geom:longitude":-78.59274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Shenstone Ln",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370240615,
-    "wof:lastmodified":1449029441,
+    "wof:lastmodified":1466649290,
     "wof:name":"Winestyles Wine & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.59274,35.56596,-78.59274,35.56596],
-  "geometry": {"coordinates":[-78.59274,35.56596],"type":"Point"}
+  "bbox": [
+    -78.59274,
+    35.56596,
+    -78.59274,
+    35.56596
+],
+  "geometry": {"coordinates":[-78.59274000000001,35.56596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303288107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.089665,36.022735,-80.089665,36.022735",
     "geom:latitude":36.022735,
     "geom:longitude":-80.089665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4876 High Point Rd",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303288107,
-    "wof:lastmodified":1448998378,
+    "wof:lastmodified":1466647505,
     "wof:name":"HCS Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.089665,36.022735,-80.089665,36.022735],
+  "bbox": [
+    -80.089665,
+    36.022735,
+    -80.089665,
+    36.022735
+],
   "geometry": {"coordinates":[-80.089665,36.022735],"type":"Point"}
 }

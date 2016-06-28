@@ -2,13 +2,14 @@
   "id": 286552761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.796918,35.948255,-77.796918,35.948255",
     "geom:latitude":35.948255,
     "geom:longitude":-77.796918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Hickory St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286552761,
-    "wof:lastmodified":1449016410,
+    "wof:lastmodified":1466647078,
     "wof:name":"Vernon Herring Dental Lab",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-77.796918,35.948255,-77.796918,35.948255],
-  "geometry": {"coordinates":[-77.796918,35.948255],"type":"Point"}
+  "bbox": [
+    -77.796918,
+    35.948255,
+    -77.796918,
+    35.948255
+],
+  "geometry": {"coordinates":[-77.79691800000001,35.948255],"type":"Point"}
 }

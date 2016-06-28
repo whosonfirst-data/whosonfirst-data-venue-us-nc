@@ -2,13 +2,14 @@
   "id": 403884445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.024364,35.534235,-81.024364,35.534235",
     "geom:latitude":35.534235,
     "geom:longitude":-81.024364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6556 Forest Crk Dr",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403884445,
-    "wof:lastmodified":1449055706,
+    "wof:lastmodified":1466652712,
     "wof:name":"Denver Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.024364,35.534235,-81.024364,35.534235],
-  "geometry": {"coordinates":[-81.024364,35.534235],"type":"Point"}
+  "bbox": [
+    -81.024364,
+    35.534235,
+    -81.024364,
+    35.534235
+],
+  "geometry": {"coordinates":[-81.02436400000001,35.534235],"type":"Point"}
 }

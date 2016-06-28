@@ -2,13 +2,14 @@
   "id": 353801585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.842093,35.121902,-80.842093,35.121902",
     "geom:latitude":35.121902,
     "geom:longitude":-80.842093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6711 Rosemary Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353801585,
-    "wof:lastmodified":1449020381,
+    "wof:lastmodified":1466651791,
     "wof:name":"Freedom Snacks",
     "wof:parent_id":85839485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-80.842093,35.121902,-80.842093,35.121902],
-  "geometry": {"coordinates":[-80.842093,35.121902],"type":"Point"}
+  "bbox": [
+    -80.842093,
+    35.121902,
+    -80.842093,
+    35.121902
+],
+  "geometry": {"coordinates":[-80.84209300000001,35.121902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253733885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.794396,35.949128,-77.794396,35.949128",
     "geom:latitude":35.949128,
     "geom:longitude":-77.794396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 N Church St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253733885,
-    "wof:lastmodified":1449063233,
+    "wof:lastmodified":1466651186,
     "wof:name":"City-Rocky Mount Life Safety",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-77.794396,35.949128,-77.794396,35.949128],
-  "geometry": {"coordinates":[-77.794396,35.949128],"type":"Point"}
+  "bbox": [
+    -77.794396,
+    35.949128,
+    -77.794396,
+    35.949128
+],
+  "geometry": {"coordinates":[-77.79439600000001,35.949128],"type":"Point"}
 }

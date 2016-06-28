@@ -2,13 +2,14 @@
   "id": 303452281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.833589,35.64922,-78.833589,35.64922",
     "geom:latitude":35.64922,
     "geom:longitude":-78.833589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Main St",
     "sg:city":"Holly Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303452281,
-    "wof:lastmodified":1448998687,
+    "wof:lastmodified":1466649836,
     "wof:name":"Holly Springs Parks & Rec Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-78.833589,35.64922,-78.833589,35.64922],
+  "bbox": [
+    -78.833589,
+    35.64922,
+    -78.833589,
+    35.64922
+],
   "geometry": {"coordinates":[-78.833589,35.64922],"type":"Point"}
 }

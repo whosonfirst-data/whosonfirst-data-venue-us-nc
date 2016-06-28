@@ -2,13 +2,14 @@
   "id": 220164557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.538716,35.603944,-82.538716,35.603944",
     "geom:latitude":35.603944,
     "geom:longitude":-82.538716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Trailridge Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220164557,
-    "wof:lastmodified":1449074128,
+    "wof:lastmodified":1466644513,
     "wof:name":"Dragonfly LLC",
     "wof:parent_id":85825097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.538716,35.603944,-82.538716,35.603944],
-  "geometry": {"coordinates":[-82.538716,35.603944],"type":"Point"}
+  "bbox": [
+    -82.538716,
+    35.603944,
+    -82.538716,
+    35.603944
+],
+  "geometry": {"coordinates":[-82.53871599999999,35.603944],"type":"Point"}
 }

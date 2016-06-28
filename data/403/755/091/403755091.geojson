@@ -2,13 +2,14 @@
   "id": 403755091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.51991,35.564549,-80.51991,35.564549",
     "geom:latitude":35.564549,
     "geom:longitude":-80.51991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Pamela St",
     "sg:city":"China Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403755091,
-    "wof:lastmodified":1449055014,
+    "wof:lastmodified":1466651003,
     "wof:name":"Rick Perry",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.51991,35.564549,-80.51991,35.564549],
+  "bbox": [
+    -80.51991,
+    35.564549,
+    -80.51991,
+    35.564549
+],
   "geometry": {"coordinates":[-80.51991,35.564549],"type":"Point"}
 }

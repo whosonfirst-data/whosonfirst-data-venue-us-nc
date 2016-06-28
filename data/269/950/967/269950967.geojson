@@ -2,13 +2,14 @@
   "id": 269950967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.367066,35.180403,-83.367066,35.180403",
     "geom:latitude":35.180403,
     "geom:longitude":-83.367066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"667 Highlands Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269950967,
-    "wof:lastmodified":1449037090,
+    "wof:lastmodified":1466648761,
     "wof:name":"Chinook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [-83.367066,35.180403,-83.367066,35.180403],
-  "geometry": {"coordinates":[-83.367066,35.180403],"type":"Point"}
+  "bbox": [
+    -83.367066,
+    35.180403,
+    -83.367066,
+    35.180403
+],
+  "geometry": {"coordinates":[-83.36706599999999,35.180403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303728353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.304696,35.547447,-78.304696,35.547447",
     "geom:latitude":35.547447,
     "geom:longitude":-78.304696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3885 Buffalo Rd",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303728353,
-    "wof:lastmodified":1448998680,
+    "wof:lastmodified":1466653828,
     "wof:name":"Eagle Transport Corp",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.304696,35.547447,-78.304696,35.547447],
-  "geometry": {"coordinates":[-78.304696,35.547447],"type":"Point"}
+  "bbox": [
+    -78.304696,
+    35.547447,
+    -78.304696,
+    35.547447
+],
+  "geometry": {"coordinates":[-78.30469600000001,35.547447],"type":"Point"}
 }

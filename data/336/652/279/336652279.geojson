@@ -2,13 +2,14 @@
   "id": 336652279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985809,34.967773,-79.985809,34.967773",
     "geom:latitude":34.967773,
     "geom:longitude":-79.985809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Wall St",
     "sg:city":"Lilesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336652279,
-    "wof:lastmodified":1448997625,
+    "wof:lastmodified":1466646647,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.985809,34.967773,-79.985809,34.967773],
+  "bbox": [
+    -79.985809,
+    34.967773,
+    -79.985809,
+    34.967773
+],
   "geometry": {"coordinates":[-79.985809,34.967773],"type":"Point"}
 }

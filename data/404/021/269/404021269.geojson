@@ -2,13 +2,14 @@
   "id": 404021269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.485813,33.948948,-78.485813,33.948948",
     "geom:latitude":33.948948,
     "geom:longitude":-78.485813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6608 Ocean Hwy W",
     "sg:city":"Ocean Isle Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404021269,
-    "wof:lastmodified":1449039879,
+    "wof:lastmodified":1466651571,
     "wof:name":"Choplin Marine",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.485813,33.948948,-78.485813,33.948948],
-  "geometry": {"coordinates":[-78.485813,33.948948],"type":"Point"}
+  "bbox": [
+    -78.485813,
+    33.948948,
+    -78.485813,
+    33.948948
+],
+  "geometry": {"coordinates":[-78.48581299999999,33.948948],"type":"Point"}
 }

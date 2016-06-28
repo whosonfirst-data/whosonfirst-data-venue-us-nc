@@ -2,13 +2,14 @@
   "id": 303495547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.349551,35.504412,-78.349551,35.504412",
     "geom:latitude":35.504412,
     "geom:longitude":-78.349551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 S 3rd St",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303495547,
-    "wof:lastmodified":1448999197,
+    "wof:lastmodified":1466650455,
     "wof:name":"Armstrong & Armstrong",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.349551,35.504412,-78.349551,35.504412],
-  "geometry": {"coordinates":[-78.349551,35.504412],"type":"Point"}
+  "bbox": [
+    -78.349551,
+    35.504412,
+    -78.349551,
+    35.504412
+],
+  "geometry": {"coordinates":[-78.34955100000001,35.504412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303567181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.87117,35.063134,-78.87117,35.063134",
     "geom:latitude":35.063134,
     "geom:longitude":-78.87117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"698 Ann St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303567181,
-    "wof:lastmodified":1449000585,
+    "wof:lastmodified":1466651482,
     "wof:name":"Fayetteville Gas Co",
     "wof:parent_id":85825067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-78.87117,35.063134,-78.87117,35.063134],
-  "geometry": {"coordinates":[-78.87117,35.063134],"type":"Point"}
+  "bbox": [
+    -78.87117,
+    35.063134,
+    -78.87117,
+    35.063134
+],
+  "geometry": {"coordinates":[-78.87117000000001,35.063134],"type":"Point"}
 }

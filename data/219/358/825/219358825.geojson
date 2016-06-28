@@ -2,13 +2,14 @@
   "id": 219358825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.512389,36.216298,-80.512389,36.216298",
     "geom:latitude":36.216298,
     "geom:longitude":-80.512389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Quaker Ave",
     "sg:city":"East Bend",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219358825,
-    "wof:lastmodified":1449071867,
+    "wof:lastmodified":1466643773,
     "wof:name":"East Bend Friends Meeting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.512389,36.216298,-80.512389,36.216298],
+  "bbox": [
+    -80.512389,
+    36.216298,
+    -80.512389,
+    36.216298
+],
   "geometry": {"coordinates":[-80.512389,36.216298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404092993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.065176,35.88021,-79.065176,35.88021",
     "geom:latitude":35.88021,
     "geom:longitude":-79.065176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Market St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404092993,
-    "wof:lastmodified":1449040072,
+    "wof:lastmodified":1466652460,
     "wof:name":"Center For Intl Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-79.065176,35.88021,-79.065176,35.88021],
-  "geometry": {"coordinates":[-79.065176,35.88021],"type":"Point"}
+  "bbox": [
+    -79.065176,
+    35.88021,
+    -79.065176,
+    35.88021
+],
+  "geometry": {"coordinates":[-79.06517599999999,35.88021],"type":"Point"}
 }

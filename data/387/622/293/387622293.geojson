@@ -2,13 +2,14 @@
   "id": 387622293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.620391,35.792905,-78.620391,35.792905",
     "geom:latitude":35.792905,
     "geom:longitude":-78.620391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Glascock St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387622293,
-    "wof:lastmodified":1449059236,
+    "wof:lastmodified":1466656949,
     "wof:name":"Gl",
     "wof:parent_id":85868009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.620391,35.792905,-78.620391,35.792905],
+  "bbox": [
+    -78.620391,
+    35.792905,
+    -78.620391,
+    35.792905
+],
   "geometry": {"coordinates":[-78.620391,35.792905],"type":"Point"}
 }

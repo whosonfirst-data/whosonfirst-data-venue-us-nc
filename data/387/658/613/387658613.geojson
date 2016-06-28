@@ -2,13 +2,14 @@
   "id": 387658613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.334168,35.513068,-78.334168,35.513068",
     "geom:latitude":35.513068,
     "geom:longitude":-78.334168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 N Brightleaf Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387658613,
-    "wof:lastmodified":1449056033,
+    "wof:lastmodified":1466657029,
     "wof:name":"Male Medical Clinic",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.334168,35.513068,-78.334168,35.513068],
-  "geometry": {"coordinates":[-78.334168,35.513068],"type":"Point"}
+  "bbox": [
+    -78.334168,
+    35.513068,
+    -78.334168,
+    35.513068
+],
+  "geometry": {"coordinates":[-78.33416800000001,35.513068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403857305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.758711,36.504332,-79.758711,36.504332",
     "geom:latitude":36.504332,
     "geom:longitude":-79.758711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Boone Rd",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403857305,
-    "wof:lastmodified":1449055480,
+    "wof:lastmodified":1466652372,
     "wof:name":"Spray Exxon Station",
     "wof:parent_id":85810227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.758711,36.504332,-79.758711,36.504332],
-  "geometry": {"coordinates":[-79.758711,36.504332],"type":"Point"}
+  "bbox": [
+    -79.758711,
+    36.504332,
+    -79.758711,
+    36.504332
+],
+  "geometry": {"coordinates":[-79.75871100000001,36.504332],"type":"Point"}
 }

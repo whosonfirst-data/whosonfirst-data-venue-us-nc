@@ -2,13 +2,14 @@
   "id": 303863803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.772403,34.940236,-79.772403,34.940236",
     "geom:latitude":34.940236,
     "geom:longitude":-79.772403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Lawrence St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303863803,
-    "wof:lastmodified":1448999808,
+    "wof:lastmodified":1466655795,
     "wof:name":"Towne House Shoppe",
     "wof:parent_id":85822025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.772403,34.940236,-79.772403,34.940236],
+  "bbox": [
+    -79.772403,
+    34.940236,
+    -79.772403,
+    34.940236
+],
   "geometry": {"coordinates":[-79.772403,34.940236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303781241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.999727,34.627473,-78.999727,34.627473",
     "geom:latitude":34.627473,
     "geom:longitude":-78.999727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 E Elizabethtown Rd",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303781241,
-    "wof:lastmodified":1448998574,
+    "wof:lastmodified":1466654589,
     "wof:name":"Mr B's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-78.999727,34.627473,-78.999727,34.627473],
-  "geometry": {"coordinates":[-78.999727,34.627473],"type":"Point"}
+  "bbox": [
+    -78.999727,
+    34.627473,
+    -78.999727,
+    34.627473
+],
+  "geometry": {"coordinates":[-78.99972699999999,34.627473],"type":"Point"}
 }

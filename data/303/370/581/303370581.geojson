@@ -2,13 +2,14 @@
   "id": 303370581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.911067,34.883363,-76.911067,34.883363",
     "geom:latitude":34.883363,
     "geom:longitude":-76.911067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 US Hwy 70",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303370581,
-    "wof:lastmodified":1448999452,
+    "wof:lastmodified":1466648655,
     "wof:name":"Havelock's Chimney Sweep",
     "wof:parent_id":85832211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chimney"
     ]
 },
-  "bbox": [-76.911067,34.883363,-76.911067,34.883363],
+  "bbox": [
+    -76.911067,
+    34.883363,
+    -76.911067,
+    34.883363
+],
   "geometry": {"coordinates":[-76.911067,34.883363],"type":"Point"}
 }

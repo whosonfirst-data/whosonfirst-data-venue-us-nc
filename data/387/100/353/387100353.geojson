@@ -2,13 +2,14 @@
   "id": 387100353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.956934,35.758798,-77.956934,35.758798",
     "geom:latitude":35.758798,
     "geom:longitude":-77.956934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 Airport Cir",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387100353,
-    "wof:lastmodified":1449058924,
+    "wof:lastmodified":1466651160,
     "wof:name":"Veer Right",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-77.956934,35.758798,-77.956934,35.758798],
+  "bbox": [
+    -77.956934,
+    35.758798,
+    -77.956934,
+    35.758798
+],
   "geometry": {"coordinates":[-77.956934,35.758798],"type":"Point"}
 }

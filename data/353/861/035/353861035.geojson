@@ -2,13 +2,14 @@
   "id": 353861035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.888546,35.471314,-82.888546,35.471314",
     "geom:latitude":35.471314,
     "geom:longitude":-82.888546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6147 Pigeon Rd",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353861035,
-    "wof:lastmodified":1449020767,
+    "wof:lastmodified":1466652453,
     "wof:name":"Single Stop",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.888546,35.471314,-82.888546,35.471314],
-  "geometry": {"coordinates":[-82.888546,35.471314],"type":"Point"}
+  "bbox": [
+    -82.888546,
+    35.471314,
+    -82.888546,
+    35.471314
+],
+  "geometry": {"coordinates":[-82.88854600000001,35.471314],"type":"Point"}
 }

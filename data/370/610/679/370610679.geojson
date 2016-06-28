@@ -2,13 +2,14 @@
   "id": 370610679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.851619,35.505906,-80.851619,35.505906",
     "geom:latitude":35.505906,
     "geom:longitude":-80.851619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Beaty St",
     "sg:city":"Davidson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370610679,
-    "wof:lastmodified":1449032413,
+    "wof:lastmodified":1466654013,
     "wof:name":"Integrity Homes",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.851619,35.505906,-80.851619,35.505906],
+  "bbox": [
+    -80.851619,
+    35.505906,
+    -80.851619,
+    35.505906
+],
   "geometry": {"coordinates":[-80.851619,35.505906],"type":"Point"}
 }

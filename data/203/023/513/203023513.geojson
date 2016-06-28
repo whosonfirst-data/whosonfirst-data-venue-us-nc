@@ -2,13 +2,14 @@
   "id": 203023513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.39499,36.327934,-78.39499,36.327934",
     "geom:latitude":36.327934,
     "geom:longitude":-78.39499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 E Andrews Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203023513,
-    "wof:lastmodified":1449026686,
+    "wof:lastmodified":1466654320,
     "wof:name":"G & J Community Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.39499,36.327934,-78.39499,36.327934],
-  "geometry": {"coordinates":[-78.39499,36.327934],"type":"Point"}
+  "bbox": [
+    -78.39499,
+    36.327934,
+    -78.39499,
+    36.327934
+],
+  "geometry": {"coordinates":[-78.39499000000001,36.327934],"type":"Point"}
 }

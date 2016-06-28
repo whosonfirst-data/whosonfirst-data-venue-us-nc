@@ -2,13 +2,14 @@
   "id": 353818749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.026277,35.272929,-81.026277,35.272929",
     "geom:latitude":35.272929,
     "geom:longitude":-81.026277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Beatty Dr",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353818749,
-    "wof:lastmodified":1449019509,
+    "wof:lastmodified":1466651977,
     "wof:name":"Tim Clippard Tire & Auto",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [-81.026277,35.272929,-81.026277,35.272929],
-  "geometry": {"coordinates":[-81.026277,35.272929],"type":"Point"}
+  "bbox": [
+    -81.026277,
+    35.272929,
+    -81.026277,
+    35.272929
+],
+  "geometry": {"coordinates":[-81.02627699999999,35.272929],"type":"Point"}
 }

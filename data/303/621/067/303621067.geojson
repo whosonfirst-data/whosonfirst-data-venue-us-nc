@@ -2,13 +2,14 @@
   "id": 303621067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.468623,35.87648,-81.468623,35.87648",
     "geom:latitude":35.87648,
     "geom:longitude":-81.468623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 Drag Strip Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303621067,
-    "wof:lastmodified":1449000276,
+    "wof:lastmodified":1466652273,
     "wof:name":"Caldwell County Water Dept",
     "wof:parent_id":85833019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-81.468623,35.87648,-81.468623,35.87648],
-  "geometry": {"coordinates":[-81.468623,35.87648],"type":"Point"}
+  "bbox": [
+    -81.468623,
+    35.87648,
+    -81.468623,
+    35.87648
+],
+  "geometry": {"coordinates":[-81.46862299999999,35.87648],"type":"Point"}
 }

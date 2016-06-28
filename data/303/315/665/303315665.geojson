@@ -2,13 +2,14 @@
   "id": 303315665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.789036,35.762084,-78.789036,35.762084",
     "geom:latitude":35.762084,
     "geom:longitude":-78.789036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Fairfield Ln",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303315665,
-    "wof:lastmodified":1449000436,
+    "wof:lastmodified":1466647884,
     "wof:name":"Atlantic States Weather Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-78.789036,35.762084,-78.789036,35.762084],
+  "bbox": [
+    -78.789036,
+    35.762084,
+    -78.789036,
+    35.762084
+],
   "geometry": {"coordinates":[-78.789036,35.762084],"type":"Point"}
 }

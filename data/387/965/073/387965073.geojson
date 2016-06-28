@@ -2,13 +2,14 @@
   "id": 387965073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.875795,36.120667,-79.875795,36.120667",
     "geom:latitude":36.120667,
     "geom:longitude":-79.875795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Waynoka Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387965073,
-    "wof:lastmodified":1449058768,
+    "wof:lastmodified":1466658080,
     "wof:name":"Dave's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.875795,36.120667,-79.875795,36.120667],
+  "bbox": [
+    -79.875795,
+    36.120667,
+    -79.875795,
+    36.120667
+],
   "geometry": {"coordinates":[-79.875795,36.120667],"type":"Point"}
 }

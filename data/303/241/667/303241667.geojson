@@ -2,13 +2,14 @@
   "id": 303241667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.263467,35.46631,-81.263467,35.46631",
     "geom:latitude":35.46631,
     "geom:longitude":-81.263467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Hillside Dr",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303241667,
-    "wof:lastmodified":1449000503,
+    "wof:lastmodified":1466646822,
     "wof:name":"Riverside Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.263467,35.46631,-81.263467,35.46631],
-  "geometry": {"coordinates":[-81.263467,35.46631],"type":"Point"}
+  "bbox": [
+    -81.263467,
+    35.46631,
+    -81.263467,
+    35.46631
+],
+  "geometry": {"coordinates":[-81.26346700000001,35.46631],"type":"Point"}
 }

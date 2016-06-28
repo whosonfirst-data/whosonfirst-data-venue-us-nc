@@ -2,13 +2,14 @@
   "id": 371014603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.900011,34.35381,-77.900011,34.35381",
     "geom:latitude":34.35381,
     "geom:longitude":-77.900011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5704 Castle Hayne Rd",
     "sg:city":"Castle Hayne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371014603,
-    "wof:lastmodified":1449049534,
+    "wof:lastmodified":1466649014,
     "wof:name":"W D Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.900011,34.35381,-77.900011,34.35381],
-  "geometry": {"coordinates":[-77.900011,34.35381],"type":"Point"}
+  "bbox": [
+    -77.900011,
+    34.35381,
+    -77.900011,
+    34.35381
+],
+  "geometry": {"coordinates":[-77.90001100000001,34.35381],"type":"Point"}
 }

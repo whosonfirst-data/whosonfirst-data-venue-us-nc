@@ -2,13 +2,14 @@
   "id": 270066697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.761063,35.907138,-78.761063,35.907138",
     "geom:latitude":35.907138,
     "geom:longitude":-78.761063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6317 J Richard Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270066697,
-    "wof:lastmodified":1449009316,
+    "wof:lastmodified":1466643980,
     "wof:name":"Brandco Inc",
     "wof:parent_id":85892161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fireplace"
     ]
 },
-  "bbox": [-78.761063,35.907138,-78.761063,35.907138],
-  "geometry": {"coordinates":[-78.761063,35.907138],"type":"Point"}
+  "bbox": [
+    -78.761063,
+    35.907138,
+    -78.761063,
+    35.907138
+],
+  "geometry": {"coordinates":[-78.76106299999999,35.907138],"type":"Point"}
 }

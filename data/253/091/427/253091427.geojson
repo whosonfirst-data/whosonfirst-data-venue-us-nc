@@ -2,13 +2,14 @@
   "id": 253091427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.112805,35.108781,-77.112805,35.108781",
     "geom:latitude":35.108781,
     "geom:longitude":-77.112805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 Clubhouse Dr",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253091427,
-    "wof:lastmodified":1449063098,
+    "wof:lastmodified":1466643990,
     "wof:name":"Emerald Golf Club",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "golf"
     ]
 },
-  "bbox": [-77.112805,35.108781,-77.112805,35.108781],
-  "geometry": {"coordinates":[-77.112805,35.108781],"type":"Point"}
+  "bbox": [
+    -77.112805,
+    35.108781,
+    -77.112805,
+    35.108781
+],
+  "geometry": {"coordinates":[-77.11280499999999,35.108781],"type":"Point"}
 }

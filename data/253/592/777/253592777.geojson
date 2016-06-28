@@ -2,13 +2,14 @@
   "id": 253592777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.999992,34.651762,-78.999992,34.651762",
     "geom:latitude":34.651762,
     "geom:longitude":-78.999992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 Fayetteville Rd",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253592777,
-    "wof:lastmodified":1449064524,
+    "wof:lastmodified":1466649488,
     "wof:name":"Eagle Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-78.999992,34.651762,-78.999992,34.651762],
-  "geometry": {"coordinates":[-78.999992,34.651762],"type":"Point"}
+  "bbox": [
+    -78.999992,
+    34.651762,
+    -78.999992,
+    34.651762
+],
+  "geometry": {"coordinates":[-78.99999200000001,34.651762],"type":"Point"}
 }

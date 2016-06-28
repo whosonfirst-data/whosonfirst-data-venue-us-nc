@@ -2,13 +2,14 @@
   "id": 286358865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.55128,36.179877,-80.55128,36.179877",
     "geom:latitude":36.179877,
     "geom:longitude":-80.55128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 Matthews Rd",
     "sg:city":"East Bend",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286358865,
-    "wof:lastmodified":1449016415,
+    "wof:lastmodified":1466644495,
     "wof:name":"Hoke's Lock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-80.55128,36.179877,-80.55128,36.179877],
-  "geometry": {"coordinates":[-80.55128,36.179877],"type":"Point"}
+  "bbox": [
+    -80.55128,
+    36.179877,
+    -80.55128,
+    36.179877
+],
+  "geometry": {"coordinates":[-80.55128000000001,36.179877],"type":"Point"}
 }

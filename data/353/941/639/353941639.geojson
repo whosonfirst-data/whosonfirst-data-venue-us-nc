@@ -2,13 +2,14 @@
   "id": 353941639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.580031,35.294476,-81.580031,35.294476",
     "geom:latitude":35.294476,
     "geom:longitude":-81.580031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1914 US Hwy 74",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353941639,
-    "wof:lastmodified":1449019802,
+    "wof:lastmodified":1466653403,
     "wof:name":"Drivers License",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-81.580031,35.294476,-81.580031,35.294476],
-  "geometry": {"coordinates":[-81.580031,35.294476],"type":"Point"}
+  "bbox": [
+    -81.580031,
+    35.294476,
+    -81.580031,
+    35.294476
+],
+  "geometry": {"coordinates":[-81.58003100000001,35.294476],"type":"Point"}
 }

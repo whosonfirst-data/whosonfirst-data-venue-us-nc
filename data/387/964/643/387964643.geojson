@@ -2,13 +2,14 @@
   "id": 387964643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.263267,36.095783,-80.263267,36.095783",
     "geom:latitude":36.095783,
     "geom:longitude":-80.263267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Sunset Dr N",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387964643,
-    "wof:lastmodified":1449058976,
+    "wof:lastmodified":1466657977,
     "wof:name":"West Hill Apartments",
     "wof:parent_id":85881851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.263267,36.095783,-80.263267,36.095783],
+  "bbox": [
+    -80.263267,
+    36.095783,
+    -80.263267,
+    36.095783
+],
   "geometry": {"coordinates":[-80.263267,36.095783],"type":"Point"}
 }

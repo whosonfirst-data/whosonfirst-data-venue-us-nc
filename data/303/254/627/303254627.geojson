@@ -2,13 +2,14 @@
   "id": 303254627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.811338,36.049133,-79.811338,36.049133",
     "geom:latitude":36.049133,
     "geom:longitude":-79.811338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Linwood St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303254627,
-    "wof:lastmodified":1448999800,
+    "wof:lastmodified":1466647019,
     "wof:name":"Williamson Recovery Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "collection"
     ]
 },
-  "bbox": [-79.811338,36.049133,-79.811338,36.049133],
-  "geometry": {"coordinates":[-79.811338,36.049133],"type":"Point"}
+  "bbox": [
+    -79.811338,
+    36.049133,
+    -79.811338,
+    36.049133
+],
+  "geometry": {"coordinates":[-79.81133800000001,36.049133],"type":"Point"}
 }

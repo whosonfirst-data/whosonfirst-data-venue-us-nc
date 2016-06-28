@@ -2,13 +2,14 @@
   "id": 320685059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.857538,35.803697,-80.857538,35.803697",
     "geom:latitude":35.803697,
     "geom:longitude":-80.857538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2333 Davie Ave",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320685059,
-    "wof:lastmodified":1449014873,
+    "wof:lastmodified":1466655052,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-80.857538,35.803697,-80.857538,35.803697],
-  "geometry": {"coordinates":[-80.857538,35.803697],"type":"Point"}
+  "bbox": [
+    -80.857538,
+    35.803697,
+    -80.857538,
+    35.803697
+],
+  "geometry": {"coordinates":[-80.85753800000001,35.803697],"type":"Point"}
 }

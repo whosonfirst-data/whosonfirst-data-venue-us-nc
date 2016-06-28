@@ -2,13 +2,14 @@
   "id": 320447383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.688592,36.327687,-79.688592,36.327687",
     "geom:latitude":36.327687,
     "geom:longitude":-79.688592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2048 US Hwy 29 Bus",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320447383,
-    "wof:lastmodified":1449013892,
+    "wof:lastmodified":1466651610,
     "wof:name":"B & L Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.688592,36.327687,-79.688592,36.327687],
+  "bbox": [
+    -79.688592,
+    36.327687,
+    -79.688592,
+    36.327687
+],
   "geometry": {"coordinates":[-79.688592,36.327687],"type":"Point"}
 }

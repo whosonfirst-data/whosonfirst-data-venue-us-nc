@@ -2,13 +2,14 @@
   "id": 202763591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.545132,35.7793,-78.545132,35.7793",
     "geom:latitude":35.7793,
     "geom:longitude":-78.545132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Rogers Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202763591,
-    "wof:lastmodified":1449062636,
+    "wof:lastmodified":1466643895,
     "wof:name":"Resident Engineer",
     "wof:parent_id":85892097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.545132,35.7793,-78.545132,35.7793],
+  "bbox": [
+    -78.545132,
+    35.7793,
+    -78.545132,
+    35.7793
+],
   "geometry": {"coordinates":[-78.545132,35.7793],"type":"Point"}
 }

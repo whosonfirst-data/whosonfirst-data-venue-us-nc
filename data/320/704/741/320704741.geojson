@@ -2,13 +2,14 @@
   "id": 320704741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.551661,35.587251,-82.551661,35.587251",
     "geom:latitude":35.587251,
     "geom:longitude":-82.551661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Biltmore Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320704741,
-    "wof:lastmodified":1449012241,
+    "wof:lastmodified":1466655320,
     "wof:name":"Bouche",
     "wof:parent_id":85830137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.551661,35.587251,-82.551661,35.587251],
+  "bbox": [
+    -82.551661,
+    35.587251,
+    -82.551661,
+    35.587251
+],
   "geometry": {"coordinates":[-82.551661,35.587251],"type":"Point"}
 }

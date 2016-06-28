@@ -2,13 +2,14 @@
   "id": 403937575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.661246,36.337323,-79.661246,36.337323",
     "geom:latitude":36.337323,
     "geom:longitude":-79.661246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1851 Amos St",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403937575,
-    "wof:lastmodified":1449054893,
+    "wof:lastmodified":1466653389,
     "wof:name":"Canterbury Place Apartments",
     "wof:parent_id":85852623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.661246,36.337323,-79.661246,36.337323],
-  "geometry": {"coordinates":[-79.661246,36.337323],"type":"Point"}
+  "bbox": [
+    -79.661246,
+    36.337323,
+    -79.661246,
+    36.337323
+],
+  "geometry": {"coordinates":[-79.66124600000001,36.337323],"type":"Point"}
 }

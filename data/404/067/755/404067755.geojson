@@ -2,13 +2,14 @@
   "id": 404067755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.933586,34.269579,-77.933586,34.269579",
     "geom:latitude":34.269579,
     "geom:longitude":-77.933586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Brentwood Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404067755,
-    "wof:lastmodified":1449039121,
+    "wof:lastmodified":1466652148,
     "wof:name":"Greg W Spencer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.933586,34.269579,-77.933586,34.269579],
-  "geometry": {"coordinates":[-77.933586,34.269579],"type":"Point"}
+  "bbox": [
+    -77.933586,
+    34.269579,
+    -77.933586,
+    34.269579
+],
+  "geometry": {"coordinates":[-77.93358600000001,34.269579],"type":"Point"}
 }

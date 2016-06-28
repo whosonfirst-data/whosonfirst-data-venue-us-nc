@@ -2,13 +2,14 @@
   "id": 370538135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.994514,36.005247,-79.994514,36.005247",
     "geom:latitude":36.005247,
     "geom:longitude":-79.994514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 Cypress Ct",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370538135,
-    "wof:lastmodified":1449029518,
+    "wof:lastmodified":1466653056,
     "wof:name":"National Telephone Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-79.994514,36.005247,-79.994514,36.005247],
+  "bbox": [
+    -79.994514,
+    36.005247,
+    -79.994514,
+    36.005247
+],
   "geometry": {"coordinates":[-79.994514,36.005247],"type":"Point"}
 }

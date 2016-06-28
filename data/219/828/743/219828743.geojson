@@ -2,13 +2,14 @@
   "id": 219828743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.87565,35.159116,-80.87565,35.159116",
     "geom:latitude":35.159116,
     "geom:longitude":-80.87565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Beacon Ridge Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219828743,
-    "wof:lastmodified":1449072178,
+    "wof:lastmodified":1466647423,
     "wof:name":"Collier Co",
     "wof:parent_id":85813241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.87565,35.159116,-80.87565,35.159116],
-  "geometry": {"coordinates":[-80.87565,35.159116],"type":"Point"}
+  "bbox": [
+    -80.87565,
+    35.159116,
+    -80.87565,
+    35.159116
+],
+  "geometry": {"coordinates":[-80.87564999999999,35.159116],"type":"Point"}
 }

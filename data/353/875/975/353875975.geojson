@@ -2,13 +2,14 @@
   "id": 353875975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.60738,35.985067,-78.60738,35.985067",
     "geom:latitude":35.985067,
     "geom:longitude":-78.60738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7116 Stony Hill Rd",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353875975,
-    "wof:lastmodified":1449020147,
+    "wof:lastmodified":1466652626,
     "wof:name":"Wake Forest Vinyl & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.60738,35.985067,-78.60738,35.985067],
-  "geometry": {"coordinates":[-78.60738,35.985067],"type":"Point"}
+  "bbox": [
+    -78.60738,
+    35.985067,
+    -78.60738,
+    35.985067
+],
+  "geometry": {"coordinates":[-78.60738000000001,35.985067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235938849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.696362,36.07093,-75.696362,36.07093",
     "geom:latitude":36.07093,
     "geom:longitude":-75.696362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4116 N Croatan Hwy",
     "sg:city":"Kitty Hawk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235938849,
-    "wof:lastmodified":1449008508,
+    "wof:lastmodified":1466643284,
     "wof:name":"Wings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.696362,36.07093,-75.696362,36.07093],
-  "geometry": {"coordinates":[-75.696362,36.07093],"type":"Point"}
+  "bbox": [
+    -75.696362,
+    36.07093,
+    -75.696362,
+    36.07093
+],
+  "geometry": {"coordinates":[-75.69636199999999,36.07093],"type":"Point"}
 }

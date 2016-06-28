@@ -2,13 +2,14 @@
   "id": 370404123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.245755,36.204237,-77.245755,36.204237",
     "geom:latitude":36.204237,
     "geom:longitude":-77.245755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Main St",
     "sg:city":"Roxobel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370404123,
-    "wof:lastmodified":1449031323,
+    "wof:lastmodified":1466651330,
     "wof:name":"Cooper's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.245755,36.204237,-77.245755,36.204237],
+  "bbox": [
+    -77.245755,
+    36.204237,
+    -77.245755,
+    36.204237
+],
   "geometry": {"coordinates":[-77.245755,36.204237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320748049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982323,35.977135,-79.982323,35.977135",
     "geom:latitude":35.977135,
     "geom:longitude":-79.982323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Montlieu Ave",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320748049,
-    "wof:lastmodified":1449014047,
+    "wof:lastmodified":1466656015,
     "wof:name":"Alltech Home Improvements",
     "wof:parent_id":85891961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-79.982323,35.977135,-79.982323,35.977135],
-  "geometry": {"coordinates":[-79.982323,35.977135],"type":"Point"}
+  "bbox": [
+    -79.982323,
+    35.977135,
+    -79.982323,
+    35.977135
+],
+  "geometry": {"coordinates":[-79.98232299999999,35.977135],"type":"Point"}
 }

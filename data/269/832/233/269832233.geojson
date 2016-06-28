@@ -2,13 +2,14 @@
   "id": 269832233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254757,35.822664,-80.254757,35.822664",
     "geom:latitude":35.822664,
     "geom:longitude":-80.254757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 S Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269832233,
-    "wof:lastmodified":1449036162,
+    "wof:lastmodified":1466647305,
     "wof:name":"Speed Printing",
     "wof:parent_id":85849547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.254757,35.822664,-80.254757,35.822664],
+  "bbox": [
+    -80.254757,
+    35.822664,
+    -80.254757,
+    35.822664
+],
   "geometry": {"coordinates":[-80.254757,35.822664],"type":"Point"}
 }

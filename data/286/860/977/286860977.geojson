@@ -2,13 +2,14 @@
   "id": 286860977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.629731,35.715667,-81.629731,35.715667",
     "geom:latitude":35.715667,
     "geom:longitude":-81.629731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3139 Village Dr",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286860977,
-    "wof:lastmodified":1449016499,
+    "wof:lastmodified":1466651295,
     "wof:name":"Piedmont Painting",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.629731,35.715667,-81.629731,35.715667],
-  "geometry": {"coordinates":[-81.629731,35.715667],"type":"Point"}
+  "bbox": [
+    -81.629731,
+    35.715667,
+    -81.629731,
+    35.715667
+],
+  "geometry": {"coordinates":[-81.62973100000001,35.715667],"type":"Point"}
 }

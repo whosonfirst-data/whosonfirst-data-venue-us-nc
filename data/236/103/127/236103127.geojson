@@ -2,13 +2,14 @@
   "id": 236103127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.556991,34.697002,-76.556991,34.697002",
     "geom:latitude":34.697002,
     "geom:longitude":-76.556991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Guthrie Dr",
     "sg:city":"Harkers Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236103127,
-    "wof:lastmodified":1449003765,
+    "wof:lastmodified":1466644139,
     "wof:name":"Harkers Island Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-76.556991,34.697002,-76.556991,34.697002],
+  "bbox": [
+    -76.556991,
+    34.697002,
+    -76.556991,
+    34.697002
+],
   "geometry": {"coordinates":[-76.556991,34.697002],"type":"Point"}
 }

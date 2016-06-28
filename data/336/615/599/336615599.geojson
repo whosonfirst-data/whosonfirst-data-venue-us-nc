@@ -2,13 +2,14 @@
   "id": 336615599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.409213,36.321295,-78.409213,36.321295",
     "geom:latitude":36.321295,
     "geom:longitude":-78.409213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Dorsey Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336615599,
-    "wof:lastmodified":1448997282,
+    "wof:lastmodified":1466646068,
     "wof:name":"Your American Backyard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.409213,36.321295,-78.409213,36.321295],
-  "geometry": {"coordinates":[-78.409213,36.321295],"type":"Point"}
+  "bbox": [
+    -78.409213,
+    36.321295,
+    -78.409213,
+    36.321295
+],
+  "geometry": {"coordinates":[-78.40921299999999,36.321295],"type":"Point"}
 }

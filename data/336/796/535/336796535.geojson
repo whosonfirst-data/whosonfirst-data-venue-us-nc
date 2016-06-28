@@ -2,13 +2,14 @@
   "id": 336796535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.561208,35.969643,-78.561208,35.969643",
     "geom:latitude":35.969643,
     "geom:longitude":-78.561208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Old State Hwy 98",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336796535,
-    "wof:lastmodified":1448997458,
+    "wof:lastmodified":1466648831,
     "wof:name":"Leonard R Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.561208,35.969643,-78.561208,35.969643],
-  "geometry": {"coordinates":[-78.561208,35.969643],"type":"Point"}
+  "bbox": [
+    -78.561208,
+    35.969643,
+    -78.561208,
+    35.969643
+],
+  "geometry": {"coordinates":[-78.56120799999999,35.969643],"type":"Point"}
 }

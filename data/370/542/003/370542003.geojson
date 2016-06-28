@@ -2,13 +2,14 @@
   "id": 370542003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.977094,35.588516,-80.977094,35.588516",
     "geom:latitude":35.588516,
     "geom:longitude":-80.977094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9245 Sherrills Ford Rd",
     "sg:city":"Terrell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370542003,
-    "wof:lastmodified":1449031732,
+    "wof:lastmodified":1466653112,
     "wof:name":"Racing Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.977094,35.588516,-80.977094,35.588516],
-  "geometry": {"coordinates":[-80.977094,35.588516],"type":"Point"}
+  "bbox": [
+    -80.977094,
+    35.588516,
+    -80.977094,
+    35.588516
+],
+  "geometry": {"coordinates":[-80.97709399999999,35.588516],"type":"Point"}
 }

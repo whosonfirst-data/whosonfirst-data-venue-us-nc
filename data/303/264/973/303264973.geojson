@@ -2,13 +2,14 @@
   "id": 303264973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.415982,34.77912,-77.415982,34.77912",
     "geom:latitude":34.77912,
     "geom:longitude":-77.415982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 Gum Branch Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303264973,
-    "wof:lastmodified":1448999706,
+    "wof:lastmodified":1466647170,
     "wof:name":"Atis Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-77.415982,34.77912,-77.415982,34.77912],
+  "bbox": [
+    -77.415982,
+    34.77912,
+    -77.415982,
+    34.77912
+],
   "geometry": {"coordinates":[-77.415982,34.77912],"type":"Point"}
 }

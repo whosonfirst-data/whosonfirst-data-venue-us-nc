@@ -2,13 +2,14 @@
   "id": 253610549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.947038,35.99505,-78.947038,35.99505",
     "geom:latitude":35.99505,
     "geom:longitude":-78.947038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Cameron Blvd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253610549,
-    "wof:lastmodified":1449065754,
+    "wof:lastmodified":1466649703,
     "wof:name":"Don Defeo Office",
     "wof:parent_id":85877149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.947038,35.99505,-78.947038,35.99505],
-  "geometry": {"coordinates":[-78.947038,35.99505],"type":"Point"}
+  "bbox": [
+    -78.947038,
+    35.99505,
+    -78.947038,
+    35.99505
+],
+  "geometry": {"coordinates":[-78.94703800000001,35.99505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303487643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.510729,35.870089,-81.510729,35.870089",
     "geom:latitude":35.870089,
     "geom:longitude":-81.510729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2471 Norwood St SW",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303487643,
-    "wof:lastmodified":1448998916,
+    "wof:lastmodified":1466650353,
     "wof:name":"NationaLease",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-81.510729,35.870089,-81.510729,35.870089],
+  "bbox": [
+    -81.510729,
+    35.870089,
+    -81.510729,
+    35.870089
+],
   "geometry": {"coordinates":[-81.510729,35.870089],"type":"Point"}
 }

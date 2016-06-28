@@ -2,13 +2,14 @@
   "id": 354274165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.87224,36.055436,-79.87224,36.055436",
     "geom:latitude":36.055436,
     "geom:longitude":-79.87224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3714 Alliance Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354274165,
-    "wof:lastmodified":1449066150,
+    "wof:lastmodified":1466650701,
     "wof:name":"Park Church Assoc",
     "wof:parent_id":85851941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.87224,36.055436,-79.87224,36.055436],
-  "geometry": {"coordinates":[-79.87224,36.055436],"type":"Point"}
+  "bbox": [
+    -79.87224,
+    36.055436,
+    -79.87224,
+    36.055436
+],
+  "geometry": {"coordinates":[-79.87224000000001,36.055436],"type":"Point"}
 }

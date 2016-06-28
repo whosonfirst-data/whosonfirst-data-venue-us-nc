@@ -2,13 +2,14 @@
   "id": 387373557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.281321,36.205232,-80.281321,36.205232",
     "geom:latitude":36.205232,
     "geom:longitude":-80.281321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 University Pkwy",
     "sg:city":"Rural Hall",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387373557,
-    "wof:lastmodified":1449058077,
+    "wof:lastmodified":1466654769,
     "wof:name":"Reynolds Automotive",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.281321,36.205232,-80.281321,36.205232],
-  "geometry": {"coordinates":[-80.281321,36.205232],"type":"Point"}
+  "bbox": [
+    -80.281321,
+    36.205232,
+    -80.281321,
+    36.205232
+],
+  "geometry": {"coordinates":[-80.28132100000001,36.205232],"type":"Point"}
 }

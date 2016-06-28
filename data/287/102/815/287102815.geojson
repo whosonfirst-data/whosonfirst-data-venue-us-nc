@@ -2,13 +2,14 @@
   "id": 287102815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.714908,36.316328,-79.714908,36.316328",
     "geom:latitude":36.316328,
     "geom:longitude":-79.714908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8162 US Hwy 158",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287102815,
-    "wof:lastmodified":1449001522,
+    "wof:lastmodified":1466644727,
     "wof:name":"Durham Auto Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clean"
     ]
 },
-  "bbox": [-79.714908,36.316328,-79.714908,36.316328],
-  "geometry": {"coordinates":[-79.714908,36.316328],"type":"Point"}
+  "bbox": [
+    -79.714908,
+    36.316328,
+    -79.714908,
+    36.316328
+],
+  "geometry": {"coordinates":[-79.71490799999999,36.316328],"type":"Point"}
 }

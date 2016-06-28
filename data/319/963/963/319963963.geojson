@@ -2,13 +2,14 @@
   "id": 319963963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.929556,35.10972,-78.929556,35.10972",
     "geom:latitude":35.10972,
     "geom:longitude":-78.929556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5205 Delco St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319963963,
-    "wof:lastmodified":1449024182,
+    "wof:lastmodified":1466646950,
     "wof:name":"S Ann Services",
     "wof:parent_id":85858619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "folk"
     ]
 },
-  "bbox": [-78.929556,35.10972,-78.929556,35.10972],
-  "geometry": {"coordinates":[-78.929556,35.10972],"type":"Point"}
+  "bbox": [
+    -78.929556,
+    35.10972,
+    -78.929556,
+    35.10972
+],
+  "geometry": {"coordinates":[-78.92955600000001,35.10972],"type":"Point"}
 }

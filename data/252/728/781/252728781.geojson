@@ -2,13 +2,14 @@
   "id": 252728781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246234,36.100749,-80.246234,36.100749",
     "geom:latitude":36.100749,
     "geom:longitude":-80.246234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"538 Trade St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252728781,
-    "wof:lastmodified":1449005674,
+    "wof:lastmodified":1466643409,
     "wof:name":"Downtown Foot Patrol",
     "wof:parent_id":85881827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-80.246234,36.100749,-80.246234,36.100749],
+  "bbox": [
+    -80.246234,
+    36.100749,
+    -80.246234,
+    36.100749
+],
   "geometry": {"coordinates":[-80.246234,36.100749],"type":"Point"}
 }

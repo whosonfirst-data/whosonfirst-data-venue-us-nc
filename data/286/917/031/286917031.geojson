@@ -2,13 +2,14 @@
   "id": 286917031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.458791,35.219231,-79.458791,35.219231",
     "geom:latitude":35.219231,
     "geom:longitude":-79.458791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Duncan Ln",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286917031,
-    "wof:lastmodified":1449017716,
+    "wof:lastmodified":1466652056,
     "wof:name":"Mpd Digital",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.458791,35.219231,-79.458791,35.219231],
-  "geometry": {"coordinates":[-79.458791,35.219231],"type":"Point"}
+  "bbox": [
+    -79.458791,
+    35.219231,
+    -79.458791,
+    35.219231
+],
+  "geometry": {"coordinates":[-79.45879100000001,35.219231],"type":"Point"}
 }

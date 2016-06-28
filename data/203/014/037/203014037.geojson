@@ -2,13 +2,14 @@
   "id": 203014037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.844688,34.258668,-77.844688,34.258668",
     "geom:latitude":34.258668,
     "geom:longitude":-77.844688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6500 Windmill Way",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203014037,
-    "wof:lastmodified":1449025852,
+    "wof:lastmodified":1466654233,
     "wof:name":"Gulf Coast Cable",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-77.844688,34.258668,-77.844688,34.258668],
+  "bbox": [
+    -77.844688,
+    34.258668,
+    -77.844688,
+    34.258668
+],
   "geometry": {"coordinates":[-77.844688,34.258668],"type":"Point"}
 }

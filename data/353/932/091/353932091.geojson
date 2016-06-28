@@ -2,13 +2,14 @@
   "id": 353932091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.468105,34.773926,-79.468105,34.773926",
     "geom:latitude":34.773926,
     "geom:longitude":-79.468105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Peden St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353932091,
-    "wof:lastmodified":1449019205,
+    "wof:lastmodified":1466653288,
     "wof:name":"Edwin Morgan Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-79.468105,34.773926,-79.468105,34.773926],
-  "geometry": {"coordinates":[-79.468105,34.773926],"type":"Point"}
+  "bbox": [
+    -79.468105,
+    34.773926,
+    -79.468105,
+    34.773926
+],
+  "geometry": {"coordinates":[-79.46810499999999,34.773926],"type":"Point"}
 }

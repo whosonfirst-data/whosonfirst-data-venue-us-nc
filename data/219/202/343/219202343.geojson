@@ -2,13 +2,14 @@
   "id": 219202343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.927602,34.179725,-77.927602,34.179725",
     "geom:latitude":34.179725,
     "geom:longitude":-77.927602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3736 Carolina Beach Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219202343,
-    "wof:lastmodified":1449073457,
+    "wof:lastmodified":1466655377,
     "wof:name":"Oak Grove Presbyterian Church",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.927602,34.179725,-77.927602,34.179725],
-  "geometry": {"coordinates":[-77.927602,34.179725],"type":"Point"}
+  "bbox": [
+    -77.927602,
+    34.179725,
+    -77.927602,
+    34.179725
+],
+  "geometry": {"coordinates":[-77.92760199999999,34.179725],"type":"Point"}
 }

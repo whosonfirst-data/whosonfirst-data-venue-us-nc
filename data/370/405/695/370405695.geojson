@@ -2,13 +2,14 @@
   "id": 370405695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.479117,35.183916,-78.479117,35.183916",
     "geom:latitude":35.183916,
     "geom:longitude":-78.479117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17494 US Hwy 421 N",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370405695,
-    "wof:lastmodified":1449032196,
+    "wof:lastmodified":1466651349,
     "wof:name":"United Way Of Harnett County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-78.479117,35.183916,-78.479117,35.183916],
+  "bbox": [
+    -78.479117,
+    35.183916,
+    -78.479117,
+    35.183916
+],
   "geometry": {"coordinates":[-78.479117,35.183916],"type":"Point"}
 }

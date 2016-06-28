@@ -2,13 +2,14 @@
   "id": 202760773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.05402,35.913803,-79.05402,35.913803",
     "geom:latitude":35.913803,
     "geom:longitude":-79.05402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202760773,
-    "wof:lastmodified":1449062546,
+    "wof:lastmodified":1466643881,
     "wof:name":"My Morning Out",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.05402,35.913803,-79.05402,35.913803],
-  "geometry": {"coordinates":[-79.05402,35.913803],"type":"Point"}
+  "bbox": [
+    -79.05402,
+    35.913803,
+    -79.05402,
+    35.913803
+],
+  "geometry": {"coordinates":[-79.05401999999999,35.913803],"type":"Point"}
 }

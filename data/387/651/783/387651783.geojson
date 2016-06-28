@@ -2,13 +2,14 @@
   "id": 387651783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.522708,35.208356,-80.522708,35.208356",
     "geom:latitude":35.208356,
     "geom:longitude":-80.522708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15133 US Hwy 601",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387651783,
-    "wof:lastmodified":1449056854,
+    "wof:lastmodified":1466657271,
     "wof:name":"Johnson Controls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.522708,35.208356,-80.522708,35.208356],
-  "geometry": {"coordinates":[-80.522708,35.208356],"type":"Point"}
+  "bbox": [
+    -80.522708,
+    35.208356,
+    -80.522708,
+    35.208356
+],
+  "geometry": {"coordinates":[-80.52270799999999,35.208356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404164659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.852651,34.196281,-77.852651,34.196281",
     "geom:latitude":34.196281,
     "geom:longitude":-77.852651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5753 Oak Bluff Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404164659,
-    "wof:lastmodified":1449039160,
+    "wof:lastmodified":1466653379,
     "wof:name":"Bb & T Corporation",
     "wof:parent_id":85838865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-77.852651,34.196281,-77.852651,34.196281],
-  "geometry": {"coordinates":[-77.852651,34.196281],"type":"Point"}
+  "bbox": [
+    -77.852651,
+    34.196281,
+    -77.852651,
+    34.196281
+],
+  "geometry": {"coordinates":[-77.85265099999999,34.196281],"type":"Point"}
 }

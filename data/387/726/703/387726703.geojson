@@ -2,13 +2,14 @@
   "id": 387726703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.458777,34.775282,-79.458777,34.775282",
     "geom:latitude":34.775282,
     "geom:longitude":-79.458777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 James St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387726703,
-    "wof:lastmodified":1449058715,
+    "wof:lastmodified":1466657393,
     "wof:name":"Johnson Railway Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "locomotive"
     ]
 },
-  "bbox": [-79.458777,34.775282,-79.458777,34.775282],
+  "bbox": [
+    -79.458777,
+    34.775282,
+    -79.458777,
+    34.775282
+],
   "geometry": {"coordinates":[-79.458777,34.775282],"type":"Point"}
 }

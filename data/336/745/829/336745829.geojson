@@ -2,13 +2,14 @@
   "id": 336745829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.791182,35.00147,-80.791182,35.00147",
     "geom:latitude":35.00147,
     "geom:longitude":-80.791182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Churchill Downs Dr",
     "sg:city":"Waxhaw",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336745829,
-    "wof:lastmodified":1448997956,
+    "wof:lastmodified":1466648041,
     "wof:name":"Kendall Moore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.791182,35.00147,-80.791182,35.00147],
-  "geometry": {"coordinates":[-80.791182,35.00147],"type":"Point"}
+  "bbox": [
+    -80.791182,
+    35.00147,
+    -80.791182,
+    35.00147
+],
+  "geometry": {"coordinates":[-80.79118200000001,35.00147],"type":"Point"}
 }

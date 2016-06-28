@@ -2,13 +2,14 @@
   "id": 387512813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.129078,35.451355,-78.129078,35.451355",
     "geom:latitude":35.451355,
     "geom:longitude":-78.129078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4385 US Hwy 70 W",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387512813,
-    "wof:lastmodified":1449058876,
+    "wof:lastmodified":1466656119,
     "wof:name":"Home & Tool Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-78.129078,35.451355,-78.129078,35.451355],
-  "geometry": {"coordinates":[-78.129078,35.451355],"type":"Point"}
+  "bbox": [
+    -78.129078,
+    35.451355,
+    -78.129078,
+    35.451355
+],
+  "geometry": {"coordinates":[-78.12907800000001,35.451355],"type":"Point"}
 }

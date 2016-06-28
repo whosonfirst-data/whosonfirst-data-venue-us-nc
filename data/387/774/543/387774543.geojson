@@ -2,13 +2,14 @@
   "id": 387774543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.083425,35.928073,-79.083425,35.928073",
     "geom:latitude":35.928073,
     "geom:longitude":-79.083425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Rock Spring Ct",
     "sg:city":"Carrboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387774543,
-    "wof:lastmodified":1449057585,
+    "wof:lastmodified":1466657515,
     "wof:name":"Peter Stone",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "research"
     ]
 },
-  "bbox": [-79.083425,35.928073,-79.083425,35.928073],
-  "geometry": {"coordinates":[-79.083425,35.928073],"type":"Point"}
+  "bbox": [
+    -79.083425,
+    35.928073,
+    -79.083425,
+    35.928073
+],
+  "geometry": {"coordinates":[-79.08342500000001,35.928073],"type":"Point"}
 }

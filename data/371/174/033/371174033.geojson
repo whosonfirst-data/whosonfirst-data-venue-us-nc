@@ -2,13 +2,14 @@
   "id": 371174033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.071446,35.558045,-77.071446,35.558045",
     "geom:latitude":35.558045,
     "geom:longitude":-77.071446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Grimes Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371174033,
-    "wof:lastmodified":1449049157,
+    "wof:lastmodified":1466651033,
     "wof:name":"Alligood-Owens Inc",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-77.071446,35.558045,-77.071446,35.558045],
-  "geometry": {"coordinates":[-77.071446,35.558045],"type":"Point"}
+  "bbox": [
+    -77.071446,
+    35.558045,
+    -77.071446,
+    35.558045
+],
+  "geometry": {"coordinates":[-77.07144599999999,35.558045],"type":"Point"}
 }

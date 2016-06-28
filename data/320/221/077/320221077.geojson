@@ -2,13 +2,14 @@
   "id": 320221077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.646319,35.701015,-78.646319,35.701015",
     "geom:latitude":35.701015,
     "geom:longitude":-78.646319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Woodland Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320221077,
-    "wof:lastmodified":1449012894,
+    "wof:lastmodified":1466648385,
     "wof:name":"Michael R Rhodes Southern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "operative"
     ]
 },
-  "bbox": [-78.646319,35.701015,-78.646319,35.701015],
-  "geometry": {"coordinates":[-78.646319,35.701015],"type":"Point"}
+  "bbox": [
+    -78.646319,
+    35.701015,
+    -78.646319,
+    35.701015
+],
+  "geometry": {"coordinates":[-78.64631900000001,35.701015],"type":"Point"}
 }

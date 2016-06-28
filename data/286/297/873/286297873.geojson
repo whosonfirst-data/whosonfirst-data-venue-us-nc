@@ -2,13 +2,14 @@
   "id": 286297873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.547711,34.982619,-80.547711,34.982619",
     "geom:latitude":34.982619,
     "geom:longitude":-80.547711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 E Franklin St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286297873,
-    "wof:lastmodified":1449017060,
+    "wof:lastmodified":1466643709,
     "wof:name":"Friendly Barber Shop",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.547711,34.982619,-80.547711,34.982619],
-  "geometry": {"coordinates":[-80.547711,34.982619],"type":"Point"}
+  "bbox": [
+    -80.547711,
+    34.982619,
+    -80.547711,
+    34.982619
+],
+  "geometry": {"coordinates":[-80.54771100000001,34.982619],"type":"Point"}
 }

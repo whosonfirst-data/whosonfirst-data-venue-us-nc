@@ -2,13 +2,14 @@
   "id": 303507701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.301488,36.063318,-80.301488,36.063318",
     "geom:latitude":36.063318,
     "geom:longitude":-80.301488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"564 Hanes Mall Blvd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303507701,
-    "wof:lastmodified":1448999376,
+    "wof:lastmodified":1466650626,
     "wof:name":"Souper Salad Restaurant",
     "wof:parent_id":85857871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.301488,36.063318,-80.301488,36.063318],
-  "geometry": {"coordinates":[-80.301488,36.063318],"type":"Point"}
+  "bbox": [
+    -80.301488,
+    36.063318,
+    -80.301488,
+    36.063318
+],
+  "geometry": {"coordinates":[-80.30148800000001,36.063318],"type":"Point"}
 }

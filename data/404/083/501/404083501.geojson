@@ -2,13 +2,14 @@
   "id": 404083501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.095937,35.360256,-81.095937,35.360256",
     "geom:latitude":35.360256,
     "geom:longitude":-81.095937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Main St",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404083501,
-    "wof:lastmodified":1449039582,
+    "wof:lastmodified":1466652344,
     "wof:name":"Rankin Sound & Light",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-81.095937,35.360256,-81.095937,35.360256],
-  "geometry": {"coordinates":[-81.095937,35.360256],"type":"Point"}
+  "bbox": [
+    -81.095937,
+    35.360256,
+    -81.095937,
+    35.360256
+],
+  "geometry": {"coordinates":[-81.09593700000001,35.360256],"type":"Point"}
 }

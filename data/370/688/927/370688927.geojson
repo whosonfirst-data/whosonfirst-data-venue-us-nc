@@ -2,13 +2,14 @@
   "id": 370688927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.989218,35.379403,-77.989218,35.379403",
     "geom:latitude":35.379403,
     "geom:longitude":-77.989218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E Chestnut St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370688927,
-    "wof:lastmodified":1449030348,
+    "wof:lastmodified":1466655062,
     "wof:name":"Chestnut Street Head Start Ctr",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.989218,35.379403,-77.989218,35.379403],
-  "geometry": {"coordinates":[-77.989218,35.379403],"type":"Point"}
+  "bbox": [
+    -77.989218,
+    35.379403,
+    -77.989218,
+    35.379403
+],
+  "geometry": {"coordinates":[-77.98921799999999,35.379403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404072481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.810663,35.062207,-80.810663,35.062207",
     "geom:latitude":35.062207,
     "geom:longitude":-80.810663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5111 Block House Ct",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404072481,
-    "wof:lastmodified":1449039768,
+    "wof:lastmodified":1466652208,
     "wof:name":"Sentinel Real Estate",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.810663,35.062207,-80.810663,35.062207],
-  "geometry": {"coordinates":[-80.810663,35.062207],"type":"Point"}
+  "bbox": [
+    -80.810663,
+    35.062207,
+    -80.810663,
+    35.062207
+],
+  "geometry": {"coordinates":[-80.81066300000001,35.062207],"type":"Point"}
 }

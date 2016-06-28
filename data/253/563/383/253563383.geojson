@@ -2,13 +2,14 @@
   "id": 253563383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.266584,36.061924,-79.266584,36.061924",
     "geom:latitude":36.061924,
     "geom:longitude":-79.266584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 Old Hillsborough Rd",
     "sg:city":"Mebane",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253563383,
-    "wof:lastmodified":1449062864,
+    "wof:lastmodified":1466649122,
     "wof:name":"True Colours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.266584,36.061924,-79.266584,36.061924],
-  "geometry": {"coordinates":[-79.266584,36.061924],"type":"Point"}
+  "bbox": [
+    -79.266584,
+    36.061924,
+    -79.266584,
+    36.061924
+],
+  "geometry": {"coordinates":[-79.26658399999999,36.061924],"type":"Point"}
 }

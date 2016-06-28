@@ -2,13 +2,14 @@
   "id": 370233821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.669914,35.335116,-78.669914,35.335116",
     "geom:latitude":35.335116,
     "geom:longitude":-78.669914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Triton Ct",
     "sg:city":"Erwin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370233821,
-    "wof:lastmodified":1449032534,
+    "wof:lastmodified":1466649206,
     "wof:name":"Oakdale II Apartments",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.669914,35.335116,-78.669914,35.335116],
-  "geometry": {"coordinates":[-78.669914,35.335116],"type":"Point"}
+  "bbox": [
+    -78.669914,
+    35.335116,
+    -78.669914,
+    35.335116
+],
+  "geometry": {"coordinates":[-78.66991400000001,35.335116],"type":"Point"}
 }

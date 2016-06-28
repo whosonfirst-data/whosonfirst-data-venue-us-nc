@@ -2,13 +2,14 @@
   "id": 370340085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.945225,36.111114,-76.945225,36.111114",
     "geom:latitude":36.111114,
     "geom:longitude":-76.945225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Askewville Bryant St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370340085,
-    "wof:lastmodified":1449031711,
+    "wof:lastmodified":1466650515,
     "wof:name":"Elbert R Bryant Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [-76.945225,36.111114,-76.945225,36.111114],
-  "geometry": {"coordinates":[-76.945225,36.111114],"type":"Point"}
+  "bbox": [
+    -76.945225,
+    36.111114,
+    -76.945225,
+    36.111114
+],
+  "geometry": {"coordinates":[-76.94522499999999,36.111114],"type":"Point"}
 }

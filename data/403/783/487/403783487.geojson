@@ -2,13 +2,14 @@
   "id": 403783487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24532,36.084667,-80.24532,36.084667",
     "geom:latitude":36.084667,
     "geom:longitude":-80.24532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Poplar St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403783487,
-    "wof:lastmodified":1449054664,
+    "wof:lastmodified":1466651366,
     "wof:name":"Old Salem Moravian Cookies",
     "wof:parent_id":85846751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cracker"
     ]
 },
-  "bbox": [-80.24532,36.084667,-80.24532,36.084667],
-  "geometry": {"coordinates":[-80.24532,36.084667],"type":"Point"}
+  "bbox": [
+    -80.24532,
+    36.084667,
+    -80.24532,
+    36.084667
+],
+  "geometry": {"coordinates":[-80.24532000000001,36.084667],"type":"Point"}
 }

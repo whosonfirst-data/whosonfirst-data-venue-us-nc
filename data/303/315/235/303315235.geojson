@@ -2,13 +2,14 @@
   "id": 303315235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.544369,35.329509,-78.544369,35.329509",
     "geom:latitude":35.329509,
     "geom:longitude":-78.544369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 W Strickland Rd",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303315235,
-    "wof:lastmodified":1449000437,
+    "wof:lastmodified":1466647880,
     "wof:name":"G & K Construction",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.544369,35.329509,-78.544369,35.329509],
+  "bbox": [
+    -78.544369,
+    35.329509,
+    -78.544369,
+    35.329509
+],
   "geometry": {"coordinates":[-78.544369,35.329509],"type":"Point"}
 }

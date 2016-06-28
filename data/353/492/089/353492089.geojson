@@ -2,13 +2,14 @@
   "id": 353492089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.170183,35.258603,-81.170183,35.258603",
     "geom:latitude":35.258603,
     "geom:longitude":-81.170183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 S Chestnut St",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353492089,
-    "wof:lastmodified":1449018257,
+    "wof:lastmodified":1466648063,
     "wof:name":"BDI",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "power"
     ]
 },
-  "bbox": [-81.170183,35.258603,-81.170183,35.258603],
-  "geometry": {"coordinates":[-81.170183,35.258603],"type":"Point"}
+  "bbox": [
+    -81.170183,
+    35.258603,
+    -81.170183,
+    35.258603
+],
+  "geometry": {"coordinates":[-81.17018299999999,35.258603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303462463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.005141,35.951388,-79.005141,35.951388",
     "geom:latitude":35.951388,
     "geom:longitude":-79.005141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Eastowne Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303462463,
-    "wof:lastmodified":1449000469,
+    "wof:lastmodified":1466649988,
     "wof:name":"Janet G Hall",
     "wof:parent_id":85811955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.005141,35.951388,-79.005141,35.951388],
-  "geometry": {"coordinates":[-79.005141,35.951388],"type":"Point"}
+  "bbox": [
+    -79.005141,
+    35.951388,
+    -79.005141,
+    35.951388
+],
+  "geometry": {"coordinates":[-79.00514099999999,35.951388],"type":"Point"}
 }

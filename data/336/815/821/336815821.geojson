@@ -2,13 +2,14 @@
   "id": 336815821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.667364,35.327995,-78.667364,35.327995",
     "geom:latitude":35.327995,
     "geom:longitude":-78.667364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 E H St",
     "sg:city":"Erwin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336815821,
-    "wof:lastmodified":1448997478,
+    "wof:lastmodified":1466649119,
     "wof:name":"Erwin Youth Home",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.667364,35.327995,-78.667364,35.327995],
-  "geometry": {"coordinates":[-78.667364,35.327995],"type":"Point"}
+  "bbox": [
+    -78.667364,
+    35.327995,
+    -78.667364,
+    35.327995
+],
+  "geometry": {"coordinates":[-78.66736400000001,35.327995],"type":"Point"}
 }

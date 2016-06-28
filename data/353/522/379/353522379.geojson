@@ -2,13 +2,14 @@
   "id": 353522379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.743642,36.503351,-79.743642,36.503351",
     "geom:latitude":36.503351,
     "geom:longitude":-79.743642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Van Buren Rd",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353522379,
-    "wof:lastmodified":1449019479,
+    "wof:lastmodified":1466648434,
     "wof:name":"Golden Corral",
     "wof:parent_id":85810227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.743642,36.503351,-79.743642,36.503351],
-  "geometry": {"coordinates":[-79.743642,36.503351],"type":"Point"}
+  "bbox": [
+    -79.743642,
+    36.503351,
+    -79.743642,
+    36.503351
+],
+  "geometry": {"coordinates":[-79.74364199999999,36.503351],"type":"Point"}
 }

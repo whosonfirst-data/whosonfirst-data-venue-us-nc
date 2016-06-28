@@ -2,13 +2,14 @@
   "id": 253288707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.751786,35.240792,-77.751786,35.240792",
     "geom:latitude":35.240792,
     "geom:longitude":-77.751786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1832 Sutton Shortcut Rd",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253288707,
-    "wof:lastmodified":1449063124,
+    "wof:lastmodified":1466645922,
     "wof:name":"Stanley Sutton Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-77.751786,35.240792,-77.751786,35.240792],
+  "bbox": [
+    -77.751786,
+    35.240792,
+    -77.751786,
+    35.240792
+],
   "geometry": {"coordinates":[-77.751786,35.240792],"type":"Point"}
 }

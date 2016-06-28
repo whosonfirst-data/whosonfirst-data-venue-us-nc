@@ -2,13 +2,14 @@
   "id": 387749435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.067076,35.861275,-80.067076,35.861275",
     "geom:latitude":35.861275,
     "geom:longitude":-80.067076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Arthur Dr",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387749435,
-    "wof:lastmodified":1449057182,
+    "wof:lastmodified":1466657587,
     "wof:name":"Thomasville Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatrician"
     ]
 },
-  "bbox": [-80.067076,35.861275,-80.067076,35.861275],
+  "bbox": [
+    -80.067076,
+    35.861275,
+    -80.067076,
+    35.861275
+],
   "geometry": {"coordinates":[-80.067076,35.861275],"type":"Point"}
 }

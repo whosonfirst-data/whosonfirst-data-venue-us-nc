@@ -2,13 +2,14 @@
   "id": 253599529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.031395,35.533455,-77.031395,35.533455",
     "geom:latitude":35.533455,
     "geom:longitude":-77.031395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Fairview Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253599529,
-    "wof:lastmodified":1449064194,
+    "wof:lastmodified":1466649577,
     "wof:name":"Washington Park Municipal Town",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-77.031395,35.533455,-77.031395,35.533455],
+  "bbox": [
+    -77.031395,
+    35.533455,
+    -77.031395,
+    35.533455
+],
   "geometry": {"coordinates":[-77.031395,35.533455],"type":"Point"}
 }

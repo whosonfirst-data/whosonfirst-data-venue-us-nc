@@ -2,13 +2,14 @@
   "id": 370682225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.127924,36.186409,-81.127924,36.186409",
     "geom:latitude":36.186409,
     "geom:longitude":-81.127924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Elkin Hwy",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370682225,
-    "wof:lastmodified":1449029679,
+    "wof:lastmodified":1466654975,
     "wof:name":"Frank's Tools",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-81.127924,36.186409,-81.127924,36.186409],
-  "geometry": {"coordinates":[-81.127924,36.186409],"type":"Point"}
+  "bbox": [
+    -81.127924,
+    36.186409,
+    -81.127924,
+    36.186409
+],
+  "geometry": {"coordinates":[-81.12792399999999,36.186409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304000573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.641343,35.599367,-78.641343,35.599367",
     "geom:latitude":35.599367,
     "geom:longitude":-78.641343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 Twin Springs Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304000573,
-    "wof:lastmodified":1449043649,
+    "wof:lastmodified":1466655845,
     "wof:name":"Weathers Printing Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commercial"
     ]
 },
-  "bbox": [-78.641343,35.599367,-78.641343,35.599367],
-  "geometry": {"coordinates":[-78.641343,35.599367],"type":"Point"}
+  "bbox": [
+    -78.641343,
+    35.599367,
+    -78.641343,
+    35.599367
+],
+  "geometry": {"coordinates":[-78.64134300000001,35.599367],"type":"Point"}
 }

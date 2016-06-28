@@ -2,13 +2,14 @@
   "id": 303621719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.566124,35.810114,-78.566124,35.810114",
     "geom:latitude":35.810114,
     "geom:longitude":-78.566124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Mantua Way",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303621719,
-    "wof:lastmodified":1449000275,
+    "wof:lastmodified":1466652282,
     "wof:name":"Dunning Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.566124,35.810114,-78.566124,35.810114],
+  "bbox": [
+    -78.566124,
+    35.810114,
+    -78.566124,
+    35.810114
+],
   "geometry": {"coordinates":[-78.566124,35.810114],"type":"Point"}
 }

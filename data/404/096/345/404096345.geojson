@@ -2,13 +2,14 @@
   "id": 404096345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.615919,35.806541,-78.615919,35.806541",
     "geom:latitude":35.806541,
     "geom:longitude":-78.615919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404096345,
-    "wof:lastmodified":1449039406,
+    "wof:lastmodified":1466652501,
     "wof:name":"Country City",
     "wof:parent_id":85858597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.615919,35.806541,-78.615919,35.806541],
-  "geometry": {"coordinates":[-78.615919,35.806541],"type":"Point"}
+  "bbox": [
+    -78.615919,
+    35.806541,
+    -78.615919,
+    35.806541
+],
+  "geometry": {"coordinates":[-78.61591900000001,35.806541],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387511007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.895345,34.863087,-76.895345,34.863087",
     "geom:latitude":34.863087,
     "geom:longitude":-76.895345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Daniels Ct",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387511007,
-    "wof:lastmodified":1449057857,
+    "wof:lastmodified":1466656342,
     "wof:name":"Patricia Jennings",
     "wof:parent_id":85852615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-76.895345,34.863087,-76.895345,34.863087],
-  "geometry": {"coordinates":[-76.895345,34.863087],"type":"Point"}
+  "bbox": [
+    -76.895345,
+    34.863087,
+    -76.895345,
+    34.863087
+],
+  "geometry": {"coordinates":[-76.89534500000001,34.863087],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303655623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.628178,35.772831,-78.628178,35.772831",
     "geom:latitude":35.772831,
     "geom:longitude":-78.628178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 S Haywood St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303655623,
-    "wof:lastmodified":1448999528,
+    "wof:lastmodified":1466652773,
     "wof:name":"Family's Minimart",
     "wof:parent_id":85873459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.628178,35.772831,-78.628178,35.772831],
-  "geometry": {"coordinates":[-78.628178,35.772831],"type":"Point"}
+  "bbox": [
+    -78.628178,
+    35.772831,
+    -78.628178,
+    35.772831
+],
+  "geometry": {"coordinates":[-78.62817800000001,35.772831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203297575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.263692,35.716164,-77.263692,35.716164",
     "geom:latitude":35.716164,
     "geom:longitude":-77.263692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 State Hwy 903 N",
     "sg:city":"Stokes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203297575,
-    "wof:lastmodified":1449026178,
+    "wof:lastmodified":1466643232,
     "wof:name":"Stokes Malt Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.263692,35.716164,-77.263692,35.716164],
-  "geometry": {"coordinates":[-77.263692,35.716164],"type":"Point"}
+  "bbox": [
+    -77.263692,
+    35.716164,
+    -77.263692,
+    35.716164
+],
+  "geometry": {"coordinates":[-77.26369200000001,35.716164],"type":"Point"}
 }

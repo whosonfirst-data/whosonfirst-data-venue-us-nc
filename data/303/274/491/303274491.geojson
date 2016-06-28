@@ -2,13 +2,14 @@
   "id": 303274491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.665392,35.827699,-80.665392,35.827699",
     "geom:latitude":35.827699,
     "geom:longitude":-80.665392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 S River Church Rd",
     "sg:city":"Woodleaf",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303274491,
-    "wof:lastmodified":1448998417,
+    "wof:lastmodified":1466647310,
     "wof:name":"Church At Cleveland",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.665392,35.827699,-80.665392,35.827699],
+  "bbox": [
+    -80.665392,
+    35.827699,
+    -80.665392,
+    35.827699
+],
   "geometry": {"coordinates":[-80.665392,35.827699],"type":"Point"}
 }

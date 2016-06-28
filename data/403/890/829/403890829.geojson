@@ -2,13 +2,14 @@
   "id": 403890829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222805,35.393287,-80.222805,35.393287",
     "geom:latitude":35.393287,
     "geom:longitude":-80.222805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36045 Old Salisbury Rd",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403890829,
-    "wof:lastmodified":1449054945,
+    "wof:lastmodified":1466652788,
     "wof:name":"Jim Barna Log Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.222805,35.393287,-80.222805,35.393287],
-  "geometry": {"coordinates":[-80.222805,35.393287],"type":"Point"}
+  "bbox": [
+    -80.222805,
+    35.393287,
+    -80.222805,
+    35.393287
+],
+  "geometry": {"coordinates":[-80.22280499999999,35.393287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387029829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.911799,35.382933,-77.911799,35.382933",
     "geom:latitude":35.382933,
     "geom:longitude":-77.911799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 Central Heights Rd",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387029829,
-    "wof:lastmodified":1449057715,
+    "wof:lastmodified":1466650253,
     "wof:name":"Davis Barber Shop",
     "wof:parent_id":85843871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-77.911799,35.382933,-77.911799,35.382933],
+  "bbox": [
+    -77.911799,
+    35.382933,
+    -77.911799,
+    35.382933
+],
   "geometry": {"coordinates":[-77.911799,35.382933],"type":"Point"}
 }

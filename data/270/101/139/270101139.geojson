@@ -2,13 +2,14 @@
   "id": 270101139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.509295,35.435943,-78.509295,35.435943",
     "geom:latitude":35.435943,
     "geom:longitude":-78.509295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 Shade Tree Rd",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270101139,
-    "wof:lastmodified":1449009931,
+    "wof:lastmodified":1466644380,
     "wof:name":"C & S Johnson Inc",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-78.509295,35.435943,-78.509295,35.435943],
-  "geometry": {"coordinates":[-78.509295,35.435943],"type":"Point"}
+  "bbox": [
+    -78.509295,
+    35.435943,
+    -78.509295,
+    35.435943
+],
+  "geometry": {"coordinates":[-78.50929499999999,35.435943],"type":"Point"}
 }

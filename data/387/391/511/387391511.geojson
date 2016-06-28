@@ -2,13 +2,14 @@
   "id": 387391511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.474091,35.670975,-80.474091,35.670975",
     "geom:latitude":35.670975,
     "geom:longitude":-80.474091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Innes St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387391511,
-    "wof:lastmodified":1449058541,
+    "wof:lastmodified":1466654992,
     "wof:name":"Citizens South Bank",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.474091,35.670975,-80.474091,35.670975],
+  "bbox": [
+    -80.474091,
+    35.670975,
+    -80.474091,
+    35.670975
+],
   "geometry": {"coordinates":[-80.474091,35.670975],"type":"Point"}
 }

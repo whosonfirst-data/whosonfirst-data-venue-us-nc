@@ -2,13 +2,14 @@
   "id": 320717733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.815705,35.836597,-78.815705,35.836597",
     "geom:latitude":35.836597,
     "geom:longitude":-78.815705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Southport Dr",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320717733,
-    "wof:lastmodified":1449011356,
+    "wof:lastmodified":1466655513,
     "wof:name":"Griffin Engineering & Tchncl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-78.815705,35.836597,-78.815705,35.836597],
-  "geometry": {"coordinates":[-78.815705,35.836597],"type":"Point"}
+  "bbox": [
+    -78.815705,
+    35.836597,
+    -78.815705,
+    35.836597
+],
+  "geometry": {"coordinates":[-78.81570499999999,35.836597],"type":"Point"}
 }

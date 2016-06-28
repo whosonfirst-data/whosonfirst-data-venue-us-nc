@@ -2,13 +2,14 @@
   "id": 370619589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.51832,34.990336,-80.51832,34.990336",
     "geom:latitude":34.990336,
     "geom:longitude":-80.51832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1913 Steele St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370619589,
-    "wof:lastmodified":1449029700,
+    "wof:lastmodified":1466654130,
     "wof:name":"Southern Charm",
     "wof:parent_id":85840585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.51832,34.990336,-80.51832,34.990336],
+  "bbox": [
+    -80.51832,
+    34.990336,
+    -80.51832,
+    34.990336
+],
   "geometry": {"coordinates":[-80.51832,34.990336],"type":"Point"}
 }

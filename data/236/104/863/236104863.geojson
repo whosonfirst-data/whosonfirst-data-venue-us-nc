@@ -2,13 +2,14 @@
   "id": 236104863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.624301,35.497656,-80.624301,35.497656",
     "geom:latitude":35.497656,
     "geom:longitude":-80.624301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Main St",
     "sg:city":"Kannapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236104863,
-    "wof:lastmodified":1449002928,
+    "wof:lastmodified":1466644156,
     "wof:name":"Kannapolis City-Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-80.624301,35.497656,-80.624301,35.497656],
+  "bbox": [
+    -80.624301,
+    35.497656,
+    -80.624301,
+    35.497656
+],
   "geometry": {"coordinates":[-80.624301,35.497656],"type":"Point"}
 }

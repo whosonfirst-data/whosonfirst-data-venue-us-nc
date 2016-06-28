@@ -2,13 +2,14 @@
   "id": 252783151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.70982,34.353289,-78.70982,34.353289",
     "geom:latitude":34.353289,
     "geom:longitude":-78.70982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1077 US Hwy 701 N Byp",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252783151,
-    "wof:lastmodified":1449005432,
+    "wof:lastmodified":1466643901,
     "wof:name":"Carolina Eastern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.70982,34.353289,-78.70982,34.353289],
-  "geometry": {"coordinates":[-78.70982,34.353289],"type":"Point"}
+  "bbox": [
+    -78.70982,
+    34.353289,
+    -78.70982,
+    34.353289
+],
+  "geometry": {"coordinates":[-78.70981999999999,34.353289],"type":"Point"}
 }

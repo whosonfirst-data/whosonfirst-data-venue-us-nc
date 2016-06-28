@@ -2,13 +2,14 @@
   "id": 320069065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.058558,35.948388,-79.058558,35.948388",
     "geom:latitude":35.948388,
     "geom:longitude":-79.058558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1229 Airport Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320069065,
-    "wof:lastmodified":1449013620,
+    "wof:lastmodified":1466646282,
     "wof:name":"Chapel Hill Wine Co",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-79.058558,35.948388,-79.058558,35.948388],
+  "bbox": [
+    -79.058558,
+    35.948388,
+    -79.058558,
+    35.948388
+],
   "geometry": {"coordinates":[-79.058558,35.948388],"type":"Point"}
 }

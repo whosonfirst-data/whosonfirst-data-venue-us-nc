@@ -2,13 +2,14 @@
   "id": 354152949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.837742,35.949849,-77.837742,35.949849",
     "geom:latitude":35.949849,
     "geom:longitude":-77.837742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 Berkley Dr",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354152949,
-    "wof:lastmodified":1449067242,
+    "wof:lastmodified":1466649325,
     "wof:name":"DC Broad Architect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-77.837742,35.949849,-77.837742,35.949849],
-  "geometry": {"coordinates":[-77.837742,35.949849],"type":"Point"}
+  "bbox": [
+    -77.837742,
+    35.949849,
+    -77.837742,
+    35.949849
+],
+  "geometry": {"coordinates":[-77.83774200000001,35.949849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320336363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.274701,36.150495,-80.274701,36.150495",
     "geom:latitude":36.150495,
     "geom:longitude":-80.274701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7905 N Point Blvd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320336363,
-    "wof:lastmodified":1449011191,
+    "wof:lastmodified":1466650002,
     "wof:name":"Ferguson Bath & Kitchen Gllry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.274701,36.150495,-80.274701,36.150495],
-  "geometry": {"coordinates":[-80.274701,36.150495],"type":"Point"}
+  "bbox": [
+    -80.274701,
+    36.150495,
+    -80.274701,
+    36.150495
+],
+  "geometry": {"coordinates":[-80.27470099999999,36.150495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303270451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.250335,36.106485,-80.250335,36.106485",
     "geom:latitude":36.106485,
     "geom:longitude":-80.250335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Cherry St N",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303270451,
-    "wof:lastmodified":1448998551,
+    "wof:lastmodified":1466647254,
     "wof:name":"Jackson Auto WORX",
     "wof:parent_id":85881827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.250335,36.106485,-80.250335,36.106485],
-  "geometry": {"coordinates":[-80.250335,36.106485],"type":"Point"}
+  "bbox": [
+    -80.250335,
+    36.106485,
+    -80.250335,
+    36.106485
+],
+  "geometry": {"coordinates":[-80.25033500000001,36.106485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387685123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.614759,35.848991,-78.614759,35.848991",
     "geom:latitude":35.848991,
     "geom:longitude":-78.614759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 Falls of Neuse Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387685123,
-    "wof:lastmodified":1449059827,
+    "wof:lastmodified":1466657350,
     "wof:name":"Farrell & LA Mantia",
     "wof:parent_id":85809963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.614759,35.848991,-78.614759,35.848991],
-  "geometry": {"coordinates":[-78.614759,35.848991],"type":"Point"}
+  "bbox": [
+    -78.614759,
+    35.848991,
+    -78.614759,
+    35.848991
+],
+  "geometry": {"coordinates":[-78.61475900000001,35.848991],"type":"Point"}
 }

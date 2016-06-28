@@ -2,13 +2,14 @@
   "id": 219300527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530054,35.645746,-82.530054,35.645746",
     "geom:latitude":35.645746,
     "geom:longitude":-82.530054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Brookcliff Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219300527,
-    "wof:lastmodified":1449072363,
+    "wof:lastmodified":1466643327,
     "wof:name":"JAS Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.530054,35.645746,-82.530054,35.645746],
-  "geometry": {"coordinates":[-82.530054,35.645746],"type":"Point"}
+  "bbox": [
+    -82.530054,
+    35.645746,
+    -82.530054,
+    35.645746
+],
+  "geometry": {"coordinates":[-82.53005400000001,35.645746],"type":"Point"}
 }

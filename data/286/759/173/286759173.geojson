@@ -2,13 +2,14 @@
   "id": 286759173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.595565,35.844941,-78.595565,35.844941",
     "geom:latitude":35.844941,
     "geom:longitude":-78.595565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 Walden Pond Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286759173,
-    "wof:lastmodified":1449018127,
+    "wof:lastmodified":1466649894,
     "wof:name":"Unique Errand Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "errand"
     ]
 },
-  "bbox": [-78.595565,35.844941,-78.595565,35.844941],
-  "geometry": {"coordinates":[-78.595565,35.844941],"type":"Point"}
+  "bbox": [
+    -78.595565,
+    35.844941,
+    -78.595565,
+    35.844941
+],
+  "geometry": {"coordinates":[-78.59556499999999,35.844941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203126737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.423318,36.081777,-79.423318,36.081777",
     "geom:latitude":36.081777,
     "geom:longitude":-79.423318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 E Webb Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203126737,
-    "wof:lastmodified":1449025616,
+    "wof:lastmodified":1466654919,
     "wof:name":"One Source Document Solutions",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-79.423318,36.081777,-79.423318,36.081777],
-  "geometry": {"coordinates":[-79.423318,36.081777],"type":"Point"}
+  "bbox": [
+    -79.423318,
+    36.081777,
+    -79.423318,
+    36.081777
+],
+  "geometry": {"coordinates":[-79.42331799999999,36.081777],"type":"Point"}
 }

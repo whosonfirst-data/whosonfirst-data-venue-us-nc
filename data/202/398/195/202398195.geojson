@@ -2,13 +2,14 @@
   "id": 202398195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.580129,35.312932,-77.580129,35.312932",
     "geom:latitude":35.312932,
     "geom:longitude":-77.580129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2139 Rose Vista Dr",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202398195,
-    "wof:lastmodified":1449060319,
+    "wof:lastmodified":1466654214,
     "wof:name":"Convalescent Tranports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-77.580129,35.312932,-77.580129,35.312932],
+  "bbox": [
+    -77.580129,
+    35.312932,
+    -77.580129,
+    35.312932
+],
   "geometry": {"coordinates":[-77.580129,35.312932],"type":"Point"}
 }

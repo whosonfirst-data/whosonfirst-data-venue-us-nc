@@ -2,13 +2,14 @@
   "id": 253495301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.83962,36.021096,-79.83962,36.021096",
     "geom:latitude":36.021096,
     "geom:longitude":-79.83962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 Pinecroft Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253495301,
-    "wof:lastmodified":1449064130,
+    "wof:lastmodified":1466648321,
     "wof:name":"Circle K",
     "wof:parent_id":85845739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.83962,36.021096,-79.83962,36.021096],
+  "bbox": [
+    -79.83962,
+    36.021096,
+    -79.83962,
+    36.021096
+],
   "geometry": {"coordinates":[-79.83962,36.021096],"type":"Point"}
 }

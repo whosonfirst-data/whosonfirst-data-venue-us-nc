@@ -2,13 +2,14 @@
   "id": 320095483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.345998,35.514192,-78.345998,35.514192",
     "geom:latitude":35.514192,
     "geom:longitude":-78.345998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 2nd St",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320095483,
-    "wof:lastmodified":1449013158,
+    "wof:lastmodified":1466646643,
     "wof:name":"Holland & O'Connor",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.345998,35.514192,-78.345998,35.514192],
-  "geometry": {"coordinates":[-78.345998,35.514192],"type":"Point"}
+  "bbox": [
+    -78.345998,
+    35.514192,
+    -78.345998,
+    35.514192
+],
+  "geometry": {"coordinates":[-78.34599799999999,35.514192],"type":"Point"}
 }

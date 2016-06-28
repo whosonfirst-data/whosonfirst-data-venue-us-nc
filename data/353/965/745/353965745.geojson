@@ -2,13 +2,14 @@
   "id": 353965745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.825685,34.240199,-77.825685,34.240199",
     "geom:latitude":34.240199,
     "geom:longitude":-77.825685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Ashes Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353965745,
-    "wof:lastmodified":1449020027,
+    "wof:lastmodified":1466653705,
     "wof:name":"Coastal Behavioral Medicine",
     "wof:parent_id":85809845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.825685,34.240199,-77.825685,34.240199],
-  "geometry": {"coordinates":[-77.825685,34.240199],"type":"Point"}
+  "bbox": [
+    -77.825685,
+    34.240199,
+    -77.825685,
+    34.240199
+],
+  "geometry": {"coordinates":[-77.82568499999999,34.240199],"type":"Point"}
 }

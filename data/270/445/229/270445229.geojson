@@ -2,13 +2,14 @@
   "id": 270445229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.822899,35.822369,-79.822899,35.822369",
     "geom:latitude":35.822369,
     "geom:longitude":-79.822899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 High Point St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270445229,
-    "wof:lastmodified":1449008969,
+    "wof:lastmodified":1466648715,
     "wof:name":"National Vision",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.822899,35.822369,-79.822899,35.822369],
-  "geometry": {"coordinates":[-79.822899,35.822369],"type":"Point"}
+  "bbox": [
+    -79.822899,
+    35.822369,
+    -79.822899,
+    35.822369
+],
+  "geometry": {"coordinates":[-79.82289900000001,35.822369],"type":"Point"}
 }

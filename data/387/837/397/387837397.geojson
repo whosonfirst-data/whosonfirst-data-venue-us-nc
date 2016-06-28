@@ -2,13 +2,14 @@
   "id": 387837397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.876156,34.145892,-77.876156,34.145892",
     "geom:latitude":34.145892,
     "geom:longitude":-77.876156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5006 Trailing Vine Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387837397,
-    "wof:lastmodified":1449056695,
+    "wof:lastmodified":1466657843,
     "wof:name":"United States Power Squad",
     "wof:parent_id":85822927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.876156,34.145892,-77.876156,34.145892],
-  "geometry": {"coordinates":[-77.876156,34.145892],"type":"Point"}
+  "bbox": [
+    -77.876156,
+    34.145892,
+    -77.876156,
+    34.145892
+],
+  "geometry": {"coordinates":[-77.87615599999999,34.145892],"type":"Point"}
 }

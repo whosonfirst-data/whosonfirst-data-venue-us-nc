@@ -2,13 +2,14 @@
   "id": 353688667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.356851,35.815457,-81.356851,35.815457",
     "geom:latitude":35.815457,
     "geom:longitude":-81.356851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5195 Canary Ct",
     "sg:city":"Granite Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353688667,
-    "wof:lastmodified":1449019216,
+    "wof:lastmodified":1466650463,
     "wof:name":"Barry Reece Electrical Service",
     "wof:parent_id":85822593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.356851,35.815457,-81.356851,35.815457],
-  "geometry": {"coordinates":[-81.356851,35.815457],"type":"Point"}
+  "bbox": [
+    -81.356851,
+    35.815457,
+    -81.356851,
+    35.815457
+],
+  "geometry": {"coordinates":[-81.35685100000001,35.815457],"type":"Point"}
 }

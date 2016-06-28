@@ -2,13 +2,14 @@
   "id": 253331279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.626956,35.856627,-78.626956,35.856627",
     "geom:latitude":35.856627,
     "geom:longitude":-78.626956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5417 Mapleridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253331279,
-    "wof:lastmodified":1449064604,
+    "wof:lastmodified":1466646358,
     "wof:name":"Ideal Cleaners",
     "wof:parent_id":85818495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [-78.626956,35.856627,-78.626956,35.856627],
-  "geometry": {"coordinates":[-78.626956,35.856627],"type":"Point"}
+  "bbox": [
+    -78.626956,
+    35.856627,
+    -78.626956,
+    35.856627
+],
+  "geometry": {"coordinates":[-78.62695600000001,35.856627],"type":"Point"}
 }

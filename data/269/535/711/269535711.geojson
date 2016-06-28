@@ -2,13 +2,14 @@
   "id": 269535711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.598577,35.872478,-78.598577,35.872478",
     "geom:latitude":35.872478,
     "geom:longitude":-78.598577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6608 Johnsdale Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269535711,
-    "wof:lastmodified":1449036568,
+    "wof:lastmodified":1466643815,
     "wof:name":"Hartley Press",
     "wof:parent_id":85830857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-78.598577,35.872478,-78.598577,35.872478],
-  "geometry": {"coordinates":[-78.598577,35.872478],"type":"Point"}
+  "bbox": [
+    -78.598577,
+    35.872478,
+    -78.598577,
+    35.872478
+],
+  "geometry": {"coordinates":[-78.59857700000001,35.872478],"type":"Point"}
 }

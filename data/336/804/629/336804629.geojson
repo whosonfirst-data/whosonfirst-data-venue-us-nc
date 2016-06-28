@@ -2,13 +2,14 @@
   "id": 336804629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.142744,36.159513,-81.142744,36.159513",
     "geom:latitude":36.159513,
     "geom:longitude":-81.142744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Wilkesboro Ave",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336804629,
-    "wof:lastmodified":1448997681,
+    "wof:lastmodified":1466648963,
     "wof:name":"D & M Appliance Sales & Svc",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-81.142744,36.159513,-81.142744,36.159513],
-  "geometry": {"coordinates":[-81.142744,36.159513],"type":"Point"}
+  "bbox": [
+    -81.142744,
+    36.159513,
+    -81.142744,
+    36.159513
+],
+  "geometry": {"coordinates":[-81.14274399999999,36.159513],"type":"Point"}
 }

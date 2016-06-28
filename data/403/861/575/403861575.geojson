@@ -2,13 +2,14 @@
   "id": 403861575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.828027,35.961875,-77.828027,35.961875",
     "geom:latitude":35.961875,
     "geom:longitude":-77.828027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 Sunset Ave",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403861575,
-    "wof:lastmodified":1449055948,
+    "wof:lastmodified":1466652426,
     "wof:name":"Cell Store",
     "wof:parent_id":85851697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-77.828027,35.961875,-77.828027,35.961875],
-  "geometry": {"coordinates":[-77.828027,35.961875],"type":"Point"}
+  "bbox": [
+    -77.828027,
+    35.961875,
+    -77.828027,
+    35.961875
+],
+  "geometry": {"coordinates":[-77.82802700000001,35.961875],"type":"Point"}
 }

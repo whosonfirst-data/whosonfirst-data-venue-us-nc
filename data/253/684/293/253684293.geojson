@@ -2,13 +2,14 @@
   "id": 253684293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.614933,34.653348,-77.614933,34.653348",
     "geom:latitude":34.653348,
     "geom:longitude":-77.614933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1964 Haws Run Rd",
     "sg:city":"Maple Hill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253684293,
-    "wof:lastmodified":1449063551,
+    "wof:lastmodified":1466650557,
     "wof:name":"Passingham Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-77.614933,34.653348,-77.614933,34.653348],
-  "geometry": {"coordinates":[-77.614933,34.653348],"type":"Point"}
+  "bbox": [
+    -77.614933,
+    34.653348,
+    -77.614933,
+    34.653348
+],
+  "geometry": {"coordinates":[-77.61493299999999,34.653348],"type":"Point"}
 }

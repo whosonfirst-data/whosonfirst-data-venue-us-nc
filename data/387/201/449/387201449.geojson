@@ -2,13 +2,14 @@
   "id": 387201449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.231463,34.906402,-77.231463,34.906402",
     "geom:latitude":34.906402,
     "geom:longitude":-77.231463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Main St",
     "sg:city":"Maysville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387201449,
-    "wof:lastmodified":1449059413,
+    "wof:lastmodified":1466652516,
     "wof:name":"Joe Monette's Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.231463,34.906402,-77.231463,34.906402],
-  "geometry": {"coordinates":[-77.231463,34.906402],"type":"Point"}
+  "bbox": [
+    -77.231463,
+    34.906402,
+    -77.231463,
+    34.906402
+],
+  "geometry": {"coordinates":[-77.23146300000001,34.906402],"type":"Point"}
 }

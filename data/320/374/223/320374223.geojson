@@ -2,13 +2,14 @@
   "id": 320374223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.653777,35.827657,-78.653777,35.827657",
     "geom:latitude":35.827657,
     "geom:longitude":-78.653777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Hertford St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320374223,
-    "wof:lastmodified":1449012876,
+    "wof:lastmodified":1466650547,
     "wof:name":"Turner Realty LLC",
     "wof:parent_id":85892093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.653777,35.827657,-78.653777,35.827657],
-  "geometry": {"coordinates":[-78.653777,35.827657],"type":"Point"}
+  "bbox": [
+    -78.653777,
+    35.827657,
+    -78.653777,
+    35.827657
+],
+  "geometry": {"coordinates":[-78.65377700000001,35.827657],"type":"Point"}
 }

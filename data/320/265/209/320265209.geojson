@@ -2,13 +2,14 @@
   "id": 320265209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.65722,35.735193,-81.65722,35.735193",
     "geom:latitude":35.735193,
     "geom:longitude":-81.65722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Constitution Dr",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320265209,
-    "wof:lastmodified":1449012549,
+    "wof:lastmodified":1466649004,
     "wof:name":"Mountain Emergency Physicians",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.65722,35.735193,-81.65722,35.735193],
+  "bbox": [
+    -81.65722,
+    35.735193,
+    -81.65722,
+    35.735193
+],
   "geometry": {"coordinates":[-81.65722,35.735193],"type":"Point"}
 }

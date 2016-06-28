@@ -2,13 +2,14 @@
   "id": 303101675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.941466,35.043124,-78.941466,35.043124",
     "geom:latitude":35.043124,
     "geom:longitude":-78.941466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Roxie Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303101675,
-    "wof:lastmodified":1448999408,
+    "wof:lastmodified":1466644720,
     "wof:name":"Residential Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.941466,35.043124,-78.941466,35.043124],
-  "geometry": {"coordinates":[-78.941466,35.043124],"type":"Point"}
+  "bbox": [
+    -78.941466,
+    35.043124,
+    -78.941466,
+    35.043124
+],
+  "geometry": {"coordinates":[-78.94146600000001,35.043124],"type":"Point"}
 }

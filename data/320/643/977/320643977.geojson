@@ -2,13 +2,14 @@
   "id": 320643977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.453072,35.119848,-79.453072,35.119848",
     "geom:latitude":35.119848,
     "geom:longitude":-79.453072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Weaver Rd",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320643977,
-    "wof:lastmodified":1449014476,
+    "wof:lastmodified":1466654467,
     "wof:name":"Mike Weaver",
     "wof:parent_id":85841741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.453072,35.119848,-79.453072,35.119848],
-  "geometry": {"coordinates":[-79.453072,35.119848],"type":"Point"}
+  "bbox": [
+    -79.453072,
+    35.119848,
+    -79.453072,
+    35.119848
+],
+  "geometry": {"coordinates":[-79.45307200000001,35.119848],"type":"Point"}
 }

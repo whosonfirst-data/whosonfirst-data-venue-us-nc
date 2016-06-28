@@ -2,13 +2,14 @@
   "id": 403956593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.469817,36.190014,-76.469817,36.190014",
     "geom:latitude":36.190014,
     "geom:longitude":-76.469817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 W Grubb St",
     "sg:city":"Hertford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403956593,
-    "wof:lastmodified":1449054855,
+    "wof:lastmodified":1466653629,
     "wof:name":"Hertford Training Ctr",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [-76.469817,36.190014,-76.469817,36.190014],
-  "geometry": {"coordinates":[-76.469817,36.190014],"type":"Point"}
+  "bbox": [
+    -76.469817,
+    36.190014,
+    -76.469817,
+    36.190014
+],
+  "geometry": {"coordinates":[-76.46981700000001,36.190014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320141425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.565999,35.61996,-82.565999,35.61996",
     "geom:latitude":35.61996,
     "geom:longitude":-82.565999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Hyannis Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320141425,
-    "wof:lastmodified":1449012579,
+    "wof:lastmodified":1466647286,
     "wof:name":"Little University Preschool",
     "wof:parent_id":85859101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-82.565999,35.61996,-82.565999,35.61996],
-  "geometry": {"coordinates":[-82.565999,35.61996],"type":"Point"}
+  "bbox": [
+    -82.565999,
+    35.61996,
+    -82.565999,
+    35.61996
+],
+  "geometry": {"coordinates":[-82.56599900000001,35.61996],"type":"Point"}
 }

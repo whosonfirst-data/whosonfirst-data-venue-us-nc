@@ -2,13 +2,14 @@
   "id": 270170909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.134172,35.293459,-81.134172,35.293459",
     "geom:latitude":35.293459,
     "geom:longitude":-81.134172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Lewis Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270170909,
-    "wof:lastmodified":1449008872,
+    "wof:lastmodified":1466645241,
     "wof:name":"Lewis Grading & Paving Inc",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "paving"
     ]
 },
-  "bbox": [-81.134172,35.293459,-81.134172,35.293459],
-  "geometry": {"coordinates":[-81.134172,35.293459],"type":"Point"}
+  "bbox": [
+    -81.134172,
+    35.293459,
+    -81.134172,
+    35.293459
+],
+  "geometry": {"coordinates":[-81.13417200000001,35.293459],"type":"Point"}
 }

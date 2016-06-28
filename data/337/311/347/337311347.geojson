@@ -2,13 +2,14 @@
   "id": 337311347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.946024,34.191363,-77.946024,34.191363",
     "geom:latitude":34.191363,
     "geom:longitude":-77.946024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Shipyard Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337311347,
-    "wof:lastmodified":1449027112,
+    "wof:lastmodified":1466646235,
     "wof:name":"Container Technology",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-77.946024,34.191363,-77.946024,34.191363],
-  "geometry": {"coordinates":[-77.946024,34.191363],"type":"Point"}
+  "bbox": [
+    -77.946024,
+    34.191363,
+    -77.946024,
+    34.191363
+],
+  "geometry": {"coordinates":[-77.94602399999999,34.191363],"type":"Point"}
 }

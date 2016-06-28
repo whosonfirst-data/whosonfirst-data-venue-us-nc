@@ -2,13 +2,14 @@
   "id": 320718163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.046,35.111739,-77.046,35.111739",
     "geom:latitude":35.111739,
     "geom:longitude":-77.046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Bern St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320718163,
-    "wof:lastmodified":1449012064,
+    "wof:lastmodified":1466655517,
     "wof:name":"Ebenezer Presbyterian Church",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.046,35.111739,-77.046,35.111739],
-  "geometry": {"coordinates":[-77.046,35.111739],"type":"Point"}
+  "bbox": [
+    -77.046,
+    35.111739,
+    -77.046,
+    35.111739
+],
+  "geometry": {"coordinates":[-77.04600000000001,35.111739],"type":"Point"}
 }

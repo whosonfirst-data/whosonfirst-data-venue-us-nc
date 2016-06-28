@@ -2,13 +2,14 @@
   "id": 386943209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.557013,35.894446,-80.557013,35.894446",
     "geom:latitude":35.894446,
     "geom:longitude":-80.557013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Pine St",
     "sg:city":"Mocksville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386943209,
-    "wof:lastmodified":1449028699,
+    "wof:lastmodified":1466649566,
     "wof:name":"Second Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.557013,35.894446,-80.557013,35.894446],
+  "bbox": [
+    -80.557013,
+    35.894446,
+    -80.557013,
+    35.894446
+],
   "geometry": {"coordinates":[-80.557013,35.894446],"type":"Point"}
 }

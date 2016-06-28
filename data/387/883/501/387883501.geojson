@@ -2,13 +2,14 @@
   "id": 387883501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.226233,36.436869,-77.226233,36.436869",
     "geom:latitude":36.436869,
     "geom:longitude":-77.226233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 E Main St",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387883501,
-    "wof:lastmodified":1449059016,
+    "wof:lastmodified":1466657947,
     "wof:name":"Zakk's Coffee House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-77.226233,36.436869,-77.226233,36.436869],
-  "geometry": {"coordinates":[-77.226233,36.436869],"type":"Point"}
+  "bbox": [
+    -77.226233,
+    36.436869,
+    -77.226233,
+    36.436869
+],
+  "geometry": {"coordinates":[-77.22623299999999,36.436869],"type":"Point"}
 }

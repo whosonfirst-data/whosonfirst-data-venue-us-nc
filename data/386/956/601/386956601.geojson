@@ -2,13 +2,14 @@
   "id": 386956601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.29869,36.059498,-80.29869,36.059498",
     "geom:latitude":36.059498,
     "geom:longitude":-80.29869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Kimel Park Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386956601,
-    "wof:lastmodified":1449028665,
+    "wof:lastmodified":1466649748,
     "wof:name":"Cardiology Specialist Of Nc",
     "wof:parent_id":85857871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.29869,36.059498,-80.29869,36.059498],
-  "geometry": {"coordinates":[-80.29869,36.059498],"type":"Point"}
+  "bbox": [
+    -80.29869,
+    36.059498,
+    -80.29869,
+    36.059498
+],
+  "geometry": {"coordinates":[-80.29868999999999,36.059498],"type":"Point"}
 }

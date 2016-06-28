@@ -2,13 +2,14 @@
   "id": 304051713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.835083,35.220315,-80.835083,35.220315",
     "geom:latitude":35.220315,
     "geom:longitude":-80.835083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E Trade St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":304051713,
-    "wof:lastmodified":1449043948,
+    "wof:lastmodified":1466644897,
     "wof:name":"Gilpin & Hatcher",
     "wof:parent_id":85871237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.835083,35.220315,-80.835083,35.220315],
+  "bbox": [
+    -80.835083,
+    35.220315,
+    -80.835083,
+    35.220315
+],
   "geometry": {"coordinates":[-80.835083,35.220315],"type":"Point"}
 }

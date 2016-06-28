@@ -2,13 +2,14 @@
   "id": 353467929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.560419,35.595357,-82.560419,35.595357",
     "geom:latitude":35.595357,
     "geom:longitude":-82.560419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Haywood St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353467929,
-    "wof:lastmodified":1449020273,
+    "wof:lastmodified":1466647900,
     "wof:name":"Buncombe County Sheriff Crime",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-82.560419,35.595357,-82.560419,35.595357],
+  "bbox": [
+    -82.560419,
+    35.595357,
+    -82.560419,
+    35.595357
+],
   "geometry": {"coordinates":[-82.560419,35.595357],"type":"Point"}
 }

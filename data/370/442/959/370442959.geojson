@@ -2,13 +2,14 @@
   "id": 370442959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.361012,35.488186,-78.361012,35.488186",
     "geom:latitude":35.488186,
     "geom:longitude":-78.361012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 S Brightleaf Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370442959,
-    "wof:lastmodified":1449030578,
+    "wof:lastmodified":1466651838,
     "wof:name":"Massey & Myers Inc",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-78.361012,35.488186,-78.361012,35.488186],
+  "bbox": [
+    -78.361012,
+    35.488186,
+    -78.361012,
+    35.488186
+],
   "geometry": {"coordinates":[-78.361012,35.488186],"type":"Point"}
 }

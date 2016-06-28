@@ -2,13 +2,14 @@
   "id": 404177021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.386618,34.745297,-77.386618,34.745297",
     "geom:latitude":34.745297,
     "geom:longitude":-77.386618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Texie Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404177021,
-    "wof:lastmodified":1449040328,
+    "wof:lastmodified":1466653541,
     "wof:name":"White's Yard & Garden Svc",
     "wof:parent_id":85808245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-77.386618,34.745297,-77.386618,34.745297],
+  "bbox": [
+    -77.386618,
+    34.745297,
+    -77.386618,
+    34.745297
+],
   "geometry": {"coordinates":[-77.386618,34.745297],"type":"Point"}
 }

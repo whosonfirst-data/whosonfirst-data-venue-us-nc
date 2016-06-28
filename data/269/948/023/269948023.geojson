@@ -2,13 +2,14 @@
   "id": 269948023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.609777,35.841497,-78.609777,35.841497",
     "geom:latitude":35.841497,
     "geom:longitude":-78.609777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1665 N Market Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269948023,
-    "wof:lastmodified":1449038337,
+    "wof:lastmodified":1466648723,
     "wof:name":"Pueblo Supermarket",
     "wof:parent_id":85867049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-78.609777,35.841497,-78.609777,35.841497],
-  "geometry": {"coordinates":[-78.609777,35.841497],"type":"Point"}
+  "bbox": [
+    -78.609777,
+    35.841497,
+    -78.609777,
+    35.841497
+],
+  "geometry": {"coordinates":[-78.60977699999999,35.841497],"type":"Point"}
 }

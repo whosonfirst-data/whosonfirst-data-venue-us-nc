@@ -2,13 +2,14 @@
   "id": 303257677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.544903,35.809594,-78.544903,35.809594",
     "geom:latitude":35.809594,
     "geom:longitude":-78.544903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1960 Talamore Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303257677,
-    "wof:lastmodified":1448998834,
+    "wof:lastmodified":1466647063,
     "wof:name":"San Flipe Restaurante Mexicano",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.544903,35.809594,-78.544903,35.809594],
-  "geometry": {"coordinates":[-78.544903,35.809594],"type":"Point"}
+  "bbox": [
+    -78.544903,
+    35.809594,
+    -78.544903,
+    35.809594
+],
+  "geometry": {"coordinates":[-78.54490300000001,35.809594],"type":"Point"}
 }

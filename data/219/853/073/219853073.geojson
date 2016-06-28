@@ -2,13 +2,14 @@
   "id": 219853073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.455729,35.648696,-78.455729,35.648696",
     "geom:latitude":35.648696,
     "geom:longitude":-78.455729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Hardee St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219853073,
-    "wof:lastmodified":1449071811,
+    "wof:lastmodified":1466647617,
     "wof:name":"N R Adams Construction",
     "wof:parent_id":85845801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.455729,35.648696,-78.455729,35.648696],
-  "geometry": {"coordinates":[-78.455729,35.648696],"type":"Point"}
+  "bbox": [
+    -78.455729,
+    35.648696,
+    -78.455729,
+    35.648696
+],
+  "geometry": {"coordinates":[-78.45572900000001,35.648696],"type":"Point"}
 }

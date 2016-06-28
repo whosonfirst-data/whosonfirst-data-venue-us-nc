@@ -2,13 +2,14 @@
   "id": 320690255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.89301,34.862337,-76.89301,34.862337",
     "geom:latitude":34.862337,
     "geom:longitude":-76.89301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Webb Blvd",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320690255,
-    "wof:lastmodified":1449013238,
+    "wof:lastmodified":1466655125,
     "wof:name":"Eastern Carolina Internal Med",
     "wof:parent_id":85824245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-76.89301,34.862337,-76.89301,34.862337],
+  "bbox": [
+    -76.89301,
+    34.862337,
+    -76.89301,
+    34.862337
+],
   "geometry": {"coordinates":[-76.89301,34.862337],"type":"Point"}
 }

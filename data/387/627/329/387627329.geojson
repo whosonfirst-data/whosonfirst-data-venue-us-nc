@@ -2,13 +2,14 @@
   "id": 387627329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.856325,35.473165,-80.856325,35.473165",
     "geom:latitude":35.473165,
     "geom:longitude":-80.856325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10825 Sherrill Ave",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387627329,
-    "wof:lastmodified":1449059999,
+    "wof:lastmodified":1466656876,
     "wof:name":"Point of Sale Systems",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-80.856325,35.473165,-80.856325,35.473165],
+  "bbox": [
+    -80.856325,
+    35.473165,
+    -80.856325,
+    35.473165
+],
   "geometry": {"coordinates":[-80.856325,35.473165],"type":"Point"}
 }

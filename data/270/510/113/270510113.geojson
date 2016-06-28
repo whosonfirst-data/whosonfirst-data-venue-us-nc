@@ -2,13 +2,14 @@
   "id": 270510113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.206938,35.345361,-80.206938,35.345361",
     "geom:latitude":35.345361,
     "geom:longitude":-80.206938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Old Charlotte Rd",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270510113,
-    "wof:lastmodified":1449010104,
+    "wof:lastmodified":1466649588,
     "wof:name":"Pressley's Paint & Body",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-80.206938,35.345361,-80.206938,35.345361],
-  "geometry": {"coordinates":[-80.206938,35.345361],"type":"Point"}
+  "bbox": [
+    -80.206938,
+    35.345361,
+    -80.206938,
+    35.345361
+],
+  "geometry": {"coordinates":[-80.20693799999999,35.345361],"type":"Point"}
 }

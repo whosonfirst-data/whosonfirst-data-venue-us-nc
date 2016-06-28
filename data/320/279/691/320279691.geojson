@@ -2,13 +2,14 @@
   "id": 320279691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.221991,36.266109,-76.221991,36.266109",
     "geom:latitude":36.266109,
     "geom:longitude":-76.221991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Fort Bragg Dr",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320279691,
-    "wof:lastmodified":1449012968,
+    "wof:lastmodified":1466649201,
     "wof:name":"Autism Society Of NC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-76.221991,36.266109,-76.221991,36.266109],
+  "bbox": [
+    -76.221991,
+    36.266109,
+    -76.221991,
+    36.266109
+],
   "geometry": {"coordinates":[-76.221991,36.266109],"type":"Point"}
 }

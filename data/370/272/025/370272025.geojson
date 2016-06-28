@@ -2,13 +2,14 @@
   "id": 370272025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.857413,35.87522,-79.857413,35.87522",
     "geom:latitude":35.87522,
     "geom:longitude":-79.857413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5954 Gilbert Davis Dr",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370272025,
-    "wof:lastmodified":1449032232,
+    "wof:lastmodified":1466649673,
     "wof:name":"Tim's Shop",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-79.857413,35.87522,-79.857413,35.87522],
-  "geometry": {"coordinates":[-79.857413,35.87522],"type":"Point"}
+  "bbox": [
+    -79.857413,
+    35.87522,
+    -79.857413,
+    35.87522
+],
+  "geometry": {"coordinates":[-79.85741299999999,35.87522],"type":"Point"}
 }

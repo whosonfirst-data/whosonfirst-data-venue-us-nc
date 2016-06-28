@@ -2,13 +2,14 @@
   "id": 303089221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.027987,35.25267,-81.027987,35.25267",
     "geom:latitude":35.25267,
     "geom:longitude":-81.027987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"675 Park St",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303089221,
-    "wof:lastmodified":1448998611,
+    "wof:lastmodified":1466644536,
     "wof:name":"Spell Construction Inc",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.027987,35.25267,-81.027987,35.25267],
+  "bbox": [
+    -81.027987,
+    35.25267,
+    -81.027987,
+    35.25267
+],
   "geometry": {"coordinates":[-81.027987,35.25267],"type":"Point"}
 }

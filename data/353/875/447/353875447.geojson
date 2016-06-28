@@ -2,13 +2,14 @@
   "id": 353875447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253437,35.316708,-80.253437,35.316708",
     "geom:latitude":35.316708,
     "geom:longitude":-80.253437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28580 State Hwy 24",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353875447,
-    "wof:lastmodified":1449020147,
+    "wof:lastmodified":1466652619,
     "wof:name":"Aluminum Structures",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.253437,35.316708,-80.253437,35.316708],
-  "geometry": {"coordinates":[-80.253437,35.316708],"type":"Point"}
+  "bbox": [
+    -80.253437,
+    35.316708,
+    -80.253437,
+    35.316708
+],
+  "geometry": {"coordinates":[-80.25343700000001,35.316708],"type":"Point"}
 }

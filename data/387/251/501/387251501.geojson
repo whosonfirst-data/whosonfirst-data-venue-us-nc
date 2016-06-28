@@ -2,13 +2,14 @@
   "id": 387251501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.589453,35.746093,-79.589453,35.746093",
     "geom:latitude":35.746093,
     "geom:longitude":-79.589453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9249 US Hwy 64 E",
     "sg:city":"Ramseur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387251501,
-    "wof:lastmodified":1449056192,
+    "wof:lastmodified":1466653179,
     "wof:name":"Spencer's Furniture",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-79.589453,35.746093,-79.589453,35.746093],
-  "geometry": {"coordinates":[-79.589453,35.746093],"type":"Point"}
+  "bbox": [
+    -79.589453,
+    35.746093,
+    -79.589453,
+    35.746093
+],
+  "geometry": {"coordinates":[-79.58945300000001,35.746093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286752867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.996884,35.004959,-78.996884,35.004959",
     "geom:latitude":35.004959,
     "geom:longitude":-78.996884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5948 Fisher Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286752867,
-    "wof:lastmodified":1449015651,
+    "wof:lastmodified":1466649812,
     "wof:name":"Lagrange Water Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-78.996884,35.004959,-78.996884,35.004959],
-  "geometry": {"coordinates":[-78.996884,35.004959],"type":"Point"}
+  "bbox": [
+    -78.996884,
+    35.004959,
+    -78.996884,
+    35.004959
+],
+  "geometry": {"coordinates":[-78.99688399999999,35.004959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303674261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943221,35.913788,-78.943221,35.913788",
     "geom:latitude":35.913788,
     "geom:longitude":-78.943221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5015 Southpark Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303674261,
-    "wof:lastmodified":1448999947,
+    "wof:lastmodified":1466653041,
     "wof:name":"Arnold T Mcclain DDS",
     "wof:parent_id":85858607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-78.943221,35.913788,-78.943221,35.913788],
-  "geometry": {"coordinates":[-78.943221,35.913788],"type":"Point"}
+  "bbox": [
+    -78.943221,
+    35.913788,
+    -78.943221,
+    35.913788
+],
+  "geometry": {"coordinates":[-78.94322099999999,35.913788],"type":"Point"}
 }

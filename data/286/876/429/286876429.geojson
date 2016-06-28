@@ -2,13 +2,14 @@
   "id": 286876429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.884515,34.198495,-77.884515,34.198495",
     "geom:latitude":34.198495,
     "geom:longitude":-77.884515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Wintergreen Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286876429,
-    "wof:lastmodified":1449015761,
+    "wof:lastmodified":1466651509,
     "wof:name":"MTS Holdings Inc",
     "wof:parent_id":85842005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-77.884515,34.198495,-77.884515,34.198495],
-  "geometry": {"coordinates":[-77.884515,34.198495],"type":"Point"}
+  "bbox": [
+    -77.884515,
+    34.198495,
+    -77.884515,
+    34.198495
+],
+  "geometry": {"coordinates":[-77.88451499999999,34.198495],"type":"Point"}
 }

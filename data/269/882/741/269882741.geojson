@@ -2,13 +2,14 @@
   "id": 269882741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.191533,35.048066,-83.191533,35.048066",
     "geom:latitude":35.048066,
     "geom:longitude":-83.191533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Wilson Rd",
     "sg:city":"Rosman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269882741,
-    "wof:lastmodified":1449036554,
+    "wof:lastmodified":1466647890,
     "wof:name":"Charlie's Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-83.191533,35.048066,-83.191533,35.048066],
-  "geometry": {"coordinates":[-83.191533,35.048066],"type":"Point"}
+  "bbox": [
+    -83.191533,
+    35.048066,
+    -83.191533,
+    35.048066
+],
+  "geometry": {"coordinates":[-83.19153300000001,35.048066],"type":"Point"}
 }

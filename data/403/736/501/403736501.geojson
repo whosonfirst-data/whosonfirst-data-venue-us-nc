@@ -2,13 +2,14 @@
   "id": 403736501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.589931,35.455619,-78.589931,35.455619",
     "geom:latitude":35.455619,
     "geom:longitude":-78.589931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 Benson Hardee Rd",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403736501,
-    "wof:lastmodified":1449055934,
+    "wof:lastmodified":1466650763,
     "wof:name":"Johnson's Auto Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.589931,35.455619,-78.589931,35.455619],
-  "geometry": {"coordinates":[-78.589931,35.455619],"type":"Point"}
+  "bbox": [
+    -78.589931,
+    35.455619,
+    -78.589931,
+    35.455619
+],
+  "geometry": {"coordinates":[-78.58993100000001,35.455619],"type":"Point"}
 }

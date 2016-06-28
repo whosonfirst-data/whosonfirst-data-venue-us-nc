@@ -2,13 +2,14 @@
   "id": 320216093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.844333,36.01291,-78.844333,36.01291",
     "geom:latitude":36.01291,
     "geom:longitude":-78.844333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Harvest St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320216093,
-    "wof:lastmodified":1449014535,
+    "wof:lastmodified":1466648310,
     "wof:name":"Clayton Salvage",
     "wof:parent_id":85827667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-78.844333,36.01291,-78.844333,36.01291],
-  "geometry": {"coordinates":[-78.844333,36.01291],"type":"Point"}
+  "bbox": [
+    -78.844333,
+    36.01291,
+    -78.844333,
+    36.01291
+],
+  "geometry": {"coordinates":[-78.84433300000001,36.01291],"type":"Point"}
 }

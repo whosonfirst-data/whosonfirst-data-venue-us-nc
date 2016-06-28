@@ -2,13 +2,14 @@
   "id": 236906971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.889641,34.220529,-77.889641,34.220529",
     "geom:latitude":34.220529,
     "geom:longitude":-77.889641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4014 Wilshire Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236906971,
-    "wof:lastmodified":1449002799,
+    "wof:lastmodified":1466651347,
     "wof:name":"Armstrong Landscapes",
     "wof:parent_id":85830591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-77.889641,34.220529,-77.889641,34.220529],
+  "bbox": [
+    -77.889641,
+    34.220529,
+    -77.889641,
+    34.220529
+],
   "geometry": {"coordinates":[-77.889641,34.220529],"type":"Point"}
 }

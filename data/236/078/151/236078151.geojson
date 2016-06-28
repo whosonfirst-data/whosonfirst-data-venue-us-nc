@@ -2,13 +2,14 @@
   "id": 236078151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.739179,35.772259,-77.739179,35.772259",
     "geom:latitude":35.772259,
     "geom:longitude":-77.739179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7525 Shallingtons Mill Rd",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236078151,
-    "wof:lastmodified":1449004630,
+    "wof:lastmodified":1466643926,
     "wof:name":"Andrew Hunt Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.739179,35.772259,-77.739179,35.772259],
-  "geometry": {"coordinates":[-77.739179,35.772259],"type":"Point"}
+  "bbox": [
+    -77.739179,
+    35.772259,
+    -77.739179,
+    35.772259
+],
+  "geometry": {"coordinates":[-77.73917899999999,35.772259],"type":"Point"}
 }

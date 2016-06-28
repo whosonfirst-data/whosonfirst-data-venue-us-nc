@@ -2,13 +2,14 @@
   "id": 252813707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.551909,34.897279,-77.551909,34.897279",
     "geom:latitude":34.897279,
     "geom:longitude":-77.551909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Hardy Ave",
     "sg:city":"Richlands",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252813707,
-    "wof:lastmodified":1449005703,
+    "wof:lastmodified":1466644161,
     "wof:name":"Omega Training Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-77.551909,34.897279,-77.551909,34.897279],
-  "geometry": {"coordinates":[-77.551909,34.897279],"type":"Point"}
+  "bbox": [
+    -77.551909,
+    34.897279,
+    -77.551909,
+    34.897279
+],
+  "geometry": {"coordinates":[-77.55190899999999,34.897279],"type":"Point"}
 }

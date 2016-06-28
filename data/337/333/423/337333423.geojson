@@ -2,13 +2,14 @@
   "id": 337333423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.645878,35.735913,-78.645878,35.735913",
     "geom:latitude":35.735913,
     "geom:longitude":-78.645878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Chapanoke Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337333423,
-    "wof:lastmodified":1449027680,
+    "wof:lastmodified":1466646418,
     "wof:name":"Parker Lincoln Developers",
     "wof:parent_id":85892051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.645878,35.735913,-78.645878,35.735913],
+  "bbox": [
+    -78.645878,
+    35.735913,
+    -78.645878,
+    35.735913
+],
   "geometry": {"coordinates":[-78.645878,35.735913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286615795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.444635,34.751891,-77.444635,34.751891",
     "geom:latitude":34.751891,
     "geom:longitude":-77.444635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 S Marine Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286615795,
-    "wof:lastmodified":1449016110,
+    "wof:lastmodified":1466647949,
     "wof:name":"Leonard Buildings & Truck",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cap"
     ]
 },
-  "bbox": [-77.444635,34.751891,-77.444635,34.751891],
-  "geometry": {"coordinates":[-77.444635,34.751891],"type":"Point"}
+  "bbox": [
+    -77.444635,
+    34.751891,
+    -77.444635,
+    34.751891
+],
+  "geometry": {"coordinates":[-77.44463500000001,34.751891],"type":"Point"}
 }

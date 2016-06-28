@@ -2,13 +2,14 @@
   "id": 303249315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.604756,35.783484,-78.604756,35.783484",
     "geom:latitude":35.783484,
     "geom:longitude":-78.604756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Clarendon Cres",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303249315,
-    "wof:lastmodified":1448998246,
+    "wof:lastmodified":1466646943,
     "wof:name":"Passerini Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.604756,35.783484,-78.604756,35.783484],
-  "geometry": {"coordinates":[-78.604756,35.783484],"type":"Point"}
+  "bbox": [
+    -78.604756,
+    35.783484,
+    -78.604756,
+    35.783484
+],
+  "geometry": {"coordinates":[-78.60475599999999,35.783484],"type":"Point"}
 }

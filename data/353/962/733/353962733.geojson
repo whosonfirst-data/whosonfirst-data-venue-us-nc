@@ -2,13 +2,14 @@
   "id": 353962733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.469901,35.718326,-79.469901,35.718326",
     "geom:latitude":35.718326,
     "geom:longitude":-79.469901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W Raleigh St",
     "sg:city":"Siler City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353962733,
-    "wof:lastmodified":1449019769,
+    "wof:lastmodified":1466653669,
     "wof:name":"Chatham Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.469901,35.718326,-79.469901,35.718326],
-  "geometry": {"coordinates":[-79.469901,35.718326],"type":"Point"}
+  "bbox": [
+    -79.469901,
+    35.718326,
+    -79.469901,
+    35.718326
+],
+  "geometry": {"coordinates":[-79.46990099999999,35.718326],"type":"Point"}
 }

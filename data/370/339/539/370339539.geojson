@@ -2,13 +2,14 @@
   "id": 370339539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.260089,35.256665,-81.260089,35.256665",
     "geom:latitude":35.256665,
     "geom:longitude":-81.260089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 W Franklin Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370339539,
-    "wof:lastmodified":1449030608,
+    "wof:lastmodified":1466650508,
     "wof:name":"Sadler Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.260089,35.256665,-81.260089,35.256665],
-  "geometry": {"coordinates":[-81.260089,35.256665],"type":"Point"}
+  "bbox": [
+    -81.260089,
+    35.256665,
+    -81.260089,
+    35.256665
+],
+  "geometry": {"coordinates":[-81.26008899999999,35.256665],"type":"Point"}
 }

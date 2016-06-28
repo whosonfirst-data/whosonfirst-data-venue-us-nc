@@ -2,13 +2,14 @@
   "id": 370704777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.537686,35.573772,-82.537686,35.573772",
     "geom:latitude":35.573772,
     "geom:longitude":-82.537686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Kenilworth Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370704777,
-    "wof:lastmodified":1449029981,
+    "wof:lastmodified":1466655252,
     "wof:name":"Edutreks",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-82.537686,35.573772,-82.537686,35.573772],
-  "geometry": {"coordinates":[-82.537686,35.573772],"type":"Point"}
+  "bbox": [
+    -82.537686,
+    35.573772,
+    -82.537686,
+    35.573772
+],
+  "geometry": {"coordinates":[-82.53768599999999,35.573772],"type":"Point"}
 }

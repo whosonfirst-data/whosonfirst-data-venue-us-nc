@@ -2,13 +2,14 @@
   "id": 303530983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.798864,35.594658,-78.798864,35.594658",
     "geom:latitude":35.594658,
     "geom:longitude":-78.798864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Wake Chapel Rd",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303530983,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466650953,
     "wof:name":"Wake Chapel Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.798864,35.594658,-78.798864,35.594658],
-  "geometry": {"coordinates":[-78.798864,35.594658],"type":"Point"}
+  "bbox": [
+    -78.798864,
+    35.594658,
+    -78.798864,
+    35.594658
+],
+  "geometry": {"coordinates":[-78.79886399999999,35.594658],"type":"Point"}
 }

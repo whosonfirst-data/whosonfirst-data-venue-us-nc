@@ -2,13 +2,14 @@
   "id": 370360653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.394692,36.053787,-80.394692,36.053787",
     "geom:latitude":36.053787,
     "geom:longitude":-80.394692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Western Villa Dr",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370360653,
-    "wof:lastmodified":1449031708,
+    "wof:lastmodified":1466650763,
     "wof:name":"Western Villa Apartments",
     "wof:parent_id":85840801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apt"
     ]
 },
-  "bbox": [-80.394692,36.053787,-80.394692,36.053787],
-  "geometry": {"coordinates":[-80.394692,36.053787],"type":"Point"}
+  "bbox": [
+    -80.394692,
+    36.053787,
+    -80.394692,
+    36.053787
+],
+  "geometry": {"coordinates":[-80.39469200000001,36.053787],"type":"Point"}
 }

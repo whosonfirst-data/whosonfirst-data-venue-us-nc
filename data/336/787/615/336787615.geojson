@@ -2,13 +2,14 @@
   "id": 336787615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.880389,34.244304,-77.880389,34.244304",
     "geom:latitude":34.244304,
     "geom:longitude":-77.880389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5044 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336787615,
-    "wof:lastmodified":1448997440,
+    "wof:lastmodified":1466648702,
     "wof:name":"Sticky Fingers",
     "wof:parent_id":85818553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-77.880389,34.244304,-77.880389,34.244304],
-  "geometry": {"coordinates":[-77.880389,34.244304],"type":"Point"}
+  "bbox": [
+    -77.880389,
+    34.244304,
+    -77.880389,
+    34.244304
+],
+  "geometry": {"coordinates":[-77.88038899999999,34.244304],"type":"Point"}
 }

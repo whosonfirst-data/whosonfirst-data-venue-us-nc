@@ -2,13 +2,14 @@
   "id": 304047681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.905601,35.314869,-77.905601,35.314869",
     "geom:latitude":35.314869,
     "geom:longitude":-77.905601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Dollardtown Rd",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304047681,
-    "wof:lastmodified":1449043988,
+    "wof:lastmodified":1466644836,
     "wof:name":"American Human Svc",
     "wof:parent_id":85822855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-77.905601,35.314869,-77.905601,35.314869],
+  "bbox": [
+    -77.905601,
+    35.314869,
+    -77.905601,
+    35.314869
+],
   "geometry": {"coordinates":[-77.905601,35.314869],"type":"Point"}
 }

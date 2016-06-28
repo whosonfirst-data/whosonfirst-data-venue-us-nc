@@ -2,13 +2,14 @@
   "id": 236066299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251302,35.822508,-80.251302,35.822508",
     "geom:latitude":35.822508,
     "geom:longitude":-80.251302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Center St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236066299,
-    "wof:lastmodified":1449002438,
+    "wof:lastmodified":1466643817,
     "wof:name":"Lexington Fire Dept Station",
     "wof:parent_id":85849547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.251302,35.822508,-80.251302,35.822508],
+  "bbox": [
+    -80.251302,
+    35.822508,
+    -80.251302,
+    35.822508
+],
   "geometry": {"coordinates":[-80.251302,35.822508],"type":"Point"}
 }

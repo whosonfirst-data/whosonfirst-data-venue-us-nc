@@ -2,13 +2,14 @@
   "id": 253564253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.894528,35.08055,-78.894528,35.08055",
     "geom:latitude":35.08055,
     "geom:longitude":-78.894528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Seabrook Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253564253,
-    "wof:lastmodified":1449065623,
+    "wof:lastmodified":1466649130,
     "wof:name":"Genie Trucking Lines 251",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.894528,35.08055,-78.894528,35.08055],
-  "geometry": {"coordinates":[-78.894528,35.08055],"type":"Point"}
+  "bbox": [
+    -78.894528,
+    35.08055,
+    -78.894528,
+    35.08055
+],
+  "geometry": {"coordinates":[-78.89452799999999,35.08055],"type":"Point"}
 }

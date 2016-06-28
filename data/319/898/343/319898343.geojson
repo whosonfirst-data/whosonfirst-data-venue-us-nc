@@ -2,13 +2,14 @@
   "id": 319898343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.57423,35.376283,-80.57423,35.376283",
     "geom:latitude":35.376283,
     "geom:longitude":-80.57423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Armentrout Dr",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319898343,
-    "wof:lastmodified":1449024095,
+    "wof:lastmodified":1466646014,
     "wof:name":"Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.57423,35.376283,-80.57423,35.376283],
+  "bbox": [
+    -80.57423,
+    35.376283,
+    -80.57423,
+    35.376283
+],
   "geometry": {"coordinates":[-80.57423,35.376283],"type":"Point"}
 }

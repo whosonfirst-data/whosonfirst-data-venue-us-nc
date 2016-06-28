@@ -2,13 +2,14 @@
   "id": 220157311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.533425,35.885114,-81.533425,35.885114",
     "geom:latitude":35.885114,
     "geom:longitude":-81.533425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Connelly Springs Rd SW",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220157311,
-    "wof:lastmodified":1449074761,
+    "wof:lastmodified":1466644449,
     "wof:name":"Connelly Springs Gas House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.533425,35.885114,-81.533425,35.885114],
-  "geometry": {"coordinates":[-81.533425,35.885114],"type":"Point"}
+  "bbox": [
+    -81.533425,
+    35.885114,
+    -81.533425,
+    35.885114
+],
+  "geometry": {"coordinates":[-81.53342499999999,35.885114],"type":"Point"}
 }

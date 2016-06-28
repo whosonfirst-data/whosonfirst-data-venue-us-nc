@@ -2,13 +2,14 @@
   "id": 252743671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.699404,36.361228,-79.699404,36.361228",
     "geom:latitude":36.361228,
     "geom:longitude":-79.699404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1243 W Harrison St",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252743671,
-    "wof:lastmodified":1449006503,
+    "wof:lastmodified":1466643531,
     "wof:name":"City Barber Shop",
     "wof:parent_id":85858481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.699404,36.361228,-79.699404,36.361228],
+  "bbox": [
+    -79.699404,
+    36.361228,
+    -79.699404,
+    36.361228
+],
   "geometry": {"coordinates":[-79.699404,36.361228],"type":"Point"}
 }

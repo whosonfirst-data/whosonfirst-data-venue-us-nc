@@ -2,13 +2,14 @@
   "id": 320316295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.69058,35.784649,-78.69058,35.784649",
     "geom:latitude":35.784649,
     "geom:longitude":-78.69058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3912 Western Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320316295,
-    "wof:lastmodified":1449013806,
+    "wof:lastmodified":1466649709,
     "wof:name":"Servco",
     "wof:parent_id":85892125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasoline"
     ]
 },
-  "bbox": [-78.69058,35.784649,-78.69058,35.784649],
+  "bbox": [
+    -78.69058,
+    35.784649,
+    -78.69058,
+    35.784649
+],
   "geometry": {"coordinates":[-78.69058,35.784649],"type":"Point"}
 }

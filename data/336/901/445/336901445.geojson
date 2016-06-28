@@ -2,13 +2,14 @@
   "id": 336901445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.108928,35.240262,-81.108928,35.240262",
     "geom:latitude":35.240262,
     "geom:longitude":-81.108928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 Winterfield Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336901445,
-    "wof:lastmodified":1448997394,
+    "wof:lastmodified":1466650440,
     "wof:name":"Winterhaven Trnsp Svcs Inc",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-81.108928,35.240262,-81.108928,35.240262],
-  "geometry": {"coordinates":[-81.108928,35.240262],"type":"Point"}
+  "bbox": [
+    -81.108928,
+    35.240262,
+    -81.108928,
+    35.240262
+],
+  "geometry": {"coordinates":[-81.10892800000001,35.240262],"type":"Point"}
 }

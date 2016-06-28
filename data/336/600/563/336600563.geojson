@@ -2,13 +2,14 @@
   "id": 336600563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.609732,35.443175,-80.609732,35.443175",
     "geom:latitude":35.443175,
     "geom:longitude":-80.609732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3597 S Ridge Ave",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336600563,
-    "wof:lastmodified":1448997032,
+    "wof:lastmodified":1466645833,
     "wof:name":"PAR-Mail Inc",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.609732,35.443175,-80.609732,35.443175],
-  "geometry": {"coordinates":[-80.609732,35.443175],"type":"Point"}
+  "bbox": [
+    -80.609732,
+    35.443175,
+    -80.609732,
+    35.443175
+],
+  "geometry": {"coordinates":[-80.60973199999999,35.443175],"type":"Point"}
 }

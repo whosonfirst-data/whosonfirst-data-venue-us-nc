@@ -2,13 +2,14 @@
   "id": 219226747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223782,36.100952,-80.223782,36.100952",
     "geom:latitude":36.100952,
     "geom:longitude":-80.223782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 N Cameron Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219226747,
-    "wof:lastmodified":1449072960,
+    "wof:lastmodified":1466655518,
     "wof:name":"Service Tract",
     "wof:parent_id":85816949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.223782,36.100952,-80.223782,36.100952],
+  "bbox": [
+    -80.223782,
+    36.100952,
+    -80.223782,
+    36.100952
+],
   "geometry": {"coordinates":[-80.223782,36.100952],"type":"Point"}
 }

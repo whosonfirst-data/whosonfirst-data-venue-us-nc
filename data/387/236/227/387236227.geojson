@@ -2,13 +2,14 @@
   "id": 387236227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.855416,35.948011,-77.855416,35.948011",
     "geom:latitude":35.948011,
     "geom:longitude":-77.855416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 Jeremy Ln",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387236227,
-    "wof:lastmodified":1449056512,
+    "wof:lastmodified":1466652979,
     "wof:name":"Systems Support Group Inc",
     "wof:parent_id":85843345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.855416,35.948011,-77.855416,35.948011],
-  "geometry": {"coordinates":[-77.855416,35.948011],"type":"Point"}
+  "bbox": [
+    -77.855416,
+    35.948011,
+    -77.855416,
+    35.948011
+],
+  "geometry": {"coordinates":[-77.85541600000001,35.948011],"type":"Point"}
 }

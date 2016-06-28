@@ -2,13 +2,14 @@
   "id": 270081065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.180118,36.076924,-80.180118,36.076924",
     "geom:latitude":36.076924,
     "geom:longitude":-80.180118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 Waughtown St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270081065,
-    "wof:lastmodified":1449009375,
+    "wof:lastmodified":1466644153,
     "wof:name":"Wagner Tire Co",
     "wof:parent_id":85881829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-80.180118,36.076924,-80.180118,36.076924],
-  "geometry": {"coordinates":[-80.180118,36.076924],"type":"Point"}
+  "bbox": [
+    -80.180118,
+    36.076924,
+    -80.180118,
+    36.076924
+],
+  "geometry": {"coordinates":[-80.18011799999999,36.076924],"type":"Point"}
 }

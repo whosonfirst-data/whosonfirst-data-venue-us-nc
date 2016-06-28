@@ -2,13 +2,14 @@
   "id": 403730863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.561257,35.879116,-78.561257,35.879116",
     "geom:latitude":35.879116,
     "geom:longitude":-78.561257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4435 Archibald Way",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403730863,
-    "wof:lastmodified":1449055765,
+    "wof:lastmodified":1466650694,
     "wof:name":"A & D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.561257,35.879116,-78.561257,35.879116],
+  "bbox": [
+    -78.561257,
+    35.879116,
+    -78.561257,
+    35.879116
+],
   "geometry": {"coordinates":[-78.561257,35.879116],"type":"Point"}
 }

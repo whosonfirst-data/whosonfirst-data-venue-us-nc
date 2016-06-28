@@ -2,13 +2,14 @@
   "id": 320702737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.556633,35.813442,-80.556633,35.813442",
     "geom:latitude":35.813442,
     "geom:longitude":-80.556633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Church St",
     "sg:city":"Cooleemee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320702737,
-    "wof:lastmodified":1449013130,
+    "wof:lastmodified":1466655293,
     "wof:name":"Cooleemee Historical Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "historical"
     ]
 },
-  "bbox": [-80.556633,35.813442,-80.556633,35.813442],
-  "geometry": {"coordinates":[-80.556633,35.813442],"type":"Point"}
+  "bbox": [
+    -80.556633,
+    35.813442,
+    -80.556633,
+    35.813442
+],
+  "geometry": {"coordinates":[-80.55663300000001,35.813442],"type":"Point"}
 }

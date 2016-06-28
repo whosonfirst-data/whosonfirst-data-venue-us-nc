@@ -2,13 +2,14 @@
   "id": 404011697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.756127,35.96252,-77.756127,35.96252",
     "geom:latitude":35.96252,
     "geom:longitude":-77.756127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Wooten Cir",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404011697,
-    "wof:lastmodified":1449040078,
+    "wof:lastmodified":1466651453,
     "wof:name":"Exterior Experts Pressure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-77.756127,35.96252,-77.756127,35.96252],
-  "geometry": {"coordinates":[-77.756127,35.96252],"type":"Point"}
+  "bbox": [
+    -77.756127,
+    35.96252,
+    -77.756127,
+    35.96252
+],
+  "geometry": {"coordinates":[-77.75612700000001,35.96252],"type":"Point"}
 }

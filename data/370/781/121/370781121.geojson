@@ -2,13 +2,14 @@
   "id": 370781121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.94616,34.247271,-77.94616,34.247271",
     "geom:latitude":34.247271,
     "geom:longitude":-77.94616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 N 4th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370781121,
-    "wof:lastmodified":1449029728,
+    "wof:lastmodified":1466656399,
     "wof:name":"L W Billy Hood",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-77.94616,34.247271,-77.94616,34.247271],
-  "geometry": {"coordinates":[-77.94616,34.247271],"type":"Point"}
+  "bbox": [
+    -77.94616,
+    34.247271,
+    -77.94616,
+    34.247271
+],
+  "geometry": {"coordinates":[-77.94616000000001,34.247271],"type":"Point"}
 }

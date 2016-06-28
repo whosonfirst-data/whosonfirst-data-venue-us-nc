@@ -2,13 +2,14 @@
   "id": 220174747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.84445,35.727825,-78.84445,35.727825",
     "geom:latitude":35.727825,
     "geom:longitude":-78.84445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Tunstall Ave",
     "sg:city":"Apex",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220174747,
-    "wof:lastmodified":1449074134,
+    "wof:lastmodified":1466644595,
     "wof:name":"Sam Interiors",
     "wof:parent_id":85811117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-78.84445,35.727825,-78.84445,35.727825],
-  "geometry": {"coordinates":[-78.84445,35.727825],"type":"Point"}
+  "bbox": [
+    -78.84445,
+    35.727825,
+    -78.84445,
+    35.727825
+],
+  "geometry": {"coordinates":[-78.84444999999999,35.727825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286559849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.269416,36.096109,-80.269416,36.096109",
     "geom:latitude":36.096109,
     "geom:longitude":-80.269416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Lynwood Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286559849,
-    "wof:lastmodified":1449017484,
+    "wof:lastmodified":1466647190,
     "wof:name":"Coffey Productions",
     "wof:parent_id":85881851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-80.269416,36.096109,-80.269416,36.096109],
-  "geometry": {"coordinates":[-80.269416,36.096109],"type":"Point"}
+  "bbox": [
+    -80.269416,
+    36.096109,
+    -80.269416,
+    36.096109
+],
+  "geometry": {"coordinates":[-80.26941600000001,36.096109],"type":"Point"}
 }

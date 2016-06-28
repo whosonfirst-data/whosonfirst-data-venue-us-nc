@@ -2,13 +2,14 @@
   "id": 303050209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.119222,35.90526,-79.119222,35.90526",
     "geom:latitude":35.90526,
     "geom:longitude":-79.119222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 Old Greensboro Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303050209,
-    "wof:lastmodified":1448999469,
+    "wof:lastmodified":1466643957,
     "wof:name":"Woods Edge",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-79.119222,35.90526,-79.119222,35.90526],
-  "geometry": {"coordinates":[-79.119222,35.90526],"type":"Point"}
+  "bbox": [
+    -79.119222,
+    35.90526,
+    -79.119222,
+    35.90526
+],
+  "geometry": {"coordinates":[-79.11922199999999,35.90526],"type":"Point"}
 }

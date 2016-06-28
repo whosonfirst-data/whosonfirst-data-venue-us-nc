@@ -2,13 +2,14 @@
   "id": 353610851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.530837,36.265701,-76.530837,36.265701",
     "geom:latitude":36.265701,
     "geom:longitude":-76.530837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Belvidere Rd",
     "sg:city":"Belvidere",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353610851,
-    "wof:lastmodified":1449020735,
+    "wof:lastmodified":1466649558,
     "wof:name":"D S Whitehurst Rev",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.530837,36.265701,-76.530837,36.265701],
-  "geometry": {"coordinates":[-76.530837,36.265701],"type":"Point"}
+  "bbox": [
+    -76.530837,
+    36.265701,
+    -76.530837,
+    36.265701
+],
+  "geometry": {"coordinates":[-76.53083700000001,36.265701],"type":"Point"}
 }

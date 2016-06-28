@@ -2,13 +2,14 @@
   "id": 303079783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.279755,35.823025,-78.279755,35.823025",
     "geom:latitude":35.823025,
     "geom:longitude":-78.279755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Old US Hwy 264",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303079783,
-    "wof:lastmodified":1449000152,
+    "wof:lastmodified":1466644392,
     "wof:name":"Anchor Concepts Inc",
     "wof:parent_id":85892209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "anchor"
     ]
 },
-  "bbox": [-78.279755,35.823025,-78.279755,35.823025],
-  "geometry": {"coordinates":[-78.279755,35.823025],"type":"Point"}
+  "bbox": [
+    -78.279755,
+    35.823025,
+    -78.279755,
+    35.823025
+],
+  "geometry": {"coordinates":[-78.27975499999999,35.823025],"type":"Point"}
 }

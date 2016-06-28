@@ -2,13 +2,14 @@
   "id": 304033165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.307302,35.336921,-79.307302,35.336921",
     "geom:latitude":35.336921,
     "geom:longitude":-79.307302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Red Hill Rd",
     "sg:city":"Cameron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304033165,
-    "wof:lastmodified":1449043676,
+    "wof:lastmodified":1466644635,
     "wof:name":"McDonalds Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.307302,35.336921,-79.307302,35.336921],
-  "geometry": {"coordinates":[-79.307302,35.336921],"type":"Point"}
+  "bbox": [
+    -79.307302,
+    35.336921,
+    -79.307302,
+    35.336921
+],
+  "geometry": {"coordinates":[-79.30730200000001,35.336921],"type":"Point"}
 }

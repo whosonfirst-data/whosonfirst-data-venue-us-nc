@@ -2,13 +2,14 @@
   "id": 387883469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.61163,35.900368,-75.61163,35.900368",
     "geom:latitude":35.900368,
     "geom:longitude":-75.61163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7623 Virginia Dare Trl",
     "sg:city":"Nags Head",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387883469,
-    "wof:lastmodified":1449059017,
+    "wof:lastmodified":1466658066,
     "wof:name":"Lone Cedar Cafe",
     "wof:parent_id":85857329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-75.61163,35.900368,-75.61163,35.900368],
-  "geometry": {"coordinates":[-75.61163,35.900368],"type":"Point"}
+  "bbox": [
+    -75.61163,
+    35.900368,
+    -75.61163,
+    35.900368
+],
+  "geometry": {"coordinates":[-75.61163000000001,35.900368],"type":"Point"}
 }

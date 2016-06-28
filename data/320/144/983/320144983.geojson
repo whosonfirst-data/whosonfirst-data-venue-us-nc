@@ -2,13 +2,14 @@
   "id": 320144983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.886215,35.484238,-80.886215,35.484238",
     "geom:latitude":35.484238,
     "geom:longitude":-80.886215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21222 Nautique Blvd",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320144983,
-    "wof:lastmodified":1449013992,
+    "wof:lastmodified":1466647329,
     "wof:name":"Marina Shores Waterfront Apts",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-80.886215,35.484238,-80.886215,35.484238],
-  "geometry": {"coordinates":[-80.886215,35.484238],"type":"Point"}
+  "bbox": [
+    -80.886215,
+    35.484238,
+    -80.886215,
+    35.484238
+],
+  "geometry": {"coordinates":[-80.88621500000001,35.484238],"type":"Point"}
 }

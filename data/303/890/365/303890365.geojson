@@ -2,13 +2,14 @@
   "id": 303890365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.885923,34.223256,-77.885923,34.223256",
     "geom:latitude":34.223256,
     "geom:longitude":-77.885923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"637 S Kerr Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303890365,
-    "wof:lastmodified":1448998649,
+    "wof:lastmodified":1466655971,
     "wof:name":"Reid III Tom MD",
     "wof:parent_id":85811739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-77.885923,34.223256,-77.885923,34.223256],
-  "geometry": {"coordinates":[-77.885923,34.223256],"type":"Point"}
+  "bbox": [
+    -77.885923,
+    34.223256,
+    -77.885923,
+    34.223256
+],
+  "geometry": {"coordinates":[-77.88592300000001,34.223256],"type":"Point"}
 }

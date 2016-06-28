@@ -2,13 +2,14 @@
   "id": 320827747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.875306,34.28588,-77.875306,34.28588",
     "geom:latitude":34.28588,
     "geom:longitude":-77.875306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Farley Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320827747,
-    "wof:lastmodified":1449012615,
+    "wof:lastmodified":1466656757,
     "wof:name":"AAA Farley Storage Inc",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.875306,34.28588,-77.875306,34.28588],
-  "geometry": {"coordinates":[-77.875306,34.28588],"type":"Point"}
+  "bbox": [
+    -77.875306,
+    34.28588,
+    -77.875306,
+    34.28588
+],
+  "geometry": {"coordinates":[-77.87530599999999,34.28588],"type":"Point"}
 }

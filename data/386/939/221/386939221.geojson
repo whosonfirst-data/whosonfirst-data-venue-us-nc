@@ -2,13 +2,14 @@
   "id": 386939221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.932527,35.02504,-78.932527,35.02504",
     "geom:latitude":35.02504,
     "geom:longitude":-78.932527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Madison Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":386939221,
-    "wof:lastmodified":1449028705,
+    "wof:lastmodified":1466649515,
     "wof:name":"Sandhills Abstracting Inc",
     "wof:parent_id":85877381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "searching"
     ]
 },
-  "bbox": [-78.932527,35.02504,-78.932527,35.02504],
-  "geometry": {"coordinates":[-78.932527,35.02504],"type":"Point"}
+  "bbox": [
+    -78.932527,
+    35.02504,
+    -78.932527,
+    35.02504
+],
+  "geometry": {"coordinates":[-78.93252699999999,35.02504],"type":"Point"}
 }

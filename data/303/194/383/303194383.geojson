@@ -2,13 +2,14 @@
   "id": 303194383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.060921,34.691299,-77.060921,34.691299",
     "geom:latitude":34.691299,
     "geom:longitude":-77.060921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Bayside Dr",
     "sg:city":"Swansboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303194383,
-    "wof:lastmodified":1449000207,
+    "wof:lastmodified":1466646138,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85812509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-77.060921,34.691299,-77.060921,34.691299],
-  "geometry": {"coordinates":[-77.060921,34.691299],"type":"Point"}
+  "bbox": [
+    -77.060921,
+    34.691299,
+    -77.060921,
+    34.691299
+],
+  "geometry": {"coordinates":[-77.06092099999999,34.691299],"type":"Point"}
 }

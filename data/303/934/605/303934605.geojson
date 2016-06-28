@@ -2,13 +2,14 @@
   "id": 303934605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.573271,35.491563,-78.573271,35.491563",
     "geom:latitude":35.491563,
     "geom:longitude":-78.573271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8979 State Hwy 50 N",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303934605,
-    "wof:lastmodified":1448998240,
+    "wof:lastmodified":1466656338,
     "wof:name":"Don's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.573271,35.491563,-78.573271,35.491563],
-  "geometry": {"coordinates":[-78.573271,35.491563],"type":"Point"}
+  "bbox": [
+    -78.573271,
+    35.491563,
+    -78.573271,
+    35.491563
+],
+  "geometry": {"coordinates":[-78.57327100000001,35.491563],"type":"Point"}
 }

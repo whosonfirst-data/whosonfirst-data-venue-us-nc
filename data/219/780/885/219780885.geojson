@@ -2,13 +2,14 @@
   "id": 219780885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.636643,35.430068,-77.636643,35.430068",
     "geom:latitude":35.430068,
     "geom:longitude":-77.636643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Charlie Ormond Rd",
     "sg:city":"Snow Hill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219780885,
-    "wof:lastmodified":1449073041,
+    "wof:lastmodified":1466647027,
     "wof:name":"Joe Mewborn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-77.636643,35.430068,-77.636643,35.430068],
-  "geometry": {"coordinates":[-77.636643,35.430068],"type":"Point"}
+  "bbox": [
+    -77.636643,
+    35.430068,
+    -77.636643,
+    35.430068
+],
+  "geometry": {"coordinates":[-77.63664300000001,35.430068],"type":"Point"}
 }

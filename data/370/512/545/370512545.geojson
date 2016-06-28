@@ -2,13 +2,14 @@
   "id": 370512545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.573549,35.86071,-79.573549,35.86071",
     "geom:latitude":35.86071,
     "geom:longitude":-79.573549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N Asheboro St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370512545,
-    "wof:lastmodified":1449031553,
+    "wof:lastmodified":1466652723,
     "wof:name":"Asheboro Batting Complex",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.573549,35.86071,-79.573549,35.86071],
+  "bbox": [
+    -79.573549,
+    35.86071,
+    -79.573549,
+    35.86071
+],
   "geometry": {"coordinates":[-79.573549,35.86071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303044851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.775412,35.176011,-80.775412,35.176011",
     "geom:latitude":35.176011,
     "geom:longitude":-80.775412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Shady Bluff Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303044851,
-    "wof:lastmodified":1448999394,
+    "wof:lastmodified":1466643884,
     "wof:name":"Tom Hantoz Construct",
     "wof:parent_id":85843707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.775412,35.176011,-80.775412,35.176011],
+  "bbox": [
+    -80.775412,
+    35.176011,
+    -80.775412,
+    35.176011
+],
   "geometry": {"coordinates":[-80.775412,35.176011],"type":"Point"}
 }

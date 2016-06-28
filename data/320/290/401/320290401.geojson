@@ -2,13 +2,14 @@
   "id": 320290401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.384689,35.179969,-83.384689,35.179969",
     "geom:latitude":35.179969,
     "geom:longitude":-83.384689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 W Palmer St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320290401,
-    "wof:lastmodified":1449012867,
+    "wof:lastmodified":1466649352,
     "wof:name":"Rbcm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-83.384689,35.179969,-83.384689,35.179969],
-  "geometry": {"coordinates":[-83.384689,35.179969],"type":"Point"}
+  "bbox": [
+    -83.384689,
+    35.179969,
+    -83.384689,
+    35.179969
+],
+  "geometry": {"coordinates":[-83.38468899999999,35.179969],"type":"Point"}
 }

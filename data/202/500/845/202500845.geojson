@@ -2,13 +2,14 @@
   "id": 202500845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.408943,35.608307,-77.408943,35.608307",
     "geom:latitude":35.608307,
     "geom:longitude":-77.408943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Medical Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202500845,
-    "wof:lastmodified":1449060753,
+    "wof:lastmodified":1466654988,
     "wof:name":"ECU Physicians",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.408943,35.608307,-77.408943,35.608307],
-  "geometry": {"coordinates":[-77.408943,35.608307],"type":"Point"}
+  "bbox": [
+    -77.408943,
+    35.608307,
+    -77.408943,
+    35.608307
+],
+  "geometry": {"coordinates":[-77.40894299999999,35.608307],"type":"Point"}
 }

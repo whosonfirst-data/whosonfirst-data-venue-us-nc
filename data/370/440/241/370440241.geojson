@@ -2,13 +2,14 @@
   "id": 370440241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.614491,35.687851,-78.614491,35.687851",
     "geom:latitude":35.687851,
     "geom:longitude":-78.614491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Claymore Dr",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370440241,
-    "wof:lastmodified":1449030287,
+    "wof:lastmodified":1466651804,
     "wof:name":"Church At White Oak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.614491,35.687851,-78.614491,35.687851],
+  "bbox": [
+    -78.614491,
+    35.687851,
+    -78.614491,
+    35.687851
+],
   "geometry": {"coordinates":[-78.614491,35.687851],"type":"Point"}
 }

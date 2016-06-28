@@ -2,13 +2,14 @@
   "id": 387287485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.087524,35.921921,-79.087524,35.921921",
     "geom:latitude":35.921921,
     "geom:longitude":-79.087524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Simpson St",
     "sg:city":"Carrboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387287485,
-    "wof:lastmodified":1449056345,
+    "wof:lastmodified":1466653633,
     "wof:name":"Pique Performance",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.087524,35.921921,-79.087524,35.921921],
+  "bbox": [
+    -79.087524,
+    35.921921,
+    -79.087524,
+    35.921921
+],
   "geometry": {"coordinates":[-79.087524,35.921921],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303915399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.686991,35.701473,-78.686991,35.701473",
     "geom:latitude":35.701473,
     "geom:longitude":-78.686991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2811 Simpkins Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303915399,
-    "wof:lastmodified":1449000539,
+    "wof:lastmodified":1466656330,
     "wof:name":"Sunshine Carpet & Uphl Svc",
     "wof:parent_id":85892141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.686991,35.701473,-78.686991,35.701473],
-  "geometry": {"coordinates":[-78.686991,35.701473],"type":"Point"}
+  "bbox": [
+    -78.686991,
+    35.701473,
+    -78.686991,
+    35.701473
+],
+  "geometry": {"coordinates":[-78.68699100000001,35.701473],"type":"Point"}
 }

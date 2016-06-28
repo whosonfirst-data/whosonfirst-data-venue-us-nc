@@ -2,13 +2,14 @@
   "id": 270314989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.943116,34.207686,-77.943116,34.207686",
     "geom:latitude":34.207686,
     "geom:longitude":-77.943116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Tennessee Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":270314989,
-    "wof:lastmodified":1449011028,
+    "wof:lastmodified":1466647058,
     "wof:name":"Hughes Upholstering Co",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-77.943116,34.207686,-77.943116,34.207686],
+  "bbox": [
+    -77.943116,
+    34.207686,
+    -77.943116,
+    34.207686
+],
   "geometry": {"coordinates":[-77.943116,34.207686],"type":"Point"}
 }

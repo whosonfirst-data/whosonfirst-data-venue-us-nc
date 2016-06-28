@@ -2,13 +2,14 @@
   "id": 303824609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.299517,35.524992,-78.299517,35.524992",
     "geom:latitude":35.524992,
     "geom:longitude":-78.299517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Pollock St",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303824609,
-    "wof:lastmodified":1448998989,
+    "wof:lastmodified":1466655210,
     "wof:name":"Fairway Auto Inc",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "used"
     ]
 },
-  "bbox": [-78.299517,35.524992,-78.299517,35.524992],
-  "geometry": {"coordinates":[-78.299517,35.524992],"type":"Point"}
+  "bbox": [
+    -78.299517,
+    35.524992,
+    -78.299517,
+    35.524992
+],
+  "geometry": {"coordinates":[-78.29951699999999,35.524992],"type":"Point"}
 }

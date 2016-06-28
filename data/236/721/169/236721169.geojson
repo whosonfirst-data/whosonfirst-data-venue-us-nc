@@ -2,13 +2,14 @@
   "id": 236721169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.683974,35.879899,-78.683974,35.879899",
     "geom:latitude":35.879899,
     "geom:longitude":-78.683974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 Cobworth Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236721169,
-    "wof:lastmodified":1449005242,
+    "wof:lastmodified":1466649683,
     "wof:name":"Cajun Micro",
     "wof:parent_id":85841963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.683974,35.879899,-78.683974,35.879899],
-  "geometry": {"coordinates":[-78.683974,35.879899],"type":"Point"}
+  "bbox": [
+    -78.683974,
+    35.879899,
+    -78.683974,
+    35.879899
+],
+  "geometry": {"coordinates":[-78.68397400000001,35.879899],"type":"Point"}
 }

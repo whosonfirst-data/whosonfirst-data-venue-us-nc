@@ -2,13 +2,14 @@
   "id": 303191967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.426978,35.223949,-82.426978,35.223949",
     "geom:latitude":35.223949,
     "geom:longitude":-82.426978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Water Wheel Ln",
     "sg:city":"Fletcher",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303191967,
-    "wof:lastmodified":1448999603,
+    "wof:lastmodified":1466646100,
     "wof:name":"Waterhill Farms LLC",
     "wof:parent_id":85819569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-82.426978,35.223949,-82.426978,35.223949],
-  "geometry": {"coordinates":[-82.426978,35.223949],"type":"Point"}
+  "bbox": [
+    -82.426978,
+    35.223949,
+    -82.426978,
+    35.223949
+],
+  "geometry": {"coordinates":[-82.42697800000001,35.223949],"type":"Point"}
 }

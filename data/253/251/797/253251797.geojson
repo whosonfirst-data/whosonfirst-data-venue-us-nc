@@ -2,13 +2,14 @@
   "id": 253251797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.763649,35.207205,-80.763649,35.207205",
     "geom:latitude":35.207205,
     "geom:longitude":-80.763649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3534 Driftwood Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253251797,
-    "wof:lastmodified":1449062877,
+    "wof:lastmodified":1466645577,
     "wof:name":"American Memories",
     "wof:parent_id":85891865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.763649,35.207205,-80.763649,35.207205],
+  "bbox": [
+    -80.763649,
+    35.207205,
+    -80.763649,
+    35.207205
+],
   "geometry": {"coordinates":[-80.763649,35.207205],"type":"Point"}
 }

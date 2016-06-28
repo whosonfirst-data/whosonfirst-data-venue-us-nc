@@ -2,13 +2,14 @@
   "id": 353770709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023721,35.581398,-80.023721,35.581398",
     "geom:latitude":35.581398,
     "geom:longitude":-80.023721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6165 Gravel Hill Rd",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353770709,
-    "wof:lastmodified":1449020852,
+    "wof:lastmodified":1466651427,
     "wof:name":"Lanier Trucking",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.023721,35.581398,-80.023721,35.581398],
-  "geometry": {"coordinates":[-80.023721,35.581398],"type":"Point"}
+  "bbox": [
+    -80.023721,
+    35.581398,
+    -80.023721,
+    35.581398
+],
+  "geometry": {"coordinates":[-80.02372099999999,35.581398],"type":"Point"}
 }

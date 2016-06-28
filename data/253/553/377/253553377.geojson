@@ -2,13 +2,14 @@
   "id": 253553377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.841236,35.716257,-78.841236,35.716257",
     "geom:latitude":35.716257,
     "geom:longitude":-78.841236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 E Williams St",
     "sg:city":"Apex",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253553377,
-    "wof:lastmodified":1449062840,
+    "wof:lastmodified":1466649004,
     "wof:name":"NC Inspection Center Inc",
     "wof:parent_id":85813445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "inspection"
     ]
 },
-  "bbox": [-78.841236,35.716257,-78.841236,35.716257],
-  "geometry": {"coordinates":[-78.841236,35.716257],"type":"Point"}
+  "bbox": [
+    -78.841236,
+    35.716257,
+    -78.841236,
+    35.716257
+],
+  "geometry": {"coordinates":[-78.84123599999999,35.716257],"type":"Point"}
 }

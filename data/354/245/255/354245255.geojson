@@ -2,13 +2,14 @@
   "id": 354245255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.112254,36.114215,-79.112254,36.114215",
     "geom:latitude":36.114215,
     "geom:longitude":-79.112254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 N State Hwy 86",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354245255,
-    "wof:lastmodified":1449067621,
+    "wof:lastmodified":1466650376,
     "wof:name":"Service Department Inc",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-79.112254,36.114215,-79.112254,36.114215],
-  "geometry": {"coordinates":[-79.112254,36.114215],"type":"Point"}
+  "bbox": [
+    -79.112254,
+    36.114215,
+    -79.112254,
+    36.114215
+],
+  "geometry": {"coordinates":[-79.11225399999999,36.114215],"type":"Point"}
 }

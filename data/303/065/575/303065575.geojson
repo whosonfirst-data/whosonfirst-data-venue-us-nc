@@ -2,13 +2,14 @@
   "id": 303065575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.580104,35.267835,-78.580104,35.267835",
     "geom:latitude":35.267835,
     "geom:longitude":-78.580104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7684 Plain View Hwy",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303065575,
-    "wof:lastmodified":1449000535,
+    "wof:lastmodified":1466644177,
     "wof:name":"Utility Meter Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.580104,35.267835,-78.580104,35.267835],
-  "geometry": {"coordinates":[-78.580104,35.267835],"type":"Point"}
+  "bbox": [
+    -78.580104,
+    35.267835,
+    -78.580104,
+    35.267835
+],
+  "geometry": {"coordinates":[-78.58010400000001,35.267835],"type":"Point"}
 }

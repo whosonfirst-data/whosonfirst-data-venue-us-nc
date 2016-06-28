@@ -2,13 +2,14 @@
   "id": 303370905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.508056,36.10172,-79.508056,36.10172",
     "geom:latitude":36.10172,
     "geom:longitude":-79.508056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W College Ave",
     "sg:city":"Elon College",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303370905,
-    "wof:lastmodified":1448999453,
+    "wof:lastmodified":1466648659,
     "wof:name":"Elon University",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-79.508056,36.10172,-79.508056,36.10172],
+  "bbox": [
+    -79.508056,
+    36.10172,
+    -79.508056,
+    36.10172
+],
   "geometry": {"coordinates":[-79.508056,36.10172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252783337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.49923,35.757927,-79.49923,35.757927",
     "geom:latitude":35.757927,
     "geom:longitude":-79.49923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3815 Old US Hwy 421 N",
     "sg:city":"Siler City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252783337,
-    "wof:lastmodified":1449005436,
+    "wof:lastmodified":1466643902,
     "wof:name":"Central Feeds Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.49923,35.757927,-79.49923,35.757927],
+  "bbox": [
+    -79.49923,
+    35.757927,
+    -79.49923,
+    35.757927
+],
   "geometry": {"coordinates":[-79.49923,35.757927],"type":"Point"}
 }

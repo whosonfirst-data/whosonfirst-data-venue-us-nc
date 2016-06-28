@@ -2,13 +2,14 @@
   "id": 286643165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.180788,35.659879,-78.180788,35.659879",
     "geom:latitude":35.659879,
     "geom:longitude":-78.180788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4735 Glendale Rd",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286643165,
-    "wof:lastmodified":1449017716,
+    "wof:lastmodified":1466648340,
     "wof:name":"Creech Lexter",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-78.180788,35.659879,-78.180788,35.659879],
-  "geometry": {"coordinates":[-78.180788,35.659879],"type":"Point"}
+  "bbox": [
+    -78.180788,
+    35.659879,
+    -78.180788,
+    35.659879
+],
+  "geometry": {"coordinates":[-78.18078800000001,35.659879],"type":"Point"}
 }

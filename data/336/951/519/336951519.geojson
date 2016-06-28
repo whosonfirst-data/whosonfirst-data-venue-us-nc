@@ -2,13 +2,14 @@
   "id": 336951519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.740372,35.680046,-81.740372,35.680046",
     "geom:latitude":35.680046,
     "geom:longitude":-81.740372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4614 Amber Ln",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336951519,
-    "wof:lastmodified":1448996956,
+    "wof:lastmodified":1466651192,
     "wof:name":"Duckworth Welding",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.740372,35.680046,-81.740372,35.680046],
-  "geometry": {"coordinates":[-81.740372,35.680046],"type":"Point"}
+  "bbox": [
+    -81.740372,
+    35.680046,
+    -81.740372,
+    35.680046
+],
+  "geometry": {"coordinates":[-81.74037199999999,35.680046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370497257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.708598,35.208129,-80.708598,35.208129",
     "geom:latitude":35.208129,
     "geom:longitude":-80.708598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7907 Albemarle Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370497257,
-    "wof:lastmodified":1449032414,
+    "wof:lastmodified":1466652516,
     "wof:name":"DLS Solutions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-80.708598,35.208129,-80.708598,35.208129],
-  "geometry": {"coordinates":[-80.708598,35.208129],"type":"Point"}
+  "bbox": [
+    -80.708598,
+    35.208129,
+    -80.708598,
+    35.208129
+],
+  "geometry": {"coordinates":[-80.70859799999999,35.208129],"type":"Point"}
 }

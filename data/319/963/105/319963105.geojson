@@ -2,13 +2,14 @@
   "id": 319963105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.99532,35.381097,-77.99532,35.381097",
     "geom:latitude":35.381097,
     "geom:longitude":-77.99532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Ormand Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319963105,
-    "wof:lastmodified":1449024183,
+    "wof:lastmodified":1466646936,
     "wof:name":"Dee Dawson Bail Bonding",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-77.99532,35.381097,-77.99532,35.381097],
-  "geometry": {"coordinates":[-77.99532,35.381097],"type":"Point"}
+  "bbox": [
+    -77.99532,
+    35.381097,
+    -77.99532,
+    35.381097
+],
+  "geometry": {"coordinates":[-77.99532000000001,35.381097],"type":"Point"}
 }

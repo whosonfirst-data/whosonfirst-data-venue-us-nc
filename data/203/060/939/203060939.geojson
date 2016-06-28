@@ -2,13 +2,14 @@
   "id": 203060939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.758395,34.920508,-79.758395,34.920508",
     "geom:latitude":34.920508,
     "geom:longitude":-79.758395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Cauthen Dr",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203060939,
-    "wof:lastmodified":1449026690,
+    "wof:lastmodified":1466654575,
     "wof:name":"Long Drive One Apartment",
     "wof:parent_id":85832341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.758395,34.920508,-79.758395,34.920508],
-  "geometry": {"coordinates":[-79.758395,34.920508],"type":"Point"}
+  "bbox": [
+    -79.758395,
+    34.920508,
+    -79.758395,
+    34.920508
+],
+  "geometry": {"coordinates":[-79.75839499999999,34.920508],"type":"Point"}
 }

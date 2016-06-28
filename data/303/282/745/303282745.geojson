@@ -2,13 +2,14 @@
   "id": 303282745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.933965,35.035674,-78.933965,35.035674",
     "geom:latitude":35.035674,
     "geom:longitude":-78.933965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1297 Oliver St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303282745,
-    "wof:lastmodified":1448999651,
+    "wof:lastmodified":1466647425,
     "wof:name":"Valley Medical Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-78.933965,35.035674,-78.933965,35.035674],
+  "bbox": [
+    -78.933965,
+    35.035674,
+    -78.933965,
+    35.035674
+],
   "geometry": {"coordinates":[-78.933965,35.035674],"type":"Point"}
 }

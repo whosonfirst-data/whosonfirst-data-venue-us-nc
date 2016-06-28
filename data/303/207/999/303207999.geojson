@@ -2,13 +2,14 @@
   "id": 303207999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.610399,35.871003,-78.610399,35.871003",
     "geom:latitude":35.871003,
     "geom:longitude":-78.610399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Bellechase Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303207999,
-    "wof:lastmodified":1448999829,
+    "wof:lastmodified":1466646330,
     "wof:name":"Stephenson Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-78.610399,35.871003,-78.610399,35.871003],
+  "bbox": [
+    -78.610399,
+    35.871003,
+    -78.610399,
+    35.871003
+],
   "geometry": {"coordinates":[-78.610399,35.871003],"type":"Point"}
 }

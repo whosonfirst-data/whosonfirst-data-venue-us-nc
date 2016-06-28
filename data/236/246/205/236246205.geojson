@@ -2,13 +2,14 @@
   "id": 236246205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.842031,35.236666,-80.842031,35.236666",
     "geom:latitude":35.236666,
     "geom:longitude":-80.842031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 W 10th St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236246205,
-    "wof:lastmodified":1449001844,
+    "wof:lastmodified":1466645434,
     "wof:name":"ADM Milling",
     "wof:parent_id":85820395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "milling"
     ]
 },
-  "bbox": [-80.842031,35.236666,-80.842031,35.236666],
-  "geometry": {"coordinates":[-80.842031,35.236666],"type":"Point"}
+  "bbox": [
+    -80.842031,
+    35.236666,
+    -80.842031,
+    35.236666
+],
+  "geometry": {"coordinates":[-80.84203100000001,35.236666],"type":"Point"}
 }

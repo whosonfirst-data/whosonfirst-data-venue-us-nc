@@ -2,13 +2,14 @@
   "id": 387015107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.430573,34.754107,-77.430573,34.754107",
     "geom:latitude":34.754107,
     "geom:longitude":-77.430573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Marine Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387015107,
-    "wof:lastmodified":1449056971,
+    "wof:lastmodified":1466650072,
     "wof:name":"Coastal Plains Raceway",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.430573,34.754107,-77.430573,34.754107],
+  "bbox": [
+    -77.430573,
+    34.754107,
+    -77.430573,
+    34.754107
+],
   "geometry": {"coordinates":[-77.430573,34.754107],"type":"Point"}
 }

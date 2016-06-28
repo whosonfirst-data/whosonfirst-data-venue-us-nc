@@ -2,13 +2,14 @@
   "id": 303187821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.821117,35.344812,-80.821117,35.344812",
     "geom:latitude":35.344812,
     "geom:longitude":-80.821117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4811 Bridle Ridge Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303187821,
-    "wof:lastmodified":1448998483,
+    "wof:lastmodified":1466646029,
     "wof:name":"Wing Zone",
     "wof:parent_id":85882277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.821117,35.344812,-80.821117,35.344812],
+  "bbox": [
+    -80.821117,
+    35.344812,
+    -80.821117,
+    35.344812
+],
   "geometry": {"coordinates":[-80.821117,35.344812],"type":"Point"}
 }

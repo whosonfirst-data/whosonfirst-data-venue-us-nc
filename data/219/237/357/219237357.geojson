@@ -2,13 +2,14 @@
   "id": 219237357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.664589,34.718408,-76.664589,34.718408",
     "geom:latitude":34.718408,
     "geom:longitude":-76.664589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Ann St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219237357,
-    "wof:lastmodified":1449070458,
+    "wof:lastmodified":1466655563,
     "wof:name":"Ann Street United Methodist",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-76.664589,34.718408,-76.664589,34.718408],
-  "geometry": {"coordinates":[-76.664589,34.718408],"type":"Point"}
+  "bbox": [
+    -76.664589,
+    34.718408,
+    -76.664589,
+    34.718408
+],
+  "geometry": {"coordinates":[-76.66458900000001,34.718408],"type":"Point"}
 }

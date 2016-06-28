@@ -2,13 +2,14 @@
   "id": 269607765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.44643,35.800986,-81.44643,35.800986",
     "geom:latitude":35.800986,
     "geom:longitude":-81.44643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Sunset St",
     "sg:city":"Granite Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269607765,
-    "wof:lastmodified":1449036457,
+    "wof:lastmodified":1466644684,
     "wof:name":"Camelot Manor Nursing Facility",
     "wof:parent_id":85822593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-81.44643,35.800986,-81.44643,35.800986],
-  "geometry": {"coordinates":[-81.44643,35.800986],"type":"Point"}
+  "bbox": [
+    -81.44643,
+    35.800986,
+    -81.44643,
+    35.800986
+],
+  "geometry": {"coordinates":[-81.44643000000001,35.800986],"type":"Point"}
 }

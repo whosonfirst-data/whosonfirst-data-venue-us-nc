@@ -2,13 +2,14 @@
   "id": 404008811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.35043,36.084777,-80.35043,36.084777",
     "geom:latitude":36.084777,
     "geom:longitude":-80.35043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5015 Country Club Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404008811,
-    "wof:lastmodified":1449039395,
+    "wof:lastmodified":1466651420,
     "wof:name":"Blind Factory",
     "wof:parent_id":85881849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.35043,36.084777,-80.35043,36.084777],
+  "bbox": [
+    -80.35043,
+    36.084777,
+    -80.35043,
+    36.084777
+],
   "geometry": {"coordinates":[-80.35043,36.084777],"type":"Point"}
 }

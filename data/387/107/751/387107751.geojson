@@ -2,13 +2,14 @@
   "id": 387107751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.344463,35.700223,-77.344463,35.700223",
     "geom:latitude":35.700223,
     "geom:longitude":-77.344463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 Sweet Gum Grove Church Rd",
     "sg:city":"Stokes",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387107751,
-    "wof:lastmodified":1449056126,
+    "wof:lastmodified":1466651254,
     "wof:name":"Sweet Gum Grove FWB Church",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.344463,35.700223,-77.344463,35.700223],
+  "bbox": [
+    -77.344463,
+    35.700223,
+    -77.344463,
+    35.700223
+],
   "geometry": {"coordinates":[-77.344463,35.700223],"type":"Point"}
 }

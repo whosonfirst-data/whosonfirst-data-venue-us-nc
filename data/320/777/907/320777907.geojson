@@ -2,13 +2,14 @@
   "id": 320777907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.585298,35.340709,-78.585298,35.340709",
     "geom:latitude":35.340709,
     "geom:longitude":-78.585298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3418 US Hwy 301 N",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320777907,
-    "wof:lastmodified":1449013237,
+    "wof:lastmodified":1466656129,
     "wof:name":"H & H Products",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.585298,35.340709,-78.585298,35.340709],
-  "geometry": {"coordinates":[-78.585298,35.340709],"type":"Point"}
+  "bbox": [
+    -78.585298,
+    35.340709,
+    -78.585298,
+    35.340709
+],
+  "geometry": {"coordinates":[-78.58529799999999,35.340709],"type":"Point"}
 }

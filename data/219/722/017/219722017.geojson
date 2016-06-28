@@ -2,13 +2,14 @@
   "id": 219722017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.232312,34.714256,-77.232312,34.714256",
     "geom:latitude":34.714256,
     "geom:longitude":-77.232312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 Hubert Blvd",
     "sg:city":"Hubert",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219722017,
-    "wof:lastmodified":1449071630,
+    "wof:lastmodified":1466646529,
     "wof:name":"Granny's Thrift Shop",
     "wof:parent_id":85834913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-77.232312,34.714256,-77.232312,34.714256],
-  "geometry": {"coordinates":[-77.232312,34.714256],"type":"Point"}
+  "bbox": [
+    -77.232312,
+    34.714256,
+    -77.232312,
+    34.714256
+],
+  "geometry": {"coordinates":[-77.23231199999999,34.714256],"type":"Point"}
 }

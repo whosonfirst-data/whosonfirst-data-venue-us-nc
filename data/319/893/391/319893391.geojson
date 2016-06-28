@@ -2,13 +2,14 @@
   "id": 319893391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335879,36.079995,-80.335879,36.079995",
     "geom:latitude":36.079995,
     "geom:longitude":-80.335879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4721 Country Club Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319893391,
-    "wof:lastmodified":1449024742,
+    "wof:lastmodified":1466645946,
     "wof:name":"Samnaz Inc",
     "wof:parent_id":85881845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.335879,36.079995,-80.335879,36.079995],
-  "geometry": {"coordinates":[-80.335879,36.079995],"type":"Point"}
+  "bbox": [
+    -80.335879,
+    36.079995,
+    -80.335879,
+    36.079995
+],
+  "geometry": {"coordinates":[-80.33587900000001,36.079995],"type":"Point"}
 }

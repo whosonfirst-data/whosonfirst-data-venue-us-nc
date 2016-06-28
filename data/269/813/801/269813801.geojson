@@ -2,13 +2,14 @@
   "id": 269813801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.990316,35.526176,-82.990316,35.526176",
     "geom:latitude":35.526176,
     "geom:longitude":-82.990316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1464 Dellwood Rd",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269813801,
-    "wof:lastmodified":1449036772,
+    "wof:lastmodified":1466647104,
     "wof:name":"Valley Pawn & Gun",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-82.990316,35.526176,-82.990316,35.526176],
-  "geometry": {"coordinates":[-82.990316,35.526176],"type":"Point"}
+  "bbox": [
+    -82.990316,
+    35.526176,
+    -82.990316,
+    35.526176
+],
+  "geometry": {"coordinates":[-82.99031600000001,35.526176],"type":"Point"}
 }

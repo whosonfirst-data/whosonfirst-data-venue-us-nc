@@ -2,13 +2,14 @@
   "id": 404130365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.111741,35.943092,-78.111741,35.943092",
     "geom:latitude":35.943092,
     "geom:longitude":-78.111741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Ash St",
     "sg:city":"Spring Hope",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404130365,
-    "wof:lastmodified":1449039422,
+    "wof:lastmodified":1466652933,
     "wof:name":"Parts & Tire Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-78.111741,35.943092,-78.111741,35.943092],
-  "geometry": {"coordinates":[-78.111741,35.943092],"type":"Point"}
+  "bbox": [
+    -78.111741,
+    35.943092,
+    -78.111741,
+    35.943092
+],
+  "geometry": {"coordinates":[-78.11174099999999,35.943092],"type":"Point"}
 }

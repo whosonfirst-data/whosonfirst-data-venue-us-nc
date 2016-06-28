@@ -2,13 +2,14 @@
   "id": 370532903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.231636,35.403912,-79.231636,35.403912",
     "geom:latitude":35.403912,
     "geom:longitude":-79.231636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Jefferson Davis Hwy",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370532903,
-    "wof:lastmodified":1449030236,
+    "wof:lastmodified":1466652988,
     "wof:name":"Sand Hills Camping",
     "wof:parent_id":85852511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.231636,35.403912,-79.231636,35.403912],
-  "geometry": {"coordinates":[-79.231636,35.403912],"type":"Point"}
+  "bbox": [
+    -79.231636,
+    35.403912,
+    -79.231636,
+    35.403912
+],
+  "geometry": {"coordinates":[-79.23163599999999,35.403912],"type":"Point"}
 }

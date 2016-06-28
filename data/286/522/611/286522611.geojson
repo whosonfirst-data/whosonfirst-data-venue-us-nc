@@ -2,13 +2,14 @@
   "id": 286522611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.801116,35.803325,-82.801116,35.803325",
     "geom:latitude":35.803325,
     "geom:longitude":-82.801116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Iris Crest Rd",
     "sg:city":"Marshall",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286522611,
-    "wof:lastmodified":1449016593,
+    "wof:lastmodified":1466646651,
     "wof:name":"Richard Killion Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.801116,35.803325,-82.801116,35.803325],
-  "geometry": {"coordinates":[-82.801116,35.803325],"type":"Point"}
+  "bbox": [
+    -82.801116,
+    35.803325,
+    -82.801116,
+    35.803325
+],
+  "geometry": {"coordinates":[-82.80111599999999,35.803325],"type":"Point"}
 }

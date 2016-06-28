@@ -2,13 +2,14 @@
   "id": 252856171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.731833,35.291163,-80.731833,35.291163",
     "geom:latitude":35.291163,
     "geom:longitude":-80.731833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Ivy Meadow Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252856171,
-    "wof:lastmodified":1449005726,
+    "wof:lastmodified":1466644531,
     "wof:name":"Lodge At Old Concord Rd Apt",
     "wof:parent_id":85811747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.731833,35.291163,-80.731833,35.291163],
-  "geometry": {"coordinates":[-80.731833,35.291163],"type":"Point"}
+  "bbox": [
+    -80.731833,
+    35.291163,
+    -80.731833,
+    35.291163
+],
+  "geometry": {"coordinates":[-80.73183299999999,35.291163],"type":"Point"}
 }

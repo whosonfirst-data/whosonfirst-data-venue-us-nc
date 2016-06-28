@@ -2,13 +2,14 @@
   "id": 303877189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.368721,35.775214,-78.368721,35.775214",
     "geom:latitude":35.775214,
     "geom:longitude":-78.368721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Forest Ln",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303877189,
-    "wof:lastmodified":1448999836,
+    "wof:lastmodified":1466655897,
     "wof:name":"Proturf Landscapes",
     "wof:parent_id":85833417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-78.368721,35.775214,-78.368721,35.775214],
-  "geometry": {"coordinates":[-78.368721,35.775214],"type":"Point"}
+  "bbox": [
+    -78.368721,
+    35.775214,
+    -78.368721,
+    35.775214
+],
+  "geometry": {"coordinates":[-78.36872099999999,35.775214],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303623201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.712271,34.887298,-79.712271,34.887298",
     "geom:latitude":34.887298,
     "geom:longitude":-79.712271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Marlboro St",
     "sg:city":"Hamlet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303623201,
-    "wof:lastmodified":1448999833,
+    "wof:lastmodified":1466652306,
     "wof:name":"Convenience Corner Inc",
     "wof:parent_id":85836761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasoline"
     ]
 },
-  "bbox": [-79.712271,34.887298,-79.712271,34.887298],
+  "bbox": [
+    -79.712271,
+    34.887298,
+    -79.712271,
+    34.887298
+],
   "geometry": {"coordinates":[-79.712271,34.887298],"type":"Point"}
 }

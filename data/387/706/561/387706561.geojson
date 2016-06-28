@@ -2,13 +2,14 @@
   "id": 387706561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.327138,35.177325,-77.327138,35.177325",
     "geom:latitude":35.177325,
     "geom:longitude":-77.327138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"389 Willis Rd",
     "sg:city":"Cove City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387706561,
-    "wof:lastmodified":1449056383,
+    "wof:lastmodified":1466657302,
     "wof:name":"Leslie L Hart Trucking",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.327138,35.177325,-77.327138,35.177325],
-  "geometry": {"coordinates":[-77.327138,35.177325],"type":"Point"}
+  "bbox": [
+    -77.327138,
+    35.177325,
+    -77.327138,
+    35.177325
+],
+  "geometry": {"coordinates":[-77.32713800000001,35.177325],"type":"Point"}
 }

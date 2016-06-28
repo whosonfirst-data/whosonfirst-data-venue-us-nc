@@ -2,13 +2,14 @@
   "id": 320252587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.016691,35.971782,-80.016691,35.971782",
     "geom:latitude":35.971782,
     "geom:longitude":-80.016691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 N Main St",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320252587,
-    "wof:lastmodified":1449011739,
+    "wof:lastmodified":1466648836,
     "wof:name":"Alex's House Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.016691,35.971782,-80.016691,35.971782],
-  "geometry": {"coordinates":[-80.016691,35.971782],"type":"Point"}
+  "bbox": [
+    -80.016691,
+    35.971782,
+    -80.016691,
+    35.971782
+],
+  "geometry": {"coordinates":[-80.01669099999999,35.971782],"type":"Point"}
 }

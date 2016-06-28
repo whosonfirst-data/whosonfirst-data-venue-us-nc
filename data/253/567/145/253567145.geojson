@@ -2,13 +2,14 @@
   "id": 253567145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.241841,35.481153,-81.241841,35.481153",
     "geom:latitude":35.481153,
     "geom:longitude":-81.241841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 N Generals Blvd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253567145,
-    "wof:lastmodified":1449065829,
+    "wof:lastmodified":1466649170,
     "wof:name":"Cabarrus County General Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-81.241841,35.481153,-81.241841,35.481153],
-  "geometry": {"coordinates":[-81.241841,35.481153],"type":"Point"}
+  "bbox": [
+    -81.241841,
+    35.481153,
+    -81.241841,
+    35.481153
+],
+  "geometry": {"coordinates":[-81.24184099999999,35.481153],"type":"Point"}
 }

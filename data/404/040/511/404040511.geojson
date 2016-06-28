@@ -2,13 +2,14 @@
   "id": 404040511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.277025,35.625827,-77.277025,35.625827",
     "geom:latitude":35.625827,
     "geom:longitude":-77.277025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4747 US Hwy 264 E",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404040511,
-    "wof:lastmodified":1449040297,
+    "wof:lastmodified":1466651818,
     "wof:name":"Vandermere Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-77.277025,35.625827,-77.277025,35.625827],
-  "geometry": {"coordinates":[-77.277025,35.625827],"type":"Point"}
+  "bbox": [
+    -77.277025,
+    35.625827,
+    -77.277025,
+    35.625827
+],
+  "geometry": {"coordinates":[-77.27702499999999,35.625827],"type":"Point"}
 }

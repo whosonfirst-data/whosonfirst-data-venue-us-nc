@@ -2,13 +2,14 @@
   "id": 303365931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.868648,35.505033,-80.868648,35.505033",
     "geom:latitude":35.505033,
     "geom:longitude":-80.868648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Harbor Pl",
     "sg:city":"Davidson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303365931,
-    "wof:lastmodified":1448998511,
+    "wof:lastmodified":1466648586,
     "wof:name":"Southern Packaging Corp",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packaging"
     ]
 },
-  "bbox": [-80.868648,35.505033,-80.868648,35.505033],
-  "geometry": {"coordinates":[-80.868648,35.505033],"type":"Point"}
+  "bbox": [
+    -80.868648,
+    35.505033,
+    -80.868648,
+    35.505033
+],
+  "geometry": {"coordinates":[-80.86864799999999,35.505033],"type":"Point"}
 }

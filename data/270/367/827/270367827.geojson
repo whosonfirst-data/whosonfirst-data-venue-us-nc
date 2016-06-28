@@ -2,13 +2,14 @@
   "id": 270367827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.380001,35.156724,-79.380001,35.156724",
     "geom:latitude":35.156724,
     "geom:longitude":-79.380001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Maples Rd",
     "sg:city":"Southern Pines",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270367827,
-    "wof:lastmodified":1449010095,
+    "wof:lastmodified":1466647734,
     "wof:name":"Corral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.380001,35.156724,-79.380001,35.156724],
-  "geometry": {"coordinates":[-79.380001,35.156724],"type":"Point"}
+  "bbox": [
+    -79.380001,
+    35.156724,
+    -79.380001,
+    35.156724
+],
+  "geometry": {"coordinates":[-79.38000099999999,35.156724],"type":"Point"}
 }

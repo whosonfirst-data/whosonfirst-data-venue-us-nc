@@ -2,13 +2,14 @@
   "id": 387493529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.965197,35.764071,-77.965197,35.764071",
     "geom:latitude":35.764071,
     "geom:longitude":-77.965197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 Airport Dr",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387493529,
-    "wof:lastmodified":1449057304,
+    "wof:lastmodified":1466656208,
     "wof:name":"Southern Testing & Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-77.965197,35.764071,-77.965197,35.764071],
+  "bbox": [
+    -77.965197,
+    35.764071,
+    -77.965197,
+    35.764071
+],
   "geometry": {"coordinates":[-77.965197,35.764071],"type":"Point"}
 }

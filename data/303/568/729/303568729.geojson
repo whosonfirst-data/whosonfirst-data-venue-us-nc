@@ -2,13 +2,14 @@
   "id": 303568729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.454368,35.208411,-79.454368,35.208411",
     "geom:latitude":35.208411,
     "geom:longitude":-79.454368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Memorial Dr",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303568729,
-    "wof:lastmodified":1448998058,
+    "wof:lastmodified":1466651503,
     "wof:name":"Sand Hills Regional Med Ctr",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-79.454368,35.208411,-79.454368,35.208411],
+  "bbox": [
+    -79.454368,
+    35.208411,
+    -79.454368,
+    35.208411
+],
   "geometry": {"coordinates":[-79.454368,35.208411],"type":"Point"}
 }

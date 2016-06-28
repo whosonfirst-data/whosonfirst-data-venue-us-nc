@@ -2,13 +2,14 @@
   "id": 403978193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.49196,35.585485,-82.49196,35.585485",
     "geom:latitude":35.585485,
     "geom:longitude":-82.49196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Spruce Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403978193,
-    "wof:lastmodified":1449055395,
+    "wof:lastmodified":1466653909,
     "wof:name":"Liisa Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mustard"
     ]
 },
-  "bbox": [-82.49196,35.585485,-82.49196,35.585485],
-  "geometry": {"coordinates":[-82.49196,35.585485],"type":"Point"}
+  "bbox": [
+    -82.49196,
+    35.585485,
+    -82.49196,
+    35.585485
+],
+  "geometry": {"coordinates":[-82.49196000000001,35.585485],"type":"Point"}
 }

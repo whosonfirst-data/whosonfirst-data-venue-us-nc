@@ -2,13 +2,14 @@
   "id": 303644569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.122824,35.597129,-78.122824,35.597129",
     "geom:latitude":35.597129,
     "geom:longitude":-78.122824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N Church St",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303644569,
-    "wof:lastmodified":1448999523,
+    "wof:lastmodified":1466652615,
     "wof:name":"Dynamic Electric Supply Inc",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.122824,35.597129,-78.122824,35.597129],
-  "geometry": {"coordinates":[-78.122824,35.597129],"type":"Point"}
+  "bbox": [
+    -78.122824,
+    35.597129,
+    -78.122824,
+    35.597129
+],
+  "geometry": {"coordinates":[-78.12282399999999,35.597129],"type":"Point"}
 }

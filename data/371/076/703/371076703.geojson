@@ -2,13 +2,14 @@
   "id": 371076703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.20762,35.460121,-79.20762,35.460121",
     "geom:latitude":35.460121,
     "geom:longitude":-79.20762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Westover Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":371076703,
-    "wof:lastmodified":1449049864,
+    "wof:lastmodified":1466649790,
     "wof:name":"Parkview In-Home Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-79.20762,35.460121,-79.20762,35.460121],
-  "geometry": {"coordinates":[-79.20762,35.460121],"type":"Point"}
+  "bbox": [
+    -79.20762,
+    35.460121,
+    -79.20762,
+    35.460121
+],
+  "geometry": {"coordinates":[-79.20762000000001,35.460121],"type":"Point"}
 }

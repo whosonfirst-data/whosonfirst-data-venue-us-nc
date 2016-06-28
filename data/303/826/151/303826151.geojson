@@ -2,13 +2,14 @@
   "id": 303826151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795459,35.834291,-79.795459,35.834291",
     "geom:latitude":35.834291,
     "geom:longitude":-79.795459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Robert Hinshaw Dr",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303826151,
-    "wof:lastmodified":1448999894,
+    "wof:lastmodified":1466655233,
     "wof:name":"A-1 Heating & Air Inc",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air"
     ]
 },
-  "bbox": [-79.795459,35.834291,-79.795459,35.834291],
-  "geometry": {"coordinates":[-79.795459,35.834291],"type":"Point"}
+  "bbox": [
+    -79.795459,
+    35.834291,
+    -79.795459,
+    35.834291
+],
+  "geometry": {"coordinates":[-79.79545899999999,35.834291],"type":"Point"}
 }

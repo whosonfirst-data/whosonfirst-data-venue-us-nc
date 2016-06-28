@@ -2,13 +2,14 @@
   "id": 320817403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.58531,35.7954,-78.58531,35.7954",
     "geom:latitude":35.7954,
     "geom:longitude":-78.58531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Yonkers Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320817403,
-    "wof:lastmodified":1449014237,
+    "wof:lastmodified":1466656495,
     "wof:name":"Tri-Point Ford Strlng Trck Sls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "truck"
     ]
 },
-  "bbox": [-78.58531,35.7954,-78.58531,35.7954],
-  "geometry": {"coordinates":[-78.58531,35.7954],"type":"Point"}
+  "bbox": [
+    -78.58531,
+    35.7954,
+    -78.58531,
+    35.7954
+],
+  "geometry": {"coordinates":[-78.58531000000001,35.7954],"type":"Point"}
 }

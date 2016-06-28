@@ -2,13 +2,14 @@
   "id": 236146805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.65733,36.455879,-77.65733,36.455879",
     "geom:latitude":36.455879,
     "geom:longitude":-77.65733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Roanoke Ave",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236146805,
-    "wof:lastmodified":1449002937,
+    "wof:lastmodified":1466644529,
     "wof:name":"North State Steel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-77.65733,36.455879,-77.65733,36.455879],
+  "bbox": [
+    -77.65733,
+    36.455879,
+    -77.65733,
+    36.455879
+],
   "geometry": {"coordinates":[-77.65733,36.455879],"type":"Point"}
 }

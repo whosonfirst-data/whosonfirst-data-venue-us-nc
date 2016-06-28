@@ -2,13 +2,14 @@
   "id": 252803147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.014756,35.56802,-81.014756,35.56802",
     "geom:latitude":35.56802,
     "geom:longitude":-81.014756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7130 Lynbrook Creek Rd",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252803147,
-    "wof:lastmodified":1449006525,
+    "wof:lastmodified":1466644077,
     "wof:name":"Information Consolidation LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "related"
     ]
 },
-  "bbox": [-81.014756,35.56802,-81.014756,35.56802],
-  "geometry": {"coordinates":[-81.014756,35.56802],"type":"Point"}
+  "bbox": [
+    -81.014756,
+    35.56802,
+    -81.014756,
+    35.56802
+],
+  "geometry": {"coordinates":[-81.01475600000001,35.56802],"type":"Point"}
 }

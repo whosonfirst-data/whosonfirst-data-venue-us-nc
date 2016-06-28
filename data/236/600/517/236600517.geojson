@@ -2,13 +2,14 @@
   "id": 236600517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260145,35.827499,-80.260145,35.827499",
     "geom:latitude":35.827499,
     "geom:longitude":-80.260145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 W 2nd Ave",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236600517,
-    "wof:lastmodified":1449001899,
+    "wof:lastmodified":1466648527,
     "wof:name":"T5 Video",
     "wof:parent_id":85849547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-80.260145,35.827499,-80.260145,35.827499],
-  "geometry": {"coordinates":[-80.260145,35.827499],"type":"Point"}
+  "bbox": [
+    -80.260145,
+    35.827499,
+    -80.260145,
+    35.827499
+],
+  "geometry": {"coordinates":[-80.26014499999999,35.827499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336597285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.525844,35.451295,-82.525844,35.451295",
     "geom:latitude":35.451295,
     "geom:longitude":-82.525844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Bradley Branch Rd",
     "sg:city":"Arden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336597285,
-    "wof:lastmodified":1448997982,
+    "wof:lastmodified":1466645786,
     "wof:name":"Mountain View Properties",
     "wof:parent_id":85891771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.525844,35.451295,-82.525844,35.451295],
-  "geometry": {"coordinates":[-82.525844,35.451295],"type":"Point"}
+  "bbox": [
+    -82.525844,
+    35.451295,
+    -82.525844,
+    35.451295
+],
+  "geometry": {"coordinates":[-82.52584400000001,35.451295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287261331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.469103,35.66497,-80.469103,35.66497",
     "geom:latitude":35.66497,
     "geom:longitude":-80.469103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 E Fisher St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287261331,
-    "wof:lastmodified":1449000680,
+    "wof:lastmodified":1466646937,
     "wof:name":"Safety Taxi",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-80.469103,35.66497,-80.469103,35.66497],
+  "bbox": [
+    -80.469103,
+    35.66497,
+    -80.469103,
+    35.66497
+],
   "geometry": {"coordinates":[-80.469103,35.66497],"type":"Point"}
 }

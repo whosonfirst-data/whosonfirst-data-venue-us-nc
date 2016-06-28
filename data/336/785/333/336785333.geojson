@@ -2,13 +2,14 @@
   "id": 336785333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.859313,34.772029,-76.859313,34.772029",
     "geom:latitude":34.772029,
     "geom:longitude":-76.859313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Chatham St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336785333,
-    "wof:lastmodified":1448997848,
+    "wof:lastmodified":1466648663,
     "wof:name":"Newport Middle School",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.859313,34.772029,-76.859313,34.772029],
+  "bbox": [
+    -76.859313,
+    34.772029,
+    -76.859313,
+    34.772029
+],
   "geometry": {"coordinates":[-76.859313,34.772029],"type":"Point"}
 }

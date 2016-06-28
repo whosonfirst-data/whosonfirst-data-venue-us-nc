@@ -2,13 +2,14 @@
   "id": 354347371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.925409,34.721091,-76.925409,34.721091",
     "geom:latitude":34.721091,
     "geom:longitude":-76.925409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 Broad Creek Loop Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354347371,
-    "wof:lastmodified":1449066739,
+    "wof:lastmodified":1466651575,
     "wof:name":"Surf Side Electrical",
     "wof:parent_id":85850491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-76.925409,34.721091,-76.925409,34.721091],
+  "bbox": [
+    -76.925409,
+    34.721091,
+    -76.925409,
+    34.721091
+],
   "geometry": {"coordinates":[-76.925409,34.721091],"type":"Point"}
 }

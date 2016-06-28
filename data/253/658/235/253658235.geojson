@@ -2,13 +2,14 @@
   "id": 253658235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.348695,34.808468,-77.348695,34.808468",
     "geom:latitude":34.808468,
     "geom:longitude":-77.348695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3954 New Bern Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253658235,
-    "wof:lastmodified":1449062763,
+    "wof:lastmodified":1466650245,
     "wof:name":"Piney Green Electric Company",
     "wof:parent_id":85839091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.348695,34.808468,-77.348695,34.808468],
-  "geometry": {"coordinates":[-77.348695,34.808468],"type":"Point"}
+  "bbox": [
+    -77.348695,
+    34.808468,
+    -77.348695,
+    34.808468
+],
+  "geometry": {"coordinates":[-77.34869500000001,34.808468],"type":"Point"}
 }

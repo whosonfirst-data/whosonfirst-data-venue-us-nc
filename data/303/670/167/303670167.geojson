@@ -2,13 +2,14 @@
   "id": 303670167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.925363,35.984866,-78.925363,35.984866",
     "geom:latitude":35.984866,
     "geom:longitude":-78.925363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Bivins St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303670167,
-    "wof:lastmodified":1448998487,
+    "wof:lastmodified":1466652976,
     "wof:name":"House Of Care",
     "wof:parent_id":85877183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-78.925363,35.984866,-78.925363,35.984866],
+  "bbox": [
+    -78.925363,
+    35.984866,
+    -78.925363,
+    35.984866
+],
   "geometry": {"coordinates":[-78.925363,35.984866],"type":"Point"}
 }

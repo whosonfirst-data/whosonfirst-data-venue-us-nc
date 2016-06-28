@@ -2,13 +2,14 @@
   "id": 286702961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.162568,35.141503,-77.162568,35.141503",
     "geom:latitude":35.141503,
     "geom:longitude":-77.162568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Industrial Dr",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286702961,
-    "wof:lastmodified":1449016659,
+    "wof:lastmodified":1466649132,
     "wof:name":"Spherion Corporation",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.162568,35.141503,-77.162568,35.141503],
-  "geometry": {"coordinates":[-77.162568,35.141503],"type":"Point"}
+  "bbox": [
+    -77.162568,
+    35.141503,
+    -77.162568,
+    35.141503
+],
+  "geometry": {"coordinates":[-77.16256799999999,35.141503],"type":"Point"}
 }

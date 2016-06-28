@@ -2,13 +2,14 @@
   "id": 202675993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.77729,35.434899,-79.77729,35.434899",
     "geom:latitude":35.434899,
     "geom:longitude":-79.77729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Frame Shop Rd",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202675993,
-    "wof:lastmodified":1449061413,
+    "wof:lastmodified":1466643240,
     "wof:name":"Industrial Timber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-79.77729,35.434899,-79.77729,35.434899],
-  "geometry": {"coordinates":[-79.77729,35.434899],"type":"Point"}
+  "bbox": [
+    -79.77729,
+    35.434899,
+    -79.77729,
+    35.434899
+],
+  "geometry": {"coordinates":[-79.77728999999999,35.434899],"type":"Point"}
 }

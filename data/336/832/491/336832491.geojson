@@ -2,13 +2,14 @@
   "id": 336832491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.545426,35.598171,-82.545426,35.598171",
     "geom:latitude":35.598171,
     "geom:longitude":-82.545426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Executive Park",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336832491,
-    "wof:lastmodified":1448996920,
+    "wof:lastmodified":1466649366,
     "wof:name":"Standard Register Company",
     "wof:parent_id":85825097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "form"
     ]
 },
-  "bbox": [-82.545426,35.598171,-82.545426,35.598171],
-  "geometry": {"coordinates":[-82.545426,35.598171],"type":"Point"}
+  "bbox": [
+    -82.545426,
+    35.598171,
+    -82.545426,
+    35.598171
+],
+  "geometry": {"coordinates":[-82.54542600000001,35.598171],"type":"Point"}
 }

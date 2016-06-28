@@ -2,13 +2,14 @@
   "id": 303542873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.241377,36.095058,-80.241377,36.095058",
     "geom:latitude":36.095058,
     "geom:longitude":-80.241377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E 1st St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303542873,
-    "wof:lastmodified":1449000015,
+    "wof:lastmodified":1466651136,
     "wof:name":"Winston-Salem City Manager",
     "wof:parent_id":85867051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-80.241377,36.095058,-80.241377,36.095058],
+  "bbox": [
+    -80.241377,
+    36.095058,
+    -80.241377,
+    36.095058
+],
   "geometry": {"coordinates":[-80.241377,36.095058],"type":"Point"}
 }

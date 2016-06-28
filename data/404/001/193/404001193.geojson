@@ -2,13 +2,14 @@
   "id": 404001193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.972923,35.702843,-81.972923,35.702843",
     "geom:latitude":35.702843,
     "geom:longitude":-81.972923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 US Hwy 70 E",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404001193,
-    "wof:lastmodified":1449039327,
+    "wof:lastmodified":1466651322,
     "wof:name":"Boone Marble Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.972923,35.702843,-81.972923,35.702843],
-  "geometry": {"coordinates":[-81.972923,35.702843],"type":"Point"}
+  "bbox": [
+    -81.972923,
+    35.702843,
+    -81.972923,
+    35.702843
+],
+  "geometry": {"coordinates":[-81.97292299999999,35.702843],"type":"Point"}
 }

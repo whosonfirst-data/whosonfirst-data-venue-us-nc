@@ -2,13 +2,14 @@
   "id": 354015957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.653314,35.76085,-78.653314,35.76085",
     "geom:latitude":35.76085,
     "geom:longitude":-78.653314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Moring St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354015957,
-    "wof:lastmodified":1449066318,
+    "wof:lastmodified":1466647739,
     "wof:name":"David Stallings Floors",
     "wof:parent_id":85854379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.653314,35.76085,-78.653314,35.76085],
-  "geometry": {"coordinates":[-78.653314,35.76085],"type":"Point"}
+  "bbox": [
+    -78.653314,
+    35.76085,
+    -78.653314,
+    35.76085
+],
+  "geometry": {"coordinates":[-78.65331399999999,35.76085],"type":"Point"}
 }

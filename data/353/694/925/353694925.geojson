@@ -2,13 +2,14 @@
   "id": 353694925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199446,35.355277,-80.199446,35.355277",
     "geom:latitude":35.355277,
     "geom:longitude":-80.199446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 N 1st St",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353694925,
-    "wof:lastmodified":1449018985,
+    "wof:lastmodified":1466650537,
     "wof:name":"Shepherds Chapel",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.199446,35.355277,-80.199446,35.355277],
-  "geometry": {"coordinates":[-80.199446,35.355277],"type":"Point"}
+  "bbox": [
+    -80.199446,
+    35.355277,
+    -80.199446,
+    35.355277
+],
+  "geometry": {"coordinates":[-80.19944599999999,35.355277],"type":"Point"}
 }

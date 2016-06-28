@@ -2,13 +2,14 @@
   "id": 370979425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.060311,35.558219,-77.060311,35.558219",
     "geom:latitude":35.558219,
     "geom:longitude":-77.060311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Carolina Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370979425,
-    "wof:lastmodified":1449031474,
+    "wof:lastmodified":1466657314,
     "wof:name":"El-Tapatio",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-77.060311,35.558219,-77.060311,35.558219],
+  "bbox": [
+    -77.060311,
+    35.558219,
+    -77.060311,
+    35.558219
+],
   "geometry": {"coordinates":[-77.060311,35.558219],"type":"Point"}
 }

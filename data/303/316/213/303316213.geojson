@@ -2,13 +2,14 @@
   "id": 303316213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.365423,35.780788,-78.365423,35.780788",
     "geom:latitude":35.780788,
     "geom:longitude":-78.365423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 E 3rd St",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303316213,
-    "wof:lastmodified":1448999773,
+    "wof:lastmodified":1466647890,
     "wof:name":"Action Training",
     "wof:parent_id":85833417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-78.365423,35.780788,-78.365423,35.780788],
-  "geometry": {"coordinates":[-78.365423,35.780788],"type":"Point"}
+  "bbox": [
+    -78.365423,
+    35.780788,
+    -78.365423,
+    35.780788
+],
+  "geometry": {"coordinates":[-78.36542300000001,35.780788],"type":"Point"}
 }

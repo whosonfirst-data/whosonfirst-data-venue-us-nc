@@ -2,13 +2,14 @@
   "id": 270460689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.455548,35.815797,-77.455548,35.815797",
     "geom:latitude":35.815797,
     "geom:longitude":-77.455548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Railroad St",
     "sg:city":"Conetoe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270460689,
-    "wof:lastmodified":1449010979,
+    "wof:lastmodified":1466648921,
     "wof:name":"Conetoe Community Water Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-77.455548,35.815797,-77.455548,35.815797],
-  "geometry": {"coordinates":[-77.455548,35.815797],"type":"Point"}
+  "bbox": [
+    -77.455548,
+    35.815797,
+    -77.455548,
+    35.815797
+],
+  "geometry": {"coordinates":[-77.45554799999999,35.815797],"type":"Point"}
 }

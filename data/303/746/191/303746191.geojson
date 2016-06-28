@@ -2,13 +2,14 @@
   "id": 303746191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.092424,34.64812,-77.092424,34.64812",
     "geom:latitude":34.64812,
     "geom:longitude":-77.092424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Station St",
     "sg:city":"Emerald Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303746191,
-    "wof:lastmodified":1448998096,
+    "wof:lastmodified":1466654083,
     "wof:name":"US Coast Guard",
     "wof:parent_id":85843465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "security"
     ]
 },
-  "bbox": [-77.092424,34.64812,-77.092424,34.64812],
-  "geometry": {"coordinates":[-77.092424,34.64812],"type":"Point"}
+  "bbox": [
+    -77.092424,
+    34.64812,
+    -77.092424,
+    34.64812
+],
+  "geometry": {"coordinates":[-77.09242399999999,34.64812],"type":"Point"}
 }

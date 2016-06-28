@@ -2,13 +2,14 @@
   "id": 202720339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.606941,35.86064,-78.606941,35.86064",
     "geom:latitude":35.86064,
     "geom:longitude":-78.606941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Mallard Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202720339,
-    "wof:lastmodified":1449060714,
+    "wof:lastmodified":1466643572,
     "wof:name":"Unity Financial Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-78.606941,35.86064,-78.606941,35.86064],
-  "geometry": {"coordinates":[-78.606941,35.86064],"type":"Point"}
+  "bbox": [
+    -78.606941,
+    35.86064,
+    -78.606941,
+    35.86064
+],
+  "geometry": {"coordinates":[-78.60694100000001,35.86064],"type":"Point"}
 }

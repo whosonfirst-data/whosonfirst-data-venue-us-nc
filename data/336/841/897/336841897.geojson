@@ -2,13 +2,14 @@
   "id": 336841897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.84341,34.259387,-77.84341,34.259387",
     "geom:latitude":34.259387,
     "geom:longitude":-77.84341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6427 Windmill Way",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336841897,
-    "wof:lastmodified":1448997175,
+    "wof:lastmodified":1466649518,
     "wof:name":"Azalea Coast Brewing Co",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ale"
     ]
 },
-  "bbox": [-77.84341,34.259387,-77.84341,34.259387],
-  "geometry": {"coordinates":[-77.84341,34.259387],"type":"Point"}
+  "bbox": [
+    -77.84341,
+    34.259387,
+    -77.84341,
+    34.259387
+],
+  "geometry": {"coordinates":[-77.84341000000001,34.259387],"type":"Point"}
 }

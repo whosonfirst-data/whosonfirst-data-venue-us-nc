@@ -2,13 +2,14 @@
   "id": 303610091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.083442,36.306337,-79.083442,36.306337",
     "geom:latitude":36.306337,
     "geom:longitude":-79.083442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Charlie Long Rd",
     "sg:city":"Hurdle Mills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303610091,
-    "wof:lastmodified":1449000526,
+    "wof:lastmodified":1466652098,
     "wof:name":"Clayton & Hurdle Disposal Svc",
     "wof:parent_id":85823157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-79.083442,36.306337,-79.083442,36.306337],
-  "geometry": {"coordinates":[-79.083442,36.306337],"type":"Point"}
+  "bbox": [
+    -79.083442,
+    36.306337,
+    -79.083442,
+    36.306337
+],
+  "geometry": {"coordinates":[-79.08344200000001,36.306337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387370019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.570523,35.728145,-81.570523,35.728145",
     "geom:latitude":35.728145,
     "geom:longitude":-81.570523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 Temple St SW",
     "sg:city":"Valdese",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387370019,
-    "wof:lastmodified":1449058188,
+    "wof:lastmodified":1466654722,
     "wof:name":"Harvin Accounting",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "investment"
     ]
 },
-  "bbox": [-81.570523,35.728145,-81.570523,35.728145],
-  "geometry": {"coordinates":[-81.570523,35.728145],"type":"Point"}
+  "bbox": [
+    -81.570523,
+    35.728145,
+    -81.570523,
+    35.728145
+],
+  "geometry": {"coordinates":[-81.57052299999999,35.728145],"type":"Point"}
 }

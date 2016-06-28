@@ -2,13 +2,14 @@
   "id": 303408989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.92341,34.55044,-77.92341,34.55044",
     "geom:latitude":34.55044,
     "geom:longitude":-77.92341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 E Freemont St",
     "sg:city":"Burgaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303408989,
-    "wof:lastmodified":1448998422,
+    "wof:lastmodified":1466649195,
     "wof:name":"Carolina Courtroom Lawyers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-77.92341,34.55044,-77.92341,34.55044],
+  "bbox": [
+    -77.92341,
+    34.55044,
+    -77.92341,
+    34.55044
+],
   "geometry": {"coordinates":[-77.92341,34.55044],"type":"Point"}
 }

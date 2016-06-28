@@ -2,13 +2,14 @@
   "id": 403762639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.331774,36.285555,-81.331774,36.285555",
     "geom:latitude":36.285555,
     "geom:longitude":-81.331774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13681 N State Hwy 16",
     "sg:city":"Millers Creek",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403762639,
-    "wof:lastmodified":1449055557,
+    "wof:lastmodified":1466651098,
     "wof:name":"SDS Solutions",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-81.331774,36.285555,-81.331774,36.285555],
+  "bbox": [
+    -81.331774,
+    36.285555,
+    -81.331774,
+    36.285555
+],
   "geometry": {"coordinates":[-81.331774,36.285555],"type":"Point"}
 }

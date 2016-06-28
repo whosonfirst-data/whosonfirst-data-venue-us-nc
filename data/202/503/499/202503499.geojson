@@ -2,13 +2,14 @@
   "id": 202503499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.745001,35.818527,-81.745001,35.818527",
     "geom:latitude":35.818527,
     "geom:longitude":-81.745001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2275 Henderson Mill Rd",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202503499,
-    "wof:lastmodified":1449062653,
+    "wof:lastmodified":1466655010,
     "wof:name":"Clark's Nursery Of Jonas Ridge",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-81.745001,35.818527,-81.745001,35.818527],
+  "bbox": [
+    -81.745001,
+    35.818527,
+    -81.745001,
+    35.818527
+],
   "geometry": {"coordinates":[-81.745001,35.818527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286659329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.706398,35.806057,-78.706398,35.806057",
     "geom:latitude":35.806057,
     "geom:longitude":-78.706398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Blue Ridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286659329,
-    "wof:lastmodified":1449015489,
+    "wof:lastmodified":1466648559,
     "wof:name":"M P Internet Svc",
     "wof:parent_id":85892087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-78.706398,35.806057,-78.706398,35.806057],
-  "geometry": {"coordinates":[-78.706398,35.806057],"type":"Point"}
+  "bbox": [
+    -78.706398,
+    35.806057,
+    -78.706398,
+    35.806057
+],
+  "geometry": {"coordinates":[-78.70639799999999,35.806057],"type":"Point"}
 }

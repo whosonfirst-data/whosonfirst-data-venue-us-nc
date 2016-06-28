@@ -2,13 +2,14 @@
   "id": 354267101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.384347,35.599092,-77.384347,35.599092",
     "geom:latitude":35.599092,
     "geom:longitude":-77.384347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Howell St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354267101,
-    "wof:lastmodified":1449067513,
+    "wof:lastmodified":1466650618,
     "wof:name":"South Greenville Elementary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-77.384347,35.599092,-77.384347,35.599092],
-  "geometry": {"coordinates":[-77.384347,35.599092],"type":"Point"}
+  "bbox": [
+    -77.384347,
+    35.599092,
+    -77.384347,
+    35.599092
+],
+  "geometry": {"coordinates":[-77.38434700000001,35.599092],"type":"Point"}
 }

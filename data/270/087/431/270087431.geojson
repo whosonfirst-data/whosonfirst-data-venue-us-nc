@@ -2,13 +2,14 @@
   "id": 270087431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.948079,35.059681,-78.948079,35.059681",
     "geom:latitude":35.059681,
     "geom:longitude":-78.948079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 S McPherson Church Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270087431,
-    "wof:lastmodified":1449009769,
+    "wof:lastmodified":1466644225,
     "wof:name":"Cross Creek Presbt Church PCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.948079,35.059681,-78.948079,35.059681],
-  "geometry": {"coordinates":[-78.948079,35.059681],"type":"Point"}
+  "bbox": [
+    -78.948079,
+    35.059681,
+    -78.948079,
+    35.059681
+],
+  "geometry": {"coordinates":[-78.94807900000001,35.059681],"type":"Point"}
 }

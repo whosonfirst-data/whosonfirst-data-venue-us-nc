@@ -2,13 +2,14 @@
   "id": 320620801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.740141,35.238003,-82.740141,35.238003",
     "geom:latitude":35.238003,
     "geom:longitude":-82.740141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 W Probart St",
     "sg:city":"Brevard",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320620801,
-    "wof:lastmodified":1449014642,
+    "wof:lastmodified":1466654129,
     "wof:name":"Chores Inc",
     "wof:parent_id":85815335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [-82.740141,35.238003,-82.740141,35.238003],
-  "geometry": {"coordinates":[-82.740141,35.238003],"type":"Point"}
+  "bbox": [
+    -82.740141,
+    35.238003,
+    -82.740141,
+    35.238003
+],
+  "geometry": {"coordinates":[-82.74014099999999,35.238003],"type":"Point"}
 }

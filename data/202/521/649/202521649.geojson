@@ -2,13 +2,14 @@
   "id": 202521649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.539949,35.772673,-82.539949,35.772673",
     "geom:latitude":35.772673,
     "geom:longitude":-82.539949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"761 Old Mars Hill Hwy",
     "sg:city":"Weaverville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202521649,
-    "wof:lastmodified":1449062520,
+    "wof:lastmodified":1466655111,
     "wof:name":"In Livewire Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.539949,35.772673,-82.539949,35.772673],
-  "geometry": {"coordinates":[-82.539949,35.772673],"type":"Point"}
+  "bbox": [
+    -82.539949,
+    35.772673,
+    -82.539949,
+    35.772673
+],
+  "geometry": {"coordinates":[-82.53994899999999,35.772673],"type":"Point"}
 }

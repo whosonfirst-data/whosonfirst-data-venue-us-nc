@@ -2,13 +2,14 @@
   "id": 203408619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.771026,35.315893,-80.771026,35.315893",
     "geom:latitude":35.315893,
     "geom:longitude":-80.771026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 W W T Harris Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203408619,
-    "wof:lastmodified":1449025182,
+    "wof:lastmodified":1466644068,
     "wof:name":"Security Management Consulting",
     "wof:parent_id":85853167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.771026,35.315893,-80.771026,35.315893],
-  "geometry": {"coordinates":[-80.771026,35.315893],"type":"Point"}
+  "bbox": [
+    -80.771026,
+    35.315893,
+    -80.771026,
+    35.315893
+],
+  "geometry": {"coordinates":[-80.77102600000001,35.315893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386960267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.166889,35.303123,-81.166889,35.303123",
     "geom:latitude":35.303123,
     "geom:longitude":-81.166889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Robinson-Clemmer Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386960267,
-    "wof:lastmodified":1449028851,
+    "wof:lastmodified":1466649802,
     "wof:name":"Gaston Welding",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.166889,35.303123,-81.166889,35.303123],
+  "bbox": [
+    -81.166889,
+    35.303123,
+    -81.166889,
+    35.303123
+],
   "geometry": {"coordinates":[-81.166889,35.303123],"type":"Point"}
 }

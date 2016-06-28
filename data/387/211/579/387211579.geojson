@@ -2,13 +2,14 @@
   "id": 387211579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.09188,35.130342,-77.09188,35.130342",
     "geom:latitude":35.130342,
     "geom:longitude":-77.09188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 Neuse Blvd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387211579,
-    "wof:lastmodified":1449057042,
+    "wof:lastmodified":1466652650,
     "wof:name":"GDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-77.09188,35.130342,-77.09188,35.130342],
+  "bbox": [
+    -77.09188,
+    35.130342,
+    -77.09188,
+    35.130342
+],
   "geometry": {"coordinates":[-77.09188,35.130342],"type":"Point"}
 }

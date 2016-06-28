@@ -2,13 +2,14 @@
   "id": 236145189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.714041,35.786478,-78.714041,35.786478",
     "geom:latitude":35.786478,
     "geom:longitude":-78.714041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 Western Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236145189,
-    "wof:lastmodified":1449002493,
+    "wof:lastmodified":1466644509,
     "wof:name":"Western Boulevard Exxon",
     "wof:parent_id":85892127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-78.714041,35.786478,-78.714041,35.786478],
-  "geometry": {"coordinates":[-78.714041,35.786478],"type":"Point"}
+  "bbox": [
+    -78.714041,
+    35.786478,
+    -78.714041,
+    35.786478
+],
+  "geometry": {"coordinates":[-78.71404099999999,35.786478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370798225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.527443,35.915591,-78.527443,35.915591",
     "geom:latitude":35.915591,
     "geom:longitude":-78.527443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 Countryman Ct",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370798225,
-    "wof:lastmodified":1449029723,
+    "wof:lastmodified":1466656150,
     "wof:name":"Amazing Tire Swings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.527443,35.915591,-78.527443,35.915591],
-  "geometry": {"coordinates":[-78.527443,35.915591],"type":"Point"}
+  "bbox": [
+    -78.527443,
+    35.915591,
+    -78.527443,
+    35.915591
+],
+  "geometry": {"coordinates":[-78.52744300000001,35.915591],"type":"Point"}
 }

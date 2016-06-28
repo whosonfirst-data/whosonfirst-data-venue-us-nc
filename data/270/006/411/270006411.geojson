@@ -2,13 +2,14 @@
   "id": 270006411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.558254,35.857264,-79.558254,35.857264",
     "geom:latitude":35.857264,
     "geom:longitude":-79.558254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7187 Highfill St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270006411,
-    "wof:lastmodified":1449010580,
+    "wof:lastmodified":1466643284,
     "wof:name":"Liberty Waste Water Treatment",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "city"
     ]
 },
-  "bbox": [-79.558254,35.857264,-79.558254,35.857264],
-  "geometry": {"coordinates":[-79.558254,35.857264],"type":"Point"}
+  "bbox": [
+    -79.558254,
+    35.857264,
+    -79.558254,
+    35.857264
+],
+  "geometry": {"coordinates":[-79.55825400000001,35.857264],"type":"Point"}
 }

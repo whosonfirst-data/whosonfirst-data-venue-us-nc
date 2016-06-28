@@ -2,13 +2,14 @@
   "id": 236226653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.472901,36.189918,-76.472901,36.189918",
     "geom:latitude":36.189918,
     "geom:longitude":-76.472901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 W Grubb St",
     "sg:city":"Hertford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236226653,
-    "wof:lastmodified":1449004152,
+    "wof:lastmodified":1466645244,
     "wof:name":"Hertford Public Works Dept",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-76.472901,36.189918,-76.472901,36.189918],
-  "geometry": {"coordinates":[-76.472901,36.189918],"type":"Point"}
+  "bbox": [
+    -76.472901,
+    36.189918,
+    -76.472901,
+    36.189918
+],
+  "geometry": {"coordinates":[-76.47290099999999,36.189918],"type":"Point"}
 }

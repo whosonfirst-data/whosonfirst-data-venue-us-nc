@@ -2,13 +2,14 @@
   "id": 303906889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.430446,35.956362,-78.430446,35.956362",
     "geom:latitude":35.956362,
     "geom:longitude":-78.430446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7324 Zebulon Rd",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303906889,
-    "wof:lastmodified":1448999045,
+    "wof:lastmodified":1466656035,
     "wof:name":"John's Garage",
     "wof:parent_id":85892195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-78.430446,35.956362,-78.430446,35.956362],
+  "bbox": [
+    -78.430446,
+    35.956362,
+    -78.430446,
+    35.956362
+],
   "geometry": {"coordinates":[-78.430446,35.956362],"type":"Point"}
 }

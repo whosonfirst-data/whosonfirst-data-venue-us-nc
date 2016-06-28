@@ -2,13 +2,14 @@
   "id": 370199769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.698327,34.645323,-78.698327,34.645323",
     "geom:latitude":34.645323,
     "geom:longitude":-78.698327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5409 State Hwy 87 W",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370199769,
-    "wof:lastmodified":1449029436,
+    "wof:lastmodified":1466648766,
     "wof:name":"Eme Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.698327,34.645323,-78.698327,34.645323],
-  "geometry": {"coordinates":[-78.698327,34.645323],"type":"Point"}
+  "bbox": [
+    -78.698327,
+    34.645323,
+    -78.698327,
+    34.645323
+],
+  "geometry": {"coordinates":[-78.69832700000001,34.645323],"type":"Point"}
 }

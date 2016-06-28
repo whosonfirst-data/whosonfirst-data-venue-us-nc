@@ -2,13 +2,14 @@
   "id": 286944515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.901299,35.849897,-79.901299,35.849897",
     "geom:latitude":35.849897,
     "geom:longitude":-79.901299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4961 Edgar Rd",
     "sg:city":"Sophia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286944515,
-    "wof:lastmodified":1449016660,
+    "wof:lastmodified":1466652435,
     "wof:name":"TLH Custom Cabinets & Gnrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-79.901299,35.849897,-79.901299,35.849897],
-  "geometry": {"coordinates":[-79.901299,35.849897],"type":"Point"}
+  "bbox": [
+    -79.901299,
+    35.849897,
+    -79.901299,
+    35.849897
+],
+  "geometry": {"coordinates":[-79.90129899999999,35.849897],"type":"Point"}
 }

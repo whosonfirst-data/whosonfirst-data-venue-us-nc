@@ -2,13 +2,14 @@
   "id": 286984537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.601261,35.842198,-78.601261,35.842198",
     "geom:latitude":35.842198,
     "geom:longitude":-78.601261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Atlantic Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286984537,
-    "wof:lastmodified":1449016850,
+    "wof:lastmodified":1466652993,
     "wof:name":"International Precision",
     "wof:parent_id":85867049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "metal"
     ]
 },
-  "bbox": [-78.601261,35.842198,-78.601261,35.842198],
-  "geometry": {"coordinates":[-78.601261,35.842198],"type":"Point"}
+  "bbox": [
+    -78.601261,
+    35.842198,
+    -78.601261,
+    35.842198
+],
+  "geometry": {"coordinates":[-78.60126099999999,35.842198],"type":"Point"}
 }

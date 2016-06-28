@@ -2,13 +2,14 @@
   "id": 303297281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.905517,35.991318,-78.905517,35.991318",
     "geom:latitude":35.991318,
     "geom:longitude":-78.905517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Blackwell St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303297281,
-    "wof:lastmodified":1448999675,
+    "wof:lastmodified":1466647631,
     "wof:name":"USA Baseball",
     "wof:parent_id":85877123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "baseball"
     ]
 },
-  "bbox": [-78.905517,35.991318,-78.905517,35.991318],
+  "bbox": [
+    -78.905517,
+    35.991318,
+    -78.905517,
+    35.991318
+],
   "geometry": {"coordinates":[-78.905517,35.991318],"type":"Point"}
 }

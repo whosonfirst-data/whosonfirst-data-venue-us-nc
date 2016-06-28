@@ -2,13 +2,14 @@
   "id": 286770211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.668855,35.898562,-75.668855,35.898562",
     "geom:latitude":35.898562,
     "geom:longitude":-75.668855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 US Hwy 264",
     "sg:city":"Manteo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286770211,
-    "wof:lastmodified":1449018139,
+    "wof:lastmodified":1466650053,
     "wof:name":"Coastal Living Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.668855,35.898562,-75.668855,35.898562],
-  "geometry": {"coordinates":[-75.668855,35.898562],"type":"Point"}
+  "bbox": [
+    -75.668855,
+    35.898562,
+    -75.668855,
+    35.898562
+],
+  "geometry": {"coordinates":[-75.66885499999999,35.898562],"type":"Point"}
 }

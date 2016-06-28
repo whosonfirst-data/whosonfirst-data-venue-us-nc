@@ -2,13 +2,14 @@
   "id": 270074733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.606333,35.753927,-78.606333,35.753927",
     "geom:latitude":35.753927,
     "geom:longitude":-78.606333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Atkins Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270074733,
-    "wof:lastmodified":1449009960,
+    "wof:lastmodified":1466644078,
     "wof:name":"Fine Blade Lawn Care",
     "wof:parent_id":85850267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-78.606333,35.753927,-78.606333,35.753927],
-  "geometry": {"coordinates":[-78.606333,35.753927],"type":"Point"}
+  "bbox": [
+    -78.606333,
+    35.753927,
+    -78.606333,
+    35.753927
+],
+  "geometry": {"coordinates":[-78.60633300000001,35.753927],"type":"Point"}
 }

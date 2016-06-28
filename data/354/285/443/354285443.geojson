@@ -2,13 +2,14 @@
   "id": 354285443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.664904,34.718167,-76.664904,34.718167",
     "geom:latitude":34.718167,
     "geom:longitude":-76.664904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Turner St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354285443,
-    "wof:lastmodified":1449065988,
+    "wof:lastmodified":1466650830,
     "wof:name":"Beaufort Historical Assoc",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "thrift"
     ]
 },
-  "bbox": [-76.664904,34.718167,-76.664904,34.718167],
-  "geometry": {"coordinates":[-76.664904,34.718167],"type":"Point"}
+  "bbox": [
+    -76.664904,
+    34.718167,
+    -76.664904,
+    34.718167
+],
+  "geometry": {"coordinates":[-76.66490400000001,34.718167],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387121129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.439825,36.434211,-81.439825,36.434211",
     "geom:latitude":36.434211,
     "geom:longitude":-81.439825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2648 US Hwy 221 N",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387121129,
-    "wof:lastmodified":1449059078,
+    "wof:lastmodified":1466651425,
     "wof:name":"Bare Electric Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.439825,36.434211,-81.439825,36.434211],
+  "bbox": [
+    -81.439825,
+    36.434211,
+    -81.439825,
+    36.434211
+],
   "geometry": {"coordinates":[-81.439825,36.434211],"type":"Point"}
 }

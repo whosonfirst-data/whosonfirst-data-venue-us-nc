@@ -2,13 +2,14 @@
   "id": 353494559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.280436,35.30833,-79.280436,35.30833",
     "geom:latitude":35.30833,
     "geom:longitude":-79.280436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Dalrymple Rd",
     "sg:city":"Cameron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353494559,
-    "wof:lastmodified":1449020526,
+    "wof:lastmodified":1466648093,
     "wof:name":"H-Mack Transport Truckng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.280436,35.30833,-79.280436,35.30833],
-  "geometry": {"coordinates":[-79.280436,35.30833],"type":"Point"}
+  "bbox": [
+    -79.280436,
+    35.30833,
+    -79.280436,
+    35.30833
+],
+  "geometry": {"coordinates":[-79.28043599999999,35.30833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270001945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.809368,36.083848,-79.809368,36.083848",
     "geom:latitude":36.083848,
     "geom:longitude":-79.809368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Cardinal Pl",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270001945,
-    "wof:lastmodified":1449009179,
+    "wof:lastmodified":1466643229,
     "wof:name":"First Impressions Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-79.809368,36.083848,-79.809368,36.083848],
-  "geometry": {"coordinates":[-79.809368,36.083848],"type":"Point"}
+  "bbox": [
+    -79.809368,
+    36.083848,
+    -79.809368,
+    36.083848
+],
+  "geometry": {"coordinates":[-79.80936800000001,36.083848],"type":"Point"}
 }

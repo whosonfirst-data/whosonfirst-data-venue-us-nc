@@ -2,13 +2,14 @@
   "id": 253612211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.808546,35.754889,-78.808546,35.754889",
     "geom:latitude":35.754889,
     "geom:longitude":-78.808546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 SW Cary Pkwy",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253612211,
-    "wof:lastmodified":1449064136,
+    "wof:lastmodified":1466649726,
     "wof:name":"Rex Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.808546,35.754889,-78.808546,35.754889],
-  "geometry": {"coordinates":[-78.808546,35.754889],"type":"Point"}
+  "bbox": [
+    -78.808546,
+    35.754889,
+    -78.808546,
+    35.754889
+],
+  "geometry": {"coordinates":[-78.80854600000001,35.754889],"type":"Point"}
 }

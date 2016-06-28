@@ -2,13 +2,14 @@
   "id": 253089879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.621543,35.870151,-78.621543,35.870151",
     "geom:latitude":35.870151,
     "geom:longitude":-78.621543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 Falls of Neuse Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253089879,
-    "wof:lastmodified":1449063411,
+    "wof:lastmodified":1466643972,
     "wof:name":"Cook Out",
     "wof:parent_id":85854183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.621543,35.870151,-78.621543,35.870151],
+  "bbox": [
+    -78.621543,
+    35.870151,
+    -78.621543,
+    35.870151
+],
   "geometry": {"coordinates":[-78.621543,35.870151],"type":"Point"}
 }

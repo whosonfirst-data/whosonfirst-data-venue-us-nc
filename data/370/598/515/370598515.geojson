@@ -2,13 +2,14 @@
   "id": 370598515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.654021,35.809218,-78.654021,35.809218",
     "geom:latitude":35.809218,
     "geom:longitude":-78.654021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2518 Fairview Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370598515,
-    "wof:lastmodified":1449029256,
+    "wof:lastmodified":1466653862,
     "wof:name":"Country Club Homes",
     "wof:parent_id":85812499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-78.654021,35.809218,-78.654021,35.809218],
+  "bbox": [
+    -78.654021,
+    35.809218,
+    -78.654021,
+    35.809218
+],
   "geometry": {"coordinates":[-78.654021,35.809218],"type":"Point"}
 }

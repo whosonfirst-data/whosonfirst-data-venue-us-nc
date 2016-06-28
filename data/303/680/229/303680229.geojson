@@ -2,13 +2,14 @@
   "id": 303680229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.790973,34.737979,-76.790973,34.737979",
     "geom:latitude":34.737979,
     "geom:longitude":-76.790973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Riggs Rd",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303680229,
-    "wof:lastmodified":1448999833,
+    "wof:lastmodified":1466653128,
     "wof:name":"Outback Marine",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.790973,34.737979,-76.790973,34.737979],
-  "geometry": {"coordinates":[-76.790973,34.737979],"type":"Point"}
+  "bbox": [
+    -76.790973,
+    34.737979,
+    -76.790973,
+    34.737979
+],
+  "geometry": {"coordinates":[-76.79097299999999,34.737979],"type":"Point"}
 }

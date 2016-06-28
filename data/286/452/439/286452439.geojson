@@ -2,13 +2,14 @@
   "id": 286452439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.502867,36.067704,-79.502867,36.067704",
     "geom:latitude":36.067704,
     "geom:longitude":-79.502867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3141 Wilson Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":286452439,
-    "wof:lastmodified":1449015854,
+    "wof:lastmodified":1466645699,
     "wof:name":"Courtyard-Burlington",
     "wof:parent_id":85857181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.502867,36.067704,-79.502867,36.067704],
-  "geometry": {"coordinates":[-79.502867,36.067704],"type":"Point"}
+  "bbox": [
+    -79.502867,
+    36.067704,
+    -79.502867,
+    36.067704
+],
+  "geometry": {"coordinates":[-79.50286699999999,36.067704],"type":"Point"}
 }

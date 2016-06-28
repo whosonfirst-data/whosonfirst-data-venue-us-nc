@@ -2,13 +2,14 @@
   "id": 404119401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.448455,34.961914,-78.448455,34.961914",
     "geom:latitude":34.961914,
     "geom:longitude":-78.448455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7505 Roseboro Hwy",
     "sg:city":"Roseboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404119401,
-    "wof:lastmodified":1449039981,
+    "wof:lastmodified":1466652785,
     "wof:name":"First Tee Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.448455,34.961914,-78.448455,34.961914],
+  "bbox": [
+    -78.448455,
+    34.961914,
+    -78.448455,
+    34.961914
+],
   "geometry": {"coordinates":[-78.448455,34.961914],"type":"Point"}
 }

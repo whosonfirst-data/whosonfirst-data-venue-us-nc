@@ -2,13 +2,14 @@
   "id": 387071293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.387048,34.74402,-77.387048,34.74402",
     "geom:latitude":34.74402,
     "geom:longitude":-77.387048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1639 Lejeune Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387071293,
-    "wof:lastmodified":1449058500,
+    "wof:lastmodified":1466650783,
     "wof:name":"Todd's Auto Inc II",
     "wof:parent_id":85808245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.387048,34.74402,-77.387048,34.74402],
-  "geometry": {"coordinates":[-77.387048,34.74402],"type":"Point"}
+  "bbox": [
+    -77.387048,
+    34.74402,
+    -77.387048,
+    34.74402
+],
+  "geometry": {"coordinates":[-77.38704799999999,34.74402],"type":"Point"}
 }

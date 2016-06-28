@@ -2,13 +2,14 @@
   "id": 202622311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.063212,33.909608,-78.063212,33.909608",
     "geom:latitude":33.909608,
     "geom:longitude":-78.063212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Alyssum Ave",
     "sg:city":"Oak Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202622311,
-    "wof:lastmodified":1449062207,
+    "wof:lastmodified":1466655592,
     "wof:name":"Building Concepts Unlimited",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.063212,33.909608,-78.063212,33.909608],
-  "geometry": {"coordinates":[-78.063212,33.909608],"type":"Point"}
+  "bbox": [
+    -78.063212,
+    33.909608,
+    -78.063212,
+    33.909608
+],
+  "geometry": {"coordinates":[-78.06321199999999,33.909608],"type":"Point"}
 }

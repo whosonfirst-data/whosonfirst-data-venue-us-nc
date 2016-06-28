@@ -2,13 +2,14 @@
   "id": 353600551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.851148,35.806592,-78.851148,35.806592",
     "geom:latitude":35.806592,
     "geom:longitude":-78.851148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Hardenbrook Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353600551,
-    "wof:lastmodified":1449018493,
+    "wof:lastmodified":1466649431,
     "wof:name":"Tristar Management",
     "wof:parent_id":85843101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.851148,35.806592,-78.851148,35.806592],
-  "geometry": {"coordinates":[-78.851148,35.806592],"type":"Point"}
+  "bbox": [
+    -78.851148,
+    35.806592,
+    -78.851148,
+    35.806592
+],
+  "geometry": {"coordinates":[-78.85114799999999,35.806592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387045429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.373348,34.757979,-77.373348,34.757979",
     "geom:latitude":34.757979,
     "geom:longitude":-77.373348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Sierra Pl",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387045429,
-    "wof:lastmodified":1449059473,
+    "wof:lastmodified":1466650448,
     "wof:name":"Dreamscape Photography",
     "wof:parent_id":85812495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-77.373348,34.757979,-77.373348,34.757979],
-  "geometry": {"coordinates":[-77.373348,34.757979],"type":"Point"}
+  "bbox": [
+    -77.373348,
+    34.757979,
+    -77.373348,
+    34.757979
+],
+  "geometry": {"coordinates":[-77.37334799999999,34.757979],"type":"Point"}
 }

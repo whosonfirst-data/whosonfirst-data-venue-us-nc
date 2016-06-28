@@ -2,13 +2,14 @@
   "id": 253078581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.883012,35.054067,-78.883012,35.054067",
     "geom:latitude":35.054067,
     "geom:longitude":-78.883012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 Hay St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253078581,
-    "wof:lastmodified":1449065308,
+    "wof:lastmodified":1466643875,
     "wof:name":"Massey Hill Rec Ctr",
     "wof:parent_id":85877377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-78.883012,35.054067,-78.883012,35.054067],
-  "geometry": {"coordinates":[-78.883012,35.054067],"type":"Point"}
+  "bbox": [
+    -78.883012,
+    35.054067,
+    -78.883012,
+    35.054067
+],
+  "geometry": {"coordinates":[-78.88301199999999,35.054067],"type":"Point"}
 }

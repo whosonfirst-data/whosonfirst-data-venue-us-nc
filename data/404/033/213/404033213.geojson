@@ -2,13 +2,14 @@
   "id": 404033213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.769191,35.121622,-80.769191,35.121622",
     "geom:latitude":35.121622,
     "geom:longitude":-80.769191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7124 Colleton Pl",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404033213,
-    "wof:lastmodified":1449039305,
+    "wof:lastmodified":1466651726,
     "wof:name":"Active Intermediation",
     "wof:parent_id":85812549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-80.769191,35.121622,-80.769191,35.121622],
-  "geometry": {"coordinates":[-80.769191,35.121622],"type":"Point"}
+  "bbox": [
+    -80.769191,
+    35.121622,
+    -80.769191,
+    35.121622
+],
+  "geometry": {"coordinates":[-80.76919100000001,35.121622],"type":"Point"}
 }

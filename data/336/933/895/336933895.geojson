@@ -2,13 +2,14 @@
   "id": 336933895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.499249,35.988486,-78.499249,35.988486",
     "geom:latitude":35.988486,
     "geom:longitude":-78.499249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 N White St",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336933895,
-    "wof:lastmodified":1448997169,
+    "wof:lastmodified":1466650932,
     "wof:name":"Carolina Chimney",
     "wof:parent_id":85892181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chimney"
     ]
 },
-  "bbox": [-78.499249,35.988486,-78.499249,35.988486],
-  "geometry": {"coordinates":[-78.499249,35.988486],"type":"Point"}
+  "bbox": [
+    -78.499249,
+    35.988486,
+    -78.499249,
+    35.988486
+],
+  "geometry": {"coordinates":[-78.49924900000001,35.988486],"type":"Point"}
 }

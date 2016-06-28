@@ -2,13 +2,14 @@
   "id": 404080103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943014,35.043851,-78.943014,35.043851",
     "geom:latitude":35.043851,
     "geom:longitude":-78.943014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 Raeford Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404080103,
-    "wof:lastmodified":1449040301,
+    "wof:lastmodified":1466652300,
     "wof:name":"American Paint & Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-78.943014,35.043851,-78.943014,35.043851],
-  "geometry": {"coordinates":[-78.943014,35.043851],"type":"Point"}
+  "bbox": [
+    -78.943014,
+    35.043851,
+    -78.943014,
+    35.043851
+],
+  "geometry": {"coordinates":[-78.94301400000001,35.043851],"type":"Point"}
 }

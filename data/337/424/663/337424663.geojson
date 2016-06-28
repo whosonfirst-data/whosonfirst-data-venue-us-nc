@@ -2,13 +2,14 @@
   "id": 337424663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.326833,35.670355,-77.326833,35.670355",
     "geom:latitude":35.670355,
     "geom:longitude":-77.326833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4832 Whichard Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337424663,
-    "wof:lastmodified":1449027689,
+    "wof:lastmodified":1466646935,
     "wof:name":"Genetic Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "material"
     ]
 },
-  "bbox": [-77.326833,35.670355,-77.326833,35.670355],
-  "geometry": {"coordinates":[-77.326833,35.670355],"type":"Point"}
+  "bbox": [
+    -77.326833,
+    35.670355,
+    -77.326833,
+    35.670355
+],
+  "geometry": {"coordinates":[-77.32683299999999,35.670355],"type":"Point"}
 }

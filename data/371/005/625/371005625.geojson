@@ -2,13 +2,14 @@
   "id": 371005625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.995556,36.398973,-78.995556,36.398973",
     "geom:latitude":36.398973,
     "geom:longitude":-78.995556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Long Ave",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371005625,
-    "wof:lastmodified":1449050062,
+    "wof:lastmodified":1466648911,
     "wof:name":"Tutoring",
     "wof:parent_id":85829253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.995556,36.398973,-78.995556,36.398973],
-  "geometry": {"coordinates":[-78.995556,36.398973],"type":"Point"}
+  "bbox": [
+    -78.995556,
+    36.398973,
+    -78.995556,
+    36.398973
+],
+  "geometry": {"coordinates":[-78.99555599999999,36.398973],"type":"Point"}
 }

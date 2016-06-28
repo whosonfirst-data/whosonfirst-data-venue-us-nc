@@ -2,13 +2,14 @@
   "id": 236639569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.937559,34.940143,-78.937559,34.940143",
     "geom:latitude":34.940143,
     "geom:longitude":-78.937559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Woodington Rd",
     "sg:city":"Hope Mills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236639569,
-    "wof:lastmodified":1449005233,
+    "wof:lastmodified":1466648901,
     "wof:name":"SAIA Motor Freight Line Inc",
     "wof:parent_id":85811403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-78.937559,34.940143,-78.937559,34.940143],
-  "geometry": {"coordinates":[-78.937559,34.940143],"type":"Point"}
+  "bbox": [
+    -78.937559,
+    34.940143,
+    -78.937559,
+    34.940143
+],
+  "geometry": {"coordinates":[-78.93755899999999,34.940143],"type":"Point"}
 }

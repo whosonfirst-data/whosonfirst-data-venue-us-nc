@@ -2,13 +2,14 @@
   "id": 387620133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.850057,35.709148,-81.850057,35.709148",
     "geom:latitude":35.709148,
     "geom:longitude":-81.850057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2665 US Hwy 70 W",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387620133,
-    "wof:lastmodified":1449059589,
+    "wof:lastmodified":1466657114,
     "wof:name":"Bresco Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "control"
     ]
 },
-  "bbox": [-81.850057,35.709148,-81.850057,35.709148],
-  "geometry": {"coordinates":[-81.850057,35.709148],"type":"Point"}
+  "bbox": [
+    -81.850057,
+    35.709148,
+    -81.850057,
+    35.709148
+],
+  "geometry": {"coordinates":[-81.85005700000001,35.709148],"type":"Point"}
 }

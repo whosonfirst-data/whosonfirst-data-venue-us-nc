@@ -2,13 +2,14 @@
   "id": 403702113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.251139,35.457044,-81.251139,35.457044",
     "geom:latitude":35.457044,
     "geom:longitude":-81.251139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Policarp St",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403702113,
-    "wof:lastmodified":1449055302,
+    "wof:lastmodified":1466650324,
     "wof:name":"Lincoln County Government",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [-81.251139,35.457044,-81.251139,35.457044],
-  "geometry": {"coordinates":[-81.251139,35.457044],"type":"Point"}
+  "bbox": [
+    -81.251139,
+    35.457044,
+    -81.251139,
+    35.457044
+],
+  "geometry": {"coordinates":[-81.25113899999999,35.457044],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253363307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.607925,36.061924,-76.607925,36.061924",
     "geom:latitude":36.061924,
     "geom:longitude":-76.607925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Broad St",
     "sg:city":"Edenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253363307,
-    "wof:lastmodified":1449065413,
+    "wof:lastmodified":1466646728,
     "wof:name":"Historic Edenton St Historic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.607925,36.061924,-76.607925,36.061924],
-  "geometry": {"coordinates":[-76.607925,36.061924],"type":"Point"}
+  "bbox": [
+    -76.607925,
+    36.061924,
+    -76.607925,
+    36.061924
+],
+  "geometry": {"coordinates":[-76.60792499999999,36.061924],"type":"Point"}
 }

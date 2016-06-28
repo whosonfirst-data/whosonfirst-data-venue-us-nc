@@ -2,13 +2,14 @@
   "id": 252956087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.053092,35.914241,-79.053092,35.914241",
     "geom:latitude":35.914241,
     "geom:longitude":-79.053092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 E Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252956087,
-    "wof:lastmodified":1449005595,
+    "wof:lastmodified":1466645457,
     "wof:name":"Woodys",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.053092,35.914241,-79.053092,35.914241],
-  "geometry": {"coordinates":[-79.053092,35.914241],"type":"Point"}
+  "bbox": [
+    -79.053092,
+    35.914241,
+    -79.053092,
+    35.914241
+],
+  "geometry": {"coordinates":[-79.05309200000001,35.914241],"type":"Point"}
 }

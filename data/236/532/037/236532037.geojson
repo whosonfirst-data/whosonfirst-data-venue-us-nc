@@ -2,13 +2,14 @@
   "id": 236532037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.950634,34.201646,-77.950634,34.201646",
     "geom:latitude":34.201646,
     "geom:longitude":-77.950634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2066 Burnett Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236532037,
-    "wof:lastmodified":1449002620,
+    "wof:lastmodified":1466647896,
     "wof:name":"Modern Heating & Cooling",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.950634,34.201646,-77.950634,34.201646],
-  "geometry": {"coordinates":[-77.950634,34.201646],"type":"Point"}
+  "bbox": [
+    -77.950634,
+    34.201646,
+    -77.950634,
+    34.201646
+],
+  "geometry": {"coordinates":[-77.95063399999999,34.201646],"type":"Point"}
 }

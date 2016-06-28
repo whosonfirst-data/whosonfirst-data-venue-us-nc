@@ -2,13 +2,14 @@
   "id": 353906243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.859434,36.312444,-80.859434,36.312444",
     "geom:latitude":36.312444,
     "geom:longitude":-80.859434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 US Hwy 21",
     "sg:city":"State Road",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353906243,
-    "wof:lastmodified":1449019229,
+    "wof:lastmodified":1466652979,
     "wof:name":"State Road Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.859434,36.312444,-80.859434,36.312444],
-  "geometry": {"coordinates":[-80.859434,36.312444],"type":"Point"}
+  "bbox": [
+    -80.859434,
+    36.312444,
+    -80.859434,
+    36.312444
+],
+  "geometry": {"coordinates":[-80.85943399999999,36.312444],"type":"Point"}
 }

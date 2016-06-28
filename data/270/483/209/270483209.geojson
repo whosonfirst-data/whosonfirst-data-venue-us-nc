@@ -2,13 +2,14 @@
   "id": 270483209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.813402,35.500486,-78.813402,35.500486",
     "geom:latitude":35.500486,
     "geom:longitude":-78.813402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8594 US Hwy 401 N",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270483209,
-    "wof:lastmodified":1449010543,
+    "wof:lastmodified":1466649209,
     "wof:name":"RWE & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.813402,35.500486,-78.813402,35.500486],
+  "bbox": [
+    -78.813402,
+    35.500486,
+    -78.813402,
+    35.500486
+],
   "geometry": {"coordinates":[-78.813402,35.500486],"type":"Point"}
 }

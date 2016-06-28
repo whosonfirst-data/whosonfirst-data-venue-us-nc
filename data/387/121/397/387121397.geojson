@@ -2,13 +2,14 @@
   "id": 387121397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.513264,35.510552,-78.513264,35.510552",
     "geom:latitude":35.510552,
     "geom:longitude":-78.513264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9568 State Hwy 210",
     "sg:city":"Four Oaks",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387121397,
-    "wof:lastmodified":1449059078,
+    "wof:lastmodified":1466651429,
     "wof:name":"Westlake Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "real estate"
     ]
 },
-  "bbox": [-78.513264,35.510552,-78.513264,35.510552],
-  "geometry": {"coordinates":[-78.513264,35.510552],"type":"Point"}
+  "bbox": [
+    -78.513264,
+    35.510552,
+    -78.513264,
+    35.510552
+],
+  "geometry": {"coordinates":[-78.51326400000001,35.510552],"type":"Point"}
 }

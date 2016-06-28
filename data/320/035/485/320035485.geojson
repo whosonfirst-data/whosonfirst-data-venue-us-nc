@@ -2,13 +2,14 @@
   "id": 320035485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.413466,34.782982,-77.413466,34.782982",
     "geom:latitude":34.782982,
     "geom:longitude":-77.413466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Ashley Pl",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320035485,
-    "wof:lastmodified":1449014249,
+    "wof:lastmodified":1466645836,
     "wof:name":"Locating Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "locating"
     ]
 },
-  "bbox": [-77.413466,34.782982,-77.413466,34.782982],
+  "bbox": [
+    -77.413466,
+    34.782982,
+    -77.413466,
+    34.782982
+],
   "geometry": {"coordinates":[-77.413466,34.782982],"type":"Point"}
 }

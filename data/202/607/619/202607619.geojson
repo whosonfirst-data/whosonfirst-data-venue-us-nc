@@ -2,13 +2,14 @@
   "id": 202607619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.598683,36.401377,-77.598683,36.401377",
     "geom:latitude":36.401377,
     "geom:longitude":-77.598683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 US Hwy 301",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202607619,
-    "wof:lastmodified":1449060439,
+    "wof:lastmodified":1466655547,
     "wof:name":"Waste Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-77.598683,36.401377,-77.598683,36.401377],
-  "geometry": {"coordinates":[-77.598683,36.401377],"type":"Point"}
+  "bbox": [
+    -77.598683,
+    36.401377,
+    -77.598683,
+    36.401377
+],
+  "geometry": {"coordinates":[-77.59868299999999,36.401377],"type":"Point"}
 }

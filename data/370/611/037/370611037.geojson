@@ -2,13 +2,14 @@
   "id": 370611037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.000117,34.649708,-79.000117,34.649708",
     "geom:latitude":34.649708,
     "geom:longitude":-79.000117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4246 Fayetteville Rd",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370611037,
-    "wof:lastmodified":1449031768,
+    "wof:lastmodified":1466654019,
     "wof:name":"Edward Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-79.000117,34.649708,-79.000117,34.649708],
+  "bbox": [
+    -79.000117,
+    34.649708,
+    -79.000117,
+    34.649708
+],
   "geometry": {"coordinates":[-79.000117,34.649708],"type":"Point"}
 }

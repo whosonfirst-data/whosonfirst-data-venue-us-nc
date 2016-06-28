@@ -2,13 +2,14 @@
   "id": 370820609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.582587,35.590655,-82.582587,35.590655",
     "geom:latitude":35.590655,
     "geom:longitude":-82.582587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Regent Park Blvd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370820609,
-    "wof:lastmodified":1449030829,
+    "wof:lastmodified":1466656465,
     "wof:name":"Verizon",
     "wof:parent_id":85824401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-82.582587,35.590655,-82.582587,35.590655],
+  "bbox": [
+    -82.582587,
+    35.590655,
+    -82.582587,
+    35.590655
+],
   "geometry": {"coordinates":[-82.582587,35.590655],"type":"Point"}
 }

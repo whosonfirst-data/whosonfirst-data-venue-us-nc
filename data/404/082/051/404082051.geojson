@@ -2,13 +2,14 @@
   "id": 404082051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.989867,35.90959,-78.989867,35.90959",
     "geom:latitude":35.90959,
     "geom:longitude":-78.989867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 Nelson Hwy",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404082051,
-    "wof:lastmodified":1449039112,
+    "wof:lastmodified":1466652325,
     "wof:name":"Norman R Tingen Builder",
     "wof:parent_id":85818839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.989867,35.90959,-78.989867,35.90959],
+  "bbox": [
+    -78.989867,
+    35.90959,
+    -78.989867,
+    35.90959
+],
   "geometry": {"coordinates":[-78.989867,35.90959],"type":"Point"}
 }

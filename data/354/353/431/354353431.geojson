@@ -2,13 +2,14 @@
   "id": 354353431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.457993,34.800363,-77.457993,34.800363",
     "geom:latitude":34.800363,
     "geom:longitude":-77.457993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Parkway Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354353431,
-    "wof:lastmodified":1449066389,
+    "wof:lastmodified":1466651639,
     "wof:name":"Paragon Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-77.457993,34.800363,-77.457993,34.800363],
+  "bbox": [
+    -77.457993,
+    34.800363,
+    -77.457993,
+    34.800363
+],
   "geometry": {"coordinates":[-77.457993,34.800363],"type":"Point"}
 }

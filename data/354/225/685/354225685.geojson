@@ -2,13 +2,14 @@
   "id": 354225685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.799158,35.415843,-78.799158,35.415843",
     "geom:latitude":35.415843,
     "geom:longitude":-78.799158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Cornelius Harnett Blvd",
     "sg:city":"Lillington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354225685,
-    "wof:lastmodified":1449066440,
+    "wof:lastmodified":1466650170,
     "wof:name":"State Employees Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.799158,35.415843,-78.799158,35.415843],
-  "geometry": {"coordinates":[-78.799158,35.415843],"type":"Point"}
+  "bbox": [
+    -78.799158,
+    35.415843,
+    -78.799158,
+    35.415843
+],
+  "geometry": {"coordinates":[-78.79915800000001,35.415843],"type":"Point"}
 }

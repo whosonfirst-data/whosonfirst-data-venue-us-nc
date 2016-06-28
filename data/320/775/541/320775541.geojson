@@ -2,13 +2,14 @@
   "id": 320775541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.925835,35.071926,-78.925835,35.071926",
     "geom:latitude":35.071926,
     "geom:longitude":-78.925835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 Fort Bragg Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320775541,
-    "wof:lastmodified":1449014015,
+    "wof:lastmodified":1466656321,
     "wof:name":"SAPF",
     "wof:parent_id":85818301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.925835,35.071926,-78.925835,35.071926],
-  "geometry": {"coordinates":[-78.925835,35.071926],"type":"Point"}
+  "bbox": [
+    -78.925835,
+    35.071926,
+    -78.925835,
+    35.071926
+],
+  "geometry": {"coordinates":[-78.92583500000001,35.071926],"type":"Point"}
 }

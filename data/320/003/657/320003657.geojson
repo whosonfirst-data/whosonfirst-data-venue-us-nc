@@ -2,13 +2,14 @@
   "id": 320003657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.731178,35.761611,-78.731178,35.761611",
     "geom:latitude":35.761611,
     "geom:longitude":-78.731178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5565 Centerview Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320003657,
-    "wof:lastmodified":1449014669,
+    "wof:lastmodified":1466645422,
     "wof:name":"Ctg",
     "wof:parent_id":85854885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-78.731178,35.761611,-78.731178,35.761611],
+  "bbox": [
+    -78.731178,
+    35.761611,
+    -78.731178,
+    35.761611
+],
   "geometry": {"coordinates":[-78.731178,35.761611],"type":"Point"}
 }

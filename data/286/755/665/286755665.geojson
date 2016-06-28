@@ -2,13 +2,14 @@
   "id": 286755665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.620682,35.781868,-78.620682,35.781868",
     "geom:latitude":35.781868,
     "geom:longitude":-78.620682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Pettigrew St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286755665,
-    "wof:lastmodified":1449016020,
+    "wof:lastmodified":1466649848,
     "wof:name":"Wesleyan First Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.620682,35.781868,-78.620682,35.781868],
+  "bbox": [
+    -78.620682,
+    35.781868,
+    -78.620682,
+    35.781868
+],
   "geometry": {"coordinates":[-78.620682,35.781868],"type":"Point"}
 }

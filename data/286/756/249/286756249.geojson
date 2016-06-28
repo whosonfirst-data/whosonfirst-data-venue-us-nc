@@ -2,13 +2,14 @@
   "id": 286756249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.170351,35.338657,-81.170351,35.338657",
     "geom:latitude":35.338657,
     "geom:longitude":-81.170351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Philadelphia Church Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286756249,
-    "wof:lastmodified":1449016957,
+    "wof:lastmodified":1466649857,
     "wof:name":"Eastern Radio Svc",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.170351,35.338657,-81.170351,35.338657],
+  "bbox": [
+    -81.170351,
+    35.338657,
+    -81.170351,
+    35.338657
+],
   "geometry": {"coordinates":[-81.170351,35.338657],"type":"Point"}
 }

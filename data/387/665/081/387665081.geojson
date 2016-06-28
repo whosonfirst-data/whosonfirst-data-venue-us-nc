@@ -2,13 +2,14 @@
   "id": 387665081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.892328,35.895323,-78.892328,35.895323",
     "geom:latitude":35.895323,
     "geom:longitude":-78.892328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 Prospectus Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387665081,
-    "wof:lastmodified":1449057263,
+    "wof:lastmodified":1466657296,
     "wof:name":"Park Communications",
     "wof:parent_id":85831613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-78.892328,35.895323,-78.892328,35.895323],
-  "geometry": {"coordinates":[-78.892328,35.895323],"type":"Point"}
+  "bbox": [
+    -78.892328,
+    35.895323,
+    -78.892328,
+    35.895323
+],
+  "geometry": {"coordinates":[-78.89232800000001,35.895323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387333357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.825437,35.884471,-79.825437,35.884471",
     "geom:latitude":35.884471,
     "geom:longitude":-79.825437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8336 Walker Mill Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387333357,
-    "wof:lastmodified":1449059655,
+    "wof:lastmodified":1466654244,
     "wof:name":"Dale Carnegie Training",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-79.825437,35.884471,-79.825437,35.884471],
-  "geometry": {"coordinates":[-79.825437,35.884471],"type":"Point"}
+  "bbox": [
+    -79.825437,
+    35.884471,
+    -79.825437,
+    35.884471
+],
+  "geometry": {"coordinates":[-79.82543699999999,35.884471],"type":"Point"}
 }

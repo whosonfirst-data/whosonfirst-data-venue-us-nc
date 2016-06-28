@@ -2,13 +2,14 @@
   "id": 220083807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.892671,36.037313,-77.892671,36.037313",
     "geom:latitude":36.037313,
     "geom:longitude":-77.892671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4645 Ashley Dr",
     "sg:city":"Battleboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220083807,
-    "wof:lastmodified":1449074403,
+    "wof:lastmodified":1466643873,
     "wof:name":"John Mooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.892671,36.037313,-77.892671,36.037313],
-  "geometry": {"coordinates":[-77.892671,36.037313],"type":"Point"}
+  "bbox": [
+    -77.892671,
+    36.037313,
+    -77.892671,
+    36.037313
+],
+  "geometry": {"coordinates":[-77.89267100000001,36.037313],"type":"Point"}
 }

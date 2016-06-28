@@ -2,13 +2,14 @@
   "id": 303524511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.508124,35.54449,-78.508124,35.54449",
     "geom:latitude":35.54449,
     "geom:longitude":-78.508124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Breland Dr",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303524511,
-    "wof:lastmodified":1448998092,
+    "wof:lastmodified":1466650865,
     "wof:name":"Dns",
     "wof:parent_id":85807481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-78.508124,35.54449,-78.508124,35.54449],
+  "bbox": [
+    -78.508124,
+    35.54449,
+    -78.508124,
+    35.54449
+],
   "geometry": {"coordinates":[-78.508124,35.54449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303512269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.765053,36.062978,-79.765053,36.062978",
     "geom:latitude":36.062978,
     "geom:longitude":-79.765053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E Lee St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303512269,
-    "wof:lastmodified":1448999898,
+    "wof:lastmodified":1466650691,
     "wof:name":"Positive Direction For Youth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-79.765053,36.062978,-79.765053,36.062978],
-  "geometry": {"coordinates":[-79.765053,36.062978],"type":"Point"}
+  "bbox": [
+    -79.765053,
+    36.062978,
+    -79.765053,
+    36.062978
+],
+  "geometry": {"coordinates":[-79.76505299999999,36.062978],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202407179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.659281,35.165166,-80.659281,35.165166",
     "geom:latitude":35.165166,
     "geom:longitude":-80.659281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11915 Austin Ct",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202407179,
-    "wof:lastmodified":1449061513,
+    "wof:lastmodified":1466654264,
     "wof:name":"Visual Statistics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-80.659281,35.165166,-80.659281,35.165166],
-  "geometry": {"coordinates":[-80.659281,35.165166],"type":"Point"}
+  "bbox": [
+    -80.659281,
+    35.165166,
+    -80.659281,
+    35.165166
+],
+  "geometry": {"coordinates":[-80.65928099999999,35.165166],"type":"Point"}
 }

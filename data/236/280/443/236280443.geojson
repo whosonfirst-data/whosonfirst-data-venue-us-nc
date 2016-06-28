@@ -2,13 +2,14 @@
   "id": 236280443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.669581,35.453946,-77.669581,35.453946",
     "geom:latitude":35.453946,
     "geom:longitude":-77.669581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 SE 3rd St",
     "sg:city":"Snow Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236280443,
-    "wof:lastmodified":1449003239,
+    "wof:lastmodified":1466645726,
     "wof:name":"Snowhill EMS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-77.669581,35.453946,-77.669581,35.453946],
-  "geometry": {"coordinates":[-77.669581,35.453946],"type":"Point"}
+  "bbox": [
+    -77.669581,
+    35.453946,
+    -77.669581,
+    35.453946
+],
+  "geometry": {"coordinates":[-77.66958099999999,35.453946],"type":"Point"}
 }

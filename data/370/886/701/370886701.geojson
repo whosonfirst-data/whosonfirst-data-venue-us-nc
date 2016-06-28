@@ -2,13 +2,14 @@
   "id": 370886701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.591208,35.825819,-78.591208,35.825819",
     "geom:latitude":35.825819,
     "geom:longitude":-78.591208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2925 Huntleigh Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370886701,
-    "wof:lastmodified":1449030940,
+    "wof:lastmodified":1466656632,
     "wof:name":"L & M Transportation Services",
     "wof:parent_id":85892133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "marketer"
     ]
 },
-  "bbox": [-78.591208,35.825819,-78.591208,35.825819],
-  "geometry": {"coordinates":[-78.591208,35.825819],"type":"Point"}
+  "bbox": [
+    -78.591208,
+    35.825819,
+    -78.591208,
+    35.825819
+],
+  "geometry": {"coordinates":[-78.59120799999999,35.825819],"type":"Point"}
 }

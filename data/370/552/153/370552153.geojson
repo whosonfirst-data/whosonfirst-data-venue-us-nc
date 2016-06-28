@@ -2,13 +2,14 @@
   "id": 370552153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.911945,35.975455,-78.911945,35.975455",
     "geom:latitude":35.975455,
     "geom:longitude":-78.911945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Beverly Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370552153,
-    "wof:lastmodified":1449030501,
+    "wof:lastmodified":1466653248,
     "wof:name":"Keith Brodie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.911945,35.975455,-78.911945,35.975455],
+  "bbox": [
+    -78.911945,
+    35.975455,
+    -78.911945,
+    35.975455
+],
   "geometry": {"coordinates":[-78.911945,35.975455],"type":"Point"}
 }

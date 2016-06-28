@@ -2,13 +2,14 @@
   "id": 304031765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.980247,35.984425,-78.980247,35.984425",
     "geom:latitude":35.984425,
     "geom:longitude":-78.980247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Bermouth Ct",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304031765,
-    "wof:lastmodified":1449043789,
+    "wof:lastmodified":1466644614,
     "wof:name":"Bernett Communications",
     "wof:parent_id":85811947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pro"
     ]
 },
-  "bbox": [-78.980247,35.984425,-78.980247,35.984425],
-  "geometry": {"coordinates":[-78.980247,35.984425],"type":"Point"}
+  "bbox": [
+    -78.980247,
+    35.984425,
+    -78.980247,
+    35.984425
+],
+  "geometry": {"coordinates":[-78.98024700000001,35.984425],"type":"Point"}
 }

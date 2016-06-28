@@ -2,13 +2,14 @@
   "id": 370440269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.787151,34.282111,-77.787151,34.282111",
     "geom:latitude":34.282111,
     "geom:longitude":-77.787151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Bayshore Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370440269,
-    "wof:lastmodified":1449030286,
+    "wof:lastmodified":1466651805,
     "wof:name":"Jack's Chimney Sweep",
     "wof:parent_id":85852563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chimney"
     ]
 },
-  "bbox": [-77.787151,34.282111,-77.787151,34.282111],
-  "geometry": {"coordinates":[-77.787151,34.282111],"type":"Point"}
+  "bbox": [
+    -77.787151,
+    34.282111,
+    -77.787151,
+    34.282111
+],
+  "geometry": {"coordinates":[-77.78715099999999,34.282111],"type":"Point"}
 }

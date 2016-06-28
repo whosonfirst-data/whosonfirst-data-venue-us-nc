@@ -2,13 +2,14 @@
   "id": 303404105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.225838,36.090315,-79.225838,36.090315",
     "geom:latitude":36.090315,
     "geom:longitude":-79.225838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Shambley Rd",
     "sg:city":"Mebane",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303404105,
-    "wof:lastmodified":1448999742,
+    "wof:lastmodified":1466649125,
     "wof:name":"Jones Service Co",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.225838,36.090315,-79.225838,36.090315],
+  "bbox": [
+    -79.225838,
+    36.090315,
+    -79.225838,
+    36.090315
+],
   "geometry": {"coordinates":[-79.225838,36.090315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403852861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.380496,36.193879,-80.380496,36.193879",
     "geom:latitude":36.193879,
     "geom:longitude":-80.380496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 Oak Park Dr",
     "sg:city":"Pfafftown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403852861,
-    "wof:lastmodified":1449055753,
+    "wof:lastmodified":1466652308,
     "wof:name":"Plumbing Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.380496,36.193879,-80.380496,36.193879],
-  "geometry": {"coordinates":[-80.380496,36.193879],"type":"Point"}
+  "bbox": [
+    -80.380496,
+    36.193879,
+    -80.380496,
+    36.193879
+],
+  "geometry": {"coordinates":[-80.38049599999999,36.193879],"type":"Point"}
 }

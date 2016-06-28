@@ -2,13 +2,14 @@
   "id": 203036145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.161719,35.252714,-81.161719,35.252714",
     "geom:latitude":35.252714,
     "geom:longitude":-81.161719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 E Garrison Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203036145,
-    "wof:lastmodified":1449025347,
+    "wof:lastmodified":1466654414,
     "wof:name":"Sentry Mortgage Co",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-81.161719,35.252714,-81.161719,35.252714],
-  "geometry": {"coordinates":[-81.161719,35.252714],"type":"Point"}
+  "bbox": [
+    -81.161719,
+    35.252714,
+    -81.161719,
+    35.252714
+],
+  "geometry": {"coordinates":[-81.16171900000001,35.252714],"type":"Point"}
 }

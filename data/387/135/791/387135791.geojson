@@ -2,13 +2,14 @@
   "id": 387135791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.076799,35.909318,-79.076799,35.909318",
     "geom:latitude":35.909318,
     "geom:longitude":-79.076799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Laurel Ave",
     "sg:city":"Carrboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387135791,
-    "wof:lastmodified":1449057567,
+    "wof:lastmodified":1466651616,
     "wof:name":"Reeves Homes",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.076799,35.909318,-79.076799,35.909318],
-  "geometry": {"coordinates":[-79.076799,35.909318],"type":"Point"}
+  "bbox": [
+    -79.076799,
+    35.909318,
+    -79.076799,
+    35.909318
+],
+  "geometry": {"coordinates":[-79.07679899999999,35.909318],"type":"Point"}
 }

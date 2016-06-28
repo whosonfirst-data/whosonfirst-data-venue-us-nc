@@ -2,13 +2,14 @@
   "id": 354377867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.54149,35.615959,-82.54149,35.615959",
     "geom:latitude":35.615959,
     "geom:longitude":-82.54149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Sunset Ter",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354377867,
-    "wof:lastmodified":1449066556,
+    "wof:lastmodified":1466651914,
     "wof:name":"Health Information Svc",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.54149,35.615959,-82.54149,35.615959],
+  "bbox": [
+    -82.54149,
+    35.615959,
+    -82.54149,
+    35.615959
+],
   "geometry": {"coordinates":[-82.54149,35.615959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236756679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.661876,35.744816,-78.661876,35.744816",
     "geom:latitude":35.744816,
     "geom:longitude":-78.661876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Harper Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236756679,
-    "wof:lastmodified":1449003656,
+    "wof:lastmodified":1466650026,
     "wof:name":"Custom Network Wiring Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.661876,35.744816,-78.661876,35.744816],
-  "geometry": {"coordinates":[-78.661876,35.744816],"type":"Point"}
+  "bbox": [
+    -78.661876,
+    35.744816,
+    -78.661876,
+    35.744816
+],
+  "geometry": {"coordinates":[-78.66187600000001,35.744816],"type":"Point"}
 }

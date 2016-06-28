@@ -2,13 +2,14 @@
   "id": 336678671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.545791,35.57145,-82.545791,35.57145",
     "geom:latitude":35.57145,
     "geom:longitude":-82.545791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Huntsman Pl",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336678671,
-    "wof:lastmodified":1448997474,
+    "wof:lastmodified":1466647051,
     "wof:name":"Mt Mobility",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [-82.545791,35.57145,-82.545791,35.57145],
-  "geometry": {"coordinates":[-82.545791,35.57145],"type":"Point"}
+  "bbox": [
+    -82.545791,
+    35.57145,
+    -82.545791,
+    35.57145
+],
+  "geometry": {"coordinates":[-82.54579099999999,35.57145],"type":"Point"}
 }

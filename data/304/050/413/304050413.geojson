@@ -2,13 +2,14 @@
   "id": 304050413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.038239,35.917244,-79.038239,35.917244",
     "geom:latitude":35.917244,
     "geom:longitude":-79.038239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Hill St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304050413,
-    "wof:lastmodified":1449043918,
+    "wof:lastmodified":1466644876,
     "wof:name":"Ross Kenan Interiors",
     "wof:parent_id":85813631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.038239,35.917244,-79.038239,35.917244],
+  "bbox": [
+    -79.038239,
+    35.917244,
+    -79.038239,
+    35.917244
+],
   "geometry": {"coordinates":[-79.038239,35.917244],"type":"Point"}
 }

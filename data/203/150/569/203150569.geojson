@@ -2,13 +2,14 @@
   "id": 203150569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.635182,35.560528,-82.635182,35.560528",
     "geom:latitude":35.560528,
     "geom:longitude":-82.635182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Smokey Park Hwy",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203150569,
-    "wof:lastmodified":1449024966,
+    "wof:lastmodified":1466655017,
     "wof:name":"Exclusive Floors",
     "wof:parent_id":85802397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-82.635182,35.560528,-82.635182,35.560528],
+  "bbox": [
+    -82.635182,
+    35.560528,
+    -82.635182,
+    35.560528
+],
   "geometry": {"coordinates":[-82.635182,35.560528],"type":"Point"}
 }

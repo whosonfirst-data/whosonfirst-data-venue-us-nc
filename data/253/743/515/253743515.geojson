@@ -2,13 +2,14 @@
   "id": 253743515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.267355,35.845301,-80.267355,35.845301",
     "geom:latitude":35.845301,
     "geom:longitude":-80.267355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Biesecker Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253743515,
-    "wof:lastmodified":1449065787,
+    "wof:lastmodified":1466651296,
     "wof:name":"St Andrews United Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.267355,35.845301,-80.267355,35.845301],
-  "geometry": {"coordinates":[-80.267355,35.845301],"type":"Point"}
+  "bbox": [
+    -80.267355,
+    35.845301,
+    -80.267355,
+    35.845301
+],
+  "geometry": {"coordinates":[-80.26735499999999,35.845301],"type":"Point"}
 }

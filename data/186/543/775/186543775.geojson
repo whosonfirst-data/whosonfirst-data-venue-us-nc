@@ -2,13 +2,14 @@
   "id": 186543775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.183986,36.076163,-80.183986,36.076163",
     "geom:latitude":36.076163,
     "geom:longitude":-80.183986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2840 Waughtown St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186543775,
-    "wof:lastmodified":1449050932,
+    "wof:lastmodified":1466654643,
     "wof:name":"Parkview Pawn",
     "wof:parent_id":85881829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-80.183986,36.076163,-80.183986,36.076163],
+  "bbox": [
+    -80.183986,
+    36.076163,
+    -80.183986,
+    36.076163
+],
   "geometry": {"coordinates":[-80.183986,36.076163],"type":"Point"}
 }

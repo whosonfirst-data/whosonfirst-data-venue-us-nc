@@ -2,13 +2,14 @@
   "id": 303388517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.274125,36.104807,-80.274125,36.104807",
     "geom:latitude":36.104807,
     "geom:longitude":-80.274125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1928 Buena Vista Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303388517,
-    "wof:lastmodified":1448998209,
+    "wof:lastmodified":1466648913,
     "wof:name":"Friends of Shelter",
     "wof:parent_id":85808375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.274125,36.104807,-80.274125,36.104807],
+  "bbox": [
+    -80.274125,
+    36.104807,
+    -80.274125,
+    36.104807
+],
   "geometry": {"coordinates":[-80.274125,36.104807],"type":"Point"}
 }

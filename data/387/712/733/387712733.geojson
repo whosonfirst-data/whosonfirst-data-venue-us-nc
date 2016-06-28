@@ -2,13 +2,14 @@
   "id": 387712733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.658703,35.724126,-81.658703,35.724126",
     "geom:latitude":35.724126,
     "geom:longitude":-81.658703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 S Sterling St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387712733,
-    "wof:lastmodified":1449057738,
+    "wof:lastmodified":1466657369,
     "wof:name":"Grace Hospital",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.658703,35.724126,-81.658703,35.724126],
+  "bbox": [
+    -81.658703,
+    35.724126,
+    -81.658703,
+    35.724126
+],
   "geometry": {"coordinates":[-81.658703,35.724126],"type":"Point"}
 }

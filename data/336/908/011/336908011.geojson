@@ -2,13 +2,14 @@
   "id": 336908011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.843395,35.816159,-79.843395,35.816159",
     "geom:latitude":35.816159,
     "geom:longitude":-79.843395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4735 US Hwy 311",
     "sg:city":"Sophia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336908011,
-    "wof:lastmodified":1448997548,
+    "wof:lastmodified":1466650535,
     "wof:name":"Trinity Holiness Church",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.843395,35.816159,-79.843395,35.816159],
+  "bbox": [
+    -79.843395,
+    35.816159,
+    -79.843395,
+    35.816159
+],
   "geometry": {"coordinates":[-79.843395,35.816159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202482795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.90658,35.999711,-78.90658,35.999711",
     "geom:latitude":35.999711,
     "geom:longitude":-78.90658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 W Morgan St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202482795,
-    "wof:lastmodified":1449061004,
+    "wof:lastmodified":1466654874,
     "wof:name":"Blue Devil Ventures",
     "wof:parent_id":85877197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "management"
     ]
 },
-  "bbox": [-78.90658,35.999711,-78.90658,35.999711],
-  "geometry": {"coordinates":[-78.90658,35.999711],"type":"Point"}
+  "bbox": [
+    -78.90658,
+    35.999711,
+    -78.90658,
+    35.999711
+],
+  "geometry": {"coordinates":[-78.90658000000001,35.999711],"type":"Point"}
 }

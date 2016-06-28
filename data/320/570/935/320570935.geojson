@@ -2,13 +2,14 @@
   "id": 320570935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.054712,35.544976,-77.054712,35.544976",
     "geom:latitude":35.544976,
     "geom:longitude":-77.054712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W 3rd St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320570935,
-    "wof:lastmodified":1449013474,
+    "wof:lastmodified":1466653405,
     "wof:name":"FRE Plumbing Co",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.054712,35.544976,-77.054712,35.544976],
-  "geometry": {"coordinates":[-77.054712,35.544976],"type":"Point"}
+  "bbox": [
+    -77.054712,
+    35.544976,
+    -77.054712,
+    35.544976
+],
+  "geometry": {"coordinates":[-77.05471199999999,35.544976],"type":"Point"}
 }

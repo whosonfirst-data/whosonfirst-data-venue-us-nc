@@ -2,13 +2,14 @@
   "id": 353762011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.45834,35.305971,-82.45834,35.305971",
     "geom:latitude":35.305971,
     "geom:longitude":-82.45834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Greenville Hwy",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353762011,
-    "wof:lastmodified":1449020052,
+    "wof:lastmodified":1466651329,
     "wof:name":"Whitley Drugs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.45834,35.305971,-82.45834,35.305971],
-  "geometry": {"coordinates":[-82.45834,35.305971],"type":"Point"}
+  "bbox": [
+    -82.45834,
+    35.305971,
+    -82.45834,
+    35.305971
+],
+  "geometry": {"coordinates":[-82.45834000000001,35.305971],"type":"Point"}
 }

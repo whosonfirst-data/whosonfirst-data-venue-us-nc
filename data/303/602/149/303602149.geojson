@@ -2,13 +2,14 @@
   "id": 303602149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.166851,35.431103,-79.166851,35.431103",
     "geom:latitude":35.431103,
     "geom:longitude":-79.166851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3780 Lemon Springs Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303602149,
-    "wof:lastmodified":1448999266,
+    "wof:lastmodified":1466651984,
     "wof:name":"Dewayne Hare S Plbg Co",
     "wof:parent_id":85852511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.166851,35.431103,-79.166851,35.431103],
-  "geometry": {"coordinates":[-79.166851,35.431103],"type":"Point"}
+  "bbox": [
+    -79.166851,
+    35.431103,
+    -79.166851,
+    35.431103
+],
+  "geometry": {"coordinates":[-79.16685099999999,35.431103],"type":"Point"}
 }

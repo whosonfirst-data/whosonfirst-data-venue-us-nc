@@ -2,13 +2,14 @@
   "id": 269840825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.836274,35.708469,-79.836274,35.708469",
     "geom:latitude":35.708469,
     "geom:longitude":-79.836274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1462 Winslow Ave",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269840825,
-    "wof:lastmodified":1449038283,
+    "wof:lastmodified":1466647402,
     "wof:name":"Asheboro Water Plant",
     "wof:parent_id":85844107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-79.836274,35.708469,-79.836274,35.708469],
+  "bbox": [
+    -79.836274,
+    35.708469,
+    -79.836274,
+    35.708469
+],
   "geometry": {"coordinates":[-79.836274,35.708469],"type":"Point"}
 }

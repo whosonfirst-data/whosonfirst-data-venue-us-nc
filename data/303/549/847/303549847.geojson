@@ -2,13 +2,14 @@
   "id": 303549847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.561189,35.742982,-81.561189,35.742982",
     "geom:latitude":35.742982,
     "geom:longitude":-81.561189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Main St E",
     "sg:city":"Valdese",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303549847,
-    "wof:lastmodified":1448998784,
+    "wof:lastmodified":1466651239,
     "wof:name":"Village Properties",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.561189,35.742982,-81.561189,35.742982],
+  "bbox": [
+    -81.561189,
+    35.742982,
+    -81.561189,
+    35.742982
+],
   "geometry": {"coordinates":[-81.561189,35.742982],"type":"Point"}
 }

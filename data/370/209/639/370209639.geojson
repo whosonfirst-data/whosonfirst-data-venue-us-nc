@@ -2,13 +2,14 @@
   "id": 370209639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.020237,35.248257,-81.020237,35.248257",
     "geom:latitude":35.248257,
     "geom:longitude":-81.020237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7110 Wilkinson Blvd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370209639,
-    "wof:lastmodified":1449032120,
+    "wof:lastmodified":1466648885,
     "wof:name":"Barrett's Floor Covering",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-81.020237,35.248257,-81.020237,35.248257],
-  "geometry": {"coordinates":[-81.020237,35.248257],"type":"Point"}
+  "bbox": [
+    -81.020237,
+    35.248257,
+    -81.020237,
+    35.248257
+],
+  "geometry": {"coordinates":[-81.02023699999999,35.248257],"type":"Point"}
 }

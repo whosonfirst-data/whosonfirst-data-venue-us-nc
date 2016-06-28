@@ -2,13 +2,14 @@
   "id": 303356585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.607129,35.779506,-78.607129,35.779506",
     "geom:latitude":35.779506,
     "geom:longitude":-78.607129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 New Bern Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303356585,
-    "wof:lastmodified":1449000129,
+    "wof:lastmodified":1466648449,
     "wof:name":"ABS",
     "wof:parent_id":85812511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.607129,35.779506,-78.607129,35.779506],
+  "bbox": [
+    -78.607129,
+    35.779506,
+    -78.607129,
+    35.779506
+],
   "geometry": {"coordinates":[-78.607129,35.779506],"type":"Point"}
 }

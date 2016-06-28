@@ -2,13 +2,14 @@
   "id": 236103313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.785626,35.590199,-78.785626,35.590199",
     "geom:latitude":35.590199,
     "geom:longitude":-78.785626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Smithwood St",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236103313,
-    "wof:lastmodified":1449003760,
+    "wof:lastmodified":1466644141,
     "wof:name":"Oak Grove Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.785626,35.590199,-78.785626,35.590199],
-  "geometry": {"coordinates":[-78.785626,35.590199],"type":"Point"}
+  "bbox": [
+    -78.785626,
+    35.590199,
+    -78.785626,
+    35.590199
+],
+  "geometry": {"coordinates":[-78.78562599999999,35.590199],"type":"Point"}
 }

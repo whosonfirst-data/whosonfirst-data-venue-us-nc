@@ -2,13 +2,14 @@
   "id": 303670415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.802853,35.926601,-77.802853,35.926601",
     "geom:latitude":35.926601,
     "geom:longitude":-77.802853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Nashville Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303670415,
-    "wof:lastmodified":1448998487,
+    "wof:lastmodified":1466652979,
     "wof:name":"Eastern Nc Medical Group Pllc",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.802853,35.926601,-77.802853,35.926601],
+  "bbox": [
+    -77.802853,
+    35.926601,
+    -77.802853,
+    35.926601
+],
   "geometry": {"coordinates":[-77.802853,35.926601],"type":"Point"}
 }

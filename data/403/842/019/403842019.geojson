@@ -2,13 +2,14 @@
   "id": 403842019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.183262,35.478521,-79.183262,35.478521",
     "geom:latitude":35.478521,
     "geom:longitude":-79.183262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Carthage St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403842019,
-    "wof:lastmodified":1449054735,
+    "wof:lastmodified":1466652167,
     "wof:name":"Mallard Cove Apartments",
     "wof:parent_id":85851589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.183262,35.478521,-79.183262,35.478521],
+  "bbox": [
+    -79.183262,
+    35.478521,
+    -79.183262,
+    35.478521
+],
   "geometry": {"coordinates":[-79.183262,35.478521],"type":"Point"}
 }

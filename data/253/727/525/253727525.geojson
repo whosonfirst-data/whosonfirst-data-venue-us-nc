@@ -2,13 +2,14 @@
   "id": 253727525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.46756,33.95156,-78.46756,33.95156",
     "geom:latitude":33.95156,
     "geom:longitude":-78.46756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6165 Ocean Hwy W",
     "sg:city":"Ocean Isle Beach",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":253727525,
-    "wof:lastmodified":1449063265,
+    "wof:lastmodified":1466651101,
     "wof:name":"Carter's Trading Post",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "general"
     ]
 },
-  "bbox": [-78.46756,33.95156,-78.46756,33.95156],
-  "geometry": {"coordinates":[-78.46756,33.95156],"type":"Point"}
+  "bbox": [
+    -78.46756,
+    33.95156,
+    -78.46756,
+    33.95156
+],
+  "geometry": {"coordinates":[-78.46756000000001,33.95156],"type":"Point"}
 }

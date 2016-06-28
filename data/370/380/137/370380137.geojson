@@ -2,13 +2,14 @@
   "id": 370380137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.580201,35.858915,-78.580201,35.858915",
     "geom:latitude":35.858915,
     "geom:longitude":-78.580201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3645 Trust Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370380137,
-    "wof:lastmodified":1449030661,
+    "wof:lastmodified":1466651009,
     "wof:name":"Xtra Source",
     "wof:parent_id":85857779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telemarketing"
     ]
 },
-  "bbox": [-78.580201,35.858915,-78.580201,35.858915],
+  "bbox": [
+    -78.580201,
+    35.858915,
+    -78.580201,
+    35.858915
+],
   "geometry": {"coordinates":[-78.580201,35.858915],"type":"Point"}
 }

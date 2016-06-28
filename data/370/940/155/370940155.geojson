@@ -2,13 +2,14 @@
   "id": 370940155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.721068,35.749823,-78.721068,35.749823",
     "geom:latitude":35.749823,
     "geom:longitude":-78.721068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4811 Smith Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370940155,
-    "wof:lastmodified":1449029921,
+    "wof:lastmodified":1466656924,
     "wof:name":"Summit Prop",
     "wof:parent_id":85829389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.721068,35.749823,-78.721068,35.749823],
+  "bbox": [
+    -78.721068,
+    35.749823,
+    -78.721068,
+    35.749823
+],
   "geometry": {"coordinates":[-78.721068,35.749823],"type":"Point"}
 }

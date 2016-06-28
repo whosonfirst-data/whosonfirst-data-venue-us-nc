@@ -2,13 +2,14 @@
   "id": 236750435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.216778,35.421961,-79.216778,35.421961",
     "geom:latitude":35.421961,
     "geom:longitude":-79.216778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 Hickory House Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236750435,
-    "wof:lastmodified":1449003684,
+    "wof:lastmodified":1466649968,
     "wof:name":"Scott's Outback Driving Range",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "public"
     ]
 },
-  "bbox": [-79.216778,35.421961,-79.216778,35.421961],
-  "geometry": {"coordinates":[-79.216778,35.421961],"type":"Point"}
+  "bbox": [
+    -79.216778,
+    35.421961,
+    -79.216778,
+    35.421961
+],
+  "geometry": {"coordinates":[-79.21677800000001,35.421961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387341105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.925177,35.072986,-78.925177,35.072986",
     "geom:latitude":35.072986,
     "geom:longitude":-78.925177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 Bragg Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387341105,
-    "wof:lastmodified":1449059750,
+    "wof:lastmodified":1466654351,
     "wof:name":"Simply Fashions",
     "wof:parent_id":85818301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.925177,35.072986,-78.925177,35.072986],
-  "geometry": {"coordinates":[-78.925177,35.072986],"type":"Point"}
+  "bbox": [
+    -78.925177,
+    35.072986,
+    -78.925177,
+    35.072986
+],
+  "geometry": {"coordinates":[-78.92517700000001,35.072986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303235993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.903957,35.964897,-78.903957,35.964897",
     "geom:latitude":35.964897,
     "geom:longitude":-78.903957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Elmira Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303235993,
-    "wof:lastmodified":1448998540,
+    "wof:lastmodified":1466646735,
     "wof:name":"Worley's Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-78.903957,35.964897,-78.903957,35.964897],
-  "geometry": {"coordinates":[-78.903957,35.964897],"type":"Point"}
+  "bbox": [
+    -78.903957,
+    35.964897,
+    -78.903957,
+    35.964897
+],
+  "geometry": {"coordinates":[-78.90395700000001,35.964897],"type":"Point"}
 }

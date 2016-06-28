@@ -2,13 +2,14 @@
   "id": 202433879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.233281,36.10527,-80.233281,36.10527",
     "geom:latitude":36.10527,
     "geom:longitude":-80.233281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 N Highland Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202433879,
-    "wof:lastmodified":1449060398,
+    "wof:lastmodified":1466654446,
     "wof:name":"St Stephens Episcopal Church",
     "wof:parent_id":85816949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.233281,36.10527,-80.233281,36.10527],
-  "geometry": {"coordinates":[-80.233281,36.10527],"type":"Point"}
+  "bbox": [
+    -80.233281,
+    36.10527,
+    -80.233281,
+    36.10527
+],
+  "geometry": {"coordinates":[-80.23328100000001,36.10527],"type":"Point"}
 }

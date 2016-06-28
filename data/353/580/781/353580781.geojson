@@ -2,13 +2,14 @@
   "id": 353580781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.661021,35.606379,-78.661021,35.606379",
     "geom:latitude":35.606379,
     "geom:longitude":-78.661021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6305 Rock Service Station Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353580781,
-    "wof:lastmodified":1449019960,
+    "wof:lastmodified":1466649166,
     "wof:name":"Tc Castro Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.661021,35.606379,-78.661021,35.606379],
-  "geometry": {"coordinates":[-78.661021,35.606379],"type":"Point"}
+  "bbox": [
+    -78.661021,
+    35.606379,
+    -78.661021,
+    35.606379
+],
+  "geometry": {"coordinates":[-78.66102100000001,35.606379],"type":"Point"}
 }

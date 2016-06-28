@@ -2,13 +2,14 @@
   "id": 303385297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.95821,35.370479,-81.95821,35.370479",
     "geom:latitude":35.370479,
     "geom:longitude":-81.95821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 N Washington St",
     "sg:city":"Rutherfordton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303385297,
-    "wof:lastmodified":1448999573,
+    "wof:lastmodified":1466648855,
     "wof:name":"Styling Deck",
     "wof:parent_id":85819215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.95821,35.370479,-81.95821,35.370479],
-  "geometry": {"coordinates":[-81.95821,35.370479],"type":"Point"}
+  "bbox": [
+    -81.95821,
+    35.370479,
+    -81.95821,
+    35.370479
+],
+  "geometry": {"coordinates":[-81.95820999999999,35.370479],"type":"Point"}
 }

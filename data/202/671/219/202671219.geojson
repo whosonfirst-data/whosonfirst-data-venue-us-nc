@@ -2,13 +2,14 @@
   "id": 202671219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.000554,35.471906,-83.000554,35.471906",
     "geom:latitude":35.471906,
     "geom:longitude":-83.000554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 S Main St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202671219,
-    "wof:lastmodified":1449060691,
+    "wof:lastmodified":1466655807,
     "wof:name":"Aerotext Graphics",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sign"
     ]
 },
-  "bbox": [-83.000554,35.471906,-83.000554,35.471906],
-  "geometry": {"coordinates":[-83.000554,35.471906],"type":"Point"}
+  "bbox": [
+    -83.000554,
+    35.471906,
+    -83.000554,
+    35.471906
+],
+  "geometry": {"coordinates":[-83.00055399999999,35.471906],"type":"Point"}
 }

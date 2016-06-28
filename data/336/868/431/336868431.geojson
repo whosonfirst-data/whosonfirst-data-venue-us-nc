@@ -2,13 +2,14 @@
   "id": 336868431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.111748,36.051659,-79.111748,36.051659",
     "geom:latitude":36.051659,
     "geom:longitude":-79.111748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Dana Ct",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336868431,
-    "wof:lastmodified":1448996957,
+    "wof:lastmodified":1466649938,
     "wof:name":"PRN Transcription Svc",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "disc"
     ]
 },
-  "bbox": [-79.111748,36.051659,-79.111748,36.051659],
-  "geometry": {"coordinates":[-79.111748,36.051659],"type":"Point"}
+  "bbox": [
+    -79.111748,
+    36.051659,
+    -79.111748,
+    36.051659
+],
+  "geometry": {"coordinates":[-79.11174800000001,36.051659],"type":"Point"}
 }

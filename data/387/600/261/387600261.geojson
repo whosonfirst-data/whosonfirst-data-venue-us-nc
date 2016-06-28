@@ -2,13 +2,14 @@
   "id": 387600261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.299196,35.873185,-80.299196,35.873185",
     "geom:latitude":35.873185,
     "geom:longitude":-80.299196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Needleworks Ln",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387600261,
-    "wof:lastmodified":1449056454,
+    "wof:lastmodified":1466656884,
     "wof:name":"Needle Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "needlework"
     ]
 },
-  "bbox": [-80.299196,35.873185,-80.299196,35.873185],
-  "geometry": {"coordinates":[-80.299196,35.873185],"type":"Point"}
+  "bbox": [
+    -80.299196,
+    35.873185,
+    -80.299196,
+    35.873185
+],
+  "geometry": {"coordinates":[-80.29919599999999,35.873185],"type":"Point"}
 }

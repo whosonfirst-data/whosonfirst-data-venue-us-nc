@@ -2,13 +2,14 @@
   "id": 370374475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.744265,35.77781,-78.744265,35.77781",
     "geom:latitude":35.77781,
     "geom:longitude":-78.744265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6250 Saint Regis Cir",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370374475,
-    "wof:lastmodified":1449030564,
+    "wof:lastmodified":1466650933,
     "wof:name":"Qtronika",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.744265,35.77781,-78.744265,35.77781],
+  "bbox": [
+    -78.744265,
+    35.77781,
+    -78.744265,
+    35.77781
+],
   "geometry": {"coordinates":[-78.744265,35.77781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220104647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.912657,34.543024,-77.912657,34.543024",
     "geom:latitude":34.543024,
     "geom:longitude":-77.912657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 S Walker St",
     "sg:city":"Burgaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220104647,
-    "wof:lastmodified":1449074367,
+    "wof:lastmodified":1466644051,
     "wof:name":"Cape Fear Farm Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-77.912657,34.543024,-77.912657,34.543024],
+  "bbox": [
+    -77.912657,
+    34.543024,
+    -77.912657,
+    34.543024
+],
   "geometry": {"coordinates":[-77.912657,34.543024],"type":"Point"}
 }

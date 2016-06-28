@@ -2,13 +2,14 @@
   "id": 371173251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.192045,35.254815,-81.192045,35.254815",
     "geom:latitude":35.254815,
     "geom:longitude":-81.192045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Clay St",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":371173251,
-    "wof:lastmodified":1449049238,
+    "wof:lastmodified":1466651022,
     "wof:name":"York Chester Middle School",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-81.192045,35.254815,-81.192045,35.254815],
-  "geometry": {"coordinates":[-81.192045,35.254815],"type":"Point"}
+  "bbox": [
+    -81.192045,
+    35.254815,
+    -81.192045,
+    35.254815
+],
+  "geometry": {"coordinates":[-81.19204499999999,35.254815],"type":"Point"}
 }

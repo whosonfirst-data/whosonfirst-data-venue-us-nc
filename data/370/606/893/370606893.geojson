@@ -2,13 +2,14 @@
   "id": 370606893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.915788,34.115569,-77.915788,34.115569",
     "geom:latitude":34.115569,
     "geom:longitude":-77.915788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6313 Sugar Pine Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370606893,
-    "wof:lastmodified":1449029613,
+    "wof:lastmodified":1466653965,
     "wof:name":"Appraisal Management Svc",
     "wof:parent_id":85832597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-77.915788,34.115569,-77.915788,34.115569],
-  "geometry": {"coordinates":[-77.915788,34.115569],"type":"Point"}
+  "bbox": [
+    -77.915788,
+    34.115569,
+    -77.915788,
+    34.115569
+],
+  "geometry": {"coordinates":[-77.91578800000001,34.115569],"type":"Point"}
 }

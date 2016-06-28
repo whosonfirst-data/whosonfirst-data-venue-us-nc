@@ -2,13 +2,14 @@
   "id": 202510949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.763798,36.490636,-79.763798,36.490636",
     "geom:latitude":36.490636,
     "geom:longitude":-79.763798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Washington St",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202510949,
-    "wof:lastmodified":1449061651,
+    "wof:lastmodified":1466655045,
     "wof:name":"Eden Kitchens & Baths",
     "wof:parent_id":85805077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-79.763798,36.490636,-79.763798,36.490636],
-  "geometry": {"coordinates":[-79.763798,36.490636],"type":"Point"}
+  "bbox": [
+    -79.763798,
+    36.490636,
+    -79.763798,
+    36.490636
+],
+  "geometry": {"coordinates":[-79.76379799999999,36.490636],"type":"Point"}
 }

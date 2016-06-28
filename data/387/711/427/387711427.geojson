@@ -2,13 +2,14 @@
   "id": 387711427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.784145,35.308091,-77.784145,35.308091",
     "geom:latitude":35.308091,
     "geom:longitude":-77.784145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E King St",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387711427,
-    "wof:lastmodified":1449059222,
+    "wof:lastmodified":1466657365,
     "wof:name":"LA Grange Meadows Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-77.784145,35.308091,-77.784145,35.308091],
+  "bbox": [
+    -77.784145,
+    35.308091,
+    -77.784145,
+    35.308091
+],
   "geometry": {"coordinates":[-77.784145,35.308091],"type":"Point"}
 }

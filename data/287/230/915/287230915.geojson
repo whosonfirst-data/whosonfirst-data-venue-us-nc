@@ -2,13 +2,14 @@
   "id": 287230915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422545,35.3575,-82.422545,35.3575",
     "geom:latitude":35.3575,
     "geom:longitude":-82.422545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 Chimney Rock Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287230915,
-    "wof:lastmodified":1449001336,
+    "wof:lastmodified":1466646521,
     "wof:name":"Micro Storage",
     "wof:parent_id":85858765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-82.422545,35.3575,-82.422545,35.3575],
+  "bbox": [
+    -82.422545,
+    35.3575,
+    -82.422545,
+    35.3575
+],
   "geometry": {"coordinates":[-82.422545,35.3575],"type":"Point"}
 }

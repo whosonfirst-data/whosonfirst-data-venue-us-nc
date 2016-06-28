@@ -2,13 +2,14 @@
   "id": 370191551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.646241,35.869267,-78.646241,35.869267",
     "geom:latitude":35.869267,
     "geom:longitude":-78.646241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Bridleridge Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370191551,
-    "wof:lastmodified":1449031131,
+    "wof:lastmodified":1466648663,
     "wof:name":"Nashnet",
     "wof:parent_id":85838213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-78.646241,35.869267,-78.646241,35.869267],
+  "bbox": [
+    -78.646241,
+    35.869267,
+    -78.646241,
+    35.869267
+],
   "geometry": {"coordinates":[-78.646241,35.869267],"type":"Point"}
 }

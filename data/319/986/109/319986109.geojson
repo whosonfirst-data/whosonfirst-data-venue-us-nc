@@ -2,13 +2,14 @@
   "id": 319986109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.804297,35.807411,-79.804297,35.807411",
     "geom:latitude":35.807411,
     "geom:longitude":-79.804297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 S Main St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":319986109,
-    "wof:lastmodified":1449024732,
+    "wof:lastmodified":1466647265,
     "wof:name":"Jim's Package Store",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-79.804297,35.807411,-79.804297,35.807411],
-  "geometry": {"coordinates":[-79.804297,35.807411],"type":"Point"}
+  "bbox": [
+    -79.804297,
+    35.807411,
+    -79.804297,
+    35.807411
+],
+  "geometry": {"coordinates":[-79.80429700000001,35.807411],"type":"Point"}
 }

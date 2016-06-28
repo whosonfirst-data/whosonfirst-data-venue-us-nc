@@ -2,13 +2,14 @@
   "id": 236434879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.415036,34.748413,-77.415036,34.748413",
     "geom:latitude":34.748413,
     "geom:longitude":-77.415036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Lejeune Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236434879,
-    "wof:lastmodified":1449002211,
+    "wof:lastmodified":1466647038,
     "wof:name":"Rocket's Barber Shop",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.415036,34.748413,-77.415036,34.748413],
+  "bbox": [
+    -77.415036,
+    34.748413,
+    -77.415036,
+    34.748413
+],
   "geometry": {"coordinates":[-77.415036,34.748413],"type":"Point"}
 }

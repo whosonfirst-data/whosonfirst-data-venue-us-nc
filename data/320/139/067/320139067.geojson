@@ -2,13 +2,14 @@
   "id": 320139067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.137121,35.595018,-78.137121,35.595018",
     "geom:latitude":35.595018,
     "geom:longitude":-78.137121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Bay Valley Rd",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320139067,
-    "wof:lastmodified":1449011589,
+    "wof:lastmodified":1466647249,
     "wof:name":"Generations Glass",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-78.137121,35.595018,-78.137121,35.595018],
-  "geometry": {"coordinates":[-78.137121,35.595018],"type":"Point"}
+  "bbox": [
+    -78.137121,
+    35.595018,
+    -78.137121,
+    35.595018
+],
+  "geometry": {"coordinates":[-78.13712099999999,35.595018],"type":"Point"}
 }

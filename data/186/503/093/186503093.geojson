@@ -2,13 +2,14 @@
   "id": 186503093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.552069,35.805285,-78.552069,35.805285",
     "geom:latitude":35.805285,
     "geom:longitude":-78.552069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4924 Harbour Towne Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186503093,
-    "wof:lastmodified":1449053035,
+    "wof:lastmodified":1466654401,
     "wof:name":"S S Tools",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.552069,35.805285,-78.552069,35.805285],
+  "bbox": [
+    -78.552069,
+    35.805285,
+    -78.552069,
+    35.805285
+],
   "geometry": {"coordinates":[-78.552069,35.805285],"type":"Point"}
 }

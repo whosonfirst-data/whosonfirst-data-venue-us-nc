@@ -2,13 +2,14 @@
   "id": 270451945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.95015,34.95374,-76.95015,34.95374",
     "geom:latitude":34.95374,
     "geom:longitude":-76.95015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Wesley Dr",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270451945,
-    "wof:lastmodified":1449009699,
+    "wof:lastmodified":1466648799,
     "wof:name":"Robert H Davis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-76.95015,34.95374,-76.95015,34.95374],
-  "geometry": {"coordinates":[-76.95015,34.95374],"type":"Point"}
+  "bbox": [
+    -76.95015,
+    34.95374,
+    -76.95015,
+    34.95374
+],
+  "geometry": {"coordinates":[-76.95014999999999,34.95374],"type":"Point"}
 }

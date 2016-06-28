@@ -2,13 +2,14 @@
   "id": 303116227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.904501,34.237473,-77.904501,34.237473",
     "geom:latitude":34.237473,
     "geom:longitude":-77.904501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Covil Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303116227,
-    "wof:lastmodified":1448998474,
+    "wof:lastmodified":1466644951,
     "wof:name":"Hospital Automotive Inc",
     "wof:parent_id":85804465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-77.904501,34.237473,-77.904501,34.237473],
+  "bbox": [
+    -77.904501,
+    34.237473,
+    -77.904501,
+    34.237473
+],
   "geometry": {"coordinates":[-77.904501,34.237473],"type":"Point"}
 }

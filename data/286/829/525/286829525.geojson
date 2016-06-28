@@ -2,13 +2,14 @@
   "id": 286829525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.579208,35.520889,-80.579208,35.520889",
     "geom:latitude":35.520889,
     "geom:longitude":-80.579208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 China Grove Rd",
     "sg:city":"China Grove",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286829525,
-    "wof:lastmodified":1449017902,
+    "wof:lastmodified":1466650851,
     "wof:name":"REA Construction Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "highway"
     ]
 },
-  "bbox": [-80.579208,35.520889,-80.579208,35.520889],
-  "geometry": {"coordinates":[-80.579208,35.520889],"type":"Point"}
+  "bbox": [
+    -80.579208,
+    35.520889,
+    -80.579208,
+    35.520889
+],
+  "geometry": {"coordinates":[-80.57920799999999,35.520889],"type":"Point"}
 }

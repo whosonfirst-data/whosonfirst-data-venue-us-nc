@@ -2,13 +2,14 @@
   "id": 203264413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.533211,35.230123,-78.533211,35.230123",
     "geom:latitude":35.230123,
     "geom:longitude":-78.533211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Sandy Ridge Rd",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203264413,
-    "wof:lastmodified":1449026209,
+    "wof:lastmodified":1466655687,
     "wof:name":"J Sercy Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-78.533211,35.230123,-78.533211,35.230123],
-  "geometry": {"coordinates":[-78.533211,35.230123],"type":"Point"}
+  "bbox": [
+    -78.533211,
+    35.230123,
+    -78.533211,
+    35.230123
+],
+  "geometry": {"coordinates":[-78.53321099999999,35.230123],"type":"Point"}
 }

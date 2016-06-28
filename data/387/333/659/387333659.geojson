@@ -2,13 +2,14 @@
   "id": 387333659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.007481,35.951461,-79.007481,35.951461",
     "geom:latitude":35.951461,
     "geom:longitude":-79.007481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Providence Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387333659,
-    "wof:lastmodified":1449059654,
+    "wof:lastmodified":1466654249,
     "wof:name":"Antech Diagnostics",
     "wof:parent_id":85811955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-79.007481,35.951461,-79.007481,35.951461],
+  "bbox": [
+    -79.007481,
+    35.951461,
+    -79.007481,
+    35.951461
+],
   "geometry": {"coordinates":[-79.007481,35.951461],"type":"Point"}
 }

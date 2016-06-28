@@ -2,13 +2,14 @@
   "id": 320392607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.108787,36.143788,-81.108787,36.143788",
     "geom:latitude":36.143788,
     "geom:longitude":-81.108787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Hunter Rd",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320392607,
-    "wof:lastmodified":1449014226,
+    "wof:lastmodified":1466650815,
     "wof:name":"Beauty Express",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-81.108787,36.143788,-81.108787,36.143788],
-  "geometry": {"coordinates":[-81.108787,36.143788],"type":"Point"}
+  "bbox": [
+    -81.108787,
+    36.143788,
+    -81.108787,
+    36.143788
+],
+  "geometry": {"coordinates":[-81.10878700000001,36.143788],"type":"Point"}
 }

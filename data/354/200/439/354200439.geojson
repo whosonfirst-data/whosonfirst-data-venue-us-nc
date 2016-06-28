@@ -2,13 +2,14 @@
   "id": 354200439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.610397,35.469855,-80.610397,35.469855",
     "geom:latitude":35.469855,
     "geom:longitude":-80.610397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 S Cannon Blvd",
     "sg:city":"Kannapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354200439,
-    "wof:lastmodified":1449066599,
+    "wof:lastmodified":1466649900,
     "wof:name":"American Homepatient Inc",
     "wof:parent_id":85891991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.610397,35.469855,-80.610397,35.469855],
-  "geometry": {"coordinates":[-80.610397,35.469855],"type":"Point"}
+  "bbox": [
+    -80.610397,
+    35.469855,
+    -80.610397,
+    35.469855
+],
+  "geometry": {"coordinates":[-80.61039700000001,35.469855],"type":"Point"}
 }

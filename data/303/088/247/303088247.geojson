@@ -2,13 +2,14 @@
   "id": 303088247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.868739,34.128773,-77.868739,34.128773",
     "geom:latitude":34.128773,
     "geom:longitude":-77.868739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5404 Peden Point Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303088247,
-    "wof:lastmodified":1449000022,
+    "wof:lastmodified":1466644522,
     "wof:name":"Shofes Painting",
     "wof:parent_id":85822927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.868739,34.128773,-77.868739,34.128773],
-  "geometry": {"coordinates":[-77.868739,34.128773],"type":"Point"}
+  "bbox": [
+    -77.868739,
+    34.128773,
+    -77.868739,
+    34.128773
+],
+  "geometry": {"coordinates":[-77.86873900000001,34.128773],"type":"Point"}
 }

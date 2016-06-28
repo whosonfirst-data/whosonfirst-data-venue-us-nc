@@ -2,13 +2,14 @@
   "id": 370399777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.448065,34.752022,-77.448065,34.752022",
     "geom:latitude":34.752022,
     "geom:longitude":-77.448065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 S Marine Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370399777,
-    "wof:lastmodified":1449029690,
+    "wof:lastmodified":1466651277,
     "wof:name":"Marine Barber Shop",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-77.448065,34.752022,-77.448065,34.752022],
+  "bbox": [
+    -77.448065,
+    34.752022,
+    -77.448065,
+    34.752022
+],
   "geometry": {"coordinates":[-77.448065,34.752022],"type":"Point"}
 }

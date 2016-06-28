@@ -2,13 +2,14 @@
   "id": 336759571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.923443,34.204129,-77.923443,34.204129",
     "geom:latitude":34.204129,
     "geom:longitude":-77.923443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 S 17th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336759571,
-    "wof:lastmodified":1448998033,
+    "wof:lastmodified":1466648243,
     "wof:name":"Womens Health Spec N",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.923443,34.204129,-77.923443,34.204129],
-  "geometry": {"coordinates":[-77.923443,34.204129],"type":"Point"}
+  "bbox": [
+    -77.923443,
+    34.204129,
+    -77.923443,
+    34.204129
+],
+  "geometry": {"coordinates":[-77.92344300000001,34.204129],"type":"Point"}
 }

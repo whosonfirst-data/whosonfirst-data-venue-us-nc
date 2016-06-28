@@ -2,13 +2,14 @@
   "id": 286886417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.427455,34.792957,-77.427455,34.792957",
     "geom:latitude":34.792957,
     "geom:longitude":-77.427455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Sandy Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286886417,
-    "wof:lastmodified":1449016806,
+    "wof:lastmodified":1466651640,
     "wof:name":"Navy Recruiting Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recruiting"
     ]
 },
-  "bbox": [-77.427455,34.792957,-77.427455,34.792957],
-  "geometry": {"coordinates":[-77.427455,34.792957],"type":"Point"}
+  "bbox": [
+    -77.427455,
+    34.792957,
+    -77.427455,
+    34.792957
+],
+  "geometry": {"coordinates":[-77.42745499999999,34.792957],"type":"Point"}
 }

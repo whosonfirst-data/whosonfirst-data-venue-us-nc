@@ -2,13 +2,14 @@
   "id": 303617847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.305517,34.995028,-78.305517,34.995028",
     "geom:latitude":34.995028,
     "geom:longitude":-78.305517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E Railroad St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303617847,
-    "wof:lastmodified":1448998201,
+    "wof:lastmodified":1466652220,
     "wof:name":"Tar Heel Hand Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-78.305517,34.995028,-78.305517,34.995028],
-  "geometry": {"coordinates":[-78.305517,34.995028],"type":"Point"}
+  "bbox": [
+    -78.305517,
+    34.995028,
+    -78.305517,
+    34.995028
+],
+  "geometry": {"coordinates":[-78.30551699999999,34.995028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320805581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.892214,35.244481,-80.892214,35.244481",
     "geom:latitude":35.244481,
     "geom:longitude":-80.892214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Freedom Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320805581,
-    "wof:lastmodified":1449012518,
+    "wof:lastmodified":1466656378,
     "wof:name":"H & R Block",
     "wof:parent_id":85856835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-80.892214,35.244481,-80.892214,35.244481],
+  "bbox": [
+    -80.892214,
+    35.244481,
+    -80.892214,
+    35.244481
+],
   "geometry": {"coordinates":[-80.892214,35.244481],"type":"Point"}
 }

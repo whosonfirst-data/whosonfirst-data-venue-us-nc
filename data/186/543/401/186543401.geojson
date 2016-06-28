@@ -2,13 +2,14 @@
   "id": 186543401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.551035,35.000936,-80.551035,35.000936",
     "geom:latitude":35.000936,
     "geom:longitude":-80.551035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1774 W Roosevelt Blvd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186543401,
-    "wof:lastmodified":1449050933,
+    "wof:lastmodified":1466654640,
     "wof:name":"H & R Block",
     "wof:parent_id":85879029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-80.551035,35.000936,-80.551035,35.000936],
+  "bbox": [
+    -80.551035,
+    35.000936,
+    -80.551035,
+    35.000936
+],
   "geometry": {"coordinates":[-80.551035,35.000936],"type":"Point"}
 }

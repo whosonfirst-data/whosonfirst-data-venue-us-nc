@@ -2,13 +2,14 @@
   "id": 371166501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.861916,34.798724,-76.861916,34.798724",
     "geom:latitude":34.798724,
     "geom:longitude":-76.861916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Park Ave",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371166501,
-    "wof:lastmodified":1449049644,
+    "wof:lastmodified":1466650926,
     "wof:name":"Newport Home Maintenance",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.861916,34.798724,-76.861916,34.798724],
-  "geometry": {"coordinates":[-76.861916,34.798724],"type":"Point"}
+  "bbox": [
+    -76.861916,
+    34.798724,
+    -76.861916,
+    34.798724
+],
+  "geometry": {"coordinates":[-76.86191599999999,34.798724],"type":"Point"}
 }

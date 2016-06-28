@@ -2,13 +2,14 @@
   "id": 186489093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.59489,35.806269,-78.59489,35.806269",
     "geom:latitude":35.806269,
     "geom:longitude":-78.59489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2539 Noblin Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186489093,
-    "wof:lastmodified":1449051847,
+    "wof:lastmodified":1466654324,
     "wof:name":"A & D Relocation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.59489,35.806269,-78.59489,35.806269],
-  "geometry": {"coordinates":[-78.59489,35.806269],"type":"Point"}
+  "bbox": [
+    -78.59489,
+    35.806269,
+    -78.59489,
+    35.806269
+],
+  "geometry": {"coordinates":[-78.59489000000001,35.806269],"type":"Point"}
 }

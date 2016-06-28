@@ -2,13 +2,14 @@
   "id": 287299607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.392665,36.036492,-79.392665,36.036492",
     "geom:latitude":36.036492,
     "geom:longitude":-79.392665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 S Main St",
     "sg:city":"Graham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287299607,
-    "wof:lastmodified":1449000879,
+    "wof:lastmodified":1466647453,
     "wof:name":"Belle Bay Inn",
     "wof:parent_id":85819909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-79.392665,36.036492,-79.392665,36.036492],
-  "geometry": {"coordinates":[-79.392665,36.036492],"type":"Point"}
+  "bbox": [
+    -79.392665,
+    36.036492,
+    -79.392665,
+    36.036492
+],
+  "geometry": {"coordinates":[-79.39266499999999,36.036492],"type":"Point"}
 }

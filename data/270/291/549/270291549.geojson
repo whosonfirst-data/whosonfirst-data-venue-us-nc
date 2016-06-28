@@ -2,13 +2,14 @@
   "id": 270291549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.923847,35.229316,-80.923847,35.229316",
     "geom:latitude":35.229316,
     "geom:longitude":-80.923847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 Boyer St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270291549,
-    "wof:lastmodified":1449009366,
+    "wof:lastmodified":1466646757,
     "wof:name":"Daye Enterprises",
     "wof:parent_id":85871239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.923847,35.229316,-80.923847,35.229316],
-  "geometry": {"coordinates":[-80.923847,35.229316],"type":"Point"}
+  "bbox": [
+    -80.923847,
+    35.229316,
+    -80.923847,
+    35.229316
+],
+  "geometry": {"coordinates":[-80.92384699999999,35.229316],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219462781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.054784,35.559442,-77.054784,35.559442",
     "geom:latitude":35.559442,
     "geom:longitude":-77.054784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 W 15th St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219462781,
-    "wof:lastmodified":1449073775,
+    "wof:lastmodified":1466644610,
     "wof:name":"Thompson Calibration Lab",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instrument"
     ]
 },
-  "bbox": [-77.054784,35.559442,-77.054784,35.559442],
+  "bbox": [
+    -77.054784,
+    35.559442,
+    -77.054784,
+    35.559442
+],
   "geometry": {"coordinates":[-77.054784,35.559442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320542099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.726616,34.724141,-76.726616,34.724141",
     "geom:latitude":34.724141,
     "geom:longitude":-76.726616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Fisher St",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320542099,
-    "wof:lastmodified":1449014130,
+    "wof:lastmodified":1466652976,
     "wof:name":"Virtual Resort Manager",
     "wof:parent_id":85851523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "software"
     ]
 },
-  "bbox": [-76.726616,34.724141,-76.726616,34.724141],
-  "geometry": {"coordinates":[-76.726616,34.724141],"type":"Point"}
+  "bbox": [
+    -76.726616,
+    34.724141,
+    -76.726616,
+    34.724141
+],
+  "geometry": {"coordinates":[-76.72661600000001,34.724141],"type":"Point"}
 }

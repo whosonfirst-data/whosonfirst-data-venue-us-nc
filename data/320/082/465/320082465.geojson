@@ -2,13 +2,14 @@
   "id": 320082465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.00753,35.956559,-80.00753,35.956559",
     "geom:latitude":35.956559,
     "geom:longitude":-80.00753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 W High Ave",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320082465,
-    "wof:lastmodified":1449011353,
+    "wof:lastmodified":1466646464,
     "wof:name":"Weld USA",
     "wof:parent_id":85891965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.00753,35.956559,-80.00753,35.956559],
+  "bbox": [
+    -80.00753,
+    35.956559,
+    -80.00753,
+    35.956559
+],
   "geometry": {"coordinates":[-80.00753,35.956559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353814007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.81495,34.508053,-77.81495,34.508053",
     "geom:latitude":34.508053,
     "geom:longitude":-77.81495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4324 Shaw Hwy",
     "sg:city":"Rocky Point",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353814007,
-    "wof:lastmodified":1449018719,
+    "wof:lastmodified":1466651928,
     "wof:name":"Whitehead Sand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-77.81495,34.508053,-77.81495,34.508053],
+  "bbox": [
+    -77.81495,
+    34.508053,
+    -77.81495,
+    34.508053
+],
   "geometry": {"coordinates":[-77.81495,34.508053],"type":"Point"}
 }

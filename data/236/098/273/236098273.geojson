@@ -2,13 +2,14 @@
   "id": 236098273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.750099,35.865845,-76.750099,35.865845",
     "geom:latitude":35.865845,
     "geom:longitude":-76.750099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Washington St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236098273,
-    "wof:lastmodified":1449004825,
+    "wof:lastmodified":1466644096,
     "wof:name":"Smith & Austin Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-76.750099,35.865845,-76.750099,35.865845],
-  "geometry": {"coordinates":[-76.750099,35.865845],"type":"Point"}
+  "bbox": [
+    -76.750099,
+    35.865845,
+    -76.750099,
+    35.865845
+],
+  "geometry": {"coordinates":[-76.75009900000001,35.865845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387104551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.271116,36.093329,-79.271116,36.093329",
     "geom:latitude":36.093329,
     "geom:longitude":-79.271116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 W Lee St",
     "sg:city":"Mebane",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387104551,
-    "wof:lastmodified":1449057670,
+    "wof:lastmodified":1466651212,
     "wof:name":"Cairco",
     "wof:parent_id":85832733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.271116,36.093329,-79.271116,36.093329],
-  "geometry": {"coordinates":[-79.271116,36.093329],"type":"Point"}
+  "bbox": [
+    -79.271116,
+    36.093329,
+    -79.271116,
+    36.093329
+],
+  "geometry": {"coordinates":[-79.27111600000001,36.093329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387881511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.36781,35.748918,-81.36781,35.748918",
     "geom:latitude":35.748918,
     "geom:longitude":-81.36781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 US Hwy 321",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387881511,
-    "wof:lastmodified":1449058310,
+    "wof:lastmodified":1466658063,
     "wof:name":"Lambert's Cable Splicing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.36781,35.748918,-81.36781,35.748918],
-  "geometry": {"coordinates":[-81.36781,35.748918],"type":"Point"}
+  "bbox": [
+    -81.36781,
+    35.748918,
+    -81.36781,
+    35.748918
+],
+  "geometry": {"coordinates":[-81.36781000000001,35.748918],"type":"Point"}
 }

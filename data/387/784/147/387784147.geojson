@@ -2,13 +2,14 @@
   "id": 387784147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.677979,35.319151,-78.677979,35.319151",
     "geom:latitude":35.319151,
     "geom:longitude":-78.677979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 S 13th St",
     "sg:city":"Erwin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387784147,
-    "wof:lastmodified":1449058650,
+    "wof:lastmodified":1466657638,
     "wof:name":"Holmes Hardware",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.677979,35.319151,-78.677979,35.319151],
-  "geometry": {"coordinates":[-78.677979,35.319151],"type":"Point"}
+  "bbox": [
+    -78.677979,
+    35.319151,
+    -78.677979,
+    35.319151
+],
+  "geometry": {"coordinates":[-78.67797899999999,35.319151],"type":"Point"}
 }

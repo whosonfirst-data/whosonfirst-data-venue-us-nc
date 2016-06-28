@@ -2,13 +2,14 @@
   "id": 303819861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.599966,35.831014,-78.599966,35.831014",
     "geom:latitude":35.831014,
     "geom:longitude":-78.599966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3508 Brentwood Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303819861,
-    "wof:lastmodified":1448998694,
+    "wof:lastmodified":1466655146,
     "wof:name":"Aggressive Bail Bond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.599966,35.831014,-78.599966,35.831014],
-  "geometry": {"coordinates":[-78.599966,35.831014],"type":"Point"}
+  "bbox": [
+    -78.599966,
+    35.831014,
+    -78.599966,
+    35.831014
+],
+  "geometry": {"coordinates":[-78.59996599999999,35.831014],"type":"Point"}
 }

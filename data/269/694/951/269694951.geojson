@@ -2,13 +2,14 @@
   "id": 269694951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.618701,35.834612,-78.618701,35.834612",
     "geom:latitude":35.834612,
     "geom:longitude":-78.618701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3724 Benson Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269694951,
-    "wof:lastmodified":1449036833,
+    "wof:lastmodified":1466645727,
     "wof:name":"North Carolina Behavioral Hlth",
     "wof:parent_id":85817003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-78.618701,35.834612,-78.618701,35.834612],
+  "bbox": [
+    -78.618701,
+    35.834612,
+    -78.618701,
+    35.834612
+],
   "geometry": {"coordinates":[-78.618701,35.834612],"type":"Point"}
 }

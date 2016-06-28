@@ -2,13 +2,14 @@
   "id": 236633281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.5353,35.898147,-77.5353,35.898147",
     "geom:latitude":35.898147,
     "geom:longitude":-77.5353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 N Main St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236633281,
-    "wof:lastmodified":1449005220,
+    "wof:lastmodified":1466648833,
     "wof:name":"Wild Hare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.5353,35.898147,-77.5353,35.898147],
-  "geometry": {"coordinates":[-77.5353,35.898147],"type":"Point"}
+  "bbox": [
+    -77.5353,
+    35.898147,
+    -77.5353,
+    35.898147
+],
+  "geometry": {"coordinates":[-77.53530000000001,35.898147],"type":"Point"}
 }

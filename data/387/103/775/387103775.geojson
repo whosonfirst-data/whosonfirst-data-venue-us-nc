@@ -2,13 +2,14 @@
   "id": 387103775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.243839,36.243922,-81.243839,36.243922",
     "geom:latitude":36.243922,
     "geom:longitude":-81.243839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1497 Sand Ridge Rd",
     "sg:city":"Millers Creek",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387103775,
-    "wof:lastmodified":1449058487,
+    "wof:lastmodified":1466651203,
     "wof:name":"Robert G Bare",
     "wof:parent_id":85828719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.243839,36.243922,-81.243839,36.243922],
-  "geometry": {"coordinates":[-81.243839,36.243922],"type":"Point"}
+  "bbox": [
+    -81.243839,
+    36.243922,
+    -81.243839,
+    36.243922
+],
+  "geometry": {"coordinates":[-81.24383899999999,36.243922],"type":"Point"}
 }

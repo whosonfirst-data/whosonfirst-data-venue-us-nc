@@ -2,13 +2,14 @@
   "id": 403897295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.583563,35.293151,-77.583563,35.293151",
     "geom:latitude":35.293151,
     "geom:longitude":-77.583563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Airport Rd",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403897295,
-    "wof:lastmodified":1449055759,
+    "wof:lastmodified":1466652865,
     "wof:name":"Carolina Home Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-77.583563,35.293151,-77.583563,35.293151],
+  "bbox": [
+    -77.583563,
+    35.293151,
+    -77.583563,
+    35.293151
+],
   "geometry": {"coordinates":[-77.583563,35.293151],"type":"Point"}
 }

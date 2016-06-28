@@ -2,13 +2,14 @@
   "id": 320322327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92083,36.320707,-79.92083,36.320707",
     "geom:latitude":36.320707,
     "geom:longitude":-79.92083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Angell Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320322327,
-    "wof:lastmodified":1449011218,
+    "wof:lastmodified":1466649801,
     "wof:name":"Johnston Hauling & Grading",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hauling"
     ]
 },
-  "bbox": [-79.92083,36.320707,-79.92083,36.320707],
+  "bbox": [
+    -79.92083,
+    36.320707,
+    -79.92083,
+    36.320707
+],
   "geometry": {"coordinates":[-79.92083,36.320707],"type":"Point"}
 }

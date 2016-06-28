@@ -2,13 +2,14 @@
   "id": 304082961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.255625,35.471869,-81.255625,35.471869",
     "geom:latitude":35.471869,
     "geom:longitude":-81.255625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 E Main St",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304082961,
-    "wof:lastmodified":1449043605,
+    "wof:lastmodified":1466645329,
     "wof:name":"Syscon 1 Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.255625,35.471869,-81.255625,35.471869],
-  "geometry": {"coordinates":[-81.255625,35.471869],"type":"Point"}
+  "bbox": [
+    -81.255625,
+    35.471869,
+    -81.255625,
+    35.471869
+],
+  "geometry": {"coordinates":[-81.25562499999999,35.471869],"type":"Point"}
 }

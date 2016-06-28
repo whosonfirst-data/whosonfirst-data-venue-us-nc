@@ -2,13 +2,14 @@
   "id": 286629263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.351312,35.208062,-80.351312,35.208062",
     "geom:latitude":35.208062,
     "geom:longitude":-80.351312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8285 Swift Rd",
     "sg:city":"Oakboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286629263,
-    "wof:lastmodified":1449017439,
+    "wof:lastmodified":1466648129,
     "wof:name":"Hopkins Home Crafters",
     "wof:parent_id":85892003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.351312,35.208062,-80.351312,35.208062],
-  "geometry": {"coordinates":[-80.351312,35.208062],"type":"Point"}
+  "bbox": [
+    -80.351312,
+    35.208062,
+    -80.351312,
+    35.208062
+],
+  "geometry": {"coordinates":[-80.35131199999999,35.208062],"type":"Point"}
 }

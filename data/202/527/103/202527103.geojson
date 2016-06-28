@@ -2,13 +2,14 @@
   "id": 202527103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.19759,35.352172,-80.19759,35.352172",
     "geom:latitude":35.352172,
     "geom:longitude":-80.19759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 E North St",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202527103,
-    "wof:lastmodified":1449062142,
+    "wof:lastmodified":1466655141,
     "wof:name":"Marvin Smith Driving School",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.19759,35.352172,-80.19759,35.352172],
-  "geometry": {"coordinates":[-80.19759,35.352172],"type":"Point"}
+  "bbox": [
+    -80.19759,
+    35.352172,
+    -80.19759,
+    35.352172
+],
+  "geometry": {"coordinates":[-80.19759000000001,35.352172],"type":"Point"}
 }

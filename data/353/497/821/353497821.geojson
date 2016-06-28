@@ -2,13 +2,14 @@
   "id": 353497821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.505535,36.218635,-81.505535,36.218635",
     "geom:latitude":36.218635,
     "geom:longitude":-81.505535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Hickory Knoll",
     "sg:city":"Deep Gap",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353497821,
-    "wof:lastmodified":1449020739,
+    "wof:lastmodified":1466648129,
     "wof:name":"Edwards Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "agency"
     ]
 },
-  "bbox": [-81.505535,36.218635,-81.505535,36.218635],
-  "geometry": {"coordinates":[-81.505535,36.218635],"type":"Point"}
+  "bbox": [
+    -81.505535,
+    36.218635,
+    -81.505535,
+    36.218635
+],
+  "geometry": {"coordinates":[-81.50553499999999,36.218635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370508587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.518616,35.532528,-82.518616,35.532528",
     "geom:latitude":35.532528,
     "geom:longitude":-82.518616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Sweeten Creek Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370508587,
-    "wof:lastmodified":1449030968,
+    "wof:lastmodified":1466652665,
     "wof:name":"Alpine Fence Co",
     "wof:parent_id":85851091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-82.518616,35.532528,-82.518616,35.532528],
-  "geometry": {"coordinates":[-82.518616,35.532528],"type":"Point"}
+  "bbox": [
+    -82.518616,
+    35.532528,
+    -82.518616,
+    35.532528
+],
+  "geometry": {"coordinates":[-82.51861599999999,35.532528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370365137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.356102,35.580239,-77.356102,35.580239",
     "geom:latitude":35.580239,
     "geom:longitude":-77.356102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Conference Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370365137,
-    "wof:lastmodified":1449029632,
+    "wof:lastmodified":1466650821,
     "wof:name":"Baldwind & Associates Engrg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.356102,35.580239,-77.356102,35.580239],
-  "geometry": {"coordinates":[-77.356102,35.580239],"type":"Point"}
+  "bbox": [
+    -77.356102,
+    35.580239,
+    -77.356102,
+    35.580239
+],
+  "geometry": {"coordinates":[-77.35610200000001,35.580239],"type":"Point"}
 }

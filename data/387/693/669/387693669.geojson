@@ -2,13 +2,14 @@
   "id": 387693669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.114629,36.368976,-81.114629,36.368976",
     "geom:latitude":36.368976,
     "geom:longitude":-81.114629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8635 Longbottom Rd",
     "sg:city":"Hays",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387693669,
-    "wof:lastmodified":1449056330,
+    "wof:lastmodified":1466657381,
     "wof:name":"Bower's Lock Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-81.114629,36.368976,-81.114629,36.368976],
-  "geometry": {"coordinates":[-81.114629,36.368976],"type":"Point"}
+  "bbox": [
+    -81.114629,
+    36.368976,
+    -81.114629,
+    36.368976
+],
+  "geometry": {"coordinates":[-81.11462899999999,36.368976],"type":"Point"}
 }

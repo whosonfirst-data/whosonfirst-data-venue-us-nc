@@ -2,13 +2,14 @@
   "id": 387589601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.87986,34.201806,-77.87986,34.201806",
     "geom:latitude":34.201806,
     "geom:longitude":-77.87986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4631 Mockingbird Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387589601,
-    "wof:lastmodified":1449058140,
+    "wof:lastmodified":1466656606,
     "wof:name":"American Painting Svc",
     "wof:parent_id":85842005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-77.87986,34.201806,-77.87986,34.201806],
-  "geometry": {"coordinates":[-77.87986,34.201806],"type":"Point"}
+  "bbox": [
+    -77.87986,
+    34.201806,
+    -77.87986,
+    34.201806
+],
+  "geometry": {"coordinates":[-77.87985999999999,34.201806],"type":"Point"}
 }

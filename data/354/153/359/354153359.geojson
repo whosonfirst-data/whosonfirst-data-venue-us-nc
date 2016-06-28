@@ -2,13 +2,14 @@
   "id": 354153359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.595718,35.58694,-82.595718,35.58694",
     "geom:latitude":35.58694,
     "geom:longitude":-82.595718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Patton Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354153359,
-    "wof:lastmodified":1449067144,
+    "wof:lastmodified":1466649331,
     "wof:name":"Bi-Lo LLC",
     "wof:parent_id":85828711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chain"
     ]
 },
-  "bbox": [-82.595718,35.58694,-82.595718,35.58694],
-  "geometry": {"coordinates":[-82.595718,35.58694],"type":"Point"}
+  "bbox": [
+    -82.595718,
+    35.58694,
+    -82.595718,
+    35.58694
+],
+  "geometry": {"coordinates":[-82.59571800000001,35.58694],"type":"Point"}
 }

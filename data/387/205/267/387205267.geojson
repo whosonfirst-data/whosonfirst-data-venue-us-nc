@@ -2,13 +2,14 @@
   "id": 387205267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.424242,35.374329,-77.424242,35.374329",
     "geom:latitude":35.374329,
     "geom:longitude":-77.424242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Wall St",
     "sg:city":"Grifton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387205267,
-    "wof:lastmodified":1449058407,
+    "wof:lastmodified":1466652567,
     "wof:name":"Grifton Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rest"
     ]
 },
-  "bbox": [-77.424242,35.374329,-77.424242,35.374329],
-  "geometry": {"coordinates":[-77.424242,35.374329],"type":"Point"}
+  "bbox": [
+    -77.424242,
+    35.374329,
+    -77.424242,
+    35.374329
+],
+  "geometry": {"coordinates":[-77.42424200000001,35.374329],"type":"Point"}
 }

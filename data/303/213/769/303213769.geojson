@@ -2,13 +2,14 @@
   "id": 303213769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.626586,34.709276,-76.626586,34.709276",
     "geom:latitude":34.709276,
     "geom:longitude":-76.626586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Lukas Ln",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303213769,
-    "wof:lastmodified":1448998146,
+    "wof:lastmodified":1466646414,
     "wof:name":"Gatewood Apartments",
     "wof:parent_id":85805099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-76.626586,34.709276,-76.626586,34.709276],
+  "bbox": [
+    -76.626586,
+    34.709276,
+    -76.626586,
+    34.709276
+],
   "geometry": {"coordinates":[-76.626586,34.709276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303299295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.584548,35.84278,-78.584548,35.84278",
     "geom:latitude":35.84278,
     "geom:longitude":-78.584548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4516 Waterbury Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303299295,
-    "wof:lastmodified":1448998735,
+    "wof:lastmodified":1466647662,
     "wof:name":"Hawley Maker",
     "wof:parent_id":85824473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appliance"
     ]
 },
-  "bbox": [-78.584548,35.84278,-78.584548,35.84278],
+  "bbox": [
+    -78.584548,
+    35.84278,
+    -78.584548,
+    35.84278
+],
   "geometry": {"coordinates":[-78.584548,35.84278],"type":"Point"}
 }

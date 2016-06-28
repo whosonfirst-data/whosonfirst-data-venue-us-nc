@@ -2,13 +2,14 @@
   "id": 303598163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.938459,34.198658,-77.938459,34.198658",
     "geom:latitude":34.198658,
     "geom:longitude":-77.938459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Carolina Beach Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303598163,
-    "wof:lastmodified":1448998250,
+    "wof:lastmodified":1466651924,
     "wof:name":"Auto Wizard",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-77.938459,34.198658,-77.938459,34.198658],
-  "geometry": {"coordinates":[-77.938459,34.198658],"type":"Point"}
+  "bbox": [
+    -77.938459,
+    34.198658,
+    -77.938459,
+    34.198658
+],
+  "geometry": {"coordinates":[-77.93845899999999,34.198658],"type":"Point"}
 }

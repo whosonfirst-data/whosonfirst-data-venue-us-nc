@@ -2,13 +2,14 @@
   "id": 287281717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.743775,36.503584,-79.743775,36.503584",
     "geom:latitude":36.503584,
     "geom:longitude":-79.743775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Van Buren Rd",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287281717,
-    "wof:lastmodified":1449001434,
+    "wof:lastmodified":1466647215,
     "wof:name":"Top Hat Cleaners",
     "wof:parent_id":85810227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-79.743775,36.503584,-79.743775,36.503584],
+  "bbox": [
+    -79.743775,
+    36.503584,
+    -79.743775,
+    36.503584
+],
   "geometry": {"coordinates":[-79.743775,36.503584],"type":"Point"}
 }

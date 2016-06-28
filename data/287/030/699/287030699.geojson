@@ -2,13 +2,14 @@
   "id": 287030699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.457585,34.758213,-77.457585,34.758213",
     "geom:latitude":34.758213,
     "geom:longitude":-77.457585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Daffodil Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287030699,
-    "wof:lastmodified":1449000991,
+    "wof:lastmodified":1466643663,
     "wof:name":"Blue Creek Fishing Camp",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-77.457585,34.758213,-77.457585,34.758213],
-  "geometry": {"coordinates":[-77.457585,34.758213],"type":"Point"}
+  "bbox": [
+    -77.457585,
+    34.758213,
+    -77.457585,
+    34.758213
+],
+  "geometry": {"coordinates":[-77.45758499999999,34.758213],"type":"Point"}
 }

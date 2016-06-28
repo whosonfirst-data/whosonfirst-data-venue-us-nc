@@ -2,13 +2,14 @@
   "id": 287216483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.191345,36.150219,-81.191345,36.150219",
     "geom:latitude":36.150219,
     "geom:longitude":-81.191345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 US Hwy 421",
     "sg:city":"Wilkesboro",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":287216483,
-    "wof:lastmodified":1449001479,
+    "wof:lastmodified":1466646312,
     "wof:name":"Shoe Show",
     "wof:parent_id":85828719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.191345,36.150219,-81.191345,36.150219],
+  "bbox": [
+    -81.191345,
+    36.150219,
+    -81.191345,
+    36.150219
+],
   "geometry": {"coordinates":[-81.191345,36.150219],"type":"Point"}
 }

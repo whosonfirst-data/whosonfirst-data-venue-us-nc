@@ -2,13 +2,14 @@
   "id": 387110437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.810566,35.584175,-80.810566,35.584175",
     "geom:latitude":35.584175,
     "geom:longitude":-80.810566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 N Main St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387110437,
-    "wof:lastmodified":1449057345,
+    "wof:lastmodified":1466651288,
     "wof:name":"Abigal's Second Chance",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-80.810566,35.584175,-80.810566,35.584175],
-  "geometry": {"coordinates":[-80.810566,35.584175],"type":"Point"}
+  "bbox": [
+    -80.810566,
+    35.584175,
+    -80.810566,
+    35.584175
+],
+  "geometry": {"coordinates":[-80.81056599999999,35.584175],"type":"Point"}
 }

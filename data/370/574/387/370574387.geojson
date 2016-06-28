@@ -2,13 +2,14 @@
   "id": 370574387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.944416,34.233923,-77.944416,34.233923",
     "geom:latitude":34.233923,
     "geom:longitude":-77.944416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S 4th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370574387,
-    "wof:lastmodified":1449029045,
+    "wof:lastmodified":1466653549,
     "wof:name":"French House",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-77.944416,34.233923,-77.944416,34.233923],
+  "bbox": [
+    -77.944416,
+    34.233923,
+    -77.944416,
+    34.233923
+],
   "geometry": {"coordinates":[-77.944416,34.233923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387762595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.81199,35.790565,-78.81199,35.790565",
     "geom:latitude":35.790565,
     "geom:longitude":-78.81199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Calm Winds Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387762595,
-    "wof:lastmodified":1449058796,
+    "wof:lastmodified":1466657383,
     "wof:name":"M&A Forbes Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-78.81199,35.790565,-78.81199,35.790565],
-  "geometry": {"coordinates":[-78.81199,35.790565],"type":"Point"}
+  "bbox": [
+    -78.81199,
+    35.790565,
+    -78.81199,
+    35.790565
+],
+  "geometry": {"coordinates":[-78.81198999999999,35.790565],"type":"Point"}
 }

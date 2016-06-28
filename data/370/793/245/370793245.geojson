@@ -2,13 +2,14 @@
   "id": 370793245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.510529,35.888961,-78.510529,35.888961",
     "geom:latitude":35.888961,
     "geom:longitude":-78.510529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8104 Tara Ridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370793245,
-    "wof:lastmodified":1449030934,
+    "wof:lastmodified":1466656096,
     "wof:name":"Prov Staffing Personnel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-78.510529,35.888961,-78.510529,35.888961],
-  "geometry": {"coordinates":[-78.510529,35.888961],"type":"Point"}
+  "bbox": [
+    -78.510529,
+    35.888961,
+    -78.510529,
+    35.888961
+],
+  "geometry": {"coordinates":[-78.51052900000001,35.888961],"type":"Point"}
 }

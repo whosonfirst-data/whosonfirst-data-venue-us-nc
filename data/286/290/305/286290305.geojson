@@ -2,13 +2,14 @@
   "id": 286290305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.700572,35.700634,-78.700572,35.700634",
     "geom:latitude":35.700634,
     "geom:longitude":-78.700572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5216 Birchleaf Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286290305,
-    "wof:lastmodified":1449016446,
+    "wof:lastmodified":1466643603,
     "wof:name":"Gvm Properties LLC",
     "wof:parent_id":85892089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.700572,35.700634,-78.700572,35.700634],
-  "geometry": {"coordinates":[-78.700572,35.700634],"type":"Point"}
+  "bbox": [
+    -78.700572,
+    35.700634,
+    -78.700572,
+    35.700634
+],
+  "geometry": {"coordinates":[-78.70057199999999,35.700634],"type":"Point"}
 }

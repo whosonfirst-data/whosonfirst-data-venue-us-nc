@@ -2,13 +2,14 @@
   "id": 186582035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.43197,35.128542,-79.43197,35.128542",
     "geom:latitude":35.128542,
     "geom:longitude":-79.43197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 S Sandhills Blvd",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186582035,
-    "wof:lastmodified":1449051826,
+    "wof:lastmodified":1466654811,
     "wof:name":"D G's Tire & Auto Svc",
     "wof:parent_id":85841741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.43197,35.128542,-79.43197,35.128542],
-  "geometry": {"coordinates":[-79.43197,35.128542],"type":"Point"}
+  "bbox": [
+    -79.43197,
+    35.128542,
+    -79.43197,
+    35.128542
+],
+  "geometry": {"coordinates":[-79.43197000000001,35.128542],"type":"Point"}
 }

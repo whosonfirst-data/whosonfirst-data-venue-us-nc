@@ -2,13 +2,14 @@
   "id": 353735645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.652141,35.82905,-78.652141,35.82905",
     "geom:latitude":35.82905,
     "geom:longitude":-78.652141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Marlowe Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353735645,
-    "wof:lastmodified":1449020712,
+    "wof:lastmodified":1466651031,
     "wof:name":"Enterprise Exploration & Prod",
     "wof:parent_id":85857835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "well"
     ]
 },
-  "bbox": [-78.652141,35.82905,-78.652141,35.82905],
+  "bbox": [
+    -78.652141,
+    35.82905,
+    -78.652141,
+    35.82905
+],
   "geometry": {"coordinates":[-78.652141,35.82905],"type":"Point"}
 }

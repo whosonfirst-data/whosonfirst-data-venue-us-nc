@@ -2,13 +2,14 @@
   "id": 236758315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.178064,36.331056,-80.178064,36.331056",
     "geom:latitude":36.331056,
     "geom:longitude":-80.178064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Dodson Ridge Rd",
     "sg:city":"Walnut Cove",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236758315,
-    "wof:lastmodified":1449002485,
+    "wof:lastmodified":1466650038,
     "wof:name":"Allen MAC Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "raising"
     ]
 },
-  "bbox": [-80.178064,36.331056,-80.178064,36.331056],
-  "geometry": {"coordinates":[-80.178064,36.331056],"type":"Point"}
+  "bbox": [
+    -80.178064,
+    36.331056,
+    -80.178064,
+    36.331056
+],
+  "geometry": {"coordinates":[-80.17806400000001,36.331056],"type":"Point"}
 }

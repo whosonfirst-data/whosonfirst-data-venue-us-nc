@@ -2,13 +2,14 @@
   "id": 303739657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.087802,34.997594,-78.087802,34.997594",
     "geom:latitude":34.997594,
     "geom:longitude":-78.087802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E George St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303739657,
-    "wof:lastmodified":1448999151,
+    "wof:lastmodified":1466653986,
     "wof:name":"St Peter's AME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.087802,34.997594,-78.087802,34.997594],
+  "bbox": [
+    -78.087802,
+    34.997594,
+    -78.087802,
+    34.997594
+],
   "geometry": {"coordinates":[-78.087802,34.997594],"type":"Point"}
 }

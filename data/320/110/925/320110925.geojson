@@ -2,13 +2,14 @@
   "id": 320110925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.189063,36.531909,-78.189063,36.531909",
     "geom:latitude":36.531909,
     "geom:longitude":-78.189063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2564 US Hwy 1 N",
     "sg:city":"Norlina",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320110925,
-    "wof:lastmodified":1449012496,
+    "wof:lastmodified":1466646854,
     "wof:name":"Wise Truck Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.189063,36.531909,-78.189063,36.531909],
+  "bbox": [
+    -78.189063,
+    36.531909,
+    -78.189063,
+    36.531909
+],
   "geometry": {"coordinates":[-78.189063,36.531909],"type":"Point"}
 }

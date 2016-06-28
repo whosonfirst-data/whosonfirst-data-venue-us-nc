@@ -2,13 +2,14 @@
   "id": 269816595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943008,35.071045,-78.943008,35.071045",
     "geom:latitude":35.071045,
     "geom:longitude":-78.943008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3643 Sugarcane Cir",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269816595,
-    "wof:lastmodified":1449037544,
+    "wof:lastmodified":1466647131,
     "wof:name":"Hines Radiology PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.943008,35.071045,-78.943008,35.071045],
-  "geometry": {"coordinates":[-78.943008,35.071045],"type":"Point"}
+  "bbox": [
+    -78.943008,
+    35.071045,
+    -78.943008,
+    35.071045
+],
+  "geometry": {"coordinates":[-78.94300800000001,35.071045],"type":"Point"}
 }

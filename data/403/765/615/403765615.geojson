@@ -2,13 +2,14 @@
   "id": 403765615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.831573,35.73093,-79.831573,35.73093",
     "geom:latitude":35.73093,
     "geom:longitude":-79.831573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Greenmount Dr",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403765615,
-    "wof:lastmodified":1449055401,
+    "wof:lastmodified":1466651136,
     "wof:name":"Doug Shiflet Photography",
     "wof:parent_id":85844107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-79.831573,35.73093,-79.831573,35.73093],
-  "geometry": {"coordinates":[-79.831573,35.73093],"type":"Point"}
+  "bbox": [
+    -79.831573,
+    35.73093,
+    -79.831573,
+    35.73093
+],
+  "geometry": {"coordinates":[-79.83157300000001,35.73093],"type":"Point"}
 }

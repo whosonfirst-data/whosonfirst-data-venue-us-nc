@@ -2,13 +2,14 @@
   "id": 320813499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.589198,35.59312,-82.589198,35.59312",
     "geom:latitude":35.59312,
     "geom:longitude":-82.589198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Starmount Dr",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320813499,
-    "wof:lastmodified":1449012226,
+    "wof:lastmodified":1466656613,
     "wof:name":"Chapman",
     "wof:parent_id":85828711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-82.589198,35.59312,-82.589198,35.59312],
+  "bbox": [
+    -82.589198,
+    35.59312,
+    -82.589198,
+    35.59312
+],
   "geometry": {"coordinates":[-82.589198,35.59312],"type":"Point"}
 }

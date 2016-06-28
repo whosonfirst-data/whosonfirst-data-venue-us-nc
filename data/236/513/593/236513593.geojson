@@ -2,13 +2,14 @@
   "id": 236513593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.818958,35.56531,-78.818958,35.56531",
     "geom:latitude":35.56531,
     "geom:longitude":-78.818958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Cricket Knoll Rd",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236513593,
-    "wof:lastmodified":1449003913,
+    "wof:lastmodified":1466647724,
     "wof:name":"CMI Performance Diagnostics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vibration"
     ]
 },
-  "bbox": [-78.818958,35.56531,-78.818958,35.56531],
-  "geometry": {"coordinates":[-78.818958,35.56531],"type":"Point"}
+  "bbox": [
+    -78.818958,
+    35.56531,
+    -78.818958,
+    35.56531
+],
+  "geometry": {"coordinates":[-78.81895799999999,35.56531],"type":"Point"}
 }

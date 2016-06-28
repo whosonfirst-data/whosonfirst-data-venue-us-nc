@@ -2,13 +2,14 @@
   "id": 403853183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.414945,35.366904,-82.414945,35.366904",
     "geom:latitude":35.366904,
     "geom:longitude":-82.414945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Petunia Dr",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403853183,
-    "wof:lastmodified":1449055168,
+    "wof:lastmodified":1466652313,
     "wof:name":"Hendersonville City",
     "wof:parent_id":85858765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.414945,35.366904,-82.414945,35.366904],
+  "bbox": [
+    -82.414945,
+    35.366904,
+    -82.414945,
+    35.366904
+],
   "geometry": {"coordinates":[-82.414945,35.366904],"type":"Point"}
 }

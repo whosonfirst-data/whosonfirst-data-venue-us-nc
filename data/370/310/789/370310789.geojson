@@ -2,13 +2,14 @@
   "id": 370310789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.373377,36.328757,-78.373377,36.328757",
     "geom:latitude":36.328757,
     "geom:longitude":-78.373377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1174 Newton Dairy Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370310789,
-    "wof:lastmodified":1449031173,
+    "wof:lastmodified":1466650147,
     "wof:name":"Henderson Mini Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.373377,36.328757,-78.373377,36.328757],
+  "bbox": [
+    -78.373377,
+    36.328757,
+    -78.373377,
+    36.328757
+],
   "geometry": {"coordinates":[-78.373377,36.328757],"type":"Point"}
 }

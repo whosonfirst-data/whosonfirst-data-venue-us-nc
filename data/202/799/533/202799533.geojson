@@ -2,13 +2,14 @@
   "id": 202799533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.773024,35.768643,-78.773024,35.768643",
     "geom:latitude":35.768643,
     "geom:longitude":-78.773024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Ralph Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202799533,
-    "wof:lastmodified":1449062656,
+    "wof:lastmodified":1466644160,
     "wof:name":"James Bryan Wilson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.773024,35.768643,-78.773024,35.768643],
-  "geometry": {"coordinates":[-78.773024,35.768643],"type":"Point"}
+  "bbox": [
+    -78.773024,
+    35.768643,
+    -78.773024,
+    35.768643
+],
+  "geometry": {"coordinates":[-78.77302400000001,35.768643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270314691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.283971,35.291208,-81.283971,35.291208",
     "geom:latitude":35.291208,
     "geom:longitude":-81.283971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Texas Ave",
     "sg:city":"Bessemer City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270314691,
-    "wof:lastmodified":1449011024,
+    "wof:lastmodified":1466647053,
     "wof:name":"Anthony Flay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.283971,35.291208,-81.283971,35.291208],
-  "geometry": {"coordinates":[-81.283971,35.291208],"type":"Point"}
+  "bbox": [
+    -81.283971,
+    35.291208,
+    -81.283971,
+    35.291208
+],
+  "geometry": {"coordinates":[-81.28397099999999,35.291208],"type":"Point"}
 }

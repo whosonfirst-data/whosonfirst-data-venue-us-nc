@@ -2,13 +2,14 @@
   "id": 303409569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.890481,35.476789,-82.890481,35.476789",
     "geom:latitude":35.476789,
     "geom:longitude":-82.890481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5265 Old River Rd",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303409569,
-    "wof:lastmodified":1448999122,
+    "wof:lastmodified":1466649205,
     "wof:name":"Roundman's 24 Hour Wrecker Svc",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.890481,35.476789,-82.890481,35.476789],
-  "geometry": {"coordinates":[-82.890481,35.476789],"type":"Point"}
+  "bbox": [
+    -82.890481,
+    35.476789,
+    -82.890481,
+    35.476789
+],
+  "geometry": {"coordinates":[-82.89048099999999,35.476789],"type":"Point"}
 }

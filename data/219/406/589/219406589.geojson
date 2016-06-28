@@ -2,13 +2,14 @@
   "id": 219406589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.408087,35.527191,-77.408087,35.527191",
     "geom:latitude":35.527191,
     "geom:longitude":-77.408087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 State Hwy 11 S",
     "sg:city":"Winterville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219406589,
-    "wof:lastmodified":1449072271,
+    "wof:lastmodified":1466644187,
     "wof:name":"Us Cellular Inc",
     "wof:parent_id":85845283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-77.408087,35.527191,-77.408087,35.527191],
-  "geometry": {"coordinates":[-77.408087,35.527191],"type":"Point"}
+  "bbox": [
+    -77.408087,
+    35.527191,
+    -77.408087,
+    35.527191
+],
+  "geometry": {"coordinates":[-77.40808699999999,35.527191],"type":"Point"}
 }

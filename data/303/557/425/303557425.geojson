@@ -2,13 +2,14 @@
   "id": 303557425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.850496,34.266716,-77.850496,34.266716",
     "geom:latitude":34.266716,
     "geom:longitude":-77.850496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 Patsy Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303557425,
-    "wof:lastmodified":1448999862,
+    "wof:lastmodified":1466651345,
     "wof:name":"Chitwood Lawn Care & Landscpg",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-77.850496,34.266716,-77.850496,34.266716],
-  "geometry": {"coordinates":[-77.850496,34.266716],"type":"Point"}
+  "bbox": [
+    -77.850496,
+    34.266716,
+    -77.850496,
+    34.266716
+],
+  "geometry": {"coordinates":[-77.85049600000001,34.266716],"type":"Point"}
 }

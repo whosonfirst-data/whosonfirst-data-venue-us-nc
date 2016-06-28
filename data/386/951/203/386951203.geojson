@@ -2,13 +2,14 @@
   "id": 386951203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.803101,35.980131,-77.803101,35.980131",
     "geom:latitude":35.980131,
     "geom:longitude":-77.803101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1143 Jeffreys Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386951203,
-    "wof:lastmodified":1449028632,
+    "wof:lastmodified":1466649675,
     "wof:name":"Security Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-77.803101,35.980131,-77.803101,35.980131],
+  "bbox": [
+    -77.803101,
+    35.980131,
+    -77.803101,
+    35.980131
+],
   "geometry": {"coordinates":[-77.803101,35.980131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253732413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.576349,35.855308,-78.576349,35.855308",
     "geom:latitude":35.855308,
     "geom:longitude":-78.576349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Cape Breton Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253732413,
-    "wof:lastmodified":1449065888,
+    "wof:lastmodified":1466651167,
     "wof:name":"Avonlea Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.576349,35.855308,-78.576349,35.855308],
-  "geometry": {"coordinates":[-78.576349,35.855308],"type":"Point"}
+  "bbox": [
+    -78.576349,
+    35.855308,
+    -78.576349,
+    35.855308
+],
+  "geometry": {"coordinates":[-78.57634899999999,35.855308],"type":"Point"}
 }

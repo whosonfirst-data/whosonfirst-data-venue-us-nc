@@ -2,13 +2,14 @@
   "id": 387555119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223475,35.969779,-80.223475,35.969779",
     "geom:latitude":35.969779,
     "geom:longitude":-80.223475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11173 Old US Hwy 52",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387555119,
-    "wof:lastmodified":1449059384,
+    "wof:lastmodified":1466656561,
     "wof:name":"Davidson Steel Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welding"
     ]
 },
-  "bbox": [-80.223475,35.969779,-80.223475,35.969779],
-  "geometry": {"coordinates":[-80.223475,35.969779],"type":"Point"}
+  "bbox": [
+    -80.223475,
+    35.969779,
+    -80.223475,
+    35.969779
+],
+  "geometry": {"coordinates":[-80.22347499999999,35.969779],"type":"Point"}
 }

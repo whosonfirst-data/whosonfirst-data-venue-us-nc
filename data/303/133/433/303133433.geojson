@@ -2,13 +2,14 @@
   "id": 303133433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.807334,34.269946,-77.807334,34.269946",
     "geom:latitude":34.269946,
     "geom:longitude":-77.807334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 Oyster Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303133433,
-    "wof:lastmodified":1449000139,
+    "wof:lastmodified":1466645217,
     "wof:name":"Et Tu Inc",
     "wof:parent_id":85807111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.807334,34.269946,-77.807334,34.269946],
+  "bbox": [
+    -77.807334,
+    34.269946,
+    -77.807334,
+    34.269946
+],
   "geometry": {"coordinates":[-77.807334,34.269946],"type":"Point"}
 }

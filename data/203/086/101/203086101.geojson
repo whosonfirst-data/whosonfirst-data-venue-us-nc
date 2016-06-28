@@ -2,13 +2,14 @@
   "id": 203086101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.786037,35.828069,-79.786037,35.828069",
     "geom:latitude":35.828069,
     "geom:longitude":-79.786037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4090 Brown Oaks Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203086101,
-    "wof:lastmodified":1449026251,
+    "wof:lastmodified":1466654728,
     "wof:name":"North Star Transport Inc",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.786037,35.828069,-79.786037,35.828069],
-  "geometry": {"coordinates":[-79.786037,35.828069],"type":"Point"}
+  "bbox": [
+    -79.786037,
+    35.828069,
+    -79.786037,
+    35.828069
+],
+  "geometry": {"coordinates":[-79.78603699999999,35.828069],"type":"Point"}
 }

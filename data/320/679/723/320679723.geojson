@@ -2,13 +2,14 @@
   "id": 320679723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.557144,35.616465,-82.557144,35.616465",
     "geom:latitude":35.616465,
     "geom:longitude":-82.557144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Chatham Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320679723,
-    "wof:lastmodified":1449013666,
+    "wof:lastmodified":1466654973,
     "wof:name":"Asheville Alignment Service",
     "wof:parent_id":85859101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "alignment"
     ]
 },
-  "bbox": [-82.557144,35.616465,-82.557144,35.616465],
-  "geometry": {"coordinates":[-82.557144,35.616465],"type":"Point"}
+  "bbox": [
+    -82.557144,
+    35.616465,
+    -82.557144,
+    35.616465
+],
+  "geometry": {"coordinates":[-82.55714399999999,35.616465],"type":"Point"}
 }

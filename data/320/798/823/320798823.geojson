@@ -2,13 +2,14 @@
   "id": 320798823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.323484,36.077816,-79.323484,36.077816",
     "geom:latitude":36.077816,
     "geom:longitude":-79.323484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Trollingwood Hawfields Rd",
     "sg:city":"Mebane",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320798823,
-    "wof:lastmodified":1449011953,
+    "wof:lastmodified":1466656325,
     "wof:name":"Dns International",
     "wof:parent_id":85832733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tool"
     ]
 },
-  "bbox": [-79.323484,36.077816,-79.323484,36.077816],
-  "geometry": {"coordinates":[-79.323484,36.077816],"type":"Point"}
+  "bbox": [
+    -79.323484,
+    36.077816,
+    -79.323484,
+    36.077816
+],
+  "geometry": {"coordinates":[-79.32348399999999,36.077816],"type":"Point"}
 }

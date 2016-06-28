@@ -2,13 +2,14 @@
   "id": 387321949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.331555,35.598167,-77.331555,35.598167",
     "geom:latitude":35.598167,
     "geom:longitude":-77.331555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 Eastgate Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387321949,
-    "wof:lastmodified":1449056210,
+    "wof:lastmodified":1466654099,
     "wof:name":"WGB Properties",
     "wof:parent_id":85817161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.331555,35.598167,-77.331555,35.598167],
-  "geometry": {"coordinates":[-77.331555,35.598167],"type":"Point"}
+  "bbox": [
+    -77.331555,
+    35.598167,
+    -77.331555,
+    35.598167
+],
+  "geometry": {"coordinates":[-77.33155499999999,35.598167],"type":"Point"}
 }

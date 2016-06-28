@@ -2,13 +2,14 @@
   "id": 386970449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.655983,34.718483,-76.655983,34.718483",
     "geom:latitude":34.718483,
     "geom:longitude":-76.655983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Live Oak St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386970449,
-    "wof:lastmodified":1449028972,
+    "wof:lastmodified":1466649938,
     "wof:name":"Billy's Auto Sales",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-76.655983,34.718483,-76.655983,34.718483],
-  "geometry": {"coordinates":[-76.655983,34.718483],"type":"Point"}
+  "bbox": [
+    -76.655983,
+    34.718483,
+    -76.655983,
+    34.718483
+],
+  "geometry": {"coordinates":[-76.65598300000001,34.718483],"type":"Point"}
 }

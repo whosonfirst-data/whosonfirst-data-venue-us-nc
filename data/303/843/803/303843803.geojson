@@ -2,13 +2,14 @@
   "id": 303843803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.060786,35.281683,-79.060786,35.281683",
     "geom:latitude":35.281683,
     "geom:longitude":-79.060786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Coachman Way",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303843803,
-    "wof:lastmodified":1448998337,
+    "wof:lastmodified":1466655500,
     "wof:name":"Harvest Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-79.060786,35.281683,-79.060786,35.281683],
-  "geometry": {"coordinates":[-79.060786,35.281683],"type":"Point"}
+  "bbox": [
+    -79.060786,
+    35.281683,
+    -79.060786,
+    35.281683
+],
+  "geometry": {"coordinates":[-79.06078599999999,35.281683],"type":"Point"}
 }

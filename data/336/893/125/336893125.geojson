@@ -2,13 +2,14 @@
   "id": 336893125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985488,36.009364,-79.985488,36.009364",
     "geom:latitude":36.009364,
     "geom:longitude":-79.985488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Eastchester Dr",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336893125,
-    "wof:lastmodified":1448997828,
+    "wof:lastmodified":1466650308,
     "wof:name":"DDS Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-79.985488,36.009364,-79.985488,36.009364],
+  "bbox": [
+    -79.985488,
+    36.009364,
+    -79.985488,
+    36.009364
+],
   "geometry": {"coordinates":[-79.985488,36.009364],"type":"Point"}
 }

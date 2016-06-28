@@ -2,13 +2,14 @@
   "id": 303194067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.857509,34.937365,-78.857509,34.937365",
     "geom:latitude":34.937365,
     "geom:longitude":-78.857509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 Smith Rd",
     "sg:city":"Hope Mills",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303194067,
-    "wof:lastmodified":1449000207,
+    "wof:lastmodified":1466646133,
     "wof:name":"Wilson Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.857509,34.937365,-78.857509,34.937365],
-  "geometry": {"coordinates":[-78.857509,34.937365],"type":"Point"}
+  "bbox": [
+    -78.857509,
+    34.937365,
+    -78.857509,
+    34.937365
+],
+  "geometry": {"coordinates":[-78.85750899999999,34.937365],"type":"Point"}
 }

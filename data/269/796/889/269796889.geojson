@@ -2,13 +2,14 @@
   "id": 269796889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.345852,35.013164,-78.345852,35.013164",
     "geom:latitude":35.013164,
     "geom:longitude":-78.345852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Ellis St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269796889,
-    "wof:lastmodified":1449037266,
+    "wof:lastmodified":1466646917,
     "wof:name":"Lee's Locksmith & Home Scrty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-78.345852,35.013164,-78.345852,35.013164],
-  "geometry": {"coordinates":[-78.345852,35.013164],"type":"Point"}
+  "bbox": [
+    -78.345852,
+    35.013164,
+    -78.345852,
+    35.013164
+],
+  "geometry": {"coordinates":[-78.34585199999999,35.013164],"type":"Point"}
 }

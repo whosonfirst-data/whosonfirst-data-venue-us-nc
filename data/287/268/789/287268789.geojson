@@ -2,13 +2,14 @@
   "id": 287268789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.642333,35.655223,-78.642333,35.655223",
     "geom:latitude":35.655223,
     "geom:longitude":-78.642333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Rand Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287268789,
-    "wof:lastmodified":1449001178,
+    "wof:lastmodified":1466647038,
     "wof:name":"Gulley's Backhoe Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "septic"
     ]
 },
-  "bbox": [-78.642333,35.655223,-78.642333,35.655223],
-  "geometry": {"coordinates":[-78.642333,35.655223],"type":"Point"}
+  "bbox": [
+    -78.642333,
+    35.655223,
+    -78.642333,
+    35.655223
+],
+  "geometry": {"coordinates":[-78.64233299999999,35.655223],"type":"Point"}
 }

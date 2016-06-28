@@ -2,13 +2,14 @@
   "id": 203356299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.554667,35.595216,-82.554667,35.595216",
     "geom:latitude":35.595216,
     "geom:longitude":-82.554667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Battery Park Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203356299,
-    "wof:lastmodified":1449026501,
+    "wof:lastmodified":1466643664,
     "wof:name":"Chicago High Fashions",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furnishing"
     ]
 },
-  "bbox": [-82.554667,35.595216,-82.554667,35.595216],
-  "geometry": {"coordinates":[-82.554667,35.595216],"type":"Point"}
+  "bbox": [
+    -82.554667,
+    35.595216,
+    -82.554667,
+    35.595216
+],
+  "geometry": {"coordinates":[-82.55466699999999,35.595216],"type":"Point"}
 }

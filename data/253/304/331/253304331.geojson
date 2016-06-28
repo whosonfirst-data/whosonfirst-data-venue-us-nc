@@ -2,13 +2,14 @@
   "id": 253304331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.94491,35.693263,-77.94491,35.693263",
     "geom:latitude":35.693263,
     "geom:longitude":-77.94491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 Forest Hills Rd SW",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253304331,
-    "wof:lastmodified":1449065022,
+    "wof:lastmodified":1466646091,
     "wof:name":"Wilson Water Treatment Plant",
     "wof:parent_id":85843375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-77.94491,35.693263,-77.94491,35.693263],
-  "geometry": {"coordinates":[-77.94491,35.693263],"type":"Point"}
+  "bbox": [
+    -77.94491,
+    35.693263,
+    -77.94491,
+    35.693263
+],
+  "geometry": {"coordinates":[-77.94490999999999,35.693263],"type":"Point"}
 }

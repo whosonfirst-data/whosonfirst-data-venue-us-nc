@@ -2,13 +2,14 @@
   "id": 354300367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.576389,35.416274,-79.576389,35.416274",
     "geom:latitude":35.416274,
     "geom:longitude":-79.576389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 Gardenia Rd",
     "sg:city":"Robbins",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354300367,
-    "wof:lastmodified":1449066911,
+    "wof:lastmodified":1466651021,
     "wof:name":"Paul Key Co",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.576389,35.416274,-79.576389,35.416274],
-  "geometry": {"coordinates":[-79.576389,35.416274],"type":"Point"}
+  "bbox": [
+    -79.576389,
+    35.416274,
+    -79.576389,
+    35.416274
+],
+  "geometry": {"coordinates":[-79.57638900000001,35.416274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286793363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.410209,36.077486,-81.410209,36.077486",
     "geom:latitude":36.077486,
     "geom:longitude":-81.410209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1278 Elk Creek Darby Rd",
     "sg:city":"Ferguson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286793363,
-    "wof:lastmodified":1449016801,
+    "wof:lastmodified":1466650341,
     "wof:name":"Elk Baptist Church",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.410209,36.077486,-81.410209,36.077486],
-  "geometry": {"coordinates":[-81.410209,36.077486],"type":"Point"}
+  "bbox": [
+    -81.410209,
+    36.077486,
+    -81.410209,
+    36.077486
+],
+  "geometry": {"coordinates":[-81.41020899999999,36.077486],"type":"Point"}
 }

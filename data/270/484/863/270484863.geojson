@@ -2,13 +2,14 @@
   "id": 270484863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.452757,35.357983,-81.452757,35.357983",
     "geom:latitude":35.357983,
     "geom:longitude":-81.452757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1731 Pinedale Rd",
     "sg:city":"Cherryville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270484863,
-    "wof:lastmodified":1449010973,
+    "wof:lastmodified":1466649237,
     "wof:name":"Mike Still Grading Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grading"
     ]
 },
-  "bbox": [-81.452757,35.357983,-81.452757,35.357983],
-  "geometry": {"coordinates":[-81.452757,35.357983],"type":"Point"}
+  "bbox": [
+    -81.452757,
+    35.357983,
+    -81.452757,
+    35.357983
+],
+  "geometry": {"coordinates":[-81.45275700000001,35.357983],"type":"Point"}
 }

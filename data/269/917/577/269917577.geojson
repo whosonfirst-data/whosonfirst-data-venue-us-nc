@@ -2,13 +2,14 @@
   "id": 269917577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.780076,35.356779,-79.780076,35.356779",
     "geom:latitude":35.356779,
     "geom:longitude":-79.780076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S Main St",
     "sg:city":"Biscoe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269917577,
-    "wof:lastmodified":1449038540,
+    "wof:lastmodified":1466648338,
     "wof:name":"Montgomery County Sch Cftr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.780076,35.356779,-79.780076,35.356779],
-  "geometry": {"coordinates":[-79.780076,35.356779],"type":"Point"}
+  "bbox": [
+    -79.780076,
+    35.356779,
+    -79.780076,
+    35.356779
+],
+  "geometry": {"coordinates":[-79.78007599999999,35.356779],"type":"Point"}
 }

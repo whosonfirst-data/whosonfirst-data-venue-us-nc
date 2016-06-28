@@ -2,13 +2,14 @@
   "id": 353648761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.008254,35.579289,-81.008254,35.579289",
     "geom:latitude":35.579289,
     "geom:longitude":-81.008254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4180 Soaring Ct",
     "sg:city":"Sherrills Ford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353648761,
-    "wof:lastmodified":1449018964,
+    "wof:lastmodified":1466649986,
     "wof:name":"Best Buy Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [-81.008254,35.579289,-81.008254,35.579289],
-  "geometry": {"coordinates":[-81.008254,35.579289],"type":"Point"}
+  "bbox": [
+    -81.008254,
+    35.579289,
+    -81.008254,
+    35.579289
+],
+  "geometry": {"coordinates":[-81.00825399999999,35.579289],"type":"Point"}
 }

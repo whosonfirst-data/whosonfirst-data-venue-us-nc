@@ -2,13 +2,14 @@
   "id": 320536563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.210964,35.261216,-81.210964,35.261216",
     "geom:latitude":35.261216,
     "geom:longitude":-81.210964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Overman Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320536563,
-    "wof:lastmodified":1449013484,
+    "wof:lastmodified":1466652895,
     "wof:name":"Moore's Automatic Transmission",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-81.210964,35.261216,-81.210964,35.261216],
+  "bbox": [
+    -81.210964,
+    35.261216,
+    -81.210964,
+    35.261216
+],
   "geometry": {"coordinates":[-81.210964,35.261216],"type":"Point"}
 }

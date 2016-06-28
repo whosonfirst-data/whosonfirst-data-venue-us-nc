@@ -2,13 +2,14 @@
   "id": 235968693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.020343,35.554294,-81.020343,35.554294",
     "geom:latitude":35.554294,
     "geom:longitude":-81.020343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6891 Aspen Ct",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235968693,
-    "wof:lastmodified":1449008294,
+    "wof:lastmodified":1466643531,
     "wof:name":"Bishop Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-81.020343,35.554294,-81.020343,35.554294],
+  "bbox": [
+    -81.020343,
+    35.554294,
+    -81.020343,
+    35.554294
+],
   "geometry": {"coordinates":[-81.020343,35.554294],"type":"Point"}
 }

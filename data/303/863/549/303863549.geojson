@@ -2,13 +2,14 @@
   "id": 303863549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.527904,35.939293,-78.527904,35.939293",
     "geom:latitude":35.939293,
     "geom:longitude":-78.527904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2859 Steeple Run Dr",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303863549,
-    "wof:lastmodified":1448999806,
+    "wof:lastmodified":1466655787,
     "wof:name":"Affil Properties LLC",
     "wof:parent_id":85892189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-78.527904,35.939293,-78.527904,35.939293],
-  "geometry": {"coordinates":[-78.527904,35.939293],"type":"Point"}
+  "bbox": [
+    -78.527904,
+    35.939293,
+    -78.527904,
+    35.939293
+],
+  "geometry": {"coordinates":[-78.52790400000001,35.939293],"type":"Point"}
 }

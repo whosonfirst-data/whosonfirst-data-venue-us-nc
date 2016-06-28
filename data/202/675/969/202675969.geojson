@@ -2,13 +2,14 @@
   "id": 202675969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.172002,35.679009,-78.172002,35.679009",
     "geom:latitude":35.679009,
     "geom:longitude":-78.172002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13369 State Hwy 42 E",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202675969,
-    "wof:lastmodified":1449061412,
+    "wof:lastmodified":1466643240,
     "wof:name":"Narron's Save On Gas",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-78.172002,35.679009,-78.172002,35.679009],
-  "geometry": {"coordinates":[-78.172002,35.679009],"type":"Point"}
+  "bbox": [
+    -78.172002,
+    35.679009,
+    -78.172002,
+    35.679009
+],
+  "geometry": {"coordinates":[-78.17200200000001,35.679009],"type":"Point"}
 }

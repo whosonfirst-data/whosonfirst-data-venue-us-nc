@@ -2,13 +2,14 @@
   "id": 370705669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.638138,35.779543,-78.638138,35.779543",
     "geom:latitude":35.779543,
     "geom:longitude":-78.638138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 E Morgan St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370705669,
-    "wof:lastmodified":1449032492,
+    "wof:lastmodified":1466655265,
     "wof:name":"Supreme Court Clerk",
     "wof:parent_id":85873451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-78.638138,35.779543,-78.638138,35.779543],
+  "bbox": [
+    -78.638138,
+    35.779543,
+    -78.638138,
+    35.779543
+],
   "geometry": {"coordinates":[-78.638138,35.779543],"type":"Point"}
 }

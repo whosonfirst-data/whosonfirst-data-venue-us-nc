@@ -2,13 +2,14 @@
   "id": 303416603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.548476,34.982594,-80.548476,34.982594",
     "geom:latitude":34.982594,
     "geom:longitude":-80.548476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 E Franklin St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303416603,
-    "wof:lastmodified":1448999219,
+    "wof:lastmodified":1466649310,
     "wof:name":"Teaspoon Coffee Shoppe",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-80.548476,34.982594,-80.548476,34.982594],
-  "geometry": {"coordinates":[-80.548476,34.982594],"type":"Point"}
+  "bbox": [
+    -80.548476,
+    34.982594,
+    -80.548476,
+    34.982594
+],
+  "geometry": {"coordinates":[-80.54847599999999,34.982594],"type":"Point"}
 }

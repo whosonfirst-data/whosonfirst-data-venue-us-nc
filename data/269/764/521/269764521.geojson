@@ -2,13 +2,14 @@
   "id": 269764521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.407038,36.329724,-78.407038,36.329724",
     "geom:latitude":36.329724,
     "geom:longitude":-78.407038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Mulberry St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269764521,
-    "wof:lastmodified":1449038847,
+    "wof:lastmodified":1466646531,
     "wof:name":"St Andrews United Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.407038,36.329724,-78.407038,36.329724],
+  "bbox": [
+    -78.407038,
+    36.329724,
+    -78.407038,
+    36.329724
+],
   "geometry": {"coordinates":[-78.407038,36.329724],"type":"Point"}
 }

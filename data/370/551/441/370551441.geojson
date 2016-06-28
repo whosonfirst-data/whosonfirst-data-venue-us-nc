@@ -2,13 +2,14 @@
   "id": 370551441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.390155,35.795495,-80.390155,35.795495",
     "geom:latitude":35.795495,
     "geom:longitude":-80.390155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Meadow Ln",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370551441,
-    "wof:lastmodified":1449029770,
+    "wof:lastmodified":1466653238,
     "wof:name":"Beane Replacement Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-80.390155,35.795495,-80.390155,35.795495],
-  "geometry": {"coordinates":[-80.390155,35.795495],"type":"Point"}
+  "bbox": [
+    -80.390155,
+    35.795495,
+    -80.390155,
+    35.795495
+],
+  "geometry": {"coordinates":[-80.39015499999999,35.795495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303211153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.414597,35.344205,-79.414597,35.344205",
     "geom:latitude":35.344205,
     "geom:longitude":-79.414597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Monroe St",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303211153,
-    "wof:lastmodified":1448998716,
+    "wof:lastmodified":1466646378,
     "wof:name":"Tech Services",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-79.414597,35.344205,-79.414597,35.344205],
+  "bbox": [
+    -79.414597,
+    35.344205,
+    -79.414597,
+    35.344205
+],
   "geometry": {"coordinates":[-79.414597,35.344205],"type":"Point"}
 }

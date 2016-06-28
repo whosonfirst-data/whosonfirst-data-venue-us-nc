@@ -2,13 +2,14 @@
   "id": 320495065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.617286,35.78501,-78.617286,35.78501",
     "geom:latitude":35.78501,
     "geom:longitude":-78.617286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Hill St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320495065,
-    "wof:lastmodified":1449012903,
+    "wof:lastmodified":1466652291,
     "wof:name":"Tuckers Hairstyling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-78.617286,35.78501,-78.617286,35.78501],
-  "geometry": {"coordinates":[-78.617286,35.78501],"type":"Point"}
+  "bbox": [
+    -78.617286,
+    35.78501,
+    -78.617286,
+    35.78501
+],
+  "geometry": {"coordinates":[-78.61728599999999,35.78501],"type":"Point"}
 }

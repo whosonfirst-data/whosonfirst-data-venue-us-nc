@@ -2,13 +2,14 @@
   "id": 354361537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.837168,35.983915,-77.837168,35.983915",
     "geom:latitude":35.983915,
     "geom:longitude":-77.837168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 Hunter Hill Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354361537,
-    "wof:lastmodified":1449067196,
+    "wof:lastmodified":1466651730,
     "wof:name":"W D Driver Grocery",
     "wof:parent_id":85851697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.837168,35.983915,-77.837168,35.983915],
-  "geometry": {"coordinates":[-77.837168,35.983915],"type":"Point"}
+  "bbox": [
+    -77.837168,
+    35.983915,
+    -77.837168,
+    35.983915
+],
+  "geometry": {"coordinates":[-77.83716800000001,35.983915],"type":"Point"}
 }

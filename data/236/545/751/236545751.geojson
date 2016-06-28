@@ -2,13 +2,14 @@
   "id": 236545751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.826023,35.197082,-80.826023,35.197082",
     "geom:latitude":35.197082,
     "geom:longitude":-80.826023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Perrin Pl",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236545751,
-    "wof:lastmodified":1449002276,
+    "wof:lastmodified":1466648034,
     "wof:name":"Weatherspoon Group",
     "wof:parent_id":85817091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.826023,35.197082,-80.826023,35.197082],
-  "geometry": {"coordinates":[-80.826023,35.197082],"type":"Point"}
+  "bbox": [
+    -80.826023,
+    35.197082,
+    -80.826023,
+    35.197082
+],
+  "geometry": {"coordinates":[-80.82602300000001,35.197082],"type":"Point"}
 }

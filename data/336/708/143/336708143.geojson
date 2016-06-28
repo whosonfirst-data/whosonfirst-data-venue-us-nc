@@ -2,13 +2,14 @@
   "id": 336708143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.427974,34.768293,-77.427974,34.768293",
     "geom:latitude":34.768293,
     "geom:longitude":-77.427974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Dogwood Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336708143,
-    "wof:lastmodified":1448997116,
+    "wof:lastmodified":1466647474,
     "wof:name":"East Coast Hardwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.427974,34.768293,-77.427974,34.768293],
-  "geometry": {"coordinates":[-77.427974,34.768293],"type":"Point"}
+  "bbox": [
+    -77.427974,
+    34.768293,
+    -77.427974,
+    34.768293
+],
+  "geometry": {"coordinates":[-77.42797400000001,34.768293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303982213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.808853,35.583966,-80.808853,35.583966",
     "geom:latitude":35.583966,
     "geom:longitude":-80.808853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Iredell Ave",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303982213,
-    "wof:lastmodified":1448998534,
+    "wof:lastmodified":1466656702,
     "wof:name":"Mooresville Rescue Squad",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rescue"
     ]
 },
-  "bbox": [-80.808853,35.583966,-80.808853,35.583966],
+  "bbox": [
+    -80.808853,
+    35.583966,
+    -80.808853,
+    35.583966
+],
   "geometry": {"coordinates":[-80.808853,35.583966],"type":"Point"}
 }

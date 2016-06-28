@@ -2,13 +2,14 @@
   "id": 320388303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.992077,35.363109,-77.992077,35.363109",
     "geom:latitude":35.363109,
     "geom:longitude":-77.992077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 S Slocumb St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320388303,
-    "wof:lastmodified":1449011401,
+    "wof:lastmodified":1466650748,
     "wof:name":"Goldsboro Country Club Inc",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-77.992077,35.363109,-77.992077,35.363109],
-  "geometry": {"coordinates":[-77.992077,35.363109],"type":"Point"}
+  "bbox": [
+    -77.992077,
+    35.363109,
+    -77.992077,
+    35.363109
+],
+  "geometry": {"coordinates":[-77.99207699999999,35.363109],"type":"Point"}
 }

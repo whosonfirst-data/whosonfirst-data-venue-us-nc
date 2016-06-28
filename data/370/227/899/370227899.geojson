@@ -2,13 +2,14 @@
   "id": 370227899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.943522,34.235899,-77.943522,34.235899",
     "geom:latitude":34.235899,
     "geom:longitude":-77.943522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370227899,
-    "wof:lastmodified":1449029845,
+    "wof:lastmodified":1466649120,
     "wof:name":"Wilmington Zoning Dept",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dev"
     ]
 },
-  "bbox": [-77.943522,34.235899,-77.943522,34.235899],
+  "bbox": [
+    -77.943522,
+    34.235899,
+    -77.943522,
+    34.235899
+],
   "geometry": {"coordinates":[-77.943522,34.235899],"type":"Point"}
 }

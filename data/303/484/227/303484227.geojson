@@ -2,13 +2,14 @@
   "id": 303484227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.224961,36.165426,-79.224961,36.165426",
     "geom:latitude":36.165426,
     "geom:longitude":-79.224961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7407 Harmony Church Rd",
     "sg:city":"Efland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303484227,
-    "wof:lastmodified":1449000424,
+    "wof:lastmodified":1466650308,
     "wof:name":"Stewart Fredrick",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.224961,36.165426,-79.224961,36.165426],
-  "geometry": {"coordinates":[-79.224961,36.165426],"type":"Point"}
+  "bbox": [
+    -79.224961,
+    36.165426,
+    -79.224961,
+    36.165426
+],
+  "geometry": {"coordinates":[-79.22496099999999,36.165426],"type":"Point"}
 }

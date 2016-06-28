@@ -2,13 +2,14 @@
   "id": 303650795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.861409,34.181732,-77.861409,34.181732",
     "geom:latitude":34.181732,
     "geom:longitude":-77.861409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 Beasley Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303650795,
-    "wof:lastmodified":1448999612,
+    "wof:lastmodified":1466652704,
     "wof:name":"Cypher Research Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-77.861409,34.181732,-77.861409,34.181732],
-  "geometry": {"coordinates":[-77.861409,34.181732],"type":"Point"}
+  "bbox": [
+    -77.861409,
+    34.181732,
+    -77.861409,
+    34.181732
+],
+  "geometry": {"coordinates":[-77.86140899999999,34.181732],"type":"Point"}
 }

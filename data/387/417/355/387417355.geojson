@@ -2,13 +2,14 @@
   "id": 387417355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.890421,35.908016,-78.890421,35.908016",
     "geom:latitude":35.908016,
     "geom:longitude":-78.890421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 Westpark Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387417355,
-    "wof:lastmodified":1449057659,
+    "wof:lastmodified":1466655336,
     "wof:name":"LA Quinta Inn",
     "wof:parent_id":85831613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-78.890421,35.908016,-78.890421,35.908016],
+  "bbox": [
+    -78.890421,
+    35.908016,
+    -78.890421,
+    35.908016
+],
   "geometry": {"coordinates":[-78.890421,35.908016],"type":"Point"}
 }

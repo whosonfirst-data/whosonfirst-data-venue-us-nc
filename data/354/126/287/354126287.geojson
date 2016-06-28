@@ -2,13 +2,14 @@
   "id": 354126287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.344929,35.572302,-77.344929,35.572302",
     "geom:latitude":35.572302,
     "geom:longitude":-77.344929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Meeting Pl",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354126287,
-    "wof:lastmodified":1449066543,
+    "wof:lastmodified":1466649021,
     "wof:name":"Speight Construction",
     "wof:parent_id":85852761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-77.344929,35.572302,-77.344929,35.572302],
-  "geometry": {"coordinates":[-77.344929,35.572302],"type":"Point"}
+  "bbox": [
+    -77.344929,
+    35.572302,
+    -77.344929,
+    35.572302
+],
+  "geometry": {"coordinates":[-77.34492899999999,35.572302],"type":"Point"}
 }

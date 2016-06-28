@@ -2,13 +2,14 @@
   "id": 387662713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.520935,35.907453,-78.520935,35.907453",
     "geom:latitude":35.907453,
     "geom:longitude":-78.520935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3208 Greenville Loop Rd",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387662713,
-    "wof:lastmodified":1449058681,
+    "wof:lastmodified":1466657190,
     "wof:name":"Cruise Seemless Gutters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gutter"
     ]
 },
-  "bbox": [-78.520935,35.907453,-78.520935,35.907453],
-  "geometry": {"coordinates":[-78.520935,35.907453],"type":"Point"}
+  "bbox": [
+    -78.520935,
+    35.907453,
+    -78.520935,
+    35.907453
+],
+  "geometry": {"coordinates":[-78.52093499999999,35.907453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320120101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.933159,35.721841,-77.933159,35.721841",
     "geom:latitude":35.721841,
     "geom:longitude":-77.933159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Tarboro St W",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320120101,
-    "wof:lastmodified":1449014438,
+    "wof:lastmodified":1466646994,
     "wof:name":"Fuel Doc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.933159,35.721841,-77.933159,35.721841],
+  "bbox": [
+    -77.933159,
+    35.721841,
+    -77.933159,
+    35.721841
+],
   "geometry": {"coordinates":[-77.933159,35.721841],"type":"Point"}
 }

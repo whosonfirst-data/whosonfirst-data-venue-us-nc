@@ -2,13 +2,14 @@
   "id": 270300435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.050806,34.666728,-77.050806,34.666728",
     "geom:latitude":34.666728,
     "geom:longitude":-77.050806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 Emerald Plantation Ct",
     "sg:city":"Emerald Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270300435,
-    "wof:lastmodified":1449010033,
+    "wof:lastmodified":1466646878,
     "wof:name":"Jr Dunn",
     "wof:parent_id":85839153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.050806,34.666728,-77.050806,34.666728],
-  "geometry": {"coordinates":[-77.050806,34.666728],"type":"Point"}
+  "bbox": [
+    -77.050806,
+    34.666728,
+    -77.050806,
+    34.666728
+],
+  "geometry": {"coordinates":[-77.05080599999999,34.666728],"type":"Point"}
 }

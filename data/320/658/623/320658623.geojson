@@ -2,13 +2,14 @@
   "id": 320658623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.493727,36.080417,-79.493727,36.080417",
     "geom:latitude":36.080417,
     "geom:longitude":-79.493727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3055 S Church St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320658623,
-    "wof:lastmodified":1449011184,
+    "wof:lastmodified":1466654673,
     "wof:name":"Sun Gard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "datum"
     ]
 },
-  "bbox": [-79.493727,36.080417,-79.493727,36.080417],
-  "geometry": {"coordinates":[-79.493727,36.080417],"type":"Point"}
+  "bbox": [
+    -79.493727,
+    36.080417,
+    -79.493727,
+    36.080417
+],
+  "geometry": {"coordinates":[-79.49372700000001,36.080417],"type":"Point"}
 }

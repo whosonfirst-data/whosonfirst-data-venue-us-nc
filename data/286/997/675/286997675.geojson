@@ -2,13 +2,14 @@
   "id": 286997675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803291,35.816383,-79.803291,35.816383",
     "geom:latitude":35.816383,
     "geom:longitude":-79.803291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 S Main St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286997675,
-    "wof:lastmodified":1449017598,
+    "wof:lastmodified":1466653163,
     "wof:name":"Randleman BP",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.803291,35.816383,-79.803291,35.816383],
+  "bbox": [
+    -79.803291,
+    35.816383,
+    -79.803291,
+    35.816383
+],
   "geometry": {"coordinates":[-79.803291,35.816383],"type":"Point"}
 }

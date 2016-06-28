@@ -2,13 +2,14 @@
   "id": 370845839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.032458,34.825864,-78.032458,34.825864",
     "geom:latitude":34.825864,
     "geom:longitude":-78.032458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 N Pine St",
     "sg:city":"Rose Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370845839,
-    "wof:lastmodified":1449029638,
+    "wof:lastmodified":1466656566,
     "wof:name":"Duplin Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.032458,34.825864,-78.032458,34.825864],
-  "geometry": {"coordinates":[-78.032458,34.825864],"type":"Point"}
+  "bbox": [
+    -78.032458,
+    34.825864,
+    -78.032458,
+    34.825864
+],
+  "geometry": {"coordinates":[-78.03245800000001,34.825864],"type":"Point"}
 }

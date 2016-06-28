@@ -2,13 +2,14 @@
   "id": 286940343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.735453,35.754747,-78.735453,35.754747",
     "geom:latitude":35.754747,
     "geom:longitude":-78.735453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5625 Dillard Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286940343,
-    "wof:lastmodified":1449015888,
+    "wof:lastmodified":1466652377,
     "wof:name":"Firetrol Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "protection"
     ]
 },
-  "bbox": [-78.735453,35.754747,-78.735453,35.754747],
-  "geometry": {"coordinates":[-78.735453,35.754747],"type":"Point"}
+  "bbox": [
+    -78.735453,
+    35.754747,
+    -78.735453,
+    35.754747
+],
+  "geometry": {"coordinates":[-78.73545300000001,35.754747],"type":"Point"}
 }

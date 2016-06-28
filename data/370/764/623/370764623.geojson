@@ -2,13 +2,14 @@
   "id": 370764623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.549692,35.81006,-78.549692,35.81006",
     "geom:latitude":35.81006,
     "geom:longitude":-78.549692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1913 Somerset Hills Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370764623,
-    "wof:lastmodified":1449032311,
+    "wof:lastmodified":1466656043,
     "wof:name":"Wahoo Development Co LLC",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.549692,35.81006,-78.549692,35.81006],
-  "geometry": {"coordinates":[-78.549692,35.81006],"type":"Point"}
+  "bbox": [
+    -78.549692,
+    35.81006,
+    -78.549692,
+    35.81006
+],
+  "geometry": {"coordinates":[-78.54969199999999,35.81006],"type":"Point"}
 }

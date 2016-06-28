@@ -2,13 +2,14 @@
   "id": 320501757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.913435,34.219435,-77.913435,34.219435",
     "geom:latitude":34.219435,
     "geom:longitude":-77.913435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 Magnolia Pl",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320501757,
-    "wof:lastmodified":1449015001,
+    "wof:lastmodified":1466652388,
     "wof:name":"Edward Weaver Dr",
     "wof:parent_id":85849921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-77.913435,34.219435,-77.913435,34.219435],
-  "geometry": {"coordinates":[-77.913435,34.219435],"type":"Point"}
+  "bbox": [
+    -77.913435,
+    34.219435,
+    -77.913435,
+    34.219435
+],
+  "geometry": {"coordinates":[-77.91343500000001,34.219435],"type":"Point"}
 }

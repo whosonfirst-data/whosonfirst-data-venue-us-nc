@@ -2,13 +2,14 @@
   "id": 303431385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.95194,35.205687,-78.95194,35.205687",
     "geom:latitude":35.205687,
     "geom:longitude":-78.95194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 Brinkley Dr",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303431385,
-    "wof:lastmodified":1448998448,
+    "wof:lastmodified":1466649521,
     "wof:name":"David Cooke",
     "wof:parent_id":85804723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.95194,35.205687,-78.95194,35.205687],
-  "geometry": {"coordinates":[-78.95194,35.205687],"type":"Point"}
+  "bbox": [
+    -78.95194,
+    35.205687,
+    -78.95194,
+    35.205687
+],
+  "geometry": {"coordinates":[-78.95193999999999,35.205687],"type":"Point"}
 }

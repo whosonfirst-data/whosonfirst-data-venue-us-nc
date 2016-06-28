@@ -2,13 +2,14 @@
   "id": 320470465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.537715,35.547471,-80.537715,35.547471",
     "geom:latitude":35.547471,
     "geom:longitude":-80.537715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 Daugherty Rd",
     "sg:city":"China Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320470465,
-    "wof:lastmodified":1449012167,
+    "wof:lastmodified":1466651935,
     "wof:name":"A & J Used Cars",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-80.537715,35.547471,-80.537715,35.547471],
-  "geometry": {"coordinates":[-80.537715,35.547471],"type":"Point"}
+  "bbox": [
+    -80.537715,
+    35.547471,
+    -80.537715,
+    35.547471
+],
+  "geometry": {"coordinates":[-80.53771500000001,35.547471],"type":"Point"}
 }

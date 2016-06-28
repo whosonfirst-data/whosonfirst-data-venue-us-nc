@@ -2,13 +2,14 @@
   "id": 270270213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.311529,36.074061,-80.311529,36.074061",
     "geom:latitude":36.074061,
     "geom:longitude":-80.311529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3710 Vest Mill Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270270213,
-    "wof:lastmodified":1449009078,
+    "wof:lastmodified":1466646475,
     "wof:name":"Sea Express America Corp",
     "wof:parent_id":85881845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "water"
     ]
 },
-  "bbox": [-80.311529,36.074061,-80.311529,36.074061],
-  "geometry": {"coordinates":[-80.311529,36.074061],"type":"Point"}
+  "bbox": [
+    -80.311529,
+    36.074061,
+    -80.311529,
+    36.074061
+],
+  "geometry": {"coordinates":[-80.31152899999999,36.074061],"type":"Point"}
 }

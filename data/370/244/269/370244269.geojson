@@ -2,13 +2,14 @@
   "id": 370244269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.151423,36.121223,-81.151423,36.121223",
     "geom:latitude":36.121223,
     "geom:longitude":-81.151423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Clubhouse Rd",
     "sg:city":"Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370244269,
-    "wof:lastmodified":1449030430,
+    "wof:lastmodified":1466649337,
     "wof:name":"Oakwoods Country Club",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-81.151423,36.121223,-81.151423,36.121223],
-  "geometry": {"coordinates":[-81.151423,36.121223],"type":"Point"}
+  "bbox": [
+    -81.151423,
+    36.121223,
+    -81.151423,
+    36.121223
+],
+  "geometry": {"coordinates":[-81.15142299999999,36.121223],"type":"Point"}
 }

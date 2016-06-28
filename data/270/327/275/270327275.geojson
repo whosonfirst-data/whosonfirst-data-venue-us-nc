@@ -2,13 +2,14 @@
   "id": 270327275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.634752,35.115089,-80.634752,35.115089",
     "geom:latitude":35.115089,
     "geom:longitude":-80.634752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6207 Rockwell Dr",
     "sg:city":"Indian Trail",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270327275,
-    "wof:lastmodified":1449008829,
+    "wof:lastmodified":1466647209,
     "wof:name":"Landstar",
     "wof:parent_id":85812565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.634752,35.115089,-80.634752,35.115089],
-  "geometry": {"coordinates":[-80.634752,35.115089],"type":"Point"}
+  "bbox": [
+    -80.634752,
+    35.115089,
+    -80.634752,
+    35.115089
+],
+  "geometry": {"coordinates":[-80.63475200000001,35.115089],"type":"Point"}
 }

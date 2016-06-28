@@ -2,13 +2,14 @@
   "id": 320839001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.799422,36.076643,-79.799422,36.076643",
     "geom:latitude":36.076643,
     "geom:longitude":-79.799422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Prescott St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320839001,
-    "wof:lastmodified":1449013495,
+    "wof:lastmodified":1466656666,
     "wof:name":"Technology Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.799422,36.076643,-79.799422,36.076643],
-  "geometry": {"coordinates":[-79.799422,36.076643],"type":"Point"}
+  "bbox": [
+    -79.799422,
+    36.076643,
+    -79.799422,
+    36.076643
+],
+  "geometry": {"coordinates":[-79.79942200000001,36.076643],"type":"Point"}
 }

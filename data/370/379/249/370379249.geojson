@@ -2,13 +2,14 @@
   "id": 370379249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.714385,35.929197,-78.714385,35.929197",
     "geom:latitude":35.929197,
     "geom:longitude":-78.714385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5116 Wood Valley Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370379249,
-    "wof:lastmodified":1449031042,
+    "wof:lastmodified":1466650999,
     "wof:name":"Richard J Otten Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "city"
     ]
 },
-  "bbox": [-78.714385,35.929197,-78.714385,35.929197],
-  "geometry": {"coordinates":[-78.714385,35.929197],"type":"Point"}
+  "bbox": [
+    -78.714385,
+    35.929197,
+    -78.714385,
+    35.929197
+],
+  "geometry": {"coordinates":[-78.71438499999999,35.929197],"type":"Point"}
 }

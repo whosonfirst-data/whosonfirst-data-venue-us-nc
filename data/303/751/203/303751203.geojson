@@ -2,13 +2,14 @@
   "id": 303751203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.61603,35.305434,-78.61603,35.305434",
     "geom:latitude":35.305434,
     "geom:longitude":-78.61603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S King Ave",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303751203,
-    "wof:lastmodified":1448998257,
+    "wof:lastmodified":1466654157,
     "wof:name":"Westmoreland Forestry Cons",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-78.61603,35.305434,-78.61603,35.305434],
-  "geometry": {"coordinates":[-78.61603,35.305434],"type":"Point"}
+  "bbox": [
+    -78.61603,
+    35.305434,
+    -78.61603,
+    35.305434
+],
+  "geometry": {"coordinates":[-78.61602999999999,35.305434],"type":"Point"}
 }

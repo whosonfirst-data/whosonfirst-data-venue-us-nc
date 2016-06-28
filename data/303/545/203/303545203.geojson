@@ -2,13 +2,14 @@
   "id": 303545203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.822476,35.053492,-80.822476,35.053492",
     "geom:latitude":35.053492,
     "geom:longitude":-80.822476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11319 Stonebriar Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303545203,
-    "wof:lastmodified":1448998700,
+    "wof:lastmodified":1466651168,
     "wof:name":"D R Horton Inc",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "operative"
     ]
 },
-  "bbox": [-80.822476,35.053492,-80.822476,35.053492],
-  "geometry": {"coordinates":[-80.822476,35.053492],"type":"Point"}
+  "bbox": [
+    -80.822476,
+    35.053492,
+    -80.822476,
+    35.053492
+],
+  "geometry": {"coordinates":[-80.82247599999999,35.053492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203124241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.539456,35.268868,-75.539456,35.268868",
     "geom:latitude":35.268868,
     "geom:longitude":-75.539456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47303 State Hwy 12",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203124241,
-    "wof:lastmodified":1449026729,
+    "wof:lastmodified":1466654900,
     "wof:name":"NAPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-75.539456,35.268868,-75.539456,35.268868],
+  "bbox": [
+    -75.539456,
+    35.268868,
+    -75.539456,
+    35.268868
+],
   "geometry": {"coordinates":[-75.539456,35.268868],"type":"Point"}
 }

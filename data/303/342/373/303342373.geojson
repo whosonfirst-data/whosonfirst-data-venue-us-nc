@@ -2,13 +2,14 @@
   "id": 303342373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.395017,36.214746,-79.395017,36.214746",
     "geom:latitude":36.214746,
     "geom:longitude":-79.395017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5270 Union Ridge Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303342373,
-    "wof:lastmodified":1449000393,
+    "wof:lastmodified":1466648235,
     "wof:name":"Scott Clinic",
     "wof:parent_id":85826513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-79.395017,36.214746,-79.395017,36.214746],
+  "bbox": [
+    -79.395017,
+    36.214746,
+    -79.395017,
+    36.214746
+],
   "geometry": {"coordinates":[-79.395017,36.214746],"type":"Point"}
 }

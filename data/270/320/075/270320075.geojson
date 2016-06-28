@@ -2,13 +2,14 @@
   "id": 270320075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.17588,36.152269,-81.17588,36.152269",
     "geom:latitude":36.152269,
     "geom:longitude":-81.17588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 W D St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270320075,
-    "wof:lastmodified":1449009242,
+    "wof:lastmodified":1466647123,
     "wof:name":"A & J Rental",
     "wof:parent_id":85828719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.17588,36.152269,-81.17588,36.152269],
-  "geometry": {"coordinates":[-81.17588,36.152269],"type":"Point"}
+  "bbox": [
+    -81.17588,
+    36.152269,
+    -81.17588,
+    36.152269
+],
+  "geometry": {"coordinates":[-81.17588000000001,36.152269],"type":"Point"}
 }

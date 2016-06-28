@@ -2,13 +2,14 @@
   "id": 387615027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.427873,36.076247,-79.427873,36.076247",
     "geom:latitude":36.076247,
     "geom:longitude":-79.427873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Maple Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387615027,
-    "wof:lastmodified":1449057300,
+    "wof:lastmodified":1466656792,
     "wof:name":"Cottman Transmission Ctr",
     "wof:parent_id":85828709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "transmission"
     ]
 },
-  "bbox": [-79.427873,36.076247,-79.427873,36.076247],
-  "geometry": {"coordinates":[-79.427873,36.076247],"type":"Point"}
+  "bbox": [
+    -79.427873,
+    36.076247,
+    -79.427873,
+    36.076247
+],
+  "geometry": {"coordinates":[-79.42787300000001,36.076247],"type":"Point"}
 }

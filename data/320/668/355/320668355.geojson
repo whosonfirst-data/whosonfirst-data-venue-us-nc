@@ -2,13 +2,14 @@
   "id": 320668355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.505147,36.160903,-79.505147,36.160903",
     "geom:latitude":36.160903,
     "geom:longitude":-79.505147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Eldon Dr",
     "sg:city":"Elon College",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320668355,
-    "wof:lastmodified":1449013873,
+    "wof:lastmodified":1466654810,
     "wof:name":"Western Middle School",
     "wof:parent_id":85845553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.505147,36.160903,-79.505147,36.160903],
-  "geometry": {"coordinates":[-79.505147,36.160903],"type":"Point"}
+  "bbox": [
+    -79.505147,
+    36.160903,
+    -79.505147,
+    36.160903
+],
+  "geometry": {"coordinates":[-79.50514699999999,36.160903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303941167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.838574,35.784769,-78.838574,35.784769",
     "geom:latitude":35.784769,
     "geom:longitude":-78.838574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Stablegate Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303941167,
-    "wof:lastmodified":1448999581,
+    "wof:lastmodified":1466656420,
     "wof:name":"David Adams MD",
     "wof:parent_id":85840759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.838574,35.784769,-78.838574,35.784769],
-  "geometry": {"coordinates":[-78.838574,35.784769],"type":"Point"}
+  "bbox": [
+    -78.838574,
+    35.784769,
+    -78.838574,
+    35.784769
+],
+  "geometry": {"coordinates":[-78.83857399999999,35.784769],"type":"Point"}
 }

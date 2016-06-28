@@ -2,13 +2,14 @@
   "id": 320804009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.750402,34.618579,-78.750402,34.618579",
     "geom:latitude":34.618579,
     "geom:longitude":-78.750402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3107 Nc 410 Hwy",
     "sg:city":"Bladenboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320804009,
-    "wof:lastmodified":1449013873,
+    "wof:lastmodified":1466656360,
     "wof:name":"Community Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.750402,34.618579,-78.750402,34.618579],
-  "geometry": {"coordinates":[-78.750402,34.618579],"type":"Point"}
+  "bbox": [
+    -78.750402,
+    34.618579,
+    -78.750402,
+    34.618579
+],
+  "geometry": {"coordinates":[-78.75040199999999,34.618579],"type":"Point"}
 }

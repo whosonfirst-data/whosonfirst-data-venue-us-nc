@@ -2,13 +2,14 @@
   "id": 371175303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.388311,35.013339,-80.388311,35.013339",
     "geom:latitude":35.013339,
     "geom:longitude":-80.388311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4716 Medlin Roberts Rd",
     "sg:city":"Marshville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371175303,
-    "wof:lastmodified":1449049781,
+    "wof:lastmodified":1466651048,
     "wof:name":"Medlin Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-80.388311,35.013339,-80.388311,35.013339],
+  "bbox": [
+    -80.388311,
+    35.013339,
+    -80.388311,
+    35.013339
+],
   "geometry": {"coordinates":[-80.388311,35.013339],"type":"Point"}
 }

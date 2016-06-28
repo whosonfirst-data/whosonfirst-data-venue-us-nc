@@ -2,13 +2,14 @@
   "id": 253703015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.874744,35.058782,-78.874744,35.058782",
     "geom:latitude":35.058782,
     "geom:longitude":-78.874744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Lamon St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253703015,
-    "wof:lastmodified":1449063713,
+    "wof:lastmodified":1466650778,
     "wof:name":"N C State Apprenticeship",
     "wof:parent_id":85877377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.874744,35.058782,-78.874744,35.058782],
-  "geometry": {"coordinates":[-78.874744,35.058782],"type":"Point"}
+  "bbox": [
+    -78.874744,
+    35.058782,
+    -78.874744,
+    35.058782
+],
+  "geometry": {"coordinates":[-78.87474400000001,35.058782],"type":"Point"}
 }

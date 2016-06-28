@@ -2,13 +2,14 @@
   "id": 270002315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.399603,35.405669,-81.399603,35.405669",
     "geom:latitude":35.405669,
     "geom:longitude":-81.399603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Cherryville Hwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270002315,
-    "wof:lastmodified":1449010626,
+    "wof:lastmodified":1466643233,
     "wof:name":"Highway Dept Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.399603,35.405669,-81.399603,35.405669],
+  "bbox": [
+    -81.399603,
+    35.405669,
+    -81.399603,
+    35.405669
+],
   "geometry": {"coordinates":[-81.399603,35.405669],"type":"Point"}
 }

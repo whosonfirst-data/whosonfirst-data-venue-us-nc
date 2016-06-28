@@ -2,13 +2,14 @@
   "id": 303393031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.185527,35.263847,-81.185527,35.263847",
     "geom:latitude":35.263847,
     "geom:longitude":-81.185527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W Main Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303393031,
-    "wof:lastmodified":1448998883,
+    "wof:lastmodified":1466648975,
     "wof:name":"Gaston County Print Supply Rm",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.185527,35.263847,-81.185527,35.263847],
-  "geometry": {"coordinates":[-81.185527,35.263847],"type":"Point"}
+  "bbox": [
+    -81.185527,
+    35.263847,
+    -81.185527,
+    35.263847
+],
+  "geometry": {"coordinates":[-81.18552699999999,35.263847],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286914187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.828461,35.669696,-79.828461,35.669696",
     "geom:latitude":35.669696,
     "geom:longitude":-79.828461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 McDowell Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286914187,
-    "wof:lastmodified":1449016302,
+    "wof:lastmodified":1466652015,
     "wof:name":"Building Inspections",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "inspection"
     ]
 },
-  "bbox": [-79.828461,35.669696,-79.828461,35.669696],
+  "bbox": [
+    -79.828461,
+    35.669696,
+    -79.828461,
+    35.669696
+],
   "geometry": {"coordinates":[-79.828461,35.669696],"type":"Point"}
 }

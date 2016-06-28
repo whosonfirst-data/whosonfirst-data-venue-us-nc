@@ -2,13 +2,14 @@
   "id": 320521751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.869262,35.666272,-79.869262,35.666272",
     "geom:latitude":35.666272,
     "geom:longitude":-79.869262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1361 Billy Walker Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320521751,
-    "wof:lastmodified":1449014774,
+    "wof:lastmodified":1466652682,
     "wof:name":"Larry Walker Farm",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-79.869262,35.666272,-79.869262,35.666272],
-  "geometry": {"coordinates":[-79.869262,35.666272],"type":"Point"}
+  "bbox": [
+    -79.869262,
+    35.666272,
+    -79.869262,
+    35.666272
+],
+  "geometry": {"coordinates":[-79.86926200000001,35.666272],"type":"Point"}
 }

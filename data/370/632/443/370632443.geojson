@@ -2,13 +2,14 @@
   "id": 370632443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.899633,34.105744,-77.899633,34.105744",
     "geom:latitude":34.105744,
     "geom:longitude":-77.899633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 Carolina Beach Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370632443,
-    "wof:lastmodified":1449031237,
+    "wof:lastmodified":1466654301,
     "wof:name":"American Auto & Finance Co",
     "wof:parent_id":85832597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.899633,34.105744,-77.899633,34.105744],
-  "geometry": {"coordinates":[-77.899633,34.105744],"type":"Point"}
+  "bbox": [
+    -77.899633,
+    34.105744,
+    -77.899633,
+    34.105744
+],
+  "geometry": {"coordinates":[-77.89963299999999,34.105744],"type":"Point"}
 }

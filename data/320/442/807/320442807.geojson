@@ -2,13 +2,14 @@
   "id": 320442807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.771616,35.070299,-80.771616,35.070299",
     "geom:latitude":35.070299,
     "geom:longitude":-80.771616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10140 Providence Church Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320442807,
-    "wof:lastmodified":1449012890,
+    "wof:lastmodified":1466651539,
     "wof:name":"Providence Presbyterian Church",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.771616,35.070299,-80.771616,35.070299],
-  "geometry": {"coordinates":[-80.771616,35.070299],"type":"Point"}
+  "bbox": [
+    -80.771616,
+    35.070299,
+    -80.771616,
+    35.070299
+],
+  "geometry": {"coordinates":[-80.77161599999999,35.070299],"type":"Point"}
 }

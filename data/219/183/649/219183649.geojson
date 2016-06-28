@@ -2,13 +2,14 @@
   "id": 219183649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.142661,36.159325,-81.142661,36.159325",
     "geom:latitude":36.159325,
     "geom:longitude":-81.142661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Wilkesboro Ave",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219183649,
-    "wof:lastmodified":1449072277,
+    "wof:lastmodified":1466655290,
     "wof:name":"US Bancorp",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.142661,36.159325,-81.142661,36.159325],
+  "bbox": [
+    -81.142661,
+    36.159325,
+    -81.142661,
+    36.159325
+],
   "geometry": {"coordinates":[-81.142661,36.159325],"type":"Point"}
 }

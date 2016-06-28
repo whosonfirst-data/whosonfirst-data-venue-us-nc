@@ -2,13 +2,14 @@
   "id": 370867171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.447054,34.770357,-77.447054,34.770357",
     "geom:latitude":34.770357,
     "geom:longitude":-77.447054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Royal Bluff Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370867171,
-    "wof:lastmodified":1449030553,
+    "wof:lastmodified":1466656674,
     "wof:name":"Liberty Auto Spa",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-77.447054,34.770357,-77.447054,34.770357],
-  "geometry": {"coordinates":[-77.447054,34.770357],"type":"Point"}
+  "bbox": [
+    -77.447054,
+    34.770357,
+    -77.447054,
+    34.770357
+],
+  "geometry": {"coordinates":[-77.44705399999999,34.770357],"type":"Point"}
 }

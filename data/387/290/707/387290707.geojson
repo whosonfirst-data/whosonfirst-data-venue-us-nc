@@ -2,13 +2,14 @@
   "id": 387290707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.886958,35.307296,-80.886958,35.307296",
     "geom:latitude":35.307296,
     "geom:longitude":-80.886958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Radio Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387290707,
-    "wof:lastmodified":1449057746,
+    "wof:lastmodified":1466653676,
     "wof:name":"Sunset Hills Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-80.886958,35.307296,-80.886958,35.307296],
-  "geometry": {"coordinates":[-80.886958,35.307296],"type":"Point"}
+  "bbox": [
+    -80.886958,
+    35.307296,
+    -80.886958,
+    35.307296
+],
+  "geometry": {"coordinates":[-80.88695800000001,35.307296],"type":"Point"}
 }

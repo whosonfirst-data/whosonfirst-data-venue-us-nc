@@ -2,13 +2,14 @@
   "id": 370890249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.456026,34.778914,-79.456026,34.778914",
     "geom:latitude":34.778914,
     "geom:longitude":-79.456026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Carver St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370890249,
-    "wof:lastmodified":1449029834,
+    "wof:lastmodified":1466656870,
     "wof:name":"Mc Duffie Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.456026,34.778914,-79.456026,34.778914],
-  "geometry": {"coordinates":[-79.456026,34.778914],"type":"Point"}
+  "bbox": [
+    -79.456026,
+    34.778914,
+    -79.456026,
+    34.778914
+],
+  "geometry": {"coordinates":[-79.45602599999999,34.778914],"type":"Point"}
 }

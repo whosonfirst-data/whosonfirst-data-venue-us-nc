@@ -2,13 +2,14 @@
   "id": 186487715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.667695,35.791826,-78.667695,35.791826",
     "geom:latitude":35.791826,
     "geom:longitude":-78.667695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Pogue St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186487715,
-    "wof:lastmodified":1449051273,
+    "wof:lastmodified":1466654317,
     "wof:name":"Raleigh Little Theatre",
     "wof:parent_id":85818587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.667695,35.791826,-78.667695,35.791826],
-  "geometry": {"coordinates":[-78.667695,35.791826],"type":"Point"}
+  "bbox": [
+    -78.667695,
+    35.791826,
+    -78.667695,
+    35.791826
+],
+  "geometry": {"coordinates":[-78.66769499999999,35.791826],"type":"Point"}
 }

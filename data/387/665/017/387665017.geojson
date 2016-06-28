@@ -2,13 +2,14 @@
   "id": 387665017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.77841,35.808402,-78.77841,35.808402",
     "geom:latitude":35.808402,
     "geom:longitude":-78.77841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Chevron Cir",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387665017,
-    "wof:lastmodified":1449057263,
+    "wof:lastmodified":1466657236,
     "wof:name":"St Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.77841,35.808402,-78.77841,35.808402],
-  "geometry": {"coordinates":[-78.77841,35.808402],"type":"Point"}
+  "bbox": [
+    -78.77841,
+    35.808402,
+    -78.77841,
+    35.808402
+],
+  "geometry": {"coordinates":[-78.77840999999999,35.808402],"type":"Point"}
 }

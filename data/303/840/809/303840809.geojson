@@ -2,13 +2,14 @@
   "id": 303840809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.839211,35.087038,-80.839211,35.087038",
     "geom:latitude":35.087038,
     "geom:longitude":-80.839211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7245 Pineville-Matthews Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303840809,
-    "wof:lastmodified":1449000012,
+    "wof:lastmodified":1466655459,
     "wof:name":"Wachovia's Securities",
     "wof:parent_id":85809539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-80.839211,35.087038,-80.839211,35.087038],
-  "geometry": {"coordinates":[-80.839211,35.087038],"type":"Point"}
+  "bbox": [
+    -80.839211,
+    35.087038,
+    -80.839211,
+    35.087038
+],
+  "geometry": {"coordinates":[-80.83921100000001,35.087038],"type":"Point"}
 }

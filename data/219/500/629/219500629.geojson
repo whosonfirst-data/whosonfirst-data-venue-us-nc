@@ -2,13 +2,14 @@
   "id": 219500629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.903331,36.466432,-79.903331,36.466432",
     "geom:latitude":36.466432,
     "geom:longitude":-79.903331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Main St",
     "sg:city":"Stoneville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219500629,
-    "wof:lastmodified":1449071281,
+    "wof:lastmodified":1466644898,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.903331,36.466432,-79.903331,36.466432],
-  "geometry": {"coordinates":[-79.903331,36.466432],"type":"Point"}
+  "bbox": [
+    -79.903331,
+    36.466432,
+    -79.903331,
+    36.466432
+],
+  "geometry": {"coordinates":[-79.90333099999999,36.466432],"type":"Point"}
 }

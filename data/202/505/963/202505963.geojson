@@ -2,13 +2,14 @@
   "id": 202505963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.897411,34.075591,-77.897411,34.075591",
     "geom:latitude":34.075591,
     "geom:longitude":-77.897411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8119 Schooner Pl",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202505963,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466655021,
     "wof:name":"Prolube Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-77.897411,34.075591,-77.897411,34.075591],
-  "geometry": {"coordinates":[-77.897411,34.075591],"type":"Point"}
+  "bbox": [
+    -77.897411,
+    34.075591,
+    -77.897411,
+    34.075591
+],
+  "geometry": {"coordinates":[-77.89741100000001,34.075591],"type":"Point"}
 }

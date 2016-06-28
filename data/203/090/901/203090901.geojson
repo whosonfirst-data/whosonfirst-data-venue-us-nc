@@ -2,13 +2,14 @@
   "id": 203090901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.874781,35.034153,-78.874781,35.034153",
     "geom:latitude":35.034153,
     "geom:longitude":-78.874781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 S Eastern Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203090901,
-    "wof:lastmodified":1449026444,
+    "wof:lastmodified":1466654751,
     "wof:name":"Wheaton Worldwide Moving",
     "wof:parent_id":85877377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.874781,35.034153,-78.874781,35.034153],
+  "bbox": [
+    -78.874781,
+    35.034153,
+    -78.874781,
+    35.034153
+],
   "geometry": {"coordinates":[-78.874781,35.034153],"type":"Point"}
 }

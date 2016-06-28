@@ -2,13 +2,14 @@
   "id": 220021381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.707819,34.748968,-78.707819,34.748968",
     "geom:latitude":34.748968,
     "geom:longitude":-78.707819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10334 State Hwy 53 W",
     "sg:city":"White Oak",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220021381,
-    "wof:lastmodified":1449074554,
+    "wof:lastmodified":1466643381,
     "wof:name":"White Oak Income Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-78.707819,34.748968,-78.707819,34.748968],
+  "bbox": [
+    -78.707819,
+    34.748968,
+    -78.707819,
+    34.748968
+],
   "geometry": {"coordinates":[-78.707819,34.748968],"type":"Point"}
 }

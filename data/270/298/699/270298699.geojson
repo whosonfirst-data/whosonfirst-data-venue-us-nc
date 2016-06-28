@@ -2,13 +2,14 @@
   "id": 270298699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.862686,34.154506,-77.862686,34.154506",
     "geom:latitude":34.154506,
     "geom:longitude":-77.862686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Sound View Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270298699,
-    "wof:lastmodified":1449009274,
+    "wof:lastmodified":1466646850,
     "wof:name":"Floyd Builders",
     "wof:parent_id":85851795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-77.862686,34.154506,-77.862686,34.154506],
+  "bbox": [
+    -77.862686,
+    34.154506,
+    -77.862686,
+    34.154506
+],
   "geometry": {"coordinates":[-77.862686,34.154506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286511431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.784848,35.783825,-79.784848,35.783825",
     "geom:latitude":35.783825,
     "geom:longitude":-79.784848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"657 Woodmen Camp Trl",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286511431,
-    "wof:lastmodified":1449016546,
+    "wof:lastmodified":1466646497,
     "wof:name":"WOW Summer Camp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.784848,35.783825,-79.784848,35.783825],
+  "bbox": [
+    -79.784848,
+    35.783825,
+    -79.784848,
+    35.783825
+],
   "geometry": {"coordinates":[-79.784848,35.783825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319946201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.940204,35.221396,-78.940204,35.221396",
     "geom:latitude":35.221396,
     "geom:longitude":-78.940204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14316 State Hwy 210 S",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319946201,
-    "wof:lastmodified":1449024799,
+    "wof:lastmodified":1466646697,
     "wof:name":"210 Auto Sales",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.940204,35.221396,-78.940204,35.221396],
-  "geometry": {"coordinates":[-78.940204,35.221396],"type":"Point"}
+  "bbox": [
+    -78.940204,
+    35.221396,
+    -78.940204,
+    35.221396
+],
+  "geometry": {"coordinates":[-78.94020399999999,35.221396],"type":"Point"}
 }

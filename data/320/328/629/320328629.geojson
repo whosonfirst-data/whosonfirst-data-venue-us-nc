@@ -2,13 +2,14 @@
   "id": 320328629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.794457,35.764465,-78.794457,35.764465",
     "geom:latitude":35.764465,
     "geom:longitude":-78.794457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Plane Tree Ln",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320328629,
-    "wof:lastmodified":1449013453,
+    "wof:lastmodified":1466649899,
     "wof:name":"Z Spotlight",
     "wof:parent_id":85818981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.794457,35.764465,-78.794457,35.764465],
-  "geometry": {"coordinates":[-78.794457,35.764465],"type":"Point"}
+  "bbox": [
+    -78.794457,
+    35.764465,
+    -78.794457,
+    35.764465
+],
+  "geometry": {"coordinates":[-78.79445699999999,35.764465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336657503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.537027,35.556678,-82.537027,35.556678",
     "geom:latitude":35.556678,
     "geom:longitude":-82.537027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Yorkshire St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336657503,
-    "wof:lastmodified":1448997052,
+    "wof:lastmodified":1466646737,
     "wof:name":"Grace Ob/Gyn",
     "wof:parent_id":85848375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.537027,35.556678,-82.537027,35.556678],
-  "geometry": {"coordinates":[-82.537027,35.556678],"type":"Point"}
+  "bbox": [
+    -82.537027,
+    35.556678,
+    -82.537027,
+    35.556678
+],
+  "geometry": {"coordinates":[-82.53702699999999,35.556678],"type":"Point"}
 }

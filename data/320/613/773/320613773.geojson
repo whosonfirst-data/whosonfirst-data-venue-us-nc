@@ -2,13 +2,14 @@
   "id": 320613773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.830279,35.246593,-80.830279,35.246593",
     "geom:latitude":35.246593,
     "geom:longitude":-80.830279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 N Graham St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320613773,
-    "wof:lastmodified":1449012993,
+    "wof:lastmodified":1466654024,
     "wof:name":"Wings Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.830279,35.246593,-80.830279,35.246593],
+  "bbox": [
+    -80.830279,
+    35.246593,
+    -80.830279,
+    35.246593
+],
   "geometry": {"coordinates":[-80.830279,35.246593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303735223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.620533,35.86418,-78.620533,35.86418",
     "geom:latitude":35.86418,
     "geom:longitude":-78.620533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Logger Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303735223,
-    "wof:lastmodified":1449000509,
+    "wof:lastmodified":1466653930,
     "wof:name":"CPI/Crime Prevention Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.620533,35.86418,-78.620533,35.86418],
-  "geometry": {"coordinates":[-78.620533,35.86418],"type":"Point"}
+  "bbox": [
+    -78.620533,
+    35.86418,
+    -78.620533,
+    35.86418
+],
+  "geometry": {"coordinates":[-78.62053299999999,35.86418],"type":"Point"}
 }

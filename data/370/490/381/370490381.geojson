@@ -2,13 +2,14 @@
   "id": 370490381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.795516,35.604949,-80.795516,35.604949",
     "geom:latitude":35.604949,
     "geom:longitude":-80.795516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Bellelaine Dr",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370490381,
-    "wof:lastmodified":1449032131,
+    "wof:lastmodified":1466652434,
     "wof:name":"Zwerger Digital Imaging Inc",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "designer"
     ]
 },
-  "bbox": [-80.795516,35.604949,-80.795516,35.604949],
-  "geometry": {"coordinates":[-80.795516,35.604949],"type":"Point"}
+  "bbox": [
+    -80.795516,
+    35.604949,
+    -80.795516,
+    35.604949
+],
+  "geometry": {"coordinates":[-80.79551600000001,35.604949],"type":"Point"}
 }

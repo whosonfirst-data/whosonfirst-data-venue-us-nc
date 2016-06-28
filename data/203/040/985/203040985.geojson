@@ -2,13 +2,14 @@
   "id": 203040985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.451849,35.206415,-79.451849,35.206415",
     "geom:latitude":35.206415,
     "geom:longitude":-79.451849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Aviemore Dr",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203040985,
-    "wof:lastmodified":1449026825,
+    "wof:lastmodified":1466654456,
     "wof:name":"Spectrum Lab Network Pnhr",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-79.451849,35.206415,-79.451849,35.206415],
+  "bbox": [
+    -79.451849,
+    35.206415,
+    -79.451849,
+    35.206415
+],
   "geometry": {"coordinates":[-79.451849,35.206415],"type":"Point"}
 }

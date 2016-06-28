@@ -2,13 +2,14 @@
   "id": 354206141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.87742,34.313251,-77.87742,34.313251",
     "geom:latitude":34.313251,
     "geom:longitude":-77.87742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4415 Northchase Pkwy NE",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354206141,
-    "wof:lastmodified":1449067137,
+    "wof:lastmodified":1466649960,
     "wof:name":"John Deere Landscapes",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-77.87742,34.313251,-77.87742,34.313251],
+  "bbox": [
+    -77.87742,
+    34.313251,
+    -77.87742,
+    34.313251
+],
   "geometry": {"coordinates":[-77.87742,34.313251],"type":"Point"}
 }

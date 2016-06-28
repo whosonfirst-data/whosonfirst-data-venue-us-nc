@@ -2,13 +2,14 @@
   "id": 303765191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.547953,35.89325,-78.547953,35.89325",
     "geom:latitude":35.89325,
     "geom:longitude":-78.547953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8416 Neuse Rapids Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303765191,
-    "wof:lastmodified":1448999535,
+    "wof:lastmodified":1466654361,
     "wof:name":"Gilbert B Brazel CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-78.547953,35.89325,-78.547953,35.89325],
-  "geometry": {"coordinates":[-78.547953,35.89325],"type":"Point"}
+  "bbox": [
+    -78.547953,
+    35.89325,
+    -78.547953,
+    35.89325
+],
+  "geometry": {"coordinates":[-78.54795300000001,35.89325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303589399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.541953,35.379139,-78.541953,35.379139",
     "geom:latitude":35.379139,
     "geom:longitude":-78.541953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 E Church St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303589399,
-    "wof:lastmodified":1448999426,
+    "wof:lastmodified":1466651789,
     "wof:name":"Lee's Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-78.541953,35.379139,-78.541953,35.379139],
-  "geometry": {"coordinates":[-78.541953,35.379139],"type":"Point"}
+  "bbox": [
+    -78.541953,
+    35.379139,
+    -78.541953,
+    35.379139
+],
+  "geometry": {"coordinates":[-78.54195300000001,35.379139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202430429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.008794,35.046741,-79.008794,35.046741",
     "geom:latitude":35.046741,
     "geom:longitude":-79.008794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6500 Foxberry Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202430429,
-    "wof:lastmodified":1449061706,
+    "wof:lastmodified":1466654422,
     "wof:name":"Justice Bail Bonds",
     "wof:parent_id":85831097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-79.008794,35.046741,-79.008794,35.046741],
-  "geometry": {"coordinates":[-79.008794,35.046741],"type":"Point"}
+  "bbox": [
+    -79.008794,
+    35.046741,
+    -79.008794,
+    35.046741
+],
+  "geometry": {"coordinates":[-79.00879399999999,35.046741],"type":"Point"}
 }

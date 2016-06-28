@@ -2,13 +2,14 @@
   "id": 303233951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.04658,35.280794,-81.04658,35.280794",
     "geom:latitude":35.280794,
     "geom:longitude":-81.04658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1458 Perfection Ave",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303233951,
-    "wof:lastmodified":1449000606,
+    "wof:lastmodified":1466646706,
     "wof:name":"Perfection Road Unlimited",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.04658,35.280794,-81.04658,35.280794],
-  "geometry": {"coordinates":[-81.04658,35.280794],"type":"Point"}
+  "bbox": [
+    -81.04658,
+    35.280794,
+    -81.04658,
+    35.280794
+],
+  "geometry": {"coordinates":[-81.04658000000001,35.280794],"type":"Point"}
 }

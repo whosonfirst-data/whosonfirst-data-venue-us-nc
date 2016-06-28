@@ -2,13 +2,14 @@
   "id": 220078159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.745434,35.089931,-80.745434,35.089931",
     "geom:latitude":35.089931,
     "geom:longitude":-80.745434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 Houston Branch Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220078159,
-    "wof:lastmodified":1449074742,
+    "wof:lastmodified":1466643827,
     "wof:name":"Edward's Engraving",
     "wof:parent_id":85843235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-80.745434,35.089931,-80.745434,35.089931],
+  "bbox": [
+    -80.745434,
+    35.089931,
+    -80.745434,
+    35.089931
+],
   "geometry": {"coordinates":[-80.745434,35.089931],"type":"Point"}
 }

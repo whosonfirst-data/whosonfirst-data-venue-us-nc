@@ -2,13 +2,14 @@
   "id": 235963903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.277127,35.802533,-80.277127,35.802533",
     "geom:latitude":35.802533,
     "geom:longitude":-80.277127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Prospect St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235963903,
-    "wof:lastmodified":1449008311,
+    "wof:lastmodified":1466643490,
     "wof:name":"TMF",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.277127,35.802533,-80.277127,35.802533],
-  "geometry": {"coordinates":[-80.277127,35.802533],"type":"Point"}
+  "bbox": [
+    -80.277127,
+    35.802533,
+    -80.277127,
+    35.802533
+],
+  "geometry": {"coordinates":[-80.27712699999999,35.802533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370589115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.431806,35.457045,-79.431806,35.457045",
     "geom:latitude":35.457045,
     "geom:longitude":-79.431806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1273 Cool Springs Rd",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370589115,
-    "wof:lastmodified":1449030880,
+    "wof:lastmodified":1466653742,
     "wof:name":"Hank T Fields",
     "wof:parent_id":85859287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-79.431806,35.457045,-79.431806,35.457045],
-  "geometry": {"coordinates":[-79.431806,35.457045],"type":"Point"}
+  "bbox": [
+    -79.431806,
+    35.457045,
+    -79.431806,
+    35.457045
+],
+  "geometry": {"coordinates":[-79.43180599999999,35.457045],"type":"Point"}
 }

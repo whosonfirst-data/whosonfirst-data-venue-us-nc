@@ -2,13 +2,14 @@
   "id": 303117635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.789223,36.086067,-79.789223,36.086067",
     "geom:latitude":36.086067,
     "geom:longitude":-79.789223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Elm St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303117635,
-    "wof:lastmodified":1448999776,
+    "wof:lastmodified":1466644972,
     "wof:name":"Drewry J Vincent DDS",
     "wof:parent_id":85868003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.789223,36.086067,-79.789223,36.086067],
-  "geometry": {"coordinates":[-79.789223,36.086067],"type":"Point"}
+  "bbox": [
+    -79.789223,
+    36.086067,
+    -79.789223,
+    36.086067
+],
+  "geometry": {"coordinates":[-79.78922300000001,36.086067],"type":"Point"}
 }

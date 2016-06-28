@@ -2,13 +2,14 @@
   "id": 403951043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.49729,36.06229,-79.49729,36.06229",
     "geom:latitude":36.06229,
     "geom:longitude":-79.49729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Kirkpatrick Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403951043,
-    "wof:lastmodified":1449054673,
+    "wof:lastmodified":1466653564,
     "wof:name":"Western Carolina Urological",
     "wof:parent_id":85857181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.49729,36.06229,-79.49729,36.06229],
-  "geometry": {"coordinates":[-79.49729,36.06229],"type":"Point"}
+  "bbox": [
+    -79.49729,
+    36.06229,
+    -79.49729,
+    36.06229
+],
+  "geometry": {"coordinates":[-79.49729000000001,36.06229],"type":"Point"}
 }

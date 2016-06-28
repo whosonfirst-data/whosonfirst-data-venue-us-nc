@@ -2,13 +2,14 @@
   "id": 404096671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.498802,35.291526,-81.498802,35.291526",
     "geom:latitude":35.291526,
     "geom:longitude":-81.498802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 E Marion St",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404096671,
-    "wof:lastmodified":1449039402,
+    "wof:lastmodified":1466652506,
     "wof:name":"North Carolina Immunzation BR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-81.498802,35.291526,-81.498802,35.291526],
+  "bbox": [
+    -81.498802,
+    35.291526,
+    -81.498802,
+    35.291526
+],
   "geometry": {"coordinates":[-81.498802,35.291526],"type":"Point"}
 }

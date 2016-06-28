@@ -2,13 +2,14 @@
   "id": 353557165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.583376,35.841355,-78.583376,35.841355",
     "geom:latitude":35.841355,
     "geom:longitude":-78.583376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4432 Roller Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353557165,
-    "wof:lastmodified":1449020069,
+    "wof:lastmodified":1466648853,
     "wof:name":"Teddy Bears",
     "wof:parent_id":85824473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-78.583376,35.841355,-78.583376,35.841355],
+  "bbox": [
+    -78.583376,
+    35.841355,
+    -78.583376,
+    35.841355
+],
   "geometry": {"coordinates":[-78.583376,35.841355],"type":"Point"}
 }

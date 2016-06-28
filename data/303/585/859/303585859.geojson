@@ -2,13 +2,14 @@
   "id": 303585859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.780347,35.49466,-78.780347,35.49466",
     "geom:latitude":35.49466,
     "geom:longitude":-78.780347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 High Meadow Dr",
     "sg:city":"Angier",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303585859,
-    "wof:lastmodified":1448999744,
+    "wof:lastmodified":1466651739,
     "wof:name":"Smith & Co Accounting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.780347,35.49466,-78.780347,35.49466],
-  "geometry": {"coordinates":[-78.780347,35.49466],"type":"Point"}
+  "bbox": [
+    -78.780347,
+    35.49466,
+    -78.780347,
+    35.49466
+],
+  "geometry": {"coordinates":[-78.78034700000001,35.49466],"type":"Point"}
 }

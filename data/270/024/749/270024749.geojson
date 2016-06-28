@@ -2,13 +2,14 @@
   "id": 270024749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.15542,36.397836,-78.15542,36.397836",
     "geom:latitude":36.397836,
     "geom:longitude":-78.15542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Main St",
     "sg:city":"Warrenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270024749,
-    "wof:lastmodified":1449009811,
+    "wof:lastmodified":1466643480,
     "wof:name":"True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.15542,36.397836,-78.15542,36.397836],
-  "geometry": {"coordinates":[-78.15542,36.397836],"type":"Point"}
+  "bbox": [
+    -78.15542,
+    36.397836,
+    -78.15542,
+    36.397836
+],
+  "geometry": {"coordinates":[-78.15542000000001,36.397836],"type":"Point"}
 }

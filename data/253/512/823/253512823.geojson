@@ -2,13 +2,14 @@
   "id": 253512823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.03581,33.892773,-78.03581,33.892773",
     "geom:latitude":33.892773,
     "geom:longitude":-78.03581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Caswell Beach Rd",
     "sg:city":"Oak Island",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253512823,
-    "wof:lastmodified":1449064981,
+    "wof:lastmodified":1466648527,
     "wof:name":"US Coast Guard Cutter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "security"
     ]
 },
-  "bbox": [-78.03581,33.892773,-78.03581,33.892773],
+  "bbox": [
+    -78.03581,
+    33.892773,
+    -78.03581,
+    33.892773
+],
   "geometry": {"coordinates":[-78.03581,33.892773],"type":"Point"}
 }

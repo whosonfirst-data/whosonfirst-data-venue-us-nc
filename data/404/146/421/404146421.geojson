@@ -2,13 +2,14 @@
   "id": 404146421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.865853,34.208082,-77.865853,34.208082",
     "geom:latitude":34.208082,
     "geom:longitude":-77.865853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5202 Oleander Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404146421,
-    "wof:lastmodified":1449039533,
+    "wof:lastmodified":1466653139,
     "wof:name":"Clayton Homes",
     "wof:parent_id":85842005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.865853,34.208082,-77.865853,34.208082],
+  "bbox": [
+    -77.865853,
+    34.208082,
+    -77.865853,
+    34.208082
+],
   "geometry": {"coordinates":[-77.865853,34.208082],"type":"Point"}
 }

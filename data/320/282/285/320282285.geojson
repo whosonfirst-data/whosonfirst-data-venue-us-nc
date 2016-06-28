@@ -2,13 +2,14 @@
   "id": 320282285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.09109,36.09778,-80.09109,36.09778",
     "geom:latitude":36.09778,
     "geom:longitude":-80.09109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Woodbrook Dr",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320282285,
-    "wof:lastmodified":1449013589,
+    "wof:lastmodified":1466649238,
     "wof:name":"American Auditing Svc Inc",
     "wof:parent_id":85821967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.09109,36.09778,-80.09109,36.09778],
-  "geometry": {"coordinates":[-80.09109,36.09778],"type":"Point"}
+  "bbox": [
+    -80.09109,
+    36.09778,
+    -80.09109,
+    36.09778
+],
+  "geometry": {"coordinates":[-80.09108999999999,36.09778],"type":"Point"}
 }

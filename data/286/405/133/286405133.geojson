@@ -2,13 +2,14 @@
   "id": 286405133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.872951,35.445418,-80.872951,35.445418",
     "geom:latitude":35.445418,
     "geom:longitude":-80.872951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16938 Landings Dr",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286405133,
-    "wof:lastmodified":1449017856,
+    "wof:lastmodified":1466645092,
     "wof:name":"Landings At Northcross",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.872951,35.445418,-80.872951,35.445418],
+  "bbox": [
+    -80.872951,
+    35.445418,
+    -80.872951,
+    35.445418
+],
   "geometry": {"coordinates":[-80.872951,35.445418],"type":"Point"}
 }

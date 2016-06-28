@@ -2,13 +2,14 @@
   "id": 253553209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.936348,36.030106,-78.936348,36.030106",
     "geom:latitude":36.030106,
     "geom:longitude":-78.936348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Front St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253553209,
-    "wof:lastmodified":1449062842,
+    "wof:lastmodified":1466649001,
     "wof:name":"Courtyard By Marriott Durham",
     "wof:parent_id":85877173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hotel"
     ]
 },
-  "bbox": [-78.936348,36.030106,-78.936348,36.030106],
+  "bbox": [
+    -78.936348,
+    36.030106,
+    -78.936348,
+    36.030106
+],
   "geometry": {"coordinates":[-78.936348,36.030106],"type":"Point"}
 }

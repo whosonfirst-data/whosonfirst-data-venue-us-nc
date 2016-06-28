@@ -2,13 +2,14 @@
   "id": 203201547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.921355,36.005782,-78.921355,36.005782",
     "geom:latitude":36.005782,
     "geom:longitude":-78.921355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 W Pettigrew St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203201547,
-    "wof:lastmodified":1449026607,
+    "wof:lastmodified":1466655212,
     "wof:name":"Pettigrew Rehab & Health Care",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "center"
     ]
 },
-  "bbox": [-78.921355,36.005782,-78.921355,36.005782],
-  "geometry": {"coordinates":[-78.921355,36.005782],"type":"Point"}
+  "bbox": [
+    -78.921355,
+    36.005782,
+    -78.921355,
+    36.005782
+],
+  "geometry": {"coordinates":[-78.92135500000001,36.005782],"type":"Point"}
 }

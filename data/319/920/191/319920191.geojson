@@ -2,13 +2,14 @@
   "id": 319920191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.373339,36.147089,-80.373339,36.147089",
     "geom:latitude":36.147089,
     "geom:longitude":-80.373339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5309 Westrock Dr",
     "sg:city":"Pfafftown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319920191,
-    "wof:lastmodified":1449024704,
+    "wof:lastmodified":1466646326,
     "wof:name":"C&R Tile Works",
     "wof:parent_id":85813315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.373339,36.147089,-80.373339,36.147089],
+  "bbox": [
+    -80.373339,
+    36.147089,
+    -80.373339,
+    36.147089
+],
   "geometry": {"coordinates":[-80.373339,36.147089],"type":"Point"}
 }

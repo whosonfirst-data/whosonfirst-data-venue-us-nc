@@ -2,13 +2,14 @@
   "id": 270493505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.329203,35.623184,-77.329203,35.623184",
     "geom:latitude":35.623184,
     "geom:longitude":-77.329203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Greenville Blvd NE",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270493505,
-    "wof:lastmodified":1449009398,
+    "wof:lastmodified":1466649360,
     "wof:name":"National Welders Supply Co",
     "wof:parent_id":85824139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-77.329203,35.623184,-77.329203,35.623184],
-  "geometry": {"coordinates":[-77.329203,35.623184],"type":"Point"}
+  "bbox": [
+    -77.329203,
+    35.623184,
+    -77.329203,
+    35.623184
+],
+  "geometry": {"coordinates":[-77.32920300000001,35.623184],"type":"Point"}
 }

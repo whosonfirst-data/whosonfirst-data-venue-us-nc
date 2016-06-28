@@ -2,13 +2,14 @@
   "id": 370726375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.701817,35.790691,-78.701817,35.790691",
     "geom:latitude":35.790691,
     "geom:longitude":-78.701817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Hutton St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370726375,
-    "wof:lastmodified":1449031395,
+    "wof:lastmodified":1466655527,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85833903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-78.701817,35.790691,-78.701817,35.790691],
-  "geometry": {"coordinates":[-78.701817,35.790691],"type":"Point"}
+  "bbox": [
+    -78.701817,
+    35.790691,
+    -78.701817,
+    35.790691
+],
+  "geometry": {"coordinates":[-78.70181700000001,35.790691],"type":"Point"}
 }

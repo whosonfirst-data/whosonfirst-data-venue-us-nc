@@ -2,13 +2,14 @@
   "id": 320379119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.162337,35.252695,-81.162337,35.252695",
     "geom:latitude":35.252695,
     "geom:longitude":-81.162337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1361 E Garrison Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320379119,
-    "wof:lastmodified":1449013431,
+    "wof:lastmodified":1466650610,
     "wof:name":"Mills Engineering",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.162337,35.252695,-81.162337,35.252695],
-  "geometry": {"coordinates":[-81.162337,35.252695],"type":"Point"}
+  "bbox": [
+    -81.162337,
+    35.252695,
+    -81.162337,
+    35.252695
+],
+  "geometry": {"coordinates":[-81.16233699999999,35.252695],"type":"Point"}
 }

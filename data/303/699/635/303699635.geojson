@@ -2,13 +2,14 @@
   "id": 303699635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.874158,36.026283,-79.874158,36.026283",
     "geom:latitude":36.026283,
     "geom:longitude":-79.874158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4816 High Point Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303699635,
-    "wof:lastmodified":1448998452,
+    "wof:lastmodified":1466653411,
     "wof:name":"Home Storage Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-79.874158,36.026283,-79.874158,36.026283],
-  "geometry": {"coordinates":[-79.874158,36.026283],"type":"Point"}
+  "bbox": [
+    -79.874158,
+    36.026283,
+    -79.874158,
+    36.026283
+],
+  "geometry": {"coordinates":[-79.87415799999999,36.026283],"type":"Point"}
 }

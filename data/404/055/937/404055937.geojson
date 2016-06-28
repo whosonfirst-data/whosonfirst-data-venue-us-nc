@@ -2,13 +2,14 @@
   "id": 404055937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.444274,35.857346,-78.444274,35.857346",
     "geom:latitude":35.857346,
     "geom:longitude":-78.444274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5708 Teaco Dr",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404055937,
-    "wof:lastmodified":1449039315,
+    "wof:lastmodified":1466652005,
     "wof:name":"Champs Paving",
     "wof:parent_id":85892201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.444274,35.857346,-78.444274,35.857346],
-  "geometry": {"coordinates":[-78.444274,35.857346],"type":"Point"}
+  "bbox": [
+    -78.444274,
+    35.857346,
+    -78.444274,
+    35.857346
+],
+  "geometry": {"coordinates":[-78.44427399999999,35.857346],"type":"Point"}
 }

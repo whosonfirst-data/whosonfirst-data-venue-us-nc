@@ -2,13 +2,14 @@
   "id": 270088601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.690345,35.741997,-81.690345,35.741997",
     "geom:latitude":35.741997,
     "geom:longitude":-81.690345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Meeting St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270088601,
-    "wof:lastmodified":1449010511,
+    "wof:lastmodified":1466644236,
     "wof:name":"Burke Pharmacy Inc",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "aids"
     ]
 },
-  "bbox": [-81.690345,35.741997,-81.690345,35.741997],
-  "geometry": {"coordinates":[-81.690345,35.741997],"type":"Point"}
+  "bbox": [
+    -81.690345,
+    35.741997,
+    -81.690345,
+    35.741997
+],
+  "geometry": {"coordinates":[-81.69034499999999,35.741997],"type":"Point"}
 }

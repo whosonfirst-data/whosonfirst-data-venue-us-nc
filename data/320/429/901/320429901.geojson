@@ -2,13 +2,14 @@
   "id": 320429901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.634267,35.860232,-78.634267,35.860232",
     "geom:latitude":35.860232,
     "geom:longitude":-78.634267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Dublin Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320429901,
-    "wof:lastmodified":1449014763,
+    "wof:lastmodified":1466651357,
     "wof:name":"Dreams Interpreted",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.634267,35.860232,-78.634267,35.860232],
-  "geometry": {"coordinates":[-78.634267,35.860232],"type":"Point"}
+  "bbox": [
+    -78.634267,
+    35.860232,
+    -78.634267,
+    35.860232
+],
+  "geometry": {"coordinates":[-78.63426699999999,35.860232],"type":"Point"}
 }

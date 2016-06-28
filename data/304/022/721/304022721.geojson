@@ -2,13 +2,14 @@
   "id": 304022721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.785509,35.553834,-79.785509,35.553834",
     "geom:latitude":35.553834,
     "geom:longitude":-79.785509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Burney Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304022721,
-    "wof:lastmodified":1449043751,
+    "wof:lastmodified":1466644485,
     "wof:name":"Clay Pond Pottery",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-79.785509,35.553834,-79.785509,35.553834],
+  "bbox": [
+    -79.785509,
+    35.553834,
+    -79.785509,
+    35.553834
+],
   "geometry": {"coordinates":[-79.785509,35.553834],"type":"Point"}
 }

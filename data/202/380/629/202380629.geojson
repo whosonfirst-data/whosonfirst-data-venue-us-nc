@@ -2,13 +2,14 @@
   "id": 202380629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.310093,35.753869,-80.310093,35.753869",
     "geom:latitude":35.753869,
     "geom:longitude":-80.310093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 Junior Order Home Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202380629,
-    "wof:lastmodified":1449061299,
+    "wof:lastmodified":1466652381,
     "wof:name":"Leggett & Platt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.310093,35.753869,-80.310093,35.753869],
-  "geometry": {"coordinates":[-80.310093,35.753869],"type":"Point"}
+  "bbox": [
+    -80.310093,
+    35.753869,
+    -80.310093,
+    35.753869
+],
+  "geometry": {"coordinates":[-80.31009299999999,35.753869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252721907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.904505,36.053071,-78.904505,36.053071",
     "geom:latitude":36.053071,
     "geom:longitude":-78.904505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 N Duke St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252721907,
-    "wof:lastmodified":1449006514,
+    "wof:lastmodified":1466643355,
     "wof:name":"American Hero",
     "wof:parent_id":85877187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.904505,36.053071,-78.904505,36.053071],
+  "bbox": [
+    -78.904505,
+    36.053071,
+    -78.904505,
+    36.053071
+],
   "geometry": {"coordinates":[-78.904505,36.053071],"type":"Point"}
 }

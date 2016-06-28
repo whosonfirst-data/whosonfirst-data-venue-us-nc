@@ -2,13 +2,14 @@
   "id": 303082927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.51541,35.561463,-80.51541,35.561463",
     "geom:latitude":35.561463,
     "geom:longitude":-80.51541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8105 Old Concord Rd",
     "sg:city":"Newell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303082927,
-    "wof:lastmodified":1448998180,
+    "wof:lastmodified":1466644440,
     "wof:name":"US Post Office",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.51541,35.561463,-80.51541,35.561463],
+  "bbox": [
+    -80.51541,
+    35.561463,
+    -80.51541,
+    35.561463
+],
   "geometry": {"coordinates":[-80.51541,35.561463],"type":"Point"}
 }

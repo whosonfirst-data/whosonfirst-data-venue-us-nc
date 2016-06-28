@@ -2,13 +2,14 @@
   "id": 303847291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.575244,35.593474,-82.575244,35.593474",
     "geom:latitude":35.593474,
     "geom:longitude":-82.575244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Westgate Pkwy",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303847291,
-    "wof:lastmodified":1448999009,
+    "wof:lastmodified":1466655546,
     "wof:name":"Electrolux",
     "wof:parent_id":85824401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-82.575244,35.593474,-82.575244,35.593474],
+  "bbox": [
+    -82.575244,
+    35.593474,
+    -82.575244,
+    35.593474
+],
   "geometry": {"coordinates":[-82.575244,35.593474],"type":"Point"}
 }

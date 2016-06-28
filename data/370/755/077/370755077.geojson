@@ -2,13 +2,14 @@
   "id": 370755077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.197752,35.355045,-80.197752,35.355045",
     "geom:latitude":35.355045,
     "geom:longitude":-80.197752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 N 2nd St",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370755077,
-    "wof:lastmodified":1449030064,
+    "wof:lastmodified":1466655969,
     "wof:name":"West Albemarle Bapt Chr Thirft",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-80.197752,35.355045,-80.197752,35.355045],
-  "geometry": {"coordinates":[-80.197752,35.355045],"type":"Point"}
+  "bbox": [
+    -80.197752,
+    35.355045,
+    -80.197752,
+    35.355045
+],
+  "geometry": {"coordinates":[-80.19775199999999,35.355045],"type":"Point"}
 }

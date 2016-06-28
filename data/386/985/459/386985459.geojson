@@ -2,13 +2,14 @@
   "id": 386985459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.546923,35.88571,-79.546923,35.88571",
     "geom:latitude":35.88571,
     "geom:longitude":-79.546923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5316 Cox Ln",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":386985459,
-    "wof:lastmodified":1449028774,
+    "wof:lastmodified":1466650138,
     "wof:name":"American Steelworx Inc",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "structural"
     ]
 },
-  "bbox": [-79.546923,35.88571,-79.546923,35.88571],
-  "geometry": {"coordinates":[-79.546923,35.88571],"type":"Point"}
+  "bbox": [
+    -79.546923,
+    35.88571,
+    -79.546923,
+    35.88571
+],
+  "geometry": {"coordinates":[-79.54692300000001,35.88571],"type":"Point"}
 }

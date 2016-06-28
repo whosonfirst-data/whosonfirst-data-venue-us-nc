@@ -2,13 +2,14 @@
   "id": 320286335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.220919,35.661756,-81.220919,35.661756",
     "geom:latitude":35.661756,
     "geom:longitude":-81.220919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 S Brady Ave",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320286335,
-    "wof:lastmodified":1449012244,
+    "wof:lastmodified":1466649294,
     "wof:name":"Caldwell Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.220919,35.661756,-81.220919,35.661756],
-  "geometry": {"coordinates":[-81.220919,35.661756],"type":"Point"}
+  "bbox": [
+    -81.220919,
+    35.661756,
+    -81.220919,
+    35.661756
+],
+  "geometry": {"coordinates":[-81.22091899999999,35.661756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303612769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.844194,35.09194,-80.844194,35.09194",
     "geom:latitude":35.09194,
     "geom:longitude":-80.844194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6305 Carmel Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303612769,
-    "wof:lastmodified":1448999198,
+    "wof:lastmodified":1466652135,
     "wof:name":"BP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-80.844194,35.09194,-80.844194,35.09194],
+  "bbox": [
+    -80.844194,
+    35.09194,
+    -80.844194,
+    35.09194
+],
   "geometry": {"coordinates":[-80.844194,35.09194],"type":"Point"}
 }

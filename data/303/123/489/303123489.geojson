@@ -2,13 +2,14 @@
   "id": 303123489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.809647,35.909855,-79.809647,35.909855",
     "geom:latitude":35.909855,
     "geom:longitude":-79.809647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11210 Randleman Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303123489,
-    "wof:lastmodified":1448998849,
+    "wof:lastmodified":1466645071,
     "wof:name":"B & H Auto Service",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-79.809647,35.909855,-79.809647,35.909855],
+  "bbox": [
+    -79.809647,
+    35.909855,
+    -79.809647,
+    35.909855
+],
   "geometry": {"coordinates":[-79.809647,35.909855],"type":"Point"}
 }

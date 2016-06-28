@@ -2,13 +2,14 @@
   "id": 303339373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.84971,35.205765,-80.84971,35.205765",
     "geom:latitude":35.205765,
     "geom:longitude":-80.84971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 East Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303339373,
-    "wof:lastmodified":1448999211,
+    "wof:lastmodified":1466648197,
     "wof:name":"Robinson Elliott & Smith",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.84971,35.205765,-80.84971,35.205765],
+  "bbox": [
+    -80.84971,
+    35.205765,
+    -80.84971,
+    35.205765
+],
   "geometry": {"coordinates":[-80.84971,35.205765],"type":"Point"}
 }

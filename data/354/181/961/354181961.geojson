@@ -2,13 +2,14 @@
   "id": 354181961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.946118,36.203599,-78.946118,36.203599",
     "geom:latitude":36.203599,
     "geom:longitude":-78.946118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Bill Poole Rd",
     "sg:city":"Rougemont",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354181961,
-    "wof:lastmodified":1449066981,
+    "wof:lastmodified":1466649673,
     "wof:name":"DPS Home Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-78.946118,36.203599,-78.946118,36.203599],
+  "bbox": [
+    -78.946118,
+    36.203599,
+    -78.946118,
+    36.203599
+],
   "geometry": {"coordinates":[-78.946118,36.203599],"type":"Point"}
 }

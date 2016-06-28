@@ -2,13 +2,14 @@
   "id": 353566727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.55249,35.816688,-78.55249,35.816688",
     "geom:latitude":35.816688,
     "geom:longitude":-78.55249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5155 Pinehall Wynd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353566727,
-    "wof:lastmodified":1449018302,
+    "wof:lastmodified":1466648983,
     "wof:name":"E-Technical Associates Inc",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-78.55249,35.816688,-78.55249,35.816688],
-  "geometry": {"coordinates":[-78.55249,35.816688],"type":"Point"}
+  "bbox": [
+    -78.55249,
+    35.816688,
+    -78.55249,
+    35.816688
+],
+  "geometry": {"coordinates":[-78.55249000000001,35.816688],"type":"Point"}
 }

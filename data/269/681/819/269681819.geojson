@@ -2,13 +2,14 @@
   "id": 269681819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.329323,35.624362,-77.329323,35.624362",
     "geom:latitude":35.624362,
     "geom:longitude":-77.329323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Greenville Blvd NE",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269681819,
-    "wof:lastmodified":1449037625,
+    "wof:lastmodified":1466645583,
     "wof:name":"Greenville Marine & Sport Ctr",
     "wof:parent_id":85824139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-77.329323,35.624362,-77.329323,35.624362],
+  "bbox": [
+    -77.329323,
+    35.624362,
+    -77.329323,
+    35.624362
+],
   "geometry": {"coordinates":[-77.329323,35.624362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371136027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.180309,35.713547,-79.180309,35.713547",
     "geom:latitude":35.713547,
     "geom:longitude":-79.180309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Dianne Dr",
     "sg:city":"Pittsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371136027,
-    "wof:lastmodified":1449050123,
+    "wof:lastmodified":1466650524,
     "wof:name":"Maintenance Garage",
     "wof:parent_id":85892045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-79.180309,35.713547,-79.180309,35.713547],
-  "geometry": {"coordinates":[-79.180309,35.713547],"type":"Point"}
+  "bbox": [
+    -79.180309,
+    35.713547,
+    -79.180309,
+    35.713547
+],
+  "geometry": {"coordinates":[-79.18030899999999,35.713547],"type":"Point"}
 }

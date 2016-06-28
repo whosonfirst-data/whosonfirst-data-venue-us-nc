@@ -2,13 +2,14 @@
   "id": 353733553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.889151,34.228696,-77.889151,34.228696",
     "geom:latitude":34.228696,
     "geom:longitude":-77.889151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Mill Creek Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353733553,
-    "wof:lastmodified":1449018605,
+    "wof:lastmodified":1466651005,
     "wof:name":"Mill Creek Apartments",
     "wof:parent_id":85819913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-77.889151,34.228696,-77.889151,34.228696],
+  "bbox": [
+    -77.889151,
+    34.228696,
+    -77.889151,
+    34.228696
+],
   "geometry": {"coordinates":[-77.889151,34.228696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387511125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.866149,36.145805,-79.866149,36.145805",
     "geom:latitude":36.145805,
     "geom:longitude":-79.866149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4606 Old Battleground Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387511125,
-    "wof:lastmodified":1449057858,
+    "wof:lastmodified":1466656343,
     "wof:name":"Webster's Frame & Art",
     "wof:parent_id":85877983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.866149,36.145805,-79.866149,36.145805],
-  "geometry": {"coordinates":[-79.866149,36.145805],"type":"Point"}
+  "bbox": [
+    -79.866149,
+    36.145805,
+    -79.866149,
+    36.145805
+],
+  "geometry": {"coordinates":[-79.86614899999999,36.145805],"type":"Point"}
 }

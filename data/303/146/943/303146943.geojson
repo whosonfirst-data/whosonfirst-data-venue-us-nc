@@ -2,13 +2,14 @@
   "id": 303146943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.378413,34.761133,-77.378413,34.761133",
     "geom:latitude":34.761133,
     "geom:longitude":-77.378413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Office Park Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303146943,
-    "wof:lastmodified":1448999132,
+    "wof:lastmodified":1466645417,
     "wof:name":"Johnston Pain Management PA",
     "wof:parent_id":85812495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "medical"
     ]
 },
-  "bbox": [-77.378413,34.761133,-77.378413,34.761133],
-  "geometry": {"coordinates":[-77.378413,34.761133],"type":"Point"}
+  "bbox": [
+    -77.378413,
+    34.761133,
+    -77.378413,
+    34.761133
+],
+  "geometry": {"coordinates":[-77.37841299999999,34.761133],"type":"Point"}
 }

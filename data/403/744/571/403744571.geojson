@@ -2,13 +2,14 @@
   "id": 403744571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945965,35.369334,-77.945965,35.369334",
     "geom:latitude":35.369334,
     "geom:longitude":-77.945965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2719 Graves Dr",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403744571,
-    "wof:lastmodified":1449055110,
+    "wof:lastmodified":1466650868,
     "wof:name":"Action Temporaries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-77.945965,35.369334,-77.945965,35.369334],
+  "bbox": [
+    -77.945965,
+    35.369334,
+    -77.945965,
+    35.369334
+],
   "geometry": {"coordinates":[-77.945965,35.369334],"type":"Point"}
 }

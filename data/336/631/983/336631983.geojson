@@ -2,13 +2,14 @@
   "id": 336631983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.692816,35.794348,-78.692816,35.794348",
     "geom:latitude":35.794348,
     "geom:longitude":-78.692816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3909 Beryl Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336631983,
-    "wof:lastmodified":1448997280,
+    "wof:lastmodified":1466646317,
     "wof:name":"Atlantic Environmental Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ecological"
     ]
 },
-  "bbox": [-78.692816,35.794348,-78.692816,35.794348],
-  "geometry": {"coordinates":[-78.692816,35.794348],"type":"Point"}
+  "bbox": [
+    -78.692816,
+    35.794348,
+    -78.692816,
+    35.794348
+],
+  "geometry": {"coordinates":[-78.69281599999999,35.794348],"type":"Point"}
 }

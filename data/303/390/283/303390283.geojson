@@ -2,13 +2,14 @@
   "id": 303390283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94514,36.056053,-79.94514,36.056053",
     "geom:latitude":36.056053,
     "geom:longitude":-79.94514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Piedmont Pkwy",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303390283,
-    "wof:lastmodified":1449000591,
+    "wof:lastmodified":1466648938,
     "wof:name":"Cross Sales & Engineering Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [-79.94514,36.056053,-79.94514,36.056053],
-  "geometry": {"coordinates":[-79.94514,36.056053],"type":"Point"}
+  "bbox": [
+    -79.94514,
+    36.056053,
+    -79.94514,
+    36.056053
+],
+  "geometry": {"coordinates":[-79.94513999999999,36.056053],"type":"Point"}
 }

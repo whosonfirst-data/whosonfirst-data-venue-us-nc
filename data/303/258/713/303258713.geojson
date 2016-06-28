@@ -2,13 +2,14 @@
   "id": 303258713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.066651,36.384642,-79.066651,36.384642",
     "geom:latitude":36.384642,
     "geom:longitude":-79.066651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Richland Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303258713,
-    "wof:lastmodified":1449000064,
+    "wof:lastmodified":1466647080,
     "wof:name":"Jeff Oliver Construction",
     "wof:parent_id":85823157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.066651,36.384642,-79.066651,36.384642],
-  "geometry": {"coordinates":[-79.066651,36.384642],"type":"Point"}
+  "bbox": [
+    -79.066651,
+    36.384642,
+    -79.066651,
+    36.384642
+],
+  "geometry": {"coordinates":[-79.06665099999999,36.384642],"type":"Point"}
 }

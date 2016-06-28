@@ -2,13 +2,14 @@
   "id": 370594181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.477938,35.673956,-80.477938,35.673956",
     "geom:latitude":35.673956,
     "geom:longitude":-80.477938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 W Innes St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370594181,
-    "wof:lastmodified":1449029585,
+    "wof:lastmodified":1466653809,
     "wof:name":"Carolane Propane Gas Inc",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-80.477938,35.673956,-80.477938,35.673956],
-  "geometry": {"coordinates":[-80.477938,35.673956],"type":"Point"}
+  "bbox": [
+    -80.477938,
+    35.673956,
+    -80.477938,
+    35.673956
+],
+  "geometry": {"coordinates":[-80.47793799999999,35.673956],"type":"Point"}
 }

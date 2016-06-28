@@ -2,13 +2,14 @@
   "id": 303633161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.68107,35.482986,-79.68107,35.482986",
     "geom:latitude":35.482986,
     "geom:longitude":-79.68107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2332 State Hwy 705",
     "sg:city":"Robbins",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303633161,
-    "wof:lastmodified":1449000546,
+    "wof:lastmodified":1466652450,
     "wof:name":"Sandhills Community College",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-79.68107,35.482986,-79.68107,35.482986],
-  "geometry": {"coordinates":[-79.68107,35.482986],"type":"Point"}
+  "bbox": [
+    -79.68107,
+    35.482986,
+    -79.68107,
+    35.482986
+],
+  "geometry": {"coordinates":[-79.68107000000001,35.482986],"type":"Point"}
 }

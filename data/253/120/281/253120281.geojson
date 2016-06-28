@@ -2,13 +2,14 @@
   "id": 253120281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.029908,35.928367,-79.029908,35.928367",
     "geom:latitude":35.928367,
     "geom:longitude":-79.029908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Willow Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253120281,
-    "wof:lastmodified":1449065352,
+    "wof:lastmodified":1466644233,
     "wof:name":"George W Hamby MD",
     "wof:parent_id":85868007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.029908,35.928367,-79.029908,35.928367],
-  "geometry": {"coordinates":[-79.029908,35.928367],"type":"Point"}
+  "bbox": [
+    -79.029908,
+    35.928367,
+    -79.029908,
+    35.928367
+],
+  "geometry": {"coordinates":[-79.02990800000001,35.928367],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320789145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.600605,34.695654,-78.600605,34.695654",
     "geom:latitude":34.695654,
     "geom:longitude":-78.600605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4578 State Hwy 242 N",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320789145,
-    "wof:lastmodified":1449012939,
+    "wof:lastmodified":1466656403,
     "wof:name":"Forest Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-78.600605,34.695654,-78.600605,34.695654],
+  "bbox": [
+    -78.600605,
+    34.695654,
+    -78.600605,
+    34.695654
+],
   "geometry": {"coordinates":[-78.600605,34.695654],"type":"Point"}
 }

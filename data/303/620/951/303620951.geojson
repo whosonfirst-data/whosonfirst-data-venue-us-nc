@@ -2,13 +2,14 @@
   "id": 303620951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.888984,36.074649,-79.888984,36.074649",
     "geom:latitude":36.074649,
     "geom:longitude":-79.888984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5525 W Market St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303620951,
-    "wof:lastmodified":1449000353,
+    "wof:lastmodified":1466652269,
     "wof:name":"Market Street Motors",
     "wof:parent_id":85877997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-79.888984,36.074649,-79.888984,36.074649],
-  "geometry": {"coordinates":[-79.888984,36.074649],"type":"Point"}
+  "bbox": [
+    -79.888984,
+    36.074649,
+    -79.888984,
+    36.074649
+],
+  "geometry": {"coordinates":[-79.88898399999999,36.074649],"type":"Point"}
 }

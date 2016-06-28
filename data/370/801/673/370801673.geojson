@@ -2,13 +2,14 @@
   "id": 370801673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.445113,35.307704,-82.445113,35.307704",
     "geom:latitude":35.307704,
     "geom:longitude":-82.445113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Glover St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370801673,
-    "wof:lastmodified":1449031878,
+    "wof:lastmodified":1466656370,
     "wof:name":"Barker Heights Baptist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.445113,35.307704,-82.445113,35.307704],
-  "geometry": {"coordinates":[-82.445113,35.307704],"type":"Point"}
+  "bbox": [
+    -82.445113,
+    35.307704,
+    -82.445113,
+    35.307704
+],
+  "geometry": {"coordinates":[-82.44511300000001,35.307704],"type":"Point"}
 }

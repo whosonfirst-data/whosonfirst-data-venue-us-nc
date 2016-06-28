@@ -2,13 +2,14 @@
   "id": 185808109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.724482,35.225906,-82.724482,35.225906",
     "geom:latitude":35.225906,
     "geom:longitude":-82.724482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Greenville Hwy",
     "sg:city":"Brevard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185808109,
-    "wof:lastmodified":1449006651,
+    "wof:lastmodified":1466655858,
     "wof:name":"Brevard Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.724482,35.225906,-82.724482,35.225906],
-  "geometry": {"coordinates":[-82.724482,35.225906],"type":"Point"}
+  "bbox": [
+    -82.724482,
+    35.225906,
+    -82.724482,
+    35.225906
+],
+  "geometry": {"coordinates":[-82.72448199999999,35.225906],"type":"Point"}
 }

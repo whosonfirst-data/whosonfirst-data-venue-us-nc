@@ -2,13 +2,14 @@
   "id": 303218225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.774488,35.929468,-77.774488,35.929468",
     "geom:latitude":35.929468,
     "geom:longitude":-77.774488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 S Fairview Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303218225,
-    "wof:lastmodified":1448999666,
+    "wof:lastmodified":1466646478,
     "wof:name":"Double A Rentals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-77.774488,35.929468,-77.774488,35.929468],
-  "geometry": {"coordinates":[-77.774488,35.929468],"type":"Point"}
+  "bbox": [
+    -77.774488,
+    35.929468,
+    -77.774488,
+    35.929468
+],
+  "geometry": {"coordinates":[-77.77448800000001,35.929468],"type":"Point"}
 }

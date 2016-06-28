@@ -2,13 +2,14 @@
   "id": 303909483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.010809,35.401073,-81.010809,35.401073",
     "geom:latitude":35.401073,
     "geom:longitude":-81.010809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15434 Lucia Riverbend Hwy",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303909483,
-    "wof:lastmodified":1448999960,
+    "wof:lastmodified":1466656063,
     "wof:name":"Lucia Lighthouse Preschool",
     "wof:parent_id":85826219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.010809,35.401073,-81.010809,35.401073],
-  "geometry": {"coordinates":[-81.010809,35.401073],"type":"Point"}
+  "bbox": [
+    -81.010809,
+    35.401073,
+    -81.010809,
+    35.401073
+],
+  "geometry": {"coordinates":[-81.01080899999999,35.401073],"type":"Point"}
 }

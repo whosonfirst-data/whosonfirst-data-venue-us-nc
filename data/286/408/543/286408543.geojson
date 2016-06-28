@@ -2,13 +2,14 @@
   "id": 286408543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.554983,34.973614,-80.554983,34.973614",
     "geom:latitude":34.973614,
     "geom:longitude":-80.554983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Griffith Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286408543,
-    "wof:lastmodified":1449015531,
+    "wof:lastmodified":1466645130,
     "wof:name":"Hot n Now",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.554983,34.973614,-80.554983,34.973614],
-  "geometry": {"coordinates":[-80.554983,34.973614],"type":"Point"}
+  "bbox": [
+    -80.554983,
+    34.973614,
+    -80.554983,
+    34.973614
+],
+  "geometry": {"coordinates":[-80.55498299999999,34.973614],"type":"Point"}
 }

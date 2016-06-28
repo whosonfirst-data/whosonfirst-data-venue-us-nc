@@ -2,13 +2,14 @@
   "id": 320128107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.123499,34.686079,-77.123499,34.686079",
     "geom:latitude":34.686079,
     "geom:longitude":-77.123499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 S Elm St",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320128107,
-    "wof:lastmodified":1449012724,
+    "wof:lastmodified":1466647101,
     "wof:name":"AFD Swamp Logging",
     "wof:parent_id":85834913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "logging"
     ]
 },
-  "bbox": [-77.123499,34.686079,-77.123499,34.686079],
+  "bbox": [
+    -77.123499,
+    34.686079,
+    -77.123499,
+    34.686079
+],
   "geometry": {"coordinates":[-77.123499,34.686079],"type":"Point"}
 }

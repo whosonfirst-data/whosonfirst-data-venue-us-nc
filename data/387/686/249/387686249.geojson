@@ -2,13 +2,14 @@
   "id": 387686249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.324728,36.109884,-80.324728,36.109884",
     "geom:latitude":36.109884,
     "geom:longitude":-80.324728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3449 Locksley Ln",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387686249,
-    "wof:lastmodified":1449058985,
+    "wof:lastmodified":1466657350,
     "wof:name":"Nova Investors LLC",
     "wof:parent_id":85881849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-80.324728,36.109884,-80.324728,36.109884],
-  "geometry": {"coordinates":[-80.324728,36.109884],"type":"Point"}
+  "bbox": [
+    -80.324728,
+    36.109884,
+    -80.324728,
+    36.109884
+],
+  "geometry": {"coordinates":[-80.32472799999999,36.109884],"type":"Point"}
 }

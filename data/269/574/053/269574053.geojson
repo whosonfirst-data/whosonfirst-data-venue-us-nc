@@ -2,13 +2,14 @@
   "id": 269574053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.440498,36.090406,-79.440498,36.090406",
     "geom:latitude":36.090406,
     "geom:longitude":-79.440498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 S Spring St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269574053,
-    "wof:lastmodified":1449036129,
+    "wof:lastmodified":1466644269,
     "wof:name":"Star Food Products Inc",
     "wof:parent_id":85810235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "preparation"
     ]
 },
-  "bbox": [-79.440498,36.090406,-79.440498,36.090406],
-  "geometry": {"coordinates":[-79.440498,36.090406],"type":"Point"}
+  "bbox": [
+    -79.440498,
+    36.090406,
+    -79.440498,
+    36.090406
+],
+  "geometry": {"coordinates":[-79.44049800000001,36.090406],"type":"Point"}
 }

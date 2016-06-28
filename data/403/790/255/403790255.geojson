@@ -2,13 +2,14 @@
   "id": 403790255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.57792,35.907482,-80.57792,35.907482",
     "geom:latitude":35.907482,
     "geom:longitude":-80.57792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 Yadkinville Rd",
     "sg:city":"Mocksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403790255,
-    "wof:lastmodified":1449055653,
+    "wof:lastmodified":1466651445,
     "wof:name":"Car Go Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-80.57792,35.907482,-80.57792,35.907482],
-  "geometry": {"coordinates":[-80.57792,35.907482],"type":"Point"}
+  "bbox": [
+    -80.57792,
+    35.907482,
+    -80.57792,
+    35.907482
+],
+  "geometry": {"coordinates":[-80.57792000000001,35.907482],"type":"Point"}
 }

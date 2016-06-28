@@ -2,13 +2,14 @@
   "id": 403719595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.971285,36.024271,-79.971285,36.024271",
     "geom:latitude":36.024271,
     "geom:longitude":-79.971285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 Hickswood Rd",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":403719595,
-    "wof:lastmodified":1449054797,
+    "wof:lastmodified":1466650548,
     "wof:name":"Studio Twenty Three Salon Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.971285,36.024271,-79.971285,36.024271],
-  "geometry": {"coordinates":[-79.971285,36.024271],"type":"Point"}
+  "bbox": [
+    -79.971285,
+    36.024271,
+    -79.971285,
+    36.024271
+],
+  "geometry": {"coordinates":[-79.97128499999999,36.024271],"type":"Point"}
 }

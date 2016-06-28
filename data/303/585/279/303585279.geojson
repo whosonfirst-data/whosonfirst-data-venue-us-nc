@@ -2,13 +2,14 @@
   "id": 303585279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.660496,35.753446,-78.660496,35.753446",
     "geom:latitude":35.753446,
     "geom:longitude":-78.660496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 Kirkland Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303585279,
-    "wof:lastmodified":1448999744,
+    "wof:lastmodified":1466651732,
     "wof:name":"Best Distributing Co Inc",
     "wof:parent_id":85873477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "heating"
     ]
 },
-  "bbox": [-78.660496,35.753446,-78.660496,35.753446],
-  "geometry": {"coordinates":[-78.660496,35.753446],"type":"Point"}
+  "bbox": [
+    -78.660496,
+    35.753446,
+    -78.660496,
+    35.753446
+],
+  "geometry": {"coordinates":[-78.66049599999999,35.753446],"type":"Point"}
 }

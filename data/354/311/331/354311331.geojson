@@ -2,13 +2,14 @@
   "id": 354311331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.594548,35.448999,-80.594548,35.448999",
     "geom:latitude":35.448999,
     "geom:longitude":-80.594548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"478 Copperfield Blvd NE",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354311331,
-    "wof:lastmodified":1449066330,
+    "wof:lastmodified":1466651148,
     "wof:name":"Cabarrus Rheumatology Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.594548,35.448999,-80.594548,35.448999],
+  "bbox": [
+    -80.594548,
+    35.448999,
+    -80.594548,
+    35.448999
+],
   "geometry": {"coordinates":[-80.594548,35.448999],"type":"Point"}
 }

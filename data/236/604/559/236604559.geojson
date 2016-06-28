@@ -2,13 +2,14 @@
   "id": 236604559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.287551,36.149185,-81.287551,36.149185",
     "geom:latitude":36.149185,
     "geom:longitude":-81.287551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3162 Hamby Mountain Rd",
     "sg:city":"Wilkesboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236604559,
-    "wof:lastmodified":1449004786,
+    "wof:lastmodified":1466648571,
     "wof:name":"Hayworth Construction Co",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.287551,36.149185,-81.287551,36.149185],
-  "geometry": {"coordinates":[-81.287551,36.149185],"type":"Point"}
+  "bbox": [
+    -81.287551,
+    36.149185,
+    -81.287551,
+    36.149185
+],
+  "geometry": {"coordinates":[-81.28755099999999,36.149185],"type":"Point"}
 }

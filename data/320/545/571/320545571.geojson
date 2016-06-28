@@ -2,13 +2,14 @@
   "id": 320545571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.830981,34.256785,-77.830981,34.256785",
     "geom:latitude":34.256785,
     "geom:longitude":-77.830981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Station Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320545571,
-    "wof:lastmodified":1449012160,
+    "wof:lastmodified":1466653026,
     "wof:name":"Covenant Church",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.830981,34.256785,-77.830981,34.256785],
-  "geometry": {"coordinates":[-77.830981,34.256785],"type":"Point"}
+  "bbox": [
+    -77.830981,
+    34.256785,
+    -77.830981,
+    34.256785
+],
+  "geometry": {"coordinates":[-77.83098099999999,34.256785],"type":"Point"}
 }

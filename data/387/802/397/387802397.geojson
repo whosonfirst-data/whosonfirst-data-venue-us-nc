@@ -2,13 +2,14 @@
   "id": 387802397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.543241,34.772851,-79.543241,34.772851",
     "geom:latitude":34.772851,
     "geom:longitude":-79.543241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9581 Gibson Rd",
     "sg:city":"Gibson",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387802397,
-    "wof:lastmodified":1449059209,
+    "wof:lastmodified":1466657711,
     "wof:name":"Darrell Wilkins Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.543241,34.772851,-79.543241,34.772851],
-  "geometry": {"coordinates":[-79.543241,34.772851],"type":"Point"}
+  "bbox": [
+    -79.543241,
+    34.772851,
+    -79.543241,
+    34.772851
+],
+  "geometry": {"coordinates":[-79.54324099999999,34.772851],"type":"Point"}
 }

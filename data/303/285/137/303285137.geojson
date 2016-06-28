@@ -2,13 +2,14 @@
   "id": 303285137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.992049,35.364571,-77.992049,35.364571",
     "geom:latitude":35.364571,
     "geom:longitude":-77.992049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 S Slocumb St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303285137,
-    "wof:lastmodified":1448998189,
+    "wof:lastmodified":1466647465,
     "wof:name":"New St John AME Church",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.992049,35.364571,-77.992049,35.364571],
-  "geometry": {"coordinates":[-77.992049,35.364571],"type":"Point"}
+  "bbox": [
+    -77.992049,
+    35.364571,
+    -77.992049,
+    35.364571
+],
+  "geometry": {"coordinates":[-77.99204899999999,35.364571],"type":"Point"}
 }

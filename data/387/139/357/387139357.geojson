@@ -2,13 +2,14 @@
   "id": 387139357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.300385,34.763835,-77.300385,34.763835",
     "geom:latitude":34.763835,
     "geom:longitude":-77.300385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Chaparral Trl",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387139357,
-    "wof:lastmodified":1449056468,
+    "wof:lastmodified":1466651662,
     "wof:name":"Avens Locklear Company",
     "wof:parent_id":85834913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-77.300385,34.763835,-77.300385,34.763835],
-  "geometry": {"coordinates":[-77.300385,34.763835],"type":"Point"}
+  "bbox": [
+    -77.300385,
+    34.763835,
+    -77.300385,
+    34.763835
+],
+  "geometry": {"coordinates":[-77.30038500000001,34.763835],"type":"Point"}
 }

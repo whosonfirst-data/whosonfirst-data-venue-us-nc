@@ -2,13 +2,14 @@
   "id": 370224401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.616633,35.419531,-80.616633,35.419531",
     "geom:latitude":35.419531,
     "geom:longitude":-80.616633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Hartman Pl NW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370224401,
-    "wof:lastmodified":1449031569,
+    "wof:lastmodified":1466649076,
     "wof:name":"Mecanico Elchaparro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-80.616633,35.419531,-80.616633,35.419531],
-  "geometry": {"coordinates":[-80.616633,35.419531],"type":"Point"}
+  "bbox": [
+    -80.616633,
+    35.419531,
+    -80.616633,
+    35.419531
+],
+  "geometry": {"coordinates":[-80.61663299999999,35.419531],"type":"Point"}
 }

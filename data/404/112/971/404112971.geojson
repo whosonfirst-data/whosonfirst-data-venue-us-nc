@@ -2,13 +2,14 @@
   "id": 404112971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.952036,35.980991,-78.952036,35.980991",
     "geom:latitude":35.980991,
     "geom:longitude":-78.952036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Woodburn Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404112971,
-    "wof:lastmodified":1449039559,
+    "wof:lastmodified":1466652703,
     "wof:name":"Lenore Behar Consulting",
     "wof:parent_id":85877149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.952036,35.980991,-78.952036,35.980991],
-  "geometry": {"coordinates":[-78.952036,35.980991],"type":"Point"}
+  "bbox": [
+    -78.952036,
+    35.980991,
+    -78.952036,
+    35.980991
+],
+  "geometry": {"coordinates":[-78.95203600000001,35.980991],"type":"Point"}
 }

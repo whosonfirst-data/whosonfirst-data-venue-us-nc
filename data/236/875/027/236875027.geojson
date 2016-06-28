@@ -2,13 +2,14 @@
   "id": 236875027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.04155,35.107176,-77.04155,35.107176",
     "geom:latitude":35.107176,
     "geom:longitude":-77.04155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Pollock St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236875027,
-    "wof:lastmodified":1449004224,
+    "wof:lastmodified":1466651065,
     "wof:name":"Psychological/Therapeutic",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-77.04155,35.107176,-77.04155,35.107176],
+  "bbox": [
+    -77.04155,
+    35.107176,
+    -77.04155,
+    35.107176
+],
   "geometry": {"coordinates":[-77.04155,35.107176],"type":"Point"}
 }

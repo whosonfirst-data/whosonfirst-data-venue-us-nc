@@ -2,13 +2,14 @@
   "id": 219494489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.739967,34.960468,-78.739967,34.960468",
     "geom:latitude":34.960468,
     "geom:longitude":-78.739967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3027 Stedman Cedar Creek Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219494489,
-    "wof:lastmodified":1449073535,
+    "wof:lastmodified":1466644856,
     "wof:name":"Anthony Barker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.739967,34.960468,-78.739967,34.960468],
-  "geometry": {"coordinates":[-78.739967,34.960468],"type":"Point"}
+  "bbox": [
+    -78.739967,
+    34.960468,
+    -78.739967,
+    34.960468
+],
+  "geometry": {"coordinates":[-78.73996699999999,34.960468],"type":"Point"}
 }

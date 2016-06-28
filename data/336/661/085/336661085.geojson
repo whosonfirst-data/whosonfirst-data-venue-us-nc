@@ -2,13 +2,14 @@
   "id": 336661085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.87516,35.980914,-78.87516,35.980914",
     "geom:latitude":35.980914,
     "geom:longitude":-78.87516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Angier Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336661085,
-    "wof:lastmodified":1448997900,
+    "wof:lastmodified":1466646788,
     "wof:name":"Rose Paint and Body",
     "wof:parent_id":85877153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-78.87516,35.980914,-78.87516,35.980914],
-  "geometry": {"coordinates":[-78.87516,35.980914],"type":"Point"}
+  "bbox": [
+    -78.87516,
+    35.980914,
+    -78.87516,
+    35.980914
+],
+  "geometry": {"coordinates":[-78.87515999999999,35.980914],"type":"Point"}
 }

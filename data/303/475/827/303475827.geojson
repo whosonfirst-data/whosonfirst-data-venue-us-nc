@@ -2,13 +2,14 @@
   "id": 303475827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.044677,35.887144,-80.044677,35.887144",
     "geom:latitude":35.887144,
     "geom:longitude":-80.044677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4786 Turnpike Ct",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303475827,
-    "wof:lastmodified":1448999133,
+    "wof:lastmodified":1466650189,
     "wof:name":"Younts Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-80.044677,35.887144,-80.044677,35.887144],
-  "geometry": {"coordinates":[-80.044677,35.887144],"type":"Point"}
+  "bbox": [
+    -80.044677,
+    35.887144,
+    -80.044677,
+    35.887144
+],
+  "geometry": {"coordinates":[-80.04467699999999,35.887144],"type":"Point"}
 }

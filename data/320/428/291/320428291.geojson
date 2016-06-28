@@ -2,13 +2,14 @@
   "id": 320428291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.030283,35.934037,-79.030283,35.934037",
     "geom:latitude":35.934037,
     "geom:longitude":-79.030283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 E Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320428291,
-    "wof:lastmodified":1449014708,
+    "wof:lastmodified":1466651334,
     "wof:name":"Forestland Group",
     "wof:parent_id":85868007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-79.030283,35.934037,-79.030283,35.934037],
+  "bbox": [
+    -79.030283,
+    35.934037,
+    -79.030283,
+    35.934037
+],
   "geometry": {"coordinates":[-79.030283,35.934037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336622053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.434005,36.095525,-79.434005,36.095525",
     "geom:latitude":36.095525,
     "geom:longitude":-79.434005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 N Main St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336622053,
-    "wof:lastmodified":1448997836,
+    "wof:lastmodified":1466646169,
     "wof:name":"Burlington Pawnbrokers Inc",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firearm"
     ]
 },
-  "bbox": [-79.434005,36.095525,-79.434005,36.095525],
+  "bbox": [
+    -79.434005,
+    36.095525,
+    -79.434005,
+    36.095525
+],
   "geometry": {"coordinates":[-79.434005,36.095525],"type":"Point"}
 }

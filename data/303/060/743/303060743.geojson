@@ -2,13 +2,14 @@
   "id": 303060743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.839549,34.30215,-77.839549,34.30215",
     "geom:latitude":34.30215,
     "geom:longitude":-77.839549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Cotswald Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303060743,
-    "wof:lastmodified":1449000342,
+    "wof:lastmodified":1466644112,
     "wof:name":"Ward Appraisal Co",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-77.839549,34.30215,-77.839549,34.30215],
-  "geometry": {"coordinates":[-77.839549,34.30215],"type":"Point"}
+  "bbox": [
+    -77.839549,
+    34.30215,
+    -77.839549,
+    34.30215
+],
+  "geometry": {"coordinates":[-77.83954900000001,34.30215],"type":"Point"}
 }

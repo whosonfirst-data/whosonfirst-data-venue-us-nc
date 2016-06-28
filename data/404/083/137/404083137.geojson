@@ -2,13 +2,14 @@
   "id": 404083137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.642935,35.7497,-78.642935,35.7497",
     "geom:latitude":35.7497,
     "geom:longitude":-78.642935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2428 S Wilmington St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404083137,
-    "wof:lastmodified":1449039583,
+    "wof:lastmodified":1466652339,
     "wof:name":"American Pawn-D-Rosa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pawnshop"
     ]
 },
-  "bbox": [-78.642935,35.7497,-78.642935,35.7497],
-  "geometry": {"coordinates":[-78.642935,35.7497],"type":"Point"}
+  "bbox": [
+    -78.642935,
+    35.7497,
+    -78.642935,
+    35.7497
+],
+  "geometry": {"coordinates":[-78.64293499999999,35.7497],"type":"Point"}
 }

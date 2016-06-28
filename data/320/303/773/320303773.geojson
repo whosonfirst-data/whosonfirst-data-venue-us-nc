@@ -2,13 +2,14 @@
   "id": 320303773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.821196,34.27007,-77.821196,34.27007",
     "geom:latitude":34.27007,
     "geom:longitude":-77.821196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7134 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320303773,
-    "wof:lastmodified":1449011288,
+    "wof:lastmodified":1466649533,
     "wof:name":"Coffee Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coffee"
     ]
 },
-  "bbox": [-77.821196,34.27007,-77.821196,34.27007],
+  "bbox": [
+    -77.821196,
+    34.27007,
+    -77.821196,
+    34.27007
+],
   "geometry": {"coordinates":[-77.821196,34.27007],"type":"Point"}
 }

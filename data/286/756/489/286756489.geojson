@@ -2,13 +2,14 @@
   "id": 286756489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.125912,35.450471,-78.125912,35.450471",
     "geom:latitude":35.450471,
     "geom:longitude":-78.125912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4458 US Hwy 70 W",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286756489,
-    "wof:lastmodified":1449016959,
+    "wof:lastmodified":1466649859,
     "wof:name":"Jenkins Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-78.125912,35.450471,-78.125912,35.450471],
+  "bbox": [
+    -78.125912,
+    35.450471,
+    -78.125912,
+    35.450471
+],
   "geometry": {"coordinates":[-78.125912,35.450471],"type":"Point"}
 }

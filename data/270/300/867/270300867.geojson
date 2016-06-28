@@ -2,13 +2,14 @@
   "id": 270300867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.440857,36.143528,-79.440857,36.143528",
     "geom:latitude":36.143528,
     "geom:longitude":-79.440857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2930 Lake Dr",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270300867,
-    "wof:lastmodified":1449010033,
+    "wof:lastmodified":1466646883,
     "wof:name":"Integrated Services",
     "wof:parent_id":85826513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.440857,36.143528,-79.440857,36.143528],
-  "geometry": {"coordinates":[-79.440857,36.143528],"type":"Point"}
+  "bbox": [
+    -79.440857,
+    36.143528,
+    -79.440857,
+    36.143528
+],
+  "geometry": {"coordinates":[-79.44085699999999,36.143528],"type":"Point"}
 }

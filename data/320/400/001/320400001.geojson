@@ -2,13 +2,14 @@
   "id": 320400001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.557945,35.92396,-77.557945,35.92396",
     "geom:latitude":35.92396,
     "geom:longitude":-77.557945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 N Main St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320400001,
-    "wof:lastmodified":1449011599,
+    "wof:lastmodified":1466650921,
     "wof:name":"CAP Community Alternatives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.557945,35.92396,-77.557945,35.92396],
+  "bbox": [
+    -77.557945,
+    35.92396,
+    -77.557945,
+    35.92396
+],
   "geometry": {"coordinates":[-77.557945,35.92396],"type":"Point"}
 }

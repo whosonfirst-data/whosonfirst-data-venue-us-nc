@@ -2,13 +2,14 @@
   "id": 270039223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.954471,35.716628,-77.954471,35.716628",
     "geom:latitude":35.716628,
     "geom:longitude":-77.954471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 Wooten Blvd SW",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270039223,
-    "wof:lastmodified":1449010781,
+    "wof:lastmodified":1466643645,
     "wof:name":"Wilson Overhead Door Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-77.954471,35.716628,-77.954471,35.716628],
+  "bbox": [
+    -77.954471,
+    35.716628,
+    -77.954471,
+    35.716628
+],
   "geometry": {"coordinates":[-77.954471,35.716628],"type":"Point"}
 }

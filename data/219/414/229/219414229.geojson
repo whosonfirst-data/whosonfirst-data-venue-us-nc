@@ -2,13 +2,14 @@
   "id": 219414229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.915033,35.996845,-78.915033,35.996845",
     "geom:latitude":35.996845,
     "geom:longitude":-78.915033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Chapel Hill St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219414229,
-    "wof:lastmodified":1449072043,
+    "wof:lastmodified":1466644238,
     "wof:name":"BERT Ctr",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-78.915033,35.996845,-78.915033,35.996845],
-  "geometry": {"coordinates":[-78.915033,35.996845],"type":"Point"}
+  "bbox": [
+    -78.915033,
+    35.996845,
+    -78.915033,
+    35.996845
+],
+  "geometry": {"coordinates":[-78.91503299999999,35.996845],"type":"Point"}
 }

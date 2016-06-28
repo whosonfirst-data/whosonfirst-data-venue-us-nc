@@ -2,13 +2,14 @@
   "id": 303678973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.226985,36.331213,-76.226985,36.331213",
     "geom:latitude":36.331213,
     "geom:longitude":-76.226985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 N Road St",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303678973,
-    "wof:lastmodified":1448999298,
+    "wof:lastmodified":1466653113,
     "wof:name":"Hair By Scott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.226985,36.331213,-76.226985,36.331213],
+  "bbox": [
+    -76.226985,
+    36.331213,
+    -76.226985,
+    36.331213
+],
   "geometry": {"coordinates":[-76.226985,36.331213],"type":"Point"}
 }

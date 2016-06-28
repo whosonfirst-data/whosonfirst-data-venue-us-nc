@@ -2,13 +2,14 @@
   "id": 370524643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.649425,35.73961,-79.649425,35.73961",
     "geom:latitude":35.73961,
     "geom:longitude":-79.649425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Weatherly Sq",
     "sg:city":"Ramseur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370524643,
-    "wof:lastmodified":1449029035,
+    "wof:lastmodified":1466652880,
     "wof:name":"Styles Unlimited",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-79.649425,35.73961,-79.649425,35.73961],
-  "geometry": {"coordinates":[-79.649425,35.73961],"type":"Point"}
+  "bbox": [
+    -79.649425,
+    35.73961,
+    -79.649425,
+    35.73961
+],
+  "geometry": {"coordinates":[-79.64942499999999,35.73961],"type":"Point"}
 }

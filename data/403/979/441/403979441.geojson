@@ -2,13 +2,14 @@
   "id": 403979441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.034393,35.967194,-80.034393,35.967194",
     "geom:latitude":35.967194,
     "geom:longitude":-80.034393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Dovershire Pl",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403979441,
-    "wof:lastmodified":1449055547,
+    "wof:lastmodified":1466653929,
     "wof:name":"Jim Cline Appraisals",
     "wof:parent_id":85891951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.034393,35.967194,-80.034393,35.967194],
-  "geometry": {"coordinates":[-80.034393,35.967194],"type":"Point"}
+  "bbox": [
+    -80.034393,
+    35.967194,
+    -80.034393,
+    35.967194
+],
+  "geometry": {"coordinates":[-80.03439299999999,35.967194],"type":"Point"}
 }

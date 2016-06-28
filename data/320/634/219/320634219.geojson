@@ -2,13 +2,14 @@
   "id": 320634219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.345425,35.831388,-78.345425,35.831388",
     "geom:latitude":35.831388,
     "geom:longitude":-78.345425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Green Pace Rd",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320634219,
-    "wof:lastmodified":1449013040,
+    "wof:lastmodified":1466654327,
     "wof:name":"Agri Pest Labs",
     "wof:parent_id":85844845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-78.345425,35.831388,-78.345425,35.831388],
-  "geometry": {"coordinates":[-78.345425,35.831388],"type":"Point"}
+  "bbox": [
+    -78.345425,
+    35.831388,
+    -78.345425,
+    35.831388
+],
+  "geometry": {"coordinates":[-78.34542500000001,35.831388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303177611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.706562,34.895757,-77.706562,34.895757",
     "geom:latitude":34.895757,
     "geom:longitude":-77.706562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"489 Fountaintown Rd",
     "sg:city":"Beulaville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303177611,
-    "wof:lastmodified":1449000564,
+    "wof:lastmodified":1466645873,
     "wof:name":"M and RB Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "welding"
     ]
 },
-  "bbox": [-77.706562,34.895757,-77.706562,34.895757],
-  "geometry": {"coordinates":[-77.706562,34.895757],"type":"Point"}
+  "bbox": [
+    -77.706562,
+    34.895757,
+    -77.706562,
+    34.895757
+],
+  "geometry": {"coordinates":[-77.70656200000001,34.895757],"type":"Point"}
 }

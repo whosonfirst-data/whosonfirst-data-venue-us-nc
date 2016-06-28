@@ -2,13 +2,14 @@
   "id": 202531461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.315222,35.518915,-78.315222,35.518915",
     "geom:latitude":35.518915,
     "geom:longitude":-78.315222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1263 N Brightleaf Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202531461,
-    "wof:lastmodified":1449060706,
+    "wof:lastmodified":1466655192,
     "wof:name":"Taste Of China",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.315222,35.518915,-78.315222,35.518915],
-  "geometry": {"coordinates":[-78.315222,35.518915],"type":"Point"}
+  "bbox": [
+    -78.315222,
+    35.518915,
+    -78.315222,
+    35.518915
+],
+  "geometry": {"coordinates":[-78.31522200000001,35.518915],"type":"Point"}
 }

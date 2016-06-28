@@ -2,13 +2,14 @@
   "id": 303447455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.357677,36.156423,-80.357677,36.156423",
     "geom:latitude":36.156423,
     "geom:longitude":-80.357677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4540 Peter Pfaff Rd",
     "sg:city":"Pfafftown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303447455,
-    "wof:lastmodified":1448999839,
+    "wof:lastmodified":1466649760,
     "wof:name":"Civil Support Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.357677,36.156423,-80.357677,36.156423],
+  "bbox": [
+    -80.357677,
+    36.156423,
+    -80.357677,
+    36.156423
+],
   "geometry": {"coordinates":[-80.357677,36.156423],"type":"Point"}
 }

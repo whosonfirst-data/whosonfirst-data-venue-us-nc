@@ -2,13 +2,14 @@
   "id": 320068633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.555146,35.003378,-80.555146,35.003378",
     "geom:latitude":35.003378,
     "geom:longitude":-80.555146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 W Roosevelt Blvd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320068633,
-    "wof:lastmodified":1449013181,
+    "wof:lastmodified":1466646274,
     "wof:name":"Ken's Tire Svc",
     "wof:parent_id":85879029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-80.555146,35.003378,-80.555146,35.003378],
-  "geometry": {"coordinates":[-80.555146,35.003378],"type":"Point"}
+  "bbox": [
+    -80.555146,
+    35.003378,
+    -80.555146,
+    35.003378
+],
+  "geometry": {"coordinates":[-80.55514599999999,35.003378],"type":"Point"}
 }

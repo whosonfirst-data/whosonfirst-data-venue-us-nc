@@ -2,13 +2,14 @@
   "id": 387142253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.487096,35.915259,-78.487096,35.915259",
     "geom:latitude":35.915259,
     "geom:longitude":-78.487096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4905 Tuckahoe Trce",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387142253,
-    "wof:lastmodified":1449059154,
+    "wof:lastmodified":1466651703,
     "wof:name":"Wl Whitley Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.487096,35.915259,-78.487096,35.915259],
-  "geometry": {"coordinates":[-78.487096,35.915259],"type":"Point"}
+  "bbox": [
+    -78.487096,
+    35.915259,
+    -78.487096,
+    35.915259
+],
+  "geometry": {"coordinates":[-78.48709599999999,35.915259],"type":"Point"}
 }

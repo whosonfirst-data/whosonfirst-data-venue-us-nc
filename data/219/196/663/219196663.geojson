@@ -2,13 +2,14 @@
   "id": 219196663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.617435,35.529251,-80.617435,35.529251",
     "geom:latitude":35.529251,
     "geom:longitude":-80.617435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Rosemont Ave",
     "sg:city":"Kannapolis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219196663,
-    "wof:lastmodified":1449071194,
+    "wof:lastmodified":1466655355,
     "wof:name":"Kannapolis Community Policing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.617435,35.529251,-80.617435,35.529251],
+  "bbox": [
+    -80.617435,
+    35.529251,
+    -80.617435,
+    35.529251
+],
   "geometry": {"coordinates":[-80.617435,35.529251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303815545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.407246,35.256319,-82.407246,35.256319",
     "geom:latitude":35.256319,
     "geom:longitude":-82.407246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Spartanburg Hwy",
     "sg:city":"Flat Rock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303815545,
-    "wof:lastmodified":1448999303,
+    "wof:lastmodified":1466655087,
     "wof:name":"Collins Entertainment",
     "wof:parent_id":85819569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-82.407246,35.256319,-82.407246,35.256319],
+  "bbox": [
+    -82.407246,
+    35.256319,
+    -82.407246,
+    35.256319
+],
   "geometry": {"coordinates":[-82.407246,35.256319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387555631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.209252,35.680969,-78.209252,35.680969",
     "geom:latitude":35.680969,
     "geom:longitude":-78.209252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11585 State Hwy 42 E",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387555631,
-    "wof:lastmodified":1449059381,
+    "wof:lastmodified":1466656757,
     "wof:name":"Kenly Grocery & Grill",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-78.209252,35.680969,-78.209252,35.680969],
-  "geometry": {"coordinates":[-78.209252,35.680969],"type":"Point"}
+  "bbox": [
+    -78.209252,
+    35.680969,
+    -78.209252,
+    35.680969
+],
+  "geometry": {"coordinates":[-78.20925200000001,35.680969],"type":"Point"}
 }

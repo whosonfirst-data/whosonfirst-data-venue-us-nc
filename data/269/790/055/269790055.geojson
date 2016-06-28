@@ -2,13 +2,14 @@
   "id": 269790055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.396034,35.576358,-77.396034,35.576358",
     "geom:latitude":35.576358,
     "geom:longitude":-77.396034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3123 Bismarck St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":269790055,
-    "wof:lastmodified":1449038259,
+    "wof:lastmodified":1466646842,
     "wof:name":"Carlton Scale",
     "wof:parent_id":85857865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scale"
     ]
 },
-  "bbox": [-77.396034,35.576358,-77.396034,35.576358],
+  "bbox": [
+    -77.396034,
+    35.576358,
+    -77.396034,
+    35.576358
+],
   "geometry": {"coordinates":[-77.396034,35.576358],"type":"Point"}
 }

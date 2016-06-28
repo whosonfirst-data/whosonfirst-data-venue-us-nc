@@ -2,13 +2,14 @@
   "id": 353872527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.026188,35.561928,-77.026188,35.561928",
     "geom:latitude":35.561928,
     "geom:longitude":-77.026188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Palmer Pl",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353872527,
-    "wof:lastmodified":1449018484,
+    "wof:lastmodified":1466652583,
     "wof:name":"GMAC",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-77.026188,35.561928,-77.026188,35.561928],
+  "bbox": [
+    -77.026188,
+    35.561928,
+    -77.026188,
+    35.561928
+],
   "geometry": {"coordinates":[-77.026188,35.561928],"type":"Point"}
 }

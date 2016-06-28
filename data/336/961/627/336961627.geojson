@@ -2,13 +2,14 @@
   "id": 336961627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.191358,35.999891,-80.191358,35.999891",
     "geom:latitude":35.999891,
     "geom:longitude":-80.191358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 Gumtree Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336961627,
-    "wof:lastmodified":1448997979,
+    "wof:lastmodified":1466651345,
     "wof:name":"Joe Hipps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.191358,35.999891,-80.191358,35.999891],
-  "geometry": {"coordinates":[-80.191358,35.999891],"type":"Point"}
+  "bbox": [
+    -80.191358,
+    35.999891,
+    -80.191358,
+    35.999891
+],
+  "geometry": {"coordinates":[-80.19135799999999,35.999891],"type":"Point"}
 }

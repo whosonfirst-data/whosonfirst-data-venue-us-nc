@@ -2,13 +2,14 @@
   "id": 253387807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.012715,35.953102,-80.012715,35.953102",
     "geom:latitude":35.953102,
     "geom:longitude":-80.012715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 W High Ave",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253387807,
-    "wof:lastmodified":1449065374,
+    "wof:lastmodified":1466647019,
     "wof:name":"High Point Superior Court Div",
     "wof:parent_id":85891965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-80.012715,35.953102,-80.012715,35.953102],
+  "bbox": [
+    -80.012715,
+    35.953102,
+    -80.012715,
+    35.953102
+],
   "geometry": {"coordinates":[-80.012715,35.953102],"type":"Point"}
 }

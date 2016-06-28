@@ -2,13 +2,14 @@
   "id": 353538041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.933888,35.760584,-77.933888,35.760584",
     "geom:latitude":35.760584,
     "geom:longitude":-77.933888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 Nash St NW",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353538041,
-    "wof:lastmodified":1449018568,
+    "wof:lastmodified":1466648612,
     "wof:name":"Peak Performance Resource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-77.933888,35.760584,-77.933888,35.760584],
+  "bbox": [
+    -77.933888,
+    35.760584,
+    -77.933888,
+    35.760584
+],
   "geometry": {"coordinates":[-77.933888,35.760584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354399629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.988261,35.191516,-78.988261,35.191516",
     "geom:latitude":35.191516,
     "geom:longitude":-78.988261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 W Manchester Rd",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354399629,
-    "wof:lastmodified":1449066238,
+    "wof:lastmodified":1466652166,
     "wof:name":"Manchester Mini Storage",
     "wof:parent_id":85803425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-78.988261,35.191516,-78.988261,35.191516],
-  "geometry": {"coordinates":[-78.988261,35.191516],"type":"Point"}
+  "bbox": [
+    -78.988261,
+    35.191516,
+    -78.988261,
+    35.191516
+],
+  "geometry": {"coordinates":[-78.98826099999999,35.191516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320811013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.303858,35.787179,-81.303858,35.787179",
     "geom:latitude":35.787179,
     "geom:longitude":-81.303858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4031 8th Street Ln NE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320811013,
-    "wof:lastmodified":1449013060,
+    "wof:lastmodified":1466656427,
     "wof:name":"The Links At Olivers Landing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "membership"
     ]
 },
-  "bbox": [-81.303858,35.787179,-81.303858,35.787179],
-  "geometry": {"coordinates":[-81.303858,35.787179],"type":"Point"}
+  "bbox": [
+    -81.303858,
+    35.787179,
+    -81.303858,
+    35.787179
+],
+  "geometry": {"coordinates":[-81.30385800000001,35.787179],"type":"Point"}
 }

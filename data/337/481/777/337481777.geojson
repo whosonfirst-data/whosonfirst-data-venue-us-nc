@@ -2,13 +2,14 @@
   "id": 337481777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.898856,35.250417,-80.898856,35.250417",
     "geom:latitude":35.250417,
     "geom:longitude":-80.898856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Freedom Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337481777,
-    "wof:lastmodified":1449027637,
+    "wof:lastmodified":1466647289,
     "wof:name":"No Walls Ministry",
     "wof:parent_id":85826315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.898856,35.250417,-80.898856,35.250417],
-  "geometry": {"coordinates":[-80.898856,35.250417],"type":"Point"}
+  "bbox": [
+    -80.898856,
+    35.250417,
+    -80.898856,
+    35.250417
+],
+  "geometry": {"coordinates":[-80.89885599999999,35.250417],"type":"Point"}
 }

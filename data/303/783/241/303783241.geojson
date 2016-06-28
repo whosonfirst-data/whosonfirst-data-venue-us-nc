@@ -2,13 +2,14 @@
   "id": 303783241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.805461,34.285998,-77.805461,34.285998",
     "geom:latitude":34.285998,
     "geom:longitude":-77.805461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7741 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303783241,
-    "wof:lastmodified":1448998197,
+    "wof:lastmodified":1466654618,
     "wof:name":"Robotham Marine Surveyors",
     "wof:parent_id":85807111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-77.805461,34.285998,-77.805461,34.285998],
-  "geometry": {"coordinates":[-77.805461,34.285998],"type":"Point"}
+  "bbox": [
+    -77.805461,
+    34.285998,
+    -77.805461,
+    34.285998
+],
+  "geometry": {"coordinates":[-77.80546099999999,34.285998],"type":"Point"}
 }

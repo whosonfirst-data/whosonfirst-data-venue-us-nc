@@ -2,13 +2,14 @@
   "id": 337312277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.894956,34.24179,-77.894956,34.24179",
     "geom:latitude":34.24179,
     "geom:longitude":-77.894956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4022 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337312277,
-    "wof:lastmodified":1449027361,
+    "wof:lastmodified":1466646247,
     "wof:name":"Marine Mechanix",
     "wof:parent_id":85818553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-77.894956,34.24179,-77.894956,34.24179],
-  "geometry": {"coordinates":[-77.894956,34.24179],"type":"Point"}
+  "bbox": [
+    -77.894956,
+    34.24179,
+    -77.894956,
+    34.24179
+],
+  "geometry": {"coordinates":[-77.89495599999999,34.24179],"type":"Point"}
 }

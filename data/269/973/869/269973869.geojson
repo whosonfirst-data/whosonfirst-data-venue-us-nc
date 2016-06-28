@@ -2,13 +2,14 @@
   "id": 269973869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.898767,35.105915,-78.898767,35.105915",
     "geom:latitude":35.105915,
     "geom:longitude":-78.898767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3473 Thorndike Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269973869,
-    "wof:lastmodified":1449037594,
+    "wof:lastmodified":1466649028,
     "wof:name":"Clark's Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-78.898767,35.105915,-78.898767,35.105915],
-  "geometry": {"coordinates":[-78.898767,35.105915],"type":"Point"}
+  "bbox": [
+    -78.898767,
+    35.105915,
+    -78.898767,
+    35.105915
+],
+  "geometry": {"coordinates":[-78.89876700000001,35.105915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252730067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.510861,33.885782,-78.510861,33.885782",
     "geom:latitude":33.885782,
     "geom:longitude":-78.510861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Sunset Blvd N",
     "sg:city":"Sunset Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252730067,
-    "wof:lastmodified":1449006346,
+    "wof:lastmodified":1466643421,
     "wof:name":"Bill's Seafood Of Sunset Beach",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-78.510861,33.885782,-78.510861,33.885782],
-  "geometry": {"coordinates":[-78.510861,33.885782],"type":"Point"}
+  "bbox": [
+    -78.510861,
+    33.885782,
+    -78.510861,
+    33.885782
+],
+  "geometry": {"coordinates":[-78.51086100000001,33.885782],"type":"Point"}
 }

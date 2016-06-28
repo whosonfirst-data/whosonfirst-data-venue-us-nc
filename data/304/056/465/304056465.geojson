@@ -2,13 +2,14 @@
   "id": 304056465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.544873,35.61305,-82.544873,35.61305",
     "geom:latitude":35.61305,
     "geom:longitude":-82.544873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Edgemont Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304056465,
-    "wof:lastmodified":1449043721,
+    "wof:lastmodified":1466644956,
     "wof:name":"Carter Street Parking",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-82.544873,35.61305,-82.544873,35.61305],
+  "bbox": [
+    -82.544873,
+    35.61305,
+    -82.544873,
+    35.61305
+],
   "geometry": {"coordinates":[-82.544873,35.61305],"type":"Point"}
 }

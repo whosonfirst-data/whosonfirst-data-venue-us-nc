@@ -2,13 +2,14 @@
   "id": 203260489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.85509,35.448514,-80.85509,35.448514",
     "geom:latitude":35.448514,
     "geom:longitude":-80.85509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10323 Arran Ct",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203260489,
-    "wof:lastmodified":1449025260,
+    "wof:lastmodified":1466655652,
     "wof:name":"Landscape Solutions",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-80.85509,35.448514,-80.85509,35.448514],
+  "bbox": [
+    -80.85509,
+    35.448514,
+    -80.85509,
+    35.448514
+],
   "geometry": {"coordinates":[-80.85509,35.448514],"type":"Point"}
 }

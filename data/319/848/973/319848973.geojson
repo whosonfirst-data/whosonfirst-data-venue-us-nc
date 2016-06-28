@@ -2,13 +2,14 @@
   "id": 319848973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.989614,36.396315,-78.989614,36.396315",
     "geom:latitude":36.396315,
     "geom:longitude":-78.989614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 S Morgan St",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319848973,
-    "wof:lastmodified":1449024202,
+    "wof:lastmodified":1466645292,
     "wof:name":"Herald Sun",
     "wof:parent_id":85829253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-78.989614,36.396315,-78.989614,36.396315],
+  "bbox": [
+    -78.989614,
+    36.396315,
+    -78.989614,
+    36.396315
+],
   "geometry": {"coordinates":[-78.989614,36.396315],"type":"Point"}
 }

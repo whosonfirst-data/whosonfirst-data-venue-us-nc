@@ -2,13 +2,14 @@
   "id": 337589417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.21913,35.341158,-80.21913,35.341158",
     "geom:latitude":35.341158,
     "geom:longitude":-80.21913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2033 W Main St",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337589417,
-    "wof:lastmodified":1449027376,
+    "wof:lastmodified":1466647822,
     "wof:name":"Southern Marble",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marble"
     ]
 },
-  "bbox": [-80.21913,35.341158,-80.21913,35.341158],
-  "geometry": {"coordinates":[-80.21913,35.341158],"type":"Point"}
+  "bbox": [
+    -80.21913,
+    35.341158,
+    -80.21913,
+    35.341158
+],
+  "geometry": {"coordinates":[-80.21913000000001,35.341158],"type":"Point"}
 }

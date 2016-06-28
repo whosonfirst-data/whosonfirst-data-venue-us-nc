@@ -2,13 +2,14 @@
   "id": 253124905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.182359,35.476943,-79.182359,35.476943",
     "geom:latitude":35.476943,
     "geom:longitude":-79.182359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Wicker St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253124905,
-    "wof:lastmodified":1449065567,
+    "wof:lastmodified":1466644279,
     "wof:name":"Haven's Treasures",
     "wof:parent_id":85851589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "thrift"
     ]
 },
-  "bbox": [-79.182359,35.476943,-79.182359,35.476943],
-  "geometry": {"coordinates":[-79.182359,35.476943],"type":"Point"}
+  "bbox": [
+    -79.182359,
+    35.476943,
+    -79.182359,
+    35.476943
+],
+  "geometry": {"coordinates":[-79.18235900000001,35.476943],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303486689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.868608,34.179753,-77.868608,34.179753",
     "geom:latitude":34.179753,
     "geom:longitude":-77.868608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Chelon Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303486689,
-    "wof:lastmodified":1448999484,
+    "wof:lastmodified":1466650339,
     "wof:name":"Tyndall HOA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.868608,34.179753,-77.868608,34.179753],
-  "geometry": {"coordinates":[-77.868608,34.179753],"type":"Point"}
+  "bbox": [
+    -77.868608,
+    34.179753,
+    -77.868608,
+    34.179753
+],
+  "geometry": {"coordinates":[-77.86860799999999,34.179753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403735957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.897441,34.129601,-77.897441,34.129601",
     "geom:latitude":34.129601,
     "geom:longitude":-77.897441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5679 Carolina Beach Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403735957,
-    "wof:lastmodified":1449055918,
+    "wof:lastmodified":1466650758,
     "wof:name":"Lighthouse Marine",
     "wof:parent_id":85832597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boat"
     ]
 },
-  "bbox": [-77.897441,34.129601,-77.897441,34.129601],
+  "bbox": [
+    -77.897441,
+    34.129601,
+    -77.897441,
+    34.129601
+],
   "geometry": {"coordinates":[-77.897441,34.129601],"type":"Point"}
 }

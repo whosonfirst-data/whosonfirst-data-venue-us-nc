@@ -2,13 +2,14 @@
   "id": 404125021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.737796,36.476592,-79.737796,36.476592",
     "geom:latitude":36.476592,
     "geom:longitude":-79.737796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Park Ter",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404125021,
-    "wof:lastmodified":1449040283,
+    "wof:lastmodified":1466652869,
     "wof:name":"John P McGee MD",
     "wof:parent_id":85805077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-79.737796,36.476592,-79.737796,36.476592],
+  "bbox": [
+    -79.737796,
+    36.476592,
+    -79.737796,
+    36.476592
+],
   "geometry": {"coordinates":[-79.737796,36.476592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269896441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.617269,35.805063,-78.617269,35.805063",
     "geom:latitude":35.805063,
     "geom:longitude":-78.617269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269896441,
-    "wof:lastmodified":1449037013,
+    "wof:lastmodified":1466648066,
     "wof:name":"U S Govt Usps",
     "wof:parent_id":85858597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "us"
     ]
 },
-  "bbox": [-78.617269,35.805063,-78.617269,35.805063],
-  "geometry": {"coordinates":[-78.617269,35.805063],"type":"Point"}
+  "bbox": [
+    -78.617269,
+    35.805063,
+    -78.617269,
+    35.805063
+],
+  "geometry": {"coordinates":[-78.61726899999999,35.805063],"type":"Point"}
 }

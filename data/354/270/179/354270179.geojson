@@ -2,13 +2,14 @@
   "id": 354270179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.61462,35.844917,-78.61462,35.844917",
     "geom:latitude":35.844917,
     "geom:longitude":-78.61462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 Falls of Neuse Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354270179,
-    "wof:lastmodified":1449066244,
+    "wof:lastmodified":1466650648,
     "wof:name":"Data Spectrum",
     "wof:parent_id":85817003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-78.61462,35.844917,-78.61462,35.844917],
+  "bbox": [
+    -78.61462,
+    35.844917,
+    -78.61462,
+    35.844917
+],
   "geometry": {"coordinates":[-78.61462,35.844917],"type":"Point"}
 }

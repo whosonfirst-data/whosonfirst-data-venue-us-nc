@@ -2,13 +2,14 @@
   "id": 371000521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.265099,36.143625,-80.265099,36.143625",
     "geom:latitude":36.143625,
     "geom:longitude":-80.265099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Specialty Park Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371000521,
-    "wof:lastmodified":1449049203,
+    "wof:lastmodified":1466655855,
     "wof:name":"Publishers Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.265099,36.143625,-80.265099,36.143625],
-  "geometry": {"coordinates":[-80.265099,36.143625],"type":"Point"}
+  "bbox": [
+    -80.265099,
+    36.143625,
+    -80.265099,
+    36.143625
+],
+  "geometry": {"coordinates":[-80.26509900000001,36.143625],"type":"Point"}
 }

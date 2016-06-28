@@ -2,13 +2,14 @@
   "id": 387675241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.57062,35.853217,-79.57062,35.853217",
     "geom:latitude":35.853217,
     "geom:longitude":-79.57062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Fayetteville St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387675241,
-    "wof:lastmodified":1449058041,
+    "wof:lastmodified":1466657169,
     "wof:name":"Liberty Beauty Shop",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.57062,35.853217,-79.57062,35.853217],
-  "geometry": {"coordinates":[-79.57062,35.853217],"type":"Point"}
+  "bbox": [
+    -79.57062,
+    35.853217,
+    -79.57062,
+    35.853217
+],
+  "geometry": {"coordinates":[-79.57062000000001,35.853217],"type":"Point"}
 }

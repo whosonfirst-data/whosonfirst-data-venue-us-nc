@@ -2,13 +2,14 @@
   "id": 303311589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.670184,35.839751,-78.670184,35.839751",
     "geom:latitude":35.839751,
     "geom:longitude":-78.670184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 N Hills Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303311589,
-    "wof:lastmodified":1448998684,
+    "wof:lastmodified":1466647831,
     "wof:name":"Brickettwood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.670184,35.839751,-78.670184,35.839751],
-  "geometry": {"coordinates":[-78.670184,35.839751],"type":"Point"}
+  "bbox": [
+    -78.670184,
+    35.839751,
+    -78.670184,
+    35.839751
+],
+  "geometry": {"coordinates":[-78.67018400000001,35.839751],"type":"Point"}
 }

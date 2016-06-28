@@ -2,13 +2,14 @@
   "id": 202385191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.862947,34.800273,-76.862947,34.800273",
     "geom:latitude":34.800273,
     "geom:longitude":-76.862947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Lenoir St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202385191,
-    "wof:lastmodified":1449061619,
+    "wof:lastmodified":1466654102,
     "wof:name":"Compass Rose Import Company",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.862947,34.800273,-76.862947,34.800273],
-  "geometry": {"coordinates":[-76.862947,34.800273],"type":"Point"}
+  "bbox": [
+    -76.862947,
+    34.800273,
+    -76.862947,
+    34.800273
+],
+  "geometry": {"coordinates":[-76.86294700000001,34.800273],"type":"Point"}
 }

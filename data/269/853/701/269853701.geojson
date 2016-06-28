@@ -2,13 +2,14 @@
   "id": 269853701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.94907,35.967147,-78.94907,35.967147",
     "geom:latitude":35.967147,
     "geom:longitude":-78.94907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3508 University Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269853701,
-    "wof:lastmodified":1449037113,
+    "wof:lastmodified":1466647552,
     "wof:name":"System Innovations",
     "wof:parent_id":85877193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-78.94907,35.967147,-78.94907,35.967147],
-  "geometry": {"coordinates":[-78.94907,35.967147],"type":"Point"}
+  "bbox": [
+    -78.94907,
+    35.967147,
+    -78.94907,
+    35.967147
+],
+  "geometry": {"coordinates":[-78.94907000000001,35.967147],"type":"Point"}
 }

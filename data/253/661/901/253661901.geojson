@@ -2,13 +2,14 @@
   "id": 253661901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.904398,34.215969,-77.904398,34.215969",
     "geom:latitude":34.215969,
     "geom:longitude":-77.904398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3502 Oleander Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253661901,
-    "wof:lastmodified":1449065459,
+    "wof:lastmodified":1466650288,
     "wof:name":"Oleander Exxon",
     "wof:parent_id":85830591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-77.904398,34.215969,-77.904398,34.215969],
+  "bbox": [
+    -77.904398,
+    34.215969,
+    -77.904398,
+    34.215969
+],
   "geometry": {"coordinates":[-77.904398,34.215969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303408347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.39247,35.603295,-77.39247,35.603295",
     "geom:latitude":35.603295,
     "geom:longitude":-77.39247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Myrtle Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303408347,
-    "wof:lastmodified":1448998421,
+    "wof:lastmodified":1466649188,
     "wof:name":"Andys Garage",
     "wof:parent_id":85853845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-77.39247,35.603295,-77.39247,35.603295],
+  "bbox": [
+    -77.39247,
+    35.603295,
+    -77.39247,
+    35.603295
+],
   "geometry": {"coordinates":[-77.39247,35.603295],"type":"Point"}
 }

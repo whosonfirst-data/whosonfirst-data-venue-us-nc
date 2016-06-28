@@ -2,13 +2,14 @@
   "id": 404023605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.625869,35.595366,-82.625869,35.595366",
     "geom:latitude":35.595366,
     "geom:longitude":-82.625869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Happy Valley Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404023605,
-    "wof:lastmodified":1449040217,
+    "wof:lastmodified":1466651599,
     "wof:name":"Happy Valley Baptist Academy",
     "wof:parent_id":85808963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.625869,35.595366,-82.625869,35.595366],
-  "geometry": {"coordinates":[-82.625869,35.595366],"type":"Point"}
+  "bbox": [
+    -82.625869,
+    35.595366,
+    -82.625869,
+    35.595366
+],
+  "geometry": {"coordinates":[-82.62586899999999,35.595366],"type":"Point"}
 }

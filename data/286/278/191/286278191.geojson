@@ -2,13 +2,14 @@
   "id": 286278191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.705345,35.814324,-78.705345,35.814324",
     "geom:latitude":35.814324,
     "geom:longitude":-78.705345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 Blue Ridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286278191,
-    "wof:lastmodified":1449016802,
+    "wof:lastmodified":1466643444,
     "wof:name":"Timothy P Bukowski MD",
     "wof:parent_id":85892087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.705345,35.814324,-78.705345,35.814324],
-  "geometry": {"coordinates":[-78.705345,35.814324],"type":"Point"}
+  "bbox": [
+    -78.705345,
+    35.814324,
+    -78.705345,
+    35.814324
+],
+  "geometry": {"coordinates":[-78.70534499999999,35.814324],"type":"Point"}
 }

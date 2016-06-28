@@ -2,13 +2,14 @@
   "id": 303425419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.829896,35.434819,-80.829896,35.434819",
     "geom:latitude":35.434819,
     "geom:longitude":-80.829896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12307 Willingdon Rd",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303425419,
-    "wof:lastmodified":1448998982,
+    "wof:lastmodified":1466649440,
     "wof:name":"Fabricating Metal Solutions",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "structural"
     ]
 },
-  "bbox": [-80.829896,35.434819,-80.829896,35.434819],
-  "geometry": {"coordinates":[-80.829896,35.434819],"type":"Point"}
+  "bbox": [
+    -80.829896,
+    35.434819,
+    -80.829896,
+    35.434819
+],
+  "geometry": {"coordinates":[-80.82989600000001,35.434819],"type":"Point"}
 }

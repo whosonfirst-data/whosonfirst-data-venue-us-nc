@@ -2,13 +2,14 @@
   "id": 236032863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254838,36.191483,-80.254838,36.191483",
     "geom:latitude":36.191483,
     "geom:longitude":-80.254838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1148 Twin Oak Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236032863,
-    "wof:lastmodified":1449003228,
+    "wof:lastmodified":1466643524,
     "wof:name":"Maria's",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.254838,36.191483,-80.254838,36.191483],
-  "geometry": {"coordinates":[-80.254838,36.191483],"type":"Point"}
+  "bbox": [
+    -80.254838,
+    36.191483,
+    -80.254838,
+    36.191483
+],
+  "geometry": {"coordinates":[-80.25483800000001,36.191483],"type":"Point"}
 }

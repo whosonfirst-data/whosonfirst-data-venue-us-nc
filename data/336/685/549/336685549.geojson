@@ -2,13 +2,14 @@
   "id": 336685549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.228023,35.610199,-78.228023,35.610199",
     "geom:latitude":35.610199,
     "geom:longitude":-78.228023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"965 Garner Rd",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336685549,
-    "wof:lastmodified":1448997970,
+    "wof:lastmodified":1466647160,
     "wof:name":"Dixon's Transmission Svc",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-78.228023,35.610199,-78.228023,35.610199],
-  "geometry": {"coordinates":[-78.228023,35.610199],"type":"Point"}
+  "bbox": [
+    -78.228023,
+    35.610199,
+    -78.228023,
+    35.610199
+],
+  "geometry": {"coordinates":[-78.22802299999999,35.610199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203051103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.889857,35.211311,-80.889857,35.211311",
     "geom:latitude":35.211311,
     "geom:longitude":-80.889857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1546 Walton Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203051103,
-    "wof:lastmodified":1449026115,
+    "wof:lastmodified":1466654508,
     "wof:name":"Barringer Academic Ctr",
     "wof:parent_id":85882291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.889857,35.211311,-80.889857,35.211311],
-  "geometry": {"coordinates":[-80.889857,35.211311],"type":"Point"}
+  "bbox": [
+    -80.889857,
+    35.211311,
+    -80.889857,
+    35.211311
+],
+  "geometry": {"coordinates":[-80.88985700000001,35.211311],"type":"Point"}
 }

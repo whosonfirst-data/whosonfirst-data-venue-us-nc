@@ -2,13 +2,14 @@
   "id": 303196215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.740028,35.141079,-80.740028,35.141079",
     "geom:latitude":35.141079,
     "geom:longitude":-80.740028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 Monroe Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303196215,
-    "wof:lastmodified":1448998667,
+    "wof:lastmodified":1466646167,
     "wof:name":"Interiors By Barbara",
     "wof:parent_id":85847177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.740028,35.141079,-80.740028,35.141079],
+  "bbox": [
+    -80.740028,
+    35.141079,
+    -80.740028,
+    35.141079
+],
   "geometry": {"coordinates":[-80.740028,35.141079],"type":"Point"}
 }

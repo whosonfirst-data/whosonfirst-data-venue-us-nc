@@ -2,13 +2,14 @@
   "id": 303252243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.669303,35.788994,-78.669303,35.788994",
     "geom:latitude":35.788994,
     "geom:longitude":-78.669303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 Vanderbilt Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303252243,
-    "wof:lastmodified":1448998439,
+    "wof:lastmodified":1466646986,
     "wof:name":"Passage Home",
     "wof:parent_id":85818587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-78.669303,35.788994,-78.669303,35.788994],
+  "bbox": [
+    -78.669303,
+    35.788994,
+    -78.669303,
+    35.788994
+],
   "geometry": {"coordinates":[-78.669303,35.788994],"type":"Point"}
 }

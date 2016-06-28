@@ -2,13 +2,14 @@
   "id": 253462861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.888714,36.015859,-78.888714,36.015859",
     "geom:latitude":36.015859,
     "geom:longitude":-78.888714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Avondale Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253462861,
-    "wof:lastmodified":1449065689,
+    "wof:lastmodified":1466647903,
     "wof:name":"Durham UPC",
     "wof:parent_id":85877169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-78.888714,36.015859,-78.888714,36.015859],
-  "geometry": {"coordinates":[-78.888714,36.015859],"type":"Point"}
+  "bbox": [
+    -78.888714,
+    36.015859,
+    -78.888714,
+    36.015859
+],
+  "geometry": {"coordinates":[-78.88871399999999,36.015859],"type":"Point"}
 }

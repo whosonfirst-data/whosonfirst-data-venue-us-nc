@@ -2,13 +2,14 @@
   "id": 253716019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.54139,35.908019,-77.54139,35.908019",
     "geom:latitude":35.908019,
     "geom:longitude":-77.54139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 N Main St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253716019,
-    "wof:lastmodified":1449063237,
+    "wof:lastmodified":1466650943,
     "wof:name":"Upper Room Revival Center",
     "wof:parent_id":85856477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.54139,35.908019,-77.54139,35.908019],
-  "geometry": {"coordinates":[-77.54139,35.908019],"type":"Point"}
+  "bbox": [
+    -77.54139,
+    35.908019,
+    -77.54139,
+    35.908019
+],
+  "geometry": {"coordinates":[-77.54139000000001,35.908019],"type":"Point"}
 }

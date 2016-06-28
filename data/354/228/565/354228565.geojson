@@ -2,13 +2,14 @@
   "id": 354228565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.980348,36.23809,-79.980348,36.23809",
     "geom:latitude":36.23809,
     "geom:longitude":-79.980348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8216 US Hwy 158",
     "sg:city":"Stokesdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354228565,
-    "wof:lastmodified":1449066444,
+    "wof:lastmodified":1466650199,
     "wof:name":"Stokey's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.980348,36.23809,-79.980348,36.23809],
-  "geometry": {"coordinates":[-79.980348,36.23809],"type":"Point"}
+  "bbox": [
+    -79.980348,
+    36.23809,
+    -79.980348,
+    36.23809
+],
+  "geometry": {"coordinates":[-79.98034800000001,36.23809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253508523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.494903,35.693082,-80.494903,35.693082",
     "geom:latitude":35.693082,
     "geom:longitude":-80.494903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Arden Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253508523,
-    "wof:lastmodified":1449064485,
+    "wof:lastmodified":1466648480,
     "wof:name":"Professional Alterations",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-80.494903,35.693082,-80.494903,35.693082],
-  "geometry": {"coordinates":[-80.494903,35.693082],"type":"Point"}
+  "bbox": [
+    -80.494903,
+    35.693082,
+    -80.494903,
+    35.693082
+],
+  "geometry": {"coordinates":[-80.49490299999999,35.693082],"type":"Point"}
 }

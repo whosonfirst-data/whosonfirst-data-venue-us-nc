@@ -2,13 +2,14 @@
   "id": 370236333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.652217,35.727249,-81.652217,35.727249",
     "geom:latitude":35.727249,
     "geom:longitude":-81.652217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Foothills Dr",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370236333,
-    "wof:lastmodified":1449029450,
+    "wof:lastmodified":1466649237,
     "wof:name":"Grace Heights",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skilled"
     ]
 },
-  "bbox": [-81.652217,35.727249,-81.652217,35.727249],
-  "geometry": {"coordinates":[-81.652217,35.727249],"type":"Point"}
+  "bbox": [
+    -81.652217,
+    35.727249,
+    -81.652217,
+    35.727249
+],
+  "geometry": {"coordinates":[-81.65221699999999,35.727249],"type":"Point"}
 }

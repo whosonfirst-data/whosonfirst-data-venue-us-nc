@@ -2,13 +2,14 @@
   "id": 370384061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.825364,35.605765,-77.825364,35.605765",
     "geom:latitude":35.605765,
     "geom:longitude":-77.825364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 S Main St",
     "sg:city":"Stantonsburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370384061,
-    "wof:lastmodified":1449029512,
+    "wof:lastmodified":1466651063,
     "wof:name":"Stantonsburg Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.825364,35.605765,-77.825364,35.605765],
-  "geometry": {"coordinates":[-77.825364,35.605765],"type":"Point"}
+  "bbox": [
+    -77.825364,
+    35.605765,
+    -77.825364,
+    35.605765
+],
+  "geometry": {"coordinates":[-77.82536399999999,35.605765],"type":"Point"}
 }

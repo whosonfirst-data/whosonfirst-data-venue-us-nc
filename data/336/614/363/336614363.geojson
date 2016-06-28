@@ -2,13 +2,14 @@
   "id": 336614363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.852634,36.414018,-78.852634,36.414018",
     "geom:latitude":36.414018,
     "geom:longitude":-78.852634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Hazel Lawson Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336614363,
-    "wof:lastmodified":1448998051,
+    "wof:lastmodified":1466646050,
     "wof:name":"Joes Lawn Care Service",
     "wof:parent_id":85808801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.852634,36.414018,-78.852634,36.414018],
-  "geometry": {"coordinates":[-78.852634,36.414018],"type":"Point"}
+  "bbox": [
+    -78.852634,
+    36.414018,
+    -78.852634,
+    36.414018
+],
+  "geometry": {"coordinates":[-78.85263399999999,36.414018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386932961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.980533,35.497591,-82.980533,35.497591",
     "geom:latitude":35.497591,
     "geom:longitude":-82.980533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"489 Walnut St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386932961,
-    "wof:lastmodified":1449028744,
+    "wof:lastmodified":1466649425,
     "wof:name":"Warren Chiropractic Family",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.980533,35.497591,-82.980533,35.497591],
-  "geometry": {"coordinates":[-82.980533,35.497591],"type":"Point"}
+  "bbox": [
+    -82.980533,
+    35.497591,
+    -82.980533,
+    35.497591
+],
+  "geometry": {"coordinates":[-82.98053299999999,35.497591],"type":"Point"}
 }

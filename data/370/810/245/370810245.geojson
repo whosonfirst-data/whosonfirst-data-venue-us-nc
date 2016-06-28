@@ -2,13 +2,14 @@
   "id": 370810245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.840775,34.239204,-77.840775,34.239204",
     "geom:latitude":34.239204,
     "geom:longitude":-77.840775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Gregory Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370810245,
-    "wof:lastmodified":1449030092,
+    "wof:lastmodified":1466656253,
     "wof:name":"St Mark Catholic Church",
     "wof:parent_id":85809845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.840775,34.239204,-77.840775,34.239204],
-  "geometry": {"coordinates":[-77.840775,34.239204],"type":"Point"}
+  "bbox": [
+    -77.840775,
+    34.239204,
+    -77.840775,
+    34.239204
+],
+  "geometry": {"coordinates":[-77.84077499999999,34.239204],"type":"Point"}
 }

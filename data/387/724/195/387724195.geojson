@@ -2,13 +2,14 @@
   "id": 387724195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.040851,35.56334,-77.040851,35.56334",
     "geom:latitude":35.56334,
     "geom:longitude":-77.040851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Marsh Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387724195,
-    "wof:lastmodified":1449059841,
+    "wof:lastmodified":1466657386,
     "wof:name":"First Flight Home Inspection",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-77.040851,35.56334,-77.040851,35.56334],
+  "bbox": [
+    -77.040851,
+    35.56334,
+    -77.040851,
+    35.56334
+],
   "geometry": {"coordinates":[-77.040851,35.56334],"type":"Point"}
 }

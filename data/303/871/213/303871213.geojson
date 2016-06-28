@@ -2,13 +2,14 @@
   "id": 303871213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.917335,35.996805,-78.917335,35.996805",
     "geom:latitude":35.996805,
     "geom:longitude":-78.917335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 W Chapel Hill St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303871213,
-    "wof:lastmodified":1448998919,
+    "wof:lastmodified":1466655877,
     "wof:name":"University Market",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bakery"
     ]
 },
-  "bbox": [-78.917335,35.996805,-78.917335,35.996805],
-  "geometry": {"coordinates":[-78.917335,35.996805],"type":"Point"}
+  "bbox": [
+    -78.917335,
+    35.996805,
+    -78.917335,
+    35.996805
+],
+  "geometry": {"coordinates":[-78.91733499999999,35.996805],"type":"Point"}
 }

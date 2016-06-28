@@ -2,13 +2,14 @@
   "id": 387060001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.43444,36.096355,-79.43444,36.096355",
     "geom:latitude":36.096355,
     "geom:longitude":-79.43444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 W Trade St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387060001,
-    "wof:lastmodified":1449059567,
+    "wof:lastmodified":1466650640,
     "wof:name":"Tarheel Research",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.43444,36.096355,-79.43444,36.096355],
+  "bbox": [
+    -79.43444,
+    36.096355,
+    -79.43444,
+    36.096355
+],
   "geometry": {"coordinates":[-79.43444,36.096355],"type":"Point"}
 }

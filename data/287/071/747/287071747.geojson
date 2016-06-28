@@ -2,13 +2,14 @@
   "id": 287071747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.415326,35.597027,-77.415326,35.597027",
     "geom:latitude":35.597027,
     "geom:longitude":-77.415326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Spring Forest Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287071747,
-    "wof:lastmodified":1449001232,
+    "wof:lastmodified":1466644273,
     "wof:name":"Winfield Properties",
     "wof:parent_id":85853845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.415326,35.597027,-77.415326,35.597027],
-  "geometry": {"coordinates":[-77.415326,35.597027],"type":"Point"}
+  "bbox": [
+    -77.415326,
+    35.597027,
+    -77.415326,
+    35.597027
+],
+  "geometry": {"coordinates":[-77.41532599999999,35.597027],"type":"Point"}
 }

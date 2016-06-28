@@ -2,13 +2,14 @@
   "id": 303365891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.754808,35.772014,-78.754808,35.772014",
     "geom:latitude":35.772014,
     "geom:longitude":-78.754808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Askham Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303365891,
-    "wof:lastmodified":1448998511,
+    "wof:lastmodified":1466648584,
     "wof:name":"Span",
     "wof:parent_id":85827201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-78.754808,35.772014,-78.754808,35.772014],
+  "bbox": [
+    -78.754808,
+    35.772014,
+    -78.754808,
+    35.772014
+],
   "geometry": {"coordinates":[-78.754808,35.772014],"type":"Point"}
 }

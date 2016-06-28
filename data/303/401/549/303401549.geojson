@@ -2,13 +2,14 @@
   "id": 303401549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.584522,35.797733,-78.584522,35.797733",
     "geom:latitude":35.797733,
     "geom:longitude":-78.584522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 Maitland Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303401549,
-    "wof:lastmodified":1449000199,
+    "wof:lastmodified":1466649091,
     "wof:name":"Batine & WRAY Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.584522,35.797733,-78.584522,35.797733],
-  "geometry": {"coordinates":[-78.584522,35.797733],"type":"Point"}
+  "bbox": [
+    -78.584522,
+    35.797733,
+    -78.584522,
+    35.797733
+],
+  "geometry": {"coordinates":[-78.58452200000001,35.797733],"type":"Point"}
 }

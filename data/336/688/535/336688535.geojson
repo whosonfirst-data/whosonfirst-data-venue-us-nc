@@ -2,13 +2,14 @@
   "id": 336688535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.893305,35.661355,-80.893305,35.661355",
     "geom:latitude":35.661355,
     "geom:longitude":-80.893305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Alfara Ln",
     "sg:city":"Troutman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336688535,
-    "wof:lastmodified":1448997345,
+    "wof:lastmodified":1466647203,
     "wof:name":"Graf Inc",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.893305,35.661355,-80.893305,35.661355],
+  "bbox": [
+    -80.893305,
+    35.661355,
+    -80.893305,
+    35.661355
+],
   "geometry": {"coordinates":[-80.893305,35.661355],"type":"Point"}
 }

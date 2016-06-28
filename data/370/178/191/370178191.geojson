@@ -2,13 +2,14 @@
   "id": 370178191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.895234,34.856247,-76.895234,34.856247",
     "geom:latitude":34.856247,
     "geom:longitude":-76.895234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 E Main St",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370178191,
-    "wof:lastmodified":1449031522,
+    "wof:lastmodified":1466648486,
     "wof:name":"Big Apple Pizzeria",
     "wof:parent_id":85852615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-76.895234,34.856247,-76.895234,34.856247],
+  "bbox": [
+    -76.895234,
+    34.856247,
+    -76.895234,
+    34.856247
+],
   "geometry": {"coordinates":[-76.895234,34.856247],"type":"Point"}
 }

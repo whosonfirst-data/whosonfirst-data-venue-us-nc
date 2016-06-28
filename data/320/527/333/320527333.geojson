@@ -2,13 +2,14 @@
   "id": 320527333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.335451,35.753635,-81.335451,35.753635",
     "geom:latitude":35.753635,
     "geom:longitude":-81.335451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 16th Ave NE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320527333,
-    "wof:lastmodified":1449014195,
+    "wof:lastmodified":1466652758,
     "wof:name":"Soil & Environmental Cons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "environmental"
     ]
 },
-  "bbox": [-81.335451,35.753635,-81.335451,35.753635],
-  "geometry": {"coordinates":[-81.335451,35.753635],"type":"Point"}
+  "bbox": [
+    -81.335451,
+    35.753635,
+    -81.335451,
+    35.753635
+],
+  "geometry": {"coordinates":[-81.33545100000001,35.753635],"type":"Point"}
 }

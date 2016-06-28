@@ -2,13 +2,14 @@
   "id": 336812223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.564138,36.068513,-79.564138,36.068513",
     "geom:latitude":36.068513,
     "geom:longitude":-79.564138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 State Hwy 61",
     "sg:city":"Whitsett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336812223,
-    "wof:lastmodified":1448996941,
+    "wof:lastmodified":1466649068,
     "wof:name":"Whitsett Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-79.564138,36.068513,-79.564138,36.068513],
+  "bbox": [
+    -79.564138,
+    36.068513,
+    -79.564138,
+    36.068513
+],
   "geometry": {"coordinates":[-79.564138,36.068513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303860949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.25502,35.510814,-78.25502,35.510814",
     "geom:latitude":35.510814,
     "geom:longitude":-78.25502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 US Hwy 70A E",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303860949,
-    "wof:lastmodified":1448999209,
+    "wof:lastmodified":1466655753,
     "wof:name":"Wayne's Welding Svc",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-78.25502,35.510814,-78.25502,35.510814],
+  "bbox": [
+    -78.25502,
+    35.510814,
+    -78.25502,
+    35.510814
+],
   "geometry": {"coordinates":[-78.25502,35.510814],"type":"Point"}
 }

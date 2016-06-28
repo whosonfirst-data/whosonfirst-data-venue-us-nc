@@ -2,13 +2,14 @@
   "id": 202534021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.153072,35.236532,-81.153072,35.236532",
     "geom:latitude":35.236532,
     "geom:longitude":-81.153072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Robinwood Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202534021,
-    "wof:lastmodified":1449060773,
+    "wof:lastmodified":1466655202,
     "wof:name":"HHC 505th Engr Bn",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.153072,35.236532,-81.153072,35.236532],
-  "geometry": {"coordinates":[-81.153072,35.236532],"type":"Point"}
+  "bbox": [
+    -81.153072,
+    35.236532,
+    -81.153072,
+    35.236532
+],
+  "geometry": {"coordinates":[-81.15307199999999,35.236532],"type":"Point"}
 }

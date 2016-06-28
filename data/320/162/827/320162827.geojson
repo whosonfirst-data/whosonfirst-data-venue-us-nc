@@ -2,13 +2,14 @@
   "id": 320162827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.031044,35.104871,-84.031044,35.104871",
     "geom:latitude":35.104871,
     "geom:longitude":-84.031044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Reservoir Rd",
     "sg:city":"Murphy",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320162827,
-    "wof:lastmodified":1449014430,
+    "wof:lastmodified":1466647579,
     "wof:name":"Cherokee Septic Tanks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "septic"
     ]
 },
-  "bbox": [-84.031044,35.104871,-84.031044,35.104871],
-  "geometry": {"coordinates":[-84.031044,35.104871],"type":"Point"}
+  "bbox": [
+    -84.031044,
+    35.104871,
+    -84.031044,
+    35.104871
+],
+  "geometry": {"coordinates":[-84.03104399999999,35.104871],"type":"Point"}
 }

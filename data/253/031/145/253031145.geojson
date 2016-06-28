@@ -2,13 +2,14 @@
   "id": 253031145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.994582,34.740362,-77.994582,34.740362",
     "geom:latitude":34.740362,
     "geom:longitude":-77.994582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 N Norwood St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253031145,
-    "wof:lastmodified":1449063930,
+    "wof:lastmodified":1466643463,
     "wof:name":"Generator Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"
     ]
 },
-  "bbox": [-77.994582,34.740362,-77.994582,34.740362],
-  "geometry": {"coordinates":[-77.994582,34.740362],"type":"Point"}
+  "bbox": [
+    -77.994582,
+    34.740362,
+    -77.994582,
+    34.740362
+],
+  "geometry": {"coordinates":[-77.99458199999999,34.740362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303955081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.541135,35.565152,-82.541135,35.565152",
     "geom:latitude":35.565152,
     "geom:longitude":-82.541135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Village Ln",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303955081,
-    "wof:lastmodified":1448999814,
+    "wof:lastmodified":1466656529,
     "wof:name":"Charles P Cummings PHD",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-82.541135,35.565152,-82.541135,35.565152],
+  "bbox": [
+    -82.541135,
+    35.565152,
+    -82.541135,
+    35.565152
+],
   "geometry": {"coordinates":[-82.541135,35.565152],"type":"Point"}
 }

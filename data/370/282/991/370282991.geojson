@@ -2,13 +2,14 @@
   "id": 370282991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.538193,35.641552,-78.538193,35.641552",
     "geom:latitude":35.641552,
     "geom:longitude":-78.538193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7106 Cornwallis Rd",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370282991,
-    "wof:lastmodified":1449031202,
+    "wof:lastmodified":1466649807,
     "wof:name":"Tracie's Learning Ctr",
     "wof:parent_id":85807481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.538193,35.641552,-78.538193,35.641552],
-  "geometry": {"coordinates":[-78.538193,35.641552],"type":"Point"}
+  "bbox": [
+    -78.538193,
+    35.641552,
+    -78.538193,
+    35.641552
+],
+  "geometry": {"coordinates":[-78.53819300000001,35.641552],"type":"Point"}
 }

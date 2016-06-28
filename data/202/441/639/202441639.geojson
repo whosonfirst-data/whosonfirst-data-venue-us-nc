@@ -2,13 +2,14 @@
   "id": 202441639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.5387,34.993314,-80.5387,34.993314",
     "geom:latitude":34.993314,
     "geom:longitude":-80.5387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W Roosevelt Blvd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202441639,
-    "wof:lastmodified":1449060307,
+    "wof:lastmodified":1466654508,
     "wof:name":"Details",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-80.5387,34.993314,-80.5387,34.993314],
-  "geometry": {"coordinates":[-80.5387,34.993314],"type":"Point"}
+  "bbox": [
+    -80.5387,
+    34.993314,
+    -80.5387,
+    34.993314
+],
+  "geometry": {"coordinates":[-80.53870000000001,34.993314],"type":"Point"}
 }

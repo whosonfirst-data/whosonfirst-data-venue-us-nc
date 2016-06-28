@@ -2,13 +2,14 @@
   "id": 303236977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.812863,35.396827,-81.812863,35.396827",
     "geom:latitude":35.396827,
     "geom:longitude":-81.812863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Salem Church Rd",
     "sg:city":"Bostic",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303236977,
-    "wof:lastmodified":1448998382,
+    "wof:lastmodified":1466646750,
     "wof:name":"Salem United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.812863,35.396827,-81.812863,35.396827],
-  "geometry": {"coordinates":[-81.812863,35.396827],"type":"Point"}
+  "bbox": [
+    -81.812863,
+    35.396827,
+    -81.812863,
+    35.396827
+],
+  "geometry": {"coordinates":[-81.81286299999999,35.396827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320296317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.89625,34.041676,-77.89625,34.041676",
     "geom:latitude":34.041676,
     "geom:longitude":-77.89625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Lake Park Blvd",
     "sg:city":"Carolina Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320296317,
-    "wof:lastmodified":1449014273,
+    "wof:lastmodified":1466649429,
     "wof:name":"Book Rack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.89625,34.041676,-77.89625,34.041676],
-  "geometry": {"coordinates":[-77.89625,34.041676],"type":"Point"}
+  "bbox": [
+    -77.89625,
+    34.041676,
+    -77.89625,
+    34.041676
+],
+  "geometry": {"coordinates":[-77.89624999999999,34.041676],"type":"Point"}
 }

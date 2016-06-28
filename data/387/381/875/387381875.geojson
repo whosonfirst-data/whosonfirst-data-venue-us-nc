@@ -2,13 +2,14 @@
   "id": 387381875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945195,34.229349,-77.945195,34.229349",
     "geom:latitude":34.229349,
     "geom:longitude":-77.945195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S 3rd St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387381875,
-    "wof:lastmodified":1449056421,
+    "wof:lastmodified":1466654869,
     "wof:name":"Hoge Wood House B&B",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-77.945195,34.229349,-77.945195,34.229349],
+  "bbox": [
+    -77.945195,
+    34.229349,
+    -77.945195,
+    34.229349
+],
   "geometry": {"coordinates":[-77.945195,34.229349],"type":"Point"}
 }

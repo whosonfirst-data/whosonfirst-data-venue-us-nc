@@ -2,13 +2,14 @@
   "id": 286307413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.759121,35.859552,-76.759121,35.859552",
     "geom:latitude":35.859552,
     "geom:longitude":-76.759121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Golf Rd",
     "sg:city":"Winton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286307413,
-    "wof:lastmodified":1449015934,
+    "wof:lastmodified":1466643829,
     "wof:name":"Tuscarora Greens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-76.759121,35.859552,-76.759121,35.859552],
-  "geometry": {"coordinates":[-76.759121,35.859552],"type":"Point"}
+  "bbox": [
+    -76.759121,
+    35.859552,
+    -76.759121,
+    35.859552
+],
+  "geometry": {"coordinates":[-76.75912099999999,35.859552],"type":"Point"}
 }

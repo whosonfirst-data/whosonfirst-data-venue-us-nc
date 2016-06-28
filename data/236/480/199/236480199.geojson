@@ -2,13 +2,14 @@
   "id": 236480199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.616942,35.861545,-78.616942,35.861545",
     "geom:latitude":35.861545,
     "geom:longitude":-78.616942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5809 Nottoway Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236480199,
-    "wof:lastmodified":1449002573,
+    "wof:lastmodified":1466647417,
     "wof:name":"All That Glitters In North Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.616942,35.861545,-78.616942,35.861545],
-  "geometry": {"coordinates":[-78.616942,35.861545],"type":"Point"}
+  "bbox": [
+    -78.616942,
+    35.861545,
+    -78.616942,
+    35.861545
+],
+  "geometry": {"coordinates":[-78.61694199999999,35.861545],"type":"Point"}
 }

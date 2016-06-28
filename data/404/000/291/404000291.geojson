@@ -2,13 +2,14 @@
   "id": 404000291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.025683,35.534293,-77.025683,35.534293",
     "geom:latitude":35.534293,
     "geom:longitude":-77.025683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 River Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404000291,
-    "wof:lastmodified":1449039207,
+    "wof:lastmodified":1466655865,
     "wof:name":"Jack's Body Shop",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-77.025683,35.534293,-77.025683,35.534293],
+  "bbox": [
+    -77.025683,
+    35.534293,
+    -77.025683,
+    35.534293
+],
   "geometry": {"coordinates":[-77.025683,35.534293],"type":"Point"}
 }

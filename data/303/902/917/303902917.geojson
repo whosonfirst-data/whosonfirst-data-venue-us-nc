@@ -2,13 +2,14 @@
   "id": 303902917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.952097,35.959686,-78.952097,35.959686",
     "geom:latitude":35.959686,
     "geom:longitude":-78.952097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Pennington Pl",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303902917,
-    "wof:lastmodified":1448999929,
+    "wof:lastmodified":1466656198,
     "wof:name":"Stephen L George",
     "wof:parent_id":85877193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.952097,35.959686,-78.952097,35.959686],
-  "geometry": {"coordinates":[-78.952097,35.959686],"type":"Point"}
+  "bbox": [
+    -78.952097,
+    35.959686,
+    -78.952097,
+    35.959686
+],
+  "geometry": {"coordinates":[-78.95209699999999,35.959686],"type":"Point"}
 }

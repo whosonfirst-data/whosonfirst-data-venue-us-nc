@@ -2,13 +2,14 @@
   "id": 203340373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.554583,35.595362,-82.554583,35.595362",
     "geom:latitude":35.595362,
     "geom:longitude":-82.554583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Haywood St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203340373,
-    "wof:lastmodified":1449026405,
+    "wof:lastmodified":1466643533,
     "wof:name":"SEI Environmental Inc",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-82.554583,35.595362,-82.554583,35.595362],
-  "geometry": {"coordinates":[-82.554583,35.595362],"type":"Point"}
+  "bbox": [
+    -82.554583,
+    35.595362,
+    -82.554583,
+    35.595362
+],
+  "geometry": {"coordinates":[-82.55458299999999,35.595362],"type":"Point"}
 }

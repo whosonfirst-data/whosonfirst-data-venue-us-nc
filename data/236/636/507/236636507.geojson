@@ -2,13 +2,14 @@
   "id": 236636507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.647591,35.781847,-78.647591,35.781847",
     "geom:latitude":35.781847,
     "geom:longitude":-78.647591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Glenwood Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236636507,
-    "wof:lastmodified":1449002868,
+    "wof:lastmodified":1466648864,
     "wof:name":"Carolina Legal Assistance",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.647591,35.781847,-78.647591,35.781847],
-  "geometry": {"coordinates":[-78.647591,35.781847],"type":"Point"}
+  "bbox": [
+    -78.647591,
+    35.781847,
+    -78.647591,
+    35.781847
+],
+  "geometry": {"coordinates":[-78.64759100000001,35.781847],"type":"Point"}
 }

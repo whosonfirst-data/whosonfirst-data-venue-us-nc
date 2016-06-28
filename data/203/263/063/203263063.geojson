@@ -2,13 +2,14 @@
   "id": 203263063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.515504,35.157387,-80.515504,35.157387",
     "geom:latitude":35.157387,
     "geom:longitude":-80.515504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7710 Price Tucker Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203263063,
-    "wof:lastmodified":1449026818,
+    "wof:lastmodified":1466655670,
     "wof:name":"Right of Way Realty Inc",
     "wof:parent_id":85812565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.515504,35.157387,-80.515504,35.157387],
-  "geometry": {"coordinates":[-80.515504,35.157387],"type":"Point"}
+  "bbox": [
+    -80.515504,
+    35.157387,
+    -80.515504,
+    35.157387
+],
+  "geometry": {"coordinates":[-80.51550400000001,35.157387],"type":"Point"}
 }

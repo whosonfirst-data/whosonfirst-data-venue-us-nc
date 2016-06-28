@@ -2,13 +2,14 @@
   "id": 320200189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.503556,35.387443,-82.503556,35.387443",
     "geom:latitude":35.387443,
     "geom:longitude":-82.503556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5349 Asheville Hwy",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320200189,
-    "wof:lastmodified":1449012762,
+    "wof:lastmodified":1466648098,
     "wof:name":"Dave's Quality Used Cars",
     "wof:parent_id":85847699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.503556,35.387443,-82.503556,35.387443],
+  "bbox": [
+    -82.503556,
+    35.387443,
+    -82.503556,
+    35.387443
+],
   "geometry": {"coordinates":[-82.503556,35.387443],"type":"Point"}
 }

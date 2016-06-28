@@ -2,13 +2,14 @@
   "id": 336646407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.483984,35.549878,-82.483984,35.549878",
     "geom:latitude":35.549878,
     "geom:longitude":-82.483984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Laurel Summit",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336646407,
-    "wof:lastmodified":1448996897,
+    "wof:lastmodified":1466646556,
     "wof:name":"Mountain Area Speech Assoc PA",
     "wof:parent_id":85807723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.483984,35.549878,-82.483984,35.549878],
-  "geometry": {"coordinates":[-82.483984,35.549878],"type":"Point"}
+  "bbox": [
+    -82.483984,
+    35.549878,
+    -82.483984,
+    35.549878
+],
+  "geometry": {"coordinates":[-82.48398400000001,35.549878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370806881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.940841,35.032664,-78.940841,35.032664",
     "geom:latitude":35.032664,
     "geom:longitude":-78.940841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Wellons Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370806881,
-    "wof:lastmodified":1449029056,
+    "wof:lastmodified":1466656213,
     "wof:name":"Bills Welding Service",
     "wof:parent_id":85877381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-78.940841,35.032664,-78.940841,35.032664],
-  "geometry": {"coordinates":[-78.940841,35.032664],"type":"Point"}
+  "bbox": [
+    -78.940841,
+    35.032664,
+    -78.940841,
+    35.032664
+],
+  "geometry": {"coordinates":[-78.94084100000001,35.032664],"type":"Point"}
 }

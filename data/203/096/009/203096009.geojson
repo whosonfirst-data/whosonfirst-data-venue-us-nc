@@ -2,13 +2,14 @@
   "id": 203096009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.661561,34.378817,-77.661561,34.378817",
     "geom:latitude":34.378817,
     "geom:longitude":-77.661561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Captain Beam Blvd",
     "sg:city":"Hampstead",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203096009,
-    "wof:lastmodified":1449025533,
+    "wof:lastmodified":1466655909,
     "wof:name":"Matt Esteves Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.661561,34.378817,-77.661561,34.378817],
-  "geometry": {"coordinates":[-77.661561,34.378817],"type":"Point"}
+  "bbox": [
+    -77.661561,
+    34.378817,
+    -77.661561,
+    34.378817
+],
+  "geometry": {"coordinates":[-77.66156100000001,34.378817],"type":"Point"}
 }

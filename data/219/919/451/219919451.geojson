@@ -2,13 +2,14 @@
   "id": 219919451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.975475,35.392293,-77.975475,35.392293",
     "geom:latitude":35.392293,
     "geom:longitude":-77.975475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Wayne Memorial Dr",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219919451,
-    "wof:lastmodified":1449073068,
+    "wof:lastmodified":1466648151,
     "wof:name":"Medical Care",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-77.975475,35.392293,-77.975475,35.392293],
+  "bbox": [
+    -77.975475,
+    35.392293,
+    -77.975475,
+    35.392293
+],
   "geometry": {"coordinates":[-77.975475,35.392293],"type":"Point"}
 }

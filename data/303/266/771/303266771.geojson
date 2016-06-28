@@ -2,13 +2,14 @@
   "id": 303266771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.767803,35.684133,-79.767803,35.684133",
     "geom:latitude":35.684133,
     "geom:longitude":-79.767803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1342 State Hwy 42 S",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303266771,
-    "wof:lastmodified":1448998195,
+    "wof:lastmodified":1466647195,
     "wof:name":"Heath House",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-79.767803,35.684133,-79.767803,35.684133],
+  "bbox": [
+    -79.767803,
+    35.684133,
+    -79.767803,
+    35.684133
+],
   "geometry": {"coordinates":[-79.767803,35.684133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203315847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.295527,35.289151,-81.295527,35.289151",
     "geom:latitude":35.289151,
     "geom:longitude":-81.295527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Logan St",
     "sg:city":"Bessemer City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203315847,
-    "wof:lastmodified":1449026772,
+    "wof:lastmodified":1466643353,
     "wof:name":"Bessemer City Water Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-81.295527,35.289151,-81.295527,35.289151],
-  "geometry": {"coordinates":[-81.295527,35.289151],"type":"Point"}
+  "bbox": [
+    -81.295527,
+    35.289151,
+    -81.295527,
+    35.289151
+],
+  "geometry": {"coordinates":[-81.29552700000001,35.289151],"type":"Point"}
 }

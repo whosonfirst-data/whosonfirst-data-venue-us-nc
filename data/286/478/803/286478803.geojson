@@ -2,13 +2,14 @@
   "id": 286478803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.622701,35.893953,-78.622701,35.893953",
     "geom:latitude":35.893953,
     "geom:longitude":-78.622701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8109 Falls of Neuse Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286478803,
-    "wof:lastmodified":1449015260,
+    "wof:lastmodified":1466646056,
     "wof:name":"Fast Fare Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.622701,35.893953,-78.622701,35.893953],
-  "geometry": {"coordinates":[-78.622701,35.893953],"type":"Point"}
+  "bbox": [
+    -78.622701,
+    35.893953,
+    -78.622701,
+    35.893953
+],
+  "geometry": {"coordinates":[-78.62270100000001,35.893953],"type":"Point"}
 }

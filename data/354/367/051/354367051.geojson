@@ -2,13 +2,14 @@
   "id": 354367051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.732054,36.372527,-79.732054,36.372527",
     "geom:latitude":36.372527,
     "geom:longitude":-79.732054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7720 State Hwy 87",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354367051,
-    "wof:lastmodified":1449066954,
+    "wof:lastmodified":1466651798,
     "wof:name":"Hall's Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-79.732054,36.372527,-79.732054,36.372527],
-  "geometry": {"coordinates":[-79.732054,36.372527],"type":"Point"}
+  "bbox": [
+    -79.732054,
+    36.372527,
+    -79.732054,
+    36.372527
+],
+  "geometry": {"coordinates":[-79.73205400000001,36.372527],"type":"Point"}
 }

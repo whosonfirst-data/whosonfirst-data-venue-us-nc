@@ -2,13 +2,14 @@
   "id": 386944905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.505395,36.08094,-79.505395,36.08094",
     "geom:latitude":36.08094,
     "geom:longitude":-79.505395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3253 S Church St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":386944905,
-    "wof:lastmodified":1449028778,
+    "wof:lastmodified":1466649589,
     "wof:name":"Auto Acoustics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "system"
     ]
 },
-  "bbox": [-79.505395,36.08094,-79.505395,36.08094],
-  "geometry": {"coordinates":[-79.505395,36.08094],"type":"Point"}
+  "bbox": [
+    -79.505395,
+    36.08094,
+    -79.505395,
+    36.08094
+],
+  "geometry": {"coordinates":[-79.50539499999999,36.08094],"type":"Point"}
 }

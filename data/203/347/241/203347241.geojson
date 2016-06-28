@@ -2,13 +2,14 @@
   "id": 203347241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.409019,35.572085,-77.409019,35.572085",
     "geom:latitude":35.572085,
     "geom:longitude":-77.409019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Greenville Blvd SW",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203347241,
-    "wof:lastmodified":1449025834,
+    "wof:lastmodified":1466643591,
     "wof:name":"Jarman Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.409019,35.572085,-77.409019,35.572085],
+  "bbox": [
+    -77.409019,
+    35.572085,
+    -77.409019,
+    35.572085
+],
   "geometry": {"coordinates":[-77.409019,35.572085],"type":"Point"}
 }

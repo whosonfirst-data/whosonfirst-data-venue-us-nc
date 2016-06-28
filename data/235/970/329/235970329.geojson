@@ -2,13 +2,14 @@
   "id": 235970329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.460558,35.318587,-82.460558,35.318587",
     "geom:latitude":35.318587,
     "geom:longitude":-82.460558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N Main St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235970329,
-    "wof:lastmodified":1449008600,
+    "wof:lastmodified":1466643549,
     "wof:name":"Honeysuckle Hollow Inc",
     "wof:parent_id":85804503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-82.460558,35.318587,-82.460558,35.318587],
-  "geometry": {"coordinates":[-82.460558,35.318587],"type":"Point"}
+  "bbox": [
+    -82.460558,
+    35.318587,
+    -82.460558,
+    35.318587
+],
+  "geometry": {"coordinates":[-82.46055800000001,35.318587],"type":"Point"}
 }

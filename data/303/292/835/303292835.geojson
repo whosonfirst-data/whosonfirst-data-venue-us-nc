@@ -2,13 +2,14 @@
   "id": 303292835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.792318,35.932102,-77.792318,35.932102",
     "geom:latitude":35.932102,
     "geom:longitude":-77.792318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Branch St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303292835,
-    "wof:lastmodified":1448998322,
+    "wof:lastmodified":1466647571,
     "wof:name":"Greater Mount Hermon Baptist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.792318,35.932102,-77.792318,35.932102],
-  "geometry": {"coordinates":[-77.792318,35.932102],"type":"Point"}
+  "bbox": [
+    -77.792318,
+    35.932102,
+    -77.792318,
+    35.932102
+],
+  "geometry": {"coordinates":[-77.79231799999999,35.932102],"type":"Point"}
 }

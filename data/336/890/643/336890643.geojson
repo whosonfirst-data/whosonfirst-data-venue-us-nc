@@ -2,13 +2,14 @@
   "id": 336890643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.527588,35.591307,-80.527588,35.591307",
     "geom:latitude":35.591307,
     "geom:longitude":-80.527588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Brookfield Cir",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336890643,
-    "wof:lastmodified":1448997190,
+    "wof:lastmodified":1466650270,
     "wof:name":"Swiney B A Trucking",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.527588,35.591307,-80.527588,35.591307],
-  "geometry": {"coordinates":[-80.527588,35.591307],"type":"Point"}
+  "bbox": [
+    -80.527588,
+    35.591307,
+    -80.527588,
+    35.591307
+],
+  "geometry": {"coordinates":[-80.52758799999999,35.591307],"type":"Point"}
 }

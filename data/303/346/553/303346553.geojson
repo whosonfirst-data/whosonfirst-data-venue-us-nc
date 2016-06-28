@@ -2,13 +2,14 @@
   "id": 303346553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.169796,36.069335,-80.169796,36.069335",
     "geom:latitude":36.069335,
     "geom:longitude":-80.169796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Hines Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303346553,
-    "wof:lastmodified":1448998102,
+    "wof:lastmodified":1466648298,
     "wof:name":"David's Bridal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bridal"
     ]
 },
-  "bbox": [-80.169796,36.069335,-80.169796,36.069335],
-  "geometry": {"coordinates":[-80.169796,36.069335],"type":"Point"}
+  "bbox": [
+    -80.169796,
+    36.069335,
+    -80.169796,
+    36.069335
+],
+  "geometry": {"coordinates":[-80.16979600000001,36.069335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202465597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.62032,35.817506,-78.62032,35.817506",
     "geom:latitude":35.817506,
     "geom:longitude":-78.62032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2832 Industrial Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202465597,
-    "wof:lastmodified":1449061797,
+    "wof:lastmodified":1466654671,
     "wof:name":"Bell's Carpets Inc",
     "wof:parent_id":85838339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-78.62032,35.817506,-78.62032,35.817506],
-  "geometry": {"coordinates":[-78.62032,35.817506],"type":"Point"}
+  "bbox": [
+    -78.62032,
+    35.817506,
+    -78.62032,
+    35.817506
+],
+  "geometry": {"coordinates":[-78.62032000000001,35.817506],"type":"Point"}
 }

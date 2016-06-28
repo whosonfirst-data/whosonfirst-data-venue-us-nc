@@ -2,13 +2,14 @@
   "id": 220093437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.482255,35.205832,-79.482255,35.205832",
     "geom:latitude":35.205832,
     "geom:longitude":-79.482255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Central Park Ave",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220093437,
-    "wof:lastmodified":1449074058,
+    "wof:lastmodified":1466643952,
     "wof:name":"Mac's Convenience Store",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.482255,35.205832,-79.482255,35.205832],
-  "geometry": {"coordinates":[-79.482255,35.205832],"type":"Point"}
+  "bbox": [
+    -79.482255,
+    35.205832,
+    -79.482255,
+    35.205832
+],
+  "geometry": {"coordinates":[-79.48225499999999,35.205832],"type":"Point"}
 }

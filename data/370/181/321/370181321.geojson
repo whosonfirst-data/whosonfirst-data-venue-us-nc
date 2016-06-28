@@ -2,13 +2,14 @@
   "id": 370181321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.427579,35.999925,-79.427579,35.999925",
     "geom:latitude":35.999925,
     "geom:longitude":-79.427579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1147 Hazel Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370181321,
-    "wof:lastmodified":1449031161,
+    "wof:lastmodified":1466648531,
     "wof:name":"Lynn Hargis",
     "wof:parent_id":85843335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-79.427579,35.999925,-79.427579,35.999925],
-  "geometry": {"coordinates":[-79.427579,35.999925],"type":"Point"}
+  "bbox": [
+    -79.427579,
+    35.999925,
+    -79.427579,
+    35.999925
+],
+  "geometry": {"coordinates":[-79.42757899999999,35.999925],"type":"Point"}
 }

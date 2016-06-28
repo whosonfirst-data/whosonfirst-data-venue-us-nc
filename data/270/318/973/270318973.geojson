@@ -2,13 +2,14 @@
   "id": 270318973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.312958,35.74629,-78.312958,35.74629",
     "geom:latitude":35.74629,
     "geom:longitude":-78.312958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 State Hwy 231",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270318973,
-    "wof:lastmodified":1449009156,
+    "wof:lastmodified":1466647110,
     "wof:name":"Plantation Heart Pine",
     "wof:parent_id":85854199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.312958,35.74629,-78.312958,35.74629],
-  "geometry": {"coordinates":[-78.312958,35.74629],"type":"Point"}
+  "bbox": [
+    -78.312958,
+    35.74629,
+    -78.312958,
+    35.74629
+],
+  "geometry": {"coordinates":[-78.31295799999999,35.74629],"type":"Point"}
 }

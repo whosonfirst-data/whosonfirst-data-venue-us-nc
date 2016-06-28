@@ -2,13 +2,14 @@
   "id": 202551663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862441,35.589503,-80.862441,35.589503",
     "geom:latitude":35.589503,
     "geom:longitude":-80.862441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Loma Hill Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202551663,
-    "wof:lastmodified":1449060621,
+    "wof:lastmodified":1466655308,
     "wof:name":"Mid Valley Engineering South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.862441,35.589503,-80.862441,35.589503],
+  "bbox": [
+    -80.862441,
+    35.589503,
+    -80.862441,
+    35.589503
+],
   "geometry": {"coordinates":[-80.862441,35.589503],"type":"Point"}
 }

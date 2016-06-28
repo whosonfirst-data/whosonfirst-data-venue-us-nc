@@ -2,13 +2,14 @@
   "id": 203035433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.780598,35.726483,-78.780598,35.726483",
     "geom:latitude":35.726483,
     "geom:longitude":-78.780598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Quarter Path",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203035433,
-    "wof:lastmodified":1449026471,
+    "wof:lastmodified":1466654408,
     "wof:name":"Home Medical Svc",
     "wof:parent_id":85854847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.780598,35.726483,-78.780598,35.726483],
+  "bbox": [
+    -78.780598,
+    35.726483,
+    -78.780598,
+    35.726483
+],
   "geometry": {"coordinates":[-78.780598,35.726483],"type":"Point"}
 }

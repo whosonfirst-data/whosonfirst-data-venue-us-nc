@@ -2,13 +2,14 @@
   "id": 370190793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.890143,36.047901,-78.890143,36.047901",
     "geom:latitude":36.047901,
     "geom:longitude":-78.890143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4411 Ben Franklin Blvd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370190793,
-    "wof:lastmodified":1449032251,
+    "wof:lastmodified":1466648653,
     "wof:name":"Regional Hematology & Oncology",
     "wof:parent_id":85877187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cancer"
     ]
 },
-  "bbox": [-78.890143,36.047901,-78.890143,36.047901],
-  "geometry": {"coordinates":[-78.890143,36.047901],"type":"Point"}
+  "bbox": [
+    -78.890143,
+    36.047901,
+    -78.890143,
+    36.047901
+],
+  "geometry": {"coordinates":[-78.89014299999999,36.047901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303633983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.604177,35.416059,-80.604177,35.416059",
     "geom:latitude":35.416059,
     "geom:longitude":-80.604177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 McGill Ave NW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303633983,
-    "wof:lastmodified":1449000548,
+    "wof:lastmodified":1466652461,
     "wof:name":"Niblock Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.604177,35.416059,-80.604177,35.416059],
-  "geometry": {"coordinates":[-80.604177,35.416059],"type":"Point"}
+  "bbox": [
+    -80.604177,
+    35.416059,
+    -80.604177,
+    35.416059
+],
+  "geometry": {"coordinates":[-80.60417700000001,35.416059],"type":"Point"}
 }

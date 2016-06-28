@@ -2,13 +2,14 @@
   "id": 387363787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.846579,35.971151,-78.846579,35.971151",
     "geom:latitude":35.971151,
     "geom:longitude":-78.846579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3004 Ivey Wood Ln",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387363787,
-    "wof:lastmodified":1449059458,
+    "wof:lastmodified":1466654636,
     "wof:name":"Springwood Park Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.846579,35.971151,-78.846579,35.971151],
-  "geometry": {"coordinates":[-78.846579,35.971151],"type":"Point"}
+  "bbox": [
+    -78.846579,
+    35.971151,
+    -78.846579,
+    35.971151
+],
+  "geometry": {"coordinates":[-78.84657900000001,35.971151],"type":"Point"}
 }

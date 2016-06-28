@@ -2,13 +2,14 @@
   "id": 404050607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.456621,34.745689,-77.456621,34.745689",
     "geom:latitude":34.745689,
     "geom:longitude":-77.456621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Wilmington Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404050607,
-    "wof:lastmodified":1449039794,
+    "wof:lastmodified":1466651944,
     "wof:name":"State Hwy Patrol-Troop B",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-77.456621,34.745689,-77.456621,34.745689],
+  "bbox": [
+    -77.456621,
+    34.745689,
+    -77.456621,
+    34.745689
+],
   "geometry": {"coordinates":[-77.456621,34.745689],"type":"Point"}
 }

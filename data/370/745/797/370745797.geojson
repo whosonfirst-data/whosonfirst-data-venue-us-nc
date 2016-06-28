@@ -2,13 +2,14 @@
   "id": 370745797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.765232,36.029579,-79.765232,36.029579",
     "geom:latitude":36.029579,
     "geom:longitude":-79.765232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Madre Pl",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370745797,
-    "wof:lastmodified":1449032320,
+    "wof:lastmodified":1466655777,
     "wof:name":"Matthews Brothers Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-79.765232,36.029579,-79.765232,36.029579],
+  "bbox": [
+    -79.765232,
+    36.029579,
+    -79.765232,
+    36.029579
+],
   "geometry": {"coordinates":[-79.765232,36.029579],"type":"Point"}
 }

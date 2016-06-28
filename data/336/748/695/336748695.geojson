@@ -2,13 +2,14 @@
   "id": 336748695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.987696,35.490296,-82.987696,35.490296",
     "geom:latitude":35.490296,
     "geom:longitude":-82.987696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 N Main St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336748695,
-    "wof:lastmodified":1448997750,
+    "wof:lastmodified":1466648084,
     "wof:name":"Benchmark Builders",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.987696,35.490296,-82.987696,35.490296],
+  "bbox": [
+    -82.987696,
+    35.490296,
+    -82.987696,
+    35.490296
+],
   "geometry": {"coordinates":[-82.987696,35.490296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353518811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.846223,36.078171,-79.846223,36.078171",
     "geom:latitude":36.078171,
     "geom:longitude":-79.846223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Sam Snead Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353518811,
-    "wof:lastmodified":1449019697,
+    "wof:lastmodified":1466648392,
     "wof:name":"Starmount Forest Country Club",
     "wof:parent_id":85850945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "country"
     ]
 },
-  "bbox": [-79.846223,36.078171,-79.846223,36.078171],
-  "geometry": {"coordinates":[-79.846223,36.078171],"type":"Point"}
+  "bbox": [
+    -79.846223,
+    36.078171,
+    -79.846223,
+    36.078171
+],
+  "geometry": {"coordinates":[-79.84622299999999,36.078171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303201979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.624413,35.795714,-78.624413,35.795714",
     "geom:latitude":35.795714,
     "geom:longitude":-78.624413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Brookside Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303201979,
-    "wof:lastmodified":1449000239,
+    "wof:lastmodified":1466646243,
     "wof:name":"Conn Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-78.624413,35.795714,-78.624413,35.795714],
+  "bbox": [
+    -78.624413,
+    35.795714,
+    -78.624413,
+    35.795714
+],
   "geometry": {"coordinates":[-78.624413,35.795714],"type":"Point"}
 }

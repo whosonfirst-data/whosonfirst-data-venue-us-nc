@@ -2,13 +2,14 @@
   "id": 303775575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.856302,35.116285,-80.856302,35.116285",
     "geom:latitude":35.116285,
     "geom:longitude":-80.856302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8508 Park Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303775575,
-    "wof:lastmodified":1448999926,
+    "wof:lastmodified":1466654504,
     "wof:name":"Supply Solutions Inc",
     "wof:parent_id":85848027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-80.856302,35.116285,-80.856302,35.116285],
+  "bbox": [
+    -80.856302,
+    35.116285,
+    -80.856302,
+    35.116285
+],
   "geometry": {"coordinates":[-80.856302,35.116285],"type":"Point"}
 }

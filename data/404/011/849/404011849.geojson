@@ -2,13 +2,14 @@
   "id": 404011849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.949047,35.382209,-79.949047,35.382209",
     "geom:latitude":35.382209,
     "geom:longitude":-79.949047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1161 State Hwy 109 N",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404011849,
-    "wof:lastmodified":1449040073,
+    "wof:lastmodified":1466651453,
     "wof:name":"Ann's Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.949047,35.382209,-79.949047,35.382209],
-  "geometry": {"coordinates":[-79.949047,35.382209],"type":"Point"}
+  "bbox": [
+    -79.949047,
+    35.382209,
+    -79.949047,
+    35.382209
+],
+  "geometry": {"coordinates":[-79.94904699999999,35.382209],"type":"Point"}
 }

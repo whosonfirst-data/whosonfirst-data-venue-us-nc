@@ -2,13 +2,14 @@
   "id": 370670129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.161622,36.169146,-81.161622,36.169146",
     "geom:latitude":36.169146,
     "geom:longitude":-81.161622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Buchan St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370670129,
-    "wof:lastmodified":1449029597,
+    "wof:lastmodified":1466654809,
     "wof:name":"Joseph V Beam",
     "wof:parent_id":85828719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-81.161622,36.169146,-81.161622,36.169146],
-  "geometry": {"coordinates":[-81.161622,36.169146],"type":"Point"}
+  "bbox": [
+    -81.161622,
+    36.169146,
+    -81.161622,
+    36.169146
+],
+  "geometry": {"coordinates":[-81.16162199999999,36.169146],"type":"Point"}
 }

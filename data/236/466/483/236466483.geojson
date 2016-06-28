@@ -2,13 +2,14 @@
   "id": 236466483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.864584,35.475054,-77.864584,35.475054",
     "geom:latitude":35.475054,
     "geom:longitude":-77.864584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 Bartlett Rd",
     "sg:city":"Pikeville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236466483,
-    "wof:lastmodified":1449002465,
+    "wof:lastmodified":1466647298,
     "wof:name":"Smith's Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-77.864584,35.475054,-77.864584,35.475054],
-  "geometry": {"coordinates":[-77.864584,35.475054],"type":"Point"}
+  "bbox": [
+    -77.864584,
+    35.475054,
+    -77.864584,
+    35.475054
+],
+  "geometry": {"coordinates":[-77.86458399999999,35.475054],"type":"Point"}
 }

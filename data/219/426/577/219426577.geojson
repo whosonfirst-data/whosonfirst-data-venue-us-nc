@@ -2,13 +2,14 @@
   "id": 219426577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325646,36.509909,-80.325646,36.509909",
     "geom:latitude":36.509909,
     "geom:longitude":-80.325646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4432 State Hwy 704 W",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219426577,
-    "wof:lastmodified":1449071153,
+    "wof:lastmodified":1466644327,
     "wof:name":"704 Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.325646,36.509909,-80.325646,36.509909],
-  "geometry": {"coordinates":[-80.325646,36.509909],"type":"Point"}
+  "bbox": [
+    -80.325646,
+    36.509909,
+    -80.325646,
+    36.509909
+],
+  "geometry": {"coordinates":[-80.32564600000001,36.509909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303191069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.46631,34.767459,-79.46631,34.767459",
     "geom:latitude":34.767459,
     "geom:longitude":-79.46631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 S Main St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303191069,
-    "wof:lastmodified":1448999601,
+    "wof:lastmodified":1466646088,
     "wof:name":"Pinehurst Surgical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.46631,34.767459,-79.46631,34.767459],
-  "geometry": {"coordinates":[-79.46631,34.767459],"type":"Point"}
+  "bbox": [
+    -79.46631,
+    34.767459,
+    -79.46631,
+    34.767459
+],
+  "geometry": {"coordinates":[-79.46630999999999,34.767459],"type":"Point"}
 }

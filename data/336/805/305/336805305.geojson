@@ -2,13 +2,14 @@
   "id": 336805305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.807132,35.586237,-80.807132,35.586237",
     "geom:latitude":35.586237,
     "geom:longitude":-80.807132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 N Main St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336805305,
-    "wof:lastmodified":1448997296,
+    "wof:lastmodified":1466648973,
     "wof:name":"Bob's Grill",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.807132,35.586237,-80.807132,35.586237],
+  "bbox": [
+    -80.807132,
+    35.586237,
+    -80.807132,
+    35.586237
+],
   "geometry": {"coordinates":[-80.807132,35.586237],"type":"Point"}
 }

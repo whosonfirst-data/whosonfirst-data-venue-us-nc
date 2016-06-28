@@ -2,13 +2,14 @@
   "id": 270034571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.005483,35.070529,-81.005483,35.070529",
     "geom:latitude":35.070529,
     "geom:longitude":-81.005483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14915 Thomas Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270034571,
-    "wof:lastmodified":1449008918,
+    "wof:lastmodified":1466643593,
     "wof:name":"R Roberts Studio",
     "wof:parent_id":85823197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.005483,35.070529,-81.005483,35.070529],
+  "bbox": [
+    -81.005483,
+    35.070529,
+    -81.005483,
+    35.070529
+],
   "geometry": {"coordinates":[-81.005483,35.070529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236839785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.474398,35.634245,-80.474398,35.634245",
     "geom:latitude":35.634245,
     "geom:longitude":-80.474398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Stone Ridge Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236839785,
-    "wof:lastmodified":1449003667,
+    "wof:lastmodified":1466650753,
     "wof:name":"RDS Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-80.474398,35.634245,-80.474398,35.634245],
-  "geometry": {"coordinates":[-80.474398,35.634245],"type":"Point"}
+  "bbox": [
+    -80.474398,
+    35.634245,
+    -80.474398,
+    35.634245
+],
+  "geometry": {"coordinates":[-80.47439799999999,35.634245],"type":"Point"}
 }

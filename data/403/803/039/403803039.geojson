@@ -2,13 +2,14 @@
   "id": 403803039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.96103,35.027811,-78.96103,35.027811",
     "geom:latitude":35.027811,
     "geom:longitude":-78.96103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Hope Mills Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403803039,
-    "wof:lastmodified":1449055982,
+    "wof:lastmodified":1466651613,
     "wof:name":"Davis Home Improvement Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.96103,35.027811,-78.96103,35.027811],
-  "geometry": {"coordinates":[-78.96103,35.027811],"type":"Point"}
+  "bbox": [
+    -78.96103,
+    35.027811,
+    -78.96103,
+    35.027811
+],
+  "geometry": {"coordinates":[-78.96102999999999,35.027811],"type":"Point"}
 }

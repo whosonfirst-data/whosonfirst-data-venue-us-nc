@@ -2,13 +2,14 @@
   "id": 286727047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.944485,35.256129,-78.944485,35.256129",
     "geom:latitude":35.256129,
     "geom:longitude":-78.944485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Sierra Trl",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286727047,
-    "wof:lastmodified":1449015611,
+    "wof:lastmodified":1466649477,
     "wof:name":"American General Construction",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.944485,35.256129,-78.944485,35.256129],
+  "bbox": [
+    -78.944485,
+    35.256129,
+    -78.944485,
+    35.256129
+],
   "geometry": {"coordinates":[-78.944485,35.256129],"type":"Point"}
 }

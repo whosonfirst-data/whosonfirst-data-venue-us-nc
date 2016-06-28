@@ -2,13 +2,14 @@
   "id": 403988169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.3455,35.722306,-81.3455,35.722306",
     "geom:latitude":35.722306,
     "geom:longitude":-81.3455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"756 4th St SW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403988169,
-    "wof:lastmodified":1449055087,
+    "wof:lastmodified":1466654045,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-81.3455,35.722306,-81.3455,35.722306],
+  "bbox": [
+    -81.3455,
+    35.722306,
+    -81.3455,
+    35.722306
+],
   "geometry": {"coordinates":[-81.3455,35.722306],"type":"Point"}
 }

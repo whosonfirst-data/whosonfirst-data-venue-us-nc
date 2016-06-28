@@ -2,13 +2,14 @@
   "id": 336885571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.419197,35.148952,-79.419197,35.148952",
     "geom:latitude":35.148952,
     "geom:longitude":-79.419197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 N Sandhills Blvd",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336885571,
-    "wof:lastmodified":1448997526,
+    "wof:lastmodified":1466650204,
     "wof:name":"North Carolina License Plate",
     "wof:parent_id":85834083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "license"
     ]
 },
-  "bbox": [-79.419197,35.148952,-79.419197,35.148952],
+  "bbox": [
+    -79.419197,
+    35.148952,
+    -79.419197,
+    35.148952
+],
   "geometry": {"coordinates":[-79.419197,35.148952],"type":"Point"}
 }

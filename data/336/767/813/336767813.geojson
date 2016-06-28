@@ -2,13 +2,14 @@
   "id": 336767813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.645575,35.272536,-81.645575,35.272536",
     "geom:latitude":35.272536,
     "geom:longitude":-81.645575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Silver Creek Ln",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336767813,
-    "wof:lastmodified":1448997261,
+    "wof:lastmodified":1466648379,
     "wof:name":"Davis Properties of Cleveland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.645575,35.272536,-81.645575,35.272536],
-  "geometry": {"coordinates":[-81.645575,35.272536],"type":"Point"}
+  "bbox": [
+    -81.645575,
+    35.272536,
+    -81.645575,
+    35.272536
+],
+  "geometry": {"coordinates":[-81.64557499999999,35.272536],"type":"Point"}
 }

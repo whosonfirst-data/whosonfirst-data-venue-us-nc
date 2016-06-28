@@ -2,13 +2,14 @@
   "id": 320000271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.809891,35.171642,-82.809891,35.171642",
     "geom:latitude":35.171642,
     "geom:longitude":-82.809891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Morgan Mill Rd",
     "sg:city":"Brevard",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320000271,
-    "wof:lastmodified":1449011852,
+    "wof:lastmodified":1466655845,
     "wof:name":"Morgan Mill Trout Fishing Rsrt",
     "wof:parent_id":85815335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "curing"
     ]
 },
-  "bbox": [-82.809891,35.171642,-82.809891,35.171642],
-  "geometry": {"coordinates":[-82.809891,35.171642],"type":"Point"}
+  "bbox": [
+    -82.809891,
+    35.171642,
+    -82.809891,
+    35.171642
+],
+  "geometry": {"coordinates":[-82.80989099999999,35.171642],"type":"Point"}
 }

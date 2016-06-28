@@ -2,13 +2,14 @@
   "id": 303276655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.664987,34.721732,-76.664987,34.721732",
     "geom:latitude":34.721732,
     "geom:longitude":-76.664987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Cedar St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303276655,
-    "wof:lastmodified":1448998208,
+    "wof:lastmodified":1466647345,
     "wof:name":"Wally's Auto Sales",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-76.664987,34.721732,-76.664987,34.721732],
+  "bbox": [
+    -76.664987,
+    34.721732,
+    -76.664987,
+    34.721732
+],
   "geometry": {"coordinates":[-76.664987,34.721732],"type":"Point"}
 }

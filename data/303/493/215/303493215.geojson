@@ -2,13 +2,14 @@
   "id": 303493215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.736148,35.861046,-76.736148,35.861046",
     "geom:latitude":35.861046,
     "geom:longitude":-76.736148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 State Hwy 32",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303493215,
-    "wof:lastmodified":1448998891,
+    "wof:lastmodified":1466650424,
     "wof:name":"Victory Christian Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-76.736148,35.861046,-76.736148,35.861046],
+  "bbox": [
+    -76.736148,
+    35.861046,
+    -76.736148,
+    35.861046
+],
   "geometry": {"coordinates":[-76.736148,35.861046],"type":"Point"}
 }

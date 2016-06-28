@@ -2,13 +2,14 @@
   "id": 219790767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.120851,36.506664,-81.120851,36.506664",
     "geom:latitude":36.506664,
     "geom:longitude":-81.120851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Alleghany St",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219790767,
-    "wof:lastmodified":1449073107,
+    "wof:lastmodified":1466647106,
     "wof:name":"Alleghany County Emergency Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.120851,36.506664,-81.120851,36.506664],
+  "bbox": [
+    -81.120851,
+    36.506664,
+    -81.120851,
+    36.506664
+],
   "geometry": {"coordinates":[-81.120851,36.506664],"type":"Point"}
 }

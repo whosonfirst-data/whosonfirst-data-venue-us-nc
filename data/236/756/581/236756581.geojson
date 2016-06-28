@@ -2,13 +2,14 @@
   "id": 236756581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23901,35.903715,-80.23901,35.903715",
     "geom:latitude":35.903715,
     "geom:longitude":-80.23901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 Welcome-Bethesda Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236756581,
-    "wof:lastmodified":1449003657,
+    "wof:lastmodified":1466650024,
     "wof:name":"R & S Body Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [-80.23901,35.903715,-80.23901,35.903715],
-  "geometry": {"coordinates":[-80.23901,35.903715],"type":"Point"}
+  "bbox": [
+    -80.23901,
+    35.903715,
+    -80.23901,
+    35.903715
+],
+  "geometry": {"coordinates":[-80.23900999999999,35.903715],"type":"Point"}
 }

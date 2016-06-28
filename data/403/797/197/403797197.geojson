@@ -2,13 +2,14 @@
   "id": 403797197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.380507,34.75133,-77.380507,34.75133",
     "geom:latitude":34.75133,
     "geom:longitude":-77.380507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Western Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403797197,
-    "wof:lastmodified":1449055843,
+    "wof:lastmodified":1466651535,
     "wof:name":"C L Garrett MD",
     "wof:parent_id":85808245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.380507,34.75133,-77.380507,34.75133],
-  "geometry": {"coordinates":[-77.380507,34.75133],"type":"Point"}
+  "bbox": [
+    -77.380507,
+    34.75133,
+    -77.380507,
+    34.75133
+],
+  "geometry": {"coordinates":[-77.38050699999999,34.75133],"type":"Point"}
 }

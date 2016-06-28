@@ -2,13 +2,14 @@
   "id": 387002125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.592222,35.817347,-78.592222,35.817347",
     "geom:latitude":35.817347,
     "geom:longitude":-78.592222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Stoneybrook Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387002125,
-    "wof:lastmodified":1449059235,
+    "wof:lastmodified":1466649901,
     "wof:name":"Automan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-78.592222,35.817347,-78.592222,35.817347],
-  "geometry": {"coordinates":[-78.592222,35.817347],"type":"Point"}
+  "bbox": [
+    -78.592222,
+    35.817347,
+    -78.592222,
+    35.817347
+],
+  "geometry": {"coordinates":[-78.59222200000001,35.817347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286620379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.500347,35.430865,-82.500347,35.430865",
     "geom:latitude":35.430865,
     "geom:longitude":-82.500347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 E Fanning Bridge Rd",
     "sg:city":"Fletcher",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286620379,
-    "wof:lastmodified":1449017846,
+    "wof:lastmodified":1466648007,
     "wof:name":"Fletcher Fire & Rescue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.500347,35.430865,-82.500347,35.430865],
+  "bbox": [
+    -82.500347,
+    35.430865,
+    -82.500347,
+    35.430865
+],
   "geometry": {"coordinates":[-82.500347,35.430865],"type":"Point"}
 }

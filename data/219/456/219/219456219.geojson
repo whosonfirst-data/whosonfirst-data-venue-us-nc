@@ -2,13 +2,14 @@
   "id": 219456219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.652761,35.321945,-80.652761,35.321945",
     "geom:latitude":35.321945,
     "geom:longitude":-80.652761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4628 State Hwy 49 S",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219456219,
-    "wof:lastmodified":1449071454,
+    "wof:lastmodified":1466644552,
     "wof:name":"Shears Edge",
     "wof:parent_id":85891947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.652761,35.321945,-80.652761,35.321945],
+  "bbox": [
+    -80.652761,
+    35.321945,
+    -80.652761,
+    35.321945
+],
   "geometry": {"coordinates":[-80.652761,35.321945],"type":"Point"}
 }

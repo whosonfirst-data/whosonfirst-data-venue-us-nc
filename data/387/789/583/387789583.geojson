@@ -2,13 +2,14 @@
   "id": 387789583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.028564,35.07887,-77.028564,35.07887",
     "geom:latitude":35.07887,
     "geom:longitude":-77.028564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Old Cherry Point Rd",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387789583,
-    "wof:lastmodified":1449057818,
+    "wof:lastmodified":1466657644,
     "wof:name":"Fish Market",
     "wof:parent_id":85827311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-77.028564,35.07887,-77.028564,35.07887],
+  "bbox": [
+    -77.028564,
+    35.07887,
+    -77.028564,
+    35.07887
+],
   "geometry": {"coordinates":[-77.028564,35.07887],"type":"Point"}
 }

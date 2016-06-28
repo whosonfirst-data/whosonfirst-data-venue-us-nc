@@ -2,13 +2,14 @@
   "id": 354044675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.130586,35.198091,-81.130586,35.198091",
     "geom:latitude":35.198091,
     "geom:longitude":-81.130586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Woodbriar Trl",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354044675,
-    "wof:lastmodified":1449066819,
+    "wof:lastmodified":1466648077,
     "wof:name":"Paramount Door Systems",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dock"
     ]
 },
-  "bbox": [-81.130586,35.198091,-81.130586,35.198091],
-  "geometry": {"coordinates":[-81.130586,35.198091],"type":"Point"}
+  "bbox": [
+    -81.130586,
+    35.198091,
+    -81.130586,
+    35.198091
+],
+  "geometry": {"coordinates":[-81.13058599999999,35.198091],"type":"Point"}
 }

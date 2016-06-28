@@ -2,13 +2,14 @@
   "id": 270178981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.585129,35.385328,-80.585129,35.385328",
     "geom:latitude":35.385328,
     "geom:longitude":-80.585129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2025 Wilshire Ct SW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270178981,
-    "wof:lastmodified":1449010410,
+    "wof:lastmodified":1466645336,
     "wof:name":"Master Telecommunications",
     "wof:parent_id":85891915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-80.585129,35.385328,-80.585129,35.385328],
-  "geometry": {"coordinates":[-80.585129,35.385328],"type":"Point"}
+  "bbox": [
+    -80.585129,
+    35.385328,
+    -80.585129,
+    35.385328
+],
+  "geometry": {"coordinates":[-80.58512899999999,35.385328],"type":"Point"}
 }

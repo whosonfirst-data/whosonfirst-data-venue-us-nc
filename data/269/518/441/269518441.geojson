@@ -2,13 +2,14 @@
   "id": 269518441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.719958,35.114263,-80.719958,35.114263",
     "geom:latitude":35.114263,
     "geom:longitude":-80.719958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E John St",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269518441,
-    "wof:lastmodified":1449037485,
+    "wof:lastmodified":1466643625,
     "wof:name":"Hersheys Systems Inc",
     "wof:parent_id":85811531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.719958,35.114263,-80.719958,35.114263],
-  "geometry": {"coordinates":[-80.719958,35.114263],"type":"Point"}
+  "bbox": [
+    -80.719958,
+    35.114263,
+    -80.719958,
+    35.114263
+],
+  "geometry": {"coordinates":[-80.71995800000001,35.114263],"type":"Point"}
 }

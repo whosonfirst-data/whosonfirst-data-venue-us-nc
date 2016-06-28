@@ -2,13 +2,14 @@
   "id": 202386657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.592346,36.309964,-77.592346,36.309964",
     "geom:latitude":36.309964,
     "geom:longitude":-77.592346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8770 US Hwy 301",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202386657,
-    "wof:lastmodified":1449061439,
+    "wof:lastmodified":1466654108,
     "wof:name":"Probation & Parole Dept Adult",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-77.592346,36.309964,-77.592346,36.309964],
-  "geometry": {"coordinates":[-77.592346,36.309964],"type":"Point"}
+  "bbox": [
+    -77.592346,
+    36.309964,
+    -77.592346,
+    36.309964
+],
+  "geometry": {"coordinates":[-77.59234600000001,36.309964],"type":"Point"}
 }

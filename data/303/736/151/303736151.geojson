@@ -2,13 +2,14 @@
   "id": 303736151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.183185,36.078949,-80.183185,36.078949",
     "geom:latitude":36.078949,
     "geom:longitude":-80.183185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Reynolds Park Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303736151,
-    "wof:lastmodified":1449000537,
+    "wof:lastmodified":1466653943,
     "wof:name":"Diversicare Assisted Living",
     "wof:parent_id":85881829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "residential"
     ]
 },
-  "bbox": [-80.183185,36.078949,-80.183185,36.078949],
-  "geometry": {"coordinates":[-80.183185,36.078949],"type":"Point"}
+  "bbox": [
+    -80.183185,
+    36.078949,
+    -80.183185,
+    36.078949
+],
+  "geometry": {"coordinates":[-80.18318499999999,36.078949],"type":"Point"}
 }

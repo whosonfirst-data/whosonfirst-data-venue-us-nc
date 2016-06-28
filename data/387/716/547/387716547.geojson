@@ -2,13 +2,14 @@
   "id": 387716547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.145551,36.179353,-81.145551,36.179353",
     "geom:latitude":36.179353,
     "geom:longitude":-81.145551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Sparta Rd",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387716547,
-    "wof:lastmodified":1449056641,
+    "wof:lastmodified":1466657370,
     "wof:name":"Subway",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.145551,36.179353,-81.145551,36.179353],
+  "bbox": [
+    -81.145551,
+    36.179353,
+    -81.145551,
+    36.179353
+],
   "geometry": {"coordinates":[-81.145551,36.179353],"type":"Point"}
 }

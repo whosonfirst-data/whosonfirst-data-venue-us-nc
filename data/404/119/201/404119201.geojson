@@ -2,13 +2,14 @@
   "id": 404119201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.948877,34.237358,-77.948877,34.237358",
     "geom:latitude":34.237358,
     "geom:longitude":-77.948877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 N Front St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404119201,
-    "wof:lastmodified":1449039981,
+    "wof:lastmodified":1466652781,
     "wof:name":"USPO Accounting Department",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.948877,34.237358,-77.948877,34.237358],
+  "bbox": [
+    -77.948877,
+    34.237358,
+    -77.948877,
+    34.237358
+],
   "geometry": {"coordinates":[-77.948877,34.237358],"type":"Point"}
 }

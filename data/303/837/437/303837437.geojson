@@ -2,13 +2,14 @@
   "id": 303837437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.909086,34.517439,-77.909086,34.517439",
     "geom:latitude":34.517439,
     "geom:longitude":-77.909086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Main St",
     "sg:city":"Burgaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303837437,
-    "wof:lastmodified":1448998502,
+    "wof:lastmodified":1466655407,
     "wof:name":"Village Of St Helena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-77.909086,34.517439,-77.909086,34.517439],
+  "bbox": [
+    -77.909086,
+    34.517439,
+    -77.909086,
+    34.517439
+],
   "geometry": {"coordinates":[-77.909086,34.517439],"type":"Point"}
 }

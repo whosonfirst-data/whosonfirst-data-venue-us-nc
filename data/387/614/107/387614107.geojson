@@ -2,13 +2,14 @@
   "id": 387614107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.292701,36.078199,-80.292701,36.078199",
     "geom:latitude":36.078199,
     "geom:longitude":-80.292701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 S Hawthorne Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387614107,
-    "wof:lastmodified":1449060019,
+    "wof:lastmodified":1466656777,
     "wof:name":"Cyrus W Bazemore Jr DDS",
     "wof:parent_id":85881847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.292701,36.078199,-80.292701,36.078199],
-  "geometry": {"coordinates":[-80.292701,36.078199],"type":"Point"}
+  "bbox": [
+    -80.292701,
+    36.078199,
+    -80.292701,
+    36.078199
+],
+  "geometry": {"coordinates":[-80.29270099999999,36.078199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303711155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.663609,34.795032,-76.663609,34.795032",
     "geom:latitude":34.795032,
     "geom:longitude":-76.663609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Bell Creek Dr",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303711155,
-    "wof:lastmodified":1449000118,
+    "wof:lastmodified":1466653580,
     "wof:name":"Amerak Publications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-76.663609,34.795032,-76.663609,34.795032],
-  "geometry": {"coordinates":[-76.663609,34.795032],"type":"Point"}
+  "bbox": [
+    -76.663609,
+    34.795032,
+    -76.663609,
+    34.795032
+],
+  "geometry": {"coordinates":[-76.66360899999999,34.795032],"type":"Point"}
 }

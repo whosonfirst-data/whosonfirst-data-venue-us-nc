@@ -2,13 +2,14 @@
   "id": 236500523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.978485,36.413107,-78.978485,36.413107",
     "geom:latitude":36.413107,
     "geom:longitude":-78.978485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Ridge Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236500523,
-    "wof:lastmodified":1449002299,
+    "wof:lastmodified":1466647600,
     "wof:name":"Person High School",
     "wof:parent_id":85808801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "senior"
     ]
 },
-  "bbox": [-78.978485,36.413107,-78.978485,36.413107],
-  "geometry": {"coordinates":[-78.978485,36.413107],"type":"Point"}
+  "bbox": [
+    -78.978485,
+    36.413107,
+    -78.978485,
+    36.413107
+],
+  "geometry": {"coordinates":[-78.97848500000001,36.413107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219850037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.429572,34.752124,-77.429572,34.752124",
     "geom:latitude":34.752124,
     "geom:longitude":-77.429572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Chaney Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219850037,
-    "wof:lastmodified":1449072426,
+    "wof:lastmodified":1466647592,
     "wof:name":"Freedom Worship Center",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.429572,34.752124,-77.429572,34.752124],
-  "geometry": {"coordinates":[-77.429572,34.752124],"type":"Point"}
+  "bbox": [
+    -77.429572,
+    34.752124,
+    -77.429572,
+    34.752124
+],
+  "geometry": {"coordinates":[-77.42957199999999,34.752124],"type":"Point"}
 }

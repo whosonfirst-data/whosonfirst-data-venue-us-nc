@@ -2,13 +2,14 @@
   "id": 286951255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.890408,35.048349,-78.890408,35.048349",
     "geom:latitude":35.048349,
     "geom:longitude":-78.890408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"438 Robeson St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":286951255,
-    "wof:lastmodified":1449015294,
+    "wof:lastmodified":1466652538,
     "wof:name":"Contaminant Control Inc",
     "wof:parent_id":85847217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "removal"
     ]
 },
-  "bbox": [-78.890408,35.048349,-78.890408,35.048349],
-  "geometry": {"coordinates":[-78.890408,35.048349],"type":"Point"}
+  "bbox": [
+    -78.890408,
+    35.048349,
+    -78.890408,
+    35.048349
+],
+  "geometry": {"coordinates":[-78.89040799999999,35.048349],"type":"Point"}
 }

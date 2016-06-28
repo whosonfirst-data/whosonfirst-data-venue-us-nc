@@ -2,13 +2,14 @@
   "id": 370673265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.393841,35.597806,-77.393841,35.597806",
     "geom:latitude":35.597806,
     "geom:longitude":-77.393841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 Ione St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370673265,
-    "wof:lastmodified":1449030395,
+    "wof:lastmodified":1466654851,
     "wof:name":"Auto Locaters",
     "wof:parent_id":85853845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.393841,35.597806,-77.393841,35.597806],
-  "geometry": {"coordinates":[-77.393841,35.597806],"type":"Point"}
+  "bbox": [
+    -77.393841,
+    35.597806,
+    -77.393841,
+    35.597806
+],
+  "geometry": {"coordinates":[-77.39384099999999,35.597806],"type":"Point"}
 }

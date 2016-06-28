@@ -2,13 +2,14 @@
   "id": 219484515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.36244,35.731066,-81.36244,35.731066",
     "geom:latitude":35.731066,
     "geom:longitude":-81.36244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 14th St SW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219484515,
-    "wof:lastmodified":1449073704,
+    "wof:lastmodified":1466644783,
     "wof:name":"Gary's Carpet & Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-81.36244,35.731066,-81.36244,35.731066],
-  "geometry": {"coordinates":[-81.36244,35.731066],"type":"Point"}
+  "bbox": [
+    -81.36244,
+    35.731066,
+    -81.36244,
+    35.731066
+],
+  "geometry": {"coordinates":[-81.36244000000001,35.731066],"type":"Point"}
 }

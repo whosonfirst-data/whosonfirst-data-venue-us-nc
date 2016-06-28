@@ -2,13 +2,14 @@
   "id": 403759201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.65183,35.903743,-79.65183,35.903743",
     "geom:latitude":35.903743,
     "geom:longitude":-79.65183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4497 Folger Rd",
     "sg:city":"Julian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403759201,
-    "wof:lastmodified":1449055991,
+    "wof:lastmodified":1466651058,
     "wof:name":"Battleground Starter Generator",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "generator"
     ]
 },
-  "bbox": [-79.65183,35.903743,-79.65183,35.903743],
+  "bbox": [
+    -79.65183,
+    35.903743,
+    -79.65183,
+    35.903743
+],
   "geometry": {"coordinates":[-79.65183,35.903743],"type":"Point"}
 }

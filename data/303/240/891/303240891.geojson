@@ -2,13 +2,14 @@
   "id": 303240891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.335169,35.561745,-77.335169,35.561745",
     "geom:latitude":35.561745,
     "geom:longitude":-77.335169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 Bells Fork Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303240891,
-    "wof:lastmodified":1448998376,
+    "wof:lastmodified":1466646811,
     "wof:name":"O&M Holdings LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "holding"
     ]
 },
-  "bbox": [-77.335169,35.561745,-77.335169,35.561745],
-  "geometry": {"coordinates":[-77.335169,35.561745],"type":"Point"}
+  "bbox": [
+    -77.335169,
+    35.561745,
+    -77.335169,
+    35.561745
+],
+  "geometry": {"coordinates":[-77.33516899999999,35.561745],"type":"Point"}
 }

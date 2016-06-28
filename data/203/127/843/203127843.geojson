@@ -2,13 +2,14 @@
   "id": 203127843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.679544,35.879236,-78.679544,35.879236",
     "geom:latitude":35.879236,
     "geom:longitude":-78.679544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8609 Keegan Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203127843,
-    "wof:lastmodified":1449026707,
+    "wof:lastmodified":1466654922,
     "wof:name":"Warda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-78.679544,35.879236,-78.679544,35.879236],
-  "geometry": {"coordinates":[-78.679544,35.879236],"type":"Point"}
+  "bbox": [
+    -78.679544,
+    35.879236,
+    -78.679544,
+    35.879236
+],
+  "geometry": {"coordinates":[-78.67954400000001,35.879236],"type":"Point"}
 }

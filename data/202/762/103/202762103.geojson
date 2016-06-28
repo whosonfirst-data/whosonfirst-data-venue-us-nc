@@ -2,13 +2,14 @@
   "id": 202762103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.706055,34.334484,-78.706055,34.334484",
     "geom:latitude":34.334484,
     "geom:longitude":-78.706055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 N Lee St",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202762103,
-    "wof:lastmodified":1449061894,
+    "wof:lastmodified":1466643886,
     "wof:name":"Church Of God Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-78.706055,34.334484,-78.706055,34.334484],
-  "geometry": {"coordinates":[-78.706055,34.334484],"type":"Point"}
+  "bbox": [
+    -78.706055,
+    34.334484,
+    -78.706055,
+    34.334484
+],
+  "geometry": {"coordinates":[-78.70605500000001,34.334484],"type":"Point"}
 }

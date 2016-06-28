@@ -2,13 +2,14 @@
   "id": 370445705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.798702,36.025751,-79.798702,36.025751",
     "geom:latitude":36.025751,
     "geom:longitude":-79.798702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2507 Greengate Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370445705,
-    "wof:lastmodified":1449029549,
+    "wof:lastmodified":1466651870,
     "wof:name":"DBJ Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [-79.798702,36.025751,-79.798702,36.025751],
-  "geometry": {"coordinates":[-79.798702,36.025751],"type":"Point"}
+  "bbox": [
+    -79.798702,
+    36.025751,
+    -79.798702,
+    36.025751
+],
+  "geometry": {"coordinates":[-79.79870200000001,36.025751],"type":"Point"}
 }

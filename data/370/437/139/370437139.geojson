@@ -2,13 +2,14 @@
   "id": 370437139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.905121,35.053686,-78.905121,35.053686",
     "geom:latitude":35.053686,
     "geom:longitude":-78.905121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Dobbin Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370437139,
-    "wof:lastmodified":1449031538,
+    "wof:lastmodified":1466651764,
     "wof:name":"Lewis Builders",
     "wof:parent_id":85824371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.905121,35.053686,-78.905121,35.053686],
-  "geometry": {"coordinates":[-78.905121,35.053686],"type":"Point"}
+  "bbox": [
+    -78.905121,
+    35.053686,
+    -78.905121,
+    35.053686
+],
+  "geometry": {"coordinates":[-78.90512099999999,35.053686],"type":"Point"}
 }

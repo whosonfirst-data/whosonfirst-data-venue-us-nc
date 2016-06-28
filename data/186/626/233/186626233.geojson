@@ -2,13 +2,14 @@
   "id": 186626233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.315612,36.066152,-80.315612,36.066152",
     "geom:latitude":36.066152,
     "geom:longitude":-80.315612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1072 Hanes Mall Blvd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186626233,
-    "wof:lastmodified":1449053032,
+    "wof:lastmodified":1466654973,
     "wof:name":"Hanes Point Shopping Ctr",
     "wof:parent_id":85881845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-80.315612,36.066152,-80.315612,36.066152],
+  "bbox": [
+    -80.315612,
+    36.066152,
+    -80.315612,
+    36.066152
+],
   "geometry": {"coordinates":[-80.315612,36.066152],"type":"Point"}
 }

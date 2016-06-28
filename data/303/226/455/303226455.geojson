@@ -2,13 +2,14 @@
   "id": 303226455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.510238,35.57822,-82.510238,35.57822",
     "geom:latitude":35.57822,
     "geom:longitude":-82.510238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Truckers Pl",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303226455,
-    "wof:lastmodified":1448999894,
+    "wof:lastmodified":1466646599,
     "wof:name":"Asheville Fleet Svc",
     "wof:parent_id":85806005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-82.510238,35.57822,-82.510238,35.57822],
+  "bbox": [
+    -82.510238,
+    35.57822,
+    -82.510238,
+    35.57822
+],
   "geometry": {"coordinates":[-82.510238,35.57822],"type":"Point"}
 }

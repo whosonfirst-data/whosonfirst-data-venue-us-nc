@@ -2,13 +2,14 @@
   "id": 404119245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949542,36.437004,-77.949542,36.437004",
     "geom:latitude":36.437004,
     "geom:longitude":-77.949542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 John Skinner Rd",
     "sg:city":"Littleton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404119245,
-    "wof:lastmodified":1449039981,
+    "wof:lastmodified":1466652782,
     "wof:name":"Professional Plumbing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.949542,36.437004,-77.949542,36.437004],
-  "geometry": {"coordinates":[-77.949542,36.437004],"type":"Point"}
+  "bbox": [
+    -77.949542,
+    36.437004,
+    -77.949542,
+    36.437004
+],
+  "geometry": {"coordinates":[-77.94954199999999,36.437004],"type":"Point"}
 }

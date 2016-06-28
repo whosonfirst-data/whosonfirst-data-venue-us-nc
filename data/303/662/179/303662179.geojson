@@ -2,13 +2,14 @@
   "id": 303662179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.37561,35.609233,-77.37561,35.609233",
     "geom:latitude":35.609233,
     "geom:longitude":-77.37561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 W 8th St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303662179,
-    "wof:lastmodified":1448999772,
+    "wof:lastmodified":1466652862,
     "wof:name":"Pasco Concrete Construction",
     "wof:parent_id":85811829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.37561,35.609233,-77.37561,35.609233],
-  "geometry": {"coordinates":[-77.37561,35.609233],"type":"Point"}
+  "bbox": [
+    -77.37561,
+    35.609233,
+    -77.37561,
+    35.609233
+],
+  "geometry": {"coordinates":[-77.37560999999999,35.609233],"type":"Point"}
 }

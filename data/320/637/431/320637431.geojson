@@ -2,13 +2,14 @@
   "id": 320637431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.628425,35.741808,-78.628425,35.741808",
     "geom:latitude":35.741808,
     "geom:longitude":-78.628425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Hilltop Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320637431,
-    "wof:lastmodified":1449011261,
+    "wof:lastmodified":1466654374,
     "wof:name":"Seminary Lane Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.628425,35.741808,-78.628425,35.741808],
-  "geometry": {"coordinates":[-78.628425,35.741808],"type":"Point"}
+  "bbox": [
+    -78.628425,
+    35.741808,
+    -78.628425,
+    35.741808
+],
+  "geometry": {"coordinates":[-78.62842499999999,35.741808],"type":"Point"}
 }

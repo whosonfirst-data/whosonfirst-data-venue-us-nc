@@ -2,13 +2,14 @@
   "id": 253689193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.586903,35.578739,-82.586903,35.578739",
     "geom:latitude":35.578739,
     "geom:longitude":-82.586903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Martin Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253689193,
-    "wof:lastmodified":1449065267,
+    "wof:lastmodified":1466650615,
     "wof:name":"3D At Keller Williams Pro",
     "wof:parent_id":85842077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.586903,35.578739,-82.586903,35.578739],
-  "geometry": {"coordinates":[-82.586903,35.578739],"type":"Point"}
+  "bbox": [
+    -82.586903,
+    35.578739,
+    -82.586903,
+    35.578739
+],
+  "geometry": {"coordinates":[-82.58690300000001,35.578739],"type":"Point"}
 }

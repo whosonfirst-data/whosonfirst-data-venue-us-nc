@@ -2,13 +2,14 @@
   "id": 286915319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.040531,35.546969,-77.040531,35.546969",
     "geom:latitude":35.546969,
     "geom:longitude":-77.040531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 John Small Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286915319,
-    "wof:lastmodified":1449018050,
+    "wof:lastmodified":1466652034,
     "wof:name":"Brownie Bakery",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-77.040531,35.546969,-77.040531,35.546969],
+  "bbox": [
+    -77.040531,
+    35.546969,
+    -77.040531,
+    35.546969
+],
   "geometry": {"coordinates":[-77.040531,35.546969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303562631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815692,35.325549,-79.815692,35.325549",
     "geom:latitude":35.325549,
     "geom:longitude":-79.815692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 Cedar Creek Rd",
     "sg:city":"Biscoe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303562631,
-    "wof:lastmodified":1448999418,
+    "wof:lastmodified":1466651420,
     "wof:name":"Avon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sales"
     ]
 },
-  "bbox": [-79.815692,35.325549,-79.815692,35.325549],
+  "bbox": [
+    -79.815692,
+    35.325549,
+    -79.815692,
+    35.325549
+],
   "geometry": {"coordinates":[-79.815692,35.325549],"type":"Point"}
 }

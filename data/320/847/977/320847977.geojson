@@ -2,13 +2,14 @@
   "id": 320847977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.340161,36.069576,-80.340161,36.069576",
     "geom:latitude":36.069576,
     "geom:longitude":-80.340161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Jonestown Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320847977,
-    "wof:lastmodified":1449012639,
+    "wof:lastmodified":1466656908,
     "wof:name":"Magnum Car Wash",
     "wof:parent_id":85827611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-80.340161,36.069576,-80.340161,36.069576],
-  "geometry": {"coordinates":[-80.340161,36.069576],"type":"Point"}
+  "bbox": [
+    -80.340161,
+    36.069576,
+    -80.340161,
+    36.069576
+],
+  "geometry": {"coordinates":[-80.34016099999999,36.069576],"type":"Point"}
 }

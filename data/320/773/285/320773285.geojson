@@ -2,13 +2,14 @@
   "id": 320773285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.075189,35.871741,-80.075189,35.871741",
     "geom:latitude":35.871741,
     "geom:longitude":-80.075189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Randolph St",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320773285,
-    "wof:lastmodified":1449011722,
+    "wof:lastmodified":1466656312,
     "wof:name":"Blooming Deal's Consignment St",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-80.075189,35.871741,-80.075189,35.871741],
-  "geometry": {"coordinates":[-80.075189,35.871741],"type":"Point"}
+  "bbox": [
+    -80.075189,
+    35.871741,
+    -80.075189,
+    35.871741
+],
+  "geometry": {"coordinates":[-80.07518899999999,35.871741],"type":"Point"}
 }

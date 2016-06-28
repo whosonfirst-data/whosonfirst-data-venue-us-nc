@@ -2,13 +2,14 @@
   "id": 387648951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.576961,35.348518,-77.576961,35.348518",
     "geom:latitude":35.348518,
     "geom:longitude":-77.576961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 McDaniel Gray Rd",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387648951,
-    "wof:lastmodified":1449057136,
+    "wof:lastmodified":1466657265,
     "wof:name":"W H McDaniel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-77.576961,35.348518,-77.576961,35.348518],
+  "bbox": [
+    -77.576961,
+    35.348518,
+    -77.576961,
+    35.348518
+],
   "geometry": {"coordinates":[-77.576961,35.348518],"type":"Point"}
 }

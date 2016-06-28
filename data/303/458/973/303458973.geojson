@@ -2,13 +2,14 @@
   "id": 303458973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.911273,36.507951,-75.911273,36.507951",
     "geom:latitude":36.507951,
     "geom:longitude":-75.911273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10100 Buffalo Rd",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303458973,
-    "wof:lastmodified":1448999857,
+    "wof:lastmodified":1466649936,
     "wof:name":"Hilliard & Hilliard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "training"
     ]
 },
-  "bbox": [-75.911273,36.507951,-75.911273,36.507951],
-  "geometry": {"coordinates":[-75.911273,36.507951],"type":"Point"}
+  "bbox": [
+    -75.911273,
+    36.507951,
+    -75.911273,
+    36.507951
+],
+  "geometry": {"coordinates":[-75.91127299999999,36.507951],"type":"Point"}
 }

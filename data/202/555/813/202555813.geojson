@@ -2,13 +2,14 @@
   "id": 202555813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.706769,34.889984,-79.706769,34.889984",
     "geom:latitude":34.889984,
     "geom:longitude":-79.706769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Minturn Ave",
     "sg:city":"Hamlet",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202555813,
-    "wof:lastmodified":1449062290,
+    "wof:lastmodified":1466655325,
     "wof:name":"McCallum Well Drilling Co",
     "wof:parent_id":85836761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drilling"
     ]
 },
-  "bbox": [-79.706769,34.889984,-79.706769,34.889984],
-  "geometry": {"coordinates":[-79.706769,34.889984],"type":"Point"}
+  "bbox": [
+    -79.706769,
+    34.889984,
+    -79.706769,
+    34.889984
+],
+  "geometry": {"coordinates":[-79.70676899999999,34.889984],"type":"Point"}
 }

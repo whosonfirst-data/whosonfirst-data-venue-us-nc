@@ -2,13 +2,14 @@
   "id": 387448913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.864186,35.22708,-80.864186,35.22708",
     "geom:latitude":35.22708,
     "geom:longitude":-80.864186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 S Summit Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387448913,
-    "wof:lastmodified":1449059738,
+    "wof:lastmodified":1466655751,
     "wof:name":"Velocity",
     "wof:parent_id":85855143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-80.864186,35.22708,-80.864186,35.22708],
+  "bbox": [
+    -80.864186,
+    35.22708,
+    -80.864186,
+    35.22708
+],
   "geometry": {"coordinates":[-80.864186,35.22708],"type":"Point"}
 }

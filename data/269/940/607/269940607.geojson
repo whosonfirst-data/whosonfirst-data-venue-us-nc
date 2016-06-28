@@ -2,13 +2,14 @@
   "id": 269940607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.049,35.551099,-77.049,35.551099",
     "geom:latitude":35.551099,
     "geom:longitude":-77.049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 N Market St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269940607,
-    "wof:lastmodified":1449036730,
+    "wof:lastmodified":1466648631,
     "wof:name":"St Joseph's Anglican Church",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.049,35.551099,-77.049,35.551099],
-  "geometry": {"coordinates":[-77.049,35.551099],"type":"Point"}
+  "bbox": [
+    -77.049,
+    35.551099,
+    -77.049,
+    35.551099
+],
+  "geometry": {"coordinates":[-77.04900000000001,35.551099],"type":"Point"}
 }

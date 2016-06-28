@@ -2,13 +2,14 @@
   "id": 269940473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.230466,35.320295,-77.230466,35.320295",
     "geom:latitude":35.320295,
     "geom:longitude":-77.230466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Nelson Rd",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269940473,
-    "wof:lastmodified":1449036731,
+    "wof:lastmodified":1466648630,
     "wof:name":"Oak Ridge Mobile Home Park",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-77.230466,35.320295,-77.230466,35.320295],
-  "geometry": {"coordinates":[-77.230466,35.320295],"type":"Point"}
+  "bbox": [
+    -77.230466,
+    35.320295,
+    -77.230466,
+    35.320295
+],
+  "geometry": {"coordinates":[-77.23046600000001,35.320295],"type":"Point"}
 }

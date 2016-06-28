@@ -2,13 +2,14 @@
   "id": 286625675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.856654,35.773515,-78.856654,35.773515",
     "geom:latitude":35.773515,
     "geom:longitude":-78.856654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Crossmore Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286625675,
-    "wof:lastmodified":1449018134,
+    "wof:lastmodified":1466648078,
     "wof:name":"Madras Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-78.856654,35.773515,-78.856654,35.773515],
-  "geometry": {"coordinates":[-78.856654,35.773515],"type":"Point"}
+  "bbox": [
+    -78.856654,
+    35.773515,
+    -78.856654,
+    35.773515
+],
+  "geometry": {"coordinates":[-78.85665400000001,35.773515],"type":"Point"}
 }

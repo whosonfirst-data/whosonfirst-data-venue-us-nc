@@ -2,13 +2,14 @@
   "id": 387011981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.088816,36.439808,-77.088816,36.439808",
     "geom:latitude":36.439808,
     "geom:longitude":-77.088816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Beachwood Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387011981,
-    "wof:lastmodified":1449059231,
+    "wof:lastmodified":1466650026,
     "wof:name":"Roanack Chowan Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-77.088816,36.439808,-77.088816,36.439808],
-  "geometry": {"coordinates":[-77.088816,36.439808],"type":"Point"}
+  "bbox": [
+    -77.088816,
+    36.439808,
+    -77.088816,
+    36.439808
+],
+  "geometry": {"coordinates":[-77.08881599999999,36.439808],"type":"Point"}
 }

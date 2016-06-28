@@ -2,13 +2,14 @@
   "id": 320576925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.925352,34.199093,-77.925352,34.199093",
     "geom:latitude":34.199093,
     "geom:longitude":-77.925352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Physicians Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320576925,
-    "wof:lastmodified":1449014100,
+    "wof:lastmodified":1466653496,
     "wof:name":"Cape Fear Diagnostic Imaging",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.925352,34.199093,-77.925352,34.199093],
+  "bbox": [
+    -77.925352,
+    34.199093,
+    -77.925352,
+    34.199093
+],
   "geometry": {"coordinates":[-77.925352,34.199093],"type":"Point"}
 }

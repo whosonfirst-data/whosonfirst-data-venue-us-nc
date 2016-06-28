@@ -2,13 +2,14 @@
   "id": 202395073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949033,34.237406,-77.949033,34.237406",
     "geom:latitude":34.237406,
     "geom:longitude":-77.949033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 N Front St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202395073,
-    "wof:lastmodified":1449062285,
+    "wof:lastmodified":1466654176,
     "wof:name":"Sand Dollar",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-77.949033,34.237406,-77.949033,34.237406],
+  "bbox": [
+    -77.949033,
+    34.237406,
+    -77.949033,
+    34.237406
+],
   "geometry": {"coordinates":[-77.949033,34.237406],"type":"Point"}
 }

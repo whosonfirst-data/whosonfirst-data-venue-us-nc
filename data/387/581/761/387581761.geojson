@@ -2,13 +2,14 @@
   "id": 387581761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.589432,35.575165,-82.589432,35.575165",
     "geom:latitude":35.575165,
     "geom:longitude":-82.589432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Nevada Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387581761,
-    "wof:lastmodified":1449056904,
+    "wof:lastmodified":1466656740,
     "wof:name":"Glen Alper",
     "wof:parent_id":85824401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-82.589432,35.575165,-82.589432,35.575165],
+  "bbox": [
+    -82.589432,
+    35.575165,
+    -82.589432,
+    35.575165
+],
   "geometry": {"coordinates":[-82.589432,35.575165],"type":"Point"}
 }

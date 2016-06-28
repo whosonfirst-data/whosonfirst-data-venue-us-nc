@@ -2,13 +2,14 @@
   "id": 370798849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.041886,35.238721,-81.041886,35.238721",
     "geom:latitude":35.238721,
     "geom:longitude":-81.041886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 S Main St",
     "sg:city":"Boiling Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370798849,
-    "wof:lastmodified":1449029722,
+    "wof:lastmodified":1466656157,
     "wof:name":"Edgerton Chiropractic",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.041886,35.238721,-81.041886,35.238721],
-  "geometry": {"coordinates":[-81.041886,35.238721],"type":"Point"}
+  "bbox": [
+    -81.041886,
+    35.238721,
+    -81.041886,
+    35.238721
+],
+  "geometry": {"coordinates":[-81.04188600000001,35.238721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403808533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.147034,35.715149,-81.147034,35.715149",
     "geom:latitude":35.715149,
     "geom:longitude":-81.147034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Depot St",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403808533,
-    "wof:lastmodified":1449054682,
+    "wof:lastmodified":1466651692,
     "wof:name":"Statesville Downtown Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.147034,35.715149,-81.147034,35.715149],
+  "bbox": [
+    -81.147034,
+    35.715149,
+    -81.147034,
+    35.715149
+],
   "geometry": {"coordinates":[-81.147034,35.715149],"type":"Point"}
 }

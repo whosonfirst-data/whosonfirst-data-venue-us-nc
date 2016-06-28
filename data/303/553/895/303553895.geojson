@@ -2,13 +2,14 @@
   "id": 303553895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.610408,34.628785,-78.610408,34.628785",
     "geom:latitude":34.628785,
     "geom:longitude":-78.610408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W King St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303553895,
-    "wof:lastmodified":1448998131,
+    "wof:lastmodified":1466651294,
     "wof:name":"Thompson Price Scott & Adams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-78.610408,34.628785,-78.610408,34.628785],
-  "geometry": {"coordinates":[-78.610408,34.628785],"type":"Point"}
+  "bbox": [
+    -78.610408,
+    34.628785,
+    -78.610408,
+    34.628785
+],
+  "geometry": {"coordinates":[-78.61040800000001,34.628785],"type":"Point"}
 }

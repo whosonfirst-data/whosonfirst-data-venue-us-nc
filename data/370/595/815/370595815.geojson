@@ -2,13 +2,14 @@
   "id": 370595815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.656965,35.724916,-78.656965,35.724916",
     "geom:latitude":35.724916,
     "geom:longitude":-78.656965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Garner Station Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370595815,
-    "wof:lastmodified":1449032148,
+    "wof:lastmodified":1466653831,
     "wof:name":"Fenway Sports Bar & Grill",
     "wof:parent_id":85892051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-78.656965,35.724916,-78.656965,35.724916],
+  "bbox": [
+    -78.656965,
+    35.724916,
+    -78.656965,
+    35.724916
+],
   "geometry": {"coordinates":[-78.656965,35.724916],"type":"Point"}
 }

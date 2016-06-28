@@ -2,13 +2,14 @@
   "id": 336962829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254261,36.105003,-80.254261,36.105003",
     "geom:latitude":36.105003,
     "geom:longitude":-80.254261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Chatham Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336962829,
-    "wof:lastmodified":1448997576,
+    "wof:lastmodified":1466651363,
     "wof:name":"Airnow Co",
     "wof:parent_id":85881851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "compressor"
     ]
 },
-  "bbox": [-80.254261,36.105003,-80.254261,36.105003],
+  "bbox": [
+    -80.254261,
+    36.105003,
+    -80.254261,
+    36.105003
+],
   "geometry": {"coordinates":[-80.254261,36.105003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403710045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.706389,34.373669,-78.706389,34.373669",
     "geom:latitude":34.373669,
     "geom:longitude":-78.706389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Magnolia Ct",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403710045,
-    "wof:lastmodified":1449054715,
+    "wof:lastmodified":1466650425,
     "wof:name":"Southeastern Asthma & Allergy",
     "wof:parent_id":85846389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.706389,34.373669,-78.706389,34.373669],
+  "bbox": [
+    -78.706389,
+    34.373669,
+    -78.706389,
+    34.373669
+],
   "geometry": {"coordinates":[-78.706389,34.373669],"type":"Point"}
 }

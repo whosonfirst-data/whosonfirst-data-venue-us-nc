@@ -2,13 +2,14 @@
   "id": 403915439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.41315,35.347577,-79.41315,35.347577",
     "geom:latitude":35.347577,
     "geom:longitude":-79.41315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N McNeill St",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403915439,
-    "wof:lastmodified":1449055940,
+    "wof:lastmodified":1466653095,
     "wof:name":"El Chapala",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.41315,35.347577,-79.41315,35.347577],
+  "bbox": [
+    -79.41315,
+    35.347577,
+    -79.41315,
+    35.347577
+],
   "geometry": {"coordinates":[-79.41315,35.347577],"type":"Point"}
 }

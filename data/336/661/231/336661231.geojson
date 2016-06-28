@@ -2,13 +2,14 @@
   "id": 336661231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.404468,36.097152,-79.404468,36.097152",
     "geom:latitude":36.097152,
     "geom:longitude":-79.404468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1946 Martin St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336661231,
-    "wof:lastmodified":1448997902,
+    "wof:lastmodified":1466646792,
     "wof:name":"Alamance County Transportation",
     "wof:parent_id":85838431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "line"
     ]
 },
-  "bbox": [-79.404468,36.097152,-79.404468,36.097152],
-  "geometry": {"coordinates":[-79.404468,36.097152],"type":"Point"}
+  "bbox": [
+    -79.404468,
+    36.097152,
+    -79.404468,
+    36.097152
+],
+  "geometry": {"coordinates":[-79.40446799999999,36.097152],"type":"Point"}
 }

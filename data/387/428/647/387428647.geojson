@@ -2,13 +2,14 @@
   "id": 387428647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.472244,35.165831,-79.472244,35.165831",
     "geom:latitude":35.165831,
     "geom:longitude":-79.472244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Dawkins St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387428647,
-    "wof:lastmodified":1449059662,
+    "wof:lastmodified":1466655484,
     "wof:name":"El Vaquero",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.472244,35.165831,-79.472244,35.165831],
+  "bbox": [
+    -79.472244,
+    35.165831,
+    -79.472244,
+    35.165831
+],
   "geometry": {"coordinates":[-79.472244,35.165831],"type":"Point"}
 }

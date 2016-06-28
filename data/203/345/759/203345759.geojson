@@ -2,13 +2,14 @@
   "id": 203345759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.766945,35.533853,-79.766945,35.533853",
     "geom:latitude":35.533853,
     "geom:longitude":-79.766945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"933 State Hwy 705",
     "sg:city":"Seagrove",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203345759,
-    "wof:lastmodified":1449026720,
+    "wof:lastmodified":1466643575,
     "wof:name":"Cagle Surveys",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.766945,35.533853,-79.766945,35.533853],
-  "geometry": {"coordinates":[-79.766945,35.533853],"type":"Point"}
+  "bbox": [
+    -79.766945,
+    35.533853,
+    -79.766945,
+    35.533853
+],
+  "geometry": {"coordinates":[-79.76694500000001,35.533853],"type":"Point"}
 }

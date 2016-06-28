@@ -2,13 +2,14 @@
   "id": 320070881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.957303,34.978488,-78.957303,34.978488",
     "geom:latitude":34.978488,
     "geom:longitude":-78.957303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3202 N Main St",
     "sg:city":"Hope Mills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320070881,
-    "wof:lastmodified":1449013085,
+    "wof:lastmodified":1466646301,
     "wof:name":"C Bruce Armstrong",
     "wof:parent_id":85822199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.957303,34.978488,-78.957303,34.978488],
+  "bbox": [
+    -78.957303,
+    34.978488,
+    -78.957303,
+    34.978488
+],
   "geometry": {"coordinates":[-78.957303,34.978488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354268867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.337298,34.759298,-77.337298,34.759298",
     "geom:latitude":34.759298,
     "geom:longitude":-77.337298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1363 Piney Green Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354268867,
-    "wof:lastmodified":1449066919,
+    "wof:lastmodified":1466650636,
     "wof:name":"Harris Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.337298,34.759298,-77.337298,34.759298],
+  "bbox": [
+    -77.337298,
+    34.759298,
+    -77.337298,
+    34.759298
+],
   "geometry": {"coordinates":[-77.337298,34.759298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202949187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.445118,35.34995,-81.445118,35.34995",
     "geom:latitude":35.34995,
     "geom:longitude":-81.445118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Cherryville Rd",
     "sg:city":"Cherryville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202949187,
-    "wof:lastmodified":1449061680,
+    "wof:lastmodified":1466645327,
     "wof:name":"Lake Corner Convenience",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.445118,35.34995,-81.445118,35.34995],
-  "geometry": {"coordinates":[-81.445118,35.34995],"type":"Point"}
+  "bbox": [
+    -81.445118,
+    35.34995,
+    -81.445118,
+    35.34995
+],
+  "geometry": {"coordinates":[-81.44511799999999,35.34995],"type":"Point"}
 }

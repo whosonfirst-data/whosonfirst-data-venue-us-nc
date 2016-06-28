@@ -2,13 +2,14 @@
   "id": 303510379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.44613,35.638654,-78.44613,35.638654",
     "geom:latitude":35.638654,
     "geom:longitude":-78.44613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9939 US Hwy 70 W",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303510379,
-    "wof:lastmodified":1448999592,
+    "wof:lastmodified":1466650668,
     "wof:name":"Cambridge Builders",
     "wof:parent_id":85854199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.44613,35.638654,-78.44613,35.638654],
+  "bbox": [
+    -78.44613,
+    35.638654,
+    -78.44613,
+    35.638654
+],
   "geometry": {"coordinates":[-78.44613,35.638654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320829595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.938594,34.198893,-77.938594,34.198893",
     "geom:latitude":34.198893,
     "geom:longitude":-77.938594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2370 Carolina Beach Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320829595,
-    "wof:lastmodified":1449014718,
+    "wof:lastmodified":1466656592,
     "wof:name":"Wilmington Auto Works",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-77.938594,34.198893,-77.938594,34.198893],
-  "geometry": {"coordinates":[-77.938594,34.198893],"type":"Point"}
+  "bbox": [
+    -77.938594,
+    34.198893,
+    -77.938594,
+    34.198893
+],
+  "geometry": {"coordinates":[-77.93859399999999,34.198893],"type":"Point"}
 }

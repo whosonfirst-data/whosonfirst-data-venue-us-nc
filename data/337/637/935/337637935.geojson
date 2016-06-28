@@ -2,13 +2,14 @@
   "id": 337637935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.506211,35.786269,-78.506211,35.786269",
     "geom:latitude":35.786269,
     "geom:longitude":-78.506211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Clay Hill Dr",
     "sg:city":"Knightdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337637935,
-    "wof:lastmodified":1449026934,
+    "wof:lastmodified":1466648073,
     "wof:name":"House & Home of Knightdale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.506211,35.786269,-78.506211,35.786269],
-  "geometry": {"coordinates":[-78.506211,35.786269],"type":"Point"}
+  "bbox": [
+    -78.506211,
+    35.786269,
+    -78.506211,
+    35.786269
+],
+  "geometry": {"coordinates":[-78.50621099999999,35.786269],"type":"Point"}
 }

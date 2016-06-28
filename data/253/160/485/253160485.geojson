@@ -2,13 +2,14 @@
   "id": 253160485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.446368,34.77089,-79.446368,34.77089",
     "geom:latitude":34.77089,
     "geom:longitude":-79.446368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 3rd St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253160485,
-    "wof:lastmodified":1449065297,
+    "wof:lastmodified":1466644705,
     "wof:name":"Waverly Mills Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "yarn"
     ]
 },
-  "bbox": [-79.446368,34.77089,-79.446368,34.77089],
-  "geometry": {"coordinates":[-79.446368,34.77089],"type":"Point"}
+  "bbox": [
+    -79.446368,
+    34.77089,
+    -79.446368,
+    34.77089
+],
+  "geometry": {"coordinates":[-79.44636800000001,34.77089],"type":"Point"}
 }

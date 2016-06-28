@@ -2,13 +2,14 @@
   "id": 320582309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.638702,35.749502,-79.638702,35.749502",
     "geom:latitude":35.749502,
     "geom:longitude":-79.638702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Oakland Church Rd",
     "sg:city":"Ramseur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320582309,
-    "wof:lastmodified":1449013270,
+    "wof:lastmodified":1466653575,
     "wof:name":"Oakland Baptist Church",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.638702,35.749502,-79.638702,35.749502],
-  "geometry": {"coordinates":[-79.638702,35.749502],"type":"Point"}
+  "bbox": [
+    -79.638702,
+    35.749502,
+    -79.638702,
+    35.749502
+],
+  "geometry": {"coordinates":[-79.63870199999999,35.749502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353590315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.048842,34.62207,-79.048842,34.62207",
     "geom:latitude":34.62207,
     "geom:longitude":-79.048842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 W 5th St",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353590315,
-    "wof:lastmodified":1449019791,
+    "wof:lastmodified":1466649296,
     "wof:name":"Dobb's Mobile Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.048842,34.62207,-79.048842,34.62207],
-  "geometry": {"coordinates":[-79.048842,34.62207],"type":"Point"}
+  "bbox": [
+    -79.048842,
+    34.62207,
+    -79.048842,
+    34.62207
+],
+  "geometry": {"coordinates":[-79.04884199999999,34.62207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336852235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.620472,35.808377,-78.620472,35.808377",
     "geom:latitude":35.808377,
     "geom:longitude":-78.620472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 Atlantic Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336852235,
-    "wof:lastmodified":1448997851,
+    "wof:lastmodified":1466649682,
     "wof:name":"Furnishing Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-78.620472,35.808377,-78.620472,35.808377],
-  "geometry": {"coordinates":[-78.620472,35.808377],"type":"Point"}
+  "bbox": [
+    -78.620472,
+    35.808377,
+    -78.620472,
+    35.808377
+],
+  "geometry": {"coordinates":[-78.62047200000001,35.808377],"type":"Point"}
 }

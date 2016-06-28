@@ -2,13 +2,14 @@
   "id": 303280909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.47674,35.709352,-81.47674,35.709352",
     "geom:latitude":35.709352,
     "geom:longitude":-81.47674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4088 Owens Mountain Ave",
     "sg:city":"Connellys Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303280909,
-    "wof:lastmodified":1448999318,
+    "wof:lastmodified":1466647400,
     "wof:name":"M&F Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.47674,35.709352,-81.47674,35.709352],
-  "geometry": {"coordinates":[-81.47674,35.709352],"type":"Point"}
+  "bbox": [
+    -81.47674,
+    35.709352,
+    -81.47674,
+    35.709352
+],
+  "geometry": {"coordinates":[-81.47674000000001,35.709352],"type":"Point"}
 }

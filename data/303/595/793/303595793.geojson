@@ -2,13 +2,14 @@
   "id": 303595793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.425592,36.206143,-78.425592,36.206143",
     "geom:latitude":36.206143,
     "geom:longitude":-78.425592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Moss Stock Farm Rd",
     "sg:city":"Kittrell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303595793,
-    "wof:lastmodified":1449000329,
+    "wof:lastmodified":1466651886,
     "wof:name":"Moss Stock Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "livestock"
     ]
 },
-  "bbox": [-78.425592,36.206143,-78.425592,36.206143],
-  "geometry": {"coordinates":[-78.425592,36.206143],"type":"Point"}
+  "bbox": [
+    -78.425592,
+    36.206143,
+    -78.425592,
+    36.206143
+],
+  "geometry": {"coordinates":[-78.42559199999999,36.206143],"type":"Point"}
 }

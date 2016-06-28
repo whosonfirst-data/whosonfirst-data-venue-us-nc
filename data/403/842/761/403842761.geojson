@@ -2,13 +2,14 @@
   "id": 403842761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.909095,34.22372,-77.909095,34.22372",
     "geom:latitude":34.22372,
     "geom:longitude":-77.909095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Essex Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403842761,
-    "wof:lastmodified":1449054735,
+    "wof:lastmodified":1466652179,
     "wof:name":"Majacal Partners LLC",
     "wof:parent_id":85849921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.909095,34.22372,-77.909095,34.22372],
-  "geometry": {"coordinates":[-77.909095,34.22372],"type":"Point"}
+  "bbox": [
+    -77.909095,
+    34.22372,
+    -77.909095,
+    34.22372
+],
+  "geometry": {"coordinates":[-77.90909499999999,34.22372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286629843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.380559,36.273085,-78.380559,36.273085",
     "geom:latitude":36.273085,
     "geom:longitude":-78.380559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Bear Pond Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":286629843,
-    "wof:lastmodified":1449017436,
+    "wof:lastmodified":1466648138,
     "wof:name":"Brummitts Furniture Barn",
     "wof:parent_id":85857977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "furniture"
     ]
 },
-  "bbox": [-78.380559,36.273085,-78.380559,36.273085],
-  "geometry": {"coordinates":[-78.380559,36.273085],"type":"Point"}
+  "bbox": [
+    -78.380559,
+    36.273085,
+    -78.380559,
+    36.273085
+],
+  "geometry": {"coordinates":[-78.38055900000001,36.273085],"type":"Point"}
 }

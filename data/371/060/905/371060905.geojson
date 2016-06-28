@@ -2,13 +2,14 @@
   "id": 371060905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.403213,35.595618,-77.403213,35.595618",
     "geom:latitude":35.595618,
     "geom:longitude":-77.403213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1826 W Arlington Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371060905,
-    "wof:lastmodified":1449050040,
+    "wof:lastmodified":1466649586,
     "wof:name":"Children's Health Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.403213,35.595618,-77.403213,35.595618],
-  "geometry": {"coordinates":[-77.403213,35.595618],"type":"Point"}
+  "bbox": [
+    -77.403213,
+    35.595618,
+    -77.403213,
+    35.595618
+],
+  "geometry": {"coordinates":[-77.40321299999999,35.595618],"type":"Point"}
 }

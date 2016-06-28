@@ -2,13 +2,14 @@
   "id": 270372425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.81306,35.917386,-78.81306,35.917386",
     "geom:latitude":35.917386,
     "geom:longitude":-78.81306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Chattahoochee St",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270372425,
-    "wof:lastmodified":1449010117,
+    "wof:lastmodified":1466647793,
     "wof:name":"Landshapers Backhoe Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.81306,35.917386,-78.81306,35.917386],
-  "geometry": {"coordinates":[-78.81306,35.917386],"type":"Point"}
+  "bbox": [
+    -78.81306,
+    35.917386,
+    -78.81306,
+    35.917386
+],
+  "geometry": {"coordinates":[-78.81305999999999,35.917386],"type":"Point"}
 }

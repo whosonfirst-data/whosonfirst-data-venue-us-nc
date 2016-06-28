@@ -2,13 +2,14 @@
   "id": 270008715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.150072,35.453605,-79.150072,35.453605",
     "geom:latitude":35.453605,
     "geom:longitude":-79.150072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 Lee Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270008715,
-    "wof:lastmodified":1449009389,
+    "wof:lastmodified":1466643310,
     "wof:name":"Goodfellas Private Lounge",
     "wof:parent_id":85827995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-79.150072,35.453605,-79.150072,35.453605],
-  "geometry": {"coordinates":[-79.150072,35.453605],"type":"Point"}
+  "bbox": [
+    -79.150072,
+    35.453605,
+    -79.150072,
+    35.453605
+],
+  "geometry": {"coordinates":[-79.15007199999999,35.453605],"type":"Point"}
 }

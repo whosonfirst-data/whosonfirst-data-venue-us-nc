@@ -2,13 +2,14 @@
   "id": 320810183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.954018,36.092286,-79.954018,36.092286",
     "geom:latitude":36.092286,
     "geom:longitude":-79.954018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8204 W Market St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320810183,
-    "wof:lastmodified":1449012348,
+    "wof:lastmodified":1466656423,
     "wof:name":"Bath Brite",
     "wof:parent_id":85891945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-79.954018,36.092286,-79.954018,36.092286],
+  "bbox": [
+    -79.954018,
+    36.092286,
+    -79.954018,
+    36.092286
+],
   "geometry": {"coordinates":[-79.954018,36.092286],"type":"Point"}
 }

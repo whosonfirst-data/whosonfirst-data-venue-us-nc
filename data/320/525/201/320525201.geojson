@@ -2,13 +2,14 @@
   "id": 320525201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.074737,36.506356,-79.074737,36.506356",
     "geom:latitude":36.506356,
     "geom:longitude":-79.074737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Estate Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320525201,
-    "wof:lastmodified":1449014190,
+    "wof:lastmodified":1466652730,
     "wof:name":"Brown's Upholstery",
     "wof:parent_id":85808801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-79.074737,36.506356,-79.074737,36.506356],
+  "bbox": [
+    -79.074737,
+    36.506356,
+    -79.074737,
+    36.506356
+],
   "geometry": {"coordinates":[-79.074737,36.506356],"type":"Point"}
 }

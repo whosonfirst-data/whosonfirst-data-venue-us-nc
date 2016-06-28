@@ -2,13 +2,14 @@
   "id": 320823201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.75275,34.926142,-79.75275,34.926142",
     "geom:latitude":34.926142,
     "geom:longitude":-79.75275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 S Long Dr",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320823201,
-    "wof:lastmodified":1449014930,
+    "wof:lastmodified":1466656680,
     "wof:name":"Gene Davis Insurance Svc",
     "wof:parent_id":85832341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.75275,34.926142,-79.75275,34.926142],
-  "geometry": {"coordinates":[-79.75275,34.926142],"type":"Point"}
+  "bbox": [
+    -79.75275,
+    34.926142,
+    -79.75275,
+    34.926142
+],
+  "geometry": {"coordinates":[-79.75275000000001,34.926142],"type":"Point"}
 }

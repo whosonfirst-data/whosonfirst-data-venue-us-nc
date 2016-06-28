@@ -2,13 +2,14 @@
   "id": 270004343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.545186,35.033769,-79.545186,35.033769",
     "geom:latitude":35.033769,
     "geom:longitude":-79.545186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 US Hwy 1",
     "sg:city":"Hoffman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270004343,
-    "wof:lastmodified":1449009536,
+    "wof:lastmodified":1466643255,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.545186,35.033769,-79.545186,35.033769],
+  "bbox": [
+    -79.545186,
+    35.033769,
+    -79.545186,
+    35.033769
+],
   "geometry": {"coordinates":[-79.545186,35.033769],"type":"Point"}
 }

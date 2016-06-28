@@ -2,13 +2,14 @@
   "id": 353955673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.49572,35.848516,-81.49572,35.848516",
     "geom:latitude":35.848516,
     "geom:longitude":-81.49572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Fairway Shopping Center",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353955673,
-    "wof:lastmodified":1449020011,
+    "wof:lastmodified":1466653579,
     "wof:name":"Sharper Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.49572,35.848516,-81.49572,35.848516],
-  "geometry": {"coordinates":[-81.49572,35.848516],"type":"Point"}
+  "bbox": [
+    -81.49572,
+    35.848516,
+    -81.49572,
+    35.848516
+],
+  "geometry": {"coordinates":[-81.49572000000001,35.848516],"type":"Point"}
 }

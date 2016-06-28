@@ -2,13 +2,14 @@
   "id": 370605989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.176944,35.332853,-83.176944,35.332853",
     "geom:latitude":35.332853,
     "geom:longitude":-83.176944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Old Cullowhee Rd",
     "sg:city":"Cullowhee",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370605989,
-    "wof:lastmodified":1449030742,
+    "wof:lastmodified":1466653953,
     "wof:name":"Zoo Video Books & Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-83.176944,35.332853,-83.176944,35.332853],
-  "geometry": {"coordinates":[-83.176944,35.332853],"type":"Point"}
+  "bbox": [
+    -83.176944,
+    35.332853,
+    -83.176944,
+    35.332853
+],
+  "geometry": {"coordinates":[-83.17694400000001,35.332853],"type":"Point"}
 }

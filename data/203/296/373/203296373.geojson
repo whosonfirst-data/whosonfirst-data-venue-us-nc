@@ -2,13 +2,14 @@
   "id": 203296373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.535176,35.21978,-81.535176,35.21978",
     "geom:latitude":35.21978,
     "geom:longitude":-81.535176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2403 S Post Rd",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203296373,
-    "wof:lastmodified":1449026487,
+    "wof:lastmodified":1466643223,
     "wof:name":"Shook's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "grading"
     ]
 },
-  "bbox": [-81.535176,35.21978,-81.535176,35.21978],
-  "geometry": {"coordinates":[-81.535176,35.21978],"type":"Point"}
+  "bbox": [
+    -81.535176,
+    35.21978,
+    -81.535176,
+    35.21978
+],
+  "geometry": {"coordinates":[-81.53517600000001,35.21978],"type":"Point"}
 }

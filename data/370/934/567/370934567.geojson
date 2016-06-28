@@ -2,13 +2,14 @@
   "id": 370934567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.423718,34.775544,-77.423718,34.775544",
     "geom:latitude":34.775544,
     "geom:longitude":-77.423718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Valley Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370934567,
-    "wof:lastmodified":1449029246,
+    "wof:lastmodified":1466657081,
     "wof:name":"Victory Masonry & Artist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.423718,34.775544,-77.423718,34.775544],
-  "geometry": {"coordinates":[-77.423718,34.775544],"type":"Point"}
+  "bbox": [
+    -77.423718,
+    34.775544,
+    -77.423718,
+    34.775544
+],
+  "geometry": {"coordinates":[-77.42371799999999,34.775544],"type":"Point"}
 }

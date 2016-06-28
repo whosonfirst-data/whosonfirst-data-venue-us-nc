@@ -2,13 +2,14 @@
   "id": 404127331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.936624,35.036522,-78.936624,35.036522",
     "geom:latitude":35.036522,
     "geom:longitude":-78.936624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 Cape Center Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404127331,
-    "wof:lastmodified":1449040233,
+    "wof:lastmodified":1466652899,
     "wof:name":"Gary B Garison MD P A",
     "wof:parent_id":85877381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-78.936624,35.036522,-78.936624,35.036522],
-  "geometry": {"coordinates":[-78.936624,35.036522],"type":"Point"}
+  "bbox": [
+    -78.936624,
+    35.036522,
+    -78.936624,
+    35.036522
+],
+  "geometry": {"coordinates":[-78.93662399999999,35.036522],"type":"Point"}
 }

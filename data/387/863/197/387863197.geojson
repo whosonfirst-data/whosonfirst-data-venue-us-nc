@@ -2,13 +2,14 @@
   "id": 387863197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.545909,34.996919,-80.545909,34.996919",
     "geom:latitude":34.996919,
     "geom:longitude":-80.545909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Miller St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387863197,
-    "wof:lastmodified":1449058739,
+    "wof:lastmodified":1466657878,
     "wof:name":"PPC",
     "wof:parent_id":85879029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-80.545909,34.996919,-80.545909,34.996919],
-  "geometry": {"coordinates":[-80.545909,34.996919],"type":"Point"}
+  "bbox": [
+    -80.545909,
+    34.996919,
+    -80.545909,
+    34.996919
+],
+  "geometry": {"coordinates":[-80.54590899999999,34.996919],"type":"Point"}
 }

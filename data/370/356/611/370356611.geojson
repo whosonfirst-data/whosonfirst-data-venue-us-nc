@@ -2,13 +2,14 @@
   "id": 370356611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.421884,36.12979,-77.421884,36.12979",
     "geom:latitude":36.12979,
     "geom:longitude":-77.421884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E 11th St",
     "sg:city":"Scotland Neck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370356611,
-    "wof:lastmodified":1449031874,
+    "wof:lastmodified":1466650713,
     "wof:name":"Edgecombe County Ambulance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-77.421884,36.12979,-77.421884,36.12979],
-  "geometry": {"coordinates":[-77.421884,36.12979],"type":"Point"}
+  "bbox": [
+    -77.421884,
+    36.12979,
+    -77.421884,
+    36.12979
+],
+  "geometry": {"coordinates":[-77.42188400000001,36.12979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370371743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.624203,35.590006,-82.624203,35.590006",
     "geom:latitude":35.590006,
     "geom:longitude":-82.624203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"458 Johnston School Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370371743,
-    "wof:lastmodified":1449031735,
+    "wof:lastmodified":1466650898,
     "wof:name":"West Asheville Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-82.624203,35.590006,-82.624203,35.590006],
-  "geometry": {"coordinates":[-82.624203,35.590006],"type":"Point"}
+  "bbox": [
+    -82.624203,
+    35.590006,
+    -82.624203,
+    35.590006
+],
+  "geometry": {"coordinates":[-82.62420299999999,35.590006],"type":"Point"}
 }

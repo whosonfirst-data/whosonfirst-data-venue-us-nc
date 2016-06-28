@@ -2,13 +2,14 @@
   "id": 336808733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.677775,35.114546,-80.677775,35.114546",
     "geom:latitude":35.114546,
     "geom:longitude":-80.677775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2616 Mount Harmony Rd",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336808733,
-    "wof:lastmodified":1448996961,
+    "wof:lastmodified":1466649025,
     "wof:name":"William R Elliott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.677775,35.114546,-80.677775,35.114546],
+  "bbox": [
+    -80.677775,
+    35.114546,
+    -80.677775,
+    35.114546
+],
   "geometry": {"coordinates":[-80.677775,35.114546],"type":"Point"}
 }

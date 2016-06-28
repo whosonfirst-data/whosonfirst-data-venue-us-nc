@@ -2,13 +2,14 @@
   "id": 287238241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.134509,35.319622,-78.134509,35.319622",
     "geom:latitude":35.319622,
     "geom:longitude":-78.134509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Stevens Church Rd",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":287238241,
-    "wof:lastmodified":1449001003,
+    "wof:lastmodified":1466646630,
     "wof:name":"Stevens Chapel Missionary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.134509,35.319622,-78.134509,35.319622],
-  "geometry": {"coordinates":[-78.134509,35.319622],"type":"Point"}
+  "bbox": [
+    -78.134509,
+    35.319622,
+    -78.134509,
+    35.319622
+],
+  "geometry": {"coordinates":[-78.13450899999999,35.319622],"type":"Point"}
 }

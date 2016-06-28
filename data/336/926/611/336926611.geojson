@@ -2,13 +2,14 @@
   "id": 336926611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.359563,35.749088,-81.359563,35.749088",
     "geom:latitude":35.749088,
     "geom:longitude":-81.359563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 10th Street Blvd NW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336926611,
-    "wof:lastmodified":1448997304,
+    "wof:lastmodified":1466650821,
     "wof:name":"Pearson Digital Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "educational"
     ]
 },
-  "bbox": [-81.359563,35.749088,-81.359563,35.749088],
-  "geometry": {"coordinates":[-81.359563,35.749088],"type":"Point"}
+  "bbox": [
+    -81.359563,
+    35.749088,
+    -81.359563,
+    35.749088
+],
+  "geometry": {"coordinates":[-81.35956299999999,35.749088],"type":"Point"}
 }

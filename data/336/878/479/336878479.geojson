@@ -2,13 +2,14 @@
   "id": 336878479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.85595,35.223605,-77.85595,35.223605",
     "geom:latitude":35.223605,
     "geom:longitude":-77.85595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"539 W Spring St",
     "sg:city":"Seven Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336878479,
-    "wof:lastmodified":1448997516,
+    "wof:lastmodified":1466650101,
     "wof:name":"S & D Tire & Towing",
     "wof:parent_id":85822855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-77.85595,35.223605,-77.85595,35.223605],
-  "geometry": {"coordinates":[-77.85595,35.223605],"type":"Point"}
+  "bbox": [
+    -77.85595,
+    35.223605,
+    -77.85595,
+    35.223605
+],
+  "geometry": {"coordinates":[-77.85595000000001,35.223605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286953127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.014372,36.449535,-76.014372,36.449535",
     "geom:latitude":36.449535,
     "geom:longitude":-76.014372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Courthouse Rd",
     "sg:city":"Currituck",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286953127,
-    "wof:lastmodified":1449017215,
+    "wof:lastmodified":1466652565,
     "wof:name":"Currituck County Water Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sewage"
     ]
 },
-  "bbox": [-76.014372,36.449535,-76.014372,36.449535],
-  "geometry": {"coordinates":[-76.014372,36.449535],"type":"Point"}
+  "bbox": [
+    -76.014372,
+    36.449535,
+    -76.014372,
+    36.449535
+],
+  "geometry": {"coordinates":[-76.01437199999999,36.449535],"type":"Point"}
 }

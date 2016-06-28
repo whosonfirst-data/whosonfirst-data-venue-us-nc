@@ -2,13 +2,14 @@
   "id": 219518531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.456435,34.831163,-77.456435,34.831163",
     "geom:latitude":34.831163,
     "geom:longitude":-77.456435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Memory Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219518531,
-    "wof:lastmodified":1449072370,
+    "wof:lastmodified":1466645022,
     "wof:name":"KWIK Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.456435,34.831163,-77.456435,34.831163],
+  "bbox": [
+    -77.456435,
+    34.831163,
+    -77.456435,
+    34.831163
+],
   "geometry": {"coordinates":[-77.456435,34.831163],"type":"Point"}
 }

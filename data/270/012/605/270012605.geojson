@@ -2,13 +2,14 @@
   "id": 270012605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.11356,35.523437,-83.11356,35.523437",
     "geom:latitude":35.523437,
     "geom:longitude":-83.11356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4942 Soco Rd",
     "sg:city":"Maggie Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270012605,
-    "wof:lastmodified":1449010849,
+    "wof:lastmodified":1466643352,
     "wof:name":"Mountain Woodworks",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-83.11356,35.523437,-83.11356,35.523437],
-  "geometry": {"coordinates":[-83.11356,35.523437],"type":"Point"}
+  "bbox": [
+    -83.11356,
+    35.523437,
+    -83.11356,
+    35.523437
+],
+  "geometry": {"coordinates":[-83.11356000000001,35.523437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269913367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.329636,36.415312,-80.329636,36.415312",
     "geom:latitude":36.415312,
     "geom:longitude":-80.329636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 State Hwy 66 S",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269913367,
-    "wof:lastmodified":1449037078,
+    "wof:lastmodified":1466648273,
     "wof:name":"Site 66 Collections Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-80.329636,36.415312,-80.329636,36.415312],
-  "geometry": {"coordinates":[-80.329636,36.415312],"type":"Point"}
+  "bbox": [
+    -80.329636,
+    36.415312,
+    -80.329636,
+    36.415312
+],
+  "geometry": {"coordinates":[-80.32963599999999,36.415312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387732697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.745226,35.727592,-81.745226,35.727592",
     "geom:latitude":35.727592,
     "geom:longitude":-81.745226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Dixie Blvd",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387732697,
-    "wof:lastmodified":1449060034,
+    "wof:lastmodified":1466657412,
     "wof:name":"Case Farms",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-81.745226,35.727592,-81.745226,35.727592],
+  "bbox": [
+    -81.745226,
+    35.727592,
+    -81.745226,
+    35.727592
+],
   "geometry": {"coordinates":[-81.745226,35.727592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236687905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.86465,35.215204,-80.86465,35.215204",
     "geom:latitude":35.215204,
     "geom:longitude":-80.86465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 West Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236687905,
-    "wof:lastmodified":1449002390,
+    "wof:lastmodified":1466649355,
     "wof:name":"CPM Maintenance",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-80.86465,35.215204,-80.86465,35.215204],
+  "bbox": [
+    -80.86465,
+    35.215204,
+    -80.86465,
+    35.215204
+],
   "geometry": {"coordinates":[-80.86465,35.215204],"type":"Point"}
 }

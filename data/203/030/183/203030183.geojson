@@ -2,13 +2,14 @@
   "id": 203030183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.06791,35.905061,-80.06791,35.905061",
     "geom:latitude":35.905061,
     "geom:longitude":-80.06791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Circle Dr",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203030183,
-    "wof:lastmodified":1449025615,
+    "wof:lastmodified":1466654371,
     "wof:name":"Memory Lane Portraits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-80.06791,35.905061,-80.06791,35.905061],
+  "bbox": [
+    -80.06791,
+    35.905061,
+    -80.06791,
+    35.905061
+],
   "geometry": {"coordinates":[-80.06791,35.905061],"type":"Point"}
 }

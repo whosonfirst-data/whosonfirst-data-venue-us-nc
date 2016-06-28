@@ -2,13 +2,14 @@
   "id": 370786521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.795769,36.444913,-77.795769,36.444913",
     "geom:latitude":36.444913,
     "geom:longitude":-77.795769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1452 State Hwy 903",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370786521,
-    "wof:lastmodified":1449029538,
+    "wof:lastmodified":1466656046,
     "wof:name":"Beary Heavenly Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.795769,36.444913,-77.795769,36.444913],
-  "geometry": {"coordinates":[-77.795769,36.444913],"type":"Point"}
+  "bbox": [
+    -77.795769,
+    36.444913,
+    -77.795769,
+    36.444913
+],
+  "geometry": {"coordinates":[-77.79576900000001,36.444913],"type":"Point"}
 }

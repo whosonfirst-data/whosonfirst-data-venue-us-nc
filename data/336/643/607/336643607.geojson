@@ -2,13 +2,14 @@
   "id": 336643607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.880863,36.06682,-79.880863,36.06682",
     "geom:latitude":36.06682,
     "geom:longitude":-79.880863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 S Walnut Cir",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336643607,
-    "wof:lastmodified":1448997879,
+    "wof:lastmodified":1466646511,
     "wof:name":"Noramed",
     "wof:parent_id":85877997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-79.880863,36.06682,-79.880863,36.06682],
-  "geometry": {"coordinates":[-79.880863,36.06682],"type":"Point"}
+  "bbox": [
+    -79.880863,
+    36.06682,
+    -79.880863,
+    36.06682
+],
+  "geometry": {"coordinates":[-79.88086300000001,36.06682],"type":"Point"}
 }

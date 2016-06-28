@@ -2,13 +2,14 @@
   "id": 236754419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.47142,35.642042,-78.47142,35.642042",
     "geom:latitude":35.642042,
     "geom:longitude":-78.47142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 S Lombard St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236754419,
-    "wof:lastmodified":1449003889,
+    "wof:lastmodified":1466650002,
     "wof:name":"West Clayton Elementary School",
     "wof:parent_id":85807481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-78.47142,35.642042,-78.47142,35.642042],
-  "geometry": {"coordinates":[-78.47142,35.642042],"type":"Point"}
+  "bbox": [
+    -78.47142,
+    35.642042,
+    -78.47142,
+    35.642042
+],
+  "geometry": {"coordinates":[-78.47141999999999,35.642042],"type":"Point"}
 }

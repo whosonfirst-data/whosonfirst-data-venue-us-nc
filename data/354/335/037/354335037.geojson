@@ -2,13 +2,14 @@
   "id": 354335037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.765898,35.159974,-80.765898,35.159974",
     "geom:latitude":35.159974,
     "geom:longitude":-80.765898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Weber Ct",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354335037,
-    "wof:lastmodified":1449067104,
+    "wof:lastmodified":1466651436,
     "wof:name":"Monkey Business Entertainment",
     "wof:parent_id":85851125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-80.765898,35.159974,-80.765898,35.159974],
-  "geometry": {"coordinates":[-80.765898,35.159974],"type":"Point"}
+  "bbox": [
+    -80.765898,
+    35.159974,
+    -80.765898,
+    35.159974
+],
+  "geometry": {"coordinates":[-80.76589800000001,35.159974],"type":"Point"}
 }

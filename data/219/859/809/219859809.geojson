@@ -2,13 +2,14 @@
   "id": 219859809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.626247,36.187059,-81.626247,36.187059",
     "geom:latitude":36.187059,
     "geom:longitude":-81.626247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1169 Bamboo Rd",
     "sg:city":"Boone",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219859809,
-    "wof:lastmodified":1449072925,
+    "wof:lastmodified":1466647669,
     "wof:name":"David Watson Auto Sales",
     "wof:parent_id":85849339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "automotive"
     ]
 },
-  "bbox": [-81.626247,36.187059,-81.626247,36.187059],
-  "geometry": {"coordinates":[-81.626247,36.187059],"type":"Point"}
+  "bbox": [
+    -81.626247,
+    36.187059,
+    -81.626247,
+    36.187059
+],
+  "geometry": {"coordinates":[-81.62624700000001,36.187059],"type":"Point"}
 }

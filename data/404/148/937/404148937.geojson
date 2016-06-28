@@ -2,13 +2,14 @@
   "id": 404148937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.84943,35.49784,-80.84943,35.49784",
     "geom:latitude":35.49784,
     "geom:longitude":-80.84943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Main St",
     "sg:city":"Davidson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404148937,
-    "wof:lastmodified":1449040125,
+    "wof:lastmodified":1466653175,
     "wof:name":"Healthsouth",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-80.84943,35.49784,-80.84943,35.49784],
+  "bbox": [
+    -80.84943,
+    35.49784,
+    -80.84943,
+    35.49784
+],
   "geometry": {"coordinates":[-80.84943,35.49784],"type":"Point"}
 }

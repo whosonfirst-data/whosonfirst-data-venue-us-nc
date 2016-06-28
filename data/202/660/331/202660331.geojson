@@ -2,13 +2,14 @@
   "id": 202660331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.914436,35.098886,-78.914436,35.098886",
     "geom:latitude":35.098886,
     "geom:longitude":-78.914436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"932 Country Club Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202660331,
-    "wof:lastmodified":1449062383,
+    "wof:lastmodified":1466655761,
     "wof:name":"Whispering Pines Villiage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "community"
     ]
 },
-  "bbox": [-78.914436,35.098886,-78.914436,35.098886],
-  "geometry": {"coordinates":[-78.914436,35.098886],"type":"Point"}
+  "bbox": [
+    -78.914436,
+    35.098886,
+    -78.914436,
+    35.098886
+],
+  "geometry": {"coordinates":[-78.91443599999999,35.098886],"type":"Point"}
 }

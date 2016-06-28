@@ -2,13 +2,14 @@
   "id": 387228929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.46353,36.046241,-79.46353,36.046241",
     "geom:latitude":36.046241,
     "geom:longitude":-79.46353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 Anthony Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387228929,
-    "wof:lastmodified":1449057288,
+    "wof:lastmodified":1466652890,
     "wof:name":"J & M Grading Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.46353,36.046241,-79.46353,36.046241],
-  "geometry": {"coordinates":[-79.46353,36.046241],"type":"Point"}
+  "bbox": [
+    -79.46353,
+    36.046241,
+    -79.46353,
+    36.046241
+],
+  "geometry": {"coordinates":[-79.46353000000001,36.046241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370683101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.105365,35.062515,-77.105365,35.062515",
     "geom:latitude":35.062515,
     "geom:longitude":-77.105365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Tupelo Trl",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370683101,
-    "wof:lastmodified":1449030332,
+    "wof:lastmodified":1466654986,
     "wof:name":"Born Again Ministry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.105365,35.062515,-77.105365,35.062515],
-  "geometry": {"coordinates":[-77.105365,35.062515],"type":"Point"}
+  "bbox": [
+    -77.105365,
+    35.062515,
+    -77.105365,
+    35.062515
+],
+  "geometry": {"coordinates":[-77.10536500000001,35.062515],"type":"Point"}
 }

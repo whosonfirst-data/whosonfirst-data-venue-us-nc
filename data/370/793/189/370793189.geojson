@@ -2,13 +2,14 @@
   "id": 370793189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.904148,36.031709,-79.904148,36.031709",
     "geom:latitude":36.031709,
     "geom:longitude":-79.904148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Laurel Brook Ct",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370793189,
-    "wof:lastmodified":1449030933,
+    "wof:lastmodified":1466656095,
     "wof:name":"Andreas Clocks",
     "wof:parent_id":85802417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.904148,36.031709,-79.904148,36.031709],
-  "geometry": {"coordinates":[-79.904148,36.031709],"type":"Point"}
+  "bbox": [
+    -79.904148,
+    36.031709,
+    -79.904148,
+    36.031709
+],
+  "geometry": {"coordinates":[-79.90414800000001,36.031709],"type":"Point"}
 }

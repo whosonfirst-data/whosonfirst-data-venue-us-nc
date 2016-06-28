@@ -2,13 +2,14 @@
   "id": 287081205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.940279,34.222293,-77.940279,34.222293",
     "geom:latitude":34.222293,
     "geom:longitude":-77.940279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 S 6th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287081205,
-    "wof:lastmodified":1449000927,
+    "wof:lastmodified":1466644412,
     "wof:name":"Sam's Superette",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.940279,34.222293,-77.940279,34.222293],
+  "bbox": [
+    -77.940279,
+    34.222293,
+    -77.940279,
+    34.222293
+],
   "geometry": {"coordinates":[-77.940279,34.222293],"type":"Point"}
 }

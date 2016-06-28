@@ -2,13 +2,14 @@
   "id": 371013303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.005079,35.163767,-81.005079,35.163767",
     "geom:latitude":35.163767,
     "geom:longitude":-81.005079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9808 Emerald Point Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371013303,
-    "wof:lastmodified":1449049761,
+    "wof:lastmodified":1466649002,
     "wof:name":"Consultant Development Group",
     "wof:parent_id":85839587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.005079,35.163767,-81.005079,35.163767],
-  "geometry": {"coordinates":[-81.005079,35.163767],"type":"Point"}
+  "bbox": [
+    -81.005079,
+    35.163767,
+    -81.005079,
+    35.163767
+],
+  "geometry": {"coordinates":[-81.00507899999999,35.163767],"type":"Point"}
 }

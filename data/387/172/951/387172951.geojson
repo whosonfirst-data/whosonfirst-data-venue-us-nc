@@ -2,13 +2,14 @@
   "id": 387172951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.137238,35.254633,-81.137238,35.254633",
     "geom:latitude":35.254633,
     "geom:longitude":-81.137238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Thomas Trl",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387172951,
-    "wof:lastmodified":1449057635,
+    "wof:lastmodified":1466652121,
     "wof:name":"Thomas Siding & Windows",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.137238,35.254633,-81.137238,35.254633],
+  "bbox": [
+    -81.137238,
+    35.254633,
+    -81.137238,
+    35.254633
+],
   "geometry": {"coordinates":[-81.137238,35.254633],"type":"Point"}
 }

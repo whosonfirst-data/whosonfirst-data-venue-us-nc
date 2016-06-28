@@ -2,13 +2,14 @@
   "id": 303291777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.552321,35.596699,-82.552321,35.596699",
     "geom:latitude":35.596699,
     "geom:longitude":-82.552321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 W Walnut St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303291777,
-    "wof:lastmodified":1448998871,
+    "wof:lastmodified":1466647554,
     "wof:name":"Asheville Cmnty Theater Inc",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-82.552321,35.596699,-82.552321,35.596699],
-  "geometry": {"coordinates":[-82.552321,35.596699],"type":"Point"}
+  "bbox": [
+    -82.552321,
+    35.596699,
+    -82.552321,
+    35.596699
+],
+  "geometry": {"coordinates":[-82.55232100000001,35.596699],"type":"Point"}
 }

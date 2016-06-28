@@ -2,13 +2,14 @@
   "id": 202570943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.976313,35.909214,-79.976313,35.909214",
     "geom:latitude":35.909214,
     "geom:longitude":-79.976313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Hattie St",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202570943,
-    "wof:lastmodified":1449061613,
+    "wof:lastmodified":1466655388,
     "wof:name":"Archdale Wesleyan Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.976313,35.909214,-79.976313,35.909214],
+  "bbox": [
+    -79.976313,
+    35.909214,
+    -79.976313,
+    35.909214
+],
   "geometry": {"coordinates":[-79.976313,35.909214],"type":"Point"}
 }

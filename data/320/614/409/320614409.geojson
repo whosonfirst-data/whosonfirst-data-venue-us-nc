@@ -2,13 +2,14 @@
   "id": 320614409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.017828,35.523502,-81.017828,35.523502",
     "geom:latitude":35.523502,
     "geom:longitude":-81.017828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3550 Denver Dr",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320614409,
-    "wof:lastmodified":1449015061,
+    "wof:lastmodified":1466654033,
     "wof:name":"Southern Fastening Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fastener"
     ]
 },
-  "bbox": [-81.017828,35.523502,-81.017828,35.523502],
-  "geometry": {"coordinates":[-81.017828,35.523502],"type":"Point"}
+  "bbox": [
+    -81.017828,
+    35.523502,
+    -81.017828,
+    35.523502
+],
+  "geometry": {"coordinates":[-81.01782799999999,35.523502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286767245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.372543,34.791793,-77.372543,34.791793",
     "geom:latitude":34.791793,
     "geom:longitude":-77.372543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3247 New Bern Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286767245,
-    "wof:lastmodified":1449016037,
+    "wof:lastmodified":1466650012,
     "wof:name":"Peterson's Diesel",
     "wof:parent_id":85839091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-77.372543,34.791793,-77.372543,34.791793],
-  "geometry": {"coordinates":[-77.372543,34.791793],"type":"Point"}
+  "bbox": [
+    -77.372543,
+    34.791793,
+    -77.372543,
+    34.791793
+],
+  "geometry": {"coordinates":[-77.37254299999999,34.791793],"type":"Point"}
 }

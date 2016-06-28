@@ -2,13 +2,14 @@
   "id": 403811075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.85532,34.264406,-77.85532,34.264406",
     "geom:latitude":34.264406,
     "geom:longitude":-77.85532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5205 Lord Byron Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403811075,
-    "wof:lastmodified":1449055272,
+    "wof:lastmodified":1466651729,
     "wof:name":"MODERN Office Machines",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.85532,34.264406,-77.85532,34.264406],
-  "geometry": {"coordinates":[-77.85532,34.264406],"type":"Point"}
+  "bbox": [
+    -77.85532,
+    34.264406,
+    -77.85532,
+    34.264406
+],
+  "geometry": {"coordinates":[-77.85532000000001,34.264406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286920871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.12645,35.001415,-79.12645,35.001415",
     "geom:latitude":35.001415,
     "geom:longitude":-79.12645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Arbor Dr",
     "sg:city":"Raeford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286920871,
-    "wof:lastmodified":1449017460,
+    "wof:lastmodified":1466652111,
     "wof:name":"Glenn Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.12645,35.001415,-79.12645,35.001415],
-  "geometry": {"coordinates":[-79.12645,35.001415],"type":"Point"}
+  "bbox": [
+    -79.12645,
+    35.001415,
+    -79.12645,
+    35.001415
+],
+  "geometry": {"coordinates":[-79.12645000000001,35.001415],"type":"Point"}
 }

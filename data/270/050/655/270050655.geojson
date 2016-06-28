@@ -2,13 +2,14 @@
   "id": 270050655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.67682,35.913607,-75.67682,35.913607",
     "geom:latitude":35.913607,
     "geom:longitude":-75.67682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 US Hwy 264",
     "sg:city":"Manteo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270050655,
-    "wof:lastmodified":1449009991,
+    "wof:lastmodified":1466643789,
     "wof:name":"Carolina Environmental Sltns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ecological"
     ]
 },
-  "bbox": [-75.67682,35.913607,-75.67682,35.913607],
-  "geometry": {"coordinates":[-75.67682,35.913607],"type":"Point"}
+  "bbox": [
+    -75.67682,
+    35.913607,
+    -75.67682,
+    35.913607
+],
+  "geometry": {"coordinates":[-75.67682000000001,35.913607],"type":"Point"}
 }

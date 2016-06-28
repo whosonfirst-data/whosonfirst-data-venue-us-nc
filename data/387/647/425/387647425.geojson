@@ -2,13 +2,14 @@
   "id": 387647425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.727528,35.122523,-80.727528,35.122523",
     "geom:latitude":35.122523,
     "geom:longitude":-80.727528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Matthews Township Pkwy",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387647425,
-    "wof:lastmodified":1449057904,
+    "wof:lastmodified":1466657263,
     "wof:name":"Stiles Construction",
     "wof:parent_id":85811531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.727528,35.122523,-80.727528,35.122523],
-  "geometry": {"coordinates":[-80.727528,35.122523],"type":"Point"}
+  "bbox": [
+    -80.727528,
+    35.122523,
+    -80.727528,
+    35.122523
+],
+  "geometry": {"coordinates":[-80.72752800000001,35.122523],"type":"Point"}
 }

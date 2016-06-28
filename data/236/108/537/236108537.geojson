@@ -2,13 +2,14 @@
   "id": 236108537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.851452,35.30119,-81.851452,35.30119",
     "geom:latitude":35.30119,
     "geom:longitude":-81.851452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Forrest W Hunt Dr",
     "sg:city":"Forest City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236108537,
-    "wof:lastmodified":1449001720,
+    "wof:lastmodified":1466644188,
     "wof:name":"Forrest Hunt Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.851452,35.30119,-81.851452,35.30119],
-  "geometry": {"coordinates":[-81.851452,35.30119],"type":"Point"}
+  "bbox": [
+    -81.851452,
+    35.30119,
+    -81.851452,
+    35.30119
+],
+  "geometry": {"coordinates":[-81.85145199999999,35.30119],"type":"Point"}
 }

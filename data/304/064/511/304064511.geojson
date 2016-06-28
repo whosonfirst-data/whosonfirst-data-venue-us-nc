@@ -2,13 +2,14 @@
   "id": 304064511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.429926,36.087933,-76.429926,36.087933",
     "geom:latitude":36.087933,
     "geom:longitude":-76.429926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Hudson Trl",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304064511,
-    "wof:lastmodified":1449043762,
+    "wof:lastmodified":1466645072,
     "wof:name":"Prism Publishing Inc",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-76.429926,36.087933,-76.429926,36.087933],
-  "geometry": {"coordinates":[-76.429926,36.087933],"type":"Point"}
+  "bbox": [
+    -76.429926,
+    36.087933,
+    -76.429926,
+    36.087933
+],
+  "geometry": {"coordinates":[-76.42992599999999,36.087933],"type":"Point"}
 }

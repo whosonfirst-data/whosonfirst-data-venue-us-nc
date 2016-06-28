@@ -2,13 +2,14 @@
   "id": 253149787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.698549,35.780309,-78.698549,35.780309",
     "geom:latitude":35.780309,
     "geom:longitude":-78.698549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Lorimer Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253149787,
-    "wof:lastmodified":1449062833,
+    "wof:lastmodified":1466644573,
     "wof:name":"Tessellate Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.698549,35.780309,-78.698549,35.780309],
+  "bbox": [
+    -78.698549,
+    35.780309,
+    -78.698549,
+    35.780309
+],
   "geometry": {"coordinates":[-78.698549,35.780309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387761269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.610577,35.855303,-78.610577,35.855303",
     "geom:latitude":35.855303,
     "geom:longitude":-78.610577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5205 Cypress Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387761269,
-    "wof:lastmodified":1449059007,
+    "wof:lastmodified":1466657374,
     "wof:name":"Allens Locksmith Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.610577,35.855303,-78.610577,35.855303],
-  "geometry": {"coordinates":[-78.610577,35.855303],"type":"Point"}
+  "bbox": [
+    -78.610577,
+    35.855303,
+    -78.610577,
+    35.855303
+],
+  "geometry": {"coordinates":[-78.61057700000001,35.855303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354023285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.890102,34.244226,-77.890102,34.244226",
     "geom:latitude":34.244226,
     "geom:longitude":-77.890102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Kerr Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354023285,
-    "wof:lastmodified":1449067503,
+    "wof:lastmodified":1466647818,
     "wof:name":"AHEPA 408 Apartments",
     "wof:parent_id":85818553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-77.890102,34.244226,-77.890102,34.244226],
+  "bbox": [
+    -77.890102,
+    34.244226,
+    -77.890102,
+    34.244226
+],
   "geometry": {"coordinates":[-77.890102,34.244226],"type":"Point"}
 }

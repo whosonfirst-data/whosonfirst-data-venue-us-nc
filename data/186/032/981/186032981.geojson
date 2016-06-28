@@ -2,13 +2,14 @@
   "id": 186032981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.612957,33.837601,-78.612957,33.837601",
     "geom:latitude":33.837601,
     "geom:longitude":-78.612957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5409 N Ocean Blvd",
     "sg:city":"North Myrtle Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186032981,
-    "wof:lastmodified":1449051691,
+    "wof:lastmodified":1466655841,
     "wof:name":"Hartford Motor Inn",
     "wof:parent_id":85824761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.612957,33.837601,-78.612957,33.837601],
-  "geometry": {"coordinates":[-78.612957,33.837601],"type":"Point"}
+  "bbox": [
+    -78.612957,
+    33.837601,
+    -78.612957,
+    33.837601
+],
+  "geometry": {"coordinates":[-78.61295699999999,33.837601],"type":"Point"}
 }

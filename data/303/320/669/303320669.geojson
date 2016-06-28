@@ -2,13 +2,14 @@
   "id": 303320669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.323694,36.275251,-76.323694,36.275251",
     "geom:latitude":36.275251,
     "geom:longitude":-76.323694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 Foreman Bundy Rd",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303320669,
-    "wof:lastmodified":1448998730,
+    "wof:lastmodified":1466647952,
     "wof:name":"Walter's Welding & Repair",
     "wof:parent_id":85840077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-76.323694,36.275251,-76.323694,36.275251],
+  "bbox": [
+    -76.323694,
+    36.275251,
+    -76.323694,
+    36.275251
+],
   "geometry": {"coordinates":[-76.323694,36.275251],"type":"Point"}
 }

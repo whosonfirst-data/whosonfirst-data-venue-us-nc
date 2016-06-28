@@ -2,13 +2,14 @@
   "id": 253184851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.909123,35.112443,-80.909123,35.112443",
     "geom:latitude":35.112443,
     "geom:longitude":-80.909123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10915 Southern Loop Blvd",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253184851,
-    "wof:lastmodified":1449063317,
+    "wof:lastmodified":1466644961,
     "wof:name":"ESP Assoc",
     "wof:parent_id":85858217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.909123,35.112443,-80.909123,35.112443],
-  "geometry": {"coordinates":[-80.909123,35.112443],"type":"Point"}
+  "bbox": [
+    -80.909123,
+    35.112443,
+    -80.909123,
+    35.112443
+],
+  "geometry": {"coordinates":[-80.90912299999999,35.112443],"type":"Point"}
 }

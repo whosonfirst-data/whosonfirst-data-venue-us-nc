@@ -2,13 +2,14 @@
   "id": 387161855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.751511,35.790405,-78.751511,35.790405",
     "geom:latitude":35.790405,
     "geom:longitude":-78.751511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"959 Trinity Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387161855,
-    "wof:lastmodified":1449057615,
+    "wof:lastmodified":1466651973,
     "wof:name":"Mantis Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.751511,35.790405,-78.751511,35.790405],
-  "geometry": {"coordinates":[-78.751511,35.790405],"type":"Point"}
+  "bbox": [
+    -78.751511,
+    35.790405,
+    -78.751511,
+    35.790405
+],
+  "geometry": {"coordinates":[-78.75151099999999,35.790405],"type":"Point"}
 }

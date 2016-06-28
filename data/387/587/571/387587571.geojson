@@ -2,13 +2,14 @@
   "id": 387587571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.852066,36.082741,-79.852066,36.082741",
     "geom:latitude":36.082741,
     "geom:longitude":-79.852066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 Starmount Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387587571,
-    "wof:lastmodified":1449057402,
+    "wof:lastmodified":1466656586,
     "wof:name":"Miss Puffs",
     "wof:parent_id":85850945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.852066,36.082741,-79.852066,36.082741],
-  "geometry": {"coordinates":[-79.852066,36.082741],"type":"Point"}
+  "bbox": [
+    -79.852066,
+    36.082741,
+    -79.852066,
+    36.082741
+],
+  "geometry": {"coordinates":[-79.85206599999999,36.082741],"type":"Point"}
 }

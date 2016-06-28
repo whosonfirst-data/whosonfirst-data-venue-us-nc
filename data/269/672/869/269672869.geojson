@@ -2,13 +2,14 @@
   "id": 269672869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.247856,35.887529,-78.247856,35.887529",
     "geom:latitude":35.887529,
     "geom:longitude":-78.247856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Thomas Arnold Rd",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269672869,
-    "wof:lastmodified":1449036306,
+    "wof:lastmodified":1466645483,
     "wof:name":"QC Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.247856,35.887529,-78.247856,35.887529],
+  "bbox": [
+    -78.247856,
+    35.887529,
+    -78.247856,
+    35.887529
+],
   "geometry": {"coordinates":[-78.247856,35.887529],"type":"Point"}
 }

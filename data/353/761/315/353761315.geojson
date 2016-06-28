@@ -2,13 +2,14 @@
   "id": 353761315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.969507,35.01736,-78.969507,35.01736",
     "geom:latitude":35.01736,
     "geom:longitude":-78.969507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5221 Butternut Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353761315,
-    "wof:lastmodified":1449020208,
+    "wof:lastmodified":1466651325,
     "wof:name":"Fayetteville Aerial Advg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.969507,35.01736,-78.969507,35.01736],
-  "geometry": {"coordinates":[-78.969507,35.01736],"type":"Point"}
+  "bbox": [
+    -78.969507,
+    35.01736,
+    -78.969507,
+    35.01736
+],
+  "geometry": {"coordinates":[-78.96950699999999,35.01736],"type":"Point"}
 }

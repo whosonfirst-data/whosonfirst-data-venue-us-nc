@@ -2,13 +2,14 @@
   "id": 387826665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.360272,35.590174,-77.360272,35.590174",
     "geom:latitude":35.590174,
     "geom:longitude":-77.360272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Greenville Blvd SE",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387826665,
-    "wof:lastmodified":1449058873,
+    "wof:lastmodified":1466657833,
     "wof:name":"Greenville Learning Center",
     "wof:parent_id":85819917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "academic"
     ]
 },
-  "bbox": [-77.360272,35.590174,-77.360272,35.590174],
-  "geometry": {"coordinates":[-77.360272,35.590174],"type":"Point"}
+  "bbox": [
+    -77.360272,
+    35.590174,
+    -77.360272,
+    35.590174
+],
+  "geometry": {"coordinates":[-77.36027199999999,35.590174],"type":"Point"}
 }

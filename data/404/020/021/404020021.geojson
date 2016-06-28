@@ -2,13 +2,14 @@
   "id": 404020021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.804606,35.232117,-80.804606,35.232117",
     "geom:latitude":35.232117,
     "geom:longitude":-80.804606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Mecklenburg Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404020021,
-    "wof:lastmodified":1449039573,
+    "wof:lastmodified":1466651557,
     "wof:name":"Donovan Williams & Assoc",
     "wof:parent_id":85834157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.804606,35.232117,-80.804606,35.232117],
-  "geometry": {"coordinates":[-80.804606,35.232117],"type":"Point"}
+  "bbox": [
+    -80.804606,
+    35.232117,
+    -80.804606,
+    35.232117
+],
+  "geometry": {"coordinates":[-80.80460600000001,35.232117],"type":"Point"}
 }

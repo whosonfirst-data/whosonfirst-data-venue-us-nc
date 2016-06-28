@@ -2,13 +2,14 @@
   "id": 370385295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.549659,35.665615,-80.549659,35.665615",
     "geom:latitude":35.665615,
     "geom:longitude":-80.549659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Hidden Hut Rd",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370385295,
-    "wof:lastmodified":1449031087,
+    "wof:lastmodified":1466651075,
     "wof:name":"Huskey Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.549659,35.665615,-80.549659,35.665615],
-  "geometry": {"coordinates":[-80.549659,35.665615],"type":"Point"}
+  "bbox": [
+    -80.549659,
+    35.665615,
+    -80.549659,
+    35.665615
+],
+  "geometry": {"coordinates":[-80.54965900000001,35.665615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202804675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.775851,35.230582,-80.775851,35.230582",
     "geom:latitude":35.230582,
     "geom:longitude":-80.775851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Windham Pl",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202804675,
-    "wof:lastmodified":1449061858,
+    "wof:lastmodified":1466644202,
     "wof:name":"Welding & Maintenance Services",
     "wof:parent_id":85834157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.775851,35.230582,-80.775851,35.230582],
+  "bbox": [
+    -80.775851,
+    35.230582,
+    -80.775851,
+    35.230582
+],
   "geometry": {"coordinates":[-80.775851,35.230582],"type":"Point"}
 }

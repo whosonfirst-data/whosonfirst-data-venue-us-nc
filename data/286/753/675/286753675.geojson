@@ -2,13 +2,14 @@
   "id": 286753675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.311096,36.114627,-80.311096,36.114627",
     "geom:latitude":36.114627,
     "geom:longitude":-80.311096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3360 Robinhood Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286753675,
-    "wof:lastmodified":1449015519,
+    "wof:lastmodified":1466649821,
     "wof:name":"Mitchell's Piano Gallery Inc",
     "wof:parent_id":85820419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "piano"
     ]
 },
-  "bbox": [-80.311096,36.114627,-80.311096,36.114627],
-  "geometry": {"coordinates":[-80.311096,36.114627],"type":"Point"}
+  "bbox": [
+    -80.311096,
+    36.114627,
+    -80.311096,
+    36.114627
+],
+  "geometry": {"coordinates":[-80.31109600000001,36.114627],"type":"Point"}
 }

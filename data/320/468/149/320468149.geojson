@@ -2,13 +2,14 @@
   "id": 320468149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.49724,35.329389,-81.49724,35.329389",
     "geom:latitude":35.329389,
     "geom:longitude":-81.49724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1534 N Post Rd",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320468149,
-    "wof:lastmodified":1449013938,
+    "wof:lastmodified":1466651899,
     "wof:name":"Lail's Upholstering & Auto Trm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-81.49724,35.329389,-81.49724,35.329389],
-  "geometry": {"coordinates":[-81.49724,35.329389],"type":"Point"}
+  "bbox": [
+    -81.49724,
+    35.329389,
+    -81.49724,
+    35.329389
+],
+  "geometry": {"coordinates":[-81.49724000000001,35.329389],"type":"Point"}
 }

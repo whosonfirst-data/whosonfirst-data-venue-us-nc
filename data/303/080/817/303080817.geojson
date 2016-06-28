@@ -2,13 +2,14 @@
   "id": 303080817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.551425,35.594737,-82.551425,35.594737",
     "geom:latitude":35.594737,
     "geom:longitude":-82.551425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 S Pack Sq",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303080817,
-    "wof:lastmodified":1449000499,
+    "wof:lastmodified":1466644409,
     "wof:name":"Financial Guaranty Corp",
     "wof:parent_id":85830137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "holding"
     ]
 },
-  "bbox": [-82.551425,35.594737,-82.551425,35.594737],
-  "geometry": {"coordinates":[-82.551425,35.594737],"type":"Point"}
+  "bbox": [
+    -82.551425,
+    35.594737,
+    -82.551425,
+    35.594737
+],
+  "geometry": {"coordinates":[-82.55142499999999,35.594737],"type":"Point"}
 }

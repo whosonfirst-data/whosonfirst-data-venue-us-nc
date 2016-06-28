@@ -2,13 +2,14 @@
   "id": 303208735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.927316,34.22276,-77.927316,34.22276",
     "geom:latitude":34.22276,
     "geom:longitude":-77.927316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 S 16th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303208735,
-    "wof:lastmodified":1448998406,
+    "wof:lastmodified":1466646343,
     "wof:name":"Wells Transmission Svc",
     "wof:parent_id":85814197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-77.927316,34.22276,-77.927316,34.22276],
+  "bbox": [
+    -77.927316,
+    34.22276,
+    -77.927316,
+    34.22276
+],
   "geometry": {"coordinates":[-77.927316,34.22276],"type":"Point"}
 }

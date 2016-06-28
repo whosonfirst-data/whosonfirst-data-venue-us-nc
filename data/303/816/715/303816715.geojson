@@ -2,13 +2,14 @@
   "id": 303816715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.690295,35.318742,-77.690295,35.318742",
     "geom:latitude":35.318742,
     "geom:longitude":-77.690295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4547 Hunter Creek Dr",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303816715,
-    "wof:lastmodified":1448999547,
+    "wof:lastmodified":1466655105,
     "wof:name":"Anna J & Robert E Jerniga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.690295,35.318742,-77.690295,35.318742],
-  "geometry": {"coordinates":[-77.690295,35.318742],"type":"Point"}
+  "bbox": [
+    -77.690295,
+    35.318742,
+    -77.690295,
+    35.318742
+],
+  "geometry": {"coordinates":[-77.69029500000001,35.318742],"type":"Point"}
 }

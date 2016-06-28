@@ -2,13 +2,14 @@
   "id": 269899273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.954996,35.956031,-78.954996,35.956031",
     "geom:latitude":35.956031,
     "geom:longitude":-78.954996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3605 Shannon Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269899273,
-    "wof:lastmodified":1449038838,
+    "wof:lastmodified":1466648097,
     "wof:name":"County of Durham",
     "wof:parent_id":85877193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-78.954996,35.956031,-78.954996,35.956031],
-  "geometry": {"coordinates":[-78.954996,35.956031],"type":"Point"}
+  "bbox": [
+    -78.954996,
+    35.956031,
+    -78.954996,
+    35.956031
+],
+  "geometry": {"coordinates":[-78.95499599999999,35.956031],"type":"Point"}
 }

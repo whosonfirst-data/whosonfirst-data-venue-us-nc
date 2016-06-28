@@ -2,13 +2,14 @@
   "id": 404175633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.521448,35.272885,-81.521448,35.272885",
     "geom:latitude":35.272885,
     "geom:longitude":-81.521448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 E Dixon Blvd",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404175633,
-    "wof:lastmodified":1449039960,
+    "wof:lastmodified":1466653518,
     "wof:name":"Shelby Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-81.521448,35.272885,-81.521448,35.272885],
-  "geometry": {"coordinates":[-81.521448,35.272885],"type":"Point"}
+  "bbox": [
+    -81.521448,
+    35.272885,
+    -81.521448,
+    35.272885
+],
+  "geometry": {"coordinates":[-81.52144800000001,35.272885],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203210701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.849055,34.211765,-77.849055,34.211765",
     "geom:latitude":34.211765,
     "geom:longitude":-77.849055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Hinton Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203210701,
-    "wof:lastmodified":1449025556,
+    "wof:lastmodified":1466655258,
     "wof:name":"Huffman's Accounting & Tax Svc",
     "wof:parent_id":85838865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-77.849055,34.211765,-77.849055,34.211765],
-  "geometry": {"coordinates":[-77.849055,34.211765],"type":"Point"}
+  "bbox": [
+    -77.849055,
+    34.211765,
+    -77.849055,
+    34.211765
+],
+  "geometry": {"coordinates":[-77.84905500000001,34.211765],"type":"Point"}
 }

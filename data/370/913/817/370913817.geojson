@@ -2,13 +2,14 @@
   "id": 370913817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949332,35.399272,-77.949332,35.399272",
     "geom:latitude":35.399272,
     "geom:longitude":-77.949332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Cox Blvd",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370913817,
-    "wof:lastmodified":1449030392,
+    "wof:lastmodified":1466656877,
     "wof:name":"Goldsboro Medical Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.949332,35.399272,-77.949332,35.399272],
+  "bbox": [
+    -77.949332,
+    35.399272,
+    -77.949332,
+    35.399272
+],
   "geometry": {"coordinates":[-77.949332,35.399272],"type":"Point"}
 }

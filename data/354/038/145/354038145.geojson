@@ -2,13 +2,14 @@
   "id": 354038145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.687492,35.803248,-78.687492,35.803248",
     "geom:latitude":35.803248,
     "geom:longitude":-78.687492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Ridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354038145,
-    "wof:lastmodified":1449067060,
+    "wof:lastmodified":1466648000,
     "wof:name":"Sebring Hairlines Distributors",
     "wof:parent_id":85844573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-78.687492,35.803248,-78.687492,35.803248],
-  "geometry": {"coordinates":[-78.687492,35.803248],"type":"Point"}
+  "bbox": [
+    -78.687492,
+    35.803248,
+    -78.687492,
+    35.803248
+],
+  "geometry": {"coordinates":[-78.68749200000001,35.803248],"type":"Point"}
 }

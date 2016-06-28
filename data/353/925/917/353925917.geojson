@@ -2,13 +2,14 @@
   "id": 353925917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.496576,35.998603,-78.496576,35.998603",
     "geom:latitude":35.998603,
     "geom:longitude":-78.496576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1164 N Main St",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353925917,
-    "wof:lastmodified":1449018285,
+    "wof:lastmodified":1466653203,
     "wof:name":"Reflection Tower Svc Inc",
     "wof:parent_id":85892181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tower"
     ]
 },
-  "bbox": [-78.496576,35.998603,-78.496576,35.998603],
+  "bbox": [
+    -78.496576,
+    35.998603,
+    -78.496576,
+    35.998603
+],
   "geometry": {"coordinates":[-78.496576,35.998603],"type":"Point"}
 }

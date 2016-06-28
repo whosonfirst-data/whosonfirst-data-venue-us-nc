@@ -2,13 +2,14 @@
   "id": 387356965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.807819,35.601003,-78.807819,35.601003",
     "geom:latitude":35.601003,
     "geom:longitude":-78.807819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Youngwood Rd",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387356965,
-    "wof:lastmodified":1449059247,
+    "wof:lastmodified":1466654554,
     "wof:name":"Housing Authority County WA",
     "wof:parent_id":85857689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "executive"
     ]
 },
-  "bbox": [-78.807819,35.601003,-78.807819,35.601003],
-  "geometry": {"coordinates":[-78.807819,35.601003],"type":"Point"}
+  "bbox": [
+    -78.807819,
+    35.601003,
+    -78.807819,
+    35.601003
+],
+  "geometry": {"coordinates":[-78.80781899999999,35.601003],"type":"Point"}
 }

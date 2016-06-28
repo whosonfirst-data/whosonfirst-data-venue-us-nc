@@ -2,13 +2,14 @@
   "id": 303349309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.048155,35.847033,-77.048155,35.847033",
     "geom:latitude":35.847033,
     "geom:longitude":-77.048155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Green St",
     "sg:city":"Williamston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303349309,
-    "wof:lastmodified":1448999041,
+    "wof:lastmodified":1466648337,
     "wof:name":"Pamlico Orthopedics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.048155,35.847033,-77.048155,35.847033],
-  "geometry": {"coordinates":[-77.048155,35.847033],"type":"Point"}
+  "bbox": [
+    -77.048155,
+    35.847033,
+    -77.048155,
+    35.847033
+],
+  "geometry": {"coordinates":[-77.04815499999999,35.847033],"type":"Point"}
 }

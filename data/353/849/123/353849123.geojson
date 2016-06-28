@@ -2,13 +2,14 @@
   "id": 353849123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.281523,36.140764,-78.281523,36.140764",
     "geom:latitude":36.140764,
     "geom:longitude":-78.281523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 Moulton Rd",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353849123,
-    "wof:lastmodified":1449018720,
+    "wof:lastmodified":1466652314,
     "wof:name":"Jerry W Ball Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-78.281523,36.140764,-78.281523,36.140764],
-  "geometry": {"coordinates":[-78.281523,36.140764],"type":"Point"}
+  "bbox": [
+    -78.281523,
+    36.140764,
+    -78.281523,
+    36.140764
+],
+  "geometry": {"coordinates":[-78.28152300000001,36.140764],"type":"Point"}
 }

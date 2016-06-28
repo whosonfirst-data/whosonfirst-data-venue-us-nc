@@ -2,13 +2,14 @@
   "id": 354141383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.554375,35.37521,-78.554375,35.37521",
     "geom:latitude":35.37521,
     "geom:longitude":-78.554375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 S Wall St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354141383,
-    "wof:lastmodified":1449066516,
+    "wof:lastmodified":1466649195,
     "wof:name":"Pat's Grocery Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-78.554375,35.37521,-78.554375,35.37521],
-  "geometry": {"coordinates":[-78.554375,35.37521],"type":"Point"}
+  "bbox": [
+    -78.554375,
+    35.37521,
+    -78.554375,
+    35.37521
+],
+  "geometry": {"coordinates":[-78.55437499999999,35.37521],"type":"Point"}
 }

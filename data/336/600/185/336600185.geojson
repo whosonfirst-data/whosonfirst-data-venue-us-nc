@@ -2,13 +2,14 @@
   "id": 336600185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.548003,34.983416,-80.548003,34.983416",
     "geom:latitude":34.983416,
     "geom:longitude":-80.548003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Jefferson St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336600185,
-    "wof:lastmodified":1448997031,
+    "wof:lastmodified":1466645828,
     "wof:name":"McAdam Printing and Graphics",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "offset"
     ]
 },
-  "bbox": [-80.548003,34.983416,-80.548003,34.983416],
-  "geometry": {"coordinates":[-80.548003,34.983416],"type":"Point"}
+  "bbox": [
+    -80.548003,
+    34.983416,
+    -80.548003,
+    34.983416
+],
+  "geometry": {"coordinates":[-80.54800299999999,34.983416],"type":"Point"}
 }

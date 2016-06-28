@@ -2,13 +2,14 @@
   "id": 269515367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.3559,35.719133,-78.3559,35.719133",
     "geom:latitude":35.719133,
     "geom:longitude":-78.3559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2343 Wendell Rd",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269515367,
-    "wof:lastmodified":1449036697,
+    "wof:lastmodified":1466643588,
     "wof:name":"Eastern Auto Inc",
     "wof:parent_id":85854199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-78.3559,35.719133,-78.3559,35.719133],
-  "geometry": {"coordinates":[-78.3559,35.719133],"type":"Point"}
+  "bbox": [
+    -78.3559,
+    35.719133,
+    -78.3559,
+    35.719133
+],
+  "geometry": {"coordinates":[-78.35590000000001,35.719133],"type":"Point"}
 }

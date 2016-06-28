@@ -2,13 +2,14 @@
   "id": 303275257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.897743,35.992156,-78.897743,35.992156",
     "geom:latitude":35.992156,
     "geom:longitude":-78.897743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Ramseur St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303275257,
-    "wof:lastmodified":1448998902,
+    "wof:lastmodified":1466647324,
     "wof:name":"Atm USA LLC",
     "wof:parent_id":85877155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automated"
     ]
 },
-  "bbox": [-78.897743,35.992156,-78.897743,35.992156],
-  "geometry": {"coordinates":[-78.897743,35.992156],"type":"Point"}
+  "bbox": [
+    -78.897743,
+    35.992156,
+    -78.897743,
+    35.992156
+],
+  "geometry": {"coordinates":[-78.89774300000001,35.992156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387554039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.747052,35.813164,-79.747052,35.813164",
     "geom:latitude":35.813164,
     "geom:longitude":-79.747052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3552 Tom Brown Rd",
     "sg:city":"Franklinville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387554039,
-    "wof:lastmodified":1449056888,
+    "wof:lastmodified":1466656410,
     "wof:name":"Leonard's Hauling & Bobcat Svc",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.747052,35.813164,-79.747052,35.813164],
+  "bbox": [
+    -79.747052,
+    35.813164,
+    -79.747052,
+    35.813164
+],
   "geometry": {"coordinates":[-79.747052,35.813164],"type":"Point"}
 }

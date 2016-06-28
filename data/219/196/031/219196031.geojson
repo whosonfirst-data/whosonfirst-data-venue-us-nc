@@ -2,13 +2,14 @@
   "id": 219196031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.055072,35.913455,-79.055072,35.913455",
     "geom:latitude":35.913455,
     "geom:longitude":-79.055072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 E Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219196031,
-    "wof:lastmodified":1449071192,
+    "wof:lastmodified":1466655347,
     "wof:name":"Time Temperature Weather Svc",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.055072,35.913455,-79.055072,35.913455],
+  "bbox": [
+    -79.055072,
+    35.913455,
+    -79.055072,
+    35.913455
+],
   "geometry": {"coordinates":[-79.055072,35.913455],"type":"Point"}
 }

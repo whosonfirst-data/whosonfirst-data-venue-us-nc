@@ -2,13 +2,14 @@
   "id": 303086055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.95727,35.972382,-77.95727,35.972382",
     "geom:latitude":35.972382,
     "geom:longitude":-77.95727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 E Washington St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303086055,
-    "wof:lastmodified":1448999756,
+    "wof:lastmodified":1466644487,
     "wof:name":"L & L Food Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.95727,35.972382,-77.95727,35.972382],
-  "geometry": {"coordinates":[-77.95727,35.972382],"type":"Point"}
+  "bbox": [
+    -77.95727,
+    35.972382,
+    -77.95727,
+    35.972382
+],
+  "geometry": {"coordinates":[-77.95726999999999,35.972382],"type":"Point"}
 }

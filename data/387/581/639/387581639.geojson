@@ -2,13 +2,14 @@
   "id": 387581639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.977198,35.389887,-77.977198,35.389887",
     "geom:latitude":35.389887,
     "geom:longitude":-77.977198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Royall Ave",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387581639,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1466656739,
     "wof:name":"Body Of Christ",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.977198,35.389887,-77.977198,35.389887],
+  "bbox": [
+    -77.977198,
+    35.389887,
+    -77.977198,
+    35.389887
+],
   "geometry": {"coordinates":[-77.977198,35.389887],"type":"Point"}
 }

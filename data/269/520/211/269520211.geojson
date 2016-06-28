@@ -2,13 +2,14 @@
   "id": 269520211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.390898,33.909986,-78.390898,33.909986",
     "geom:latitude":33.909986,
     "geom:longitude":-78.390898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4716 Ibis Cir SW",
     "sg:city":"South Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269520211,
-    "wof:lastmodified":1449036931,
+    "wof:lastmodified":1466643646,
     "wof:name":"Mirror Image Comprehensive",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-78.390898,33.909986,-78.390898,33.909986],
-  "geometry": {"coordinates":[-78.390898,33.909986],"type":"Point"}
+  "bbox": [
+    -78.390898,
+    33.909986,
+    -78.390898,
+    33.909986
+],
+  "geometry": {"coordinates":[-78.39089800000001,33.909986],"type":"Point"}
 }

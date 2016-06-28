@@ -2,13 +2,14 @@
   "id": 286476445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.627997,35.783478,-78.627997,35.783478",
     "geom:latitude":35.783478,
     "geom:longitude":-78.627997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E Lane St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286476445,
-    "wof:lastmodified":1449016363,
+    "wof:lastmodified":1466646027,
     "wof:name":"Quality Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.627997,35.783478,-78.627997,35.783478],
-  "geometry": {"coordinates":[-78.627997,35.783478],"type":"Point"}
+  "bbox": [
+    -78.627997,
+    35.783478,
+    -78.627997,
+    35.783478
+],
+  "geometry": {"coordinates":[-78.62799699999999,35.783478],"type":"Point"}
 }

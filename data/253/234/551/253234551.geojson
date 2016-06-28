@@ -2,13 +2,14 @@
   "id": 253234551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.545797,35.60146,-82.545797,35.60146",
     "geom:latitude":35.60146,
     "geom:longitude":-82.545797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Arlington St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253234551,
-    "wof:lastmodified":1449065635,
+    "wof:lastmodified":1466645422,
     "wof:name":"Illisions",
     "wof:parent_id":85825097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.545797,35.60146,-82.545797,35.60146],
-  "geometry": {"coordinates":[-82.545797,35.60146],"type":"Point"}
+  "bbox": [
+    -82.545797,
+    35.60146,
+    -82.545797,
+    35.60146
+],
+  "geometry": {"coordinates":[-82.54579699999999,35.60146],"type":"Point"}
 }

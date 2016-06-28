@@ -2,13 +2,14 @@
   "id": 354325553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.337071,35.777206,-81.337071,35.777206",
     "geom:latitude":35.777206,
     "geom:longitude":-81.337071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3121 3rd Street Dr NW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354325553,
-    "wof:lastmodified":1449066576,
+    "wof:lastmodified":1466651323,
     "wof:name":"Greathouse Jones Cnstr Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-81.337071,35.777206,-81.337071,35.777206],
-  "geometry": {"coordinates":[-81.337071,35.777206],"type":"Point"}
+  "bbox": [
+    -81.337071,
+    35.777206,
+    -81.337071,
+    35.777206
+],
+  "geometry": {"coordinates":[-81.33707099999999,35.777206],"type":"Point"}
 }

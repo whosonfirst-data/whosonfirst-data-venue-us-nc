@@ -2,13 +2,14 @@
   "id": 303735021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.219676,36.109418,-80.219676,36.109418",
     "geom:latitude":36.109418,
     "geom:longitude":-80.219676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 E 12th St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303735021,
-    "wof:lastmodified":1449000511,
+    "wof:lastmodified":1466653925,
     "wof:name":"Winston Salem Forsyth County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-80.219676,36.109418,-80.219676,36.109418],
-  "geometry": {"coordinates":[-80.219676,36.109418],"type":"Point"}
+  "bbox": [
+    -80.219676,
+    36.109418,
+    -80.219676,
+    36.109418
+],
+  "geometry": {"coordinates":[-80.21967600000001,36.109418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403770545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.668934,35.877689,-78.668934,35.877689",
     "geom:latitude":35.877689,
     "geom:longitude":-78.668934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Spiny Ridge Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403770545,
-    "wof:lastmodified":1449055997,
+    "wof:lastmodified":1466651199,
     "wof:name":"Yale Investments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-78.668934,35.877689,-78.668934,35.877689],
-  "geometry": {"coordinates":[-78.668934,35.877689],"type":"Point"}
+  "bbox": [
+    -78.668934,
+    35.877689,
+    -78.668934,
+    35.877689
+],
+  "geometry": {"coordinates":[-78.66893399999999,35.877689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387827609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.053002,35.908678,-79.053002,35.908678",
     "geom:latitude":35.908678,
     "geom:longitude":-79.053002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Columbia St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387827609,
-    "wof:lastmodified":1449057461,
+    "wof:lastmodified":1466657834,
     "wof:name":"Chi Phi Kitchen",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.053002,35.908678,-79.053002,35.908678],
-  "geometry": {"coordinates":[-79.053002,35.908678],"type":"Point"}
+  "bbox": [
+    -79.053002,
+    35.908678,
+    -79.053002,
+    35.908678
+],
+  "geometry": {"coordinates":[-79.05300200000001,35.908678],"type":"Point"}
 }

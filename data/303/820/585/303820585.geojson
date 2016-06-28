@@ -2,13 +2,14 @@
   "id": 303820585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.589451,36.139145,-78.589451,36.139145",
     "geom:latitude":36.139145,
     "geom:longitude":-78.589451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3542 Walters Rd",
     "sg:city":"Creedmoor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303820585,
-    "wof:lastmodified":1448999383,
+    "wof:lastmodified":1466655156,
     "wof:name":"White Truck & Auto",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-78.589451,36.139145,-78.589451,36.139145],
+  "bbox": [
+    -78.589451,
+    36.139145,
+    -78.589451,
+    36.139145
+],
   "geometry": {"coordinates":[-78.589451,36.139145],"type":"Point"}
 }

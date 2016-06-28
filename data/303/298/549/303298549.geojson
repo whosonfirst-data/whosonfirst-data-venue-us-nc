@@ -2,13 +2,14 @@
   "id": 303298549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.809032,34.290835,-77.809032,34.290835",
     "geom:latitude":34.290835,
     "geom:longitude":-77.809032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Graystone Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303298549,
-    "wof:lastmodified":1448998773,
+    "wof:lastmodified":1466647653,
     "wof:name":"Riptide Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-77.809032,34.290835,-77.809032,34.290835],
+  "bbox": [
+    -77.809032,
+    34.290835,
+    -77.809032,
+    34.290835
+],
   "geometry": {"coordinates":[-77.809032,34.290835],"type":"Point"}
 }

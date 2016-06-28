@@ -2,13 +2,14 @@
   "id": 253582315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.437552,36.093166,-79.437552,36.093166",
     "geom:latitude":36.093166,
     "geom:longitude":-79.437552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Main St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253582315,
-    "wof:lastmodified":1449064425,
+    "wof:lastmodified":1466649366,
     "wof:name":"Wine House",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-79.437552,36.093166,-79.437552,36.093166],
+  "bbox": [
+    -79.437552,
+    36.093166,
+    -79.437552,
+    36.093166
+],
   "geometry": {"coordinates":[-79.437552,36.093166],"type":"Point"}
 }

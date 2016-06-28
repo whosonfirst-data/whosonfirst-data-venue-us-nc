@@ -2,13 +2,14 @@
   "id": 253499203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.460484,35.663112,-80.460484,35.663112",
     "geom:latitude":35.663112,
     "geom:longitude":-80.460484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 E Liberty St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253499203,
-    "wof:lastmodified":1449063373,
+    "wof:lastmodified":1466648367,
     "wof:name":"WOGR",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-80.460484,35.663112,-80.460484,35.663112],
-  "geometry": {"coordinates":[-80.460484,35.663112],"type":"Point"}
+  "bbox": [
+    -80.460484,
+    35.663112,
+    -80.460484,
+    35.663112
+],
+  "geometry": {"coordinates":[-80.46048399999999,35.663112],"type":"Point"}
 }

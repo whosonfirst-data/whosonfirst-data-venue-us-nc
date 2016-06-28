@@ -2,13 +2,14 @@
   "id": 286634301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.87302,34.817984,-76.87302,34.817984",
     "geom:latitude":34.817984,
     "geom:longitude":-76.87302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1146 Chatham St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286634301,
-    "wof:lastmodified":1449016596,
+    "wof:lastmodified":1466648204,
     "wof:name":"John Richard",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-76.87302,34.817984,-76.87302,34.817984],
+  "bbox": [
+    -76.87302,
+    34.817984,
+    -76.87302,
+    34.817984
+],
   "geometry": {"coordinates":[-76.87302,34.817984],"type":"Point"}
 }

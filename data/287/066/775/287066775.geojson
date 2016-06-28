@@ -2,13 +2,14 @@
   "id": 287066775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.656281,34.365522,-78.656281,34.365522",
     "geom:latitude":34.365522,
     "geom:longitude":-78.656281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3858 Red Hill Rd",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287066775,
-    "wof:lastmodified":1449000904,
+    "wof:lastmodified":1466644194,
     "wof:name":"Quail Ridge Antiques",
     "wof:parent_id":85846389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.656281,34.365522,-78.656281,34.365522],
-  "geometry": {"coordinates":[-78.656281,34.365522],"type":"Point"}
+  "bbox": [
+    -78.656281,
+    34.365522,
+    -78.656281,
+    34.365522
+],
+  "geometry": {"coordinates":[-78.65628100000001,34.365522],"type":"Point"}
 }

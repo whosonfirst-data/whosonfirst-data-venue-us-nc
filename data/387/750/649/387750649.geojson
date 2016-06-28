@@ -2,13 +2,14 @@
   "id": 387750649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.836344,35.770824,-79.836344,35.770824",
     "geom:latitude":35.770824,
     "geom:longitude":-79.836344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2767 Lazy Pine Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387750649,
-    "wof:lastmodified":1449058401,
+    "wof:lastmodified":1466657593,
     "wof:name":"Pine View Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.836344,35.770824,-79.836344,35.770824],
+  "bbox": [
+    -79.836344,
+    35.770824,
+    -79.836344,
+    35.770824
+],
   "geometry": {"coordinates":[-79.836344,35.770824],"type":"Point"}
 }

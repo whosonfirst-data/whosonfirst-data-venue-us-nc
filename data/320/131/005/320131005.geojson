@@ -2,13 +2,14 @@
   "id": 320131005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.670664,35.884235,-78.670664,35.884235",
     "geom:latitude":35.884235,
     "geom:longitude":-78.670664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7610 Wellesley Park N",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320131005,
-    "wof:lastmodified":1449012393,
+    "wof:lastmodified":1466647141,
     "wof:name":"John W Butler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.670664,35.884235,-78.670664,35.884235],
+  "bbox": [
+    -78.670664,
+    35.884235,
+    -78.670664,
+    35.884235
+],
   "geometry": {"coordinates":[-78.670664,35.884235],"type":"Point"}
 }

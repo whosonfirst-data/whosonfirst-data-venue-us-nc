@@ -2,13 +2,14 @@
   "id": 386926103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.34797,35.510565,-78.34797,35.510565",
     "geom:latitude":35.510565,
     "geom:longitude":-78.34797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E Johnston St",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386926103,
-    "wof:lastmodified":1449028735,
+    "wof:lastmodified":1466649334,
     "wof:name":"John A Whitley Attorney-Law",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.34797,35.510565,-78.34797,35.510565],
+  "bbox": [
+    -78.34797,
+    35.510565,
+    -78.34797,
+    35.510565
+],
   "geometry": {"coordinates":[-78.34797,35.510565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404100265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.660513,36.462337,-77.660513,36.462337",
     "geom:latitude":36.462337,
     "geom:longitude":-77.660513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Franklin St",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404100265,
-    "wof:lastmodified":1449040001,
+    "wof:lastmodified":1466652541,
     "wof:name":"John C Christenbury Elc & Hg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.660513,36.462337,-77.660513,36.462337],
-  "geometry": {"coordinates":[-77.660513,36.462337],"type":"Point"}
+  "bbox": [
+    -77.660513,
+    36.462337,
+    -77.660513,
+    36.462337
+],
+  "geometry": {"coordinates":[-77.66051299999999,36.462337],"type":"Point"}
 }

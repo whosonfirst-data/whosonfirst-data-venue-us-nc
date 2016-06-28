@@ -2,13 +2,14 @@
   "id": 303207829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.46746,34.755392,-77.46746,34.755392",
     "geom:latitude":34.755392,
     "geom:longitude":-77.46746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2881 Richlands Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303207829,
-    "wof:lastmodified":1448999828,
+    "wof:lastmodified":1466646330,
     "wof:name":"Charles A Diegert DDS",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-77.46746,34.755392,-77.46746,34.755392],
+  "bbox": [
+    -77.46746,
+    34.755392,
+    -77.46746,
+    34.755392
+],
   "geometry": {"coordinates":[-77.46746,34.755392],"type":"Point"}
 }

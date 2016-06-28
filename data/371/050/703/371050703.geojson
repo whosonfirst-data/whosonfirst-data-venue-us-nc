@@ -2,13 +2,14 @@
   "id": 371050703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.899909,34.058804,-77.899909,34.058804",
     "geom:latitude":34.058804,
     "geom:longitude":-77.899909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9702 River Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371050703,
-    "wof:lastmodified":1449049627,
+    "wof:lastmodified":1466649463,
     "wof:name":"ABC Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-77.899909,34.058804,-77.899909,34.058804],
-  "geometry": {"coordinates":[-77.899909,34.058804],"type":"Point"}
+  "bbox": [
+    -77.899909,
+    34.058804,
+    -77.899909,
+    34.058804
+],
+  "geometry": {"coordinates":[-77.89990899999999,34.058804],"type":"Point"}
 }

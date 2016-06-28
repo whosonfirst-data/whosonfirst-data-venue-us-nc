@@ -2,13 +2,14 @@
   "id": 303293283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.598757,35.825696,-78.598757,35.825696",
     "geom:latitude":35.825696,
     "geom:longitude":-78.598757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3313 Glenridge Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303293283,
-    "wof:lastmodified":1448998594,
+    "wof:lastmodified":1466647579,
     "wof:name":"Guest Brother's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.598757,35.825696,-78.598757,35.825696],
-  "geometry": {"coordinates":[-78.598757,35.825696],"type":"Point"}
+  "bbox": [
+    -78.598757,
+    35.825696,
+    -78.598757,
+    35.825696
+],
+  "geometry": {"coordinates":[-78.59875700000001,35.825696],"type":"Point"}
 }

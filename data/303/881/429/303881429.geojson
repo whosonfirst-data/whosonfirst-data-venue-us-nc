@@ -2,13 +2,14 @@
   "id": 303881429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.356721,35.244136,-78.356721,35.244136",
     "geom:latitude":35.244136,
     "geom:longitude":-78.356721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 Fayetteville St",
     "sg:city":"Newton Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303881429,
-    "wof:lastmodified":1448999541,
+    "wof:lastmodified":1466656014,
     "wof:name":"MDC Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.356721,35.244136,-78.356721,35.244136],
-  "geometry": {"coordinates":[-78.356721,35.244136],"type":"Point"}
+  "bbox": [
+    -78.356721,
+    35.244136,
+    -78.356721,
+    35.244136
+],
+  "geometry": {"coordinates":[-78.35672099999999,35.244136],"type":"Point"}
 }

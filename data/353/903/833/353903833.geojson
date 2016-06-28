@@ -2,13 +2,14 @@
   "id": 353903833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.311472,34.456084,-78.311472,34.456084",
     "geom:latitude":34.456084,
     "geom:longitude":-78.311472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 Natmore Rd",
     "sg:city":"Kelly",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353903833,
-    "wof:lastmodified":1449018407,
+    "wof:lastmodified":1466652952,
     "wof:name":"County Line Wrecker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-78.311472,34.456084,-78.311472,34.456084],
-  "geometry": {"coordinates":[-78.311472,34.456084],"type":"Point"}
+  "bbox": [
+    -78.311472,
+    34.456084,
+    -78.311472,
+    34.456084
+],
+  "geometry": {"coordinates":[-78.31147199999999,34.456084],"type":"Point"}
 }

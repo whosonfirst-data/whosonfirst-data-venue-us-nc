@@ -2,13 +2,14 @@
   "id": 386985323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.244751,35.512588,-78.244751,35.512588",
     "geom:latitude":35.512588,
     "geom:longitude":-78.244751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Peedin Ave",
     "sg:city":"Pine Level",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386985323,
-    "wof:lastmodified":1449028775,
+    "wof:lastmodified":1466650136,
     "wof:name":"Versastyle Hair Salon",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.244751,35.512588,-78.244751,35.512588],
-  "geometry": {"coordinates":[-78.244751,35.512588],"type":"Point"}
+  "bbox": [
+    -78.244751,
+    35.512588,
+    -78.244751,
+    35.512588
+],
+  "geometry": {"coordinates":[-78.24475099999999,35.512588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336737575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.615192,35.299092,-78.615192,35.299092",
     "geom:latitude":35.299092,
     "geom:longitude":-78.615192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S Clinton Ave",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336737575,
-    "wof:lastmodified":1448997192,
+    "wof:lastmodified":1466647923,
     "wof:name":"Basic Home Health Care",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-78.615192,35.299092,-78.615192,35.299092],
-  "geometry": {"coordinates":[-78.615192,35.299092],"type":"Point"}
+  "bbox": [
+    -78.615192,
+    35.299092,
+    -78.615192,
+    35.299092
+],
+  "geometry": {"coordinates":[-78.61519199999999,35.299092],"type":"Point"}
 }

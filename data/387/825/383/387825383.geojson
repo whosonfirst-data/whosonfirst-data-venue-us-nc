@@ -2,13 +2,14 @@
   "id": 387825383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.054247,35.543283,-77.054247,35.543283",
     "geom:latitude":35.543283,
     "geom:longitude":-77.054247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E 2nd St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387825383,
-    "wof:lastmodified":1449056265,
+    "wof:lastmodified":1466657832,
     "wof:name":"Washington Bldg Inspections",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-77.054247,35.543283,-77.054247,35.543283],
+  "bbox": [
+    -77.054247,
+    35.543283,
+    -77.054247,
+    35.543283
+],
   "geometry": {"coordinates":[-77.054247,35.543283],"type":"Point"}
 }

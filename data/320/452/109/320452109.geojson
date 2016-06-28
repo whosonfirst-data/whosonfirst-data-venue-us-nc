@@ -2,13 +2,14 @@
   "id": 320452109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.505086,36.080811,-79.505086,36.080811",
     "geom:latitude":36.080811,
     "geom:longitude":-79.505086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3258 S Church St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320452109,
-    "wof:lastmodified":1449012141,
+    "wof:lastmodified":1466651672,
     "wof:name":"Game Master",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "video"
     ]
 },
-  "bbox": [-79.505086,36.080811,-79.505086,36.080811],
-  "geometry": {"coordinates":[-79.505086,36.080811],"type":"Point"}
+  "bbox": [
+    -79.505086,
+    36.080811,
+    -79.505086,
+    36.080811
+],
+  "geometry": {"coordinates":[-79.50508600000001,36.080811],"type":"Point"}
 }

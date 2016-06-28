@@ -2,13 +2,14 @@
   "id": 320140419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.139243,36.010128,-80.139243,36.010128",
     "geom:latitude":36.010128,
     "geom:longitude":-80.139243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8606 State Hwy 109",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320140419,
-    "wof:lastmodified":1449011798,
+    "wof:lastmodified":1466647270,
     "wof:name":"DCH Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.139243,36.010128,-80.139243,36.010128],
-  "geometry": {"coordinates":[-80.139243,36.010128],"type":"Point"}
+  "bbox": [
+    -80.139243,
+    36.010128,
+    -80.139243,
+    36.010128
+],
+  "geometry": {"coordinates":[-80.13924299999999,36.010128],"type":"Point"}
 }

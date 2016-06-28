@@ -2,13 +2,14 @@
   "id": 202612895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.395717,35.163461,-79.395717,35.163461",
     "geom:latitude":35.163461,
     "geom:longitude":-79.395717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Country Club Cir",
     "sg:city":"Southern Pines",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202612895,
-    "wof:lastmodified":1449061243,
+    "wof:lastmodified":1466655565,
     "wof:name":"Golf Course Maintenance",
     "wof:parent_id":85834083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-79.395717,35.163461,-79.395717,35.163461],
+  "bbox": [
+    -79.395717,
+    35.163461,
+    -79.395717,
+    35.163461
+],
   "geometry": {"coordinates":[-79.395717,35.163461],"type":"Point"}
 }

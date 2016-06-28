@@ -2,13 +2,14 @@
   "id": 303352573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.243896,36.097798,-80.243896,36.097798",
     "geom:latitude":36.097798,
     "geom:longitude":-80.243896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Main St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303352573,
-    "wof:lastmodified":1448999624,
+    "wof:lastmodified":1466648385,
     "wof:name":"Forsyth County Magistrate",
     "wof:parent_id":85867051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-80.243896,36.097798,-80.243896,36.097798],
-  "geometry": {"coordinates":[-80.243896,36.097798],"type":"Point"}
+  "bbox": [
+    -80.243896,
+    36.097798,
+    -80.243896,
+    36.097798
+],
+  "geometry": {"coordinates":[-80.24389600000001,36.097798],"type":"Point"}
 }

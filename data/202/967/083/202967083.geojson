@@ -2,13 +2,14 @@
   "id": 202967083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.526671,35.24953,-80.526671,35.24953",
     "geom:latitude":35.24953,
     "geom:longitude":-80.526671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12250 Bethel School Rd",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202967083,
-    "wof:lastmodified":1449062459,
+    "wof:lastmodified":1466645469,
     "wof:name":"Anderson America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-80.526671,35.24953,-80.526671,35.24953],
-  "geometry": {"coordinates":[-80.526671,35.24953],"type":"Point"}
+  "bbox": [
+    -80.526671,
+    35.24953,
+    -80.526671,
+    35.24953
+],
+  "geometry": {"coordinates":[-80.52667099999999,35.24953],"type":"Point"}
 }

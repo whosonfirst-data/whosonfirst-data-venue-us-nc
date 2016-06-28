@@ -2,13 +2,14 @@
   "id": 303419535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.841224,34.20951,-77.841224,34.20951",
     "geom:latitude":34.20951,
     "geom:longitude":-77.841224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5918 Oleander Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303419535,
-    "wof:lastmodified":1449000521,
+    "wof:lastmodified":1466649354,
     "wof:name":"RAGS",
     "wof:parent_id":85838865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plaque"
     ]
 },
-  "bbox": [-77.841224,34.20951,-77.841224,34.20951],
+  "bbox": [
+    -77.841224,
+    34.20951,
+    -77.841224,
+    34.20951
+],
   "geometry": {"coordinates":[-77.841224,34.20951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236880737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.040433,35.114017,-77.040433,35.114017",
     "geom:latitude":35.114017,
     "geom:longitude":-77.040433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 N Craven St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236880737,
-    "wof:lastmodified":1449005287,
+    "wof:lastmodified":1466651123,
     "wof:name":"Atlantic Ice & Coal Corp",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ice"
     ]
 },
-  "bbox": [-77.040433,35.114017,-77.040433,35.114017],
-  "geometry": {"coordinates":[-77.040433,35.114017],"type":"Point"}
+  "bbox": [
+    -77.040433,
+    35.114017,
+    -77.040433,
+    35.114017
+],
+  "geometry": {"coordinates":[-77.04043299999999,35.114017],"type":"Point"}
 }

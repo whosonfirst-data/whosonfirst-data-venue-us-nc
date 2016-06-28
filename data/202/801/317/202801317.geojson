@@ -2,13 +2,14 @@
   "id": 202801317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.829138,36.106162,-79.829138,36.106162",
     "geom:latitude":36.106162,
     "geom:longitude":-79.829138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2713 Pinedale Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202801317,
-    "wof:lastmodified":1449062222,
+    "wof:lastmodified":1466644177,
     "wof:name":"David R Sullivan DDS",
     "wof:parent_id":85823331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.829138,36.106162,-79.829138,36.106162],
+  "bbox": [
+    -79.829138,
+    36.106162,
+    -79.829138,
+    36.106162
+],
   "geometry": {"coordinates":[-79.829138,36.106162],"type":"Point"}
 }

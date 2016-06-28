@@ -2,13 +2,14 @@
   "id": 286599293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.745798,36.077322,-79.745798,36.077322",
     "geom:latitude":36.077322,
     "geom:longitude":-79.745798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Lowdermilk St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":286599293,
-    "wof:lastmodified":1449016553,
+    "wof:lastmodified":1466647715,
     "wof:name":"Eli's Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-79.745798,36.077322,-79.745798,36.077322],
-  "geometry": {"coordinates":[-79.745798,36.077322],"type":"Point"}
+  "bbox": [
+    -79.745798,
+    36.077322,
+    -79.745798,
+    36.077322
+],
+  "geometry": {"coordinates":[-79.74579799999999,36.077322],"type":"Point"}
 }

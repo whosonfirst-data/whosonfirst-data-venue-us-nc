@@ -2,13 +2,14 @@
   "id": 303431093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.463886,34.804173,-77.463886,34.804173",
     "geom:latitude":34.804173,
     "geom:longitude":-77.463886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Winter Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303431093,
-    "wof:lastmodified":1448998446,
+    "wof:lastmodified":1466649517,
     "wof:name":"Rdc Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-77.463886,34.804173,-77.463886,34.804173],
+  "bbox": [
+    -77.463886,
+    34.804173,
+    -77.463886,
+    34.804173
+],
   "geometry": {"coordinates":[-77.463886,34.804173],"type":"Point"}
 }

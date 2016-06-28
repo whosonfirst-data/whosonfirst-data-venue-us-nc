@@ -2,13 +2,14 @@
   "id": 353531991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.65573,36.458986,-77.65573,36.458986",
     "geom:latitude":36.458986,
     "geom:longitude":-77.65573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 Roanoke Ave",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353531991,
-    "wof:lastmodified":1449018852,
+    "wof:lastmodified":1466648545,
     "wof:name":"Magnolia Gardens Senior Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rest"
     ]
 },
-  "bbox": [-77.65573,36.458986,-77.65573,36.458986],
-  "geometry": {"coordinates":[-77.65573,36.458986],"type":"Point"}
+  "bbox": [
+    -77.65573,
+    36.458986,
+    -77.65573,
+    36.458986
+],
+  "geometry": {"coordinates":[-77.65573000000001,36.458986],"type":"Point"}
 }

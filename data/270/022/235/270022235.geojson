@@ -2,13 +2,14 @@
   "id": 270022235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.445372,36.016625,-79.445372,36.016625",
     "geom:latitude":36.016625,
     "geom:longitude":-79.445372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4214 State Hwy 49",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270022235,
-    "wof:lastmodified":1449009443,
+    "wof:lastmodified":1466643456,
     "wof:name":"Bellemont Food Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.445372,36.016625,-79.445372,36.016625],
-  "geometry": {"coordinates":[-79.445372,36.016625],"type":"Point"}
+  "bbox": [
+    -79.445372,
+    36.016625,
+    -79.445372,
+    36.016625
+],
+  "geometry": {"coordinates":[-79.44537200000001,36.016625],"type":"Point"}
 }

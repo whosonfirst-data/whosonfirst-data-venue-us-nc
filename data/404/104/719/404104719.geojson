@@ -2,13 +2,14 @@
   "id": 404104719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.5015,35.428689,-82.5015,35.428689",
     "geom:latitude":35.428689,
     "geom:longitude":-82.5015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3877 Hendersonville Rd",
     "sg:city":"Fletcher",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404104719,
-    "wof:lastmodified":1449039524,
+    "wof:lastmodified":1466652595,
     "wof:name":"Jenny's Book Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.5015,35.428689,-82.5015,35.428689],
-  "geometry": {"coordinates":[-82.5015,35.428689],"type":"Point"}
+  "bbox": [
+    -82.5015,
+    35.428689,
+    -82.5015,
+    35.428689
+],
+  "geometry": {"coordinates":[-82.50149999999999,35.428689],"type":"Point"}
 }

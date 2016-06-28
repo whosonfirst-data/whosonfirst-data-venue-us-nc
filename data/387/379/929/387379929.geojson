@@ -2,13 +2,14 @@
   "id": 387379929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.580964,35.855122,-78.580964,35.855122",
     "geom:latitude":35.855122,
     "geom:longitude":-78.580964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387379929,
-    "wof:lastmodified":1449058316,
+    "wof:lastmodified":1466654843,
     "wof:name":"Leith Toyota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-78.580964,35.855122,-78.580964,35.855122],
-  "geometry": {"coordinates":[-78.580964,35.855122],"type":"Point"}
+  "bbox": [
+    -78.580964,
+    35.855122,
+    -78.580964,
+    35.855122
+],
+  "geometry": {"coordinates":[-78.58096399999999,35.855122],"type":"Point"}
 }

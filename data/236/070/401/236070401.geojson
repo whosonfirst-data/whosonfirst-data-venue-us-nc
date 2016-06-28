@@ -2,13 +2,14 @@
   "id": 236070401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.82275,35.822439,-79.82275,35.822439",
     "geom:latitude":35.822439,
     "geom:longitude":-79.82275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 High Point St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236070401,
-    "wof:lastmodified":1449003221,
+    "wof:lastmodified":1466643845,
     "wof:name":"Shoe Show",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.82275,35.822439,-79.82275,35.822439],
+  "bbox": [
+    -79.82275,
+    35.822439,
+    -79.82275,
+    35.822439
+],
   "geometry": {"coordinates":[-79.82275,35.822439],"type":"Point"}
 }

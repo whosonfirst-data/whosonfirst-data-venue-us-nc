@@ -2,13 +2,14 @@
   "id": 219191973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.655943,35.806902,-78.655943,35.806902",
     "geom:latitude":35.806902,
     "geom:longitude":-78.655943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Oberlin Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219191973,
-    "wof:lastmodified":1449072533,
+    "wof:lastmodified":1466655331,
     "wof:name":"Internships International LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.655943,35.806902,-78.655943,35.806902],
-  "geometry": {"coordinates":[-78.655943,35.806902],"type":"Point"}
+  "bbox": [
+    -78.655943,
+    35.806902,
+    -78.655943,
+    35.806902
+],
+  "geometry": {"coordinates":[-78.65594299999999,35.806902],"type":"Point"}
 }

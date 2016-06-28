@@ -2,13 +2,14 @@
   "id": 236081123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.796523,34.206123,-77.796523,34.206123",
     "geom:latitude":34.206123,
     "geom:longitude":-77.796523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Lumina Ave",
     "sg:city":"Wrightsville Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236081123,
-    "wof:lastmodified":1449002511,
+    "wof:lastmodified":1466643949,
     "wof:name":"South Beach Grill",
     "wof:parent_id":85859171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.796523,34.206123,-77.796523,34.206123],
-  "geometry": {"coordinates":[-77.796523,34.206123],"type":"Point"}
+  "bbox": [
+    -77.796523,
+    34.206123,
+    -77.796523,
+    34.206123
+],
+  "geometry": {"coordinates":[-77.79652299999999,34.206123],"type":"Point"}
 }

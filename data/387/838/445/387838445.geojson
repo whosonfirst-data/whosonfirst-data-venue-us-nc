@@ -2,13 +2,14 @@
   "id": 387838445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.616521,35.452365,-80.616521,35.452365",
     "geom:latitude":35.452365,
     "geom:longitude":-80.616521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 S Main St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387838445,
-    "wof:lastmodified":1449056571,
+    "wof:lastmodified":1466657844,
     "wof:name":"Cabarrus Rescue Squad",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-80.616521,35.452365,-80.616521,35.452365],
-  "geometry": {"coordinates":[-80.616521,35.452365],"type":"Point"}
+  "bbox": [
+    -80.616521,
+    35.452365,
+    -80.616521,
+    35.452365
+],
+  "geometry": {"coordinates":[-80.61652100000001,35.452365],"type":"Point"}
 }

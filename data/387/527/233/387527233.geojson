@@ -2,13 +2,14 @@
   "id": 387527233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.084227,35.574622,-77.084227,35.574622",
     "geom:latitude":35.574622,
     "geom:longitude":-77.084227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1983 W 5th St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387527233,
-    "wof:lastmodified":1449059130,
+    "wof:lastmodified":1466656258,
     "wof:name":"Pamlico Dialysis Unit",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-77.084227,35.574622,-77.084227,35.574622],
+  "bbox": [
+    -77.084227,
+    35.574622,
+    -77.084227,
+    35.574622
+],
   "geometry": {"coordinates":[-77.084227,35.574622],"type":"Point"}
 }

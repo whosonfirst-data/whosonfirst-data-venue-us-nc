@@ -2,13 +2,14 @@
   "id": 403837075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.922513,34.651324,-78.922513,34.651324",
     "geom:latitude":34.651324,
     "geom:longitude":-78.922513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Loch Raven Rd",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403837075,
-    "wof:lastmodified":1449054836,
+    "wof:lastmodified":1466652098,
     "wof:name":"Bruce Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.922513,34.651324,-78.922513,34.651324],
+  "bbox": [
+    -78.922513,
+    34.651324,
+    -78.922513,
+    34.651324
+],
   "geometry": {"coordinates":[-78.922513,34.651324],"type":"Point"}
 }

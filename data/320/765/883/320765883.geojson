@@ -2,13 +2,14 @@
   "id": 320765883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.935073,35.937319,-78.935073,35.937319",
     "geom:latitude":35.937319,
     "geom:longitude":-78.935073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Wynmore Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320765883,
-    "wof:lastmodified":1449013418,
+    "wof:lastmodified":1466656035,
     "wof:name":"Mutabase Software",
     "wof:parent_id":85877159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-78.935073,35.937319,-78.935073,35.937319],
+  "bbox": [
+    -78.935073,
+    35.937319,
+    -78.935073,
+    35.937319
+],
   "geometry": {"coordinates":[-78.935073,35.937319],"type":"Point"}
 }

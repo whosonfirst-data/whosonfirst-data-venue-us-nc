@@ -2,13 +2,14 @@
   "id": 303453209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.833076,35.225642,-80.833076,35.225642",
     "geom:latitude":35.225642,
     "geom:longitude":-80.833076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 E 8th St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303453209,
-    "wof:lastmodified":1448999957,
+    "wof:lastmodified":1466649850,
     "wof:name":"Five Holdings",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-80.833076,35.225642,-80.833076,35.225642],
-  "geometry": {"coordinates":[-80.833076,35.225642],"type":"Point"}
+  "bbox": [
+    -80.833076,
+    35.225642,
+    -80.833076,
+    35.225642
+],
+  "geometry": {"coordinates":[-80.83307600000001,35.225642],"type":"Point"}
 }

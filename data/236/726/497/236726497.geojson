@@ -2,13 +2,14 @@
   "id": 236726497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.777312,36.148235,-79.777312,36.148235",
     "geom:latitude":36.148235,
     "geom:longitude":-79.777312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5003 Turnbridge Cir",
     "sg:city":"Browns Summit",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236726497,
-    "wof:lastmodified":1449004006,
+    "wof:lastmodified":1466649739,
     "wof:name":"Turnbridge Apts",
     "wof:parent_id":85852095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.777312,36.148235,-79.777312,36.148235],
-  "geometry": {"coordinates":[-79.777312,36.148235],"type":"Point"}
+  "bbox": [
+    -79.777312,
+    36.148235,
+    -79.777312,
+    36.148235
+],
+  "geometry": {"coordinates":[-79.77731199999999,36.148235],"type":"Point"}
 }

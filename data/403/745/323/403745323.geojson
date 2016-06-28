@@ -2,13 +2,14 @@
   "id": 403745323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.7999,35.789682,-78.7999,35.789682",
     "geom:latitude":35.789682,
     "geom:longitude":-78.7999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Howland Ave",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403745323,
-    "wof:lastmodified":1449055889,
+    "wof:lastmodified":1466650879,
     "wof:name":"Triangle Spectrum Painting",
     "wof:parent_id":85817365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.7999,35.789682,-78.7999,35.789682],
-  "geometry": {"coordinates":[-78.7999,35.789682],"type":"Point"}
+  "bbox": [
+    -78.7999,
+    35.789682,
+    -78.7999,
+    35.789682
+],
+  "geometry": {"coordinates":[-78.79989999999999,35.789682],"type":"Point"}
 }

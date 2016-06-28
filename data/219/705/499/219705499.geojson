@@ -2,13 +2,14 @@
   "id": 219705499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.665416,35.844345,-78.665416,35.844345",
     "geom:latitude":35.844345,
     "geom:longitude":-78.665416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 Old Village Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219705499,
-    "wof:lastmodified":1449073940,
+    "wof:lastmodified":1466646392,
     "wof:name":"Blue Bird Properties LLC",
     "wof:parent_id":85844531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-78.665416,35.844345,-78.665416,35.844345],
-  "geometry": {"coordinates":[-78.665416,35.844345],"type":"Point"}
+  "bbox": [
+    -78.665416,
+    35.844345,
+    -78.665416,
+    35.844345
+],
+  "geometry": {"coordinates":[-78.66541599999999,35.844345],"type":"Point"}
 }

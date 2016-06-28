@@ -2,13 +2,14 @@
   "id": 320731307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.639533,35.855551,-78.639533,35.855551",
     "geom:latitude":35.855551,
     "geom:longitude":-78.639533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 E Millbrook Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320731307,
-    "wof:lastmodified":1449014544,
+    "wof:lastmodified":1466655695,
     "wof:name":"A Safe Space",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.639533,35.855551,-78.639533,35.855551],
+  "bbox": [
+    -78.639533,
+    35.855551,
+    -78.639533,
+    35.855551
+],
   "geometry": {"coordinates":[-78.639533,35.855551],"type":"Point"}
 }

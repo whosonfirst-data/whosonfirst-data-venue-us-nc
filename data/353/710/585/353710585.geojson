@@ -2,13 +2,14 @@
   "id": 353710585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.889199,35.984583,-78.889199,35.984583",
     "geom:latitude":35.984583,
     "geom:longitude":-78.889199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 S Alston Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353710585,
-    "wof:lastmodified":1449018413,
+    "wof:lastmodified":1466650737,
     "wof:name":"Samuel Construction",
     "wof:parent_id":85877165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.889199,35.984583,-78.889199,35.984583],
+  "bbox": [
+    -78.889199,
+    35.984583,
+    -78.889199,
+    35.984583
+],
   "geometry": {"coordinates":[-78.889199,35.984583],"type":"Point"}
 }

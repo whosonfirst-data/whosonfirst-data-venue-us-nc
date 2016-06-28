@@ -2,13 +2,14 @@
   "id": 220100057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.054192,35.995907,-79.054192,35.995907",
     "geom:latitude":35.995907,
     "geom:longitude":-79.054192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 Mount Sinai Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220100057,
-    "wof:lastmodified":1449074640,
+    "wof:lastmodified":1466644013,
     "wof:name":"Red Hawk Music Co",
     "wof:parent_id":85838755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-79.054192,35.995907,-79.054192,35.995907],
+  "bbox": [
+    -79.054192,
+    35.995907,
+    -79.054192,
+    35.995907
+],
   "geometry": {"coordinates":[-79.054192,35.995907],"type":"Point"}
 }

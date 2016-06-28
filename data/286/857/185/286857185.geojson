@@ -2,13 +2,14 @@
   "id": 286857185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.31785,35.001686,-78.31785,35.001686",
     "geom:latitude":35.001686,
     "geom:longitude":-78.31785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 College St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286857185,
-    "wof:lastmodified":1449017094,
+    "wof:lastmodified":1466651243,
     "wof:name":"Clinton City School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.31785,35.001686,-78.31785,35.001686],
-  "geometry": {"coordinates":[-78.31785,35.001686],"type":"Point"}
+  "bbox": [
+    -78.31785,
+    35.001686,
+    -78.31785,
+    35.001686
+],
+  "geometry": {"coordinates":[-78.31785000000001,35.001686],"type":"Point"}
 }

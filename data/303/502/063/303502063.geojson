@@ -2,13 +2,14 @@
   "id": 303502063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.543291,35.805104,-78.543291,35.805104",
     "geom:latitude":35.805104,
     "geom:longitude":-78.543291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5424 Royal Troon Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303502063,
-    "wof:lastmodified":1448999239,
+    "wof:lastmodified":1466650545,
     "wof:name":"TLC Pet Sitting Svc",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "kennel"
     ]
 },
-  "bbox": [-78.543291,35.805104,-78.543291,35.805104],
+  "bbox": [
+    -78.543291,
+    35.805104,
+    -78.543291,
+    35.805104
+],
   "geometry": {"coordinates":[-78.543291,35.805104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303789797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.811997,35.719125,-78.811997,35.719125",
     "geom:latitude":35.719125,
     "geom:longitude":-78.811997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Spector Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303789797,
-    "wof:lastmodified":1448999222,
+    "wof:lastmodified":1466654720,
     "wof:name":"Green Globe Partnership Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.811997,35.719125,-78.811997,35.719125],
-  "geometry": {"coordinates":[-78.811997,35.719125],"type":"Point"}
+  "bbox": [
+    -78.811997,
+    35.719125,
+    -78.811997,
+    35.719125
+],
+  "geometry": {"coordinates":[-78.81199700000001,35.719125],"type":"Point"}
 }

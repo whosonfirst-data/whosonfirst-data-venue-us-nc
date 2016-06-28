@@ -2,13 +2,14 @@
   "id": 236784995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.310941,35.811975,-81.310941,35.811975",
     "geom:latitude":35.811975,
     "geom:longitude":-81.310941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Cedar Rd",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236784995,
-    "wof:lastmodified":1449003934,
+    "wof:lastmodified":1466650287,
     "wof:name":"Hickory Metro Property",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.310941,35.811975,-81.310941,35.811975],
+  "bbox": [
+    -81.310941,
+    35.811975,
+    -81.310941,
+    35.811975
+],
   "geometry": {"coordinates":[-81.310941,35.811975],"type":"Point"}
 }

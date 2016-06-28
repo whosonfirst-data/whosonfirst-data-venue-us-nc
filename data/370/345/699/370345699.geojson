@@ -2,13 +2,14 @@
   "id": 370345699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.857994,35.15565,-78.857994,35.15565",
     "geom:latitude":35.15565,
     "geom:longitude":-78.857994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Kimberwicke Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370345699,
-    "wof:lastmodified":1449032206,
+    "wof:lastmodified":1466650581,
     "wof:name":"Care Finders First LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "registry"
     ]
 },
-  "bbox": [-78.857994,35.15565,-78.857994,35.15565],
-  "geometry": {"coordinates":[-78.857994,35.15565],"type":"Point"}
+  "bbox": [
+    -78.857994,
+    35.15565,
+    -78.857994,
+    35.15565
+],
+  "geometry": {"coordinates":[-78.85799400000001,35.15565],"type":"Point"}
 }

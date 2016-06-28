@@ -2,13 +2,14 @@
   "id": 203218393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.050328,34.456819,-78.050328,34.456819",
     "geom:latitude":34.456819,
     "geom:longitude":-78.050328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8981 US Hwy 421",
     "sg:city":"Currie",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203218393,
-    "wof:lastmodified":1449026169,
+    "wof:lastmodified":1466655297,
     "wof:name":"David N Hudson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.050328,34.456819,-78.050328,34.456819],
-  "geometry": {"coordinates":[-78.050328,34.456819],"type":"Point"}
+  "bbox": [
+    -78.050328,
+    34.456819,
+    -78.050328,
+    34.456819
+],
+  "geometry": {"coordinates":[-78.05032799999999,34.456819],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320676555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.443259,36.021052,-79.443259,36.021052",
     "geom:latitude":36.021052,
     "geom:longitude":-79.443259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3056 Bellemont-Mt Hermon Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320676555,
-    "wof:lastmodified":1449013662,
+    "wof:lastmodified":1466654929,
     "wof:name":"Alamance Archery",
     "wof:parent_id":85843335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.443259,36.021052,-79.443259,36.021052],
+  "bbox": [
+    -79.443259,
+    36.021052,
+    -79.443259,
+    36.021052
+],
   "geometry": {"coordinates":[-79.443259,36.021052],"type":"Point"}
 }

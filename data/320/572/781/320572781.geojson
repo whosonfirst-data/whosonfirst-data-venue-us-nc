@@ -2,13 +2,14 @@
   "id": 320572781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.59419,35.912005,-77.59419,35.912005",
     "geom:latitude":35.912005,
     "geom:longitude":-77.59419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 Anaconda Rd",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320572781,
-    "wof:lastmodified":1449013536,
+    "wof:lastmodified":1466653433,
     "wof:name":"Edgecombe County Sheriff Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-77.59419,35.912005,-77.59419,35.912005],
+  "bbox": [
+    -77.59419,
+    35.912005,
+    -77.59419,
+    35.912005
+],
   "geometry": {"coordinates":[-77.59419,35.912005],"type":"Point"}
 }

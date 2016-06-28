@@ -2,13 +2,14 @@
   "id": 287268049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.972766,35.546324,-77.972766,35.546324",
     "geom:latitude":35.546324,
     "geom:longitude":-77.972766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Sycamore St",
     "sg:city":"Fremont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287268049,
-    "wof:lastmodified":1449001181,
+    "wof:lastmodified":1466647030,
     "wof:name":"Bradshaw's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.972766,35.546324,-77.972766,35.546324],
-  "geometry": {"coordinates":[-77.972766,35.546324],"type":"Point"}
+  "bbox": [
+    -77.972766,
+    35.546324,
+    -77.972766,
+    35.546324
+],
+  "geometry": {"coordinates":[-77.97276599999999,35.546324],"type":"Point"}
 }

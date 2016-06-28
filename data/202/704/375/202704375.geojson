@@ -2,13 +2,14 @@
   "id": 202704375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.326447,35.62344,-77.326447,35.62344",
     "geom:latitude":35.62344,
     "geom:longitude":-77.326447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3675 Marine Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202704375,
-    "wof:lastmodified":1449060775,
+    "wof:lastmodified":1466643465,
     "wof:name":"Basic Trucking LLC",
     "wof:parent_id":85824139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-77.326447,35.62344,-77.326447,35.62344],
+  "bbox": [
+    -77.326447,
+    35.62344,
+    -77.326447,
+    35.62344
+],
   "geometry": {"coordinates":[-77.326447,35.62344],"type":"Point"}
 }

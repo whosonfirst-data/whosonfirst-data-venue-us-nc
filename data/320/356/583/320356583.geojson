@@ -2,13 +2,14 @@
   "id": 320356583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.883897,35.78593,-80.883897,35.78593",
     "geom:latitude":35.78593,
     "geom:longitude":-80.883897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E Broad St",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320356583,
-    "wof:lastmodified":1449014305,
+    "wof:lastmodified":1466650296,
     "wof:name":"Associated Press",
     "wof:parent_id":85811503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "syndicate"
     ]
 },
-  "bbox": [-80.883897,35.78593,-80.883897,35.78593],
+  "bbox": [
+    -80.883897,
+    35.78593,
+    -80.883897,
+    35.78593
+],
   "geometry": {"coordinates":[-80.883897,35.78593],"type":"Point"}
 }

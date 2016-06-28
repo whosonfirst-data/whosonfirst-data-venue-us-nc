@@ -2,13 +2,14 @@
   "id": 370317817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.214323,35.5562,-80.214323,35.5562",
     "geom:latitude":35.5562,
     "geom:longitude":-80.214323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S Gifford Ln",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370317817,
-    "wof:lastmodified":1449030646,
+    "wof:lastmodified":1466650237,
     "wof:name":"Roof",
     "wof:parent_id":85836893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.214323,35.5562,-80.214323,35.5562],
-  "geometry": {"coordinates":[-80.214323,35.5562],"type":"Point"}
+  "bbox": [
+    -80.214323,
+    35.5562,
+    -80.214323,
+    35.5562
+],
+  "geometry": {"coordinates":[-80.21432299999999,35.5562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387230311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.546239,35.607127,-82.546239,35.607127",
     "geom:latitude":35.607127,
     "geom:longitude":-82.546239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Charlotte St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387230311,
-    "wof:lastmodified":1449058930,
+    "wof:lastmodified":1466652909,
     "wof:name":"Family To Family",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.546239,35.607127,-82.546239,35.607127],
+  "bbox": [
+    -82.546239,
+    35.607127,
+    -82.546239,
+    35.607127
+],
   "geometry": {"coordinates":[-82.546239,35.607127],"type":"Point"}
 }

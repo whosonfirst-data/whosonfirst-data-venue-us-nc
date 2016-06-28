@@ -2,13 +2,14 @@
   "id": 270290877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.926033,34.223114,-77.926033,34.223114",
     "geom:latitude":34.223114,
     "geom:longitude":-77.926033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 S 17th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270290877,
-    "wof:lastmodified":1449009691,
+    "wof:lastmodified":1466646748,
     "wof:name":"Wilmington Water & Sewer",
     "wof:parent_id":85814197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "city"
     ]
 },
-  "bbox": [-77.926033,34.223114,-77.926033,34.223114],
+  "bbox": [
+    -77.926033,
+    34.223114,
+    -77.926033,
+    34.223114
+],
   "geometry": {"coordinates":[-77.926033,34.223114],"type":"Point"}
 }

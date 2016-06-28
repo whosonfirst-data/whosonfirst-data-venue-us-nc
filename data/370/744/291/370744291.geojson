@@ -2,13 +2,14 @@
   "id": 370744291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.595469,35.894567,-78.595469,35.894567",
     "geom:latitude":35.894567,
     "geom:longitude":-78.595469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2617 Coxindale Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370744291,
-    "wof:lastmodified":1449030311,
+    "wof:lastmodified":1466655759,
     "wof:name":"Mrci Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.595469,35.894567,-78.595469,35.894567],
-  "geometry": {"coordinates":[-78.595469,35.894567],"type":"Point"}
+  "bbox": [
+    -78.595469,
+    35.894567,
+    -78.595469,
+    35.894567
+],
+  "geometry": {"coordinates":[-78.59546899999999,35.894567],"type":"Point"}
 }

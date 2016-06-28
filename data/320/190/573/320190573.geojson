@@ -2,13 +2,14 @@
   "id": 320190573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.418765,36.224171,-78.418765,36.224171",
     "geom:latitude":36.224171,
     "geom:longitude":-78.418765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1785 Kittrell Rd",
     "sg:city":"Kittrell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320190573,
-    "wof:lastmodified":1449014722,
+    "wof:lastmodified":1466647964,
     "wof:name":"Plank Chapel Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.418765,36.224171,-78.418765,36.224171],
-  "geometry": {"coordinates":[-78.418765,36.224171],"type":"Point"}
+  "bbox": [
+    -78.418765,
+    36.224171,
+    -78.418765,
+    36.224171
+],
+  "geometry": {"coordinates":[-78.41876499999999,36.224171],"type":"Point"}
 }

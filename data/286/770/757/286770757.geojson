@@ -2,13 +2,14 @@
   "id": 286770757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.432769,35.127386,-79.432769,35.127386",
     "geom:latitude":35.127386,
     "geom:longitude":-79.432769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 S Sandhills Blvd",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286770757,
-    "wof:lastmodified":1449018141,
+    "wof:lastmodified":1466650059,
     "wof:name":"School Bus Safery",
     "wof:parent_id":85841741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.432769,35.127386,-79.432769,35.127386],
-  "geometry": {"coordinates":[-79.432769,35.127386],"type":"Point"}
+  "bbox": [
+    -79.432769,
+    35.127386,
+    -79.432769,
+    35.127386
+],
+  "geometry": {"coordinates":[-79.43276899999999,35.127386],"type":"Point"}
 }

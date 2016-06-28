@@ -2,13 +2,14 @@
   "id": 404033203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.145918,35.326489,-81.145918,35.326489",
     "geom:latitude":35.326489,
     "geom:longitude":-81.145918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Dallas Stanley Hwy",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404033203,
-    "wof:lastmodified":1449039305,
+    "wof:lastmodified":1466651725,
     "wof:name":"Spencer Mountain Volunteer",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.145918,35.326489,-81.145918,35.326489],
-  "geometry": {"coordinates":[-81.145918,35.326489],"type":"Point"}
+  "bbox": [
+    -81.145918,
+    35.326489,
+    -81.145918,
+    35.326489
+],
+  "geometry": {"coordinates":[-81.14591799999999,35.326489],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236254925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.758254,35.593021,-78.758254,35.593021",
     "geom:latitude":35.593021,
     "geom:longitude":-78.758254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6109 State Hwy 55",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236254925,
-    "wof:lastmodified":1449004009,
+    "wof:lastmodified":1466645502,
     "wof:name":"Audio Co",
     "wof:parent_id":85891937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-78.758254,35.593021,-78.758254,35.593021],
-  "geometry": {"coordinates":[-78.758254,35.593021],"type":"Point"}
+  "bbox": [
+    -78.758254,
+    35.593021,
+    -78.758254,
+    35.593021
+],
+  "geometry": {"coordinates":[-78.75825399999999,35.593021],"type":"Point"}
 }

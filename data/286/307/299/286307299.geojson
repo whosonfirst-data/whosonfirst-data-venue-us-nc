@@ -2,13 +2,14 @@
   "id": 286307299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.038181,35.959566,-79.038181,35.959566",
     "geom:latitude":35.959566,
     "geom:longitude":-79.038181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Steeplechase Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286307299,
-    "wof:lastmodified":1449015934,
+    "wof:lastmodified":1466643829,
     "wof:name":"Distant Sky Productions LLC",
     "wof:parent_id":85838755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-79.038181,35.959566,-79.038181,35.959566],
-  "geometry": {"coordinates":[-79.038181,35.959566],"type":"Point"}
+  "bbox": [
+    -79.038181,
+    35.959566,
+    -79.038181,
+    35.959566
+],
+  "geometry": {"coordinates":[-79.03818099999999,35.959566],"type":"Point"}
 }

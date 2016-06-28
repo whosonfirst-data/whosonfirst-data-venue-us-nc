@@ -2,13 +2,14 @@
   "id": 387675937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.919261,34.551486,-77.919261,34.551486",
     "geom:latitude":34.551486,
     "geom:longitude":-77.919261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 E Freemont St",
     "sg:city":"Burgaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387675937,
-    "wof:lastmodified":1449058040,
+    "wof:lastmodified":1466657173,
     "wof:name":"Hospice Lower Cape Fear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-77.919261,34.551486,-77.919261,34.551486],
-  "geometry": {"coordinates":[-77.919261,34.551486],"type":"Point"}
+  "bbox": [
+    -77.919261,
+    34.551486,
+    -77.919261,
+    34.551486
+],
+  "geometry": {"coordinates":[-77.91926100000001,34.551486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220106793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.653231,35.77562,-78.653231,35.77562",
     "geom:latitude":35.77562,
     "geom:longitude":-78.653231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Mc Culloch St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220106793,
-    "wof:lastmodified":1449074048,
+    "wof:lastmodified":1466644070,
     "wof:name":"Raleigh Saw Co Inc",
     "wof:parent_id":85806931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "knife"
     ]
 },
-  "bbox": [-78.653231,35.77562,-78.653231,35.77562],
-  "geometry": {"coordinates":[-78.653231,35.77562],"type":"Point"}
+  "bbox": [
+    -78.653231,
+    35.77562,
+    -78.653231,
+    35.77562
+],
+  "geometry": {"coordinates":[-78.65323100000001,35.77562],"type":"Point"}
 }

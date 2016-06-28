@@ -2,13 +2,14 @@
   "id": 320519487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.559904,35.64089,-82.559904,35.64089",
     "geom:latitude":35.64089,
     "geom:longitude":-82.559904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Marlborough Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320519487,
-    "wof:lastmodified":1449014713,
+    "wof:lastmodified":1466652650,
     "wof:name":"Paper Connection",
     "wof:parent_id":85822395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.559904,35.64089,-82.559904,35.64089],
+  "bbox": [
+    -82.559904,
+    35.64089,
+    -82.559904,
+    35.64089
+],
   "geometry": {"coordinates":[-82.559904,35.64089],"type":"Point"}
 }

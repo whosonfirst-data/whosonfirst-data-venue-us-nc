@@ -2,13 +2,14 @@
   "id": 354101281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.646425,35.580486,-76.646425,35.580486",
     "geom:latitude":35.580486,
     "geom:longitude":-76.646425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25998 US Hwy 264 E",
     "sg:city":"Pantego",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354101281,
-    "wof:lastmodified":1449066838,
+    "wof:lastmodified":1466648728,
     "wof:name":"Mackel & Porter Machine",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-76.646425,35.580486,-76.646425,35.580486],
-  "geometry": {"coordinates":[-76.646425,35.580486],"type":"Point"}
+  "bbox": [
+    -76.646425,
+    35.580486,
+    -76.646425,
+    35.580486
+],
+  "geometry": {"coordinates":[-76.64642499999999,35.580486],"type":"Point"}
 }

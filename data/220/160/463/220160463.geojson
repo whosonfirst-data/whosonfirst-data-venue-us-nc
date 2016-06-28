@@ -2,13 +2,14 @@
   "id": 220160463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.836842,35.851426,-78.836842,35.851426",
     "geom:latitude":35.851426,
     "geom:longitude":-78.836842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Watkins Rd",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220160463,
-    "wof:lastmodified":1449074739,
+    "wof:lastmodified":1466644477,
     "wof:name":"Transportation Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.836842,35.851426,-78.836842,35.851426],
+  "bbox": [
+    -78.836842,
+    35.851426,
+    -78.836842,
+    35.851426
+],
   "geometry": {"coordinates":[-78.836842,35.851426],"type":"Point"}
 }

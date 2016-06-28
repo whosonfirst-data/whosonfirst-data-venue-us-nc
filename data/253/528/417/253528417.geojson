@@ -2,13 +2,14 @@
   "id": 253528417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.605938,35.886781,-78.605938,35.886781",
     "geom:latitude":35.886781,
     "geom:longitude":-78.605938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Bay Meadow Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253528417,
-    "wof:lastmodified":1449063603,
+    "wof:lastmodified":1466648721,
     "wof:name":"Gsg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.605938,35.886781,-78.605938,35.886781],
-  "geometry": {"coordinates":[-78.605938,35.886781],"type":"Point"}
+  "bbox": [
+    -78.605938,
+    35.886781,
+    -78.605938,
+    35.886781
+],
+  "geometry": {"coordinates":[-78.60593799999999,35.886781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303408039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.705241,35.815467,-78.705241,35.815467",
     "geom:latitude":35.815467,
     "geom:longitude":-78.705241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Blue Ridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303408039,
-    "wof:lastmodified":1448998421,
+    "wof:lastmodified":1466649184,
     "wof:name":"Rex Hospital",
     "wof:parent_id":85892087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.705241,35.815467,-78.705241,35.815467],
+  "bbox": [
+    -78.705241,
+    35.815467,
+    -78.705241,
+    35.815467
+],
   "geometry": {"coordinates":[-78.705241,35.815467],"type":"Point"}
 }

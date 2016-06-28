@@ -2,13 +2,14 @@
   "id": 287072203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.512251,36.144354,-79.512251,36.144354",
     "geom:latitude":36.144354,
     "geom:longitude":-79.512251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1964 Elon Ossipee Rd",
     "sg:city":"Elon College",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287072203,
-    "wof:lastmodified":1449001137,
+    "wof:lastmodified":1466644279,
     "wof:name":"James C Worrell",
     "wof:parent_id":85857167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.512251,36.144354,-79.512251,36.144354],
-  "geometry": {"coordinates":[-79.512251,36.144354],"type":"Point"}
+  "bbox": [
+    -79.512251,
+    36.144354,
+    -79.512251,
+    36.144354
+],
+  "geometry": {"coordinates":[-79.51225100000001,36.144354],"type":"Point"}
 }

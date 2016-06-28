@@ -2,13 +2,14 @@
   "id": 337373419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.531861,35.571689,-82.531861,35.571689",
     "geom:latitude":35.571689,
     "geom:longitude":-82.531861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Thompson St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337373419,
-    "wof:lastmodified":1449027372,
+    "wof:lastmodified":1466646700,
     "wof:name":"Mountain Marble & Granite",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-82.531861,35.571689,-82.531861,35.571689],
-  "geometry": {"coordinates":[-82.531861,35.571689],"type":"Point"}
+  "bbox": [
+    -82.531861,
+    35.571689,
+    -82.531861,
+    35.571689
+],
+  "geometry": {"coordinates":[-82.53186100000001,35.571689],"type":"Point"}
 }

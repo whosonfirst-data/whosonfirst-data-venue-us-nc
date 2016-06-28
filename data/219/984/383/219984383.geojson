@@ -2,13 +2,14 @@
   "id": 219984383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.902093,34.229545,-77.902093,34.229545",
     "geom:latitude":34.229545,
     "geom:longitude":-77.902093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 Randall Pkwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219984383,
-    "wof:lastmodified":1449072374,
+    "wof:lastmodified":1466648708,
     "wof:name":"Assisted Care Incorporated",
     "wof:parent_id":85819913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-77.902093,34.229545,-77.902093,34.229545],
-  "geometry": {"coordinates":[-77.902093,34.229545],"type":"Point"}
+  "bbox": [
+    -77.902093,
+    34.229545,
+    -77.902093,
+    34.229545
+],
+  "geometry": {"coordinates":[-77.90209299999999,34.229545],"type":"Point"}
 }

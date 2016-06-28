@@ -2,13 +2,14 @@
   "id": 303552587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.958381,35.90901,-79.958381,35.90901",
     "geom:latitude":35.90901,
     "geom:longitude":-79.958381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Smith Ln",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303552587,
-    "wof:lastmodified":1448999143,
+    "wof:lastmodified":1466651276,
     "wof:name":"Smith Engineering",
     "wof:parent_id":85843865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-79.958381,35.90901,-79.958381,35.90901],
+  "bbox": [
+    -79.958381,
+    35.90901,
+    -79.958381,
+    35.90901
+],
   "geometry": {"coordinates":[-79.958381,35.90901],"type":"Point"}
 }

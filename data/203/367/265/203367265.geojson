@@ -2,13 +2,14 @@
   "id": 203367265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.66832,35.429888,-80.66832,35.429888",
     "geom:latitude":35.429888,
     "geom:longitude":-80.66832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 Biscayne Dr",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203367265,
-    "wof:lastmodified":1449026069,
+    "wof:lastmodified":1466643734,
     "wof:name":"ECS Enterprises",
     "wof:parent_id":85842735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.66832,35.429888,-80.66832,35.429888],
-  "geometry": {"coordinates":[-80.66832,35.429888],"type":"Point"}
+  "bbox": [
+    -80.66832,
+    35.429888,
+    -80.66832,
+    35.429888
+],
+  "geometry": {"coordinates":[-80.66831999999999,35.429888],"type":"Point"}
 }

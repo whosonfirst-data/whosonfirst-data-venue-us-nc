@@ -2,13 +2,14 @@
   "id": 287057311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.619087,35.811375,-78.619087,35.811375",
     "geom:latitude":35.811375,
     "geom:longitude":-78.619087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2319 Atlantic Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287057311,
-    "wof:lastmodified":1449001098,
+    "wof:lastmodified":1466644057,
     "wof:name":"CES Mail Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shipping"
     ]
 },
-  "bbox": [-78.619087,35.811375,-78.619087,35.811375],
-  "geometry": {"coordinates":[-78.619087,35.811375],"type":"Point"}
+  "bbox": [
+    -78.619087,
+    35.811375,
+    -78.619087,
+    35.811375
+],
+  "geometry": {"coordinates":[-78.61908699999999,35.811375],"type":"Point"}
 }

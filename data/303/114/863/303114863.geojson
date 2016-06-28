@@ -2,13 +2,14 @@
   "id": 303114863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.309801,36.266191,-80.309801,36.266191",
     "geom:latitude":36.266191,
     "geom:longitude":-80.309801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7818 State Hwy 66 S",
     "sg:city":"Rural Hall",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303114863,
-    "wof:lastmodified":1448999138,
+    "wof:lastmodified":1466644929,
     "wof:name":"Madrid Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.309801,36.266191,-80.309801,36.266191],
-  "geometry": {"coordinates":[-80.309801,36.266191],"type":"Point"}
+  "bbox": [
+    -80.309801,
+    36.266191,
+    -80.309801,
+    36.266191
+],
+  "geometry": {"coordinates":[-80.30980099999999,36.266191],"type":"Point"}
 }

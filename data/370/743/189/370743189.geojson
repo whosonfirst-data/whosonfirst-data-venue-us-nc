@@ -2,13 +2,14 @@
   "id": 370743189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.814022,35.479169,-76.814022,35.479169",
     "geom:latitude":35.479169,
     "geom:longitude":-76.814022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Main St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370743189,
-    "wof:lastmodified":1449032447,
+    "wof:lastmodified":1466655745,
     "wof:name":"Hosanna Bible Church",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-76.814022,35.479169,-76.814022,35.479169],
-  "geometry": {"coordinates":[-76.814022,35.479169],"type":"Point"}
+  "bbox": [
+    -76.814022,
+    35.479169,
+    -76.814022,
+    35.479169
+],
+  "geometry": {"coordinates":[-76.81402199999999,35.479169],"type":"Point"}
 }

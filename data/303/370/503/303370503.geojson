@@ -2,13 +2,14 @@
   "id": 303370503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.810721,36.392301,-80.810721,36.392301",
     "geom:latitude":36.392301,
     "geom:longitude":-80.810721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3162 Zephyr Rd",
     "sg:city":"Elkin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303370503,
-    "wof:lastmodified":1448999454,
+    "wof:lastmodified":1466648654,
     "wof:name":"Travis McMillan Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.810721,36.392301,-80.810721,36.392301],
+  "bbox": [
+    -80.810721,
+    36.392301,
+    -80.810721,
+    36.392301
+],
   "geometry": {"coordinates":[-80.810721,36.392301],"type":"Point"}
 }

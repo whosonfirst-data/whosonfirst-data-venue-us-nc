@@ -2,13 +2,14 @@
   "id": 303816677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.137298,35.319456,-81.137298,35.319456",
     "geom:latitude":35.319456,
     "geom:longitude":-81.137298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"644 Dallas Spencer Mountain Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303816677,
-    "wof:lastmodified":1448999546,
+    "wof:lastmodified":1466655104,
     "wof:name":"Smiths Painting",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.137298,35.319456,-81.137298,35.319456],
+  "bbox": [
+    -81.137298,
+    35.319456,
+    -81.137298,
+    35.319456
+],
   "geometry": {"coordinates":[-81.137298,35.319456],"type":"Point"}
 }

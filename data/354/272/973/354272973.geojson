@@ -2,13 +2,14 @@
   "id": 354272973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.854835,35.049312,-78.854835,35.049312",
     "geom:latitude":35.049312,
     "geom:longitude":-78.854835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 Dunn Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354272973,
-    "wof:lastmodified":1449067565,
+    "wof:lastmodified":1466650680,
     "wof:name":"T & H Brake Svc",
     "wof:parent_id":85825067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-78.854835,35.049312,-78.854835,35.049312],
-  "geometry": {"coordinates":[-78.854835,35.049312],"type":"Point"}
+  "bbox": [
+    -78.854835,
+    35.049312,
+    -78.854835,
+    35.049312
+],
+  "geometry": {"coordinates":[-78.85483499999999,35.049312],"type":"Point"}
 }

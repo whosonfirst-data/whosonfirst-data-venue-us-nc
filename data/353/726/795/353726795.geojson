@@ -2,13 +2,14 @@
   "id": 353726795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.257111,36.096899,-80.257111,36.096899",
     "geom:latitude":36.096899,
     "geom:longitude":-80.257111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Brookstown Ave NW",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":353726795,
-    "wof:lastmodified":1449019988,
+    "wof:lastmodified":1466650933,
     "wof:name":"North Carolina Regional Young",
     "wof:parent_id":85881851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.257111,36.096899,-80.257111,36.096899],
-  "geometry": {"coordinates":[-80.257111,36.096899],"type":"Point"}
+  "bbox": [
+    -80.257111,
+    36.096899,
+    -80.257111,
+    36.096899
+],
+  "geometry": {"coordinates":[-80.25711099999999,36.096899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370405039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.780533,34.959839,-80.780533,34.959839",
     "geom:latitude":34.959839,
     "geom:longitude":-80.780533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 Waxhaw-Marvin Rd",
     "sg:city":"Waxhaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370405039,
-    "wof:lastmodified":1449032199,
+    "wof:lastmodified":1466651341,
     "wof:name":"Tuttle Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.780533,34.959839,-80.780533,34.959839],
-  "geometry": {"coordinates":[-80.780533,34.959839],"type":"Point"}
+  "bbox": [
+    -80.780533,
+    34.959839,
+    -80.780533,
+    34.959839
+],
+  "geometry": {"coordinates":[-80.78053300000001,34.959839],"type":"Point"}
 }

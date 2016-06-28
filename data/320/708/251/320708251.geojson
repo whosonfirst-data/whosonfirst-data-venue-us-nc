@@ -2,13 +2,14 @@
   "id": 320708251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.039803,36.339218,-81.039803,36.339218",
     "geom:latitude":36.339218,
     "geom:longitude":-81.039803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8899 Traphill Rd",
     "sg:city":"Traphill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320708251,
-    "wof:lastmodified":1449011839,
+    "wof:lastmodified":1466655370,
     "wof:name":"Traphill Volunteer Fire Dept",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.039803,36.339218,-81.039803,36.339218],
-  "geometry": {"coordinates":[-81.039803,36.339218],"type":"Point"}
+  "bbox": [
+    -81.039803,
+    36.339218,
+    -81.039803,
+    36.339218
+],
+  "geometry": {"coordinates":[-81.03980300000001,36.339218],"type":"Point"}
 }

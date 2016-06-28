@@ -2,13 +2,14 @@
   "id": 354169419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.903225,36.047452,-78.903225,36.047452",
     "geom:latitude":36.047452,
     "geom:longitude":-78.903225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4019 Roxboro Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354169419,
-    "wof:lastmodified":1449066994,
+    "wof:lastmodified":1466649524,
     "wof:name":"Teer House",
     "wof:parent_id":85877187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.903225,36.047452,-78.903225,36.047452],
-  "geometry": {"coordinates":[-78.903225,36.047452],"type":"Point"}
+  "bbox": [
+    -78.903225,
+    36.047452,
+    -78.903225,
+    36.047452
+],
+  "geometry": {"coordinates":[-78.90322500000001,36.047452],"type":"Point"}
 }

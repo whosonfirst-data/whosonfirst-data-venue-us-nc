@@ -2,13 +2,14 @@
   "id": 387209123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.879821,35.972392,-78.879821,35.972392",
     "geom:latitude":35.972392,
     "geom:longitude":-78.879821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 Cooper St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":387209123,
-    "wof:lastmodified":1449059507,
+    "wof:lastmodified":1466652619,
     "wof:name":"MCS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "for"
     ]
 },
-  "bbox": [-78.879821,35.972392,-78.879821,35.972392],
-  "geometry": {"coordinates":[-78.879821,35.972392],"type":"Point"}
+  "bbox": [
+    -78.879821,
+    35.972392,
+    -78.879821,
+    35.972392
+],
+  "geometry": {"coordinates":[-78.87982100000001,35.972392],"type":"Point"}
 }

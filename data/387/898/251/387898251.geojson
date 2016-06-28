@@ -2,13 +2,14 @@
   "id": 387898251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.628888,35.713661,-78.628888,35.713661",
     "geom:latitude":35.713661,
     "geom:longitude":-78.628888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"893 US Hwy 70 W",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387898251,
-    "wof:lastmodified":1449056035,
+    "wof:lastmodified":1466657973,
     "wof:name":"Garner Psychiatry",
     "wof:parent_id":85851535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.628888,35.713661,-78.628888,35.713661],
+  "bbox": [
+    -78.628888,
+    35.713661,
+    -78.628888,
+    35.713661
+],
   "geometry": {"coordinates":[-78.628888,35.713661],"type":"Point"}
 }

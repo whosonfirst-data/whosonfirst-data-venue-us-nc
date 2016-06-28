@@ -2,13 +2,14 @@
   "id": 353546729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.037044,35.24643,-81.037044,35.24643",
     "geom:latitude":35.24643,
     "geom:longitude":-81.037044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 E Woodrow Ave",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353546729,
-    "wof:lastmodified":1449018252,
+    "wof:lastmodified":1466648714,
     "wof:name":"TLC Counseling & Tutoring",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.037044,35.24643,-81.037044,35.24643],
-  "geometry": {"coordinates":[-81.037044,35.24643],"type":"Point"}
+  "bbox": [
+    -81.037044,
+    35.24643,
+    -81.037044,
+    35.24643
+],
+  "geometry": {"coordinates":[-81.03704399999999,35.24643],"type":"Point"}
 }

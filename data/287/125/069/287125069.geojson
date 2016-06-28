@@ -2,13 +2,14 @@
   "id": 287125069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.844339,34.243454,-77.844339,34.243454",
     "geom:latitude":34.243454,
     "geom:longitude":-77.844339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Long Leaf Acres Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":287125069,
-    "wof:lastmodified":1449001557,
+    "wof:lastmodified":1466645045,
     "wof:name":"Diversified Heating & Air Cond",
     "wof:parent_id":85809845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.844339,34.243454,-77.844339,34.243454],
-  "geometry": {"coordinates":[-77.844339,34.243454],"type":"Point"}
+  "bbox": [
+    -77.844339,
+    34.243454,
+    -77.844339,
+    34.243454
+],
+  "geometry": {"coordinates":[-77.84433900000001,34.243454],"type":"Point"}
 }

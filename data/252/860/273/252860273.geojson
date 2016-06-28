@@ -2,13 +2,14 @@
   "id": 252860273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.645038,35.938088,-79.645038,35.938088",
     "geom:latitude":35.938088,
     "geom:longitude":-79.645038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4417 Old Julian Rd",
     "sg:city":"Julian",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252860273,
-    "wof:lastmodified":1449005894,
+    "wof:lastmodified":1466644566,
     "wof:name":"Bob Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-79.645038,35.938088,-79.645038,35.938088],
+  "bbox": [
+    -79.645038,
+    35.938088,
+    -79.645038,
+    35.938088
+],
   "geometry": {"coordinates":[-79.645038,35.938088],"type":"Point"}
 }

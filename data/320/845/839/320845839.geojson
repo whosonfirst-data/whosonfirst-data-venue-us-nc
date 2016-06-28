@@ -2,13 +2,14 @@
   "id": 320845839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.55243,34.740553,-77.55243,34.740553",
     "geom:latitude":34.740553,
     "geom:longitude":-77.55243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Ernest Gurganus Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320845839,
-    "wof:lastmodified":1449011868,
+    "wof:lastmodified":1466656717,
     "wof:name":"Jonathan Jacobs",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.55243,34.740553,-77.55243,34.740553],
+  "bbox": [
+    -77.55243,
+    34.740553,
+    -77.55243,
+    34.740553
+],
   "geometry": {"coordinates":[-77.55243,34.740553],"type":"Point"}
 }

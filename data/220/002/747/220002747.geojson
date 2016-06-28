@@ -2,13 +2,14 @@
   "id": 220002747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.884474,34.173569,-77.884474,34.173569",
     "geom:latitude":34.173569,
     "geom:longitude":-77.884474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Yorkshire Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220002747,
-    "wof:lastmodified":1449074704,
+    "wof:lastmodified":1466643234,
     "wof:name":"Cape Fear Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-77.884474,34.173569,-77.884474,34.173569],
+  "bbox": [
+    -77.884474,
+    34.173569,
+    -77.884474,
+    34.173569
+],
   "geometry": {"coordinates":[-77.884474,34.173569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270267391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.697015,35.750665,-81.697015,35.750665",
     "geom:latitude":35.750665,
     "geom:longitude":-81.697015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"644 1st St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270267391,
-    "wof:lastmodified":1449010879,
+    "wof:lastmodified":1466646435,
     "wof:name":"Morganton Housing Authority",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-81.697015,35.750665,-81.697015,35.750665],
-  "geometry": {"coordinates":[-81.697015,35.750665],"type":"Point"}
+  "bbox": [
+    -81.697015,
+    35.750665,
+    -81.697015,
+    35.750665
+],
+  "geometry": {"coordinates":[-81.69701499999999,35.750665],"type":"Point"}
 }

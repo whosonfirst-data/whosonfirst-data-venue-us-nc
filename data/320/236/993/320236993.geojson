@@ -2,13 +2,14 @@
   "id": 320236993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.898615,35.797567,-80.898615,35.797567",
     "geom:latitude":35.797567,
     "geom:longitude":-80.898615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Hartness Rd",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320236993,
-    "wof:lastmodified":1449011638,
+    "wof:lastmodified":1466648609,
     "wof:name":"Statesvlle Montessori Schl Inc",
     "wof:parent_id":85829385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-80.898615,35.797567,-80.898615,35.797567],
-  "geometry": {"coordinates":[-80.898615,35.797567],"type":"Point"}
+  "bbox": [
+    -80.898615,
+    35.797567,
+    -80.898615,
+    35.797567
+],
+  "geometry": {"coordinates":[-80.89861500000001,35.797567],"type":"Point"}
 }

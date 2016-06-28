@@ -2,13 +2,14 @@
   "id": 269820615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.306446,36.049256,-79.306446,36.049256",
     "geom:latitude":36.049256,
     "geom:longitude":-79.306446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Turner Rd",
     "sg:city":"Mebane",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269820615,
-    "wof:lastmodified":1449037384,
+    "wof:lastmodified":1466647175,
     "wof:name":"Spacewalk Of Alamance",
     "wof:parent_id":85832733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.306446,36.049256,-79.306446,36.049256],
-  "geometry": {"coordinates":[-79.306446,36.049256],"type":"Point"}
+  "bbox": [
+    -79.306446,
+    36.049256,
+    -79.306446,
+    36.049256
+],
+  "geometry": {"coordinates":[-79.30644599999999,36.049256],"type":"Point"}
 }

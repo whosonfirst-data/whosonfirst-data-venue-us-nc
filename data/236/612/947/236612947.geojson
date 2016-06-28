@@ -2,13 +2,14 @@
   "id": 236612947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.108843,35.939609,-79.108843,35.939609",
     "geom:latitude":35.939609,
     "geom:longitude":-79.108843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 John's Woods Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236612947,
-    "wof:lastmodified":1449003052,
+    "wof:lastmodified":1466648651,
     "wof:name":"Carolina Field Hockey CAM",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-79.108843,35.939609,-79.108843,35.939609],
-  "geometry": {"coordinates":[-79.108843,35.939609],"type":"Point"}
+  "bbox": [
+    -79.108843,
+    35.939609,
+    -79.108843,
+    35.939609
+],
+  "geometry": {"coordinates":[-79.10884299999999,35.939609],"type":"Point"}
 }

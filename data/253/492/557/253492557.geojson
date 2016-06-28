@@ -2,13 +2,14 @@
   "id": 253492557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.808978,34.280506,-77.808978,34.280506",
     "geom:latitude":34.280506,
     "geom:longitude":-77.808978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7521 Lost Tree Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253492557,
-    "wof:lastmodified":1449062822,
+    "wof:lastmodified":1466648289,
     "wof:name":"Waterway Plumbing",
     "wof:parent_id":85807111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.808978,34.280506,-77.808978,34.280506],
+  "bbox": [
+    -77.808978,
+    34.280506,
+    -77.808978,
+    34.280506
+],
   "geometry": {"coordinates":[-77.808978,34.280506],"type":"Point"}
 }

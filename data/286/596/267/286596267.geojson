@@ -2,13 +2,14 @@
   "id": 286596267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.676048,35.80201,-78.676048,35.80201",
     "geom:latitude":35.80201,
     "geom:longitude":-78.676048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Dixie Trl",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286596267,
-    "wof:lastmodified":1449016703,
+    "wof:lastmodified":1466647670,
     "wof:name":"Lorraine Scottsmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.676048,35.80201,-78.676048,35.80201],
-  "geometry": {"coordinates":[-78.676048,35.80201],"type":"Point"}
+  "bbox": [
+    -78.676048,
+    35.80201,
+    -78.676048,
+    35.80201
+],
+  "geometry": {"coordinates":[-78.67604799999999,35.80201],"type":"Point"}
 }

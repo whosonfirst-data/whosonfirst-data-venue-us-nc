@@ -2,13 +2,14 @@
   "id": 203125515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.436636,35.298216,-82.436636,35.298216",
     "geom:latitude":35.298216,
     "geom:longitude":-82.436636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Spartanburg Hwy",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203125515,
-    "wof:lastmodified":1449026806,
+    "wof:lastmodified":1466654909,
     "wof:name":"Mountain Eagle Insurance",
     "wof:parent_id":85852073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.436636,35.298216,-82.436636,35.298216],
-  "geometry": {"coordinates":[-82.436636,35.298216],"type":"Point"}
+  "bbox": [
+    -82.436636,
+    35.298216,
+    -82.436636,
+    35.298216
+],
+  "geometry": {"coordinates":[-82.43663599999999,35.298216],"type":"Point"}
 }

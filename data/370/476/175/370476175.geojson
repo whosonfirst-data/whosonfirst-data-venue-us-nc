@@ -2,13 +2,14 @@
   "id": 370476175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.975608,35.660488,-78.975608,35.660488",
     "geom:latitude":35.660488,
     "geom:longitude":-78.975608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5113 Daisey St",
     "sg:city":"New Hill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370476175,
-    "wof:lastmodified":1449030457,
+    "wof:lastmodified":1466652252,
     "wof:name":"De Womble Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.975608,35.660488,-78.975608,35.660488],
-  "geometry": {"coordinates":[-78.975608,35.660488],"type":"Point"}
+  "bbox": [
+    -78.975608,
+    35.660488,
+    -78.975608,
+    35.660488
+],
+  "geometry": {"coordinates":[-78.97560799999999,35.660488],"type":"Point"}
 }

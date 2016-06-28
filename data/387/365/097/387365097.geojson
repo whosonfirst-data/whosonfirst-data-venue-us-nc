@@ -2,13 +2,14 @@
   "id": 387365097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.434153,35.22715,-79.434153,35.22715",
     "geom:latitude":35.22715,
     "geom:longitude":-79.434153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Coldstream Ln",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387365097,
-    "wof:lastmodified":1449056718,
+    "wof:lastmodified":1466654655,
     "wof:name":"Mark A Carver Rev",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.434153,35.22715,-79.434153,35.22715],
-  "geometry": {"coordinates":[-79.434153,35.22715],"type":"Point"}
+  "bbox": [
+    -79.434153,
+    35.22715,
+    -79.434153,
+    35.22715
+],
+  "geometry": {"coordinates":[-79.43415299999999,35.22715],"type":"Point"}
 }

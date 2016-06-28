@@ -2,13 +2,14 @@
   "id": 370567153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.660385,35.761328,-78.660385,35.761328",
     "geom:latitude":35.761328,
     "geom:longitude":-78.660385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 Lake Wheeler Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370567153,
-    "wof:lastmodified":1449032498,
+    "wof:lastmodified":1466653444,
     "wof:name":"W B Porter & Co",
     "wof:parent_id":85873461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scale"
     ]
 },
-  "bbox": [-78.660385,35.761328,-78.660385,35.761328],
-  "geometry": {"coordinates":[-78.660385,35.761328],"type":"Point"}
+  "bbox": [
+    -78.660385,
+    35.761328,
+    -78.660385,
+    35.761328
+],
+  "geometry": {"coordinates":[-78.66038500000001,35.761328],"type":"Point"}
 }

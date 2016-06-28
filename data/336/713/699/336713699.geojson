@@ -2,13 +2,14 @@
   "id": 336713699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.919529,36.112548,-80.919529,36.112548",
     "geom:latitude":36.112548,
     "geom:longitude":-80.919529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 Chambers Rd",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336713699,
-    "wof:lastmodified":1448997919,
+    "wof:lastmodified":1466647561,
     "wof:name":"Ricky Chambers Construction",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-80.919529,36.112548,-80.919529,36.112548],
+  "bbox": [
+    -80.919529,
+    36.112548,
+    -80.919529,
+    36.112548
+],
   "geometry": {"coordinates":[-80.919529,36.112548],"type":"Point"}
 }

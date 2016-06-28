@@ -2,13 +2,14 @@
   "id": 336819853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.676279,36.216633,-81.676279,36.216633",
     "geom:latitude":36.216633,
     "geom:longitude":-81.676279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 W King St",
     "sg:city":"Boone",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336819853,
-    "wof:lastmodified":1448997204,
+    "wof:lastmodified":1466649184,
     "wof:name":"Boone Taxi",
     "wof:parent_id":85814995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-81.676279,36.216633,-81.676279,36.216633],
-  "geometry": {"coordinates":[-81.676279,36.216633],"type":"Point"}
+  "bbox": [
+    -81.676279,
+    36.216633,
+    -81.676279,
+    36.216633
+],
+  "geometry": {"coordinates":[-81.67627899999999,36.216633],"type":"Point"}
 }

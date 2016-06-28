@@ -2,13 +2,14 @@
   "id": 370753055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.290624,36.407303,-81.290624,36.407303",
     "geom:latitude":36.407303,
     "geom:longitude":-81.290624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9151 State Hwy 88 E",
     "sg:city":"Laurel Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370753055,
-    "wof:lastmodified":1449029487,
+    "wof:lastmodified":1466655873,
     "wof:name":"Fisher Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.290624,36.407303,-81.290624,36.407303],
-  "geometry": {"coordinates":[-81.290624,36.407303],"type":"Point"}
+  "bbox": [
+    -81.290624,
+    36.407303,
+    -81.290624,
+    36.407303
+],
+  "geometry": {"coordinates":[-81.29062399999999,36.407303],"type":"Point"}
 }

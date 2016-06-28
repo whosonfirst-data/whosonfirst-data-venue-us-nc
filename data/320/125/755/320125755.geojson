@@ -2,13 +2,14 @@
   "id": 320125755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.208769,36.014119,-80.208769,36.014119",
     "geom:latitude":36.014119,
     "geom:longitude":-80.208769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6571 Old Lexington Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320125755,
-    "wof:lastmodified":1449014834,
+    "wof:lastmodified":1466647067,
     "wof:name":"A-1 Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.208769,36.014119,-80.208769,36.014119],
+  "bbox": [
+    -80.208769,
+    36.014119,
+    -80.208769,
+    36.014119
+],
   "geometry": {"coordinates":[-80.208769,36.014119],"type":"Point"}
 }

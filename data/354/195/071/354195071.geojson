@@ -2,13 +2,14 @@
   "id": 354195071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.806885,35.131545,-80.806885,35.131545",
     "geom:latitude":35.131545,
     "geom:longitude":-80.806885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 Sheffield Crescent Ct",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354195071,
-    "wof:lastmodified":1449067095,
+    "wof:lastmodified":1466649834,
     "wof:name":"Wise Concepts",
     "wof:parent_id":85839495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.806885,35.131545,-80.806885,35.131545],
-  "geometry": {"coordinates":[-80.806885,35.131545],"type":"Point"}
+  "bbox": [
+    -80.806885,
+    35.131545,
+    -80.806885,
+    35.131545
+],
+  "geometry": {"coordinates":[-80.80688499999999,35.131545],"type":"Point"}
 }

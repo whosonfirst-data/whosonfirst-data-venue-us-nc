@@ -2,13 +2,14 @@
   "id": 387537077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.587945,36.310808,-78.587945,36.310808",
     "geom:latitude":36.310808,
     "geom:longitude":-78.587945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387537077,
-    "wof:lastmodified":1449057034,
+    "wof:lastmodified":1466656302,
     "wof:name":"US Post Office",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.587945,36.310808,-78.587945,36.310808],
+  "bbox": [
+    -78.587945,
+    36.310808,
+    -78.587945,
+    36.310808
+],
   "geometry": {"coordinates":[-78.587945,36.310808],"type":"Point"}
 }

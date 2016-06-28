@@ -2,13 +2,14 @@
   "id": 269829717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.412917,36.091485,-79.412917,36.091485",
     "geom:latitude":36.091485,
     "geom:longitude":-79.412917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 S Beaumont Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269829717,
-    "wof:lastmodified":1449038813,
+    "wof:lastmodified":1466647277,
     "wof:name":"React International",
     "wof:parent_id":85838431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.412917,36.091485,-79.412917,36.091485],
-  "geometry": {"coordinates":[-79.412917,36.091485],"type":"Point"}
+  "bbox": [
+    -79.412917,
+    36.091485,
+    -79.412917,
+    36.091485
+],
+  "geometry": {"coordinates":[-79.41291699999999,36.091485],"type":"Point"}
 }

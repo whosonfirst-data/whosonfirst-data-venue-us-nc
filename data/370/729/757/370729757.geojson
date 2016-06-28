@@ -2,13 +2,14 @@
   "id": 370729757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.585604,35.827194,-78.585604,35.827194",
     "geom:latitude":35.827194,
     "geom:longitude":-78.585604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3520 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370729757,
-    "wof:lastmodified":1449030786,
+    "wof:lastmodified":1466655570,
     "wof:name":"BP Starmount",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-78.585604,35.827194,-78.585604,35.827194],
+  "bbox": [
+    -78.585604,
+    35.827194,
+    -78.585604,
+    35.827194
+],
   "geometry": {"coordinates":[-78.585604,35.827194],"type":"Point"}
 }

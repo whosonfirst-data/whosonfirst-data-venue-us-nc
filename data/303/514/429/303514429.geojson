@@ -2,13 +2,14 @@
   "id": 303514429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.621834,35.75479,-78.621834,35.75479",
     "geom:latitude":35.75479,
     "geom:longitude":-78.621834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 S State St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303514429,
-    "wof:lastmodified":1448999350,
+    "wof:lastmodified":1466650726,
     "wof:name":"Vistar Auto Glass",
     "wof:parent_id":85850267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "replacement"
     ]
 },
-  "bbox": [-78.621834,35.75479,-78.621834,35.75479],
-  "geometry": {"coordinates":[-78.621834,35.75479],"type":"Point"}
+  "bbox": [
+    -78.621834,
+    35.75479,
+    -78.621834,
+    35.75479
+],
+  "geometry": {"coordinates":[-78.62183400000001,35.75479],"type":"Point"}
 }

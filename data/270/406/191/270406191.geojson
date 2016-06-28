@@ -2,13 +2,14 @@
   "id": 270406191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.592661,35.411533,-80.592661,35.411533",
     "geom:latitude":35.411533,
     "geom:longitude":-80.592661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Academy Ave NW",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270406191,
-    "wof:lastmodified":1449009954,
+    "wof:lastmodified":1466648208,
     "wof:name":"Mills Machine Co",
     "wof:parent_id":85891915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-80.592661,35.411533,-80.592661,35.411533],
-  "geometry": {"coordinates":[-80.592661,35.411533],"type":"Point"}
+  "bbox": [
+    -80.592661,
+    35.411533,
+    -80.592661,
+    35.411533
+],
+  "geometry": {"coordinates":[-80.59266100000001,35.411533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303451229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.657271,35.237052,-81.657271,35.237052",
     "geom:latitude":35.237052,
     "geom:longitude":-81.657271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Flint Hill Church Rd",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303451229,
-    "wof:lastmodified":1448999187,
+    "wof:lastmodified":1466649818,
     "wof:name":"Johnny Greene Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.657271,35.237052,-81.657271,35.237052],
-  "geometry": {"coordinates":[-81.657271,35.237052],"type":"Point"}
+  "bbox": [
+    -81.657271,
+    35.237052,
+    -81.657271,
+    35.237052
+],
+  "geometry": {"coordinates":[-81.65727099999999,35.237052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202398699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.948653,34.234127,-77.948653,34.234127",
     "geom:latitude":34.234127,
     "geom:longitude":-77.948653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Front St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202398699,
-    "wof:lastmodified":1449060317,
+    "wof:lastmodified":1466654217,
     "wof:name":"Lady Bugs",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-77.948653,34.234127,-77.948653,34.234127],
-  "geometry": {"coordinates":[-77.948653,34.234127],"type":"Point"}
+  "bbox": [
+    -77.948653,
+    34.234127,
+    -77.948653,
+    34.234127
+],
+  "geometry": {"coordinates":[-77.94865299999999,34.234127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303661779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.425244,35.282129,-80.425244,35.282129",
     "geom:latitude":35.282129,
     "geom:longitude":-80.425244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 N Central Ave",
     "sg:city":"Locust",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303661779,
-    "wof:lastmodified":1449000303,
+    "wof:lastmodified":1466652856,
     "wof:name":"Locust Medical Services",
     "wof:parent_id":85892003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.425244,35.282129,-80.425244,35.282129],
-  "geometry": {"coordinates":[-80.425244,35.282129],"type":"Point"}
+  "bbox": [
+    -80.425244,
+    35.282129,
+    -80.425244,
+    35.282129
+],
+  "geometry": {"coordinates":[-80.42524400000001,35.282129],"type":"Point"}
 }

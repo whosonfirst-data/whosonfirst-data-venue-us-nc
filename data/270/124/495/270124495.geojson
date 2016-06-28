@@ -2,13 +2,14 @@
   "id": 270124495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.372043,35.480122,-78.372043,35.480122",
     "geom:latitude":35.480122,
     "geom:longitude":-78.372043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2850 US Hwy 301 S",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270124495,
-    "wof:lastmodified":1449010914,
+    "wof:lastmodified":1466644643,
     "wof:name":"Barbour Machine Works",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-78.372043,35.480122,-78.372043,35.480122],
-  "geometry": {"coordinates":[-78.372043,35.480122],"type":"Point"}
+  "bbox": [
+    -78.372043,
+    35.480122,
+    -78.372043,
+    35.480122
+],
+  "geometry": {"coordinates":[-78.37204300000001,35.480122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370545915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.659026,35.281203,-80.659026,35.281203",
     "geom:latitude":35.281203,
     "geom:longitude":-80.659026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4749 Myers Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370545915,
-    "wof:lastmodified":1449029912,
+    "wof:lastmodified":1466653164,
     "wof:name":"Home Sales Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "relations"
     ]
 },
-  "bbox": [-80.659026,35.281203,-80.659026,35.281203],
+  "bbox": [
+    -80.659026,
+    35.281203,
+    -80.659026,
+    35.281203
+],
   "geometry": {"coordinates":[-80.659026,35.281203],"type":"Point"}
 }

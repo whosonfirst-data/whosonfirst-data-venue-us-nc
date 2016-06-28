@@ -2,13 +2,14 @@
   "id": 371052707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.548252,35.531116,-82.548252,35.531116",
     "geom:latitude":35.531116,
     "geom:longitude":-82.548252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Forest Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371052707,
-    "wof:lastmodified":1449049475,
+    "wof:lastmodified":1466649488,
     "wof:name":"Regional Cancer Center",
     "wof:parent_id":85845945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-82.548252,35.531116,-82.548252,35.531116],
-  "geometry": {"coordinates":[-82.548252,35.531116],"type":"Point"}
+  "bbox": [
+    -82.548252,
+    35.531116,
+    -82.548252,
+    35.531116
+],
+  "geometry": {"coordinates":[-82.54825200000001,35.531116],"type":"Point"}
 }

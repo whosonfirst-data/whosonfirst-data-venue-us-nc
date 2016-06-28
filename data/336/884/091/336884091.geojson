@@ -2,13 +2,14 @@
   "id": 336884091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.529485,35.230662,-78.529485,35.230662",
     "geom:latitude":35.230662,
     "geom:longitude":-78.529485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Stonehenge Dr",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336884091,
-    "wof:lastmodified":1448997821,
+    "wof:lastmodified":1466650182,
     "wof:name":"Custom Image Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.529485,35.230662,-78.529485,35.230662],
-  "geometry": {"coordinates":[-78.529485,35.230662],"type":"Point"}
+  "bbox": [
+    -78.529485,
+    35.230662,
+    -78.529485,
+    35.230662
+],
+  "geometry": {"coordinates":[-78.52948499999999,35.230662],"type":"Point"}
 }

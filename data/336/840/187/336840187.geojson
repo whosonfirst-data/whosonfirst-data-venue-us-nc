@@ -2,13 +2,14 @@
   "id": 336840187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.54762,35.754038,-78.54762,35.754038",
     "geom:latitude":35.754038,
     "geom:longitude":-78.54762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Ranch Mill Cir",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336840187,
-    "wof:lastmodified":1448997792,
+    "wof:lastmodified":1466649494,
     "wof:name":"Community Alternative",
     "wof:parent_id":85845179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "group"
     ]
 },
-  "bbox": [-78.54762,35.754038,-78.54762,35.754038],
-  "geometry": {"coordinates":[-78.54762,35.754038],"type":"Point"}
+  "bbox": [
+    -78.54762,
+    35.754038,
+    -78.54762,
+    35.754038
+],
+  "geometry": {"coordinates":[-78.54761999999999,35.754038],"type":"Point"}
 }

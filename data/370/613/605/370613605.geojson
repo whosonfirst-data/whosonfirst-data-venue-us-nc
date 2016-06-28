@@ -2,13 +2,14 @@
   "id": 370613605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.538444,35.916682,-81.538444,35.916682",
     "geom:latitude":35.916682,
     "geom:longitude":-81.538444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Ridge St NW",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370613605,
-    "wof:lastmodified":1449030667,
+    "wof:lastmodified":1466654049,
     "wof:name":"Edward Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.538444,35.916682,-81.538444,35.916682],
+  "bbox": [
+    -81.538444,
+    35.916682,
+    -81.538444,
+    35.916682
+],
   "geometry": {"coordinates":[-81.538444,35.916682],"type":"Point"}
 }

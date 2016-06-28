@@ -2,13 +2,14 @@
   "id": 202578037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.861905,34.238931,-77.861905,34.238931",
     "geom:latitude":34.238931,
     "geom:longitude":-77.861905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Carl St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202578037,
-    "wof:lastmodified":1449060763,
+    "wof:lastmodified":1466655931,
     "wof:name":"Kusek Financial Group",
     "wof:parent_id":85811739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-77.861905,34.238931,-77.861905,34.238931],
-  "geometry": {"coordinates":[-77.861905,34.238931],"type":"Point"}
+  "bbox": [
+    -77.861905,
+    34.238931,
+    -77.861905,
+    34.238931
+],
+  "geometry": {"coordinates":[-77.86190499999999,34.238931],"type":"Point"}
 }

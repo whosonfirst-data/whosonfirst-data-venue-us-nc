@@ -2,13 +2,14 @@
   "id": 303540325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.932077,35.781323,-77.932077,35.781323",
     "geom:latitude":35.781323,
     "geom:longitude":-77.932077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4403 High Meadow Ln",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303540325,
-    "wof:lastmodified":1448999083,
+    "wof:lastmodified":1466651095,
     "wof:name":"Jones Contractors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-77.932077,35.781323,-77.932077,35.781323],
-  "geometry": {"coordinates":[-77.932077,35.781323],"type":"Point"}
+  "bbox": [
+    -77.932077,
+    35.781323,
+    -77.932077,
+    35.781323
+],
+  "geometry": {"coordinates":[-77.93207700000001,35.781323],"type":"Point"}
 }

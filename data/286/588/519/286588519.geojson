@@ -2,13 +2,14 @@
   "id": 286588519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.622008,35.428768,-78.622008,35.428768",
     "geom:latitude":35.428768,
     "geom:longitude":-78.622008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2546 Ebenezer Church Rd",
     "sg:city":"Coats",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286588519,
-    "wof:lastmodified":1449017548,
+    "wof:lastmodified":1466647570,
     "wof:name":"Pope's Welding",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-78.622008,35.428768,-78.622008,35.428768],
-  "geometry": {"coordinates":[-78.622008,35.428768],"type":"Point"}
+  "bbox": [
+    -78.622008,
+    35.428768,
+    -78.622008,
+    35.428768
+],
+  "geometry": {"coordinates":[-78.62200799999999,35.428768],"type":"Point"}
 }

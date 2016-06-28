@@ -2,13 +2,14 @@
   "id": 286926655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.505034,36.072011,-79.505034,36.072011",
     "geom:latitude":36.072011,
     "geom:longitude":-79.505034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3378 Garden Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286926655,
-    "wof:lastmodified":1449016209,
+    "wof:lastmodified":1466652186,
     "wof:name":"Boone Station Taxidermy",
     "wof:parent_id":85857181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.505034,36.072011,-79.505034,36.072011],
-  "geometry": {"coordinates":[-79.505034,36.072011],"type":"Point"}
+  "bbox": [
+    -79.505034,
+    36.072011,
+    -79.505034,
+    36.072011
+],
+  "geometry": {"coordinates":[-79.50503399999999,36.072011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303375769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.431992,35.442611,-78.431992,35.442611",
     "geom:latitude":35.442611,
     "geom:longitude":-78.431992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Wellons St",
     "sg:city":"Four Oaks",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303375769,
-    "wof:lastmodified":1448998202,
+    "wof:lastmodified":1466648725,
     "wof:name":"Food City Grill",
     "wof:parent_id":85852085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "eating"
     ]
 },
-  "bbox": [-78.431992,35.442611,-78.431992,35.442611],
-  "geometry": {"coordinates":[-78.431992,35.442611],"type":"Point"}
+  "bbox": [
+    -78.431992,
+    35.442611,
+    -78.431992,
+    35.442611
+],
+  "geometry": {"coordinates":[-78.43199199999999,35.442611],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387365079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.29094,36.079207,-80.29094,36.079207",
     "geom:latitude":36.079207,
     "geom:longitude":-80.29094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Lyndhurst Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387365079,
-    "wof:lastmodified":1449056719,
+    "wof:lastmodified":1466654654,
     "wof:name":"Maplewood Family Prac",
     "wof:parent_id":85881847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clinic"
     ]
 },
-  "bbox": [-80.29094,36.079207,-80.29094,36.079207],
-  "geometry": {"coordinates":[-80.29094,36.079207],"type":"Point"}
+  "bbox": [
+    -80.29094,
+    36.079207,
+    -80.29094,
+    36.079207
+],
+  "geometry": {"coordinates":[-80.29094000000001,36.079207],"type":"Point"}
 }

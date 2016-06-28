@@ -2,13 +2,14 @@
   "id": 336660591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945469,34.19769,-77.945469,34.19769",
     "geom:latitude":34.19769,
     "geom:longitude":-77.945469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Southern Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336660591,
-    "wof:lastmodified":1448997907,
+    "wof:lastmodified":1466646781,
     "wof:name":"Tidewater Heating & Air Cond",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.945469,34.19769,-77.945469,34.19769],
+  "bbox": [
+    -77.945469,
+    34.19769,
+    -77.945469,
+    34.19769
+],
   "geometry": {"coordinates":[-77.945469,34.19769],"type":"Point"}
 }

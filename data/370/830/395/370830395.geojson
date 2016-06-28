@@ -2,13 +2,14 @@
   "id": 370830395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.791975,35.597206,-80.791975,35.597206",
     "geom:latitude":35.597206,
     "geom:longitude":-80.791975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Indian Paintbrush Dr",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370830395,
-    "wof:lastmodified":1449029815,
+    "wof:lastmodified":1466656491,
     "wof:name":"Randy S Byers",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.791975,35.597206,-80.791975,35.597206],
-  "geometry": {"coordinates":[-80.791975,35.597206],"type":"Point"}
+  "bbox": [
+    -80.791975,
+    35.597206,
+    -80.791975,
+    35.597206
+],
+  "geometry": {"coordinates":[-80.79197499999999,35.597206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370470981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.641342,35.866045,-78.641342,35.866045",
     "geom:latitude":35.866045,
     "geom:longitude":-78.641342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Ridgewood Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370470981,
-    "wof:lastmodified":1449029915,
+    "wof:lastmodified":1466652189,
     "wof:name":"Archstone Ridgewood",
     "wof:parent_id":85838213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "complex"
     ]
 },
-  "bbox": [-78.641342,35.866045,-78.641342,35.866045],
-  "geometry": {"coordinates":[-78.641342,35.866045],"type":"Point"}
+  "bbox": [
+    -78.641342,
+    35.866045,
+    -78.641342,
+    35.866045
+],
+  "geometry": {"coordinates":[-78.64134199999999,35.866045],"type":"Point"}
 }

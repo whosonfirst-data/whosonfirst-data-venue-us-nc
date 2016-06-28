@@ -2,13 +2,14 @@
   "id": 370588163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.598972,35.602506,-82.598972,35.602506",
     "geom:latitude":35.602506,
     "geom:longitude":-82.598972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Brickyard Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370588163,
-    "wof:lastmodified":1449031816,
+    "wof:lastmodified":1466653732,
     "wof:name":"James Smart",
     "wof:parent_id":85828711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-82.598972,35.602506,-82.598972,35.602506],
+  "bbox": [
+    -82.598972,
+    35.602506,
+    -82.598972,
+    35.602506
+],
   "geometry": {"coordinates":[-82.598972,35.602506],"type":"Point"}
 }

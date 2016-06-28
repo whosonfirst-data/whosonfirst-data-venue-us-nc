@@ -2,13 +2,14 @@
   "id": 353714995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.371875,34.781622,-77.371875,34.781622",
     "geom:latitude":34.781622,
     "geom:longitude":-77.371875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Mike Loop Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353714995,
-    "wof:lastmodified":1449019520,
+    "wof:lastmodified":1466650796,
     "wof:name":"Monington Transportation",
     "wof:parent_id":85839091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-77.371875,34.781622,-77.371875,34.781622],
+  "bbox": [
+    -77.371875,
+    34.781622,
+    -77.371875,
+    34.781622
+],
   "geometry": {"coordinates":[-77.371875,34.781622],"type":"Point"}
 }

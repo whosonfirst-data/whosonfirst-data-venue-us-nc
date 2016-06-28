@@ -2,13 +2,14 @@
   "id": 387069483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.864167,34.356879,-77.864167,34.356879",
     "geom:latitude":34.356879,
     "geom:longitude":-77.864167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5317 Holly Shelter Rd",
     "sg:city":"Castle Hayne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387069483,
-    "wof:lastmodified":1449058513,
+    "wof:lastmodified":1466650760,
     "wof:name":"Ready Mix Concrete Co",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "brick"
     ]
 },
-  "bbox": [-77.864167,34.356879,-77.864167,34.356879],
-  "geometry": {"coordinates":[-77.864167,34.356879],"type":"Point"}
+  "bbox": [
+    -77.864167,
+    34.356879,
+    -77.864167,
+    34.356879
+],
+  "geometry": {"coordinates":[-77.86416699999999,34.356879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303415903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.742501,36.387269,-79.742501,36.387269",
     "geom:latitude":36.387269,
     "geom:longitude":-79.742501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 High School Rd",
     "sg:city":"Reidsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303415903,
-    "wof:lastmodified":1448999880,
+    "wof:lastmodified":1466649299,
     "wof:name":"Rockingham Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.742501,36.387269,-79.742501,36.387269],
+  "bbox": [
+    -79.742501,
+    36.387269,
+    -79.742501,
+    36.387269
+],
   "geometry": {"coordinates":[-79.742501,36.387269],"type":"Point"}
 }

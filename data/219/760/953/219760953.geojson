@@ -2,13 +2,14 @@
   "id": 219760953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.705327,34.320851,-78.705327,34.320851",
     "geom:latitude":34.320851,
     "geom:longitude":-78.705327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Pecan St",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219760953,
-    "wof:lastmodified":1449073783,
+    "wof:lastmodified":1466646865,
     "wof:name":"Cape Fear Fire Protection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-78.705327,34.320851,-78.705327,34.320851],
+  "bbox": [
+    -78.705327,
+    34.320851,
+    -78.705327,
+    34.320851
+],
   "geometry": {"coordinates":[-78.705327,34.320851],"type":"Point"}
 }

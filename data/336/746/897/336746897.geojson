@@ -2,13 +2,14 @@
   "id": 336746897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.070231,36.030667,-79.070231,36.030667",
     "geom:latitude":36.030667,
     "geom:longitude":-79.070231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Bluestone Ct",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336746897,
-    "wof:lastmodified":1448996911,
+    "wof:lastmodified":1466648057,
     "wof:name":"National Management Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.070231,36.030667,-79.070231,36.030667],
-  "geometry": {"coordinates":[-79.070231,36.030667],"type":"Point"}
+  "bbox": [
+    -79.070231,
+    36.030667,
+    -79.070231,
+    36.030667
+],
+  "geometry": {"coordinates":[-79.07023100000001,36.030667],"type":"Point"}
 }

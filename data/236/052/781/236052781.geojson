@@ -2,13 +2,14 @@
   "id": 236052781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.498714,35.651542,-80.498714,35.651542",
     "geom:latitude":35.651542,
     "geom:longitude":-80.498714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Jake Alexander Blvd W",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236052781,
-    "wof:lastmodified":1449003091,
+    "wof:lastmodified":1466643700,
     "wof:name":"Internet Of Salisbury",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-80.498714,35.651542,-80.498714,35.651542],
-  "geometry": {"coordinates":[-80.498714,35.651542],"type":"Point"}
+  "bbox": [
+    -80.498714,
+    35.651542,
+    -80.498714,
+    35.651542
+],
+  "geometry": {"coordinates":[-80.49871400000001,35.651542],"type":"Point"}
 }

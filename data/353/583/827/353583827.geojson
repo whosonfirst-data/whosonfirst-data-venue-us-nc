@@ -2,13 +2,14 @@
   "id": 353583827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.998821,35.408528,-77.998821,35.408528",
     "geom:latitude":35.408528,
     "geom:longitude":-77.998821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 W Guilford St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353583827,
-    "wof:lastmodified":1449020283,
+    "wof:lastmodified":1466649205,
     "wof:name":"Nancy Lilly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transportation"
     ]
 },
-  "bbox": [-77.998821,35.408528,-77.998821,35.408528],
-  "geometry": {"coordinates":[-77.998821,35.408528],"type":"Point"}
+  "bbox": [
+    -77.998821,
+    35.408528,
+    -77.998821,
+    35.408528
+],
+  "geometry": {"coordinates":[-77.99882100000001,35.408528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403984519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.607862,35.546584,-82.607862,35.546584",
     "geom:latitude":35.546584,
     "geom:longitude":-82.607862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 McIntosh Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403984519,
-    "wof:lastmodified":1449055392,
+    "wof:lastmodified":1466653995,
     "wof:name":"Morse Auction Company",
     "wof:parent_id":85853555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "auctioneer"
     ]
 },
-  "bbox": [-82.607862,35.546584,-82.607862,35.546584],
+  "bbox": [
+    -82.607862,
+    35.546584,
+    -82.607862,
+    35.546584
+],
   "geometry": {"coordinates":[-82.607862,35.546584],"type":"Point"}
 }

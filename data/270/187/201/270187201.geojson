@@ -2,13 +2,14 @@
   "id": 270187201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.108027,36.029031,-79.108027,36.029031",
     "geom:latitude":36.029031,
     "geom:longitude":-79.108027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Davis Rd",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270187201,
-    "wof:lastmodified":1449009002,
+    "wof:lastmodified":1466645456,
     "wof:name":"Pinewood Montessori School",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-79.108027,36.029031,-79.108027,36.029031],
-  "geometry": {"coordinates":[-79.108027,36.029031],"type":"Point"}
+  "bbox": [
+    -79.108027,
+    36.029031,
+    -79.108027,
+    36.029031
+],
+  "geometry": {"coordinates":[-79.10802700000001,36.029031],"type":"Point"}
 }

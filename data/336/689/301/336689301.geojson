@@ -2,13 +2,14 @@
   "id": 336689301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.425024,35.097176,-80.425024,35.097176",
     "geom:latitude":35.097176,
     "geom:longitude":-80.425024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Sugar and Wine Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336689301,
-    "wof:lastmodified":1448997853,
+    "wof:lastmodified":1466647214,
     "wof:name":"Fredricks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.425024,35.097176,-80.425024,35.097176],
-  "geometry": {"coordinates":[-80.425024,35.097176],"type":"Point"}
+  "bbox": [
+    -80.425024,
+    35.097176,
+    -80.425024,
+    35.097176
+],
+  "geometry": {"coordinates":[-80.42502399999999,35.097176],"type":"Point"}
 }

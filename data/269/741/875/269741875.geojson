@@ -2,13 +2,14 @@
   "id": 269741875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.91639,35.538365,-82.91639,35.538365",
     "geom:latitude":35.538365,
     "geom:longitude":-82.91639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Mackey Dr",
     "sg:city":"Swannanoa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269741875,
-    "wof:lastmodified":1449036261,
+    "wof:lastmodified":1466646291,
     "wof:name":"Warren & Sons Roofing & Home",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.91639,35.538365,-82.91639,35.538365],
-  "geometry": {"coordinates":[-82.91639,35.538365],"type":"Point"}
+  "bbox": [
+    -82.91639,
+    35.538365,
+    -82.91639,
+    35.538365
+],
+  "geometry": {"coordinates":[-82.91639000000001,35.538365],"type":"Point"}
 }

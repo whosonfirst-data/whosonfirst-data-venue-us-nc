@@ -2,13 +2,14 @@
   "id": 387811677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209263,35.359099,-80.209263,35.359099",
     "geom:latitude":35.359099,
     "geom:longitude":-80.209263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 Austin St",
     "sg:city":"Albemarle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387811677,
-    "wof:lastmodified":1449057934,
+    "wof:lastmodified":1466657795,
     "wof:name":"RMC Group",
     "wof:parent_id":85858235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.209263,35.359099,-80.209263,35.359099],
-  "geometry": {"coordinates":[-80.209263,35.359099],"type":"Point"}
+  "bbox": [
+    -80.209263,
+    35.359099,
+    -80.209263,
+    35.359099
+],
+  "geometry": {"coordinates":[-80.20926300000001,35.359099],"type":"Point"}
 }

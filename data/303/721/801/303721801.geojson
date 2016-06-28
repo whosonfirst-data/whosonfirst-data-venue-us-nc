@@ -2,13 +2,14 @@
   "id": 303721801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.840805,35.172416,-80.840805,35.172416",
     "geom:latitude":35.172416,
     "geom:longitude":-80.840805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2934 Selwyn Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303721801,
-    "wof:lastmodified":1449000560,
+    "wof:lastmodified":1466653733,
     "wof:name":"Inter Link",
     "wof:parent_id":85891847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.840805,35.172416,-80.840805,35.172416],
+  "bbox": [
+    -80.840805,
+    35.172416,
+    -80.840805,
+    35.172416
+],
   "geometry": {"coordinates":[-80.840805,35.172416],"type":"Point"}
 }

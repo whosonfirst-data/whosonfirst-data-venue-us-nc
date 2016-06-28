@@ -2,13 +2,14 @@
   "id": 336748111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.601389,35.855527,-78.601389,35.855527",
     "geom:latitude":35.855527,
     "geom:longitude":-78.601389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5625 Old Wake Forest Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336748111,
-    "wof:lastmodified":1448997753,
+    "wof:lastmodified":1466648075,
     "wof:name":"Simple Machine Productions",
     "wof:parent_id":85854217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-78.601389,35.855527,-78.601389,35.855527],
+  "bbox": [
+    -78.601389,
+    35.855527,
+    -78.601389,
+    35.855527
+],
   "geometry": {"coordinates":[-78.601389,35.855527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336672929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.862191,35.407288,-80.862191,35.407288",
     "geom:latitude":35.407288,
     "geom:longitude":-80.862191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10030 Gilead Rd",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336672929,
-    "wof:lastmodified":1448996995,
+    "wof:lastmodified":1466646966,
     "wof:name":"Carolinas Cancer Care",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.862191,35.407288,-80.862191,35.407288],
+  "bbox": [
+    -80.862191,
+    35.407288,
+    -80.862191,
+    35.407288
+],
   "geometry": {"coordinates":[-80.862191,35.407288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236105623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.809778,35.722207,-79.809778,35.722207",
     "geom:latitude":35.722207,
     "geom:longitude":-79.809778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 N Fayetteville St",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236105623,
-    "wof:lastmodified":1449002804,
+    "wof:lastmodified":1466644162,
     "wof:name":"Star Audio",
     "wof:parent_id":85824535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radio"
     ]
 },
-  "bbox": [-79.809778,35.722207,-79.809778,35.722207],
-  "geometry": {"coordinates":[-79.809778,35.722207],"type":"Point"}
+  "bbox": [
+    -79.809778,
+    35.722207,
+    -79.809778,
+    35.722207
+],
+  "geometry": {"coordinates":[-79.80977799999999,35.722207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270159581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.610532,35.852643,-81.610532,35.852643",
     "geom:latitude":35.852643,
     "geom:longitude":-81.610532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3153 Morganton Blvd SW",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270159581,
-    "wof:lastmodified":1449008941,
+    "wof:lastmodified":1466645090,
     "wof:name":"Crossroads Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.610532,35.852643,-81.610532,35.852643],
-  "geometry": {"coordinates":[-81.610532,35.852643],"type":"Point"}
+  "bbox": [
+    -81.610532,
+    35.852643,
+    -81.610532,
+    35.852643
+],
+  "geometry": {"coordinates":[-81.61053200000001,35.852643],"type":"Point"}
 }

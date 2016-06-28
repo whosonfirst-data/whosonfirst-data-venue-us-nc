@@ -2,13 +2,14 @@
   "id": 354402959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.522191,35.880789,-78.522191,35.880789",
     "geom:latitude":35.880789,
     "geom:longitude":-78.522191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Tunas St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354402959,
-    "wof:lastmodified":1449066455,
+    "wof:lastmodified":1466652203,
     "wof:name":"A Cut Above Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.522191,35.880789,-78.522191,35.880789],
-  "geometry": {"coordinates":[-78.522191,35.880789],"type":"Point"}
+  "bbox": [
+    -78.522191,
+    35.880789,
+    -78.522191,
+    35.880789
+],
+  "geometry": {"coordinates":[-78.52219100000001,35.880789],"type":"Point"}
 }

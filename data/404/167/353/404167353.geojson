@@ -2,13 +2,14 @@
   "id": 404167353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.278089,36.150914,-80.278089,36.150914",
     "geom:latitude":36.150914,
     "geom:longitude":-80.278089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7830 N Point Blvd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404167353,
-    "wof:lastmodified":1449039725,
+    "wof:lastmodified":1466653411,
     "wof:name":"MTI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.278089,36.150914,-80.278089,36.150914],
-  "geometry": {"coordinates":[-80.278089,36.150914],"type":"Point"}
+  "bbox": [
+    -80.278089,
+    36.150914,
+    -80.278089,
+    36.150914
+],
+  "geometry": {"coordinates":[-80.27808899999999,36.150914],"type":"Point"}
 }

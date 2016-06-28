@@ -2,13 +2,14 @@
   "id": 370967593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.584347,35.847382,-79.584347,35.847382",
     "geom:latitude":35.847382,
     "geom:longitude":-79.584347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 S Kirkman St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370967593,
-    "wof:lastmodified":1449032215,
+    "wof:lastmodified":1466657193,
     "wof:name":"George Miller",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-79.584347,35.847382,-79.584347,35.847382],
-  "geometry": {"coordinates":[-79.584347,35.847382],"type":"Point"}
+  "bbox": [
+    -79.584347,
+    35.847382,
+    -79.584347,
+    35.847382
+],
+  "geometry": {"coordinates":[-79.58434699999999,35.847382],"type":"Point"}
 }

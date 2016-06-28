@@ -2,13 +2,14 @@
   "id": 303200513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.100422,36.063718,-79.100422,36.063718",
     "geom:latitude":36.063718,
     "geom:longitude":-79.100422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Boone Square St",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303200513,
-    "wof:lastmodified":1448999099,
+    "wof:lastmodified":1466646221,
     "wof:name":"Hillsborough Glass Company",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.100422,36.063718,-79.100422,36.063718],
-  "geometry": {"coordinates":[-79.100422,36.063718],"type":"Point"}
+  "bbox": [
+    -79.100422,
+    36.063718,
+    -79.100422,
+    36.063718
+],
+  "geometry": {"coordinates":[-79.10042199999999,36.063718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303347533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.826775,36.124266,-79.826775,36.124266",
     "geom:latitude":36.124266,
     "geom:longitude":-79.826775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Kirk Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303347533,
-    "wof:lastmodified":1448999300,
+    "wof:lastmodified":1466648312,
     "wof:name":"House Of Saw",
     "wof:parent_id":85812537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.826775,36.124266,-79.826775,36.124266],
+  "bbox": [
+    -79.826775,
+    36.124266,
+    -79.826775,
+    36.124266
+],
   "geometry": {"coordinates":[-79.826775,36.124266],"type":"Point"}
 }

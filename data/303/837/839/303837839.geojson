@@ -2,13 +2,14 @@
   "id": 303837839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.808551,36.063304,-79.808551,36.063304",
     "geom:latitude":36.063304,
     "geom:longitude":-79.808551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 W Lee St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303837839,
-    "wof:lastmodified":1448998501,
+    "wof:lastmodified":1466655412,
     "wof:name":"Beef-Burger Of Greensboro Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.808551,36.063304,-79.808551,36.063304],
-  "geometry": {"coordinates":[-79.808551,36.063304],"type":"Point"}
+  "bbox": [
+    -79.808551,
+    36.063304,
+    -79.808551,
+    36.063304
+],
+  "geometry": {"coordinates":[-79.80855099999999,36.063304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219983099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.781234,35.213405,-80.781234,35.213405",
     "geom:latitude":35.213405,
     "geom:longitude":-80.781234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3024 Eastway Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219983099,
-    "wof:lastmodified":1449073623,
+    "wof:lastmodified":1466648696,
     "wof:name":"Charlotte Police Dept",
     "wof:parent_id":85891849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.781234,35.213405,-80.781234,35.213405],
+  "bbox": [
+    -80.781234,
+    35.213405,
+    -80.781234,
+    35.213405
+],
   "geometry": {"coordinates":[-80.781234,35.213405],"type":"Point"}
 }

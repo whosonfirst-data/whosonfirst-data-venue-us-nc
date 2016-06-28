@@ -2,13 +2,14 @@
   "id": 387687623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.758338,35.225261,-80.758338,35.225261",
     "geom:latitude":35.225261,
     "geom:longitude":-80.758338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4009 Woodgreen Ter",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387687623,
-    "wof:lastmodified":1449057165,
+    "wof:lastmodified":1466657304,
     "wof:name":"Pigg's Welding Svc",
     "wof:parent_id":85882269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.758338,35.225261,-80.758338,35.225261],
-  "geometry": {"coordinates":[-80.758338,35.225261],"type":"Point"}
+  "bbox": [
+    -80.758338,
+    35.225261,
+    -80.758338,
+    35.225261
+],
+  "geometry": {"coordinates":[-80.75833799999999,35.225261],"type":"Point"}
 }

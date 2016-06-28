@@ -2,13 +2,14 @@
   "id": 370967083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.823079,36.120137,-79.823079,36.120137",
     "geom:latitude":36.120137,
     "geom:longitude":-79.823079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Yester Oaks Way",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370967083,
-    "wof:lastmodified":1449032215,
+    "wof:lastmodified":1466657186,
     "wof:name":"Yester Oaks Apartments",
     "wof:parent_id":85812537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.823079,36.120137,-79.823079,36.120137],
-  "geometry": {"coordinates":[-79.823079,36.120137],"type":"Point"}
+  "bbox": [
+    -79.823079,
+    36.120137,
+    -79.823079,
+    36.120137
+],
+  "geometry": {"coordinates":[-79.82307900000001,36.120137],"type":"Point"}
 }

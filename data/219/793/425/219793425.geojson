@@ -2,13 +2,14 @@
   "id": 219793425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.452266,35.874325,-78.452266,35.874325",
     "geom:latitude":35.874325,
     "geom:longitude":-78.452266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Starboard Ct",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219793425,
-    "wof:lastmodified":1449072318,
+    "wof:lastmodified":1466647128,
     "wof:name":"Maywood Enterprise Inc",
     "wof:parent_id":85892201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.452266,35.874325,-78.452266,35.874325],
-  "geometry": {"coordinates":[-78.452266,35.874325],"type":"Point"}
+  "bbox": [
+    -78.452266,
+    35.874325,
+    -78.452266,
+    35.874325
+],
+  "geometry": {"coordinates":[-78.45226599999999,35.874325],"type":"Point"}
 }

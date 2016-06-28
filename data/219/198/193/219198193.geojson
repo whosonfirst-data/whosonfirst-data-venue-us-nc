@@ -2,13 +2,14 @@
   "id": 219198193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.559373,35.774762,-81.559373,35.774762",
     "geom:latitude":35.774762,
     "geom:longitude":-81.559373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5105 Lakeview Acres Rd",
     "sg:city":"Valdese",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219198193,
-    "wof:lastmodified":1449071670,
+    "wof:lastmodified":1466655361,
     "wof:name":"Valdese Water Works",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "city"
     ]
 },
-  "bbox": [-81.559373,35.774762,-81.559373,35.774762],
-  "geometry": {"coordinates":[-81.559373,35.774762],"type":"Point"}
+  "bbox": [
+    -81.559373,
+    35.774762,
+    -81.559373,
+    35.774762
+],
+  "geometry": {"coordinates":[-81.55937299999999,35.774762],"type":"Point"}
 }

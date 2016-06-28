@@ -2,13 +2,14 @@
   "id": 303505719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.077984,35.567659,-77.077984,35.567659",
     "geom:latitude":35.567659,
     "geom:longitude":-77.077984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 W 5th St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303505719,
-    "wof:lastmodified":1449000157,
+    "wof:lastmodified":1466650598,
     "wof:name":"Mason Lumber Co",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-77.077984,35.567659,-77.077984,35.567659],
+  "bbox": [
+    -77.077984,
+    35.567659,
+    -77.077984,
+    35.567659
+],
   "geometry": {"coordinates":[-77.077984,35.567659],"type":"Point"}
 }

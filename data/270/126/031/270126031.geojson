@@ -2,13 +2,14 @@
   "id": 270126031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.104993,35.965008,-79.104993,35.965008",
     "geom:latitude":35.965008,
     "geom:longitude":-79.104993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Dublin Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270126031,
-    "wof:lastmodified":1449009542,
+    "wof:lastmodified":1466644660,
     "wof:name":"Breeden's Home Svc",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-79.104993,35.965008,-79.104993,35.965008],
-  "geometry": {"coordinates":[-79.104993,35.965008],"type":"Point"}
+  "bbox": [
+    -79.104993,
+    35.965008,
+    -79.104993,
+    35.965008
+],
+  "geometry": {"coordinates":[-79.10499299999999,35.965008],"type":"Point"}
 }

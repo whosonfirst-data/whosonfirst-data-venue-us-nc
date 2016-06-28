@@ -2,13 +2,14 @@
   "id": 253421221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.04715,35.964437,-79.04715,35.964437",
     "geom:latitude":35.964437,
     "geom:longitude":-79.04715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Scott Ln",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253421221,
-    "wof:lastmodified":1449064706,
+    "wof:lastmodified":1466647396,
     "wof:name":"Marco Centeno",
     "wof:parent_id":85838755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teaching"
     ]
 },
-  "bbox": [-79.04715,35.964437,-79.04715,35.964437],
+  "bbox": [
+    -79.04715,
+    35.964437,
+    -79.04715,
+    35.964437
+],
   "geometry": {"coordinates":[-79.04715,35.964437],"type":"Point"}
 }

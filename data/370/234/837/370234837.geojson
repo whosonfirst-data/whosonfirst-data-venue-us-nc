@@ -2,13 +2,14 @@
   "id": 370234837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.735453,35.754747,-78.735453,35.754747",
     "geom:latitude":35.754747,
     "geom:longitude":-78.735453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 Dillard Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370234837,
-    "wof:lastmodified":1449032280,
+    "wof:lastmodified":1466649222,
     "wof:name":"Charles N Anderson Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.735453,35.754747,-78.735453,35.754747],
-  "geometry": {"coordinates":[-78.735453,35.754747],"type":"Point"}
+  "bbox": [
+    -78.735453,
+    35.754747,
+    -78.735453,
+    35.754747
+],
+  "geometry": {"coordinates":[-78.73545300000001,35.754747],"type":"Point"}
 }

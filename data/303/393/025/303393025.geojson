@@ -2,13 +2,14 @@
   "id": 303393025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.609704,34.194059,-78.609704,34.194059",
     "geom:latitude":34.194059,
     "geom:longitude":-78.609704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10231 New Britton Hwy E",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303393025,
-    "wof:lastmodified":1448998884,
+    "wof:lastmodified":1466648974,
     "wof:name":"All American Home Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.609704,34.194059,-78.609704,34.194059],
-  "geometry": {"coordinates":[-78.609704,34.194059],"type":"Point"}
+  "bbox": [
+    -78.609704,
+    34.194059,
+    -78.609704,
+    34.194059
+],
+  "geometry": {"coordinates":[-78.60970399999999,34.194059],"type":"Point"}
 }

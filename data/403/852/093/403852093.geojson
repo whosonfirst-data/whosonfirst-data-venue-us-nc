@@ -2,13 +2,14 @@
   "id": 403852093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.880164,35.739581,-78.880164,35.739581",
     "geom:latitude":35.739581,
     "geom:longitude":-78.880164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Avonlea Ct",
     "sg:city":"Apex",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403852093,
-    "wof:lastmodified":1449055748,
+    "wof:lastmodified":1466652302,
     "wof:name":"Mojo Wipes",
     "wof:parent_id":85891749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-78.880164,35.739581,-78.880164,35.739581],
-  "geometry": {"coordinates":[-78.880164,35.739581],"type":"Point"}
+  "bbox": [
+    -78.880164,
+    35.739581,
+    -78.880164,
+    35.739581
+],
+  "geometry": {"coordinates":[-78.88016399999999,35.739581],"type":"Point"}
 }

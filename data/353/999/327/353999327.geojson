@@ -2,13 +2,14 @@
   "id": 353999327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.25302,36.288048,-76.25302,36.288048",
     "geom:latitude":36.288048,
     "geom:longitude":-76.25302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"963 Oak Stump Rd",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353999327,
-    "wof:lastmodified":1449020487,
+    "wof:lastmodified":1466654120,
     "wof:name":"Northeastern High School",
     "wof:parent_id":85840077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.25302,36.288048,-76.25302,36.288048],
-  "geometry": {"coordinates":[-76.25302,36.288048],"type":"Point"}
+  "bbox": [
+    -76.25302,
+    36.288048,
+    -76.25302,
+    36.288048
+],
+  "geometry": {"coordinates":[-76.25302000000001,36.288048],"type":"Point"}
 }

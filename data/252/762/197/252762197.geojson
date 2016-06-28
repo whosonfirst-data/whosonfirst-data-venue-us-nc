@@ -2,13 +2,14 @@
   "id": 252762197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.79121,35.185008,-80.79121,35.185008",
     "geom:latitude":35.185008,
     "geom:longitude":-80.79121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4317 Walker Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252762197,
-    "wof:lastmodified":1449006170,
+    "wof:lastmodified":1466643703,
     "wof:name":"A-Global Towing",
     "wof:parent_id":85812387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.79121,35.185008,-80.79121,35.185008],
-  "geometry": {"coordinates":[-80.79121,35.185008],"type":"Point"}
+  "bbox": [
+    -80.79121,
+    35.185008,
+    -80.79121,
+    35.185008
+],
+  "geometry": {"coordinates":[-80.79121000000001,35.185008],"type":"Point"}
 }

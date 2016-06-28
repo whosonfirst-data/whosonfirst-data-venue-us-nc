@@ -2,13 +2,14 @@
   "id": 303527931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.59502,36.364564,-80.59502,36.364564",
     "geom:latitude":36.364564,
     "geom:longitude":-80.59502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1093 Tom Jones Rd",
     "sg:city":"Ararat",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303527931,
-    "wof:lastmodified":1449000063,
+    "wof:lastmodified":1466650913,
     "wof:name":"Ty's Turf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "grounds"
     ]
 },
-  "bbox": [-80.59502,36.364564,-80.59502,36.364564],
-  "geometry": {"coordinates":[-80.59502,36.364564],"type":"Point"}
+  "bbox": [
+    -80.59502,
+    36.364564,
+    -80.59502,
+    36.364564
+],
+  "geometry": {"coordinates":[-80.59502000000001,36.364564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387621575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.845835,35.201697,-80.845835,35.201697",
     "geom:latitude":35.201697,
     "geom:longitude":-80.845835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 Charlotte Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387621575,
-    "wof:lastmodified":1449059465,
+    "wof:lastmodified":1466656951,
     "wof:name":"CPI Training Solutions Inc",
     "wof:parent_id":85814539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.845835,35.201697,-80.845835,35.201697],
-  "geometry": {"coordinates":[-80.845835,35.201697],"type":"Point"}
+  "bbox": [
+    -80.845835,
+    35.201697,
+    -80.845835,
+    35.201697
+],
+  "geometry": {"coordinates":[-80.84583499999999,35.201697],"type":"Point"}
 }

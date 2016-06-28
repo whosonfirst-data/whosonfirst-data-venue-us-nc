@@ -2,13 +2,14 @@
   "id": 320447977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.59959,35.174518,-80.59959,35.174518",
     "geom:latitude":35.174518,
     "geom:longitude":-80.59959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10610 Hanging Moss Trl",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320447977,
-    "wof:lastmodified":1449013893,
+    "wof:lastmodified":1466651615,
     "wof:name":"Fly For Fun Ultralights Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.59959,35.174518,-80.59959,35.174518],
-  "geometry": {"coordinates":[-80.59959,35.174518],"type":"Point"}
+  "bbox": [
+    -80.59959,
+    35.174518,
+    -80.59959,
+    35.174518
+],
+  "geometry": {"coordinates":[-80.59959000000001,35.174518],"type":"Point"}
 }

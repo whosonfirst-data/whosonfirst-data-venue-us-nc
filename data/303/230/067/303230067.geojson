@@ -2,13 +2,14 @@
   "id": 303230067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.332196,35.766496,-81.332196,35.766496",
     "geom:latitude":35.766496,
     "geom:longitude":-81.332196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2614 N Center St",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303230067,
-    "wof:lastmodified":1448999934,
+    "wof:lastmodified":1466646650,
     "wof:name":"One Stop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.332196,35.766496,-81.332196,35.766496],
+  "bbox": [
+    -81.332196,
+    35.766496,
+    -81.332196,
+    35.766496
+],
   "geometry": {"coordinates":[-81.332196,35.766496],"type":"Point"}
 }

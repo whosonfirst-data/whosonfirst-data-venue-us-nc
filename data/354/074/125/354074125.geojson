@@ -2,13 +2,14 @@
   "id": 354074125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.822604,35.677784,-79.822604,35.677784",
     "geom:latitude":35.677784,
     "geom:longitude":-79.822604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Springwood Rd",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354074125,
-    "wof:lastmodified":1449066859,
+    "wof:lastmodified":1466648425,
     "wof:name":"Charles Tax Service",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-79.822604,35.677784,-79.822604,35.677784],
+  "bbox": [
+    -79.822604,
+    35.677784,
+    -79.822604,
+    35.677784
+],
   "geometry": {"coordinates":[-79.822604,35.677784],"type":"Point"}
 }

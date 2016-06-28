@@ -2,13 +2,14 @@
   "id": 387817553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.261916,35.811628,-80.261916,35.811628",
     "geom:latitude":35.811628,
     "geom:longitude":-80.261916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Cotton Grove Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387817553,
-    "wof:lastmodified":1449059169,
+    "wof:lastmodified":1466657810,
     "wof:name":"Lexington Fire Station 2",
     "wof:parent_id":85849547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.261916,35.811628,-80.261916,35.811628],
+  "bbox": [
+    -80.261916,
+    35.811628,
+    -80.261916,
+    35.811628
+],
   "geometry": {"coordinates":[-80.261916,35.811628],"type":"Point"}
 }

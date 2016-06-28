@@ -2,13 +2,14 @@
   "id": 287037671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.661558,34.718249,-76.661558,34.718249",
     "geom:latitude":34.718249,
     "geom:longitude":-76.661558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Broad St",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287037671,
-    "wof:lastmodified":1449001605,
+    "wof:lastmodified":1466643762,
     "wof:name":"Beaufort Police Dept",
     "wof:parent_id":85850989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-76.661558,34.718249,-76.661558,34.718249],
+  "bbox": [
+    -76.661558,
+    34.718249,
+    -76.661558,
+    34.718249
+],
   "geometry": {"coordinates":[-76.661558,34.718249],"type":"Point"}
 }

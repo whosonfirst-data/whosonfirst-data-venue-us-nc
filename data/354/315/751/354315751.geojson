@@ -2,13 +2,14 @@
   "id": 354315751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.045449,35.956208,-79.045449,35.956208",
     "geom:latitude":35.956208,
     "geom:longitude":-79.045449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Kingston Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354315751,
-    "wof:lastmodified":1449067587,
+    "wof:lastmodified":1466651204,
     "wof:name":"Laurel Bsrn Wilkinson",
     "wof:parent_id":85838755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.045449,35.956208,-79.045449,35.956208],
+  "bbox": [
+    -79.045449,
+    35.956208,
+    -79.045449,
+    35.956208
+],
   "geometry": {"coordinates":[-79.045449,35.956208],"type":"Point"}
 }

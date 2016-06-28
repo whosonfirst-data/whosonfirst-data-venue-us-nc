@@ -2,13 +2,14 @@
   "id": 269503323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.390397,35.575728,-77.390397,35.575728",
     "geom:latitude":35.575728,
     "geom:longitude":-77.390397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Manchester St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269503323,
-    "wof:lastmodified":1449038972,
+    "wof:lastmodified":1466643450,
     "wof:name":"General Parts Inc",
     "wof:parent_id":85857865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.390397,35.575728,-77.390397,35.575728],
-  "geometry": {"coordinates":[-77.390397,35.575728],"type":"Point"}
+  "bbox": [
+    -77.390397,
+    35.575728,
+    -77.390397,
+    35.575728
+],
+  "geometry": {"coordinates":[-77.39039699999999,35.575728],"type":"Point"}
 }

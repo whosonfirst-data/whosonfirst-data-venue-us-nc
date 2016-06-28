@@ -2,13 +2,14 @@
   "id": 336698225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.773653,34.939238,-79.773653,34.939238",
     "geom:latitude":34.939238,
     "geom:longitude":-79.773653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Hancock St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336698225,
-    "wof:lastmodified":1448997947,
+    "wof:lastmodified":1466647340,
     "wof:name":"US Health & Human Svc Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-79.773653,34.939238,-79.773653,34.939238],
+  "bbox": [
+    -79.773653,
+    34.939238,
+    -79.773653,
+    34.939238
+],
   "geometry": {"coordinates":[-79.773653,34.939238],"type":"Point"}
 }

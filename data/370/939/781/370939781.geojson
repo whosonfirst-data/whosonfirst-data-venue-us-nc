@@ -2,13 +2,14 @@
   "id": 370939781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.041576,36.015338,-79.041576,36.015338",
     "geom:latitude":36.015338,
     "geom:longitude":-79.041576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3727 Brockwell Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370939781,
-    "wof:lastmodified":1449030096,
+    "wof:lastmodified":1466656918,
     "wof:name":"Broughton Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.041576,36.015338,-79.041576,36.015338],
-  "geometry": {"coordinates":[-79.041576,36.015338],"type":"Point"}
+  "bbox": [
+    -79.041576,
+    36.015338,
+    -79.041576,
+    36.015338
+],
+  "geometry": {"coordinates":[-79.04157600000001,36.015338],"type":"Point"}
 }

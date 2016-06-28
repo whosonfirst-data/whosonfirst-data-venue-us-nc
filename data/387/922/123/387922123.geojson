@@ -2,13 +2,14 @@
   "id": 387922123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.356082,35.606718,-77.356082,35.606718",
     "geom:latitude":35.606718,
     "geom:longitude":-77.356082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 E 5th St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387922123,
-    "wof:lastmodified":1449056449,
+    "wof:lastmodified":1466658086,
     "wof:name":"Landmark Pick-Up",
     "wof:parent_id":85811829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-77.356082,35.606718,-77.356082,35.606718],
+  "bbox": [
+    -77.356082,
+    35.606718,
+    -77.356082,
+    35.606718
+],
   "geometry": {"coordinates":[-77.356082,35.606718],"type":"Point"}
 }

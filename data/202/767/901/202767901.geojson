@@ -2,13 +2,14 @@
   "id": 202767901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.369338,34.889596,-79.369338,34.889596",
     "geom:latitude":34.889596,
     "geom:longitude":-79.369338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24420 Harrell St",
     "sg:city":"Wagram",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202767901,
-    "wof:lastmodified":1449060850,
+    "wof:lastmodified":1466643919,
     "wof:name":"Wagram Church Of God Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.369338,34.889596,-79.369338,34.889596],
+  "bbox": [
+    -79.369338,
+    34.889596,
+    -79.369338,
+    34.889596
+],
   "geometry": {"coordinates":[-79.369338,34.889596],"type":"Point"}
 }

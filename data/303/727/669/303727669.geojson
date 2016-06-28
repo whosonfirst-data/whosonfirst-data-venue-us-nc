@@ -2,13 +2,14 @@
   "id": 303727669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.876739,34.238962,-77.876739,34.238962",
     "geom:latitude":34.238962,
     "geom:longitude":-77.876739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Dapple Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303727669,
-    "wof:lastmodified":1448998487,
+    "wof:lastmodified":1466653817,
     "wof:name":"Nelson Web Design",
     "wof:parent_id":85811739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-77.876739,34.238962,-77.876739,34.238962],
+  "bbox": [
+    -77.876739,
+    34.238962,
+    -77.876739,
+    34.238962
+],
   "geometry": {"coordinates":[-77.876739,34.238962],"type":"Point"}
 }

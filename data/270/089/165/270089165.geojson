@@ -2,13 +2,14 @@
   "id": 270089165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.135833,35.257105,-81.135833,35.257105",
     "geom:latitude":35.257105,
     "geom:longitude":-81.135833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Club Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270089165,
-    "wof:lastmodified":1449009126,
+    "wof:lastmodified":1466644244,
     "wof:name":"Firestone Grill",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.135833,35.257105,-81.135833,35.257105],
-  "geometry": {"coordinates":[-81.135833,35.257105],"type":"Point"}
+  "bbox": [
+    -81.135833,
+    35.257105,
+    -81.135833,
+    35.257105
+],
+  "geometry": {"coordinates":[-81.13583300000001,35.257105],"type":"Point"}
 }

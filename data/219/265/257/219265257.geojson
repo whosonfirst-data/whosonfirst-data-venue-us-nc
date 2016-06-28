@@ -2,13 +2,14 @@
   "id": 219265257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.443356,36.083513,-79.443356,36.083513",
     "geom:latitude":36.083513,
     "geom:longitude":-79.443356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 S Mebane St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219265257,
-    "wof:lastmodified":1449071603,
+    "wof:lastmodified":1466655701,
     "wof:name":"Burlington Water & Sewer Pipe",
     "wof:parent_id":85810235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "city"
     ]
 },
-  "bbox": [-79.443356,36.083513,-79.443356,36.083513],
-  "geometry": {"coordinates":[-79.443356,36.083513],"type":"Point"}
+  "bbox": [
+    -79.443356,
+    36.083513,
+    -79.443356,
+    36.083513
+],
+  "geometry": {"coordinates":[-79.44335599999999,36.083513],"type":"Point"}
 }

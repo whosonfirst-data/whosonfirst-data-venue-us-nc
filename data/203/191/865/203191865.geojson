@@ -2,13 +2,14 @@
   "id": 203191865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.800367,35.945727,-77.800367,35.945727",
     "geom:latitude":35.945727,
     "geom:longitude":-77.800367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 W Thomas St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203191865,
-    "wof:lastmodified":1449026086,
+    "wof:lastmodified":1466655181,
     "wof:name":"Ice Cream Corner & Grill",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.800367,35.945727,-77.800367,35.945727],
-  "geometry": {"coordinates":[-77.800367,35.945727],"type":"Point"}
+  "bbox": [
+    -77.800367,
+    35.945727,
+    -77.800367,
+    35.945727
+],
+  "geometry": {"coordinates":[-77.80036699999999,35.945727],"type":"Point"}
 }

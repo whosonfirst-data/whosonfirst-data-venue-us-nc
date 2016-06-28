@@ -2,13 +2,14 @@
   "id": 303924039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.085513,35.985968,-79.085513,35.985968",
     "geom:latitude":35.985968,
     "geom:longitude":-79.085513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6411 Heartwood Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303924039,
-    "wof:lastmodified":1448998792,
+    "wof:lastmodified":1466656213,
     "wof:name":"Diamond Software Inc",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-79.085513,35.985968,-79.085513,35.985968],
-  "geometry": {"coordinates":[-79.085513,35.985968],"type":"Point"}
+  "bbox": [
+    -79.085513,
+    35.985968,
+    -79.085513,
+    35.985968
+],
+  "geometry": {"coordinates":[-79.08551300000001,35.985968],"type":"Point"}
 }

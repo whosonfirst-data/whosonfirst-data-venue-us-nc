@@ -2,13 +2,14 @@
   "id": 303066577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101334,35.266703,-81.101334,35.266703",
     "geom:latitude":35.266703,
     "geom:longitude":-81.101334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W 1st St",
     "sg:city":"Lowell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303066577,
-    "wof:lastmodified":1448998828,
+    "wof:lastmodified":1466644193,
     "wof:name":"Autobanc",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.101334,35.266703,-81.101334,35.266703],
-  "geometry": {"coordinates":[-81.101334,35.266703],"type":"Point"}
+  "bbox": [
+    -81.101334,
+    35.266703,
+    -81.101334,
+    35.266703
+],
+  "geometry": {"coordinates":[-81.10133399999999,35.266703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303685727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.545865,36.329971,-78.545865,36.329971",
     "geom:latitude":36.329971,
     "geom:longitude":-78.545865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4116 Salem Farms Rd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303685727,
-    "wof:lastmodified":1449000505,
+    "wof:lastmodified":1466653212,
     "wof:name":"Salem Farm Road Association",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-78.545865,36.329971,-78.545865,36.329971],
-  "geometry": {"coordinates":[-78.545865,36.329971],"type":"Point"}
+  "bbox": [
+    -78.545865,
+    36.329971,
+    -78.545865,
+    36.329971
+],
+  "geometry": {"coordinates":[-78.54586500000001,36.329971],"type":"Point"}
 }

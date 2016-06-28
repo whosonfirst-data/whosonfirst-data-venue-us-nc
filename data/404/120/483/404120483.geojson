@@ -2,13 +2,14 @@
   "id": 404120483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.925462,35.096822,-78.925462,35.096822",
     "geom:latitude":35.096822,
     "geom:longitude":-78.925462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 Trevino Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404120483,
-    "wof:lastmodified":1449040149,
+    "wof:lastmodified":1466652801,
     "wof:name":"PRMI",
     "wof:parent_id":85818301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.925462,35.096822,-78.925462,35.096822],
+  "bbox": [
+    -78.925462,
+    35.096822,
+    -78.925462,
+    35.096822
+],
   "geometry": {"coordinates":[-78.925462,35.096822],"type":"Point"}
 }

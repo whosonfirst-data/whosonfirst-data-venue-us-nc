@@ -2,13 +2,14 @@
   "id": 353818875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.89776,35.056393,-78.89776,35.056393",
     "geom:latitude":35.056393,
     "geom:longitude":-78.89776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Hay St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353818875,
-    "wof:lastmodified":1449019511,
+    "wof:lastmodified":1466651979,
     "wof:name":"Hardison & Leone",
     "wof:parent_id":85824371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.89776,35.056393,-78.89776,35.056393],
-  "geometry": {"coordinates":[-78.89776,35.056393],"type":"Point"}
+  "bbox": [
+    -78.89776,
+    35.056393,
+    -78.89776,
+    35.056393
+],
+  "geometry": {"coordinates":[-78.89776000000001,35.056393],"type":"Point"}
 }

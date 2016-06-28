@@ -2,13 +2,14 @@
   "id": 336778493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.85112,35.058378,-80.85112,35.058378",
     "geom:latitude":35.058378,
     "geom:longitude":-80.85112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15720 John J Delaney Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336778493,
-    "wof:lastmodified":1448996936,
+    "wof:lastmodified":1466648558,
     "wof:name":"TSGIT Resources",
     "wof:parent_id":85871247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conservation"
     ]
 },
-  "bbox": [-80.85112,35.058378,-80.85112,35.058378],
-  "geometry": {"coordinates":[-80.85112,35.058378],"type":"Point"}
+  "bbox": [
+    -80.85112,
+    35.058378,
+    -80.85112,
+    35.058378
+],
+  "geometry": {"coordinates":[-80.85111999999999,35.058378],"type":"Point"}
 }

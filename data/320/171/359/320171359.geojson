@@ -2,13 +2,14 @@
   "id": 320171359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.525889,35.883507,-77.525889,35.883507",
     "geom:latitude":35.883507,
     "geom:longitude":-77.525889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 William St",
     "sg:city":"Henrico",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320171359,
-    "wof:lastmodified":1449014983,
+    "wof:lastmodified":1466647697,
     "wof:name":"Haskett Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.525889,35.883507,-77.525889,35.883507],
-  "geometry": {"coordinates":[-77.525889,35.883507],"type":"Point"}
+  "bbox": [
+    -77.525889,
+    35.883507,
+    -77.525889,
+    35.883507
+],
+  "geometry": {"coordinates":[-77.52588900000001,35.883507],"type":"Point"}
 }

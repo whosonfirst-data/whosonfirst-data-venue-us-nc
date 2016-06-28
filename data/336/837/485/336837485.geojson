@@ -2,13 +2,14 @@
   "id": 336837485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.584027,36.177254,-80.584027,36.177254",
     "geom:latitude":36.177254,
     "geom:longitude":-80.584027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3016 Rockett Rd",
     "sg:city":"East Bend",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336837485,
-    "wof:lastmodified":1448997112,
+    "wof:lastmodified":1466649447,
     "wof:name":"Rockett Feed Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.584027,36.177254,-80.584027,36.177254],
-  "geometry": {"coordinates":[-80.584027,36.177254],"type":"Point"}
+  "bbox": [
+    -80.584027,
+    36.177254,
+    -80.584027,
+    36.177254
+],
+  "geometry": {"coordinates":[-80.58402700000001,36.177254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320003113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.717201,36.03795,-76.717201,36.03795",
     "geom:latitude":36.03795,
     "geom:longitude":-76.717201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 US Hwy 17 N",
     "sg:city":"Merry Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320003113,
-    "wof:lastmodified":1449014672,
+    "wof:lastmodified":1466645413,
     "wof:name":"Black Rock Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tape"
     ]
 },
-  "bbox": [-76.717201,36.03795,-76.717201,36.03795],
+  "bbox": [
+    -76.717201,
+    36.03795,
+    -76.717201,
+    36.03795
+],
   "geometry": {"coordinates":[-76.717201,36.03795],"type":"Point"}
 }

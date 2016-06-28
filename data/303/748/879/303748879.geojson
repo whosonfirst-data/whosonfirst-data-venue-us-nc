@@ -2,13 +2,14 @@
   "id": 303748879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.569589,35.949546,-78.569589,35.949546",
     "geom:latitude":35.949546,
     "geom:longitude":-78.569589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12305 Schoolhouse St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303748879,
-    "wof:lastmodified":1448999952,
+    "wof:lastmodified":1466654123,
     "wof:name":"Millennium Consulting Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-78.569589,35.949546,-78.569589,35.949546],
-  "geometry": {"coordinates":[-78.569589,35.949546],"type":"Point"}
+  "bbox": [
+    -78.569589,
+    35.949546,
+    -78.569589,
+    35.949546
+],
+  "geometry": {"coordinates":[-78.56958899999999,35.949546],"type":"Point"}
 }

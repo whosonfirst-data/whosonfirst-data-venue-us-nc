@@ -2,13 +2,14 @@
   "id": 270484475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.600991,36.30588,-78.600991,36.30588",
     "geom:latitude":36.30588,
     "geom:longitude":-78.600991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Hillsboro St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270484475,
-    "wof:lastmodified":1449010972,
+    "wof:lastmodified":1466649231,
     "wof:name":"Oxford Dry Cleaners & Laundry",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-78.600991,36.30588,-78.600991,36.30588],
-  "geometry": {"coordinates":[-78.600991,36.30588],"type":"Point"}
+  "bbox": [
+    -78.600991,
+    36.30588,
+    -78.600991,
+    36.30588
+],
+  "geometry": {"coordinates":[-78.60099099999999,36.30588],"type":"Point"}
 }

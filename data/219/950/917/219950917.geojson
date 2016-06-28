@@ -2,13 +2,14 @@
   "id": 219950917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.559599,35.366398,-78.559599,35.366398",
     "geom:latitude":35.366398,
     "geom:longitude":-78.559599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Chicopee Rd",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219950917,
-    "wof:lastmodified":1449071763,
+    "wof:lastmodified":1466648407,
     "wof:name":"Amware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "skid"
     ]
 },
-  "bbox": [-78.559599,35.366398,-78.559599,35.366398],
-  "geometry": {"coordinates":[-78.559599,35.366398],"type":"Point"}
+  "bbox": [
+    -78.559599,
+    35.366398,
+    -78.559599,
+    35.366398
+],
+  "geometry": {"coordinates":[-78.55959900000001,35.366398],"type":"Point"}
 }

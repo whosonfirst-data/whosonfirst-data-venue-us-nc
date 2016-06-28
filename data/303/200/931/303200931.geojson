@@ -2,13 +2,14 @@
   "id": 303200931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.619653,36.430929,-77.619653,36.430929",
     "geom:latitude":36.430929,
     "geom:longitude":-77.619653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Julian R Allsbrook Hwy",
     "sg:city":"Weldon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303200931,
-    "wof:lastmodified":1448999099,
+    "wof:lastmodified":1466646227,
     "wof:name":"Lucas Precision Machine Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-77.619653,36.430929,-77.619653,36.430929],
+  "bbox": [
+    -77.619653,
+    36.430929,
+    -77.619653,
+    36.430929
+],
   "geometry": {"coordinates":[-77.619653,36.430929],"type":"Point"}
 }

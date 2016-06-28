@@ -2,13 +2,14 @@
   "id": 386977711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.412783,35.645903,-80.412783,35.645903",
     "geom:latitude":35.645903,
     "geom:longitude":-80.412783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5111 Agner Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386977711,
-    "wof:lastmodified":1449028980,
+    "wof:lastmodified":1466650028,
     "wof:name":"Sherri File",
     "wof:parent_id":85836893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.412783,35.645903,-80.412783,35.645903],
+  "bbox": [
+    -80.412783,
+    35.645903,
+    -80.412783,
+    35.645903
+],
   "geometry": {"coordinates":[-80.412783,35.645903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219938215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.960011,35.918192,-79.960011,35.918192",
     "geom:latitude":35.918192,
     "geom:longitude":-79.960011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Liberty Rd",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219938215,
-    "wof:lastmodified":1449073036,
+    "wof:lastmodified":1466648307,
     "wof:name":"Fishing Rods Bait& Tackle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fishing"
     ]
 },
-  "bbox": [-79.960011,35.918192,-79.960011,35.918192],
-  "geometry": {"coordinates":[-79.960011,35.918192],"type":"Point"}
+  "bbox": [
+    -79.960011,
+    35.918192,
+    -79.960011,
+    35.918192
+],
+  "geometry": {"coordinates":[-79.96001099999999,35.918192],"type":"Point"}
 }

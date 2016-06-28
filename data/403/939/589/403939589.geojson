@@ -2,13 +2,14 @@
   "id": 403939589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.719901,36.499118,-79.719901,36.499118",
     "geom:latitude":36.499118,
     "geom:longitude":-79.719901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Camellia Ln",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403939589,
-    "wof:lastmodified":1449055040,
+    "wof:lastmodified":1466653415,
     "wof:name":"Piedmont Surface Tooling",
     "wof:parent_id":85805077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tool"
     ]
 },
-  "bbox": [-79.719901,36.499118,-79.719901,36.499118],
-  "geometry": {"coordinates":[-79.719901,36.499118],"type":"Point"}
+  "bbox": [
+    -79.719901,
+    36.499118,
+    -79.719901,
+    36.499118
+],
+  "geometry": {"coordinates":[-79.71990099999999,36.499118],"type":"Point"}
 }

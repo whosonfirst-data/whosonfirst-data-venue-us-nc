@@ -2,13 +2,14 @@
   "id": 320172041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.663412,35.819445,-78.663412,35.819445",
     "geom:latitude":35.819445,
     "geom:longitude":-78.663412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Glenwood Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320172041,
-    "wof:lastmodified":1449012771,
+    "wof:lastmodified":1466647704,
     "wof:name":"Interactive Brooks Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-78.663412,35.819445,-78.663412,35.819445],
-  "geometry": {"coordinates":[-78.663412,35.819445],"type":"Point"}
+  "bbox": [
+    -78.663412,
+    35.819445,
+    -78.663412,
+    35.819445
+],
+  "geometry": {"coordinates":[-78.66341199999999,35.819445],"type":"Point"}
 }

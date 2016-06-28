@@ -2,13 +2,14 @@
   "id": 203393243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.97609,35.391965,-77.97609,35.391965",
     "geom:latitude":35.391965,
     "geom:longitude":-77.97609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Wayne Memorial Dr",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203393243,
-    "wof:lastmodified":1449025512,
+    "wof:lastmodified":1466643932,
     "wof:name":"True Realty",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-77.97609,35.391965,-77.97609,35.391965],
+  "bbox": [
+    -77.97609,
+    35.391965,
+    -77.97609,
+    35.391965
+],
   "geometry": {"coordinates":[-77.97609,35.391965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353962797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.934421,35.712571,-77.934421,35.712571",
     "geom:latitude":35.712571,
     "geom:longitude":-77.934421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Downing St SW",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353962797,
-    "wof:lastmodified":1449019771,
+    "wof:lastmodified":1466653671,
     "wof:name":"Wilson Daily Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-77.934421,35.712571,-77.934421,35.712571],
+  "bbox": [
+    -77.934421,
+    35.712571,
+    -77.934421,
+    35.712571
+],
   "geometry": {"coordinates":[-77.934421,35.712571],"type":"Point"}
 }

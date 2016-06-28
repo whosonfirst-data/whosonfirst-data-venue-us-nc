@@ -2,13 +2,14 @@
   "id": 387329811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.382341,36.318706,-78.382341,36.318706",
     "geom:latitude":36.318706,
     "geom:longitude":-78.382341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 E Andrews Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387329811,
-    "wof:lastmodified":1449057156,
+    "wof:lastmodified":1466654204,
     "wof:name":"Quality First Construction",
     "wof:parent_id":85857977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.382341,36.318706,-78.382341,36.318706],
+  "bbox": [
+    -78.382341,
+    36.318706,
+    -78.382341,
+    36.318706
+],
   "geometry": {"coordinates":[-78.382341,36.318706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286708107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.284231,35.651161,-78.284231,35.651161",
     "geom:latitude":35.651161,
     "geom:longitude":-78.284231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8268 State Hwy 96 N",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286708107,
-    "wof:lastmodified":1449015628,
+    "wof:lastmodified":1466649195,
     "wof:name":"Lewis Brennan & Assoc",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.284231,35.651161,-78.284231,35.651161],
-  "geometry": {"coordinates":[-78.284231,35.651161],"type":"Point"}
+  "bbox": [
+    -78.284231,
+    35.651161,
+    -78.284231,
+    35.651161
+],
+  "geometry": {"coordinates":[-78.28423100000001,35.651161],"type":"Point"}
 }

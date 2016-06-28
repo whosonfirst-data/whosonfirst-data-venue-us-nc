@@ -2,13 +2,14 @@
   "id": 303773189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.607453,35.950189,-78.607453,35.950189",
     "geom:latitude":35.950189,
     "geom:longitude":-78.607453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14413 Possum Track Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303773189,
-    "wof:lastmodified":1448998430,
+    "wof:lastmodified":1466654478,
     "wof:name":"Jhc Rentals LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-78.607453,35.950189,-78.607453,35.950189],
-  "geometry": {"coordinates":[-78.607453,35.950189],"type":"Point"}
+  "bbox": [
+    -78.607453,
+    35.950189,
+    -78.607453,
+    35.950189
+],
+  "geometry": {"coordinates":[-78.60745300000001,35.950189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253111151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.62793,35.805578,-78.62793,35.805578",
     "geom:latitude":35.805578,
     "geom:longitude":-78.62793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Pershing Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253111151,
-    "wof:lastmodified":1449065892,
+    "wof:lastmodified":1466644159,
     "wof:name":"Accessibility Lifts Inc",
     "wof:parent_id":85821323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-78.62793,35.805578,-78.62793,35.805578],
-  "geometry": {"coordinates":[-78.62793,35.805578],"type":"Point"}
+  "bbox": [
+    -78.62793,
+    35.805578,
+    -78.62793,
+    35.805578
+],
+  "geometry": {"coordinates":[-78.62793000000001,35.805578],"type":"Point"}
 }

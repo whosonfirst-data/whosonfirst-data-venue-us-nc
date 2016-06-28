@@ -2,13 +2,14 @@
   "id": 202477273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.335455,35.823352,-78.335455,35.823352",
     "geom:latitude":35.823352,
     "geom:longitude":-78.335455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Hempstede Dr",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202477273,
-    "wof:lastmodified":1449060537,
+    "wof:lastmodified":1466654803,
     "wof:name":"Hempstede Townhomes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.335455,35.823352,-78.335455,35.823352],
+  "bbox": [
+    -78.335455,
+    35.823352,
+    -78.335455,
+    35.823352
+],
   "geometry": {"coordinates":[-78.335455,35.823352],"type":"Point"}
 }

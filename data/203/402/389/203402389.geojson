@@ -2,13 +2,14 @@
   "id": 203402389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.349028,35.49869,-78.349028,35.49869",
     "geom:latitude":35.49869,
     "geom:longitude":-78.349028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Glenn St",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203402389,
-    "wof:lastmodified":1449025522,
+    "wof:lastmodified":1466644022,
     "wof:name":"Smithfield Rescue Mission",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-78.349028,35.49869,-78.349028,35.49869],
+  "bbox": [
+    -78.349028,
+    35.49869,
+    -78.349028,
+    35.49869
+],
   "geometry": {"coordinates":[-78.349028,35.49869],"type":"Point"}
 }

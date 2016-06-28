@@ -2,13 +2,14 @@
   "id": 370526845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.904902,34.878502,-76.904902,34.878502",
     "geom:latitude":34.878502,
     "geom:longitude":-76.904902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Main St",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370526845,
-    "wof:lastmodified":1449030135,
+    "wof:lastmodified":1466652906,
     "wof:name":"First Run Video Inc",
     "wof:parent_id":85832211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "cassette"
     ]
 },
-  "bbox": [-76.904902,34.878502,-76.904902,34.878502],
-  "geometry": {"coordinates":[-76.904902,34.878502],"type":"Point"}
+  "bbox": [
+    -76.904902,
+    34.878502,
+    -76.904902,
+    34.878502
+],
+  "geometry": {"coordinates":[-76.90490200000001,34.878502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303078731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.818165,34.220049,-77.818165,34.220049",
     "geom:latitude":34.220049,
     "geom:longitude":-77.818165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7110 Wrightsville Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303078731,
-    "wof:lastmodified":1449000181,
+    "wof:lastmodified":1466644376,
     "wof:name":"Avent Appraisals Inc",
     "wof:parent_id":85830827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-77.818165,34.220049,-77.818165,34.220049],
-  "geometry": {"coordinates":[-77.818165,34.220049],"type":"Point"}
+  "bbox": [
+    -77.818165,
+    34.220049,
+    -77.818165,
+    34.220049
+],
+  "geometry": {"coordinates":[-77.81816499999999,34.220049],"type":"Point"}
 }

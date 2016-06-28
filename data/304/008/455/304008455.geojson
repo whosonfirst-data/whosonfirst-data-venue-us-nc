@@ -2,13 +2,14 @@
   "id": 304008455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.169825,36.257694,-81.169825,36.257694",
     "geom:latitude":36.257694,
     "geom:longitude":-81.169825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2184 Mulberry Rd",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304008455,
-    "wof:lastmodified":1449043746,
+    "wof:lastmodified":1466644290,
     "wof:name":"Toad's Garage 24 Hour Wrecker",
     "wof:parent_id":85828719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-81.169825,36.257694,-81.169825,36.257694],
+  "bbox": [
+    -81.169825,
+    36.257694,
+    -81.169825,
+    36.257694
+],
   "geometry": {"coordinates":[-81.169825,36.257694],"type":"Point"}
 }

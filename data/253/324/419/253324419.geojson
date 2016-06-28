@@ -2,13 +2,14 @@
   "id": 253324419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.563448,35.370793,-80.563448,35.370793",
     "geom:latitude":35.370793,
     "geom:longitude":-80.563448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 State Hwy 49 S",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253324419,
-    "wof:lastmodified":1449064542,
+    "wof:lastmodified":1466646290,
     "wof:name":"CRD Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-80.563448,35.370793,-80.563448,35.370793],
-  "geometry": {"coordinates":[-80.563448,35.370793],"type":"Point"}
+  "bbox": [
+    -80.563448,
+    35.370793,
+    -80.563448,
+    35.370793
+],
+  "geometry": {"coordinates":[-80.56344799999999,35.370793],"type":"Point"}
 }

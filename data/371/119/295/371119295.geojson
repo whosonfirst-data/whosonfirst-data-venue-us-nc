@@ -2,13 +2,14 @@
   "id": 371119295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.800846,35.251506,-80.800846,35.251506",
     "geom:latitude":35.251506,
     "geom:longitude":-80.800846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3731 Philemon Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371119295,
-    "wof:lastmodified":1449049799,
+    "wof:lastmodified":1466650311,
     "wof:name":"Piedmont Machine & Mfg",
     "wof:parent_id":85871245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.800846,35.251506,-80.800846,35.251506],
-  "geometry": {"coordinates":[-80.800846,35.251506],"type":"Point"}
+  "bbox": [
+    -80.800846,
+    35.251506,
+    -80.800846,
+    35.251506
+],
+  "geometry": {"coordinates":[-80.80084600000001,35.251506],"type":"Point"}
 }

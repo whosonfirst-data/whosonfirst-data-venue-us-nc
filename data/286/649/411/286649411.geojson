@@ -2,13 +2,14 @@
   "id": 286649411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.019123,35.247951,-81.019123,35.247951",
     "geom:latitude":35.247951,
     "geom:longitude":-81.019123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 Wilkinson Blvd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286649411,
-    "wof:lastmodified":1449017187,
+    "wof:lastmodified":1466648425,
     "wof:name":"Photo Funding",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-81.019123,35.247951,-81.019123,35.247951],
-  "geometry": {"coordinates":[-81.019123,35.247951],"type":"Point"}
+  "bbox": [
+    -81.019123,
+    35.247951,
+    -81.019123,
+    35.247951
+],
+  "geometry": {"coordinates":[-81.01912299999999,35.247951],"type":"Point"}
 }

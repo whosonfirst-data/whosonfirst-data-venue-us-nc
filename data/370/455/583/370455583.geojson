@@ -2,13 +2,14 @@
   "id": 370455583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.418526,36.099846,-79.418526,36.099846",
     "geom:latitude":36.099846,
     "geom:longitude":-79.418526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Vaughn Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370455583,
-    "wof:lastmodified":1449031927,
+    "wof:lastmodified":1466651986,
     "wof:name":"Time Properties",
     "wof:parent_id":85838431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-79.418526,36.099846,-79.418526,36.099846],
+  "bbox": [
+    -79.418526,
+    36.099846,
+    -79.418526,
+    36.099846
+],
   "geometry": {"coordinates":[-79.418526,36.099846],"type":"Point"}
 }

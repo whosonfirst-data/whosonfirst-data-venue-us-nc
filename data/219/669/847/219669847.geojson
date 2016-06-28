@@ -2,13 +2,14 @@
   "id": 219669847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.917094,36.05797,-78.917094,36.05797",
     "geom:latitude":36.05797,
     "geom:longitude":-78.917094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Stillhouse Pl",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219669847,
-    "wof:lastmodified":1449070791,
+    "wof:lastmodified":1466646115,
     "wof:name":"Digital Imagery",
     "wof:parent_id":85877167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-78.917094,36.05797,-78.917094,36.05797],
-  "geometry": {"coordinates":[-78.917094,36.05797],"type":"Point"}
+  "bbox": [
+    -78.917094,
+    36.05797,
+    -78.917094,
+    36.05797
+],
+  "geometry": {"coordinates":[-78.91709400000001,36.05797],"type":"Point"}
 }

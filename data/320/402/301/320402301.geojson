@@ -2,13 +2,14 @@
   "id": 320402301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.177129,35.406187,-78.177129,35.406187",
     "geom:latitude":35.406187,
     "geom:longitude":-78.177129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1256 Worley Rd",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320402301,
-    "wof:lastmodified":1449012464,
+    "wof:lastmodified":1466650954,
     "wof:name":"Sorensens Flag Car Service",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "pilot"
     ]
 },
-  "bbox": [-78.177129,35.406187,-78.177129,35.406187],
-  "geometry": {"coordinates":[-78.177129,35.406187],"type":"Point"}
+  "bbox": [
+    -78.177129,
+    35.406187,
+    -78.177129,
+    35.406187
+],
+  "geometry": {"coordinates":[-78.17712899999999,35.406187],"type":"Point"}
 }

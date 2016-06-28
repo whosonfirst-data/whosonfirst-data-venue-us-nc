@@ -2,13 +2,14 @@
   "id": 353976437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.918949,34.240269,-77.918949,34.240269",
     "geom:latitude":34.240269,
     "geom:longitude":-77.918949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N 23rd St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353976437,
-    "wof:lastmodified":1449019303,
+    "wof:lastmodified":1466653832,
     "wof:name":"Walter B Cavedo Surveyor",
     "wof:parent_id":85843149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-77.918949,34.240269,-77.918949,34.240269],
+  "bbox": [
+    -77.918949,
+    34.240269,
+    -77.918949,
+    34.240269
+],
   "geometry": {"coordinates":[-77.918949,34.240269],"type":"Point"}
 }

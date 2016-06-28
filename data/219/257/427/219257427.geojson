@@ -2,13 +2,14 @@
   "id": 219257427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.864241,35.052621,-78.864241,35.052621",
     "geom:latitude":35.052621,
     "geom:longitude":-78.864241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 N Eastern Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219257427,
-    "wof:lastmodified":1449071442,
+    "wof:lastmodified":1466655645,
     "wof:name":"Citi Trends",
     "wof:parent_id":85825067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.864241,35.052621,-78.864241,35.052621],
-  "geometry": {"coordinates":[-78.864241,35.052621],"type":"Point"}
+  "bbox": [
+    -78.864241,
+    35.052621,
+    -78.864241,
+    35.052621
+],
+  "geometry": {"coordinates":[-78.86424100000001,35.052621],"type":"Point"}
 }

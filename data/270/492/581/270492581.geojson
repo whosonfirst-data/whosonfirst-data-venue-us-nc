@@ -2,13 +2,14 @@
   "id": 270492581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.59957,35.391881,-76.59957,35.391881",
     "geom:latitude":35.391881,
     "geom:longitude":-76.59957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Old Pamlico Beach Rd E",
     "sg:city":"Belhaven",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270492581,
-    "wof:lastmodified":1449008661,
+    "wof:lastmodified":1466649348,
     "wof:name":"Pamlico Heating & Cooling",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.59957,35.391881,-76.59957,35.391881],
+  "bbox": [
+    -76.59957,
+    35.391881,
+    -76.59957,
+    35.391881
+],
   "geometry": {"coordinates":[-76.59957,35.391881],"type":"Point"}
 }

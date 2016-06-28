@@ -2,13 +2,14 @@
   "id": 370380053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.687453,35.270196,-82.687453,35.270196",
     "geom:latitude":35.270196,
     "geom:longitude":-82.687453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 US Hwy 64",
     "sg:city":"Pisgah Forest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370380053,
-    "wof:lastmodified":1449030658,
+    "wof:lastmodified":1466651008,
     "wof:name":"Brevard Church Of Christ",
     "wof:parent_id":85805783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.687453,35.270196,-82.687453,35.270196],
+  "bbox": [
+    -82.687453,
+    35.270196,
+    -82.687453,
+    35.270196
+],
   "geometry": {"coordinates":[-82.687453,35.270196],"type":"Point"}
 }

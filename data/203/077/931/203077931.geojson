@@ -2,13 +2,14 @@
   "id": 203077931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.174613,35.315267,-81.174613,35.315267",
     "geom:latitude":35.315267,
     "geom:longitude":-81.174613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S College St",
     "sg:city":"Boiling Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203077931,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466654700,
     "wof:name":"Artisan Tile & Granite",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.174613,35.315267,-81.174613,35.315267],
-  "geometry": {"coordinates":[-81.174613,35.315267],"type":"Point"}
+  "bbox": [
+    -81.174613,
+    35.315267,
+    -81.174613,
+    35.315267
+],
+  "geometry": {"coordinates":[-81.17461299999999,35.315267],"type":"Point"}
 }

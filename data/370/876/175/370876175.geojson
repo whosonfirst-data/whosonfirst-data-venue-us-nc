@@ -2,13 +2,14 @@
   "id": 370876175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.760663,34.939056,-79.760663,34.939056",
     "geom:latitude":34.939056,
     "geom:longitude":-79.760663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Leak St",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370876175,
-    "wof:lastmodified":1449029777,
+    "wof:lastmodified":1466656748,
     "wof:name":"Leak Street School",
     "wof:parent_id":85822025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "secondary"
     ]
 },
-  "bbox": [-79.760663,34.939056,-79.760663,34.939056],
-  "geometry": {"coordinates":[-79.760663,34.939056],"type":"Point"}
+  "bbox": [
+    -79.760663,
+    34.939056,
+    -79.760663,
+    34.939056
+],
+  "geometry": {"coordinates":[-79.76066299999999,34.939056],"type":"Point"}
 }

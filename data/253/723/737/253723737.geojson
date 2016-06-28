@@ -2,13 +2,14 @@
   "id": 253723737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.329423,35.406076,-81.329423,35.406076",
     "geom:latitude":35.406076,
     "geom:longitude":-81.329423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2863 State Hwy 150",
     "sg:city":"Crouse",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253723737,
-    "wof:lastmodified":1449064544,
+    "wof:lastmodified":1466651053,
     "wof:name":"Crouse Mini Mart",
     "wof:parent_id":85809581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.329423,35.406076,-81.329423,35.406076],
-  "geometry": {"coordinates":[-81.329423,35.406076],"type":"Point"}
+  "bbox": [
+    -81.329423,
+    35.406076,
+    -81.329423,
+    35.406076
+],
+  "geometry": {"coordinates":[-81.32942300000001,35.406076],"type":"Point"}
 }

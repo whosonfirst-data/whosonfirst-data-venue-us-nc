@@ -2,13 +2,14 @@
   "id": 236017013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.963079,34.962064,-77.963079,34.962064",
     "geom:latitude":34.962064,
     "geom:longitude":-77.963079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Main St",
     "sg:city":"Kenansville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236017013,
-    "wof:lastmodified":1449003403,
+    "wof:lastmodified":1466643373,
     "wof:name":"NC State Probation Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.963079,34.962064,-77.963079,34.962064],
-  "geometry": {"coordinates":[-77.963079,34.962064],"type":"Point"}
+  "bbox": [
+    -77.963079,
+    34.962064,
+    -77.963079,
+    34.962064
+],
+  "geometry": {"coordinates":[-77.96307899999999,34.962064],"type":"Point"}
 }

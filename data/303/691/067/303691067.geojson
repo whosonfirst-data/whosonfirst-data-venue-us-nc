@@ -2,13 +2,14 @@
   "id": 303691067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.22038,36.080247,-80.22038,36.080247",
     "geom:latitude":36.080247,
     "geom:longitude":-80.22038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 S Martin Luther King Jr Dr SE",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303691067,
-    "wof:lastmodified":1448998319,
+    "wof:lastmodified":1466653287,
     "wof:name":"Jones Bakeries Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bakery"
     ]
 },
-  "bbox": [-80.22038,36.080247,-80.22038,36.080247],
-  "geometry": {"coordinates":[-80.22038,36.080247],"type":"Point"}
+  "bbox": [
+    -80.22038,
+    36.080247,
+    -80.22038,
+    36.080247
+],
+  "geometry": {"coordinates":[-80.22038000000001,36.080247],"type":"Point"}
 }

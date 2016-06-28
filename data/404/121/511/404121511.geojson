@@ -2,13 +2,14 @@
   "id": 404121511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.526485,34.72352,-76.526485,34.72352",
     "geom:latitude":34.72352,
     "geom:longitude":-76.526485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Piper Ln",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404121511,
-    "wof:lastmodified":1449040026,
+    "wof:lastmodified":1466652816,
     "wof:name":"Bessel Deliveries & Marine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-76.526485,34.72352,-76.526485,34.72352],
-  "geometry": {"coordinates":[-76.526485,34.72352],"type":"Point"}
+  "bbox": [
+    -76.526485,
+    34.72352,
+    -76.526485,
+    34.72352
+],
+  "geometry": {"coordinates":[-76.52648499999999,34.72352],"type":"Point"}
 }

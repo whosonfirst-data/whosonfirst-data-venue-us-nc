@@ -2,13 +2,14 @@
   "id": 387505607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.363281,35.680584,-80.363281,35.680584",
     "geom:latitude":35.680584,
     "geom:longitude":-80.363281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Eller Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387505607,
-    "wof:lastmodified":1449059300,
+    "wof:lastmodified":1466656049,
     "wof:name":"Albert Millers Garage",
     "wof:parent_id":85836893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-80.363281,35.680584,-80.363281,35.680584],
+  "bbox": [
+    -80.363281,
+    35.680584,
+    -80.363281,
+    35.680584
+],
   "geometry": {"coordinates":[-80.363281,35.680584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219430109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.060355,35.545687,-77.060355,35.545687",
     "geom:latitude":35.545687,
     "geom:longitude":-77.060355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Bridge St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219430109,
-    "wof:lastmodified":1449072630,
+    "wof:lastmodified":1466644355,
     "wof:name":"Dairy Palace",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carry"
     ]
 },
-  "bbox": [-77.060355,35.545687,-77.060355,35.545687],
+  "bbox": [
+    -77.060355,
+    35.545687,
+    -77.060355,
+    35.545687
+],
   "geometry": {"coordinates":[-77.060355,35.545687],"type":"Point"}
 }

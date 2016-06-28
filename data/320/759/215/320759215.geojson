@@ -2,13 +2,14 @@
   "id": 320759215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.034034,35.410857,-78.034034,35.410857",
     "geom:latitude":35.410857,
     "geom:longitude":-78.034034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2280 US Hwy 70 W",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320759215,
-    "wof:lastmodified":1449015021,
+    "wof:lastmodified":1466656112,
     "wof:name":"Dr Chris Pate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "family"
     ]
 },
-  "bbox": [-78.034034,35.410857,-78.034034,35.410857],
-  "geometry": {"coordinates":[-78.034034,35.410857],"type":"Point"}
+  "bbox": [
+    -78.034034,
+    35.410857,
+    -78.034034,
+    35.410857
+],
+  "geometry": {"coordinates":[-78.03403400000001,35.410857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303459719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.911984,36.017802,-78.911984,36.017802",
     "geom:latitude":36.017802,
     "geom:longitude":-78.911984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 N Buchanan Blvd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303459719,
-    "wof:lastmodified":1448999114,
+    "wof:lastmodified":1466649945,
     "wof:name":"Urgent Office",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-78.911984,36.017802,-78.911984,36.017802],
+  "bbox": [
+    -78.911984,
+    36.017802,
+    -78.911984,
+    36.017802
+],
   "geometry": {"coordinates":[-78.911984,36.017802],"type":"Point"}
 }

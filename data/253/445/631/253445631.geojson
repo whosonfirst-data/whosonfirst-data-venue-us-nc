@@ -2,13 +2,14 @@
   "id": 253445631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.779859,35.210064,-80.779859,35.210064",
     "geom:latitude":35.210064,
     "geom:longitude":-80.779859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Biscayne Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253445631,
-    "wof:lastmodified":1449063212,
+    "wof:lastmodified":1466647697,
     "wof:name":"Biscayne Apartments",
     "wof:parent_id":85813527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.779859,35.210064,-80.779859,35.210064],
+  "bbox": [
+    -80.779859,
+    35.210064,
+    -80.779859,
+    35.210064
+],
   "geometry": {"coordinates":[-80.779859,35.210064],"type":"Point"}
 }

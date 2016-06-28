@@ -2,13 +2,14 @@
   "id": 269503039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.357003,35.605599,-77.357003,35.605599",
     "geom:latitude":35.605599,
     "geom:longitude":-77.357003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 E 6th St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269503039,
-    "wof:lastmodified":1449038975,
+    "wof:lastmodified":1466643445,
     "wof:name":"Monkey Business",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.357003,35.605599,-77.357003,35.605599],
-  "geometry": {"coordinates":[-77.357003,35.605599],"type":"Point"}
+  "bbox": [
+    -77.357003,
+    35.605599,
+    -77.357003,
+    35.605599
+],
+  "geometry": {"coordinates":[-77.35700300000001,35.605599],"type":"Point"}
 }

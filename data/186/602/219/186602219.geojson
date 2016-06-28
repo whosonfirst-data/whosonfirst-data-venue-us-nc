@@ -2,13 +2,14 @@
   "id": 186602219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.618952,35.325325,-78.618952,35.325325",
     "geom:latitude":35.325325,
     "geom:longitude":-78.618952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Brookwood Ave",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186602219,
-    "wof:lastmodified":1449051647,
+    "wof:lastmodified":1466654883,
     "wof:name":"Morcom Support",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-78.618952,35.325325,-78.618952,35.325325],
-  "geometry": {"coordinates":[-78.618952,35.325325],"type":"Point"}
+  "bbox": [
+    -78.618952,
+    35.325325,
+    -78.618952,
+    35.325325
+],
+  "geometry": {"coordinates":[-78.61895199999999,35.325325],"type":"Point"}
 }

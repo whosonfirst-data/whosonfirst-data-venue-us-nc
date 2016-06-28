@@ -2,13 +2,14 @@
   "id": 354039285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.0405,35.548284,-77.0405,35.548284",
     "geom:latitude":35.548284,
     "geom:longitude":-77.0405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 E 11th St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354039285,
-    "wof:lastmodified":1449067449,
+    "wof:lastmodified":1466648013,
     "wof:name":"Eastern Radiologists",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.0405,35.548284,-77.0405,35.548284],
-  "geometry": {"coordinates":[-77.0405,35.548284],"type":"Point"}
+  "bbox": [
+    -77.0405,
+    35.548284,
+    -77.0405,
+    35.548284
+],
+  "geometry": {"coordinates":[-77.04049999999999,35.548284],"type":"Point"}
 }

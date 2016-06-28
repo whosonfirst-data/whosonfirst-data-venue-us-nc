@@ -2,13 +2,14 @@
   "id": 253722947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.700556,36.481765,-80.700556,36.481765",
     "geom:latitude":36.481765,
     "geom:longitude":-80.700556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Skyland Dr",
     "sg:city":"Mount Airy",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253722947,
-    "wof:lastmodified":1449063867,
+    "wof:lastmodified":1466651038,
     "wof:name":"Dannys Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.700556,36.481765,-80.700556,36.481765],
-  "geometry": {"coordinates":[-80.700556,36.481765],"type":"Point"}
+  "bbox": [
+    -80.700556,
+    36.481765,
+    -80.700556,
+    36.481765
+],
+  "geometry": {"coordinates":[-80.70055600000001,36.481765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387599035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.019015,35.247823,-81.019015,35.247823",
     "geom:latitude":35.247823,
     "geom:longitude":-81.019015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7202 Wilkinson Blvd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387599035,
-    "wof:lastmodified":1449057873,
+    "wof:lastmodified":1466656674,
     "wof:name":"Jill Medical",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.019015,35.247823,-81.019015,35.247823],
+  "bbox": [
+    -81.019015,
+    35.247823,
+    -81.019015,
+    35.247823
+],
   "geometry": {"coordinates":[-81.019015,35.247823],"type":"Point"}
 }

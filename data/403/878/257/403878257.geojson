@@ -2,13 +2,14 @@
   "id": 403878257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.794761,34.209418,-77.794761,34.209418",
     "geom:latitude":34.209418,
     "geom:longitude":-77.794761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 N Lumina Ave",
     "sg:city":"Wrightsville Bch",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403878257,
-    "wof:lastmodified":1449055338,
+    "wof:lastmodified":1466652634,
     "wof:name":"22 North",
     "wof:parent_id":85859171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.794761,34.209418,-77.794761,34.209418],
-  "geometry": {"coordinates":[-77.794761,34.209418],"type":"Point"}
+  "bbox": [
+    -77.794761,
+    34.209418,
+    -77.794761,
+    34.209418
+],
+  "geometry": {"coordinates":[-77.79476099999999,34.209418],"type":"Point"}
 }

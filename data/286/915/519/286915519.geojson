@@ -2,13 +2,14 @@
   "id": 286915519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.941903,36.108708,-79.941903,36.108708",
     "geom:latitude":36.108708,
     "geom:longitude":-79.941903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6429 Airport Pkwy",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286915519,
-    "wof:lastmodified":1449018052,
+    "wof:lastmodified":1466652036,
     "wof:name":"Mechanical Contractors",
     "wof:parent_id":85843403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-79.941903,36.108708,-79.941903,36.108708],
+  "bbox": [
+    -79.941903,
+    36.108708,
+    -79.941903,
+    36.108708
+],
   "geometry": {"coordinates":[-79.941903,36.108708],"type":"Point"}
 }

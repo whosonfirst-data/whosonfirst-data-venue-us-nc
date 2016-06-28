@@ -2,13 +2,14 @@
   "id": 202557883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.300386,36.090592,-78.300386,36.090592",
     "geom:latitude":36.090592,
     "geom:longitude":-78.300386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 S Bickett Blvd",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202557883,
-    "wof:lastmodified":1449061908,
+    "wof:lastmodified":1466655336,
     "wof:name":"Sears",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.300386,36.090592,-78.300386,36.090592],
+  "bbox": [
+    -78.300386,
+    36.090592,
+    -78.300386,
+    36.090592
+],
   "geometry": {"coordinates":[-78.300386,36.090592],"type":"Point"}
 }

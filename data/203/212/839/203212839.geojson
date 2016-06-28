@@ -2,13 +2,14 @@
   "id": 203212839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.366216,35.635166,-77.366216,35.635166",
     "geom:latitude":35.635166,
     "geom:longitude":-77.366216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Pactolus Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203212839,
-    "wof:lastmodified":1449026206,
+    "wof:lastmodified":1466655270,
     "wof:name":"Piper Farms",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "market"
     ]
 },
-  "bbox": [-77.366216,35.635166,-77.366216,35.635166],
-  "geometry": {"coordinates":[-77.366216,35.635166],"type":"Point"}
+  "bbox": [
+    -77.366216,
+    35.635166,
+    -77.366216,
+    35.635166
+],
+  "geometry": {"coordinates":[-77.36621599999999,35.635166],"type":"Point"}
 }

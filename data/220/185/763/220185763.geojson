@@ -2,13 +2,14 @@
   "id": 220185763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.003641,34.619947,-79.003641,34.619947",
     "geom:latitude":34.619947,
     "geom:longitude":-79.003641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E 5th St",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220185763,
-    "wof:lastmodified":1449074176,
+    "wof:lastmodified":1466644681,
     "wof:name":"Cribbs Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "drilling"
     ]
 },
-  "bbox": [-79.003641,34.619947,-79.003641,34.619947],
+  "bbox": [
+    -79.003641,
+    34.619947,
+    -79.003641,
+    34.619947
+],
   "geometry": {"coordinates":[-79.003641,34.619947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336704511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.199379,34.794236,-78.199379,34.794236",
     "geom:latitude":34.794236,
     "geom:longitude":-78.199379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"995 Bobby Hope Rd",
     "sg:city":"Rose Hill",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336704511,
-    "wof:lastmodified":1448997229,
+    "wof:lastmodified":1466647418,
     "wof:name":"USA Mobility Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radio"
     ]
 },
-  "bbox": [-78.199379,34.794236,-78.199379,34.794236],
-  "geometry": {"coordinates":[-78.199379,34.794236],"type":"Point"}
+  "bbox": [
+    -78.199379,
+    34.794236,
+    -78.199379,
+    34.794236
+],
+  "geometry": {"coordinates":[-78.19937899999999,34.794236],"type":"Point"}
 }

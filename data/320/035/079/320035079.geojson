@@ -2,13 +2,14 @@
   "id": 320035079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.476289,36.101092,-79.476289,36.101092",
     "geom:latitude":36.101092,
     "geom:longitude":-79.476289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2171 Hawthorne Ln",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320035079,
-    "wof:lastmodified":1449014251,
+    "wof:lastmodified":1466645830,
     "wof:name":"D&R Properties Alamance LLC",
     "wof:parent_id":85845553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.476289,36.101092,-79.476289,36.101092],
-  "geometry": {"coordinates":[-79.476289,36.101092],"type":"Point"}
+  "bbox": [
+    -79.476289,
+    36.101092,
+    -79.476289,
+    36.101092
+],
+  "geometry": {"coordinates":[-79.47628899999999,36.101092],"type":"Point"}
 }

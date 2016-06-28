@@ -2,13 +2,14 @@
   "id": 203278033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.866976,35.972353,-78.866976,35.972353",
     "geom:latitude":35.972353,
     "geom:longitude":-78.866976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Ellis Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203278033,
-    "wof:lastmodified":1449025992,
+    "wof:lastmodified":1466655743,
     "wof:name":"Sewerkote",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.866976,35.972353,-78.866976,35.972353],
-  "geometry": {"coordinates":[-78.866976,35.972353],"type":"Point"}
+  "bbox": [
+    -78.866976,
+    35.972353,
+    -78.866976,
+    35.972353
+],
+  "geometry": {"coordinates":[-78.86697599999999,35.972353],"type":"Point"}
 }

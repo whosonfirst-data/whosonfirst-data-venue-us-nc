@@ -2,13 +2,14 @@
   "id": 320348693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.491342,35.861285,-78.491342,35.861285",
     "geom:latitude":35.861285,
     "geom:longitude":-78.491342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Candlehurst Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320348693,
-    "wof:lastmodified":1449011422,
+    "wof:lastmodified":1466650188,
     "wof:name":"Savoy's Processing Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "real estate"
     ]
 },
-  "bbox": [-78.491342,35.861285,-78.491342,35.861285],
+  "bbox": [
+    -78.491342,
+    35.861285,
+    -78.491342,
+    35.861285
+],
   "geometry": {"coordinates":[-78.491342,35.861285],"type":"Point"}
 }

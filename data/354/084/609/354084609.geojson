@@ -2,13 +2,14 @@
   "id": 354084609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.352989,35.089041,-80.352989,35.089041",
     "geom:latitude":35.089041,
     "geom:longitude":-80.352989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3523 Holly School Rd",
     "sg:city":"Marshville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354084609,
-    "wof:lastmodified":1449066119,
+    "wof:lastmodified":1466648548,
     "wof:name":"Thomas A Bradley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.352989,35.089041,-80.352989,35.089041],
-  "geometry": {"coordinates":[-80.352989,35.089041],"type":"Point"}
+  "bbox": [
+    -80.352989,
+    35.089041,
+    -80.352989,
+    35.089041
+],
+  "geometry": {"coordinates":[-80.35298899999999,35.089041],"type":"Point"}
 }

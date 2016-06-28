@@ -2,13 +2,14 @@
   "id": 253166171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815407,36.094688,-79.815407,36.094688",
     "geom:latitude":36.094688,
     "geom:longitude":-79.815407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Sunset Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253166171,
-    "wof:lastmodified":1449064482,
+    "wof:lastmodified":1466644771,
     "wof:name":"Executive Office Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-79.815407,36.094688,-79.815407,36.094688],
-  "geometry": {"coordinates":[-79.815407,36.094688],"type":"Point"}
+  "bbox": [
+    -79.815407,
+    36.094688,
+    -79.815407,
+    36.094688
+],
+  "geometry": {"coordinates":[-79.81540699999999,36.094688],"type":"Point"}
 }

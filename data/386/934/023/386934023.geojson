@@ -2,13 +2,14 @@
   "id": 386934023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.538475,34.99326,-80.538475,34.99326",
     "geom:latitude":34.99326,
     "geom:longitude":-80.538475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 W Roosevelt Blvd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386934023,
-    "wof:lastmodified":1449028643,
+    "wof:lastmodified":1466649444,
     "wof:name":"Kymneco's Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.538475,34.99326,-80.538475,34.99326],
-  "geometry": {"coordinates":[-80.538475,34.99326],"type":"Point"}
+  "bbox": [
+    -80.538475,
+    34.99326,
+    -80.538475,
+    34.99326
+],
+  "geometry": {"coordinates":[-80.53847500000001,34.99326],"type":"Point"}
 }

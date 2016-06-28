@@ -2,13 +2,14 @@
   "id": 320193821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.051633,35.272872,-81.051633,35.272872",
     "geom:latitude":35.272872,
     "geom:longitude":-81.051633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Woodlawn Ave",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320193821,
-    "wof:lastmodified":1449011861,
+    "wof:lastmodified":1466648007,
     "wof:name":"Heritage Studio",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.051633,35.272872,-81.051633,35.272872],
+  "bbox": [
+    -81.051633,
+    35.272872,
+    -81.051633,
+    35.272872
+],
   "geometry": {"coordinates":[-81.051633,35.272872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202844027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.715489,35.005728,-78.715489,35.005728",
     "geom:latitude":35.005728,
     "geom:longitude":-78.715489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1036 Fred Hall Rd",
     "sg:city":"Stedman",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202844027,
-    "wof:lastmodified":1449061194,
+    "wof:lastmodified":1466644499,
     "wof:name":"Barnes Piano Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-78.715489,35.005728,-78.715489,35.005728],
-  "geometry": {"coordinates":[-78.715489,35.005728],"type":"Point"}
+  "bbox": [
+    -78.715489,
+    35.005728,
+    -78.715489,
+    35.005728
+],
+  "geometry": {"coordinates":[-78.71548900000001,35.005728],"type":"Point"}
 }

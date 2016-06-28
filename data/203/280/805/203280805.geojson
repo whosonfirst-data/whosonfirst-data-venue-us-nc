@@ -2,13 +2,14 @@
   "id": 203280805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815846,36.093565,-79.815846,36.093565",
     "geom:latitude":36.093565,
     "geom:longitude":-79.815846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 Westover Ter",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203280805,
-    "wof:lastmodified":1449025855,
+    "wof:lastmodified":1466655758,
     "wof:name":"Layton Optical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.815846,36.093565,-79.815846,36.093565],
-  "geometry": {"coordinates":[-79.815846,36.093565],"type":"Point"}
+  "bbox": [
+    -79.815846,
+    36.093565,
+    -79.815846,
+    36.093565
+],
+  "geometry": {"coordinates":[-79.81584599999999,36.093565],"type":"Point"}
 }

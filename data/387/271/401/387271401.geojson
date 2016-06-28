@@ -2,13 +2,14 @@
   "id": 387271401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023592,35.855929,-80.023592,35.855929",
     "geom:latitude":35.855929,
     "geom:longitude":-80.023592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6619 Erik Dr",
     "sg:city":"Trinity",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387271401,
-    "wof:lastmodified":1449058103,
+    "wof:lastmodified":1466653437,
     "wof:name":"Taylor Painting & Pressure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-80.023592,35.855929,-80.023592,35.855929],
-  "geometry": {"coordinates":[-80.023592,35.855929],"type":"Point"}
+  "bbox": [
+    -80.023592,
+    35.855929,
+    -80.023592,
+    35.855929
+],
+  "geometry": {"coordinates":[-80.02359199999999,35.855929],"type":"Point"}
 }

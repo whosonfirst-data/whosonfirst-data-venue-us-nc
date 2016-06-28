@@ -2,13 +2,14 @@
   "id": 387966469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.760534,35.099615,-80.760534,35.099615",
     "geom:latitude":35.099615,
     "geom:longitude":-80.760534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"944 Longfield Cir",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387966469,
-    "wof:lastmodified":1449056141,
+    "wof:lastmodified":1466658081,
     "wof:name":"Cantys & Lee Ceramics & Masnry",
     "wof:parent_id":85843235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "installation"
     ]
 },
-  "bbox": [-80.760534,35.099615,-80.760534,35.099615],
-  "geometry": {"coordinates":[-80.760534,35.099615],"type":"Point"}
+  "bbox": [
+    -80.760534,
+    35.099615,
+    -80.760534,
+    35.099615
+],
+  "geometry": {"coordinates":[-80.76053400000001,35.099615],"type":"Point"}
 }

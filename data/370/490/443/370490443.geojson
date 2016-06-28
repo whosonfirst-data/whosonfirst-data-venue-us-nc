@@ -2,13 +2,14 @@
   "id": 370490443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.002728,35.47663,-81.002728,35.47663",
     "geom:latitude":35.47663,
     "geom:longitude":-81.002728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8086 Optimist Club Rd",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370490443,
-    "wof:lastmodified":1449032133,
+    "wof:lastmodified":1466652435,
     "wof:name":"East Lincoln Optimist Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "membership"
     ]
 },
-  "bbox": [-81.002728,35.47663,-81.002728,35.47663],
+  "bbox": [
+    -81.002728,
+    35.47663,
+    -81.002728,
+    35.47663
+],
   "geometry": {"coordinates":[-81.002728,35.47663],"type":"Point"}
 }

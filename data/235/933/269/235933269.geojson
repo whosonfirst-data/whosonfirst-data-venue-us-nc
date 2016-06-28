@@ -2,13 +2,14 @@
   "id": 235933269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.224781,35.465438,-79.224781,35.465438",
     "geom:latitude":35.465438,
     "geom:longitude":-79.224781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Franklin Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235933269,
-    "wof:lastmodified":1449008331,
+    "wof:lastmodified":1466643247,
     "wof:name":"Fifth Avenue Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-79.224781,35.465438,-79.224781,35.465438],
-  "geometry": {"coordinates":[-79.224781,35.465438],"type":"Point"}
+  "bbox": [
+    -79.224781,
+    35.465438,
+    -79.224781,
+    35.465438
+],
+  "geometry": {"coordinates":[-79.22478099999999,35.465438],"type":"Point"}
 }

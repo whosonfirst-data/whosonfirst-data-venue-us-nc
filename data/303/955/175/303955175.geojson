@@ -2,13 +2,14 @@
   "id": 303955175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.914643,34.235819,-77.914643,34.235819",
     "geom:latitude":34.235819,
     "geom:longitude":-77.914643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Forest Hills Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303955175,
-    "wof:lastmodified":1448999815,
+    "wof:lastmodified":1466656675,
     "wof:name":"Neil Anderson",
     "wof:parent_id":85819913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.914643,34.235819,-77.914643,34.235819],
+  "bbox": [
+    -77.914643,
+    34.235819,
+    -77.914643,
+    34.235819
+],
   "geometry": {"coordinates":[-77.914643,34.235819],"type":"Point"}
 }

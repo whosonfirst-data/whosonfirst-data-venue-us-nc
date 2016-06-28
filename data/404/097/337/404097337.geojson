@@ -2,13 +2,14 @@
   "id": 404097337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.552788,35.883597,-77.552788,35.883597",
     "geom:latitude":35.883597,
     "geom:longitude":-77.552788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 W Saint James St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404097337,
-    "wof:lastmodified":1449039504,
+    "wof:lastmodified":1466652512,
     "wof:name":"Hartcom Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-77.552788,35.883597,-77.552788,35.883597],
-  "geometry": {"coordinates":[-77.552788,35.883597],"type":"Point"}
+  "bbox": [
+    -77.552788,
+    35.883597,
+    -77.552788,
+    35.883597
+],
+  "geometry": {"coordinates":[-77.55278800000001,35.883597],"type":"Point"}
 }

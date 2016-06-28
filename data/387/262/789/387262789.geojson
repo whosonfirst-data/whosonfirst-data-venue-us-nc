@@ -2,13 +2,14 @@
   "id": 387262789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.59006,35.895643,-78.59006,35.895643",
     "geom:latitude":35.895643,
     "geom:longitude":-78.59006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2913 Bolo Trl",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387262789,
-    "wof:lastmodified":1449058459,
+    "wof:lastmodified":1466653322,
     "wof:name":"Charles R Browning Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "man"
     ]
 },
-  "bbox": [-78.59006,35.895643,-78.59006,35.895643],
-  "geometry": {"coordinates":[-78.59006,35.895643],"type":"Point"}
+  "bbox": [
+    -78.59006,
+    35.895643,
+    -78.59006,
+    35.895643
+],
+  "geometry": {"coordinates":[-78.59005999999999,35.895643],"type":"Point"}
 }

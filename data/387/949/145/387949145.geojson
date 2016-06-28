@@ -2,13 +2,14 @@
   "id": 387949145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.498522,34.556756,-78.498522,34.556756",
     "geom:latitude":34.556756,
     "geom:longitude":-78.498522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8067 State Hwy 87 E",
     "sg:city":"Clarkton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387949145,
-    "wof:lastmodified":1449058463,
+    "wof:lastmodified":1466657895,
     "wof:name":"Prestage Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.498522,34.556756,-78.498522,34.556756],
-  "geometry": {"coordinates":[-78.498522,34.556756],"type":"Point"}
+  "bbox": [
+    -78.498522,
+    34.556756,
+    -78.498522,
+    34.556756
+],
+  "geometry": {"coordinates":[-78.49852199999999,34.556756],"type":"Point"}
 }

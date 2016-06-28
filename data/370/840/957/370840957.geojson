@@ -2,13 +2,14 @@
   "id": 370840957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.034597,36.299253,-79.034597,36.299253",
     "geom:latitude":36.299253,
     "geom:longitude":-79.034597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7238 Hurdle Mills Rd",
     "sg:city":"Hurdle Mills",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370840957,
-    "wof:lastmodified":1449031724,
+    "wof:lastmodified":1466656722,
     "wof:name":"Russell Horton Farms",
     "wof:parent_id":85823157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-79.034597,36.299253,-79.034597,36.299253],
-  "geometry": {"coordinates":[-79.034597,36.299253],"type":"Point"}
+  "bbox": [
+    -79.034597,
+    36.299253,
+    -79.034597,
+    36.299253
+],
+  "geometry": {"coordinates":[-79.03459700000001,36.299253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303849097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.036125,35.053133,-77.036125,35.053133",
     "geom:latitude":35.053133,
     "geom:longitude":-77.036125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Reinach Ln",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303849097,
-    "wof:lastmodified":1448998568,
+    "wof:lastmodified":1466655571,
     "wof:name":"Interact Public Safety Systems",
     "wof:parent_id":85806875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-77.036125,35.053133,-77.036125,35.053133],
+  "bbox": [
+    -77.036125,
+    35.053133,
+    -77.036125,
+    35.053133
+],
   "geometry": {"coordinates":[-77.036125,35.053133],"type":"Point"}
 }

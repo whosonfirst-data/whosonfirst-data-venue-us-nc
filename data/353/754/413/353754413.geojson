@@ -2,13 +2,14 @@
   "id": 353754413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.934937,35.076684,-78.934937,35.076684",
     "geom:latitude":35.076684,
     "geom:longitude":-78.934937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3426 Bragg Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353754413,
-    "wof:lastmodified":1449019915,
+    "wof:lastmodified":1466651244,
     "wof:name":"CREST",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.934937,35.076684,-78.934937,35.076684],
-  "geometry": {"coordinates":[-78.934937,35.076684],"type":"Point"}
+  "bbox": [
+    -78.934937,
+    35.076684,
+    -78.934937,
+    35.076684
+],
+  "geometry": {"coordinates":[-78.93493700000001,35.076684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303064089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.876699,35.22357,-80.876699,35.22357",
     "geom:latitude":35.22357,
     "geom:longitude":-80.876699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Wilkinson Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303064089,
-    "wof:lastmodified":1448998979,
+    "wof:lastmodified":1466644159,
     "wof:name":"Dealer Prep Svc",
     "wof:parent_id":85891893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-80.876699,35.22357,-80.876699,35.22357],
+  "bbox": [
+    -80.876699,
+    35.22357,
+    -80.876699,
+    35.22357
+],
   "geometry": {"coordinates":[-80.876699,35.22357],"type":"Point"}
 }

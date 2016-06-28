@@ -2,13 +2,14 @@
   "id": 353542425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.908071,34.21776,-77.908071,34.21776",
     "geom:latitude":34.21776,
     "geom:longitude":-77.908071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3208 Oleander Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353542425,
-    "wof:lastmodified":1449020252,
+    "wof:lastmodified":1466648655,
     "wof:name":"Your Conference Connection",
     "wof:parent_id":85849921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "seminar"
     ]
 },
-  "bbox": [-77.908071,34.21776,-77.908071,34.21776],
-  "geometry": {"coordinates":[-77.908071,34.21776],"type":"Point"}
+  "bbox": [
+    -77.908071,
+    34.21776,
+    -77.908071,
+    34.21776
+],
+  "geometry": {"coordinates":[-77.90807100000001,34.21776],"type":"Point"}
 }

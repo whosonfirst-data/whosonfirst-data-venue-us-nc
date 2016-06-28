@@ -2,13 +2,14 @@
   "id": 404024791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.293275,35.939994,-78.293275,35.939994",
     "geom:latitude":35.939994,
     "geom:longitude":-78.293275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5651 Pearces Rd",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404024791,
-    "wof:lastmodified":1449039586,
+    "wof:lastmodified":1466651612,
     "wof:name":"Barner Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.293275,35.939994,-78.293275,35.939994],
-  "geometry": {"coordinates":[-78.293275,35.939994],"type":"Point"}
+  "bbox": [
+    -78.293275,
+    35.939994,
+    -78.293275,
+    35.939994
+],
+  "geometry": {"coordinates":[-78.29327499999999,35.939994],"type":"Point"}
 }

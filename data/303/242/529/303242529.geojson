@@ -2,13 +2,14 @@
   "id": 303242529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.373105,35.611209,-77.373105,35.611209",
     "geom:latitude":35.611209,
     "geom:longitude":-77.373105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S Evans St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303242529,
-    "wof:lastmodified":1449000277,
+    "wof:lastmodified":1466646836,
     "wof:name":"Emerge Gallery",
     "wof:parent_id":85811829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-77.373105,35.611209,-77.373105,35.611209],
+  "bbox": [
+    -77.373105,
+    35.611209,
+    -77.373105,
+    35.611209
+],
   "geometry": {"coordinates":[-77.373105,35.611209],"type":"Point"}
 }

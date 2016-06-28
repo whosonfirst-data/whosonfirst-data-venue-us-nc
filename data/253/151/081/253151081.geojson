@@ -2,13 +2,14 @@
   "id": 253151081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.6689,36.453154,-80.6689,36.453154",
     "geom:latitude":36.453154,
     "geom:longitude":-80.6689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Cadle Ford Rd",
     "sg:city":"Mount Airy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253151081,
-    "wof:lastmodified":1449062849,
+    "wof:lastmodified":1466644592,
     "wof:name":"White Plains Elementary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.6689,36.453154,-80.6689,36.453154],
-  "geometry": {"coordinates":[-80.6689,36.453154],"type":"Point"}
+  "bbox": [
+    -80.6689,
+    36.453154,
+    -80.6689,
+    36.453154
+],
+  "geometry": {"coordinates":[-80.66889999999999,36.453154],"type":"Point"}
 }

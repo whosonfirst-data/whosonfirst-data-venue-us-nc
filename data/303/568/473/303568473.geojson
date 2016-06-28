@@ -2,13 +2,14 @@
   "id": 303568473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.31825,35.343826,-77.31825,35.343826",
     "geom:latitude":35.343826,
     "geom:longitude":-77.31825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5591 State Hwy 118",
     "sg:city":"Grifton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303568473,
-    "wof:lastmodified":1448998058,
+    "wof:lastmodified":1466651499,
     "wof:name":"Carolina Stone LLC",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "gravel"
     ]
 },
-  "bbox": [-77.31825,35.343826,-77.31825,35.343826],
-  "geometry": {"coordinates":[-77.31825,35.343826],"type":"Point"}
+  "bbox": [
+    -77.31825,
+    35.343826,
+    -77.31825,
+    35.343826
+],
+  "geometry": {"coordinates":[-77.31825000000001,35.343826],"type":"Point"}
 }

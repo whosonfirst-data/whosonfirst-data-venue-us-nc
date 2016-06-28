@@ -2,13 +2,14 @@
   "id": 202522183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.794165,34.299445,-77.794165,34.299445",
     "geom:latitude":34.299445,
     "geom:longitude":-77.794165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Cypress Pond Way",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202522183,
-    "wof:lastmodified":1449061335,
+    "wof:lastmodified":1466655107,
     "wof:name":"Broadstar Inc",
     "wof:parent_id":85852563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-77.794165,34.299445,-77.794165,34.299445],
-  "geometry": {"coordinates":[-77.794165,34.299445],"type":"Point"}
+  "bbox": [
+    -77.794165,
+    34.299445,
+    -77.794165,
+    34.299445
+],
+  "geometry": {"coordinates":[-77.79416500000001,34.299445],"type":"Point"}
 }

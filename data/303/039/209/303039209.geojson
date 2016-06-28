@@ -2,13 +2,14 @@
   "id": 303039209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.314219,35.717361,-81.314219,35.717361",
     "geom:latitude":35.717361,
     "geom:longitude":-81.314219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1146 Lenoir Rhyne Blvd SE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303039209,
-    "wof:lastmodified":1449000262,
+    "wof:lastmodified":1466643802,
     "wof:name":"Life Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-81.314219,35.717361,-81.314219,35.717361],
-  "geometry": {"coordinates":[-81.314219,35.717361],"type":"Point"}
+  "bbox": [
+    -81.314219,
+    35.717361,
+    -81.314219,
+    35.717361
+],
+  "geometry": {"coordinates":[-81.31421899999999,35.717361],"type":"Point"}
 }

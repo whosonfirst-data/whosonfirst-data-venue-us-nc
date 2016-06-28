@@ -2,13 +2,14 @@
   "id": 320524917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.6819,35.862168,-78.6819,35.862168",
     "geom:latitude":35.862168,
     "geom:longitude":-78.6819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Magellan Way",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320524917,
-    "wof:lastmodified":1449011225,
+    "wof:lastmodified":1466652727,
     "wof:name":"Magellan Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.6819,35.862168,-78.6819,35.862168],
+  "bbox": [
+    -78.6819,
+    35.862168,
+    -78.6819,
+    35.862168
+],
   "geometry": {"coordinates":[-78.6819,35.862168],"type":"Point"}
 }

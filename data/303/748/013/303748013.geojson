@@ -2,13 +2,14 @@
   "id": 303748013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.473598,34.755578,-77.473598,34.755578",
     "geom:latitude":34.755578,
     "geom:longitude":-77.473598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3091 Richlands Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303748013,
-    "wof:lastmodified":1448999954,
+    "wof:lastmodified":1466654109,
     "wof:name":"First Citizens Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.473598,34.755578,-77.473598,34.755578],
+  "bbox": [
+    -77.473598,
+    34.755578,
+    -77.473598,
+    34.755578
+],
   "geometry": {"coordinates":[-77.473598,34.755578],"type":"Point"}
 }

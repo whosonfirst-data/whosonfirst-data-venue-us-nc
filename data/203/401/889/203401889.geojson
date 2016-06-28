@@ -2,13 +2,14 @@
   "id": 203401889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.891614,36.192575,-79.891614,36.192575",
     "geom:latitude":36.192575,
     "geom:longitude":-79.891614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 US Hwy 220",
     "sg:city":"Summerfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203401889,
-    "wof:lastmodified":1449026565,
+    "wof:lastmodified":1466644015,
     "wof:name":"Training Zone",
     "wof:parent_id":85877983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-79.891614,36.192575,-79.891614,36.192575],
+  "bbox": [
+    -79.891614,
+    36.192575,
+    -79.891614,
+    36.192575
+],
   "geometry": {"coordinates":[-79.891614,36.192575],"type":"Point"}
 }

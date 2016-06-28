@@ -2,13 +2,14 @@
   "id": 304012861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.900756,36.38843,-78.900756,36.38843",
     "geom:latitude":36.38843,
     "geom:longitude":-78.900756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1851 Cedar Grove Church Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304012861,
-    "wof:lastmodified":1449044104,
+    "wof:lastmodified":1466644347,
     "wof:name":"Cedar Grove Church",
     "wof:parent_id":85823157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.900756,36.38843,-78.900756,36.38843],
+  "bbox": [
+    -78.900756,
+    36.38843,
+    -78.900756,
+    36.38843
+],
   "geometry": {"coordinates":[-78.900756,36.38843],"type":"Point"}
 }

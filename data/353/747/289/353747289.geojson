@@ -2,13 +2,14 @@
   "id": 353747289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.409546,35.503126,-78.409546,35.503126",
     "geom:latitude":35.503126,
     "geom:longitude":-78.409546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3198 State Hwy 210",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353747289,
-    "wof:lastmodified":1449018712,
+    "wof:lastmodified":1466651166,
     "wof:name":"Hummelville Home",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.409546,35.503126,-78.409546,35.503126],
-  "geometry": {"coordinates":[-78.409546,35.503126],"type":"Point"}
+  "bbox": [
+    -78.409546,
+    35.503126,
+    -78.409546,
+    35.503126
+],
+  "geometry": {"coordinates":[-78.40954600000001,35.503126],"type":"Point"}
 }

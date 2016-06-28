@@ -2,13 +2,14 @@
   "id": 303146755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.384061,35.56545,-77.384061,35.56545",
     "geom:latitude":35.56545,
     "geom:longitude":-77.384061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3485 S Evans St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303146755,
-    "wof:lastmodified":1448999131,
+    "wof:lastmodified":1466645415,
     "wof:name":"Stanley Law Firm",
     "wof:parent_id":85857865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-77.384061,35.56545,-77.384061,35.56545],
+  "bbox": [
+    -77.384061,
+    35.56545,
+    -77.384061,
+    35.56545
+],
   "geometry": {"coordinates":[-77.384061,35.56545],"type":"Point"}
 }

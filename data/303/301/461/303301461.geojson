@@ -2,13 +2,14 @@
   "id": 303301461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.805271,35.545948,-80.805271,35.545948",
     "geom:latitude":35.545948,
     "geom:longitude":-80.805271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Woodfern Pl",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303301461,
-    "wof:lastmodified":1448998735,
+    "wof:lastmodified":1466647691,
     "wof:name":"American Trans Freight",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.805271,35.545948,-80.805271,35.545948],
+  "bbox": [
+    -80.805271,
+    35.545948,
+    -80.805271,
+    35.545948
+],
   "geometry": {"coordinates":[-80.805271,35.545948],"type":"Point"}
 }

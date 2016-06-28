@@ -2,13 +2,14 @@
   "id": 354401945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.149256,35.259296,-81.149256,35.259296",
     "geom:latitude":35.259296,
     "geom:longitude":-81.149256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Wilmont Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354401945,
-    "wof:lastmodified":1449067397,
+    "wof:lastmodified":1466652192,
     "wof:name":"Magellan Health Services Inc",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.149256,35.259296,-81.149256,35.259296],
-  "geometry": {"coordinates":[-81.149256,35.259296],"type":"Point"}
+  "bbox": [
+    -81.149256,
+    35.259296,
+    -81.149256,
+    35.259296
+],
+  "geometry": {"coordinates":[-81.14925599999999,35.259296],"type":"Point"}
 }

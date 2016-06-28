@@ -2,13 +2,14 @@
   "id": 320059933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.591625,36.328222,-77.591625,36.328222",
     "geom:latitude":36.328222,
     "geom:longitude":-77.591625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Prussia St",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320059933,
-    "wof:lastmodified":1449012280,
+    "wof:lastmodified":1466646169,
     "wof:name":"Halifax Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.591625,36.328222,-77.591625,36.328222],
-  "geometry": {"coordinates":[-77.591625,36.328222],"type":"Point"}
+  "bbox": [
+    -77.591625,
+    36.328222,
+    -77.591625,
+    36.328222
+],
+  "geometry": {"coordinates":[-77.59162499999999,36.328222],"type":"Point"}
 }

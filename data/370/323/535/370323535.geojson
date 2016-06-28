@@ -2,13 +2,14 @@
   "id": 370323535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.011699,35.532104,-77.011699,35.532104",
     "geom:latitude":35.532104,
     "geom:longitude":-77.011699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Pamlico Dr",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370323535,
-    "wof:lastmodified":1449029377,
+    "wof:lastmodified":1466650306,
     "wof:name":"Custom Air Systems",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.011699,35.532104,-77.011699,35.532104],
-  "geometry": {"coordinates":[-77.011699,35.532104],"type":"Point"}
+  "bbox": [
+    -77.011699,
+    35.532104,
+    -77.011699,
+    35.532104
+],
+  "geometry": {"coordinates":[-77.01169899999999,35.532104],"type":"Point"}
 }

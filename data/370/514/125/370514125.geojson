@@ -2,13 +2,14 @@
   "id": 370514125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.447257,34.770768,-79.447257,34.770768",
     "geom:latitude":34.770768,
     "geom:longitude":-79.447257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 2nd St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370514125,
-    "wof:lastmodified":1449030784,
+    "wof:lastmodified":1466652743,
     "wof:name":"Central United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.447257,34.770768,-79.447257,34.770768],
-  "geometry": {"coordinates":[-79.447257,34.770768],"type":"Point"}
+  "bbox": [
+    -79.447257,
+    34.770768,
+    -79.447257,
+    34.770768
+],
+  "geometry": {"coordinates":[-79.44725699999999,34.770768],"type":"Point"}
 }

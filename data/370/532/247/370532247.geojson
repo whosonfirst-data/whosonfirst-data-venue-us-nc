@@ -2,13 +2,14 @@
   "id": 370532247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.846009,35.17808,-76.846009,35.17808",
     "geom:latitude":35.17808,
     "geom:longitude":-76.846009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Sandy Ln",
     "sg:city":"Hubert",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370532247,
-    "wof:lastmodified":1449030237,
+    "wof:lastmodified":1466652981,
     "wof:name":"Saint Paul AME Zion Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-76.846009,35.17808,-76.846009,35.17808],
+  "bbox": [
+    -76.846009,
+    35.17808,
+    -76.846009,
+    35.17808
+],
   "geometry": {"coordinates":[-76.846009,35.17808],"type":"Point"}
 }

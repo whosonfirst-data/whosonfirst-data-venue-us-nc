@@ -2,13 +2,14 @@
   "id": 303780655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.86844,35.991928,-78.86844,35.991928",
     "geom:latitude":35.991928,
     "geom:longitude":-78.86844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 US Hwy 70",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303780655,
-    "wof:lastmodified":1448999950,
+    "wof:lastmodified":1466654581,
     "wof:name":"CSDC Child Development Ctr",
     "wof:parent_id":85877153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "child"
     ]
 },
-  "bbox": [-78.86844,35.991928,-78.86844,35.991928],
-  "geometry": {"coordinates":[-78.86844,35.991928],"type":"Point"}
+  "bbox": [
+    -78.86844,
+    35.991928,
+    -78.86844,
+    35.991928
+],
+  "geometry": {"coordinates":[-78.86844000000001,35.991928],"type":"Point"}
 }

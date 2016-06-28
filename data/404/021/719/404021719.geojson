@@ -2,13 +2,14 @@
   "id": 404021719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.402194,35.280138,-78.402194,35.280138",
     "geom:latitude":35.280138,
     "geom:longitude":-78.402194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11551 State Hwy 50 S",
     "sg:city":"Newton Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404021719,
-    "wof:lastmodified":1449039878,
+    "wof:lastmodified":1466651577,
     "wof:name":"Unity Presbyterian Church",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.402194,35.280138,-78.402194,35.280138],
-  "geometry": {"coordinates":[-78.402194,35.280138],"type":"Point"}
+  "bbox": [
+    -78.402194,
+    35.280138,
+    -78.402194,
+    35.280138
+],
+  "geometry": {"coordinates":[-78.40219399999999,35.280138],"type":"Point"}
 }

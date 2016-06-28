@@ -2,13 +2,14 @@
   "id": 320093137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.149615,35.261884,-81.149615,35.261884",
     "geom:latitude":35.261884,
     "geom:longitude":-81.149615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1626 E Franklin Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320093137,
-    "wof:lastmodified":1449011268,
+    "wof:lastmodified":1466646610,
     "wof:name":"Harrison Co",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.149615,35.261884,-81.149615,35.261884],
+  "bbox": [
+    -81.149615,
+    35.261884,
+    -81.149615,
+    35.261884
+],
   "geometry": {"coordinates":[-81.149615,35.261884],"type":"Point"}
 }

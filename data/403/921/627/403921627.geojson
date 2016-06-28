@@ -2,13 +2,14 @@
   "id": 403921627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.873211,35.217757,-80.873211,35.217757",
     "geom:latitude":35.217757,
     "geom:longitude":-80.873211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 Barringer Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403921627,
-    "wof:lastmodified":1449055479,
+    "wof:lastmodified":1466653173,
     "wof:name":"Revolution Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-80.873211,35.217757,-80.873211,35.217757],
+  "bbox": [
+    -80.873211,
+    35.217757,
+    -80.873211,
+    35.217757
+],
   "geometry": {"coordinates":[-80.873211,35.217757],"type":"Point"}
 }

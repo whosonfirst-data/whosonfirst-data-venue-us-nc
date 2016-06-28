@@ -2,13 +2,14 @@
   "id": 387527069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.882528,34.210104,-77.882528,34.210104",
     "geom:latitude":34.210104,
     "geom:longitude":-77.882528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4815 Oleander Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387527069,
-    "wof:lastmodified":1449059128,
+    "wof:lastmodified":1466656399,
     "wof:name":"OMS",
     "wof:parent_id":85842005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.882528,34.210104,-77.882528,34.210104],
-  "geometry": {"coordinates":[-77.882528,34.210104],"type":"Point"}
+  "bbox": [
+    -77.882528,
+    34.210104,
+    -77.882528,
+    34.210104
+],
+  "geometry": {"coordinates":[-77.88252799999999,34.210104],"type":"Point"}
 }

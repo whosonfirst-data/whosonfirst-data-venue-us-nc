@@ -2,13 +2,14 @@
   "id": 387095989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.544807,34.896287,-77.544807,34.896287",
     "geom:latitude":34.896287,
     "geom:longitude":-77.544807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Onslow St",
     "sg:city":"Richlands",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387095989,
-    "wof:lastmodified":1449058044,
+    "wof:lastmodified":1466651108,
     "wof:name":"Baytree Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-77.544807,34.896287,-77.544807,34.896287],
-  "geometry": {"coordinates":[-77.544807,34.896287],"type":"Point"}
+  "bbox": [
+    -77.544807,
+    34.896287,
+    -77.544807,
+    34.896287
+],
+  "geometry": {"coordinates":[-77.54480700000001,34.896287],"type":"Point"}
 }

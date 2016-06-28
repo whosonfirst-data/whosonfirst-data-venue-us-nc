@@ -2,13 +2,14 @@
   "id": 286599953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.256741,35.009511,-78.256741,35.009511",
     "geom:latitude":35.009511,
     "geom:longitude":-78.256741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 Old Warsaw Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286599953,
-    "wof:lastmodified":1449016555,
+    "wof:lastmodified":1466647725,
     "wof:name":"Iron City Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.256741,35.009511,-78.256741,35.009511],
-  "geometry": {"coordinates":[-78.256741,35.009511],"type":"Point"}
+  "bbox": [
+    -78.256741,
+    35.009511,
+    -78.256741,
+    35.009511
+],
+  "geometry": {"coordinates":[-78.25674100000001,35.009511],"type":"Point"}
 }

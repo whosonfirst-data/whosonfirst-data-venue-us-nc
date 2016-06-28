@@ -2,13 +2,14 @@
   "id": 403901337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.861983,34.188705,-77.861983,34.188705",
     "geom:latitude":34.188705,
     "geom:longitude":-77.861983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5480 Efird Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403901337,
-    "wof:lastmodified":1449055186,
+    "wof:lastmodified":1466652918,
     "wof:name":"Reserve At Masonboro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.861983,34.188705,-77.861983,34.188705],
+  "bbox": [
+    -77.861983,
+    34.188705,
+    -77.861983,
+    34.188705
+],
   "geometry": {"coordinates":[-77.861983,34.188705],"type":"Point"}
 }

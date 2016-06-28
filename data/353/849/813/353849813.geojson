@@ -2,13 +2,14 @@
   "id": 353849813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.169095,35.568476,-79.169095,35.568476",
     "geom:latitude":35.568476,
     "geom:longitude":-79.169095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Jones Chapel Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353849813,
-    "wof:lastmodified":1449018720,
+    "wof:lastmodified":1466652325,
     "wof:name":"Jones Chapel United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.169095,35.568476,-79.169095,35.568476],
+  "bbox": [
+    -79.169095,
+    35.568476,
+    -79.169095,
+    35.568476
+],
   "geometry": {"coordinates":[-79.169095,35.568476],"type":"Point"}
 }

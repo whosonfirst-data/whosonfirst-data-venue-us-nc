@@ -2,13 +2,14 @@
   "id": 387888101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.933703,35.906115,-78.933703,35.906115",
     "geom:latitude":35.906115,
     "geom:longitude":-78.933703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Herndon Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387888101,
-    "wof:lastmodified":1449058479,
+    "wof:lastmodified":1466657956,
     "wof:name":"Duke Childrens Health Ctr",
     "wof:parent_id":85858607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.933703,35.906115,-78.933703,35.906115],
-  "geometry": {"coordinates":[-78.933703,35.906115],"type":"Point"}
+  "bbox": [
+    -78.933703,
+    35.906115,
+    -78.933703,
+    35.906115
+],
+  "geometry": {"coordinates":[-78.93370299999999,35.906115],"type":"Point"}
 }

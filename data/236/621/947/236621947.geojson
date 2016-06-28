@@ -2,13 +2,14 @@
   "id": 236621947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.859558,35.990469,-78.859558,35.990469",
     "geom:latitude":35.990469,
     "geom:longitude":-78.859558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Holloway St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236621947,
-    "wof:lastmodified":1449004773,
+    "wof:lastmodified":1466648741,
     "wof:name":"Etna",
     "wof:parent_id":85827667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.859558,35.990469,-78.859558,35.990469],
-  "geometry": {"coordinates":[-78.859558,35.990469],"type":"Point"}
+  "bbox": [
+    -78.859558,
+    35.990469,
+    -78.859558,
+    35.990469
+],
+  "geometry": {"coordinates":[-78.85955800000001,35.990469],"type":"Point"}
 }

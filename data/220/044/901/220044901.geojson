@@ -2,13 +2,14 @@
   "id": 220044901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.461266,35.66895,-80.461266,35.66895",
     "geom:latitude":35.66895,
     "geom:longitude":-80.461266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 N Long St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220044901,
-    "wof:lastmodified":1449074456,
+    "wof:lastmodified":1466643564,
     "wof:name":"Rowan Funeral Svc",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-80.461266,35.66895,-80.461266,35.66895],
-  "geometry": {"coordinates":[-80.461266,35.66895],"type":"Point"}
+  "bbox": [
+    -80.461266,
+    35.66895,
+    -80.461266,
+    35.66895
+],
+  "geometry": {"coordinates":[-80.46126599999999,35.66895],"type":"Point"}
 }

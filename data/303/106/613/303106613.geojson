@@ -2,13 +2,14 @@
   "id": 303106613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.05848,35.553259,-77.05848,35.553259",
     "geom:latitude":35.553259,
     "geom:longitude":-77.05848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 Washington St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303106613,
-    "wof:lastmodified":1448998080,
+    "wof:lastmodified":1466644796,
     "wof:name":"SVR Consultants",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-77.05848,35.553259,-77.05848,35.553259],
+  "bbox": [
+    -77.05848,
+    35.553259,
+    -77.05848,
+    35.553259
+],
   "geometry": {"coordinates":[-77.05848,35.553259],"type":"Point"}
 }

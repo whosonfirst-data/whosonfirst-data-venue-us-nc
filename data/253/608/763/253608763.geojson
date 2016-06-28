@@ -2,13 +2,14 @@
   "id": 253608763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.935606,35.725372,-77.935606,35.725372",
     "geom:latitude":35.725372,
     "geom:longitude":-77.935606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Ward Blvd",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253608763,
-    "wof:lastmodified":1449064089,
+    "wof:lastmodified":1466649679,
     "wof:name":"Dairy O",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-77.935606,35.725372,-77.935606,35.725372],
-  "geometry": {"coordinates":[-77.935606,35.725372],"type":"Point"}
+  "bbox": [
+    -77.935606,
+    35.725372,
+    -77.935606,
+    35.725372
+],
+  "geometry": {"coordinates":[-77.93560600000001,35.725372],"type":"Point"}
 }

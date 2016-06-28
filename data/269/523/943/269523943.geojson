@@ -2,13 +2,14 @@
   "id": 269523943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.33119,35.161426,-80.33119,35.161426",
     "geom:latitude":35.161426,
     "geom:longitude":-80.33119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6016 R A Austin Rd",
     "sg:city":"Marshville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269523943,
-    "wof:lastmodified":1449037520,
+    "wof:lastmodified":1466643685,
     "wof:name":"J Steve McLain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.33119,35.161426,-80.33119,35.161426],
-  "geometry": {"coordinates":[-80.33119,35.161426],"type":"Point"}
+  "bbox": [
+    -80.33119,
+    35.161426,
+    -80.33119,
+    35.161426
+],
+  "geometry": {"coordinates":[-80.33119000000001,35.161426],"type":"Point"}
 }

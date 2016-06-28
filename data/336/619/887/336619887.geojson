@@ -2,13 +2,14 @@
   "id": 336619887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.403653,34.78885,-77.403653,34.78885",
     "geom:latitude":34.78885,
     "geom:longitude":-77.403653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Western Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336619887,
-    "wof:lastmodified":1448997140,
+    "wof:lastmodified":1466646139,
     "wof:name":"Marine Chevrolet Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-77.403653,34.78885,-77.403653,34.78885],
-  "geometry": {"coordinates":[-77.403653,34.78885],"type":"Point"}
+  "bbox": [
+    -77.403653,
+    34.78885,
+    -77.403653,
+    34.78885
+],
+  "geometry": {"coordinates":[-77.40365300000001,34.78885],"type":"Point"}
 }

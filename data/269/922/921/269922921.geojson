@@ -2,13 +2,14 @@
   "id": 269922921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.357304,35.589767,-77.357304,35.589767",
     "geom:latitude":35.589767,
     "geom:longitude":-77.357304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Greenville Blvd SE",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269922921,
-    "wof:lastmodified":1449036367,
+    "wof:lastmodified":1466648403,
     "wof:name":"McPherson Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-77.357304,35.589767,-77.357304,35.589767],
+  "bbox": [
+    -77.357304,
+    35.589767,
+    -77.357304,
+    35.589767
+],
   "geometry": {"coordinates":[-77.357304,35.589767],"type":"Point"}
 }

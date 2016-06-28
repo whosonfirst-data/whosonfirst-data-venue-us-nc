@@ -2,13 +2,14 @@
   "id": 303463235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.314253,35.011914,-78.314253,35.011914",
     "geom:latitude":35.011914,
     "geom:longitude":-78.314253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Underwood St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303463235,
-    "wof:lastmodified":1448999816,
+    "wof:lastmodified":1466649998,
     "wof:name":"McConnell Painting Contra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.314253,35.011914,-78.314253,35.011914],
-  "geometry": {"coordinates":[-78.314253,35.011914],"type":"Point"}
+  "bbox": [
+    -78.314253,
+    35.011914,
+    -78.314253,
+    35.011914
+],
+  "geometry": {"coordinates":[-78.31425299999999,35.011914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253016409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.570592,35.852828,-79.570592,35.852828",
     "geom:latitude":35.852828,
     "geom:longitude":-79.570592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 S Fayetteville St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253016409,
-    "wof:lastmodified":1449063329,
+    "wof:lastmodified":1466643328,
     "wof:name":"Liberty Parks & Rec Dept",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-79.570592,35.852828,-79.570592,35.852828],
+  "bbox": [
+    -79.570592,
+    35.852828,
+    -79.570592,
+    35.852828
+],
   "geometry": {"coordinates":[-79.570592,35.852828],"type":"Point"}
 }

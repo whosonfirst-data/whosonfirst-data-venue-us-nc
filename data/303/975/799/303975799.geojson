@@ -2,13 +2,14 @@
   "id": 303975799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.667048,35.734513,-79.667048,35.734513",
     "geom:latitude":35.734513,
     "geom:longitude":-79.667048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5960 US Hwy 64 E",
     "sg:city":"Ramseur",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303975799,
-    "wof:lastmodified":1449000227,
+    "wof:lastmodified":1466656968,
     "wof:name":"Tower Components Inc",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "exchanger"
     ]
 },
-  "bbox": [-79.667048,35.734513,-79.667048,35.734513],
-  "geometry": {"coordinates":[-79.667048,35.734513],"type":"Point"}
+  "bbox": [
+    -79.667048,
+    35.734513,
+    -79.667048,
+    35.734513
+],
+  "geometry": {"coordinates":[-79.66704799999999,35.734513],"type":"Point"}
 }

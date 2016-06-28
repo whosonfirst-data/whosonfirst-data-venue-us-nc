@@ -2,13 +2,14 @@
   "id": 236692925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.834651,34.26506,-77.834651,34.26506",
     "geom:latitude":34.26506,
     "geom:longitude":-77.834651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6740 Netherlands Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236692925,
-    "wof:lastmodified":1449002335,
+    "wof:lastmodified":1466649402,
     "wof:name":"Rulmeca Corp",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relations"
     ]
 },
-  "bbox": [-77.834651,34.26506,-77.834651,34.26506],
-  "geometry": {"coordinates":[-77.834651,34.26506],"type":"Point"}
+  "bbox": [
+    -77.834651,
+    34.26506,
+    -77.834651,
+    34.26506
+],
+  "geometry": {"coordinates":[-77.83465099999999,34.26506],"type":"Point"}
 }

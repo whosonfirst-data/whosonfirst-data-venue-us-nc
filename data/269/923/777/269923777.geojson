@@ -2,13 +2,14 @@
   "id": 269923777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.961251,35.365156,-81.961251,35.365156",
     "geom:latitude":35.365156,
     "geom:longitude":-81.961251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Maple St",
     "sg:city":"Rutherfordton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269923777,
-    "wof:lastmodified":1449038870,
+    "wof:lastmodified":1466648417,
     "wof:name":"Rutherford Dermatology",
     "wof:parent_id":85819215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.961251,35.365156,-81.961251,35.365156],
+  "bbox": [
+    -81.961251,
+    35.365156,
+    -81.961251,
+    35.365156
+],
   "geometry": {"coordinates":[-81.961251,35.365156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286484207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.545054,34.723844,-77.545054,34.723844",
     "geom:latitude":34.723844,
     "geom:longitude":-77.545054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Holly Shelter Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286484207,
-    "wof:lastmodified":1449017920,
+    "wof:lastmodified":1466646125,
     "wof:name":"Cook's Machine Shop & Welding",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-77.545054,34.723844,-77.545054,34.723844],
-  "geometry": {"coordinates":[-77.545054,34.723844],"type":"Point"}
+  "bbox": [
+    -77.545054,
+    34.723844,
+    -77.545054,
+    34.723844
+],
+  "geometry": {"coordinates":[-77.54505399999999,34.723844],"type":"Point"}
 }

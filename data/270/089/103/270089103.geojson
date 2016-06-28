@@ -2,13 +2,14 @@
   "id": 270089103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.881625,34.115765,-77.881625,34.115765",
     "geom:latitude":34.115765,
     "geom:longitude":-77.881625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6429 Myrtle Grove Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270089103,
-    "wof:lastmodified":1449009124,
+    "wof:lastmodified":1466644243,
     "wof:name":"Clearwater Aquariums",
     "wof:parent_id":85822927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aquarium"
     ]
 },
-  "bbox": [-77.881625,34.115765,-77.881625,34.115765],
+  "bbox": [
+    -77.881625,
+    34.115765,
+    -77.881625,
+    34.115765
+],
   "geometry": {"coordinates":[-77.881625,34.115765],"type":"Point"}
 }

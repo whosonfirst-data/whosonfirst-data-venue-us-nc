@@ -2,13 +2,14 @@
   "id": 370587697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.430828,35.631638,-80.430828,35.631638",
     "geom:latitude":35.631638,
     "geom:longitude":-80.430828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3515 Stokes Ferry Rd",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370587697,
-    "wof:lastmodified":1449030263,
+    "wof:lastmodified":1466653723,
     "wof:name":"Mc Canless Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "public"
     ]
 },
-  "bbox": [-80.430828,35.631638,-80.430828,35.631638],
-  "geometry": {"coordinates":[-80.430828,35.631638],"type":"Point"}
+  "bbox": [
+    -80.430828,
+    35.631638,
+    -80.430828,
+    35.631638
+],
+  "geometry": {"coordinates":[-80.43082800000001,35.631638],"type":"Point"}
 }

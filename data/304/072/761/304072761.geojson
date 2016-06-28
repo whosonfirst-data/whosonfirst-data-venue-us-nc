@@ -2,13 +2,14 @@
   "id": 304072761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.852038,35.332077,-81.852038,35.332077",
     "geom:latitude":35.332077,
     "geom:longitude":-81.852038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 E Main St",
     "sg:city":"Forest City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304072761,
-    "wof:lastmodified":1449043888,
+    "wof:lastmodified":1466645186,
     "wof:name":"M & M Harrill Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.852038,35.332077,-81.852038,35.332077],
-  "geometry": {"coordinates":[-81.852038,35.332077],"type":"Point"}
+  "bbox": [
+    -81.852038,
+    35.332077,
+    -81.852038,
+    35.332077
+],
+  "geometry": {"coordinates":[-81.85203799999999,35.332077],"type":"Point"}
 }

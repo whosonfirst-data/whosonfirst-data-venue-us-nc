@@ -2,13 +2,14 @@
   "id": 202860707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.930439,35.194479,-80.930439,35.194479",
     "geom:latitude":35.194479,
     "geom:longitude":-80.930439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 Piper Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202860707,
-    "wof:lastmodified":1449061254,
+    "wof:lastmodified":1466644631,
     "wof:name":"Hunter Lab Southeast Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "matching"
     ]
 },
-  "bbox": [-80.930439,35.194479,-80.930439,35.194479],
-  "geometry": {"coordinates":[-80.930439,35.194479],"type":"Point"}
+  "bbox": [
+    -80.930439,
+    35.194479,
+    -80.930439,
+    35.194479
+],
+  "geometry": {"coordinates":[-80.93043900000001,35.194479],"type":"Point"}
 }

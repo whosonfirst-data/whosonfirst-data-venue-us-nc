@@ -2,13 +2,14 @@
   "id": 220126597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.475344,36.161263,-79.475344,36.161263",
     "geom:latitude":36.161263,
     "geom:longitude":-79.475344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3479 Danieley Water Wheel Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220126597,
-    "wof:lastmodified":1449074332,
+    "wof:lastmodified":1466644212,
     "wof:name":"Republic Waste Svc",
     "wof:parent_id":85826513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-79.475344,36.161263,-79.475344,36.161263],
-  "geometry": {"coordinates":[-79.475344,36.161263],"type":"Point"}
+  "bbox": [
+    -79.475344,
+    36.161263,
+    -79.475344,
+    36.161263
+],
+  "geometry": {"coordinates":[-79.47534400000001,36.161263],"type":"Point"}
 }

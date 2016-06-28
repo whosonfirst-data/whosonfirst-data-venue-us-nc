@@ -2,13 +2,14 @@
   "id": 252862277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.88344,34.211202,-77.88344,34.211202",
     "geom:latitude":34.211202,
     "geom:longitude":-77.88344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Treadwell St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252862277,
-    "wof:lastmodified":1449006551,
+    "wof:lastmodified":1466644589,
     "wof:name":"Hanover Regional Animal Hosp",
     "wof:parent_id":85842005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-77.88344,34.211202,-77.88344,34.211202],
-  "geometry": {"coordinates":[-77.88344,34.211202],"type":"Point"}
+  "bbox": [
+    -77.88344,
+    34.211202,
+    -77.88344,
+    34.211202
+],
+  "geometry": {"coordinates":[-77.88343999999999,34.211202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370501699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.470988,35.651148,-78.470988,35.651148",
     "geom:latitude":35.651148,
     "geom:longitude":-78.470988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11425 US Hwy 70 W",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370501699,
-    "wof:lastmodified":1449032500,
+    "wof:lastmodified":1466652575,
     "wof:name":"Tropical Breeze Tanning",
     "wof:parent_id":85850943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-78.470988,35.651148,-78.470988,35.651148],
-  "geometry": {"coordinates":[-78.470988,35.651148],"type":"Point"}
+  "bbox": [
+    -78.470988,
+    35.651148,
+    -78.470988,
+    35.651148
+],
+  "geometry": {"coordinates":[-78.47098800000001,35.651148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303710251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942881,35.975296,-79.942881,35.975296",
     "geom:latitude":35.975296,
     "geom:longitude":-79.942881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3208 Waterford Dr",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303710251,
-    "wof:lastmodified":1448998269,
+    "wof:lastmodified":1466653570,
     "wof:name":"Davis Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.942881,35.975296,-79.942881,35.975296],
+  "bbox": [
+    -79.942881,
+    35.975296,
+    -79.942881,
+    35.975296
+],
   "geometry": {"coordinates":[-79.942881,35.975296],"type":"Point"}
 }

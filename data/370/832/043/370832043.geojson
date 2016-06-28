@@ -2,13 +2,14 @@
   "id": 370832043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.569314,35.825523,-78.569314,35.825523",
     "geom:latitude":35.825523,
     "geom:longitude":-78.569314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3207 New Hope Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370832043,
-    "wof:lastmodified":1449029076,
+    "wof:lastmodified":1466656512,
     "wof:name":"Capital City Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-78.569314,35.825523,-78.569314,35.825523],
-  "geometry": {"coordinates":[-78.569314,35.825523],"type":"Point"}
+  "bbox": [
+    -78.569314,
+    35.825523,
+    -78.569314,
+    35.825523
+],
+  "geometry": {"coordinates":[-78.56931400000001,35.825523],"type":"Point"}
 }

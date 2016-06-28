@@ -2,13 +2,14 @@
   "id": 303208033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.88299,36.019763,-81.88299,36.019763",
     "geom:latitude":36.019763,
     "geom:longitude":-81.88299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 Old Jonas Ridge Rd",
     "sg:city":"Newland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303208033,
-    "wof:lastmodified":1448998405,
+    "wof:lastmodified":1466646332,
     "wof:name":"Vaughans Green House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental"
     ]
 },
-  "bbox": [-81.88299,36.019763,-81.88299,36.019763],
-  "geometry": {"coordinates":[-81.88299,36.019763],"type":"Point"}
+  "bbox": [
+    -81.88299,
+    36.019763,
+    -81.88299,
+    36.019763
+],
+  "geometry": {"coordinates":[-81.88299000000001,36.019763],"type":"Point"}
 }

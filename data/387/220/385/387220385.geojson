@@ -2,13 +2,14 @@
   "id": 387220385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.103513,34.311871,-78.103513,34.311871",
     "geom:latitude":34.311871,
     "geom:longitude":-78.103513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8660 Heirloom Dr NE",
     "sg:city":"Leland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387220385,
-    "wof:lastmodified":1449059784,
+    "wof:lastmodified":1466652778,
     "wof:name":"Homelife Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-78.103513,34.311871,-78.103513,34.311871],
-  "geometry": {"coordinates":[-78.103513,34.311871],"type":"Point"}
+  "bbox": [
+    -78.103513,
+    34.311871,
+    -78.103513,
+    34.311871
+],
+  "geometry": {"coordinates":[-78.10351300000001,34.311871],"type":"Point"}
 }

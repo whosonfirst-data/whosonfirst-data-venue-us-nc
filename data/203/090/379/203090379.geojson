@@ -2,13 +2,14 @@
   "id": 203090379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.478235,35.318514,-82.478235,35.318514",
     "geom:latitude":35.318514,
     "geom:longitude":-82.478235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"691 Blythe St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203090379,
-    "wof:lastmodified":1449026445,
+    "wof:lastmodified":1466654747,
     "wof:name":"Hendersonville Cardiology",
     "wof:parent_id":85821961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.478235,35.318514,-82.478235,35.318514],
+  "bbox": [
+    -82.478235,
+    35.318514,
+    -82.478235,
+    35.318514
+],
   "geometry": {"coordinates":[-82.478235,35.318514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286774709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.93394,36.039832,-78.93394,36.039832",
     "geom:latitude":36.039832,
     "geom:longitude":-78.93394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2240 Charlotte St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286774709,
-    "wof:lastmodified":1449016325,
+    "wof:lastmodified":1466650109,
     "wof:name":"Cox Plumbing",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.93394,36.039832,-78.93394,36.039832],
-  "geometry": {"coordinates":[-78.93394,36.039832],"type":"Point"}
+  "bbox": [
+    -78.93394,
+    36.039832,
+    -78.93394,
+    36.039832
+],
+  "geometry": {"coordinates":[-78.93394000000001,36.039832],"type":"Point"}
 }

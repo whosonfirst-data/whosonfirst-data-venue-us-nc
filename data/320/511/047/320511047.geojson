@@ -2,13 +2,14 @@
   "id": 320511047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.936789,35.033,-78.936789,35.033",
     "geom:latitude":35.033,
     "geom:longitude":-78.936789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3427 Melrose Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320511047,
-    "wof:lastmodified":1449012978,
+    "wof:lastmodified":1466652526,
     "wof:name":"Duke Children's Cardiology",
     "wof:parent_id":85877381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.936789,35.033,-78.936789,35.033],
+  "bbox": [
+    -78.936789,
+    35.033,
+    -78.936789,
+    35.033
+],
   "geometry": {"coordinates":[-78.936789,35.033],"type":"Point"}
 }

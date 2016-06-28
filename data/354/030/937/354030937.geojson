@@ -2,13 +2,14 @@
   "id": 354030937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.836109,34.211177,-77.836109,34.211177",
     "geom:latitude":34.211177,
     "geom:longitude":-77.836109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6329 Oleander Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354030937,
-    "wof:lastmodified":1449066536,
+    "wof:lastmodified":1466647905,
     "wof:name":"Commercial Realty Co",
     "wof:parent_id":85806997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-77.836109,34.211177,-77.836109,34.211177],
-  "geometry": {"coordinates":[-77.836109,34.211177],"type":"Point"}
+  "bbox": [
+    -77.836109,
+    34.211177,
+    -77.836109,
+    34.211177
+],
+  "geometry": {"coordinates":[-77.83610899999999,34.211177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253701845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.873258,36.230113,-75.873258,36.230113",
     "geom:latitude":36.230113,
     "geom:longitude":-75.873258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6615 Caratoke Hwy",
     "sg:city":"Grandy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253701845,
-    "wof:lastmodified":1449065142,
+    "wof:lastmodified":1466650764,
     "wof:name":"Walnut Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.873258,36.230113,-75.873258,36.230113],
-  "geometry": {"coordinates":[-75.873258,36.230113],"type":"Point"}
+  "bbox": [
+    -75.873258,
+    36.230113,
+    -75.873258,
+    36.230113
+],
+  "geometry": {"coordinates":[-75.87325800000001,36.230113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403822869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.948878,35.382279,-77.948878,35.382279",
     "geom:latitude":35.382279,
     "geom:longitude":-77.948878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Brookwood Ln",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403822869,
-    "wof:lastmodified":1449055912,
+    "wof:lastmodified":1466651894,
     "wof:name":"Christian Arts",
     "wof:parent_id":85844577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.948878,35.382279,-77.948878,35.382279],
-  "geometry": {"coordinates":[-77.948878,35.382279],"type":"Point"}
+  "bbox": [
+    -77.948878,
+    35.382279,
+    -77.948878,
+    35.382279
+],
+  "geometry": {"coordinates":[-77.94887799999999,35.382279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371100929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.357329,34.76352,-77.357329,34.76352",
     "geom:latitude":34.76352,
     "geom:longitude":-77.357329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Creedmoor Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371100929,
-    "wof:lastmodified":1449049823,
+    "wof:lastmodified":1466650093,
     "wof:name":"Jacksonville Heart PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-77.357329,34.76352,-77.357329,34.76352],
-  "geometry": {"coordinates":[-77.357329,34.76352],"type":"Point"}
+  "bbox": [
+    -77.357329,
+    34.76352,
+    -77.357329,
+    34.76352
+],
+  "geometry": {"coordinates":[-77.35732899999999,34.76352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320350109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.085697,35.949887,-79.085697,35.949887",
     "geom:latitude":35.949887,
     "geom:longitude":-79.085697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8401 Inverness Way",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320350109,
-    "wof:lastmodified":1449013159,
+    "wof:lastmodified":1466650210,
     "wof:name":"Jeffery J Fahs MD",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-79.085697,35.949887,-79.085697,35.949887],
+  "bbox": [
+    -79.085697,
+    35.949887,
+    -79.085697,
+    35.949887
+],
   "geometry": {"coordinates":[-79.085697,35.949887],"type":"Point"}
 }

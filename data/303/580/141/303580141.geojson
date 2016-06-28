@@ -2,13 +2,14 @@
   "id": 303580141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.511559,35.421508,-78.511559,35.421508",
     "geom:latitude":35.421508,
     "geom:longitude":-78.511559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 Woodall Dairy Rd",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303580141,
-    "wof:lastmodified":1448999765,
+    "wof:lastmodified":1466651668,
     "wof:name":"Ricky Byrd Masonry",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.511559,35.421508,-78.511559,35.421508],
-  "geometry": {"coordinates":[-78.511559,35.421508],"type":"Point"}
+  "bbox": [
+    -78.511559,
+    35.421508,
+    -78.511559,
+    35.421508
+],
+  "geometry": {"coordinates":[-78.51155900000001,35.421508],"type":"Point"}
 }

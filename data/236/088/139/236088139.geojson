@@ -2,13 +2,14 @@
   "id": 236088139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.475805,34.75917,-79.475805,34.75917",
     "geom:latitude":34.75917,
     "geom:longitude":-79.475805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Plaza Rd",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236088139,
-    "wof:lastmodified":1449004366,
+    "wof:lastmodified":1466644010,
     "wof:name":"Scottish Winds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-79.475805,34.75917,-79.475805,34.75917],
-  "geometry": {"coordinates":[-79.475805,34.75917],"type":"Point"}
+  "bbox": [
+    -79.475805,
+    34.75917,
+    -79.475805,
+    34.75917
+],
+  "geometry": {"coordinates":[-79.47580499999999,34.75917],"type":"Point"}
 }

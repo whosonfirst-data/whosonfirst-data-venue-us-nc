@@ -2,13 +2,14 @@
   "id": 303227383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.299512,36.098441,-78.299512,36.098441",
     "geom:latitude":36.098441,
     "geom:longitude":-78.299512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Nash St",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303227383,
-    "wof:lastmodified":1448998653,
+    "wof:lastmodified":1466646613,
     "wof:name":"This N' That",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-78.299512,36.098441,-78.299512,36.098441],
-  "geometry": {"coordinates":[-78.299512,36.098441],"type":"Point"}
+  "bbox": [
+    -78.299512,
+    36.098441,
+    -78.299512,
+    36.098441
+],
+  "geometry": {"coordinates":[-78.29951199999999,36.098441],"type":"Point"}
 }

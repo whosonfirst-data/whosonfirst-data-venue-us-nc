@@ -2,13 +2,14 @@
   "id": 371112649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.372521,35.730565,-81.372521,35.730565",
     "geom:latitude":35.730565,
     "geom:longitude":-81.372521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Main Ave NW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371112649,
-    "wof:lastmodified":1449049480,
+    "wof:lastmodified":1466650234,
     "wof:name":"K & K Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-81.372521,35.730565,-81.372521,35.730565],
-  "geometry": {"coordinates":[-81.372521,35.730565],"type":"Point"}
+  "bbox": [
+    -81.372521,
+    35.730565,
+    -81.372521,
+    35.730565
+],
+  "geometry": {"coordinates":[-81.37252100000001,35.730565],"type":"Point"}
 }

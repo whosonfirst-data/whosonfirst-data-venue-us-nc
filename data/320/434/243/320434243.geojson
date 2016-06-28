@@ -2,13 +2,14 @@
   "id": 320434243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.890938,36.190495,-79.890938,36.190495",
     "geom:latitude":36.190495,
     "geom:longitude":-79.890938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4553 US Hwy 220",
     "sg:city":"Summerfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320434243,
-    "wof:lastmodified":1449012067,
+    "wof:lastmodified":1466651414,
     "wof:name":"Dreamtree Gallery",
     "wof:parent_id":85877983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-79.890938,36.190495,-79.890938,36.190495],
-  "geometry": {"coordinates":[-79.890938,36.190495],"type":"Point"}
+  "bbox": [
+    -79.890938,
+    36.190495,
+    -79.890938,
+    36.190495
+],
+  "geometry": {"coordinates":[-79.89093800000001,36.190495],"type":"Point"}
 }

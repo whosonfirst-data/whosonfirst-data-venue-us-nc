@@ -2,13 +2,14 @@
   "id": 186551067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.012345,36.043533,-81.012345,36.043533",
     "geom:latitude":36.043533,
     "geom:longitude":-81.012345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"538 Oak Hollow Rd",
     "sg:city":"Union Grove",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186551067,
-    "wof:lastmodified":1449050944,
+    "wof:lastmodified":1466655907,
     "wof:name":"Last Day Revival",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-81.012345,36.043533,-81.012345,36.043533],
+  "bbox": [
+    -81.012345,
+    36.043533,
+    -81.012345,
+    36.043533
+],
   "geometry": {"coordinates":[-81.012345,36.043533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219871747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.790444,35.987974,-77.790444,35.987974",
     "geom:latitude":35.987974,
     "geom:longitude":-77.790444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Jeffreys Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219871747,
-    "wof:lastmodified":1449071553,
+    "wof:lastmodified":1466647769,
     "wof:name":"S C R East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-77.790444,35.987974,-77.790444,35.987974],
-  "geometry": {"coordinates":[-77.790444,35.987974],"type":"Point"}
+  "bbox": [
+    -77.790444,
+    35.987974,
+    -77.790444,
+    35.987974
+],
+  "geometry": {"coordinates":[-77.79044399999999,35.987974],"type":"Point"}
 }

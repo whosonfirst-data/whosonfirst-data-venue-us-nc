@@ -2,13 +2,14 @@
   "id": 303118415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.790421,35.010675,-80.790421,35.010675",
     "geom:latitude":35.010675,
     "geom:longitude":-80.790421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Foxfield Rd",
     "sg:city":"Waxhaw",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303118415,
-    "wof:lastmodified":1449000098,
+    "wof:lastmodified":1466644986,
     "wof:name":"Windows of Wonder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.790421,35.010675,-80.790421,35.010675],
-  "geometry": {"coordinates":[-80.790421,35.010675],"type":"Point"}
+  "bbox": [
+    -80.790421,
+    35.010675,
+    -80.790421,
+    35.010675
+],
+  "geometry": {"coordinates":[-80.79042099999999,35.010675],"type":"Point"}
 }

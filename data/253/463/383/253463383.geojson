@@ -2,13 +2,14 @@
   "id": 253463383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.740328,35.881115,-79.740328,35.881115",
     "geom:latitude":35.881115,
     "geom:longitude":-79.740328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2019 Brittany Trl",
     "sg:city":"Pleasant Garden",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253463383,
-    "wof:lastmodified":1449064895,
+    "wof:lastmodified":1466647910,
     "wof:name":"Thornburg Heating & Air Duct",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.740328,35.881115,-79.740328,35.881115],
-  "geometry": {"coordinates":[-79.740328,35.881115],"type":"Point"}
+  "bbox": [
+    -79.740328,
+    35.881115,
+    -79.740328,
+    35.881115
+],
+  "geometry": {"coordinates":[-79.74032800000001,35.881115],"type":"Point"}
 }

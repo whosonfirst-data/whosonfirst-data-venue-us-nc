@@ -2,13 +2,14 @@
   "id": 303518219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.743861,35.866995,-76.743861,35.866995",
     "geom:latitude":35.866995,
     "geom:longitude":-76.743861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 E 3rd St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303518219,
-    "wof:lastmodified":1448999503,
+    "wof:lastmodified":1466650783,
     "wof:name":"QDS Delivery & Trnsprtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-76.743861,35.866995,-76.743861,35.866995],
+  "bbox": [
+    -76.743861,
+    35.866995,
+    -76.743861,
+    35.866995
+],
   "geometry": {"coordinates":[-76.743861,35.866995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320775891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.622672,35.831986,-78.622672,35.831986",
     "geom:latitude":35.831986,
     "geom:longitude":-78.622672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Saint Albans Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320775891,
-    "wof:lastmodified":1449014018,
+    "wof:lastmodified":1466656107,
     "wof:name":"Telcove Inc",
     "wof:parent_id":85817003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-78.622672,35.831986,-78.622672,35.831986],
-  "geometry": {"coordinates":[-78.622672,35.831986],"type":"Point"}
+  "bbox": [
+    -78.622672,
+    35.831986,
+    -78.622672,
+    35.831986
+],
+  "geometry": {"coordinates":[-78.62267199999999,35.831986],"type":"Point"}
 }

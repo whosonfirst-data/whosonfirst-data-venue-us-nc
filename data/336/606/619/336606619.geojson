@@ -2,13 +2,14 @@
   "id": 336606619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.621406,35.774363,-78.621406,35.774363",
     "geom:latitude":35.774363,
     "geom:longitude":-78.621406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Rock Quarry Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336606619,
-    "wof:lastmodified":1448997110,
+    "wof:lastmodified":1466645927,
     "wof:name":"Raleigh National Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-78.621406,35.774363,-78.621406,35.774363],
-  "geometry": {"coordinates":[-78.621406,35.774363],"type":"Point"}
+  "bbox": [
+    -78.621406,
+    35.774363,
+    -78.621406,
+    35.774363
+],
+  "geometry": {"coordinates":[-78.62140599999999,35.774363],"type":"Point"}
 }

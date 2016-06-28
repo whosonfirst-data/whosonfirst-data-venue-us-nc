@@ -2,13 +2,14 @@
   "id": 303369121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.378852,35.379229,-81.378852,35.379229",
     "geom:latitude":35.379229,
     "geom:longitude":-81.378852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Main St",
     "sg:city":"Cherryville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303369121,
-    "wof:lastmodified":1449000440,
+    "wof:lastmodified":1466648634,
     "wof:name":"Carpenter's Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "shop"
     ]
 },
-  "bbox": [-81.378852,35.379229,-81.378852,35.379229],
-  "geometry": {"coordinates":[-81.378852,35.379229],"type":"Point"}
+  "bbox": [
+    -81.378852,
+    35.379229,
+    -81.378852,
+    35.379229
+],
+  "geometry": {"coordinates":[-81.37885199999999,35.379229],"type":"Point"}
 }

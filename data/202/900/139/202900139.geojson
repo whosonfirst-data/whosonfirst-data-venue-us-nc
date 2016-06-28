@@ -2,13 +2,14 @@
   "id": 202900139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.320631,35.328902,-78.320631,35.328902",
     "geom:latitude":35.328902,
     "geom:longitude":-78.320631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 Shaw's Pond Rd",
     "sg:city":"Four Oaks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202900139,
-    "wof:lastmodified":1449061209,
+    "wof:lastmodified":1466644948,
     "wof:name":"Phillip A Lee",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-78.320631,35.328902,-78.320631,35.328902],
-  "geometry": {"coordinates":[-78.320631,35.328902],"type":"Point"}
+  "bbox": [
+    -78.320631,
+    35.328902,
+    -78.320631,
+    35.328902
+],
+  "geometry": {"coordinates":[-78.32063100000001,35.328902],"type":"Point"}
 }

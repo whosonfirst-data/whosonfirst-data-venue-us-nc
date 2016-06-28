@@ -2,13 +2,14 @@
   "id": 336823287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.652155,35.791709,-78.652155,35.791709",
     "geom:latitude":35.791709,
     "geom:longitude":-78.652155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Saint Marys St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336823287,
-    "wof:lastmodified":1448997993,
+    "wof:lastmodified":1466649234,
     "wof:name":"Robert B Allen DDS",
     "wof:parent_id":85873453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-78.652155,35.791709,-78.652155,35.791709],
-  "geometry": {"coordinates":[-78.652155,35.791709],"type":"Point"}
+  "bbox": [
+    -78.652155,
+    35.791709,
+    -78.652155,
+    35.791709
+],
+  "geometry": {"coordinates":[-78.65215499999999,35.791709],"type":"Point"}
 }

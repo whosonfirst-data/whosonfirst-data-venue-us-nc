@@ -2,13 +2,14 @@
   "id": 236419599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.999463,34.617801,-78.999463,34.617801",
     "geom:latitude":34.617801,
     "geom:longitude":-78.999463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 E 2nd St",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236419599,
-    "wof:lastmodified":1449005176,
+    "wof:lastmodified":1466646900,
     "wof:name":"American Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-78.999463,34.617801,-78.999463,34.617801],
-  "geometry": {"coordinates":[-78.999463,34.617801],"type":"Point"}
+  "bbox": [
+    -78.999463,
+    34.617801,
+    -78.999463,
+    34.617801
+],
+  "geometry": {"coordinates":[-78.99946300000001,34.617801],"type":"Point"}
 }

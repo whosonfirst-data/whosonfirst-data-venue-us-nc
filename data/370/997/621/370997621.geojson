@@ -2,13 +2,14 @@
   "id": 370997621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.89808,35.385785,-81.89808,35.385785",
     "geom:latitude":35.385785,
     "geom:longitude":-81.89808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Bates Dr",
     "sg:city":"Forest City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370997621,
-    "wof:lastmodified":1449031873,
+    "wof:lastmodified":1466657297,
     "wof:name":"Bates Logging",
     "wof:parent_id":85817829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-81.89808,35.385785,-81.89808,35.385785],
-  "geometry": {"coordinates":[-81.89808,35.385785],"type":"Point"}
+  "bbox": [
+    -81.89808,
+    35.385785,
+    -81.89808,
+    35.385785
+],
+  "geometry": {"coordinates":[-81.89807999999999,35.385785],"type":"Point"}
 }

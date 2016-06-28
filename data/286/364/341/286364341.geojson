@@ -2,13 +2,14 @@
   "id": 286364341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.703944,35.589456,-79.703944,35.589456",
     "geom:latitude":35.589456,
     "geom:longitude":-79.703944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6155 Osborn Mill Rd",
     "sg:city":"Seagrove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286364341,
-    "wof:lastmodified":1449016833,
+    "wof:lastmodified":1466644568,
     "wof:name":"Hayes Farm",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-79.703944,35.589456,-79.703944,35.589456],
-  "geometry": {"coordinates":[-79.703944,35.589456],"type":"Point"}
+  "bbox": [
+    -79.703944,
+    35.589456,
+    -79.703944,
+    35.589456
+],
+  "geometry": {"coordinates":[-79.70394400000001,35.589456],"type":"Point"}
 }

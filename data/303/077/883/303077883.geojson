@@ -2,13 +2,14 @@
   "id": 303077883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.639787,35.7888,-78.639787,35.7888",
     "geom:latitude":35.7888,
     "geom:longitude":-78.639787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Seaboard Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303077883,
-    "wof:lastmodified":1448998508,
+    "wof:lastmodified":1466644365,
     "wof:name":"State Fire Commission",
     "wof:parent_id":85873465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "protection"
     ]
 },
-  "bbox": [-78.639787,35.7888,-78.639787,35.7888],
+  "bbox": [
+    -78.639787,
+    35.7888,
+    -78.639787,
+    35.7888
+],
   "geometry": {"coordinates":[-78.639787,35.7888],"type":"Point"}
 }

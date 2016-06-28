@@ -2,13 +2,14 @@
   "id": 270408395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.540613,35.778355,-78.540613,35.778355",
     "geom:latitude":35.778355,
     "geom:longitude":-78.540613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Robbins Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270408395,
-    "wof:lastmodified":1449008953,
+    "wof:lastmodified":1466648242,
     "wof:name":"Learning Services",
     "wof:parent_id":85892097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-78.540613,35.778355,-78.540613,35.778355],
-  "geometry": {"coordinates":[-78.540613,35.778355],"type":"Point"}
+  "bbox": [
+    -78.540613,
+    35.778355,
+    -78.540613,
+    35.778355
+],
+  "geometry": {"coordinates":[-78.54061299999999,35.778355],"type":"Point"}
 }

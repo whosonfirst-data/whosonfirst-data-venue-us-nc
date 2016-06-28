@@ -2,13 +2,14 @@
   "id": 320801415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.374843,35.870378,-81.374843,35.870378",
     "geom:latitude":35.870378,
     "geom:longitude":-81.374843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5145 Ebenezer Church Rd",
     "sg:city":"Granite Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320801415,
-    "wof:lastmodified":1449014311,
+    "wof:lastmodified":1466656511,
     "wof:name":"Ebenezer United Methodist Chr",
     "wof:parent_id":85822593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.374843,35.870378,-81.374843,35.870378],
+  "bbox": [
+    -81.374843,
+    35.870378,
+    -81.374843,
+    35.870378
+],
   "geometry": {"coordinates":[-81.374843,35.870378],"type":"Point"}
 }

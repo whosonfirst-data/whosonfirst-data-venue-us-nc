@@ -2,13 +2,14 @@
   "id": 303193501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.627209,35.859285,-77.627209,35.859285",
     "geom:latitude":35.859285,
     "geom:longitude":-77.627209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Cardinal Rd",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303193501,
-    "wof:lastmodified":1448998515,
+    "wof:lastmodified":1466646128,
     "wof:name":"Dudley Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-77.627209,35.859285,-77.627209,35.859285],
-  "geometry": {"coordinates":[-77.627209,35.859285],"type":"Point"}
+  "bbox": [
+    -77.627209,
+    35.859285,
+    -77.627209,
+    35.859285
+],
+  "geometry": {"coordinates":[-77.62720899999999,35.859285],"type":"Point"}
 }

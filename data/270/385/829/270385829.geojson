@@ -2,13 +2,14 @@
   "id": 270385829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.197302,35.05186,-83.197302,35.05186",
     "geom:latitude":35.05186,
     "geom:longitude":-83.197302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 S 4th St",
     "sg:city":"Highlands",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270385829,
-    "wof:lastmodified":1449010100,
+    "wof:lastmodified":1466647956,
     "wof:name":"Interior Enhancements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-83.197302,35.05186,-83.197302,35.05186],
-  "geometry": {"coordinates":[-83.197302,35.05186],"type":"Point"}
+  "bbox": [
+    -83.197302,
+    35.05186,
+    -83.197302,
+    35.05186
+],
+  "geometry": {"coordinates":[-83.19730199999999,35.05186],"type":"Point"}
 }

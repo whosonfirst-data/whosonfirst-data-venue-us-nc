@@ -2,13 +2,14 @@
   "id": 404057735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.588517,35.314312,-78.588517,35.314312",
     "geom:latitude":35.314312,
     "geom:longitude":-78.588517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Greenfield Dr",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404057735,
-    "wof:lastmodified":1449039659,
+    "wof:lastmodified":1466652029,
     "wof:name":"Greenfield Village Apartments",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-78.588517,35.314312,-78.588517,35.314312],
+  "bbox": [
+    -78.588517,
+    35.314312,
+    -78.588517,
+    35.314312
+],
   "geometry": {"coordinates":[-78.588517,35.314312],"type":"Point"}
 }

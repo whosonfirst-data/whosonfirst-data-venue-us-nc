@@ -2,13 +2,14 @@
   "id": 370417229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.7049,35.818008,-78.7049,35.818008",
     "geom:latitude":35.818008,
     "geom:longitude":-78.7049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Blue Ridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370417229,
-    "wof:lastmodified":1449030472,
+    "wof:lastmodified":1466651494,
     "wof:name":"Raleigh Children & Adolescents",
     "wof:parent_id":85833803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.7049,35.818008,-78.7049,35.818008],
-  "geometry": {"coordinates":[-78.7049,35.818008],"type":"Point"}
+  "bbox": [
+    -78.7049,
+    35.818008,
+    -78.7049,
+    35.818008
+],
+  "geometry": {"coordinates":[-78.70489999999999,35.818008],"type":"Point"}
 }

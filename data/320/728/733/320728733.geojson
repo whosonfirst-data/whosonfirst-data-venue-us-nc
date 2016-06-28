@@ -2,13 +2,14 @@
   "id": 320728733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.485818,36.07804,-79.485818,36.07804",
     "geom:latitude":36.07804,
     "geom:longitude":-79.485818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Huffman Mill Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320728733,
-    "wof:lastmodified":1449012132,
+    "wof:lastmodified":1466655664,
     "wof:name":"Gold Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-79.485818,36.07804,-79.485818,36.07804],
-  "geometry": {"coordinates":[-79.485818,36.07804],"type":"Point"}
+  "bbox": [
+    -79.485818,
+    36.07804,
+    -79.485818,
+    36.07804
+],
+  "geometry": {"coordinates":[-79.48581799999999,36.07804],"type":"Point"}
 }

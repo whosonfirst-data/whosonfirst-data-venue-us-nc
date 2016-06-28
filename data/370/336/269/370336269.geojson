@@ -2,13 +2,14 @@
   "id": 370336269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.862743,35.539649,-82.862743,35.539649",
     "geom:latitude":35.539649,
     "geom:longitude":-82.862743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Circle Dr",
     "sg:city":"Cullowhee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370336269,
-    "wof:lastmodified":1449029002,
+    "wof:lastmodified":1466650468,
     "wof:name":"Graham Health Svc",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.862743,35.539649,-82.862743,35.539649],
-  "geometry": {"coordinates":[-82.862743,35.539649],"type":"Point"}
+  "bbox": [
+    -82.862743,
+    35.539649,
+    -82.862743,
+    35.539649
+],
+  "geometry": {"coordinates":[-82.86274299999999,35.539649],"type":"Point"}
 }

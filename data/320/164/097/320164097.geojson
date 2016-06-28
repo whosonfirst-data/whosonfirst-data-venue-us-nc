@@ -2,13 +2,14 @@
   "id": 320164097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.266529,36.096948,-80.266529,36.096948",
     "geom:latitude":36.096948,
     "geom:longitude":-80.266529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Hawthorne Rd N",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320164097,
-    "wof:lastmodified":1449011691,
+    "wof:lastmodified":1466647597,
     "wof:name":"Alspaugh Properties LLC",
     "wof:parent_id":85808375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.266529,36.096948,-80.266529,36.096948],
-  "geometry": {"coordinates":[-80.266529,36.096948],"type":"Point"}
+  "bbox": [
+    -80.266529,
+    36.096948,
+    -80.266529,
+    36.096948
+],
+  "geometry": {"coordinates":[-80.26652900000001,36.096948],"type":"Point"}
 }

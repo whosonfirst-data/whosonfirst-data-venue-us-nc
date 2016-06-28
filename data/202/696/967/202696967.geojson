@@ -2,13 +2,14 @@
   "id": 202696967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.050613,35.915127,-79.050613,35.915127",
     "geom:latitude":35.915127,
     "geom:longitude":-79.050613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 E Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202696967,
-    "wof:lastmodified":1449060302,
+    "wof:lastmodified":1466643405,
     "wof:name":"Chi Omega",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-79.050613,35.915127,-79.050613,35.915127],
+  "bbox": [
+    -79.050613,
+    35.915127,
+    -79.050613,
+    35.915127
+],
   "geometry": {"coordinates":[-79.050613,35.915127],"type":"Point"}
 }

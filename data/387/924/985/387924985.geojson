@@ -2,13 +2,14 @@
   "id": 387924985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.971804,35.394549,-77.971804,35.394549",
     "geom:latitude":35.394549,
     "geom:longitude":-77.971804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Wayne Memorial Dr",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387924985,
-    "wof:lastmodified":1449057153,
+    "wof:lastmodified":1466658088,
     "wof:name":"Medstat Centre",
     "wof:parent_id":85825499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-77.971804,35.394549,-77.971804,35.394549],
-  "geometry": {"coordinates":[-77.971804,35.394549],"type":"Point"}
+  "bbox": [
+    -77.971804,
+    35.394549,
+    -77.971804,
+    35.394549
+],
+  "geometry": {"coordinates":[-77.97180400000001,35.394549],"type":"Point"}
 }

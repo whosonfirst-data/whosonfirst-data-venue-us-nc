@@ -2,13 +2,14 @@
   "id": 235963065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.895085,36.002491,-78.895085,36.002491",
     "geom:latitude":36.002491,
     "geom:longitude":-78.895085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 N Mangum St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235963065,
-    "wof:lastmodified":1449008315,
+    "wof:lastmodified":1466643485,
     "wof:name":"Glendale Apts",
     "wof:parent_id":85877169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.895085,36.002491,-78.895085,36.002491],
-  "geometry": {"coordinates":[-78.895085,36.002491],"type":"Point"}
+  "bbox": [
+    -78.895085,
+    36.002491,
+    -78.895085,
+    36.002491
+],
+  "geometry": {"coordinates":[-78.89508499999999,36.002491],"type":"Point"}
 }

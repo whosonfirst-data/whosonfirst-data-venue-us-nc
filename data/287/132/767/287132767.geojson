@@ -2,13 +2,14 @@
   "id": 287132767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.393543,36.087231,-80.393543,36.087231",
     "geom:latitude":36.087231,
     "geom:longitude":-80.393543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Fallbrook Ln",
     "sg:city":"Lewisville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287132767,
-    "wof:lastmodified":1449001086,
+    "wof:lastmodified":1466645153,
     "wof:name":"Lewisville Properties LLC",
     "wof:parent_id":85824065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.393543,36.087231,-80.393543,36.087231],
-  "geometry": {"coordinates":[-80.393543,36.087231],"type":"Point"}
+  "bbox": [
+    -80.393543,
+    36.087231,
+    -80.393543,
+    36.087231
+],
+  "geometry": {"coordinates":[-80.39354299999999,36.087231],"type":"Point"}
 }

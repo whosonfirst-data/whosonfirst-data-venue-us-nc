@@ -2,13 +2,14 @@
   "id": 253353129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.460952,33.960966,-78.460952,33.960966",
     "geom:latitude":33.960966,
     "geom:longitude":-78.460952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5731 Old Shallotte Rd NW",
     "sg:city":"Shallotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253353129,
-    "wof:lastmodified":1449063662,
+    "wof:lastmodified":1466646621,
     "wof:name":"Ridgeway Electrical",
     "wof:parent_id":85847599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.460952,33.960966,-78.460952,33.960966],
-  "geometry": {"coordinates":[-78.460952,33.960966],"type":"Point"}
+  "bbox": [
+    -78.460952,
+    33.960966,
+    -78.460952,
+    33.960966
+],
+  "geometry": {"coordinates":[-78.46095200000001,33.960966],"type":"Point"}
 }

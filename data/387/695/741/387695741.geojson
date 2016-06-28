@@ -2,13 +2,14 @@
   "id": 387695741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.561501,36.318127,-76.561501,36.318127",
     "geom:latitude":36.318127,
     "geom:longitude":-76.561501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Hickory Cross Rd",
     "sg:city":"Belvidere",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387695741,
-    "wof:lastmodified":1449057544,
+    "wof:lastmodified":1466657327,
     "wof:name":"Winslow Brothers",
     "wof:parent_id":85808463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.561501,36.318127,-76.561501,36.318127],
-  "geometry": {"coordinates":[-76.561501,36.318127],"type":"Point"}
+  "bbox": [
+    -76.561501,
+    36.318127,
+    -76.561501,
+    36.318127
+],
+  "geometry": {"coordinates":[-76.56150100000001,36.318127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303556831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.545595,34.900966,-77.545595,34.900966",
     "geom:latitude":34.900966,
     "geom:longitude":-77.545595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Wilmington St",
     "sg:city":"Richlands",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303556831,
-    "wof:lastmodified":1448998717,
+    "wof:lastmodified":1466651338,
     "wof:name":"C C Dance Academy Of Richlands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-77.545595,34.900966,-77.545595,34.900966],
-  "geometry": {"coordinates":[-77.545595,34.900966],"type":"Point"}
+  "bbox": [
+    -77.545595,
+    34.900966,
+    -77.545595,
+    34.900966
+],
+  "geometry": {"coordinates":[-77.54559500000001,34.900966],"type":"Point"}
 }

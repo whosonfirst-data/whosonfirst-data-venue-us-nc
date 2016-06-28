@@ -2,13 +2,14 @@
   "id": 336825853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.073843,36.11906,-80.073843,36.11906",
     "geom:latitude":36.11906,
     "geom:longitude":-80.073843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 S Main St",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336825853,
-    "wof:lastmodified":1448996953,
+    "wof:lastmodified":1466649269,
     "wof:name":"Lizzie's Herb Shop",
     "wof:parent_id":85852277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-80.073843,36.11906,-80.073843,36.11906],
+  "bbox": [
+    -80.073843,
+    36.11906,
+    -80.073843,
+    36.11906
+],
   "geometry": {"coordinates":[-80.073843,36.11906],"type":"Point"}
 }

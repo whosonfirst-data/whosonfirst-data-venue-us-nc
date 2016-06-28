@@ -2,13 +2,14 @@
   "id": 387005875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.539311,35.797395,-78.539311,35.797395",
     "geom:latitude":35.797395,
     "geom:longitude":-78.539311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5613 Beachwater Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387005875,
-    "wof:lastmodified":1449059609,
+    "wof:lastmodified":1466649948,
     "wof:name":"Mobile Access Computers",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sales"
     ]
 },
-  "bbox": [-78.539311,35.797395,-78.539311,35.797395],
+  "bbox": [
+    -78.539311,
+    35.797395,
+    -78.539311,
+    35.797395
+],
   "geometry": {"coordinates":[-78.539311,35.797395],"type":"Point"}
 }

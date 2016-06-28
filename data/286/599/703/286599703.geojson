@@ -2,13 +2,14 @@
   "id": 286599703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.959552,36.387485,-79.959552,36.387485",
     "geom:latitude":36.387485,
     "geom:longitude":-79.959552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Market St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286599703,
-    "wof:lastmodified":1449016553,
+    "wof:lastmodified":1466647721,
     "wof:name":"Madison House",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.959552,36.387485,-79.959552,36.387485],
+  "bbox": [
+    -79.959552,
+    36.387485,
+    -79.959552,
+    36.387485
+],
   "geometry": {"coordinates":[-79.959552,36.387485],"type":"Point"}
 }

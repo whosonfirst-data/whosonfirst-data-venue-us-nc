@@ -2,13 +2,14 @@
   "id": 269975299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.686332,35.745419,-81.686332,35.745419",
     "geom:latitude":35.745419,
     "geom:longitude":-81.686332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Green St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269975299,
-    "wof:lastmodified":1449038512,
+    "wof:lastmodified":1466649048,
     "wof:name":"Clerk Of Superior Crt Chld Spt",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.686332,35.745419,-81.686332,35.745419],
-  "geometry": {"coordinates":[-81.686332,35.745419],"type":"Point"}
+  "bbox": [
+    -81.686332,
+    35.745419,
+    -81.686332,
+    35.745419
+],
+  "geometry": {"coordinates":[-81.68633199999999,35.745419],"type":"Point"}
 }

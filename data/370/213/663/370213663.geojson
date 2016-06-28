@@ -2,13 +2,14 @@
   "id": 370213663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.375796,34.795986,-77.375796,34.795986",
     "geom:latitude":34.795986,
     "geom:longitude":-77.375796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Drummer Kellum Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370213663,
-    "wof:lastmodified":1449029106,
+    "wof:lastmodified":1466648934,
     "wof:name":"Jak Builders",
     "wof:parent_id":85839091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-77.375796,34.795986,-77.375796,34.795986],
-  "geometry": {"coordinates":[-77.375796,34.795986],"type":"Point"}
+  "bbox": [
+    -77.375796,
+    34.795986,
+    -77.375796,
+    34.795986
+],
+  "geometry": {"coordinates":[-77.37579599999999,34.795986],"type":"Point"}
 }

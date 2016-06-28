@@ -2,13 +2,14 @@
   "id": 253504003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.40919,36.523398,-81.40919,36.523398",
     "geom:latitude":36.523398,
     "geom:longitude":-81.40919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Willow Halsey Mtn Rd",
     "sg:city":"Grassy Creek",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253504003,
-    "wof:lastmodified":1449063338,
+    "wof:lastmodified":1466648423,
     "wof:name":"H & R Concrete Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pumping"
     ]
 },
-  "bbox": [-81.40919,36.523398,-81.40919,36.523398],
+  "bbox": [
+    -81.40919,
+    36.523398,
+    -81.40919,
+    36.523398
+],
   "geometry": {"coordinates":[-81.40919,36.523398],"type":"Point"}
 }

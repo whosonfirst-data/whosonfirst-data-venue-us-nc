@@ -2,13 +2,14 @@
   "id": 236857073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.89542,34.747389,-76.89542,34.747389",
     "geom:latitude":34.747389,
     "geom:longitude":-76.89542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Owl Dr",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236857073,
-    "wof:lastmodified":1449003861,
+    "wof:lastmodified":1466650895,
     "wof:name":"Eastern Marine Svc",
     "wof:parent_id":85850491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-76.89542,34.747389,-76.89542,34.747389],
+  "bbox": [
+    -76.89542,
+    34.747389,
+    -76.89542,
+    34.747389
+],
   "geometry": {"coordinates":[-76.89542,34.747389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404148899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.838771,35.557378,-80.838771,35.557378",
     "geom:latitude":35.557378,
     "geom:longitude":-80.838771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1653 Mecklenburg Hwy",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404148899,
-    "wof:lastmodified":1449040129,
+    "wof:lastmodified":1466653173,
     "wof:name":"Buttery & Beanery",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.838771,35.557378,-80.838771,35.557378],
-  "geometry": {"coordinates":[-80.838771,35.557378],"type":"Point"}
+  "bbox": [
+    -80.838771,
+    35.557378,
+    -80.838771,
+    35.557378
+],
+  "geometry": {"coordinates":[-80.83877099999999,35.557378],"type":"Point"}
 }

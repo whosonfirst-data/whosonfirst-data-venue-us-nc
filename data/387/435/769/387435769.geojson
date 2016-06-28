@@ -2,13 +2,14 @@
   "id": 387435769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.898287,36.350025,-80.898287,36.350025",
     "geom:latitude":36.350025,
     "geom:longitude":-80.898287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Thurmond Rd",
     "sg:city":"State Road",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387435769,
-    "wof:lastmodified":1449059563,
+    "wof:lastmodified":1466655572,
     "wof:name":"Southard Dallas Enterprise",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.898287,36.350025,-80.898287,36.350025],
+  "bbox": [
+    -80.898287,
+    36.350025,
+    -80.898287,
+    36.350025
+],
   "geometry": {"coordinates":[-80.898287,36.350025],"type":"Point"}
 }

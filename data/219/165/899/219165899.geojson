@@ -2,13 +2,14 @@
   "id": 219165899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.376246,33.918284,-78.376246,33.918284",
     "geom:latitude":33.918284,
     "geom:longitude":-78.376246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Shallotte Point Loop Rd SW",
     "sg:city":"South Brunswick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219165899,
-    "wof:lastmodified":1449073924,
+    "wof:lastmodified":1466655179,
     "wof:name":"Crary School",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.376246,33.918284,-78.376246,33.918284],
-  "geometry": {"coordinates":[-78.376246,33.918284],"type":"Point"}
+  "bbox": [
+    -78.376246,
+    33.918284,
+    -78.376246,
+    33.918284
+],
+  "geometry": {"coordinates":[-78.37624599999999,33.918284],"type":"Point"}
 }

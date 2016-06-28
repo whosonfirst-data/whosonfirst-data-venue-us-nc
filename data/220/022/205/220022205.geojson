@@ -2,13 +2,14 @@
   "id": 220022205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036924,35.95562,-80.036924,35.95562",
     "geom:latitude":35.95562,
     "geom:longitude":-80.036924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1056 Cantering Rd",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220022205,
-    "wof:lastmodified":1449074286,
+    "wof:lastmodified":1466643392,
     "wof:name":"Geographic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-80.036924,35.95562,-80.036924,35.95562],
+  "bbox": [
+    -80.036924,
+    35.95562,
+    -80.036924,
+    35.95562
+],
   "geometry": {"coordinates":[-80.036924,35.95562],"type":"Point"}
 }

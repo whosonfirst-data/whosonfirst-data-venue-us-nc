@@ -2,13 +2,14 @@
   "id": 387117453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.382004,36.023663,-80.382004,36.023663",
     "geom:latitude":36.023663,
     "geom:longitude":-80.382004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 Lewisville Clemmons Rd",
     "sg:city":"Clemmons",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387117453,
-    "wof:lastmodified":1449058694,
+    "wof:lastmodified":1466651380,
     "wof:name":"Model Cleaners",
     "wof:parent_id":85845791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.382004,36.023663,-80.382004,36.023663],
-  "geometry": {"coordinates":[-80.382004,36.023663],"type":"Point"}
+  "bbox": [
+    -80.382004,
+    36.023663,
+    -80.382004,
+    36.023663
+],
+  "geometry": {"coordinates":[-80.38200399999999,36.023663],"type":"Point"}
 }

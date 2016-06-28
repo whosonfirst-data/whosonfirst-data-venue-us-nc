@@ -2,13 +2,14 @@
   "id": 303139573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.925744,35.820079,-82.925744,35.820079",
     "geom:latitude":35.820079,
     "geom:longitude":-82.925744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1444 Roaring Fork Rd",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303139573,
-    "wof:lastmodified":1448998352,
+    "wof:lastmodified":1466645312,
     "wof:name":"Roaring Fork Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-82.925744,35.820079,-82.925744,35.820079],
-  "geometry": {"coordinates":[-82.925744,35.820079],"type":"Point"}
+  "bbox": [
+    -82.925744,
+    35.820079,
+    -82.925744,
+    35.820079
+],
+  "geometry": {"coordinates":[-82.92574399999999,35.820079],"type":"Point"}
 }

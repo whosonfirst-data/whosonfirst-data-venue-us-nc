@@ -2,13 +2,14 @@
   "id": 336699051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.020316,33.921569,-78.020316,33.921569",
     "geom:latitude":33.921569,
     "geom:longitude":-78.020316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N Howe St",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336699051,
-    "wof:lastmodified":1448997079,
+    "wof:lastmodified":1466647349,
     "wof:name":"Le Clers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.020316,33.921569,-78.020316,33.921569],
-  "geometry": {"coordinates":[-78.020316,33.921569],"type":"Point"}
+  "bbox": [
+    -78.020316,
+    33.921569,
+    -78.020316,
+    33.921569
+],
+  "geometry": {"coordinates":[-78.02031599999999,33.921569],"type":"Point"}
 }

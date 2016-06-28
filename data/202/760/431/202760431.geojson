@@ -2,13 +2,14 @@
   "id": 202760431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.104771,36.211502,-81.104771,36.211502",
     "geom:latitude":36.211502,
     "geom:longitude":-81.104771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Airport Rd",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202760431,
-    "wof:lastmodified":1449062546,
+    "wof:lastmodified":1466643875,
     "wof:name":"Heritage Motors",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.104771,36.211502,-81.104771,36.211502],
+  "bbox": [
+    -81.104771,
+    36.211502,
+    -81.104771,
+    36.211502
+],
   "geometry": {"coordinates":[-81.104771,36.211502],"type":"Point"}
 }

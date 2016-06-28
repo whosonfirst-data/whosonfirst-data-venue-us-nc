@@ -2,13 +2,14 @@
   "id": 303072377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.471395,35.679198,-80.471395,35.679198",
     "geom:latitude":35.679198,
     "geom:longitude":-80.471395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Mocksville Ave",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303072377,
-    "wof:lastmodified":1448999411,
+    "wof:lastmodified":1466644286,
     "wof:name":"Home Health Professionals",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-80.471395,35.679198,-80.471395,35.679198],
+  "bbox": [
+    -80.471395,
+    35.679198,
+    -80.471395,
+    35.679198
+],
   "geometry": {"coordinates":[-80.471395,35.679198],"type":"Point"}
 }

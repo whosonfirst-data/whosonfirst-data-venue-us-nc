@@ -2,13 +2,14 @@
   "id": 320010311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.243873,35.798739,-80.243873,35.798739",
     "geom:latitude":35.798739,
     "geom:longitude":-80.243873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Partridge Ln",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320010311,
-    "wof:lastmodified":1449013578,
+    "wof:lastmodified":1466645501,
     "wof:name":"Dan Webb Inc",
     "wof:parent_id":85833799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-80.243873,35.798739,-80.243873,35.798739],
-  "geometry": {"coordinates":[-80.243873,35.798739],"type":"Point"}
+  "bbox": [
+    -80.243873,
+    35.798739,
+    -80.243873,
+    35.798739
+],
+  "geometry": {"coordinates":[-80.24387299999999,35.798739],"type":"Point"}
 }

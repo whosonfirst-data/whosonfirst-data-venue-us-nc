@@ -2,13 +2,14 @@
   "id": 353600419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.861128,35.047418,-78.861128,35.047418",
     "geom:latitude":35.047418,
     "geom:longitude":-78.861128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Person St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353600419,
-    "wof:lastmodified":1449018495,
+    "wof:lastmodified":1466649428,
     "wof:name":"Sentry Security Systems",
     "wof:parent_id":85825067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-78.861128,35.047418,-78.861128,35.047418],
-  "geometry": {"coordinates":[-78.861128,35.047418],"type":"Point"}
+  "bbox": [
+    -78.861128,
+    35.047418,
+    -78.861128,
+    35.047418
+],
+  "geometry": {"coordinates":[-78.86112799999999,35.047418],"type":"Point"}
 }

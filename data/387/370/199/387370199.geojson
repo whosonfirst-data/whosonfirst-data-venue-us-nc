@@ -2,13 +2,14 @@
   "id": 387370199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.492145,35.587305,-82.492145,35.587305",
     "geom:latitude":35.587305,
     "geom:longitude":-82.492145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Tunnel Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387370199,
-    "wof:lastmodified":1449058185,
+    "wof:lastmodified":1466654725,
     "wof:name":"Smith's Pool Svc",
     "wof:parent_id":85839923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-82.492145,35.587305,-82.492145,35.587305],
-  "geometry": {"coordinates":[-82.492145,35.587305],"type":"Point"}
+  "bbox": [
+    -82.492145,
+    35.587305,
+    -82.492145,
+    35.587305
+],
+  "geometry": {"coordinates":[-82.49214499999999,35.587305],"type":"Point"}
 }

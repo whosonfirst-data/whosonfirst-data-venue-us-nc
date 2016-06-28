@@ -2,13 +2,14 @@
   "id": 303567761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.960028,34.965807,-77.960028,34.965807",
     "geom:latitude":34.965807,
     "geom:longitude":-77.960028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 State Rd 903",
     "sg:city":"Kenansville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303567761,
-    "wof:lastmodified":1449000585,
+    "wof:lastmodified":1466651489,
     "wof:name":"Jones Tire Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-77.960028,34.965807,-77.960028,34.965807],
-  "geometry": {"coordinates":[-77.960028,34.965807],"type":"Point"}
+  "bbox": [
+    -77.960028,
+    34.965807,
+    -77.960028,
+    34.965807
+],
+  "geometry": {"coordinates":[-77.96002799999999,34.965807],"type":"Point"}
 }

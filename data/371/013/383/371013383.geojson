@@ -2,13 +2,14 @@
   "id": 371013383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.169423,35.856173,-80.169423,35.856173",
     "geom:latitude":35.856173,
     "geom:longitude":-80.169423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Old US Hwy 29",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371013383,
-    "wof:lastmodified":1449049763,
+    "wof:lastmodified":1466649004,
     "wof:name":"Strickland's Woodwork",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "woodworker"
     ]
 },
-  "bbox": [-80.169423,35.856173,-80.169423,35.856173],
-  "geometry": {"coordinates":[-80.169423,35.856173],"type":"Point"}
+  "bbox": [
+    -80.169423,
+    35.856173,
+    -80.169423,
+    35.856173
+],
+  "geometry": {"coordinates":[-80.16942299999999,35.856173],"type":"Point"}
 }

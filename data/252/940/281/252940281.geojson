@@ -2,13 +2,14 @@
   "id": 252940281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.890549,35.520012,-80.890549,35.520012",
     "geom:latitude":35.520012,
     "geom:longitude":-80.890549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Langtree Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252940281,
-    "wof:lastmodified":1449005694,
+    "wof:lastmodified":1466645323,
     "wof:name":"Pets R Home",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.890549,35.520012,-80.890549,35.520012],
-  "geometry": {"coordinates":[-80.890549,35.520012],"type":"Point"}
+  "bbox": [
+    -80.890549,
+    35.520012,
+    -80.890549,
+    35.520012
+],
+  "geometry": {"coordinates":[-80.89054899999999,35.520012],"type":"Point"}
 }

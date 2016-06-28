@@ -2,13 +2,14 @@
   "id": 387854623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.550975,34.980163,-80.550975,34.980163",
     "geom:latitude":34.980163,
     "geom:longitude":-80.550975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Stewart St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387854623,
-    "wof:lastmodified":1449059779,
+    "wof:lastmodified":1466657872,
     "wof:name":"Monroe Monuments",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-80.550975,34.980163,-80.550975,34.980163],
-  "geometry": {"coordinates":[-80.550975,34.980163],"type":"Point"}
+  "bbox": [
+    -80.550975,
+    34.980163,
+    -80.550975,
+    34.980163
+],
+  "geometry": {"coordinates":[-80.55097499999999,34.980163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403750585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422091,35.290906,-82.422091,35.290906",
     "geom:latitude":35.290906,
     "geom:longitude":-82.422091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 Old Spartanburg Rd",
     "sg:city":"East Flat Rock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403750585,
-    "wof:lastmodified":1449055465,
+    "wof:lastmodified":1466650944,
     "wof:name":"First Citizens Bank",
     "wof:parent_id":85819569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.422091,35.290906,-82.422091,35.290906],
-  "geometry": {"coordinates":[-82.422091,35.290906],"type":"Point"}
+  "bbox": [
+    -82.422091,
+    35.290906,
+    -82.422091,
+    35.290906
+],
+  "geometry": {"coordinates":[-82.42209099999999,35.290906],"type":"Point"}
 }

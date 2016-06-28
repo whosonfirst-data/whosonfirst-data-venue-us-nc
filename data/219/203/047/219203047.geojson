@@ -2,13 +2,14 @@
   "id": 219203047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.045325,35.115628,-77.045325,35.115628",
     "geom:latitude":35.115628,
     "geom:longitude":-77.045325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 George St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219203047,
-    "wof:lastmodified":1449071964,
+    "wof:lastmodified":1466655384,
     "wof:name":"Carolina Foundation Repairs",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "foundation"
     ]
 },
-  "bbox": [-77.045325,35.115628,-77.045325,35.115628],
-  "geometry": {"coordinates":[-77.045325,35.115628],"type":"Point"}
+  "bbox": [
+    -77.045325,
+    35.115628,
+    -77.045325,
+    35.115628
+],
+  "geometry": {"coordinates":[-77.04532500000001,35.115628],"type":"Point"}
 }

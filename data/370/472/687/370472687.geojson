@@ -2,13 +2,14 @@
   "id": 370472687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.056709,35.914069,-79.056709,35.914069",
     "geom:latitude":35.914069,
     "geom:longitude":-79.056709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 W Rosemary St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370472687,
-    "wof:lastmodified":1449029347,
+    "wof:lastmodified":1466652207,
     "wof:name":"Arts Europe",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-79.056709,35.914069,-79.056709,35.914069],
+  "bbox": [
+    -79.056709,
+    35.914069,
+    -79.056709,
+    35.914069
+],
   "geometry": {"coordinates":[-79.056709,35.914069],"type":"Point"}
 }

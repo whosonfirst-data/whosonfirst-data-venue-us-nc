@@ -2,13 +2,14 @@
   "id": 387188065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.44299,36.451318,-78.44299,36.451318",
     "geom:latitude":36.451318,
     "geom:longitude":-78.44299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"874 Rice Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387188065,
-    "wof:lastmodified":1449057996,
+    "wof:lastmodified":1466652332,
     "wof:name":"Tree Choppers Residential Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-78.44299,36.451318,-78.44299,36.451318],
-  "geometry": {"coordinates":[-78.44299,36.451318],"type":"Point"}
+  "bbox": [
+    -78.44299,
+    36.451318,
+    -78.44299,
+    36.451318
+],
+  "geometry": {"coordinates":[-78.44298999999999,36.451318],"type":"Point"}
 }

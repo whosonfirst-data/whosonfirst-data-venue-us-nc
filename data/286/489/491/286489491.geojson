@@ -2,13 +2,14 @@
   "id": 286489491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945936,34.191564,-77.945936,34.191564",
     "geom:latitude":34.191564,
     "geom:longitude":-77.945936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Florida Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286489491,
-    "wof:lastmodified":1449016788,
+    "wof:lastmodified":1466646200,
     "wof:name":"STG Transport Inc",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "intrastate"
     ]
 },
-  "bbox": [-77.945936,34.191564,-77.945936,34.191564],
+  "bbox": [
+    -77.945936,
+    34.191564,
+    -77.945936,
+    34.191564
+],
   "geometry": {"coordinates":[-77.945936,34.191564],"type":"Point"}
 }

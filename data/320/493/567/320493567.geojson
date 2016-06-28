@@ -2,13 +2,14 @@
   "id": 320493567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.821598,34.222916,-77.821598,34.222916",
     "geom:latitude":34.222916,
     "geom:longitude":-77.821598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Eastwood Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320493567,
-    "wof:lastmodified":1449012459,
+    "wof:lastmodified":1466652269,
     "wof:name":"Alligator Pie",
     "wof:parent_id":85830827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [-77.821598,34.222916,-77.821598,34.222916],
-  "geometry": {"coordinates":[-77.821598,34.222916],"type":"Point"}
+  "bbox": [
+    -77.821598,
+    34.222916,
+    -77.821598,
+    34.222916
+],
+  "geometry": {"coordinates":[-77.82159799999999,34.222916],"type":"Point"}
 }

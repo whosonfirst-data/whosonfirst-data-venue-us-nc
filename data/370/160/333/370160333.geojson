@@ -2,13 +2,14 @@
   "id": 370160333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.833497,34.296005,-77.833497,34.296005",
     "geom:latitude":34.296005,
     "geom:longitude":-77.833497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Spaniel Ct",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370160333,
-    "wof:lastmodified":1449031932,
+    "wof:lastmodified":1466648245,
     "wof:name":"Royal Landscapes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.833497,34.296005,-77.833497,34.296005],
-  "geometry": {"coordinates":[-77.833497,34.296005],"type":"Point"}
+  "bbox": [
+    -77.833497,
+    34.296005,
+    -77.833497,
+    34.296005
+],
+  "geometry": {"coordinates":[-77.83349699999999,34.296005],"type":"Point"}
 }

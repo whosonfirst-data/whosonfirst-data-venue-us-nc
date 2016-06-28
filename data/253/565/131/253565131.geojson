@@ -2,13 +2,14 @@
   "id": 253565131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.345487,35.130187,-78.345487,35.130187",
     "geom:latitude":35.130187,
     "geom:longitude":-78.345487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Simmons Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253565131,
-    "wof:lastmodified":1449065523,
+    "wof:lastmodified":1466649143,
     "wof:name":"Honeycutt Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-78.345487,35.130187,-78.345487,35.130187],
-  "geometry": {"coordinates":[-78.345487,35.130187],"type":"Point"}
+  "bbox": [
+    -78.345487,
+    35.130187,
+    -78.345487,
+    35.130187
+],
+  "geometry": {"coordinates":[-78.34548700000001,35.130187],"type":"Point"}
 }

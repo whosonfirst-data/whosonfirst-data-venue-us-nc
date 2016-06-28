@@ -2,13 +2,14 @@
   "id": 253587593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.652628,35.806266,-78.652628,35.806266",
     "geom:latitude":35.806266,
     "geom:longitude":-78.652628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 Cowper Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253587593,
-    "wof:lastmodified":1449063839,
+    "wof:lastmodified":1466649431,
     "wof:name":"Southern Structural Solutions",
     "wof:parent_id":85824345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.652628,35.806266,-78.652628,35.806266],
-  "geometry": {"coordinates":[-78.652628,35.806266],"type":"Point"}
+  "bbox": [
+    -78.652628,
+    35.806266,
+    -78.652628,
+    35.806266
+],
+  "geometry": {"coordinates":[-78.65262800000001,35.806266],"type":"Point"}
 }

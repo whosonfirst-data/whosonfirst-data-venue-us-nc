@@ -2,13 +2,14 @@
   "id": 370160077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.007505,34.619299,-79.007505,34.619299",
     "geom:latitude":34.619299,
     "geom:longitude":-79.007505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 E 4th St",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370160077,
-    "wof:lastmodified":1449031930,
+    "wof:lastmodified":1466648243,
     "wof:name":"White Directory Publishers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-79.007505,34.619299,-79.007505,34.619299],
-  "geometry": {"coordinates":[-79.007505,34.619299],"type":"Point"}
+  "bbox": [
+    -79.007505,
+    34.619299,
+    -79.007505,
+    34.619299
+],
+  "geometry": {"coordinates":[-79.00750499999999,34.619299],"type":"Point"}
 }

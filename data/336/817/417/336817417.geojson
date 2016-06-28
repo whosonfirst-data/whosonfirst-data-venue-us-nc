@@ -2,13 +2,14 @@
   "id": 336817417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.881281,34.736515,-76.881281,34.736515",
     "geom:latitude":34.736515,
     "geom:longitude":-76.881281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Pete Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336817417,
-    "wof:lastmodified":1448997820,
+    "wof:lastmodified":1466649145,
     "wof:name":"Rouse's Septic Tank Svc",
     "wof:parent_id":85850491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-76.881281,34.736515,-76.881281,34.736515],
+  "bbox": [
+    -76.881281,
+    34.736515,
+    -76.881281,
+    34.736515
+],
   "geometry": {"coordinates":[-76.881281,34.736515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252831721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.843629,34.28344,-77.843629,34.28344",
     "geom:latitude":34.28344,
     "geom:longitude":-77.843629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6723 Alamosa Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252831721,
-    "wof:lastmodified":1449006063,
+    "wof:lastmodified":1466644318,
     "wof:name":"Carolina Organ Procurement",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "organ"
     ]
 },
-  "bbox": [-77.843629,34.28344,-77.843629,34.28344],
-  "geometry": {"coordinates":[-77.843629,34.28344],"type":"Point"}
+  "bbox": [
+    -77.843629,
+    34.28344,
+    -77.843629,
+    34.28344
+],
+  "geometry": {"coordinates":[-77.84362900000001,34.28344],"type":"Point"}
 }

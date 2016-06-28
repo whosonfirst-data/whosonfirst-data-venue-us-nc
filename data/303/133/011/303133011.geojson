@@ -2,13 +2,14 @@
   "id": 303133011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.003052,35.478228,-83.003052,35.478228",
     "geom:latitude":35.478228,
     "geom:longitude":-83.003052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"448 Hazelwood Ave",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303133011,
-    "wof:lastmodified":1449000141,
+    "wof:lastmodified":1466645210,
     "wof:name":"Shindigs",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-83.003052,35.478228,-83.003052,35.478228],
+  "bbox": [
+    -83.003052,
+    35.478228,
+    -83.003052,
+    35.478228
+],
   "geometry": {"coordinates":[-83.003052,35.478228],"type":"Point"}
 }

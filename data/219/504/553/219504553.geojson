@@ -2,13 +2,14 @@
   "id": 219504553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.815047,35.752517,-78.815047,35.752517",
     "geom:latitude":35.752517,
     "geom:longitude":-78.815047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Dalrymple Ln",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219504553,
-    "wof:lastmodified":1449071007,
+    "wof:lastmodified":1466644926,
     "wof:name":"McGehee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.815047,35.752517,-78.815047,35.752517],
-  "geometry": {"coordinates":[-78.815047,35.752517],"type":"Point"}
+  "bbox": [
+    -78.815047,
+    35.752517,
+    -78.815047,
+    35.752517
+],
+  "geometry": {"coordinates":[-78.81504700000001,35.752517],"type":"Point"}
 }

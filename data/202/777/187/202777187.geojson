@@ -2,13 +2,14 @@
   "id": 202777187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.935989,35.13679,-80.935989,35.13679",
     "geom:latitude":35.13679,
     "geom:longitude":-80.935989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Cambridge Beltway Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202777187,
-    "wof:lastmodified":1449061443,
+    "wof:lastmodified":1466643988,
     "wof:name":"Stiles Corporation",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-80.935989,35.13679,-80.935989,35.13679],
-  "geometry": {"coordinates":[-80.935989,35.13679],"type":"Point"}
+  "bbox": [
+    -80.935989,
+    35.13679,
+    -80.935989,
+    35.13679
+],
+  "geometry": {"coordinates":[-80.93598900000001,35.13679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303886717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.393211,35.640103,-77.393211,35.640103",
     "geom:latitude":35.640103,
     "geom:longitude":-77.393211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1581 Charter Dr",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303886717,
-    "wof:lastmodified":1448999472,
+    "wof:lastmodified":1466656076,
     "wof:name":"Jane's Handmade Craft",
     "wof:parent_id":85823111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-77.393211,35.640103,-77.393211,35.640103],
-  "geometry": {"coordinates":[-77.393211,35.640103],"type":"Point"}
+  "bbox": [
+    -77.393211,
+    35.640103,
+    -77.393211,
+    35.640103
+],
+  "geometry": {"coordinates":[-77.39321099999999,35.640103],"type":"Point"}
 }

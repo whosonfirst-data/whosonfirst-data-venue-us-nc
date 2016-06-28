@@ -2,13 +2,14 @@
   "id": 303926803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.807568,35.887779,-79.807568,35.887779",
     "geom:latitude":35.887779,
     "geom:longitude":-79.807568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10169 US Hwy 220 Bus N",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303926803,
-    "wof:lastmodified":1448998973,
+    "wof:lastmodified":1466656255,
     "wof:name":"Level Cross Baptist Church",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.807568,35.887779,-79.807568,35.887779],
+  "bbox": [
+    -79.807568,
+    35.887779,
+    -79.807568,
+    35.887779
+],
   "geometry": {"coordinates":[-79.807568,35.887779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252756089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.873505,36.005705,-78.873505,36.005705",
     "geom:latitude":36.005705,
     "geom:longitude":-78.873505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 E Geer St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252756089,
-    "wof:lastmodified":1449006075,
+    "wof:lastmodified":1466643645,
     "wof:name":"Durham Creamation Svc",
     "wof:parent_id":85877169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crematory"
     ]
 },
-  "bbox": [-78.873505,36.005705,-78.873505,36.005705],
-  "geometry": {"coordinates":[-78.873505,36.005705],"type":"Point"}
+  "bbox": [
+    -78.873505,
+    36.005705,
+    -78.873505,
+    36.005705
+],
+  "geometry": {"coordinates":[-78.87350499999999,36.005705],"type":"Point"}
 }

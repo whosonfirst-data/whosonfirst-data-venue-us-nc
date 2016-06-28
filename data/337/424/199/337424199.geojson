@@ -2,13 +2,14 @@
   "id": 337424199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.845997,35.345923,-80.845997,35.345923",
     "geom:latitude":35.345923,
     "geom:longitude":-80.845997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 Harris Corners Pkwy",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337424199,
-    "wof:lastmodified":1449027688,
+    "wof:lastmodified":1466646925,
     "wof:name":"Paychex Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "payroll"
     ]
 },
-  "bbox": [-80.845997,35.345923,-80.845997,35.345923],
+  "bbox": [
+    -80.845997,
+    35.345923,
+    -80.845997,
+    35.345923
+],
   "geometry": {"coordinates":[-80.845997,35.345923],"type":"Point"}
 }

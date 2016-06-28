@@ -2,13 +2,14 @@
   "id": 370243221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.57023,35.883146,-78.57023,35.883146",
     "geom:latitude":35.883146,
     "geom:longitude":-78.57023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370243221,
-    "wof:lastmodified":1449030193,
+    "wof:lastmodified":1466649323,
     "wof:name":"Furniture Exchange-N Raleigh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-78.57023,35.883146,-78.57023,35.883146],
+  "bbox": [
+    -78.57023,
+    35.883146,
+    -78.57023,
+    35.883146
+],
   "geometry": {"coordinates":[-78.57023,35.883146],"type":"Point"}
 }

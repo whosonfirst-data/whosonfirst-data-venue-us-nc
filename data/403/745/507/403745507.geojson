@@ -2,13 +2,14 @@
   "id": 403745507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.662545,35.839758,-78.662545,35.839758",
     "geom:latitude":35.839758,
     "geom:longitude":-78.662545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Kershaw Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403745507,
-    "wof:lastmodified":1449055889,
+    "wof:lastmodified":1466650881,
     "wof:name":"Bur Ko Farms",
     "wof:parent_id":85829417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-78.662545,35.839758,-78.662545,35.839758],
-  "geometry": {"coordinates":[-78.662545,35.839758],"type":"Point"}
+  "bbox": [
+    -78.662545,
+    35.839758,
+    -78.662545,
+    35.839758
+],
+  "geometry": {"coordinates":[-78.66254499999999,35.839758],"type":"Point"}
 }

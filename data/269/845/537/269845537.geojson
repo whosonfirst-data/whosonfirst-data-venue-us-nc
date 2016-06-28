@@ -2,13 +2,14 @@
   "id": 269845537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.500807,35.986503,-78.500807,35.986503",
     "geom:latitude":35.986503,
     "geom:longitude":-78.500807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 C&l Ave",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269845537,
-    "wof:lastmodified":1449036528,
+    "wof:lastmodified":1466647462,
     "wof:name":"Truth & Faith Builders",
     "wof:parent_id":85892181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-78.500807,35.986503,-78.500807,35.986503],
-  "geometry": {"coordinates":[-78.500807,35.986503],"type":"Point"}
+  "bbox": [
+    -78.500807,
+    35.986503,
+    -78.500807,
+    35.986503
+],
+  "geometry": {"coordinates":[-78.50080699999999,35.986503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303440287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.817275,35.009595,-80.817275,35.009595",
     "geom:latitude":35.009595,
     "geom:longitude":-80.817275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9614 Joe Kerr Rd",
     "sg:city":"Waxhaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303440287,
-    "wof:lastmodified":1448998982,
+    "wof:lastmodified":1466649649,
     "wof:name":"Houston Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.817275,35.009595,-80.817275,35.009595],
+  "bbox": [
+    -80.817275,
+    35.009595,
+    -80.817275,
+    35.009595
+],
   "geometry": {"coordinates":[-80.817275,35.009595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370550573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.599961,35.811038,-78.599961,35.811038",
     "geom:latitude":35.811038,
     "geom:longitude":-78.599961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Appliance Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370550573,
-    "wof:lastmodified":1449030903,
+    "wof:lastmodified":1466653225,
     "wof:name":"Lodgenet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-78.599961,35.811038,-78.599961,35.811038],
-  "geometry": {"coordinates":[-78.599961,35.811038],"type":"Point"}
+  "bbox": [
+    -78.599961,
+    35.811038,
+    -78.599961,
+    35.811038
+],
+  "geometry": {"coordinates":[-78.59996099999999,35.811038],"type":"Point"}
 }

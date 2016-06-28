@@ -2,13 +2,14 @@
   "id": 370840271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.504783,35.758548,-77.504783,35.758548",
     "geom:latitude":35.758548,
     "geom:longitude":-77.504783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3369 Penny Hill Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370840271,
-    "wof:lastmodified":1449031722,
+    "wof:lastmodified":1466656544,
     "wof:name":"Zion Chapel",
     "wof:parent_id":85843963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.504783,35.758548,-77.504783,35.758548],
+  "bbox": [
+    -77.504783,
+    35.758548,
+    -77.504783,
+    35.758548
+],
   "geometry": {"coordinates":[-77.504783,35.758548],"type":"Point"}
 }

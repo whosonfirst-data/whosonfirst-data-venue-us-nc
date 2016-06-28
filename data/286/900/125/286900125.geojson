@@ -2,13 +2,14 @@
   "id": 286900125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.521067,35.630975,-80.521067,35.630975",
     "geom:latitude":35.630975,
     "geom:longitude":-80.521067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 S Main St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286900125,
-    "wof:lastmodified":1449016454,
+    "wof:lastmodified":1466651810,
     "wof:name":"Bob's Place",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.521067,35.630975,-80.521067,35.630975],
+  "bbox": [
+    -80.521067,
+    35.630975,
+    -80.521067,
+    35.630975
+],
   "geometry": {"coordinates":[-80.521067,35.630975],"type":"Point"}
 }

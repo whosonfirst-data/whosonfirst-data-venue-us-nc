@@ -2,13 +2,14 @@
   "id": 219474255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.422074,36.129888,-77.422074,36.129888",
     "geom:latitude":36.129888,
     "geom:longitude":-77.422074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Main St",
     "sg:city":"Scotland Neck",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219474255,
-    "wof:lastmodified":1449070524,
+    "wof:lastmodified":1466644689,
     "wof:name":"Scotland Neck Clearance Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.422074,36.129888,-77.422074,36.129888],
-  "geometry": {"coordinates":[-77.422074,36.129888],"type":"Point"}
+  "bbox": [
+    -77.422074,
+    36.129888,
+    -77.422074,
+    36.129888
+],
+  "geometry": {"coordinates":[-77.42207399999999,36.129888],"type":"Point"}
 }

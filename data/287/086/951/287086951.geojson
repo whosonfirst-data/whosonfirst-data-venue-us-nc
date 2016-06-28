@@ -2,13 +2,14 @@
   "id": 287086951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.715786,36.206033,-78.715786,36.206033",
     "geom:latitude":36.206033,
     "geom:longitude":-78.715786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Tally Ho Rd",
     "sg:city":"Stem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287086951,
-    "wof:lastmodified":1449001280,
+    "wof:lastmodified":1466644499,
     "wof:name":"As Good As New Home Svc",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-78.715786,36.206033,-78.715786,36.206033],
-  "geometry": {"coordinates":[-78.715786,36.206033],"type":"Point"}
+  "bbox": [
+    -78.715786,
+    36.206033,
+    -78.715786,
+    36.206033
+],
+  "geometry": {"coordinates":[-78.71578599999999,36.206033],"type":"Point"}
 }

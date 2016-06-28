@@ -2,13 +2,14 @@
   "id": 253501545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.115283,35.27799,-77.115283,35.27799",
     "geom:latitude":35.27799,
     "geom:longitude":-77.115283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 Old Brick Rd",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253501545,
-    "wof:lastmodified":1449065831,
+    "wof:lastmodified":1466648388,
     "wof:name":"American Machine & Fabrication",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fabrication"
     ]
 },
-  "bbox": [-77.115283,35.27799,-77.115283,35.27799],
-  "geometry": {"coordinates":[-77.115283,35.27799],"type":"Point"}
+  "bbox": [
+    -77.115283,
+    35.27799,
+    -77.115283,
+    35.27799
+],
+  "geometry": {"coordinates":[-77.11528300000001,35.27799],"type":"Point"}
 }

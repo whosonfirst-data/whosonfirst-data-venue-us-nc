@@ -2,13 +2,14 @@
   "id": 270195879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.453054,35.190445,-79.453054,35.190445",
     "geom:latitude":35.190445,
     "geom:longitude":-79.453054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Firestone Dr",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270195879,
-    "wof:lastmodified":1449010274,
+    "wof:lastmodified":1466645568,
     "wof:name":"Foundation To Advance",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.453054,35.190445,-79.453054,35.190445],
-  "geometry": {"coordinates":[-79.453054,35.190445],"type":"Point"}
+  "bbox": [
+    -79.453054,
+    35.190445,
+    -79.453054,
+    35.190445
+],
+  "geometry": {"coordinates":[-79.45305399999999,35.190445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269586289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.575718,35.269481,-77.575718,35.269481",
     "geom:latitude":35.269481,
     "geom:longitude":-77.575718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Grainger Ave",
     "sg:city":"Kinston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269586289,
-    "wof:lastmodified":1449038678,
+    "wof:lastmodified":1466644423,
     "wof:name":"Kinston Indians Baseball Club",
     "wof:parent_id":85817087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "baseball"
     ]
 },
-  "bbox": [-77.575718,35.269481,-77.575718,35.269481],
-  "geometry": {"coordinates":[-77.575718,35.269481],"type":"Point"}
+  "bbox": [
+    -77.575718,
+    35.269481,
+    -77.575718,
+    35.269481
+],
+  "geometry": {"coordinates":[-77.57571799999999,35.269481],"type":"Point"}
 }

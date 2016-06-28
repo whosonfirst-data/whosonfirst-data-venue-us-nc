@@ -2,13 +2,14 @@
   "id": 203032601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.98565,36.406648,-78.98565,36.406648",
     "geom:latitude":36.406648,
     "geom:longitude":-78.98565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Ridge Rd",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203032601,
-    "wof:lastmodified":1449025848,
+    "wof:lastmodified":1466654388,
     "wof:name":"Ridge Road Medical Group",
     "wof:parent_id":85829253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.98565,36.406648,-78.98565,36.406648],
-  "geometry": {"coordinates":[-78.98565,36.406648],"type":"Point"}
+  "bbox": [
+    -78.98565,
+    36.406648,
+    -78.98565,
+    36.406648
+],
+  "geometry": {"coordinates":[-78.98565000000001,36.406648],"type":"Point"}
 }

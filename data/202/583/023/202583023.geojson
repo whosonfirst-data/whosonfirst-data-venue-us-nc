@@ -2,13 +2,14 @@
   "id": 202583023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.542571,34.981204,-80.542571,34.981204",
     "geom:latitude":34.981204,
     "geom:longitude":-80.542571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Franklin St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202583023,
-    "wof:lastmodified":1449062130,
+    "wof:lastmodified":1466655440,
     "wof:name":"Horton & Co Inc",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dwelling"
     ]
 },
-  "bbox": [-80.542571,34.981204,-80.542571,34.981204],
+  "bbox": [
+    -80.542571,
+    34.981204,
+    -80.542571,
+    34.981204
+],
   "geometry": {"coordinates":[-80.542571,34.981204],"type":"Point"}
 }

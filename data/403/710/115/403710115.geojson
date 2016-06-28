@@ -2,13 +2,14 @@
   "id": 403710115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.010612,35.09074,-79.010612,35.09074",
     "geom:latitude":35.09074,
     "geom:longitude":-79.010612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"346 N Reilly Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403710115,
-    "wof:lastmodified":1449054706,
+    "wof:lastmodified":1466650425,
     "wof:name":"Spinx Oil Co",
     "wof:parent_id":85851349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.010612,35.09074,-79.010612,35.09074],
-  "geometry": {"coordinates":[-79.010612,35.09074],"type":"Point"}
+  "bbox": [
+    -79.010612,
+    35.09074,
+    -79.010612,
+    35.09074
+],
+  "geometry": {"coordinates":[-79.01061199999999,35.09074],"type":"Point"}
 }

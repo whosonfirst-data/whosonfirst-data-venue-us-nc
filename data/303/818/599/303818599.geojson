@@ -2,13 +2,14 @@
   "id": 303818599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.506142,35.647224,-80.506142,35.647224",
     "geom:latitude":35.647224,
     "geom:longitude":-80.506142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Cottage St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303818599,
-    "wof:lastmodified":1448999306,
+    "wof:lastmodified":1466655129,
     "wof:name":"Parkdale Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.506142,35.647224,-80.506142,35.647224],
+  "bbox": [
+    -80.506142,
+    35.647224,
+    -80.506142,
+    35.647224
+],
   "geometry": {"coordinates":[-80.506142,35.647224],"type":"Point"}
 }

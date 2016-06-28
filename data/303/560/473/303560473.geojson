@@ -2,13 +2,14 @@
   "id": 303560473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.931108,35.973772,-77.931108,35.973772",
     "geom:latitude":35.973772,
     "geom:longitude":-77.931108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Queen Anne Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303560473,
-    "wof:lastmodified":1448999985,
+    "wof:lastmodified":1466651389,
     "wof:name":"Robbins Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.931108,35.973772,-77.931108,35.973772],
-  "geometry": {"coordinates":[-77.931108,35.973772],"type":"Point"}
+  "bbox": [
+    -77.931108,
+    35.973772,
+    -77.931108,
+    35.973772
+],
+  "geometry": {"coordinates":[-77.93110799999999,35.973772],"type":"Point"}
 }

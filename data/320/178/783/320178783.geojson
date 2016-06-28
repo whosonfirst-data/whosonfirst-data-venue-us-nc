@@ -2,13 +2,14 @@
   "id": 320178783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.491441,35.863628,-81.491441,35.863628",
     "geom:latitude":35.863628,
     "geom:longitude":-81.491441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2636 Hickory Blvd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320178783,
-    "wof:lastmodified":1449013943,
+    "wof:lastmodified":1466647794,
     "wof:name":"Kelley's Sports & Awards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.491441,35.863628,-81.491441,35.863628],
-  "geometry": {"coordinates":[-81.491441,35.863628],"type":"Point"}
+  "bbox": [
+    -81.491441,
+    35.863628,
+    -81.491441,
+    35.863628
+],
+  "geometry": {"coordinates":[-81.49144099999999,35.863628],"type":"Point"}
 }

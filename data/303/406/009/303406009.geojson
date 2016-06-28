@@ -2,13 +2,14 @@
   "id": 303406009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.427881,34.750399,-77.427881,34.750399",
     "geom:latitude":34.750399,
     "geom:longitude":-77.427881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 New Bridge St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303406009,
-    "wof:lastmodified":1448999434,
+    "wof:lastmodified":1466649150,
     "wof:name":"Parker & Assoc Surveyors",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-77.427881,34.750399,-77.427881,34.750399],
+  "bbox": [
+    -77.427881,
+    34.750399,
+    -77.427881,
+    34.750399
+],
   "geometry": {"coordinates":[-77.427881,34.750399],"type":"Point"}
 }

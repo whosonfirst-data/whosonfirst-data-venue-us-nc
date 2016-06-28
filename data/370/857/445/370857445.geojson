@@ -2,13 +2,14 @@
   "id": 370857445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.018307,33.919172,-78.018307,33.919172",
     "geom:latitude":33.919172,
     "geom:longitude":-78.018307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Davis St",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370857445,
-    "wof:lastmodified":1449031269,
+    "wof:lastmodified":1466656473,
     "wof:name":"Southport Art Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-78.018307,33.919172,-78.018307,33.919172],
-  "geometry": {"coordinates":[-78.018307,33.919172],"type":"Point"}
+  "bbox": [
+    -78.018307,
+    33.919172,
+    -78.018307,
+    33.919172
+],
+  "geometry": {"coordinates":[-78.01830699999999,33.919172],"type":"Point"}
 }

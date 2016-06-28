@@ -2,13 +2,14 @@
   "id": 253246799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.581741,35.728571,-78.581741,35.728571",
     "geom:latitude":35.728571,
     "geom:longitude":-78.581741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Integrity Dr",
     "sg:city":"Garner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253246799,
-    "wof:lastmodified":1449063023,
+    "wof:lastmodified":1466645533,
     "wof:name":"CRTS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trailer"
     ]
 },
-  "bbox": [-78.581741,35.728571,-78.581741,35.728571],
-  "geometry": {"coordinates":[-78.581741,35.728571],"type":"Point"}
+  "bbox": [
+    -78.581741,
+    35.728571,
+    -78.581741,
+    35.728571
+],
+  "geometry": {"coordinates":[-78.58174099999999,35.728571],"type":"Point"}
 }

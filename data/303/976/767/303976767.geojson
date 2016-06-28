@@ -2,13 +2,14 @@
   "id": 303976767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.502209,35.352501,-75.502209,35.352501",
     "geom:latitude":35.352501,
     "geom:longitude":-75.502209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40279 Younce Rd",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303976767,
-    "wof:lastmodified":1448999130,
+    "wof:lastmodified":1466656665,
     "wof:name":"Hatteras Storage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-75.502209,35.352501,-75.502209,35.352501],
-  "geometry": {"coordinates":[-75.502209,35.352501],"type":"Point"}
+  "bbox": [
+    -75.502209,
+    35.352501,
+    -75.502209,
+    35.352501
+],
+  "geometry": {"coordinates":[-75.50220899999999,35.352501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336760881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.495489,35.954086,-78.495489,35.954086",
     "geom:latitude":35.954086,
     "geom:longitude":-78.495489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 Heritage Club Ave",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336760881,
-    "wof:lastmodified":1448997959,
+    "wof:lastmodified":1466648266,
     "wof:name":"Choice Distributing Inc",
     "wof:parent_id":85892183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.495489,35.954086,-78.495489,35.954086],
-  "geometry": {"coordinates":[-78.495489,35.954086],"type":"Point"}
+  "bbox": [
+    -78.495489,
+    35.954086,
+    -78.495489,
+    35.954086
+],
+  "geometry": {"coordinates":[-78.49548900000001,35.954086],"type":"Point"}
 }

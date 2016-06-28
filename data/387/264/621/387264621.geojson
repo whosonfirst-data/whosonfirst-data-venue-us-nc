@@ -2,13 +2,14 @@
   "id": 387264621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087591,36.13094,-80.087591,36.13094",
     "geom:latitude":36.13094,
     "geom:longitude":-80.087591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 State Hwy 66",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387264621,
-    "wof:lastmodified":1449058583,
+    "wof:lastmodified":1466653347,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85852277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.087591,36.13094,-80.087591,36.13094],
+  "bbox": [
+    -80.087591,
+    36.13094,
+    -80.087591,
+    36.13094
+],
   "geometry": {"coordinates":[-80.087591,36.13094],"type":"Point"}
 }

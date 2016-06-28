@@ -2,13 +2,14 @@
   "id": 320385029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.601526,35.74715,-78.601526,35.74715",
     "geom:latitude":35.74715,
     "geom:longitude":-78.601526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2718 Rock Quarry Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":320385029,
-    "wof:lastmodified":1449013476,
+    "wof:lastmodified":1466650695,
     "wof:name":"Goodwin Grier & Associates LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.601526,35.74715,-78.601526,35.74715],
-  "geometry": {"coordinates":[-78.601526,35.74715],"type":"Point"}
+  "bbox": [
+    -78.601526,
+    35.74715,
+    -78.601526,
+    35.74715
+],
+  "geometry": {"coordinates":[-78.60152600000001,35.74715],"type":"Point"}
 }

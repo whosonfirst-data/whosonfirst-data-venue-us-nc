@@ -2,13 +2,14 @@
   "id": 303285703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815151,35.696652,-79.815151,35.696652",
     "geom:latitude":35.696652,
     "geom:longitude":-79.815151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 S Fayetteville St",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303285703,
-    "wof:lastmodified":1448998189,
+    "wof:lastmodified":1466647472,
     "wof:name":"Thomas Tire Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-79.815151,35.696652,-79.815151,35.696652],
+  "bbox": [
+    -79.815151,
+    35.696652,
+    -79.815151,
+    35.696652
+],
   "geometry": {"coordinates":[-79.815151,35.696652],"type":"Point"}
 }

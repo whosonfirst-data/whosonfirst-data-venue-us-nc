@@ -2,13 +2,14 @@
   "id": 253453991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.845481,35.777423,-78.845481,35.777423",
     "geom:latitude":35.777423,
     "geom:longitude":-78.845481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Southwick Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253453991,
-    "wof:lastmodified":1449065039,
+    "wof:lastmodified":1466647788,
     "wof:name":"Cindy Calva",
     "wof:parent_id":85840759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.845481,35.777423,-78.845481,35.777423],
-  "geometry": {"coordinates":[-78.845481,35.777423],"type":"Point"}
+  "bbox": [
+    -78.845481,
+    35.777423,
+    -78.845481,
+    35.777423
+],
+  "geometry": {"coordinates":[-78.84548100000001,35.777423],"type":"Point"}
 }

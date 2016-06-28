@@ -2,13 +2,14 @@
   "id": 286921437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.598953,35.901873,-78.598953,35.901873",
     "geom:latitude":35.901873,
     "geom:longitude":-78.598953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Batterhayes Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286921437,
-    "wof:lastmodified":1449017079,
+    "wof:lastmodified":1466652118,
     "wof:name":"Cromwell Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.598953,35.901873,-78.598953,35.901873],
-  "geometry": {"coordinates":[-78.598953,35.901873],"type":"Point"}
+  "bbox": [
+    -78.598953,
+    35.901873,
+    -78.598953,
+    35.901873
+],
+  "geometry": {"coordinates":[-78.59895299999999,35.901873],"type":"Point"}
 }

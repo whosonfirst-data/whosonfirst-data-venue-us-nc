@@ -2,13 +2,14 @@
   "id": 403881981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.038288,35.240752,-81.038288,35.240752",
     "geom:latitude":35.240752,
     "geom:longitude":-81.038288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Main St",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403881981,
-    "wof:lastmodified":1449055412,
+    "wof:lastmodified":1466652684,
     "wof:name":"Belmont Cleaners & Laundry",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "agent"
     ]
 },
-  "bbox": [-81.038288,35.240752,-81.038288,35.240752],
-  "geometry": {"coordinates":[-81.038288,35.240752],"type":"Point"}
+  "bbox": [
+    -81.038288,
+    35.240752,
+    -81.038288,
+    35.240752
+],
+  "geometry": {"coordinates":[-81.03828799999999,35.240752],"type":"Point"}
 }

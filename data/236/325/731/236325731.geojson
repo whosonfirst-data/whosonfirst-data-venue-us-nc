@@ -2,13 +2,14 @@
   "id": 236325731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249536,35.47385,-81.249536,35.47385",
     "geom:latitude":35.47385,
     "geom:longitude":-81.249536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E Main St",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236325731,
-    "wof:lastmodified":1449002853,
+    "wof:lastmodified":1466646096,
     "wof:name":"BP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-81.249536,35.47385,-81.249536,35.47385],
-  "geometry": {"coordinates":[-81.249536,35.47385],"type":"Point"}
+  "bbox": [
+    -81.249536,
+    35.47385,
+    -81.249536,
+    35.47385
+],
+  "geometry": {"coordinates":[-81.24953600000001,35.47385],"type":"Point"}
 }

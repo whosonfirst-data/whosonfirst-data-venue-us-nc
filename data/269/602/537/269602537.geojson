@@ -2,13 +2,14 @@
   "id": 269602537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.786346,35.653831,-79.786346,35.653831",
     "geom:latitude":35.653831,
     "geom:longitude":-79.786346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1277 Autumn Ln",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269602537,
-    "wof:lastmodified":1449037258,
+    "wof:lastmodified":1466644623,
     "wof:name":"York Builders",
     "wof:parent_id":85829953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-79.786346,35.653831,-79.786346,35.653831],
-  "geometry": {"coordinates":[-79.786346,35.653831],"type":"Point"}
+  "bbox": [
+    -79.786346,
+    35.653831,
+    -79.786346,
+    35.653831
+],
+  "geometry": {"coordinates":[-79.78634599999999,35.653831],"type":"Point"}
 }

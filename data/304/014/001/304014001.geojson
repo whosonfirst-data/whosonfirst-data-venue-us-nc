@@ -2,13 +2,14 @@
   "id": 304014001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.593297,35.826496,-78.593297,35.826496",
     "geom:latitude":35.826496,
     "geom:longitude":-78.593297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 Glenraven Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304014001,
-    "wof:lastmodified":1449043843,
+    "wof:lastmodified":1466644362,
     "wof:name":"Kim H Scott Hair Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.593297,35.826496,-78.593297,35.826496],
-  "geometry": {"coordinates":[-78.593297,35.826496],"type":"Point"}
+  "bbox": [
+    -78.593297,
+    35.826496,
+    -78.593297,
+    35.826496
+],
+  "geometry": {"coordinates":[-78.59329700000001,35.826496],"type":"Point"}
 }

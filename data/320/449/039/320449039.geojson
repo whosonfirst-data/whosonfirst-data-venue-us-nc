@@ -2,13 +2,14 @@
   "id": 320449039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.522055,35.579798,-82.522055,35.579798",
     "geom:latitude":35.579798,
     "geom:longitude":-82.522055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 S Tunnel Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320449039,
-    "wof:lastmodified":1449014685,
+    "wof:lastmodified":1466651629,
     "wof:name":"Asheville Savings Bank",
     "wof:parent_id":85824283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.522055,35.579798,-82.522055,35.579798],
-  "geometry": {"coordinates":[-82.522055,35.579798],"type":"Point"}
+  "bbox": [
+    -82.522055,
+    35.579798,
+    -82.522055,
+    35.579798
+],
+  "geometry": {"coordinates":[-82.52205499999999,35.579798],"type":"Point"}
 }

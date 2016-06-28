@@ -2,13 +2,14 @@
   "id": 320187237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.922545,34.60601,-77.922545,34.60601",
     "geom:latitude":34.60601,
     "geom:longitude":-77.922545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 US Hwy 117 N",
     "sg:city":"Burgaw",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320187237,
-    "wof:lastmodified":1449011808,
+    "wof:lastmodified":1466647911,
     "wof:name":"Saint Matthew Holy Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.922545,34.60601,-77.922545,34.60601],
+  "bbox": [
+    -77.922545,
+    34.60601,
+    -77.922545,
+    34.60601
+],
   "geometry": {"coordinates":[-77.922545,34.60601],"type":"Point"}
 }

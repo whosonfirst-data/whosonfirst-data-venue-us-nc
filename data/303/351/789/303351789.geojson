@@ -2,13 +2,14 @@
   "id": 303351789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.383241,35.154439,-79.383241,35.154439",
     "geom:latitude":35.154439,
     "geom:longitude":-79.383241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 N Bethesda Rd",
     "sg:city":"Southern Pines",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303351789,
-    "wof:lastmodified":1449000195,
+    "wof:lastmodified":1466648376,
     "wof:name":"Spc Building Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-79.383241,35.154439,-79.383241,35.154439],
+  "bbox": [
+    -79.383241,
+    35.154439,
+    -79.383241,
+    35.154439
+],
   "geometry": {"coordinates":[-79.383241,35.154439],"type":"Point"}
 }

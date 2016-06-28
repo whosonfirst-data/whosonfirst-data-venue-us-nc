@@ -2,13 +2,14 @@
   "id": 253180283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.650455,35.765004,-78.650455,35.765004",
     "geom:latitude":35.765004,
     "geom:longitude":-78.650455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Fuller St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253180283,
-    "wof:lastmodified":1449062942,
+    "wof:lastmodified":1466644915,
     "wof:name":"All Occasions By Jody",
     "wof:parent_id":85854379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-78.650455,35.765004,-78.650455,35.765004],
-  "geometry": {"coordinates":[-78.650455,35.765004],"type":"Point"}
+  "bbox": [
+    -78.650455,
+    35.765004,
+    -78.650455,
+    35.765004
+],
+  "geometry": {"coordinates":[-78.65045499999999,35.765004],"type":"Point"}
 }

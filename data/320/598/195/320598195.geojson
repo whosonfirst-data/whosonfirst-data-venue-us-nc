@@ -2,13 +2,14 @@
   "id": 320598195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.049783,34.622011,-79.049783,34.622011",
     "geom:latitude":34.622011,
     "geom:longitude":-79.049783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3080 W 5th St",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320598195,
-    "wof:lastmodified":1449011445,
+    "wof:lastmodified":1466653801,
     "wof:name":"BP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-79.049783,34.622011,-79.049783,34.622011],
-  "geometry": {"coordinates":[-79.049783,34.622011],"type":"Point"}
+  "bbox": [
+    -79.049783,
+    34.622011,
+    -79.049783,
+    34.622011
+],
+  "geometry": {"coordinates":[-79.04978300000001,34.622011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236528801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.334291,33.96134,-78.334291,33.96134",
     "geom:latitude":33.96134,
     "geom:longitude":-78.334291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2447 Shell Point Rd SW",
     "sg:city":"South Brunswick",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236528801,
-    "wof:lastmodified":1449002348,
+    "wof:lastmodified":1466647865,
     "wof:name":"Theodore R Johnson Sr Trucking",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.334291,33.96134,-78.334291,33.96134],
-  "geometry": {"coordinates":[-78.334291,33.96134],"type":"Point"}
+  "bbox": [
+    -78.334291,
+    33.96134,
+    -78.334291,
+    33.96134
+],
+  "geometry": {"coordinates":[-78.33429099999999,33.96134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303960953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.959358,36.259185,-79.959358,36.259185",
     "geom:latitude":36.259185,
     "geom:longitude":-79.959358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Lauren Rd",
     "sg:city":"Stokesdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303960953,
-    "wof:lastmodified":1448999876,
+    "wof:lastmodified":1466656603,
     "wof:name":"Kallam Electric Co",
     "wof:parent_id":85858539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.959358,36.259185,-79.959358,36.259185],
-  "geometry": {"coordinates":[-79.959358,36.259185],"type":"Point"}
+  "bbox": [
+    -79.959358,
+    36.259185,
+    -79.959358,
+    36.259185
+],
+  "geometry": {"coordinates":[-79.95935799999999,36.259185],"type":"Point"}
 }

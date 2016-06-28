@@ -2,13 +2,14 @@
   "id": 387668705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.440113,34.775386,-79.440113,34.775386",
     "geom:latitude":34.775386,
     "geom:longitude":-79.440113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17201 Old Lumberton Rd",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387668705,
-    "wof:lastmodified":1449058764,
+    "wof:lastmodified":1466657111,
     "wof:name":"Plain Truth Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.440113,34.775386,-79.440113,34.775386],
+  "bbox": [
+    -79.440113,
+    34.775386,
+    -79.440113,
+    34.775386
+],
   "geometry": {"coordinates":[-79.440113,34.775386],"type":"Point"}
 }

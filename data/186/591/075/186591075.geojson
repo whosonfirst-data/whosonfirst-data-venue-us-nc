@@ -2,13 +2,14 @@
   "id": 186591075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.647629,35.328751,-80.647629,35.328751",
     "geom:latitude":35.328751,
     "geom:longitude":-80.647629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 Roberta Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186591075,
-    "wof:lastmodified":1449051810,
+    "wof:lastmodified":1466654849,
     "wof:name":"Carillon Assisted Living LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "home"
     ]
 },
-  "bbox": [-80.647629,35.328751,-80.647629,35.328751],
-  "geometry": {"coordinates":[-80.647629,35.328751],"type":"Point"}
+  "bbox": [
+    -80.647629,
+    35.328751,
+    -80.647629,
+    35.328751
+],
+  "geometry": {"coordinates":[-80.64762899999999,35.328751],"type":"Point"}
 }

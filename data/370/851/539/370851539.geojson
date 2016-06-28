@@ -2,13 +2,14 @@
   "id": 370851539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.297198,35.580657,-77.297198,35.580657",
     "geom:latitude":35.580657,
     "geom:longitude":-77.297198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4789 State Hwy 33 E",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370851539,
-    "wof:lastmodified":1449031309,
+    "wof:lastmodified":1466656436,
     "wof:name":"East Carolina Overhead Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wind"
     ]
 },
-  "bbox": [-77.297198,35.580657,-77.297198,35.580657],
-  "geometry": {"coordinates":[-77.297198,35.580657],"type":"Point"}
+  "bbox": [
+    -77.297198,
+    35.580657,
+    -77.297198,
+    35.580657
+],
+  "geometry": {"coordinates":[-77.29719799999999,35.580657],"type":"Point"}
 }

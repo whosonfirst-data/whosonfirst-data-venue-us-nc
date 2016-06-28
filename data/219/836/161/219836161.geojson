@@ -2,13 +2,14 @@
   "id": 219836161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.435108,35.520137,-77.435108,35.520137",
     "geom:latitude":35.520137,
     "geom:longitude":-77.435108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3348 State Hwy 903 S",
     "sg:city":"Winterville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219836161,
-    "wof:lastmodified":1449072716,
+    "wof:lastmodified":1466647483,
     "wof:name":"Address America",
     "wof:parent_id":85845283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-77.435108,35.520137,-77.435108,35.520137],
+  "bbox": [
+    -77.435108,
+    35.520137,
+    -77.435108,
+    35.520137
+],
   "geometry": {"coordinates":[-77.435108,35.520137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387026877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.584132,36.527798,-81.584132,36.527798",
     "geom:latitude":36.527798,
     "geom:longitude":-81.584132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Stansberry Rd",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387026877,
-    "wof:lastmodified":1449058352,
+    "wof:lastmodified":1466650219,
     "wof:name":"John W Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.584132,36.527798,-81.584132,36.527798],
+  "bbox": [
+    -81.584132,
+    36.527798,
+    -81.584132,
+    36.527798
+],
   "geometry": {"coordinates":[-81.584132,36.527798],"type":"Point"}
 }

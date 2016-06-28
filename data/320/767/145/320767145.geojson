@@ -2,13 +2,14 @@
   "id": 320767145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.746124,35.486025,-82.746124,35.486025",
     "geom:latitude":35.486025,
     "geom:longitude":-82.746124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Pisgah View Rd",
     "sg:city":"Candler",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320767145,
-    "wof:lastmodified":1449012325,
+    "wof:lastmodified":1466656045,
     "wof:name":"Pisgah Motorsports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.746124,35.486025,-82.746124,35.486025],
-  "geometry": {"coordinates":[-82.746124,35.486025],"type":"Point"}
+  "bbox": [
+    -82.746124,
+    35.486025,
+    -82.746124,
+    35.486025
+],
+  "geometry": {"coordinates":[-82.74612399999999,35.486025],"type":"Point"}
 }

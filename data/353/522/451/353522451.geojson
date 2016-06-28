@@ -2,13 +2,14 @@
   "id": 353522451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.851468,35.549141,-80.851468,35.549141",
     "geom:latitude":35.549141,
     "geom:longitude":-80.851468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Centre Church Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":353522451,
-    "wof:lastmodified":1449019479,
+    "wof:lastmodified":1466648435,
     "wof:name":"Centre Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.851468,35.549141,-80.851468,35.549141],
+  "bbox": [
+    -80.851468,
+    35.549141,
+    -80.851468,
+    35.549141
+],
   "geometry": {"coordinates":[-80.851468,35.549141],"type":"Point"}
 }

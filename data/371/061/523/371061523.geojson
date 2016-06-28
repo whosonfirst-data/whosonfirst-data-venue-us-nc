@@ -2,13 +2,14 @@
   "id": 371061523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.426431,35.131315,-79.426431,35.131315",
     "geom:latitude":35.131315,
     "geom:longitude":-79.426431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 E Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371061523,
-    "wof:lastmodified":1449049811,
+    "wof:lastmodified":1466649594,
     "wof:name":"B & G Upholstery",
     "wof:parent_id":85841741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-79.426431,35.131315,-79.426431,35.131315],
-  "geometry": {"coordinates":[-79.426431,35.131315],"type":"Point"}
+  "bbox": [
+    -79.426431,
+    35.131315,
+    -79.426431,
+    35.131315
+],
+  "geometry": {"coordinates":[-79.42643099999999,35.131315],"type":"Point"}
 }

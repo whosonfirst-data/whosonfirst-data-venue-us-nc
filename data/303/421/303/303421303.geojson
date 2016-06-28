@@ -2,13 +2,14 @@
   "id": 303421303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.671281,36.031123,-75.671281,36.031123",
     "geom:latitude":36.031123,
     "geom:longitude":-75.671281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 N Croatan Hwy",
     "sg:city":"Kill Devil Hills",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303421303,
-    "wof:lastmodified":1448999669,
+    "wof:lastmodified":1466649382,
     "wof:name":"New York Bagels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-75.671281,36.031123,-75.671281,36.031123],
-  "geometry": {"coordinates":[-75.671281,36.031123],"type":"Point"}
+  "bbox": [
+    -75.671281,
+    36.031123,
+    -75.671281,
+    36.031123
+],
+  "geometry": {"coordinates":[-75.67128099999999,36.031123],"type":"Point"}
 }

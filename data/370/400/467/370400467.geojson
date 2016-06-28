@@ -2,13 +2,14 @@
   "id": 370400467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.333523,35.828559,-78.333523,35.828559",
     "geom:latitude":35.828559,
     "geom:longitude":-78.333523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Worth Hinton Rd",
     "sg:city":"Zebulon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370400467,
-    "wof:lastmodified":1449029420,
+    "wof:lastmodified":1466651283,
     "wof:name":"David High Lawn Care",
     "wof:parent_id":85844845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "care"
     ]
 },
-  "bbox": [-78.333523,35.828559,-78.333523,35.828559],
+  "bbox": [
+    -78.333523,
+    35.828559,
+    -78.333523,
+    35.828559
+],
   "geometry": {"coordinates":[-78.333523,35.828559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203155099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.511772,35.691328,-80.511772,35.691328",
     "geom:latitude":35.691328,
     "geom:longitude":-80.511772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 Jake Alexander Blvd N",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203155099,
-    "wof:lastmodified":1449026508,
+    "wof:lastmodified":1466655035,
     "wof:name":"Atheletes Foot",
     "wof:parent_id":85834229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.511772,35.691328,-80.511772,35.691328],
-  "geometry": {"coordinates":[-80.511772,35.691328],"type":"Point"}
+  "bbox": [
+    -80.511772,
+    35.691328,
+    -80.511772,
+    35.691328
+],
+  "geometry": {"coordinates":[-80.51177199999999,35.691328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253179401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.035323,35.548446,-77.035323,35.548446",
     "geom:latitude":35.548446,
     "geom:longitude":-77.035323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Pamlico St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253179401,
-    "wof:lastmodified":1449065477,
+    "wof:lastmodified":1466644909,
     "wof:name":"Tiffany Healthcare Inc",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rest"
     ]
 },
-  "bbox": [-77.035323,35.548446,-77.035323,35.548446],
-  "geometry": {"coordinates":[-77.035323,35.548446],"type":"Point"}
+  "bbox": [
+    -77.035323,
+    35.548446,
+    -77.035323,
+    35.548446
+],
+  "geometry": {"coordinates":[-77.03532300000001,35.548446],"type":"Point"}
 }

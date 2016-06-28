@@ -2,13 +2,14 @@
   "id": 252803137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.01221,35.943601,-79.01221,35.943601",
     "geom:latitude":35.943601,
     "geom:longitude":-79.01221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Scarlett Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252803137,
-    "wof:lastmodified":1449006525,
+    "wof:lastmodified":1466644076,
     "wof:name":"Sandra's Salon",
     "wof:parent_id":85852075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.01221,35.943601,-79.01221,35.943601],
+  "bbox": [
+    -79.01221,
+    35.943601,
+    -79.01221,
+    35.943601
+],
   "geometry": {"coordinates":[-79.01221,35.943601],"type":"Point"}
 }

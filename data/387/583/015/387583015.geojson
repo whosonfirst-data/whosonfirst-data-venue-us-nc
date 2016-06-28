@@ -2,13 +2,14 @@
   "id": 387583015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.537773,35.564121,-82.537773,35.564121",
     "geom:latitude":35.564121,
     "geom:longitude":-82.537773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 London Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387583015,
-    "wof:lastmodified":1449059111,
+    "wof:lastmodified":1466656742,
     "wof:name":"US Post Office",
     "wof:parent_id":85828011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.537773,35.564121,-82.537773,35.564121],
+  "bbox": [
+    -82.537773,
+    35.564121,
+    -82.537773,
+    35.564121
+],
   "geometry": {"coordinates":[-82.537773,35.564121],"type":"Point"}
 }

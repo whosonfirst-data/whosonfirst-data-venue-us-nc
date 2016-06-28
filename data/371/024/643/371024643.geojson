@@ -2,13 +2,14 @@
   "id": 371024643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.822493,35.606035,-77.822493,35.606035",
     "geom:latitude":35.606035,
     "geom:longitude":-77.822493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Commercial Ave",
     "sg:city":"Stantonsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371024643,
-    "wof:lastmodified":1449049509,
+    "wof:lastmodified":1466649140,
     "wof:name":"Town of Statonsburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-77.822493,35.606035,-77.822493,35.606035],
-  "geometry": {"coordinates":[-77.822493,35.606035],"type":"Point"}
+  "bbox": [
+    -77.822493,
+    35.606035,
+    -77.822493,
+    35.606035
+],
+  "geometry": {"coordinates":[-77.82249299999999,35.606035],"type":"Point"}
 }

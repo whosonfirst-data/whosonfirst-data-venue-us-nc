@@ -2,13 +2,14 @@
   "id": 370903125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.738465,34.583821,-78.738465,34.583821",
     "geom:latitude":34.583821,
     "geom:longitude":-78.738465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 Oak Grove Church Rd",
     "sg:city":"Bladenboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370903125,
-    "wof:lastmodified":1449029286,
+    "wof:lastmodified":1466656791,
     "wof:name":"Oak Grove Orig Freewl Bpt Chrc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.738465,34.583821,-78.738465,34.583821],
-  "geometry": {"coordinates":[-78.738465,34.583821],"type":"Point"}
+  "bbox": [
+    -78.738465,
+    34.583821,
+    -78.738465,
+    34.583821
+],
+  "geometry": {"coordinates":[-78.73846500000001,34.583821],"type":"Point"}
 }

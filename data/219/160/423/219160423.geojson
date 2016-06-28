@@ -2,13 +2,14 @@
   "id": 219160423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.406253,36.330808,-78.406253,36.330808",
     "geom:latitude":36.330808,
     "geom:longitude":-78.406253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 W Montgomery St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219160423,
-    "wof:lastmodified":1449073352,
+    "wof:lastmodified":1466655153,
     "wof:name":"Holland Industrial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-78.406253,36.330808,-78.406253,36.330808],
-  "geometry": {"coordinates":[-78.406253,36.330808],"type":"Point"}
+  "bbox": [
+    -78.406253,
+    36.330808,
+    -78.406253,
+    36.330808
+],
+  "geometry": {"coordinates":[-78.40625300000001,36.330808],"type":"Point"}
 }

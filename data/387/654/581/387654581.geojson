@@ -2,13 +2,14 @@
   "id": 387654581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.024105,35.93071,-79.024105,35.93071",
     "geom:latitude":35.93071,
     "geom:longitude":-79.024105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Fordham Blvd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387654581,
-    "wof:lastmodified":1449057374,
+    "wof:lastmodified":1466657168,
     "wof:name":"Squids Restaurant & Market",
     "wof:parent_id":85868007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.024105,35.93071,-79.024105,35.93071],
-  "geometry": {"coordinates":[-79.024105,35.93071],"type":"Point"}
+  "bbox": [
+    -79.024105,
+    35.93071,
+    -79.024105,
+    35.93071
+],
+  "geometry": {"coordinates":[-79.02410500000001,35.93071],"type":"Point"}
 }

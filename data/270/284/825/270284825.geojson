@@ -2,13 +2,14 @@
   "id": 270284825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.499564,35.641196,-78.499564,35.641196",
     "geom:latitude":35.641196,
     "geom:longitude":-78.499564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Coxwoods Rd",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270284825,
-    "wof:lastmodified":1449010158,
+    "wof:lastmodified":1466646666,
     "wof:name":"Cron Consulting Corp",
     "wof:parent_id":85807481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-78.499564,35.641196,-78.499564,35.641196],
-  "geometry": {"coordinates":[-78.499564,35.641196],"type":"Point"}
+  "bbox": [
+    -78.499564,
+    35.641196,
+    -78.499564,
+    35.641196
+],
+  "geometry": {"coordinates":[-78.49956400000001,35.641196],"type":"Point"}
 }

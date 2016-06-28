@@ -2,13 +2,14 @@
   "id": 370191777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.782862,35.706561,-77.782862,35.706561",
     "geom:latitude":35.706561,
     "geom:longitude":-77.782862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6043 Holdens Cross Rd",
     "sg:city":"Stantonsburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370191777,
-    "wof:lastmodified":1449031136,
+    "wof:lastmodified":1466648667,
     "wof:name":"Whitley Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.782862,35.706561,-77.782862,35.706561],
-  "geometry": {"coordinates":[-77.782862,35.706561],"type":"Point"}
+  "bbox": [
+    -77.782862,
+    35.706561,
+    -77.782862,
+    35.706561
+],
+  "geometry": {"coordinates":[-77.78286199999999,35.706561],"type":"Point"}
 }

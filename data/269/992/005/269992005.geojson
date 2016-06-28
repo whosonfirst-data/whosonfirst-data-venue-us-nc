@@ -2,13 +2,14 @@
   "id": 269992005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.513539,35.734777,-79.513539,35.734777",
     "geom:latitude":35.734777,
     "geom:longitude":-79.513539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20416 US Hwy 64 W",
     "sg:city":"Siler City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269992005,
-    "wof:lastmodified":1449037267,
+    "wof:lastmodified":1466649226,
     "wof:name":"Richard D Kirkman DVM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.513539,35.734777,-79.513539,35.734777],
-  "geometry": {"coordinates":[-79.513539,35.734777],"type":"Point"}
+  "bbox": [
+    -79.513539,
+    35.734777,
+    -79.513539,
+    35.734777
+],
+  "geometry": {"coordinates":[-79.51353899999999,35.734777],"type":"Point"}
 }

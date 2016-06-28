@@ -2,13 +2,14 @@
   "id": 303397305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.247386,35.817773,-80.247386,35.817773",
     "geom:latitude":35.817773,
     "geom:longitude":-80.247386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"547 E Center St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303397305,
-    "wof:lastmodified":1448999095,
+    "wof:lastmodified":1466649033,
     "wof:name":"Kwick Pik",
     "wof:parent_id":85849547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.247386,35.817773,-80.247386,35.817773],
-  "geometry": {"coordinates":[-80.247386,35.817773],"type":"Point"}
+  "bbox": [
+    -80.247386,
+    35.817773,
+    -80.247386,
+    35.817773
+],
+  "geometry": {"coordinates":[-80.24738600000001,35.817773],"type":"Point"}
 }

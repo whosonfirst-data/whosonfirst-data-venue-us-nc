@@ -2,13 +2,14 @@
   "id": 303768571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.900397,34.221921,-77.900397,34.221921",
     "geom:latitude":34.221921,
     "geom:longitude":-77.900397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 Wrightsville Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303768571,
-    "wof:lastmodified":1448999060,
+    "wof:lastmodified":1466654410,
     "wof:name":"Allied Vacuum Ctr",
     "wof:parent_id":85819913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-77.900397,34.221921,-77.900397,34.221921],
+  "bbox": [
+    -77.900397,
+    34.221921,
+    -77.900397,
+    34.221921
+],
   "geometry": {"coordinates":[-77.900397,34.221921],"type":"Point"}
 }

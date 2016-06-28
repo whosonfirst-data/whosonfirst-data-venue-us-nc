@@ -2,13 +2,14 @@
   "id": 253351841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.827965,35.833156,-78.827965,35.833156",
     "geom:latitude":35.833156,
     "geom:longitude":-78.827965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10312 Chapel Hill Rd",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253351841,
-    "wof:lastmodified":1449065329,
+    "wof:lastmodified":1466646603,
     "wof:name":"Carolina Stone Setting",
     "wof:parent_id":85857059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.827965,35.833156,-78.827965,35.833156],
-  "geometry": {"coordinates":[-78.827965,35.833156],"type":"Point"}
+  "bbox": [
+    -78.827965,
+    35.833156,
+    -78.827965,
+    35.833156
+],
+  "geometry": {"coordinates":[-78.82796500000001,35.833156],"type":"Point"}
 }

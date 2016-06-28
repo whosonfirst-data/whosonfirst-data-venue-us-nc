@@ -2,13 +2,14 @@
   "id": 319922729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.541013,36.35214,-78.541013,36.35214",
     "geom:latitude":36.35214,
     "geom:longitude":-78.541013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6143 Huntsboro Rd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319922729,
-    "wof:lastmodified":1449024176,
+    "wof:lastmodified":1466646362,
     "wof:name":"Big Zion AME Zion Church",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.541013,36.35214,-78.541013,36.35214],
-  "geometry": {"coordinates":[-78.541013,36.35214],"type":"Point"}
+  "bbox": [
+    -78.541013,
+    36.35214,
+    -78.541013,
+    36.35214
+],
+  "geometry": {"coordinates":[-78.54101300000001,36.35214],"type":"Point"}
 }

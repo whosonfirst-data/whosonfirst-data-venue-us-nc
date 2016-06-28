@@ -2,13 +2,14 @@
   "id": 303762985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.517063,35.483024,-79.517063,35.483024",
     "geom:latitude":35.483024,
     "geom:longitude":-79.517063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3292 River Rd",
     "sg:city":"Highfalls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303762985,
-    "wof:lastmodified":1448999844,
+    "wof:lastmodified":1466654326,
     "wof:name":"Rodney Davis",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-79.517063,35.483024,-79.517063,35.483024],
-  "geometry": {"coordinates":[-79.517063,35.483024],"type":"Point"}
+  "bbox": [
+    -79.517063,
+    35.483024,
+    -79.517063,
+    35.483024
+],
+  "geometry": {"coordinates":[-79.51706299999999,35.483024],"type":"Point"}
 }

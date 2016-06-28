@@ -2,13 +2,14 @@
   "id": 203127189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.456925,36.073397,-79.456925,36.073397",
     "geom:latitude":36.073397,
     "geom:longitude":-79.456925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 S Mebane St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203127189,
-    "wof:lastmodified":1449026708,
+    "wof:lastmodified":1466654919,
     "wof:name":"St John's New Mission",
     "wof:parent_id":85822953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.456925,36.073397,-79.456925,36.073397],
+  "bbox": [
+    -79.456925,
+    36.073397,
+    -79.456925,
+    36.073397
+],
   "geometry": {"coordinates":[-79.456925,36.073397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253425521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.73202,34.730662,-76.73202,34.730662",
     "geom:latitude":34.730662,
     "geom:longitude":-76.73202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Yaupon Ter",
     "sg:city":"Morehead City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253425521,
-    "wof:lastmodified":1449063876,
+    "wof:lastmodified":1466647447,
     "wof:name":"Willis Roofing Svc",
     "wof:parent_id":85851523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.73202,34.730662,-76.73202,34.730662],
-  "geometry": {"coordinates":[-76.73202,34.730662],"type":"Point"}
+  "bbox": [
+    -76.73202,
+    34.730662,
+    -76.73202,
+    34.730662
+],
+  "geometry": {"coordinates":[-76.73202000000001,34.730662],"type":"Point"}
 }

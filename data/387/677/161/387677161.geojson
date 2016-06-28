@@ -2,13 +2,14 @@
   "id": 387677161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.027632,35.932123,-79.027632,35.932123",
     "geom:latitude":35.932123,
     "geom:longitude":-79.027632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 S Elliott Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387677161,
-    "wof:lastmodified":1449057464,
+    "wof:lastmodified":1466657183,
     "wof:name":"With Flying Colors",
     "wof:parent_id":85852075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "editorial"
     ]
 },
-  "bbox": [-79.027632,35.932123,-79.027632,35.932123],
+  "bbox": [
+    -79.027632,
+    35.932123,
+    -79.027632,
+    35.932123
+],
   "geometry": {"coordinates":[-79.027632,35.932123],"type":"Point"}
 }

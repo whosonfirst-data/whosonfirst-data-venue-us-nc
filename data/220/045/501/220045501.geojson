@@ -2,13 +2,14 @@
   "id": 220045501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.790755,36.065364,-79.790755,36.065364",
     "geom:latitude":36.065364,
     "geom:longitude":-79.790755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 S Elm St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220045501,
-    "wof:lastmodified":1449074780,
+    "wof:lastmodified":1466643570,
     "wof:name":"Studio",
     "wof:parent_id":85877995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-79.790755,36.065364,-79.790755,36.065364],
+  "bbox": [
+    -79.790755,
+    36.065364,
+    -79.790755,
+    36.065364
+],
   "geometry": {"coordinates":[-79.790755,36.065364],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303470353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245208,36.187337,-80.245208,36.187337",
     "geom:latitude":36.187337,
     "geom:longitude":-80.245208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5943 Old Rural Hall Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303470353,
-    "wof:lastmodified":1448998703,
+    "wof:lastmodified":1466650107,
     "wof:name":"Culler Guttering Svc",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-80.245208,36.187337,-80.245208,36.187337],
-  "geometry": {"coordinates":[-80.245208,36.187337],"type":"Point"}
+  "bbox": [
+    -80.245208,
+    36.187337,
+    -80.245208,
+    36.187337
+],
+  "geometry": {"coordinates":[-80.24520800000001,36.187337],"type":"Point"}
 }

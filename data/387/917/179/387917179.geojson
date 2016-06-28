@@ -2,13 +2,14 @@
   "id": 387917179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.978192,36.402307,-78.978192,36.402307",
     "geom:latitude":36.402307,
     "geom:longitude":-78.978192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 N Main St",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387917179,
-    "wof:lastmodified":1449059423,
+    "wof:lastmodified":1466658086,
     "wof:name":"Mary Lou's Beauty Shop",
     "wof:parent_id":85829253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-78.978192,36.402307,-78.978192,36.402307],
-  "geometry": {"coordinates":[-78.978192,36.402307],"type":"Point"}
+  "bbox": [
+    -78.978192,
+    36.402307,
+    -78.978192,
+    36.402307
+],
+  "geometry": {"coordinates":[-78.97819200000001,36.402307],"type":"Point"}
 }

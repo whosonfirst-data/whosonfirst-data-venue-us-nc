@@ -2,13 +2,14 @@
   "id": 320565679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.09659,35.012189,-78.09659,35.012189",
     "geom:latitude":35.012189,
     "geom:longitude":-78.09659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"885 N Pine St",
     "sg:city":"Warsaw",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320565679,
-    "wof:lastmodified":1449014632,
+    "wof:lastmodified":1466653330,
     "wof:name":"Mc Gee's Body Shop & Wrecker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-78.09659,35.012189,-78.09659,35.012189],
-  "geometry": {"coordinates":[-78.09659,35.012189],"type":"Point"}
+  "bbox": [
+    -78.09659,
+    35.012189,
+    -78.09659,
+    35.012189
+],
+  "geometry": {"coordinates":[-78.09659000000001,35.012189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253350797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.302349,36.076975,-80.302349,36.076975",
     "geom:latitude":36.076975,
     "geom:longitude":-80.302349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Stratford Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253350797,
-    "wof:lastmodified":1449064331,
+    "wof:lastmodified":1466646592,
     "wof:name":"Flow Auto Plaza Chevrolet",
     "wof:parent_id":85856059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.302349,36.076975,-80.302349,36.076975],
-  "geometry": {"coordinates":[-80.302349,36.076975],"type":"Point"}
+  "bbox": [
+    -80.302349,
+    36.076975,
+    -80.302349,
+    36.076975
+],
+  "geometry": {"coordinates":[-80.30234900000001,36.076975],"type":"Point"}
 }

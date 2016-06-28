@@ -2,13 +2,14 @@
   "id": 337321761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.059726,34.682264,-77.059726,34.682264",
     "geom:latitude":34.682264,
     "geom:longitude":-77.059726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Youpon Dr",
     "sg:city":"Cape Carteret",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337321761,
-    "wof:lastmodified":1449026953,
+    "wof:lastmodified":1466646347,
     "wof:name":"Captured Sentiments",
     "wof:parent_id":85843465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-77.059726,34.682264,-77.059726,34.682264],
+  "bbox": [
+    -77.059726,
+    34.682264,
+    -77.059726,
+    34.682264
+],
   "geometry": {"coordinates":[-77.059726,34.682264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219374047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.698389,34.322493,-78.698389,34.322493",
     "geom:latitude":34.322493,
     "geom:longitude":-78.698389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E Main St",
     "sg:city":"Whiteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219374047,
-    "wof:lastmodified":1449071930,
+    "wof:lastmodified":1466643911,
     "wof:name":"Whiteville Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-78.698389,34.322493,-78.698389,34.322493],
-  "geometry": {"coordinates":[-78.698389,34.322493],"type":"Point"}
+  "bbox": [
+    -78.698389,
+    34.322493,
+    -78.698389,
+    34.322493
+],
+  "geometry": {"coordinates":[-78.69838900000001,34.322493],"type":"Point"}
 }

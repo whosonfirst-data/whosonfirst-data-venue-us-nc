@@ -2,13 +2,14 @@
   "id": 370429289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.548927,34.997519,-80.548927,34.997519",
     "geom:latitude":34.997519,
     "geom:longitude":-80.548927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Skyway Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370429289,
-    "wof:lastmodified":1449032286,
+    "wof:lastmodified":1466651659,
     "wof:name":"Dale Jarrett Suzuki",
     "wof:parent_id":85879029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.548927,34.997519,-80.548927,34.997519],
-  "geometry": {"coordinates":[-80.548927,34.997519],"type":"Point"}
+  "bbox": [
+    -80.548927,
+    34.997519,
+    -80.548927,
+    34.997519
+],
+  "geometry": {"coordinates":[-80.54892700000001,34.997519],"type":"Point"}
 }

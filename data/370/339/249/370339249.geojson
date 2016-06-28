@@ -2,13 +2,14 @@
   "id": 370339249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.320799,35.617025,-82.320799,35.617025",
     "geom:latitude":35.617025,
     "geom:longitude":-82.320799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Cherry St",
     "sg:city":"Black Mountain",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370339249,
-    "wof:lastmodified":1449030604,
+    "wof:lastmodified":1466650504,
     "wof:name":"Veranda Cafe & Gifts",
     "wof:parent_id":85823295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gift"
     ]
 },
-  "bbox": [-82.320799,35.617025,-82.320799,35.617025],
-  "geometry": {"coordinates":[-82.320799,35.617025],"type":"Point"}
+  "bbox": [
+    -82.320799,
+    35.617025,
+    -82.320799,
+    35.617025
+],
+  "geometry": {"coordinates":[-82.32079899999999,35.617025],"type":"Point"}
 }

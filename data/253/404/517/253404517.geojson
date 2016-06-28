@@ -2,13 +2,14 @@
   "id": 253404517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.937604,35.039453,-78.937604,35.039453",
     "geom:latitude":35.039453,
     "geom:longitude":-78.937604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Walter Reed Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253404517,
-    "wof:lastmodified":1449064804,
+    "wof:lastmodified":1466647214,
     "wof:name":"Bi-Lo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-78.937604,35.039453,-78.937604,35.039453],
-  "geometry": {"coordinates":[-78.937604,35.039453],"type":"Point"}
+  "bbox": [
+    -78.937604,
+    35.039453,
+    -78.937604,
+    35.039453
+],
+  "geometry": {"coordinates":[-78.93760399999999,35.039453],"type":"Point"}
 }

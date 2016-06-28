@@ -2,13 +2,14 @@
   "id": 235970015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.907242,34.239887,-77.907242,34.239887",
     "geom:latitude":34.239887,
     "geom:longitude":-77.907242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235970015,
-    "wof:lastmodified":1449008601,
+    "wof:lastmodified":1466643545,
     "wof:name":"Rodeway Inn",
     "wof:parent_id":85804465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-77.907242,34.239887,-77.907242,34.239887],
+  "bbox": [
+    -77.907242,
+    34.239887,
+    -77.907242,
+    34.239887
+],
   "geometry": {"coordinates":[-77.907242,34.239887],"type":"Point"}
 }

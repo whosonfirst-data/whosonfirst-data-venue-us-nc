@@ -2,13 +2,14 @@
   "id": 303080469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.360304,35.793306,-80.360304,35.793306",
     "geom:latitude":35.793306,
     "geom:longitude":-80.360304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1579 Michael Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303080469,
-    "wof:lastmodified":1449000502,
+    "wof:lastmodified":1466644403,
     "wof:name":"Bob Voyles Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.360304,35.793306,-80.360304,35.793306],
+  "bbox": [
+    -80.360304,
+    35.793306,
+    -80.360304,
+    35.793306
+],
   "geometry": {"coordinates":[-80.360304,35.793306],"type":"Point"}
 }

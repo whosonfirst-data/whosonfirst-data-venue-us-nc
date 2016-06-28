@@ -2,13 +2,14 @@
   "id": 303559399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.546768,35.916219,-77.546768,35.916219",
     "geom:latitude":35.916219,
     "geom:longitude":-77.546768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2252 N Main St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303559399,
-    "wof:lastmodified":1449000030,
+    "wof:lastmodified":1466651375,
     "wof:name":"Bryant's Barber Shop",
     "wof:parent_id":85856477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-77.546768,35.916219,-77.546768,35.916219],
+  "bbox": [
+    -77.546768,
+    35.916219,
+    -77.546768,
+    35.916219
+],
   "geometry": {"coordinates":[-77.546768,35.916219],"type":"Point"}
 }

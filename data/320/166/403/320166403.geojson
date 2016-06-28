@@ -2,13 +2,14 @@
   "id": 320166403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.591558,35.850856,-78.591558,35.850856",
     "geom:latitude":35.850856,
     "geom:longitude":-78.591558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4805 Hargrove Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320166403,
-    "wof:lastmodified":1449013350,
+    "wof:lastmodified":1466647628,
     "wof:name":"Atlantic Countertops Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "counter"
     ]
 },
-  "bbox": [-78.591558,35.850856,-78.591558,35.850856],
-  "geometry": {"coordinates":[-78.591558,35.850856],"type":"Point"}
+  "bbox": [
+    -78.591558,
+    35.850856,
+    -78.591558,
+    35.850856
+],
+  "geometry": {"coordinates":[-78.59155800000001,35.850856],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303215261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.75903,35.816725,-81.75903,35.816725",
     "geom:latitude":35.816725,
     "geom:longitude":-81.75903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2423 Hollybrook Ln",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303215261,
-    "wof:lastmodified":1449000136,
+    "wof:lastmodified":1466646435,
     "wof:name":"Best Friends Custom Vending",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-81.75903,35.816725,-81.75903,35.816725],
+  "bbox": [
+    -81.75903,
+    35.816725,
+    -81.75903,
+    35.816725
+],
   "geometry": {"coordinates":[-81.75903,35.816725],"type":"Point"}
 }

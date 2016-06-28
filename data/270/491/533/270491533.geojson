@@ -2,13 +2,14 @@
   "id": 270491533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.940913,35.09155,-78.940913,35.09155",
     "geom:latitude":35.09155,
     "geom:longitude":-78.940913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1764 Tryon Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270491533,
-    "wof:lastmodified":1449008625,
+    "wof:lastmodified":1466649333,
     "wof:name":"Golf Inc",
     "wof:parent_id":85858619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.940913,35.09155,-78.940913,35.09155],
-  "geometry": {"coordinates":[-78.940913,35.09155],"type":"Point"}
+  "bbox": [
+    -78.940913,
+    35.09155,
+    -78.940913,
+    35.09155
+],
+  "geometry": {"coordinates":[-78.94091299999999,35.09155],"type":"Point"}
 }

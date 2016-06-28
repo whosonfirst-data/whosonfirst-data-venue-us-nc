@@ -2,13 +2,14 @@
   "id": 253700011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.593432,35.571924,-82.593432,35.571924",
     "geom:latitude":35.571924,
     "geom:longitude":-82.593432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Brevard Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253700011,
-    "wof:lastmodified":1449065530,
+    "wof:lastmodified":1466650741,
     "wof:name":"Paint Town",
     "wof:parent_id":85824401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.593432,35.571924,-82.593432,35.571924],
-  "geometry": {"coordinates":[-82.593432,35.571924],"type":"Point"}
+  "bbox": [
+    -82.593432,
+    35.571924,
+    -82.593432,
+    35.571924
+],
+  "geometry": {"coordinates":[-82.59343200000001,35.571924],"type":"Point"}
 }

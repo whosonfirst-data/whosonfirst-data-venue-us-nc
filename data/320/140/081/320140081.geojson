@@ -2,13 +2,14 @@
   "id": 320140081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.524086,34.994572,-80.524086,34.994572",
     "geom:latitude":34.994572,
     "geom:longitude":-80.524086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 Morgan Mill Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320140081,
-    "wof:lastmodified":1449011796,
+    "wof:lastmodified":1466647265,
     "wof:name":"Austin Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.524086,34.994572,-80.524086,34.994572],
+  "bbox": [
+    -80.524086,
+    34.994572,
+    -80.524086,
+    34.994572
+],
   "geometry": {"coordinates":[-80.524086,34.994572],"type":"Point"}
 }

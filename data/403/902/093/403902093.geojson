@@ -2,13 +2,14 @@
   "id": 403902093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.468533,35.701114,-80.468533,35.701114",
     "geom:latitude":35.701114,
     "geom:longitude":-80.468533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Wellington Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403902093,
-    "wof:lastmodified":1449055600,
+    "wof:lastmodified":1466652929,
     "wof:name":"J&T Properties of Greensb",
     "wof:parent_id":85805615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.468533,35.701114,-80.468533,35.701114],
-  "geometry": {"coordinates":[-80.468533,35.701114],"type":"Point"}
+  "bbox": [
+    -80.468533,
+    35.701114,
+    -80.468533,
+    35.701114
+],
+  "geometry": {"coordinates":[-80.46853299999999,35.701114],"type":"Point"}
 }

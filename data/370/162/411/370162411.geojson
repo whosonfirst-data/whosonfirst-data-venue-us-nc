@@ -2,13 +2,14 @@
   "id": 370162411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.146254,36.154742,-81.146254,36.154742",
     "geom:latitude":36.154742,
     "geom:longitude":-81.146254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Wilkesboro Ave",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370162411,
-    "wof:lastmodified":1449031974,
+    "wof:lastmodified":1466648274,
     "wof:name":"First Quality Tile",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.146254,36.154742,-81.146254,36.154742],
+  "bbox": [
+    -81.146254,
+    36.154742,
+    -81.146254,
+    36.154742
+],
   "geometry": {"coordinates":[-81.146254,36.154742],"type":"Point"}
 }

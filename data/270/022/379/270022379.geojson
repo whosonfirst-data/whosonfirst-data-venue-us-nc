@@ -2,13 +2,14 @@
   "id": 270022379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.560002,35.595777,-82.560002,35.595777",
     "geom:latitude":35.595777,
     "geom:longitude":-82.560002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Haywood St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270022379,
-    "wof:lastmodified":1449009447,
+    "wof:lastmodified":1466643457,
     "wof:name":"WNC Hearing Aid Svc",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "impaired"
     ]
 },
-  "bbox": [-82.560002,35.595777,-82.560002,35.595777],
+  "bbox": [
+    -82.560002,
+    35.595777,
+    -82.560002,
+    35.595777
+],
   "geometry": {"coordinates":[-82.560002,35.595777],"type":"Point"}
 }

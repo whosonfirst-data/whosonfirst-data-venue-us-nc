@@ -2,13 +2,14 @@
   "id": 203215289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803079,35.82037,-79.803079,35.82037",
     "geom:latitude":35.82037,
     "geom:longitude":-79.803079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Main St",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203215289,
-    "wof:lastmodified":1449026510,
+    "wof:lastmodified":1466655273,
     "wof:name":"Randleman Motors",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-79.803079,35.82037,-79.803079,35.82037],
+  "bbox": [
+    -79.803079,
+    35.82037,
+    -79.803079,
+    35.82037
+],
   "geometry": {"coordinates":[-79.803079,35.82037],"type":"Point"}
 }

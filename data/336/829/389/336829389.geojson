@@ -2,13 +2,14 @@
   "id": 336829389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.550508,34.995314,-80.550508,34.995314",
     "geom:latitude":34.995314,
     "geom:longitude":-80.550508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Few St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336829389,
-    "wof:lastmodified":1448997941,
+    "wof:lastmodified":1466649319,
     "wof:name":"Jack & Jill Tots",
     "wof:parent_id":85879029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.550508,34.995314,-80.550508,34.995314],
-  "geometry": {"coordinates":[-80.550508,34.995314],"type":"Point"}
+  "bbox": [
+    -80.550508,
+    34.995314,
+    -80.550508,
+    34.995314
+],
+  "geometry": {"coordinates":[-80.55050799999999,34.995314],"type":"Point"}
 }

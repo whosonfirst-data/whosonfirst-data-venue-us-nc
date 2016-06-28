@@ -2,13 +2,14 @@
   "id": 287203945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.808005,35.762618,-78.808005,35.762618",
     "geom:latitude":35.762618,
     "geom:longitude":-78.808005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Gatehouse Dr",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287203945,
-    "wof:lastmodified":1449001051,
+    "wof:lastmodified":1466646141,
     "wof:name":"Ecotech",
     "wof:parent_id":85847215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-78.808005,35.762618,-78.808005,35.762618],
-  "geometry": {"coordinates":[-78.808005,35.762618],"type":"Point"}
+  "bbox": [
+    -78.808005,
+    35.762618,
+    -78.808005,
+    35.762618
+],
+  "geometry": {"coordinates":[-78.80800499999999,35.762618],"type":"Point"}
 }

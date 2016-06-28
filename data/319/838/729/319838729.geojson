@@ -2,13 +2,14 @@
   "id": 319838729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.975777,35.48596,-76.975777,35.48596",
     "geom:latitude":35.48596,
     "geom:longitude":-76.975777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Swan Point Dr",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319838729,
-    "wof:lastmodified":1449024193,
+    "wof:lastmodified":1466645144,
     "wof:name":"Bas Medical",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.975777,35.48596,-76.975777,35.48596],
-  "geometry": {"coordinates":[-76.975777,35.48596],"type":"Point"}
+  "bbox": [
+    -76.975777,
+    35.48596,
+    -76.975777,
+    35.48596
+],
+  "geometry": {"coordinates":[-76.97577699999999,35.48596],"type":"Point"}
 }

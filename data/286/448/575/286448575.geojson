@@ -2,13 +2,14 @@
   "id": 286448575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210895,35.844596,-80.210895,35.844596",
     "geom:latitude":35.844596,
     "geom:longitude":-80.210895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Park Ave",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286448575,
-    "wof:lastmodified":1449017948,
+    "wof:lastmodified":1466645649,
     "wof:name":"Larry Peterson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-80.210895,35.844596,-80.210895,35.844596],
-  "geometry": {"coordinates":[-80.210895,35.844596],"type":"Point"}
+  "bbox": [
+    -80.210895,
+    35.844596,
+    -80.210895,
+    35.844596
+],
+  "geometry": {"coordinates":[-80.21089499999999,35.844596],"type":"Point"}
 }

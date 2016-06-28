@@ -2,13 +2,14 @@
   "id": 370561681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.547981,35.97466,-78.547981,35.97466",
     "geom:latitude":35.97466,
     "geom:longitude":-78.547981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"948 Federal House Ave",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370561681,
-    "wof:lastmodified":1449031492,
+    "wof:lastmodified":1466653379,
     "wof:name":"Health First Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.547981,35.97466,-78.547981,35.97466],
-  "geometry": {"coordinates":[-78.547981,35.97466],"type":"Point"}
+  "bbox": [
+    -78.547981,
+    35.97466,
+    -78.547981,
+    35.97466
+],
+  "geometry": {"coordinates":[-78.54798099999999,35.97466],"type":"Point"}
 }

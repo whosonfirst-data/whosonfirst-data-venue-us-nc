@@ -2,13 +2,14 @@
   "id": 387572867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.970391,35.050196,-78.970391,35.050196",
     "geom:latitude":35.050196,
     "geom:longitude":-78.970391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5491 Lazybrook Ct",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387572867,
-    "wof:lastmodified":1449058432,
+    "wof:lastmodified":1466656524,
     "wof:name":"Woodbridge Alternatives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.970391,35.050196,-78.970391,35.050196],
-  "geometry": {"coordinates":[-78.970391,35.050196],"type":"Point"}
+  "bbox": [
+    -78.970391,
+    35.050196,
+    -78.970391,
+    35.050196
+],
+  "geometry": {"coordinates":[-78.97039100000001,35.050196],"type":"Point"}
 }

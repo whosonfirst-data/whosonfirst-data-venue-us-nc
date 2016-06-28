@@ -2,13 +2,14 @@
   "id": 387826511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.933169,35.034121,-78.933169,35.034121",
     "geom:latitude":35.034121,
     "geom:longitude":-78.933169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Beaumont Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387826511,
-    "wof:lastmodified":1449058875,
+    "wof:lastmodified":1466657831,
     "wof:name":"Occupational Health Svc",
     "wof:parent_id":85877381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-78.933169,35.034121,-78.933169,35.034121],
-  "geometry": {"coordinates":[-78.933169,35.034121],"type":"Point"}
+  "bbox": [
+    -78.933169,
+    35.034121,
+    -78.933169,
+    35.034121
+],
+  "geometry": {"coordinates":[-78.93316900000001,35.034121],"type":"Point"}
 }

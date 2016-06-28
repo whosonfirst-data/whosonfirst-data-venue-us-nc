@@ -2,13 +2,14 @@
   "id": 337338061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.062193,35.329085,-81.062193,35.329085",
     "geom:latitude":35.329085,
     "geom:longitude":-81.062193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Meadow Ln",
     "sg:city":"Mt Holly",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337338061,
-    "wof:lastmodified":1449027224,
+    "wof:lastmodified":1466646486,
     "wof:name":"Quality Imports",
     "wof:parent_id":85826219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-81.062193,35.329085,-81.062193,35.329085],
-  "geometry": {"coordinates":[-81.062193,35.329085],"type":"Point"}
+  "bbox": [
+    -81.062193,
+    35.329085,
+    -81.062193,
+    35.329085
+],
+  "geometry": {"coordinates":[-81.06219299999999,35.329085],"type":"Point"}
 }

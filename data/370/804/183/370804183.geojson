@@ -2,13 +2,14 @@
   "id": 370804183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.319032,35.619349,-82.319032,35.619349",
     "geom:latitude":35.619349,
     "geom:longitude":-82.319032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E State St",
     "sg:city":"Black Mountain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370804183,
-    "wof:lastmodified":1449031440,
+    "wof:lastmodified":1466656382,
     "wof:name":"Buchanan Real Estate & Auction",
     "wof:parent_id":85823295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-82.319032,35.619349,-82.319032,35.619349],
-  "geometry": {"coordinates":[-82.319032,35.619349],"type":"Point"}
+  "bbox": [
+    -82.319032,
+    35.619349,
+    -82.319032,
+    35.619349
+],
+  "geometry": {"coordinates":[-82.31903200000001,35.619349],"type":"Point"}
 }

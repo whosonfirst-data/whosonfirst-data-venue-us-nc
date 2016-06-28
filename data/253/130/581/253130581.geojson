@@ -2,13 +2,14 @@
   "id": 253130581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.801103,35.943925,-77.801103,35.943925",
     "geom:latitude":35.943925,
     "geom:longitude":-77.801103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Sunset Ave",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253130581,
-    "wof:lastmodified":1449063843,
+    "wof:lastmodified":1466644349,
     "wof:name":"Fields & Cooper",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-77.801103,35.943925,-77.801103,35.943925],
+  "bbox": [
+    -77.801103,
+    35.943925,
+    -77.801103,
+    35.943925
+],
   "geometry": {"coordinates":[-77.801103,35.943925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336876037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.220488,35.659494,-81.220488,35.659494",
     "geom:latitude":35.659494,
     "geom:longitude":-81.220488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E D St",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336876037,
-    "wof:lastmodified":1448997168,
+    "wof:lastmodified":1466650062,
     "wof:name":"Produce Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-81.220488,35.659494,-81.220488,35.659494],
+  "bbox": [
+    -81.220488,
+    35.659494,
+    -81.220488,
+    35.659494
+],
   "geometry": {"coordinates":[-81.220488,35.659494],"type":"Point"}
 }

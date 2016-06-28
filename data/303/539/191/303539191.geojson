@@ -2,13 +2,14 @@
   "id": 303539191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.84748,34.254187,-77.84748,34.254187",
     "geom:latitude":34.254187,
     "geom:longitude":-77.84748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6205 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303539191,
-    "wof:lastmodified":1449000616,
+    "wof:lastmodified":1466651075,
     "wof:name":"Azalea Coast Animal Care",
     "wof:parent_id":85857269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "animal"
     ]
 },
-  "bbox": [-77.84748,34.254187,-77.84748,34.254187],
+  "bbox": [
+    -77.84748,
+    34.254187,
+    -77.84748,
+    34.254187
+],
   "geometry": {"coordinates":[-77.84748,34.254187],"type":"Point"}
 }

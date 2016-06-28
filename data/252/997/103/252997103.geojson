@@ -2,13 +2,14 @@
   "id": 252997103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.461278,35.315666,-82.461278,35.315666",
     "geom:latitude":35.315666,
     "geom:longitude":-82.461278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 3rd Ave W",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":252997103,
-    "wof:lastmodified":1449006325,
+    "wof:lastmodified":1466645843,
     "wof:name":"Inn On Church Street",
     "wof:parent_id":85804503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-82.461278,35.315666,-82.461278,35.315666],
-  "geometry": {"coordinates":[-82.461278,35.315666],"type":"Point"}
+  "bbox": [
+    -82.461278,
+    35.315666,
+    -82.461278,
+    35.315666
+],
+  "geometry": {"coordinates":[-82.46127799999999,35.315666],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370262357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.399318,35.166127,-83.399318,35.166127",
     "geom:latitude":35.166127,
     "geom:longitude":-83.399318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Orchard View Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370262357,
-    "wof:lastmodified":1449031183,
+    "wof:lastmodified":1466649564,
     "wof:name":"Orchard View Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-83.399318,35.166127,-83.399318,35.166127],
-  "geometry": {"coordinates":[-83.399318,35.166127],"type":"Point"}
+  "bbox": [
+    -83.399318,
+    35.166127,
+    -83.399318,
+    35.166127
+],
+  "geometry": {"coordinates":[-83.39931799999999,35.166127],"type":"Point"}
 }

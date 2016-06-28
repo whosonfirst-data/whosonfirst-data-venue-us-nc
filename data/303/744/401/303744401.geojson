@@ -2,13 +2,14 @@
   "id": 303744401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.696773,35.316537,-80.696773,35.316537",
     "geom:latitude":35.316537,
     "geom:longitude":-80.696773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Hedgelawn Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303744401,
-    "wof:lastmodified":1448999001,
+    "wof:lastmodified":1466654059,
     "wof:name":"University Square Senior Apts",
     "wof:parent_id":85891949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.696773,35.316537,-80.696773,35.316537],
-  "geometry": {"coordinates":[-80.696773,35.316537],"type":"Point"}
+  "bbox": [
+    -80.696773,
+    35.316537,
+    -80.696773,
+    35.316537
+],
+  "geometry": {"coordinates":[-80.69677299999999,35.316537],"type":"Point"}
 }

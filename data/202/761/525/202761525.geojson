@@ -2,13 +2,14 @@
   "id": 202761525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.005135,35.643895,-81.005135,35.643895",
     "geom:latitude":35.643895,
     "geom:longitude":-81.005135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Wooten St",
     "sg:city":"Catawba",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202761525,
-    "wof:lastmodified":1449062053,
+    "wof:lastmodified":1466643883,
     "wof:name":"Village Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.005135,35.643895,-81.005135,35.643895],
+  "bbox": [
+    -81.005135,
+    35.643895,
+    -81.005135,
+    35.643895
+],
   "geometry": {"coordinates":[-81.005135,35.643895],"type":"Point"}
 }

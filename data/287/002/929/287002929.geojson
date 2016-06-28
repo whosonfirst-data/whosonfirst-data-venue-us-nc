@@ -2,13 +2,14 @@
   "id": 287002929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.564426,35.265847,-81.564426,35.265847",
     "geom:latitude":35.265847,
     "geom:longitude":-81.564426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 James Love School Rd",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287002929,
-    "wof:lastmodified":1449001399,
+    "wof:lastmodified":1466643256,
     "wof:name":"James Love Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-81.564426,35.265847,-81.564426,35.265847],
+  "bbox": [
+    -81.564426,
+    35.265847,
+    -81.564426,
+    35.265847
+],
   "geometry": {"coordinates":[-81.564426,35.265847],"type":"Point"}
 }

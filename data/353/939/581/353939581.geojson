@@ -2,13 +2,14 @@
   "id": 353939581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.830081,34.328581,-78.830081,34.328581",
     "geom:latitude":34.328581,
     "geom:longitude":-78.830081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 W 6th Ave",
     "sg:city":"Chadbourn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353939581,
-    "wof:lastmodified":1449019018,
+    "wof:lastmodified":1466653380,
     "wof:name":"Berry Court Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.830081,34.328581,-78.830081,34.328581],
-  "geometry": {"coordinates":[-78.830081,34.328581],"type":"Point"}
+  "bbox": [
+    -78.830081,
+    34.328581,
+    -78.830081,
+    34.328581
+],
+  "geometry": {"coordinates":[-78.83008100000001,34.328581],"type":"Point"}
 }

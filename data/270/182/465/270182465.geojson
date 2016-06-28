@@ -2,13 +2,14 @@
   "id": 270182465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.936253,36.083774,-79.936253,36.083774",
     "geom:latitude":36.083774,
     "geom:longitude":-79.936253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 W Market St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270182465,
-    "wof:lastmodified":1449010208,
+    "wof:lastmodified":1466645385,
     "wof:name":"Jefferson Pilot Aviation",
     "wof:parent_id":85843403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-79.936253,36.083774,-79.936253,36.083774],
-  "geometry": {"coordinates":[-79.936253,36.083774],"type":"Point"}
+  "bbox": [
+    -79.936253,
+    36.083774,
+    -79.936253,
+    36.083774
+],
+  "geometry": {"coordinates":[-79.93625299999999,36.083774],"type":"Point"}
 }

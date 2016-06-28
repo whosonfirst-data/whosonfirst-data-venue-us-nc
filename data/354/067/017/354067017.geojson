@@ -2,13 +2,14 @@
   "id": 354067017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.858613,36.157921,-75.858613,36.157921",
     "geom:latitude":36.157921,
     "geom:longitude":-75.858613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7664 Caratoke Hwy",
     "sg:city":"Powells Point",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354067017,
-    "wof:lastmodified":1449066043,
+    "wof:lastmodified":1466648341,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.858613,36.157921,-75.858613,36.157921],
-  "geometry": {"coordinates":[-75.858613,36.157921],"type":"Point"}
+  "bbox": [
+    -75.858613,
+    36.157921,
+    -75.858613,
+    36.157921
+],
+  "geometry": {"coordinates":[-75.85861300000001,36.157921],"type":"Point"}
 }

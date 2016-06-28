@@ -2,13 +2,14 @@
   "id": 337423249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.600434,35.306658,-78.600434,35.306658",
     "geom:latitude":35.306658,
     "geom:longitude":-78.600434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 du Bois Cir",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337423249,
-    "wof:lastmodified":1449027059,
+    "wof:lastmodified":1466646917,
     "wof:name":"VMS Home Oxygen Inc",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "med"
     ]
 },
-  "bbox": [-78.600434,35.306658,-78.600434,35.306658],
-  "geometry": {"coordinates":[-78.600434,35.306658],"type":"Point"}
+  "bbox": [
+    -78.600434,
+    35.306658,
+    -78.600434,
+    35.306658
+],
+  "geometry": {"coordinates":[-78.60043400000001,35.306658],"type":"Point"}
 }

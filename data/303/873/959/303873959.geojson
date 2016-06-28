@@ -2,13 +2,14 @@
   "id": 303873959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.840128,35.658892,-81.840128,35.658892",
     "geom:latitude":35.658892,
     "geom:longitude":-81.840128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5394 Dysartsville Rd",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303873959,
-    "wof:lastmodified":1448998626,
+    "wof:lastmodified":1466655985,
     "wof:name":"Pollard Hicks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.840128,35.658892,-81.840128,35.658892],
-  "geometry": {"coordinates":[-81.840128,35.658892],"type":"Point"}
+  "bbox": [
+    -81.840128,
+    35.658892,
+    -81.840128,
+    35.658892
+],
+  "geometry": {"coordinates":[-81.84012800000001,35.658892],"type":"Point"}
 }

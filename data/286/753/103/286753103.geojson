@@ -2,13 +2,14 @@
   "id": 286753103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.901168,34.224108,-77.901168,34.224108",
     "geom:latitude":34.224108,
     "geom:longitude":-77.901168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3439 Wilshire Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286753103,
-    "wof:lastmodified":1449015519,
+    "wof:lastmodified":1466649813,
     "wof:name":"Chase Mooring Apartments",
     "wof:parent_id":85819913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "rental"
     ]
 },
-  "bbox": [-77.901168,34.224108,-77.901168,34.224108],
+  "bbox": [
+    -77.901168,
+    34.224108,
+    -77.901168,
+    34.224108
+],
   "geometry": {"coordinates":[-77.901168,34.224108],"type":"Point"}
 }

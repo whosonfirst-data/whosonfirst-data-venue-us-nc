@@ -2,13 +2,14 @@
   "id": 336828525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.837678,36.009704,-79.837678,36.009704",
     "geom:latitude":36.009704,
     "geom:longitude":-79.837678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Phoenix Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336828525,
-    "wof:lastmodified":1448997501,
+    "wof:lastmodified":1466649307,
     "wof:name":"Artist's Needle",
     "wof:parent_id":85856705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-79.837678,36.009704,-79.837678,36.009704],
+  "bbox": [
+    -79.837678,
+    36.009704,
+    -79.837678,
+    36.009704
+],
   "geometry": {"coordinates":[-79.837678,36.009704],"type":"Point"}
 }

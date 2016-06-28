@@ -2,13 +2,14 @@
   "id": 403839913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.065998,35.879495,-80.065998,35.879495",
     "geom:latitude":35.879495,
     "geom:longitude":-80.065998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Liberty Dr",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403839913,
-    "wof:lastmodified":1449055453,
+    "wof:lastmodified":1466652138,
     "wof:name":"Thomasville City Sch Cafeteria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.065998,35.879495,-80.065998,35.879495],
-  "geometry": {"coordinates":[-80.065998,35.879495],"type":"Point"}
+  "bbox": [
+    -80.065998,
+    35.879495,
+    -80.065998,
+    35.879495
+],
+  "geometry": {"coordinates":[-80.06599799999999,35.879495],"type":"Point"}
 }

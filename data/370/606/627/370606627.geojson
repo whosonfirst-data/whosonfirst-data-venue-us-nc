@@ -2,13 +2,14 @@
   "id": 370606627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.193143,35.68167,-78.193143,35.68167",
     "geom:latitude":35.68167,
     "geom:longitude":-78.193143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12475 State Hwy 42 E",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370606627,
-    "wof:lastmodified":1449029615,
+    "wof:lastmodified":1466653962,
     "wof:name":"Johnson William H",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.193143,35.68167,-78.193143,35.68167],
-  "geometry": {"coordinates":[-78.193143,35.68167],"type":"Point"}
+  "bbox": [
+    -78.193143,
+    35.68167,
+    -78.193143,
+    35.68167
+],
+  "geometry": {"coordinates":[-78.19314300000001,35.68167],"type":"Point"}
 }

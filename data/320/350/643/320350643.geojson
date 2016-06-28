@@ -2,13 +2,14 @@
   "id": 320350643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.251415,35.454886,-78.251415,35.454886",
     "geom:latitude":35.454886,
     "geom:longitude":-78.251415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1189 Preston Rd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320350643,
-    "wof:lastmodified":1449013162,
+    "wof:lastmodified":1466650219,
     "wof:name":"Creechs Trucking",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "long"
     ]
 },
-  "bbox": [-78.251415,35.454886,-78.251415,35.454886],
-  "geometry": {"coordinates":[-78.251415,35.454886],"type":"Point"}
+  "bbox": [
+    -78.251415,
+    35.454886,
+    -78.251415,
+    35.454886
+],
+  "geometry": {"coordinates":[-78.25141499999999,35.454886],"type":"Point"}
 }

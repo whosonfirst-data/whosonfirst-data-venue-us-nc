@@ -2,13 +2,14 @@
   "id": 203084833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.372352,35.583663,-77.372352,35.583663",
     "geom:latitude":35.583663,
     "geom:longitude":-77.372352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Greenville Blvd SE",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203084833,
-    "wof:lastmodified":1449025146,
+    "wof:lastmodified":1466654728,
     "wof:name":"Alamosa PCS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-77.372352,35.583663,-77.372352,35.583663],
-  "geometry": {"coordinates":[-77.372352,35.583663],"type":"Point"}
+  "bbox": [
+    -77.372352,
+    35.583663,
+    -77.372352,
+    35.583663
+],
+  "geometry": {"coordinates":[-77.37235200000001,35.583663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403862983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.469578,35.668876,-80.469578,35.668876",
     "geom:latitude":35.668876,
     "geom:longitude":-80.469578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 W Council St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403862983,
-    "wof:lastmodified":1449056014,
+    "wof:lastmodified":1466652443,
     "wof:name":"St Luke's Episcopal Church",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.469578,35.668876,-80.469578,35.668876],
+  "bbox": [
+    -80.469578,
+    35.668876,
+    -80.469578,
+    35.668876
+],
   "geometry": {"coordinates":[-80.469578,35.668876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286827187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.929516,36.039467,-78.929516,36.039467",
     "geom:latitude":36.039467,
     "geom:longitude":-78.929516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3314 Guess Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286827187,
-    "wof:lastmodified":1449016237,
+    "wof:lastmodified":1466650816,
     "wof:name":"Mailing Service",
     "wof:parent_id":85877173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-78.929516,36.039467,-78.929516,36.039467],
-  "geometry": {"coordinates":[-78.929516,36.039467],"type":"Point"}
+  "bbox": [
+    -78.929516,
+    36.039467,
+    -78.929516,
+    36.039467
+],
+  "geometry": {"coordinates":[-78.92951600000001,36.039467],"type":"Point"}
 }

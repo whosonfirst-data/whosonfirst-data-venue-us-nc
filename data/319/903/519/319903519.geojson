@@ -2,13 +2,14 @@
   "id": 319903519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.909799,34.192997,-77.909799,34.192997",
     "geom:latitude":34.192997,
     "geom:longitude":-77.909799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2528 Independence Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":319903519,
-    "wof:lastmodified":1449024147,
+    "wof:lastmodified":1466646089,
     "wof:name":"Boney Architects",
     "wof:parent_id":85821737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.909799,34.192997,-77.909799,34.192997],
-  "geometry": {"coordinates":[-77.909799,34.192997],"type":"Point"}
+  "bbox": [
+    -77.909799,
+    34.192997,
+    -77.909799,
+    34.192997
+],
+  "geometry": {"coordinates":[-77.90979900000001,34.192997],"type":"Point"}
 }

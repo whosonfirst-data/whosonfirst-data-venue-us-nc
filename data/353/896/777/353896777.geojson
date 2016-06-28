@@ -2,13 +2,14 @@
   "id": 353896777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.386721,35.467587,-83.386721,35.467587",
     "geom:latitude":35.467587,
     "geom:longitude":-83.386721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Dugans Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353896777,
-    "wof:lastmodified":1449019187,
+    "wof:lastmodified":1466652872,
     "wof:name":"Mountainview Mobile Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-83.386721,35.467587,-83.386721,35.467587],
-  "geometry": {"coordinates":[-83.386721,35.467587],"type":"Point"}
+  "bbox": [
+    -83.386721,
+    35.467587,
+    -83.386721,
+    35.467587
+],
+  "geometry": {"coordinates":[-83.38672099999999,35.467587],"type":"Point"}
 }

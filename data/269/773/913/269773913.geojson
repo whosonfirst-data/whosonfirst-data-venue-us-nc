@@ -2,13 +2,14 @@
   "id": 269773913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.223368,35.317241,-81.223368,35.317241",
     "geom:latitude":35.317241,
     "geom:longitude":-81.223368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Applewood Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269773913,
-    "wof:lastmodified":1449036438,
+    "wof:lastmodified":1466646653,
     "wof:name":"Freeman Corrugated Containers",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.223368,35.317241,-81.223368,35.317241],
-  "geometry": {"coordinates":[-81.223368,35.317241],"type":"Point"}
+  "bbox": [
+    -81.223368,
+    35.317241,
+    -81.223368,
+    35.317241
+],
+  "geometry": {"coordinates":[-81.22336799999999,35.317241],"type":"Point"}
 }

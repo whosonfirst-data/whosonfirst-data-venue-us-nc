@@ -2,13 +2,14 @@
   "id": 253502995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.885629,35.984981,-78.885629,35.984981",
     "geom:latitude":35.984981,
     "geom:longitude":-78.885629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Angier Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":253502995,
-    "wof:lastmodified":1449064173,
+    "wof:lastmodified":1466648412,
     "wof:name":"Green Oil Company Inc",
     "wof:parent_id":85877165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.885629,35.984981,-78.885629,35.984981],
-  "geometry": {"coordinates":[-78.885629,35.984981],"type":"Point"}
+  "bbox": [
+    -78.885629,
+    35.984981,
+    -78.885629,
+    35.984981
+],
+  "geometry": {"coordinates":[-78.88562899999999,35.984981],"type":"Point"}
 }

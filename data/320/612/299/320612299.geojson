@@ -2,13 +2,14 @@
   "id": 320612299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.817532,36.064862,-77.817532,36.064862",
     "geom:latitude":36.064862,
     "geom:longitude":-77.817532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7730 State Hwy 48",
     "sg:city":"Battleboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320612299,
-    "wof:lastmodified":1449012905,
+    "wof:lastmodified":1466654003,
     "wof:name":"Texaco Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-77.817532,36.064862,-77.817532,36.064862],
+  "bbox": [
+    -77.817532,
+    36.064862,
+    -77.817532,
+    36.064862
+],
   "geometry": {"coordinates":[-77.817532,36.064862],"type":"Point"}
 }

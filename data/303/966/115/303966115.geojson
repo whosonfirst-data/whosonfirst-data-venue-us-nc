@@ -2,13 +2,14 @@
   "id": 303966115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.285908,36.222787,-80.285908,36.222787",
     "geom:latitude":36.222787,
     "geom:longitude":-80.285908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6940 Broad St",
     "sg:city":"Rural Hall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303966115,
-    "wof:lastmodified":1448998133,
+    "wof:lastmodified":1466656818,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-80.285908,36.222787,-80.285908,36.222787],
-  "geometry": {"coordinates":[-80.285908,36.222787],"type":"Point"}
+  "bbox": [
+    -80.285908,
+    36.222787,
+    -80.285908,
+    36.222787
+],
+  "geometry": {"coordinates":[-80.28590800000001,36.222787],"type":"Point"}
 }

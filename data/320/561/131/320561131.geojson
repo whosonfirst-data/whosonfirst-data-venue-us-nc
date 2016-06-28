@@ -2,13 +2,14 @@
   "id": 320561131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.962454,35.042682,-78.962454,35.042682",
     "geom:latitude":35.042682,
     "geom:longitude":-78.962454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5011 Raeford Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320561131,
-    "wof:lastmodified":1449013910,
+    "wof:lastmodified":1466653259,
     "wof:name":"Carolina Planning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.962454,35.042682,-78.962454,35.042682],
-  "geometry": {"coordinates":[-78.962454,35.042682],"type":"Point"}
+  "bbox": [
+    -78.962454,
+    35.042682,
+    -78.962454,
+    35.042682
+],
+  "geometry": {"coordinates":[-78.96245399999999,35.042682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387860113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.100469,36.253061,-79.100469,36.253061",
     "geom:latitude":36.253061,
     "geom:longitude":-79.100469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1434 McCullock Loop Rd",
     "sg:city":"Hurdle Mills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387860113,
-    "wof:lastmodified":1449057799,
+    "wof:lastmodified":1466657764,
     "wof:name":"Bay Data Inc",
     "wof:parent_id":85823157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-79.100469,36.253061,-79.100469,36.253061],
+  "bbox": [
+    -79.100469,
+    36.253061,
+    -79.100469,
+    36.253061
+],
   "geometry": {"coordinates":[-79.100469,36.253061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370815001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005471,35.979736,-80.005471,35.979736",
     "geom:latitude":35.979736,
     "geom:longitude":-80.005471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Tabor St",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370815001,
-    "wof:lastmodified":1449030732,
+    "wof:lastmodified":1466656286,
     "wof:name":"J & J Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-80.005471,35.979736,-80.005471,35.979736],
+  "bbox": [
+    -80.005471,
+    35.979736,
+    -80.005471,
+    35.979736
+],
   "geometry": {"coordinates":[-80.005471,35.979736],"type":"Point"}
 }

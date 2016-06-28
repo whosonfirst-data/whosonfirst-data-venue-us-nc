@@ -2,13 +2,14 @@
   "id": 304010535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337528,35.234049,-80.337528,35.234049",
     "geom:latitude":35.234049,
     "geom:longitude":-80.337528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 N Main St",
     "sg:city":"Oakboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304010535,
-    "wof:lastmodified":1449043954,
+    "wof:lastmodified":1466644318,
     "wof:name":"David R Huneycutt",
     "wof:parent_id":85892003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.337528,35.234049,-80.337528,35.234049],
-  "geometry": {"coordinates":[-80.337528,35.234049],"type":"Point"}
+  "bbox": [
+    -80.337528,
+    35.234049,
+    -80.337528,
+    35.234049
+],
+  "geometry": {"coordinates":[-80.33752800000001,35.234049],"type":"Point"}
 }

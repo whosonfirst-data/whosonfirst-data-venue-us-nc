@@ -2,13 +2,14 @@
   "id": 252728407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.924985,34.207143,-77.924985,34.207143",
     "geom:latitude":34.207143,
     "geom:longitude":-77.924985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Doctors Cir",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":252728407,
-    "wof:lastmodified":1449005674,
+    "wof:lastmodified":1466643405,
     "wof:name":"Morgan Frazelle Lee & McGee",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-77.924985,34.207143,-77.924985,34.207143],
-  "geometry": {"coordinates":[-77.924985,34.207143],"type":"Point"}
+  "bbox": [
+    -77.924985,
+    34.207143,
+    -77.924985,
+    34.207143
+],
+  "geometry": {"coordinates":[-77.92498500000001,34.207143],"type":"Point"}
 }

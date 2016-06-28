@@ -2,13 +2,14 @@
   "id": 303082323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.471961,36.096291,-79.471961,36.096291",
     "geom:latitude":36.096291,
     "geom:longitude":-79.471961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Woodland Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303082323,
-    "wof:lastmodified":1448998179,
+    "wof:lastmodified":1466644431,
     "wof:name":"Registry Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "referral"
     ]
 },
-  "bbox": [-79.471961,36.096291,-79.471961,36.096291],
-  "geometry": {"coordinates":[-79.471961,36.096291],"type":"Point"}
+  "bbox": [
+    -79.471961,
+    36.096291,
+    -79.471961,
+    36.096291
+],
+  "geometry": {"coordinates":[-79.47196099999999,36.096291],"type":"Point"}
 }

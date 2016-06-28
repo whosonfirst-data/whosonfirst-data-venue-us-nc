@@ -2,13 +2,14 @@
   "id": 387083989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.601624,35.06255,-80.601624,35.06255",
     "geom:latitude":35.06255,
     "geom:longitude":-80.601624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3023 Haywood Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387083989,
-    "wof:lastmodified":1449057907,
+    "wof:lastmodified":1466650944,
     "wof:name":"Moores Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-80.601624,35.06255,-80.601624,35.06255],
+  "bbox": [
+    -80.601624,
+    35.06255,
+    -80.601624,
+    35.06255
+],
   "geometry": {"coordinates":[-80.601624,35.06255],"type":"Point"}
 }

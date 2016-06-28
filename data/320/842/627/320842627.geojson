@@ -2,13 +2,14 @@
   "id": 320842627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.933399,35.118261,-78.933399,35.118261",
     "geom:latitude":35.118261,
     "geom:longitude":-78.933399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6050 Murchison Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320842627,
-    "wof:lastmodified":1449011522,
+    "wof:lastmodified":1466656895,
     "wof:name":"US Filter",
     "wof:parent_id":85803239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-78.933399,35.118261,-78.933399,35.118261],
-  "geometry": {"coordinates":[-78.933399,35.118261],"type":"Point"}
+  "bbox": [
+    -78.933399,
+    35.118261,
+    -78.933399,
+    35.118261
+],
+  "geometry": {"coordinates":[-78.93339899999999,35.118261],"type":"Point"}
 }

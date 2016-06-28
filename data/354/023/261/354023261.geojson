@@ -2,13 +2,14 @@
   "id": 354023261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.701828,36.520955,-78.701828,36.520955",
     "geom:latitude":36.520955,
     "geom:longitude":-78.701828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9204 Rueben Hart Rd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354023261,
-    "wof:lastmodified":1449067503,
+    "wof:lastmodified":1466647818,
     "wof:name":"B&D Grounds Maintenance",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.701828,36.520955,-78.701828,36.520955],
-  "geometry": {"coordinates":[-78.701828,36.520955],"type":"Point"}
+  "bbox": [
+    -78.701828,
+    36.520955,
+    -78.701828,
+    36.520955
+],
+  "geometry": {"coordinates":[-78.70182800000001,36.520955],"type":"Point"}
 }

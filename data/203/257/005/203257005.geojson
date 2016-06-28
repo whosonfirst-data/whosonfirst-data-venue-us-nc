@@ -2,13 +2,14 @@
   "id": 203257005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.401058,35.606949,-77.401058,35.606949",
     "geom:latitude":35.606949,
     "geom:longitude":-77.401058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Moye Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203257005,
-    "wof:lastmodified":1449025468,
+    "wof:lastmodified":1466655938,
     "wof:name":"ECU Pharmacy",
     "wof:parent_id":85853845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.401058,35.606949,-77.401058,35.606949],
-  "geometry": {"coordinates":[-77.401058,35.606949],"type":"Point"}
+  "bbox": [
+    -77.401058,
+    35.606949,
+    -77.401058,
+    35.606949
+],
+  "geometry": {"coordinates":[-77.40105800000001,35.606949],"type":"Point"}
 }

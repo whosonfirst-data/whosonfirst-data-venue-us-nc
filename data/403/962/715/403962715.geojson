@@ -2,13 +2,14 @@
   "id": 403962715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.015496,35.915411,-79.015496,35.915411",
     "geom:latitude":35.915411,
     "geom:longitude":-79.015496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 Burning Tree Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403962715,
-    "wof:lastmodified":1449055432,
+    "wof:lastmodified":1466653707,
     "wof:name":"Becker & Chaney",
     "wof:parent_id":85852087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.015496,35.915411,-79.015496,35.915411],
+  "bbox": [
+    -79.015496,
+    35.915411,
+    -79.015496,
+    35.915411
+],
   "geometry": {"coordinates":[-79.015496,35.915411],"type":"Point"}
 }

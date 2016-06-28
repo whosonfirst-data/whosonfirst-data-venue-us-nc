@@ -2,13 +2,14 @@
   "id": 287061279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.805162,35.415833,-78.805162,35.415833",
     "geom:latitude":35.415833,
     "geom:longitude":-78.805162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 N Main St",
     "sg:city":"Lillington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287061279,
-    "wof:lastmodified":1449001319,
+    "wof:lastmodified":1466644112,
     "wof:name":"Farmer Professional Land Srvys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-78.805162,35.415833,-78.805162,35.415833],
+  "bbox": [
+    -78.805162,
+    35.415833,
+    -78.805162,
+    35.415833
+],
   "geometry": {"coordinates":[-78.805162,35.415833],"type":"Point"}
 }

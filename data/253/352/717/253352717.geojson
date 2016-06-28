@@ -2,13 +2,14 @@
   "id": 253352717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.060515,35.559352,-77.060515,35.559352",
     "geom:latitude":35.559352,
     "geom:longitude":-77.060515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 Carolina Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253352717,
-    "wof:lastmodified":1449064628,
+    "wof:lastmodified":1466646615,
     "wof:name":"First Citizens Bank & Trust Co",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.060515,35.559352,-77.060515,35.559352],
+  "bbox": [
+    -77.060515,
+    35.559352,
+    -77.060515,
+    35.559352
+],
   "geometry": {"coordinates":[-77.060515,35.559352],"type":"Point"}
 }

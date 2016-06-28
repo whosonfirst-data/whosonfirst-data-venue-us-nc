@@ -2,13 +2,14 @@
   "id": 320362273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.961058,34.712514,-76.961058,34.712514",
     "geom:latitude":34.712514,
     "geom:longitude":-76.961058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Yacht Club Dr",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320362273,
-    "wof:lastmodified":1449013679,
+    "wof:lastmodified":1466650380,
     "wof:name":"Matter Medical Svc",
     "wof:parent_id":85839153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-76.961058,34.712514,-76.961058,34.712514],
-  "geometry": {"coordinates":[-76.961058,34.712514],"type":"Point"}
+  "bbox": [
+    -76.961058,
+    34.712514,
+    -76.961058,
+    34.712514
+],
+  "geometry": {"coordinates":[-76.96105799999999,34.712514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219634781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.363993,36.261661,-80.363993,36.261661",
     "geom:latitude":36.261661,
     "geom:longitude":-80.363993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 S Main St",
     "sg:city":"King",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219634781,
-    "wof:lastmodified":1449072074,
+    "wof:lastmodified":1466645851,
     "wof:name":"Town & Country Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.363993,36.261661,-80.363993,36.261661],
-  "geometry": {"coordinates":[-80.363993,36.261661],"type":"Point"}
+  "bbox": [
+    -80.363993,
+    36.261661,
+    -80.363993,
+    36.261661
+],
+  "geometry": {"coordinates":[-80.36399299999999,36.261661],"type":"Point"}
 }

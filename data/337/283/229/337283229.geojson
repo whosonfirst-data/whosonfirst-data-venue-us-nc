@@ -2,13 +2,14 @@
   "id": 337283229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.604424,35.760707,-81.604424,35.760707",
     "geom:latitude":35.760707,
     "geom:longitude":-81.604424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 N Main St",
     "sg:city":"Drexel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337283229,
-    "wof:lastmodified":1449027185,
+    "wof:lastmodified":1466645903,
     "wof:name":"Drexel Memorial Baptist Church",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.604424,35.760707,-81.604424,35.760707],
-  "geometry": {"coordinates":[-81.604424,35.760707],"type":"Point"}
+  "bbox": [
+    -81.604424,
+    35.760707,
+    -81.604424,
+    35.760707
+],
+  "geometry": {"coordinates":[-81.60442399999999,35.760707],"type":"Point"}
 }

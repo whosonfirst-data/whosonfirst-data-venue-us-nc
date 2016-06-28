@@ -2,13 +2,14 @@
   "id": 336729797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.693481,35.722224,-81.693481,35.722224",
     "geom:latitude":35.722224,
     "geom:longitude":-81.693481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Burkemont Ave",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336729797,
-    "wof:lastmodified":1448997499,
+    "wof:lastmodified":1466647815,
     "wof:name":"Tastee Freez",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-81.693481,35.722224,-81.693481,35.722224],
-  "geometry": {"coordinates":[-81.693481,35.722224],"type":"Point"}
+  "bbox": [
+    -81.693481,
+    35.722224,
+    -81.693481,
+    35.722224
+],
+  "geometry": {"coordinates":[-81.69348100000001,35.722224],"type":"Point"}
 }

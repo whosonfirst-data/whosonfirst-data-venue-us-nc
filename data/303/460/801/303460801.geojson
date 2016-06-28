@@ -2,13 +2,14 @@
   "id": 303460801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.94004,34.20156,-77.94004,34.20156",
     "geom:latitude":34.20156,
     "geom:longitude":-77.94004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2149 Carolina Beach Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303460801,
-    "wof:lastmodified":1449000427,
+    "wof:lastmodified":1466649964,
     "wof:name":"Wilmington Sharks Baseball",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "baseball"
     ]
 },
-  "bbox": [-77.94004,34.20156,-77.94004,34.20156],
+  "bbox": [
+    -77.94004,
+    34.20156,
+    -77.94004,
+    34.20156
+],
   "geometry": {"coordinates":[-77.94004,34.20156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320752775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.938553,35.603337,-80.938553,35.603337",
     "geom:latitude":35.603337,
     "geom:longitude":-80.938553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Mariner Pointe Ln",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320752775,
-    "wof:lastmodified":1449011889,
+    "wof:lastmodified":1466656079,
     "wof:name":"Gemini Homes Inc",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.938553,35.603337,-80.938553,35.603337],
+  "bbox": [
+    -80.938553,
+    35.603337,
+    -80.938553,
+    35.603337
+],
   "geometry": {"coordinates":[-80.938553,35.603337],"type":"Point"}
 }

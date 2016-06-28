@@ -2,13 +2,14 @@
   "id": 270239911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.880654,35.964359,-79.880654,35.964359",
     "geom:latitude":35.964359,
     "geom:longitude":-79.880654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5334 Groometown Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270239911,
-    "wof:lastmodified":1449008883,
+    "wof:lastmodified":1466646084,
     "wof:name":"Knobnest Inc",
     "wof:parent_id":85877971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.880654,35.964359,-79.880654,35.964359],
-  "geometry": {"coordinates":[-79.880654,35.964359],"type":"Point"}
+  "bbox": [
+    -79.880654,
+    35.964359,
+    -79.880654,
+    35.964359
+],
+  "geometry": {"coordinates":[-79.88065400000001,35.964359],"type":"Point"}
 }

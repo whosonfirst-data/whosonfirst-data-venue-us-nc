@@ -2,13 +2,14 @@
   "id": 370403509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.128443,36.163508,-81.128443,36.163508",
     "geom:latitude":36.163508,
     "geom:longitude":-81.128443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 N Park Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370403509,
-    "wof:lastmodified":1449031991,
+    "wof:lastmodified":1466651321,
     "wof:name":"Kids Clubhouse",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-81.128443,36.163508,-81.128443,36.163508],
+  "bbox": [
+    -81.128443,
+    36.163508,
+    -81.128443,
+    36.163508
+],
   "geometry": {"coordinates":[-81.128443,36.163508],"type":"Point"}
 }

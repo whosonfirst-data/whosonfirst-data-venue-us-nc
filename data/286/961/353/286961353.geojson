@@ -2,13 +2,14 @@
   "id": 286961353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.640211,35.671792,-77.640211,35.671792",
     "geom:latitude":35.671792,
     "geom:longitude":-77.640211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Blount St",
     "sg:city":"Fountain",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286961353,
-    "wof:lastmodified":1449018021,
+    "wof:lastmodified":1466652676,
     "wof:name":"Mickey's BBQ & Grill",
     "wof:parent_id":85843963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.640211,35.671792,-77.640211,35.671792],
-  "geometry": {"coordinates":[-77.640211,35.671792],"type":"Point"}
+  "bbox": [
+    -77.640211,
+    35.671792,
+    -77.640211,
+    35.671792
+],
+  "geometry": {"coordinates":[-77.64021099999999,35.671792],"type":"Point"}
 }

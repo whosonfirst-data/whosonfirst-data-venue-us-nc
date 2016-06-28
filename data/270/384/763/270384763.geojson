@@ -2,13 +2,14 @@
   "id": 270384763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.895281,35.928158,-78.895281,35.928158",
     "geom:latitude":35.928158,
     "geom:longitude":-78.895281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5214 Penrith Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270384763,
-    "wof:lastmodified":1449008959,
+    "wof:lastmodified":1466647943,
     "wof:name":"Penrith Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.895281,35.928158,-78.895281,35.928158],
+  "bbox": [
+    -78.895281,
+    35.928158,
+    -78.895281,
+    35.928158
+],
   "geometry": {"coordinates":[-78.895281,35.928158],"type":"Point"}
 }

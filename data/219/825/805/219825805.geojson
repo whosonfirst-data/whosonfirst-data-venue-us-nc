@@ -2,13 +2,14 @@
   "id": 219825805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.480167,35.818962,-81.480167,35.818962",
     "geom:latitude":35.818962,
     "geom:longitude":-81.480167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4436 Sawmills School Rd",
     "sg:city":"Granite Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219825805,
-    "wof:lastmodified":1449070506,
+    "wof:lastmodified":1466647396,
     "wof:name":"Sawmills Grade School",
     "wof:parent_id":85833019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.480167,35.818962,-81.480167,35.818962],
-  "geometry": {"coordinates":[-81.480167,35.818962],"type":"Point"}
+  "bbox": [
+    -81.480167,
+    35.818962,
+    -81.480167,
+    35.818962
+],
+  "geometry": {"coordinates":[-81.48016699999999,35.818962],"type":"Point"}
 }

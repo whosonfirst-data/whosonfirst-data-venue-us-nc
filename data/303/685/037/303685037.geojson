@@ -2,13 +2,14 @@
   "id": 303685037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.964554,35.235737,-78.964554,35.235737",
     "geom:latitude":35.235737,
     "geom:longitude":-78.964554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Rosebud St",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303685037,
-    "wof:lastmodified":1449000509,
+    "wof:lastmodified":1466653201,
     "wof:name":"Absolute Sign Svc",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-78.964554,35.235737,-78.964554,35.235737],
-  "geometry": {"coordinates":[-78.964554,35.235737],"type":"Point"}
+  "bbox": [
+    -78.964554,
+    35.235737,
+    -78.964554,
+    35.235737
+],
+  "geometry": {"coordinates":[-78.96455400000001,35.235737],"type":"Point"}
 }

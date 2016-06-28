@@ -2,13 +2,14 @@
   "id": 353943341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.054623,35.913503,-79.054623,35.913503",
     "geom:latitude":35.913503,
     "geom:longitude":-79.054623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Franklin St",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353943341,
-    "wof:lastmodified":1449018940,
+    "wof:lastmodified":1466653424,
     "wof:name":"Gap",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-79.054623,35.913503,-79.054623,35.913503],
-  "geometry": {"coordinates":[-79.054623,35.913503],"type":"Point"}
+  "bbox": [
+    -79.054623,
+    35.913503,
+    -79.054623,
+    35.913503
+],
+  "geometry": {"coordinates":[-79.05462300000001,35.913503],"type":"Point"}
 }

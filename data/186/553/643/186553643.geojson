@@ -2,13 +2,14 @@
   "id": 186553643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.604801,36.000868,-78.604801,36.000868",
     "geom:latitude":36.000868,
     "geom:longitude":-78.604801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7709 Stony Hill Rd",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186553643,
-    "wof:lastmodified":1449050271,
+    "wof:lastmodified":1466654706,
     "wof:name":"Southeastern Pipe & Tube",
     "wof:parent_id":85892191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [-78.604801,36.000868,-78.604801,36.000868],
-  "geometry": {"coordinates":[-78.604801,36.000868],"type":"Point"}
+  "bbox": [
+    -78.604801,
+    36.000868,
+    -78.604801,
+    36.000868
+],
+  "geometry": {"coordinates":[-78.60480099999999,36.000868],"type":"Point"}
 }

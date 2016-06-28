@@ -2,13 +2,14 @@
   "id": 336875393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.589807,36.330027,-77.589807,36.330027",
     "geom:latitude":36.330027,
     "geom:longitude":-77.589807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Saint David St",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336875393,
-    "wof:lastmodified":1448997738,
+    "wof:lastmodified":1466650050,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.589807,36.330027,-77.589807,36.330027],
-  "geometry": {"coordinates":[-77.589807,36.330027],"type":"Point"}
+  "bbox": [
+    -77.589807,
+    36.330027,
+    -77.589807,
+    36.330027
+],
+  "geometry": {"coordinates":[-77.58980699999999,36.330027],"type":"Point"}
 }

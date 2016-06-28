@@ -2,13 +2,14 @@
   "id": 320429351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.390085,36.531349,-79.390085,36.531349",
     "geom:latitude":36.531349,
     "geom:longitude":-79.390085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Walters Mill Rd",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320429351,
-    "wof:lastmodified":1449014763,
+    "wof:lastmodified":1466651345,
     "wof:name":"Hayes Iron & Metals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "iron"
     ]
 },
-  "bbox": [-79.390085,36.531349,-79.390085,36.531349],
+  "bbox": [
+    -79.390085,
+    36.531349,
+    -79.390085,
+    36.531349
+],
   "geometry": {"coordinates":[-79.390085,36.531349],"type":"Point"}
 }

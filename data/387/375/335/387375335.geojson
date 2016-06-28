@@ -2,13 +2,14 @@
   "id": 387375335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.044171,35.252348,-81.044171,35.252348",
     "geom:latitude":35.252348,
     "geom:longitude":-81.044171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6438 Wilkinson Blvd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387375335,
-    "wof:lastmodified":1449056255,
+    "wof:lastmodified":1466654787,
     "wof:name":"Griffin MGT Utility Pymnt",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.044171,35.252348,-81.044171,35.252348],
-  "geometry": {"coordinates":[-81.044171,35.252348],"type":"Point"}
+  "bbox": [
+    -81.044171,
+    35.252348,
+    -81.044171,
+    35.252348
+],
+  "geometry": {"coordinates":[-81.04417100000001,35.252348],"type":"Point"}
 }

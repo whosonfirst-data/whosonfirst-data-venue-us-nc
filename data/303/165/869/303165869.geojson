@@ -2,13 +2,14 @@
   "id": 303165869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.951856,35.364545,-81.951856,35.364545",
     "geom:latitude":35.364545,
     "geom:longitude":-81.951856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Charlotte Rd",
     "sg:city":"Rutherfordton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303165869,
-    "wof:lastmodified":1449000570,
+    "wof:lastmodified":1466645693,
     "wof:name":"Harris Home Care Inc",
     "wof:parent_id":85819215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.951856,35.364545,-81.951856,35.364545],
-  "geometry": {"coordinates":[-81.951856,35.364545],"type":"Point"}
+  "bbox": [
+    -81.951856,
+    35.364545,
+    -81.951856,
+    35.364545
+],
+  "geometry": {"coordinates":[-81.95185600000001,35.364545],"type":"Point"}
 }

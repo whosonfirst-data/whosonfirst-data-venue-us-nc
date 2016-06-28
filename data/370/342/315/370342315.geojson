@@ -2,13 +2,14 @@
   "id": 370342315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.559901,35.580097,-82.559901,35.580097",
     "geom:latitude":35.580097,
     "geom:longitude":-82.559901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 S French Broad Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370342315,
-    "wof:lastmodified":1449032225,
+    "wof:lastmodified":1466650539,
     "wof:name":"Geodesign",
     "wof:parent_id":85825493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-82.559901,35.580097,-82.559901,35.580097],
+  "bbox": [
+    -82.559901,
+    35.580097,
+    -82.559901,
+    35.580097
+],
   "geometry": {"coordinates":[-82.559901,35.580097],"type":"Point"}
 }

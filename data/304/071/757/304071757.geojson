@@ -2,13 +2,14 @@
   "id": 304071757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.932643,34.234209,-77.932643,34.234209",
     "geom:latitude":34.234209,
     "geom:longitude":-77.932643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Orange St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304071757,
-    "wof:lastmodified":1449043959,
+    "wof:lastmodified":1466645170,
     "wof:name":"Pacwest Inc",
     "wof:parent_id":85843149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.932643,34.234209,-77.932643,34.234209],
+  "bbox": [
+    -77.932643,
+    34.234209,
+    -77.932643,
+    34.234209
+],
   "geometry": {"coordinates":[-77.932643,34.234209],"type":"Point"}
 }

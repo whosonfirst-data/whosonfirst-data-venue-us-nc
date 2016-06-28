@@ -2,13 +2,14 @@
   "id": 220000611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.645035,36.467074,-77.645035,36.467074",
     "geom:latitude":36.467074,
     "geom:longitude":-77.645035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Williams St",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220000611,
-    "wof:lastmodified":1449074168,
+    "wof:lastmodified":1466655819,
     "wof:name":"Scrub N Buff Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.645035,36.467074,-77.645035,36.467074],
-  "geometry": {"coordinates":[-77.645035,36.467074],"type":"Point"}
+  "bbox": [
+    -77.645035,
+    36.467074,
+    -77.645035,
+    36.467074
+],
+  "geometry": {"coordinates":[-77.64503499999999,36.467074],"type":"Point"}
 }

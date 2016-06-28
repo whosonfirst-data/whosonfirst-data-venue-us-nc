@@ -2,13 +2,14 @@
   "id": 252988283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.474961,35.108189,-79.474961,35.108189",
     "geom:latitude":35.108189,
     "geom:longitude":-79.474961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 S Pecan St",
     "sg:city":"Pinebluff",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252988283,
-    "wof:lastmodified":1449005774,
+    "wof:lastmodified":1466645752,
     "wof:name":"Bob Mason",
     "wof:parent_id":85841741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-79.474961,35.108189,-79.474961,35.108189],
-  "geometry": {"coordinates":[-79.474961,35.108189],"type":"Point"}
+  "bbox": [
+    -79.474961,
+    35.108189,
+    -79.474961,
+    35.108189
+],
+  "geometry": {"coordinates":[-79.47496099999999,35.108189],"type":"Point"}
 }

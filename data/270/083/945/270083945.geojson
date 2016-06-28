@@ -2,13 +2,14 @@
   "id": 270083945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.602786,35.573621,-82.602786,35.573621",
     "geom:latitude":35.573621,
     "geom:longitude":-82.602786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Delaware Ter",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270083945,
-    "wof:lastmodified":1449009796,
+    "wof:lastmodified":1466644188,
     "wof:name":"Bellsey Metal Works",
     "wof:parent_id":85832027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.602786,35.573621,-82.602786,35.573621],
-  "geometry": {"coordinates":[-82.602786,35.573621],"type":"Point"}
+  "bbox": [
+    -82.602786,
+    35.573621,
+    -82.602786,
+    35.573621
+],
+  "geometry": {"coordinates":[-82.60278599999999,35.573621],"type":"Point"}
 }

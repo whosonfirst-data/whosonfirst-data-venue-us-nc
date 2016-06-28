@@ -2,13 +2,14 @@
   "id": 303737727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.185421,35.662166,-78.185421,35.662166",
     "geom:latitude":35.662166,
     "geom:longitude":-78.185421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6676 State Hwy 222 W",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303737727,
-    "wof:lastmodified":1448998661,
+    "wof:lastmodified":1466653964,
     "wof:name":"Well Built Construction",
     "wof:parent_id":85817305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "kennel"
     ]
 },
-  "bbox": [-78.185421,35.662166,-78.185421,35.662166],
-  "geometry": {"coordinates":[-78.185421,35.662166],"type":"Point"}
+  "bbox": [
+    -78.185421,
+    35.662166,
+    -78.185421,
+    35.662166
+],
+  "geometry": {"coordinates":[-78.18542100000001,35.662166],"type":"Point"}
 }

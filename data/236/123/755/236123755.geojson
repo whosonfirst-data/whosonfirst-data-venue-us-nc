@@ -2,13 +2,14 @@
   "id": 236123755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.737583,36.489726,-79.737583,36.489726",
     "geom:latitude":36.489726,
     "geom:longitude":-79.737583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Arbor Ln",
     "sg:city":"Eden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236123755,
-    "wof:lastmodified":1449002468,
+    "wof:lastmodified":1466644309,
     "wof:name":"Innkeeper",
     "wof:parent_id":85805077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.737583,36.489726,-79.737583,36.489726],
+  "bbox": [
+    -79.737583,
+    36.489726,
+    -79.737583,
+    36.489726
+],
   "geometry": {"coordinates":[-79.737583,36.489726],"type":"Point"}
 }

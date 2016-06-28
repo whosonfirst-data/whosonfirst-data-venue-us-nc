@@ -2,13 +2,14 @@
   "id": 387089699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.646038,35.742635,-79.646038,35.742635",
     "geom:latitude":35.742635,
     "geom:longitude":-79.646038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 State Hwy 49 N",
     "sg:city":"Ramseur",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387089699,
-    "wof:lastmodified":1449056871,
+    "wof:lastmodified":1466651027,
     "wof:name":"Brown Brothers Well Drilling",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-79.646038,35.742635,-79.646038,35.742635],
+  "bbox": [
+    -79.646038,
+    35.742635,
+    -79.646038,
+    35.742635
+],
   "geometry": {"coordinates":[-79.646038,35.742635],"type":"Point"}
 }

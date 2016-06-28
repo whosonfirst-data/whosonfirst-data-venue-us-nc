@@ -2,13 +2,14 @@
   "id": 269881301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.073551,35.848444,-82.073551,35.848444",
     "geom:latitude":35.848444,
     "geom:longitude":-82.073551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10860 State Hwy 226 Alt",
     "sg:city":"Little Switzrlnd",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":269881301,
-    "wof:lastmodified":1449037541,
+    "wof:lastmodified":1466647875,
     "wof:name":"Big Lynn Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.073551,35.848444,-82.073551,35.848444],
-  "geometry": {"coordinates":[-82.073551,35.848444],"type":"Point"}
+  "bbox": [
+    -82.073551,
+    35.848444,
+    -82.073551,
+    35.848444
+],
+  "geometry": {"coordinates":[-82.07355099999999,35.848444],"type":"Point"}
 }

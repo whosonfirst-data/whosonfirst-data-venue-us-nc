@@ -2,13 +2,14 @@
   "id": 320208217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.860698,35.212304,-80.860698,35.212304",
     "geom:latitude":35.212304,
     "geom:longitude":-80.860698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Hawkins St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320208217,
-    "wof:lastmodified":1449011684,
+    "wof:lastmodified":1466648205,
     "wof:name":"Crazy Jane's",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.860698,35.212304,-80.860698,35.212304],
+  "bbox": [
+    -80.860698,
+    35.212304,
+    -80.860698,
+    35.212304
+],
   "geometry": {"coordinates":[-80.860698,35.212304],"type":"Point"}
 }

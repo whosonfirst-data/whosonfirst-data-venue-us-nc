@@ -2,13 +2,14 @@
   "id": 353500265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.345177,35.724027,-81.345177,35.724027",
     "geom:latitude":35.724027,
     "geom:longitude":-81.345177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 4th St SW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353500265,
-    "wof:lastmodified":1449018904,
+    "wof:lastmodified":1466648155,
     "wof:name":"A-1 Tile & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.345177,35.724027,-81.345177,35.724027],
-  "geometry": {"coordinates":[-81.345177,35.724027],"type":"Point"}
+  "bbox": [
+    -81.345177,
+    35.724027,
+    -81.345177,
+    35.724027
+],
+  "geometry": {"coordinates":[-81.34517700000001,35.724027],"type":"Point"}
 }

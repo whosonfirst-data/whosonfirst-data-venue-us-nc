@@ -2,13 +2,14 @@
   "id": 186589963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.092024,35.935031,-79.092024,35.935031",
     "geom:latitude":35.935031,
     "geom:longitude":-79.092024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Wyndham Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186589963,
-    "wof:lastmodified":1449051802,
+    "wof:lastmodified":1466654842,
     "wof:name":"Arjun Enterprises Inc",
     "wof:parent_id":85842165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.092024,35.935031,-79.092024,35.935031],
-  "geometry": {"coordinates":[-79.092024,35.935031],"type":"Point"}
+  "bbox": [
+    -79.092024,
+    35.935031,
+    -79.092024,
+    35.935031
+],
+  "geometry": {"coordinates":[-79.09202399999999,35.935031],"type":"Point"}
 }

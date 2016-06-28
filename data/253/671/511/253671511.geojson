@@ -2,13 +2,14 @@
   "id": 253671511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.910558,34.330196,-77.910558,34.330196",
     "geom:latitude":34.330196,
     "geom:longitude":-77.910558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Crowatan Rd",
     "sg:city":"Castle Hayne",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":253671511,
-    "wof:lastmodified":1449063496,
+    "wof:lastmodified":1466650406,
     "wof:name":"Cape Fear Door & Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-77.910558,34.330196,-77.910558,34.330196],
-  "geometry": {"coordinates":[-77.910558,34.330196],"type":"Point"}
+  "bbox": [
+    -77.910558,
+    34.330196,
+    -77.910558,
+    34.330196
+],
+  "geometry": {"coordinates":[-77.91055799999999,34.330196],"type":"Point"}
 }

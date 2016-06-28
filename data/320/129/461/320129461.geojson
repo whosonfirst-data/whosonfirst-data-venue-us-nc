@@ -2,13 +2,14 @@
   "id": 320129461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945,34.236689,-77.945,34.236689",
     "geom:latitude":34.236689,
     "geom:longitude":-77.945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Princess St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320129461,
-    "wof:lastmodified":1449014243,
+    "wof:lastmodified":1466647119,
     "wof:name":"Guardian Ad Litem",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-77.945,34.236689,-77.945,34.236689],
-  "geometry": {"coordinates":[-77.945,34.236689],"type":"Point"}
+  "bbox": [
+    -77.945,
+    34.236689,
+    -77.945,
+    34.236689
+],
+  "geometry": {"coordinates":[-77.94499999999999,34.236689],"type":"Point"}
 }

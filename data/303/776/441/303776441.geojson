@@ -2,13 +2,14 @@
   "id": 303776441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.545318,35.9079,-81.545318,35.9079",
     "geom:latitude":35.9079,
     "geom:longitude":-81.545318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Realty St SW",
     "sg:city":"Boone",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303776441,
-    "wof:lastmodified":1448998646,
+    "wof:lastmodified":1466654520,
     "wof:name":"AAA Tire & Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.545318,35.9079,-81.545318,35.9079],
-  "geometry": {"coordinates":[-81.545318,35.9079],"type":"Point"}
+  "bbox": [
+    -81.545318,
+    35.9079,
+    -81.545318,
+    35.9079
+],
+  "geometry": {"coordinates":[-81.54531799999999,35.9079],"type":"Point"}
 }

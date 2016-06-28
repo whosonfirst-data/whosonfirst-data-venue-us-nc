@@ -2,13 +2,14 @@
   "id": 253620187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.493564,34.734741,-79.493564,34.734741",
     "geom:latitude":34.734741,
     "geom:longitude":-79.493564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11760 Hasty Rd",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253620187,
-    "wof:lastmodified":1449065531,
+    "wof:lastmodified":1466649801,
     "wof:name":"Sandhills Sportsman Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.493564,34.734741,-79.493564,34.734741],
-  "geometry": {"coordinates":[-79.493564,34.734741],"type":"Point"}
+  "bbox": [
+    -79.493564,
+    34.734741,
+    -79.493564,
+    34.734741
+],
+  "geometry": {"coordinates":[-79.49356400000001,34.734741],"type":"Point"}
 }

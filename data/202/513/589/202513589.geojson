@@ -2,13 +2,14 @@
   "id": 202513589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.960221,34.713531,-76.960221,34.713531",
     "geom:latitude":34.713531,
     "geom:longitude":-76.960221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Skipper",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202513589,
-    "wof:lastmodified":1449061765,
+    "wof:lastmodified":1466655058,
     "wof:name":"FTV Investigations",
     "wof:parent_id":85839153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-76.960221,34.713531,-76.960221,34.713531],
+  "bbox": [
+    -76.960221,
+    34.713531,
+    -76.960221,
+    34.713531
+],
   "geometry": {"coordinates":[-76.960221,34.713531],"type":"Point"}
 }

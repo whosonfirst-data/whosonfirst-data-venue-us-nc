@@ -2,13 +2,14 @@
   "id": 202656721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.378228,35.590946,-77.378228,35.590946",
     "geom:latitude":35.590946,
     "geom:longitude":-77.378228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Arlington Blvd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202656721,
-    "wof:lastmodified":1449061739,
+    "wof:lastmodified":1466655741,
     "wof:name":"E R Lewis Construction Co",
     "wof:parent_id":85807241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.378228,35.590946,-77.378228,35.590946],
-  "geometry": {"coordinates":[-77.378228,35.590946],"type":"Point"}
+  "bbox": [
+    -77.378228,
+    35.590946,
+    -77.378228,
+    35.590946
+],
+  "geometry": {"coordinates":[-77.37822799999999,35.590946],"type":"Point"}
 }

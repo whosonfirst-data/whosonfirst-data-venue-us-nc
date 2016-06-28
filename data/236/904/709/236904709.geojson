@@ -2,13 +2,14 @@
   "id": 236904709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.544616,35.912829,-77.544616,35.912829",
     "geom:latitude":35.912829,
     "geom:longitude":-77.544616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2226 N Main St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236904709,
-    "wof:lastmodified":1449005338,
+    "wof:lastmodified":1466651325,
     "wof:name":"Southern Loans",
     "wof:parent_id":85856477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-77.544616,35.912829,-77.544616,35.912829],
+  "bbox": [
+    -77.544616,
+    35.912829,
+    -77.544616,
+    35.912829
+],
   "geometry": {"coordinates":[-77.544616,35.912829],"type":"Point"}
 }

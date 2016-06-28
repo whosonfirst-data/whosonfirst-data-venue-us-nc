@@ -2,13 +2,14 @@
   "id": 370572149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.894287,35.063824,-78.894287,35.063824",
     "geom:latitude":35.063824,
     "geom:longitude":-78.894287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Bragg Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370572149,
-    "wof:lastmodified":1449031159,
+    "wof:lastmodified":1466653516,
     "wof:name":"Playhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "night"
     ]
 },
-  "bbox": [-78.894287,35.063824,-78.894287,35.063824],
-  "geometry": {"coordinates":[-78.894287,35.063824],"type":"Point"}
+  "bbox": [
+    -78.894287,
+    35.063824,
+    -78.894287,
+    35.063824
+],
+  "geometry": {"coordinates":[-78.89428700000001,35.063824],"type":"Point"}
 }

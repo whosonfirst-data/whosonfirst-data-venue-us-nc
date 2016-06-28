@@ -2,13 +2,14 @@
   "id": 354083929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.971723,35.492886,-76.971723,35.492886",
     "geom:latitude":35.492886,
     "geom:longitude":-76.971723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Wellesley Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354083929,
-    "wof:lastmodified":1449066728,
+    "wof:lastmodified":1466648544,
     "wof:name":"Down East Pizza",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-76.971723,35.492886,-76.971723,35.492886],
+  "bbox": [
+    -76.971723,
+    35.492886,
+    -76.971723,
+    35.492886
+],
   "geometry": {"coordinates":[-76.971723,35.492886],"type":"Point"}
 }

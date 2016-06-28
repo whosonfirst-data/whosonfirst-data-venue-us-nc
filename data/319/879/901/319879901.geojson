@@ -2,13 +2,14 @@
   "id": 319879901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.910745,35.236256,-80.910745,35.236256",
     "geom:latitude":35.236256,
     "geom:longitude":-80.910745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2848 Interstate St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":319879901,
-    "wof:lastmodified":1449024116,
+    "wof:lastmodified":1466645753,
     "wof:name":"Service Master Advanced Bldg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.910745,35.236256,-80.910745,35.236256],
-  "geometry": {"coordinates":[-80.910745,35.236256],"type":"Point"}
+  "bbox": [
+    -80.910745,
+    35.236256,
+    -80.910745,
+    35.236256
+],
+  "geometry": {"coordinates":[-80.91074500000001,35.236256],"type":"Point"}
 }

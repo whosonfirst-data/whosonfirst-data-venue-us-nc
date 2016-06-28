@@ -2,13 +2,14 @@
   "id": 303754187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.802141,35.933689,-77.802141,35.933689",
     "geom:latitude":35.933689,
     "geom:longitude":-77.802141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 S Franklin St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303754187,
-    "wof:lastmodified":1448999719,
+    "wof:lastmodified":1466654199,
     "wof:name":"Nash-Edgecombe Head Start Ofc",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-77.802141,35.933689,-77.802141,35.933689],
-  "geometry": {"coordinates":[-77.802141,35.933689],"type":"Point"}
+  "bbox": [
+    -77.802141,
+    35.933689,
+    -77.802141,
+    35.933689
+],
+  "geometry": {"coordinates":[-77.80214100000001,35.933689],"type":"Point"}
 }

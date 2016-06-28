@@ -2,13 +2,14 @@
   "id": 252788713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.891957,34.160996,-77.891957,34.160996",
     "geom:latitude":34.160996,
     "geom:longitude":-77.891957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4416 S College Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252788713,
-    "wof:lastmodified":1449005983,
+    "wof:lastmodified":1466643949,
     "wof:name":"Valley Golf Ctr & Driving Rnge",
     "wof:parent_id":85822927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "golf"
     ]
 },
-  "bbox": [-77.891957,34.160996,-77.891957,34.160996],
+  "bbox": [
+    -77.891957,
+    34.160996,
+    -77.891957,
+    34.160996
+],
   "geometry": {"coordinates":[-77.891957,34.160996],"type":"Point"}
 }

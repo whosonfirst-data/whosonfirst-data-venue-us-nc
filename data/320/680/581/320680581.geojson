@@ -2,13 +2,14 @@
   "id": 320680581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.875511,34.47979,-77.875511,34.47979",
     "geom:latitude":34.47979,
     "geom:longitude":-77.875511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1882 Ashton Lake Rd",
     "sg:city":"Burgaw",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320680581,
-    "wof:lastmodified":1449013882,
+    "wof:lastmodified":1466654985,
     "wof:name":"Past & Present Consignment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "consignment"
     ]
 },
-  "bbox": [-77.875511,34.47979,-77.875511,34.47979],
+  "bbox": [
+    -77.875511,
+    34.47979,
+    -77.875511,
+    34.47979
+],
   "geometry": {"coordinates":[-77.875511,34.47979],"type":"Point"}
 }

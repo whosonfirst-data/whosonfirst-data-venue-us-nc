@@ -2,13 +2,14 @@
   "id": 387066535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.88988,36.019432,-78.88988,36.019432",
     "geom:latitude":36.019432,
     "geom:longitude":-78.88988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2216 Roxboro Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387066535,
-    "wof:lastmodified":1449057207,
+    "wof:lastmodified":1466650722,
     "wof:name":"Medical Supply Superstore",
     "wof:parent_id":85877169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-78.88988,36.019432,-78.88988,36.019432],
-  "geometry": {"coordinates":[-78.88988,36.019432],"type":"Point"}
+  "bbox": [
+    -78.88988,
+    36.019432,
+    -78.88988,
+    36.019432
+],
+  "geometry": {"coordinates":[-78.88988000000001,36.019432],"type":"Point"}
 }

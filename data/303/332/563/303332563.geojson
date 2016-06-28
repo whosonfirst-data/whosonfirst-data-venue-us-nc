@@ -2,13 +2,14 @@
   "id": 303332563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.841105,35.349384,-80.841105,35.349384",
     "geom:latitude":35.349384,
     "geom:longitude":-80.841105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 Statesville Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303332563,
-    "wof:lastmodified":1448999479,
+    "wof:lastmodified":1466648104,
     "wof:name":"Southern Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.841105,35.349384,-80.841105,35.349384],
+  "bbox": [
+    -80.841105,
+    35.349384,
+    -80.841105,
+    35.349384
+],
   "geometry": {"coordinates":[-80.841105,35.349384],"type":"Point"}
 }

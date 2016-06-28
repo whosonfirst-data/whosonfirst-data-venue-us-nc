@@ -2,13 +2,14 @@
   "id": 203000423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.893684,36.007284,-78.893684,36.007284",
     "geom:latitude":36.007284,
     "geom:longitude":-78.893684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 N Mangum St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203000423,
-    "wof:lastmodified":1449025238,
+    "wof:lastmodified":1466654130,
     "wof:name":"Troy House",
     "wof:parent_id":85877169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.893684,36.007284,-78.893684,36.007284],
-  "geometry": {"coordinates":[-78.893684,36.007284],"type":"Point"}
+  "bbox": [
+    -78.893684,
+    36.007284,
+    -78.893684,
+    36.007284
+],
+  "geometry": {"coordinates":[-78.89368399999999,36.007284],"type":"Point"}
 }

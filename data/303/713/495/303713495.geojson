@@ -2,13 +2,14 @@
   "id": 303713495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.272084,36.152126,-80.272084,36.152126",
     "geom:latitude":36.152126,
     "geom:longitude":-80.272084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4405 Providence Ln",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303713495,
-    "wof:lastmodified":1449000336,
+    "wof:lastmodified":1466653615,
     "wof:name":"Light The 1340 Request Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-80.272084,36.152126,-80.272084,36.152126],
-  "geometry": {"coordinates":[-80.272084,36.152126],"type":"Point"}
+  "bbox": [
+    -80.272084,
+    36.152126,
+    -80.272084,
+    36.152126
+],
+  "geometry": {"coordinates":[-80.27208400000001,36.152126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320431195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.380969,34.77912,-77.380969,34.77912",
     "geom:latitude":34.77912,
     "geom:longitude":-77.380969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 University Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320431195,
-    "wof:lastmodified":1449011757,
+    "wof:lastmodified":1466651372,
     "wof:name":"Angle Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.380969,34.77912,-77.380969,34.77912],
-  "geometry": {"coordinates":[-77.380969,34.77912],"type":"Point"}
+  "bbox": [
+    -77.380969,
+    34.77912,
+    -77.380969,
+    34.77912
+],
+  "geometry": {"coordinates":[-77.38096899999999,34.77912],"type":"Point"}
 }

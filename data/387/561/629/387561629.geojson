@@ -2,13 +2,14 @@
   "id": 387561629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.41921,35.158183,-79.41921,35.158183",
     "geom:latitude":35.158183,
     "geom:longitude":-79.41921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11020 US Hwy 15/501",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387561629,
-    "wof:lastmodified":1449058807,
+    "wof:lastmodified":1466656437,
     "wof:name":"Aberdeen Welding Supply Inc",
     "wof:parent_id":85834083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welding"
     ]
 },
-  "bbox": [-79.41921,35.158183,-79.41921,35.158183],
-  "geometry": {"coordinates":[-79.41921,35.158183],"type":"Point"}
+  "bbox": [
+    -79.41921,
+    35.158183,
+    -79.41921,
+    35.158183
+],
+  "geometry": {"coordinates":[-79.41921000000001,35.158183],"type":"Point"}
 }

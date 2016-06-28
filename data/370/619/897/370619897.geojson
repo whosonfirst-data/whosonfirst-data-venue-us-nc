@@ -2,13 +2,14 @@
   "id": 370619897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.851766,35.41248,-80.851766,35.41248",
     "geom:latitude":35.41248,
     "geom:longitude":-80.851766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Commerce Centre Dr",
     "sg:city":"Huntersville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370619897,
-    "wof:lastmodified":1449029701,
+    "wof:lastmodified":1466654133,
     "wof:name":"Telics",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.851766,35.41248,-80.851766,35.41248],
+  "bbox": [
+    -80.851766,
+    35.41248,
+    -80.851766,
+    35.41248
+],
   "geometry": {"coordinates":[-80.851766,35.41248],"type":"Point"}
 }

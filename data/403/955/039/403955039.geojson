@@ -2,13 +2,14 @@
   "id": 403955039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.726255,34.883514,-79.726255,34.883514",
     "geom:latitude":34.883514,
     "geom:longitude":-79.726255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Battley Dairy Rd",
     "sg:city":"Hamlet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403955039,
-    "wof:lastmodified":1449055532,
+    "wof:lastmodified":1466653611,
     "wof:name":"FWP Furniture Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "warehousing"
     ]
 },
-  "bbox": [-79.726255,34.883514,-79.726255,34.883514],
-  "geometry": {"coordinates":[-79.726255,34.883514],"type":"Point"}
+  "bbox": [
+    -79.726255,
+    34.883514,
+    -79.726255,
+    34.883514
+],
+  "geometry": {"coordinates":[-79.72625499999999,34.883514],"type":"Point"}
 }

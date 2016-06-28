@@ -2,13 +2,14 @@
   "id": 403797461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.512509,34.688496,-77.512509,34.688496",
     "geom:latitude":34.688496,
     "geom:longitude":-77.512509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Williams Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403797461,
-    "wof:lastmodified":1449055836,
+    "wof:lastmodified":1466651539,
     "wof:name":"Aflac Carver-Parris",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.512509,34.688496,-77.512509,34.688496],
-  "geometry": {"coordinates":[-77.512509,34.688496],"type":"Point"}
+  "bbox": [
+    -77.512509,
+    34.688496,
+    -77.512509,
+    34.688496
+],
+  "geometry": {"coordinates":[-77.51250899999999,34.688496],"type":"Point"}
 }

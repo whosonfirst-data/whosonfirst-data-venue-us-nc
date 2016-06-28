@@ -2,13 +2,14 @@
   "id": 303208743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.941189,35.912816,-79.941189,35.912816",
     "geom:latitude":35.912816,
     "geom:longitude":-79.941189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Hope Valley Dr",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303208743,
-    "wof:lastmodified":1448998406,
+    "wof:lastmodified":1466646344,
     "wof:name":"Stan's Pool Table Svc & Cue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.941189,35.912816,-79.941189,35.912816],
-  "geometry": {"coordinates":[-79.941189,35.912816],"type":"Point"}
+  "bbox": [
+    -79.941189,
+    35.912816,
+    -79.941189,
+    35.912816
+],
+  "geometry": {"coordinates":[-79.94118899999999,35.912816],"type":"Point"}
 }

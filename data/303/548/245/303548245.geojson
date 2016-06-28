@@ -2,13 +2,14 @@
   "id": 303548245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.374443,35.605935,-77.374443,35.605935",
     "geom:latitude":35.605935,
     "geom:longitude":-77.374443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 S Evans St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303548245,
-    "wof:lastmodified":1448999811,
+    "wof:lastmodified":1466651217,
     "wof:name":"Data Service GP Inc",
     "wof:parent_id":85811829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-77.374443,35.605935,-77.374443,35.605935],
+  "bbox": [
+    -77.374443,
+    35.605935,
+    -77.374443,
+    35.605935
+],
   "geometry": {"coordinates":[-77.374443,35.605935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203151183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.854272,34.259114,-77.854272,34.259114",
     "geom:latitude":34.259114,
     "geom:longitude":-77.854272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5307 Goldenrod Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203151183,
-    "wof:lastmodified":1449024957,
+    "wof:lastmodified":1466655016,
     "wof:name":"RHF Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.854272,34.259114,-77.854272,34.259114],
-  "geometry": {"coordinates":[-77.854272,34.259114],"type":"Point"}
+  "bbox": [
+    -77.854272,
+    34.259114,
+    -77.854272,
+    34.259114
+],
+  "geometry": {"coordinates":[-77.85427199999999,34.259114],"type":"Point"}
 }

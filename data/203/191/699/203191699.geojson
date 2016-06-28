@@ -2,13 +2,14 @@
   "id": 203191699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.854137,35.507372,-80.854137,35.507372",
     "geom:latitude":35.507372,
     "geom:longitude":-80.854137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Armour St",
     "sg:city":"Davidson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203191699,
-    "wof:lastmodified":1449026083,
+    "wof:lastmodified":1466655179,
     "wof:name":"Dance Davidson",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-80.854137,35.507372,-80.854137,35.507372],
-  "geometry": {"coordinates":[-80.854137,35.507372],"type":"Point"}
+  "bbox": [
+    -80.854137,
+    35.507372,
+    -80.854137,
+    35.507372
+],
+  "geometry": {"coordinates":[-80.85413699999999,35.507372],"type":"Point"}
 }

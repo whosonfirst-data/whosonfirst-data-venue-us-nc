@@ -2,13 +2,14 @@
   "id": 404083265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.447888,35.366145,-80.447888,35.366145",
     "geom:latitude":35.366145,
     "geom:longitude":-80.447888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8125 State Rd 49 N",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404083265,
-    "wof:lastmodified":1449039581,
+    "wof:lastmodified":1466652341,
     "wof:name":"Allman Grading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.447888,35.366145,-80.447888,35.366145],
-  "geometry": {"coordinates":[-80.447888,35.366145],"type":"Point"}
+  "bbox": [
+    -80.447888,
+    35.366145,
+    -80.447888,
+    35.366145
+],
+  "geometry": {"coordinates":[-80.44788800000001,35.366145],"type":"Point"}
 }

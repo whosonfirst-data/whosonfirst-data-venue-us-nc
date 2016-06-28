@@ -2,13 +2,14 @@
   "id": 319967317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.832347,34.218752,-77.832347,34.218752",
     "geom:latitude":34.218752,
     "geom:longitude":-77.832347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6704 W Airlie Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319967317,
-    "wof:lastmodified":1449024830,
+    "wof:lastmodified":1466646997,
     "wof:name":"Medical Professionals",
     "wof:parent_id":85806997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-77.832347,34.218752,-77.832347,34.218752],
+  "bbox": [
+    -77.832347,
+    34.218752,
+    -77.832347,
+    34.218752
+],
   "geometry": {"coordinates":[-77.832347,34.218752],"type":"Point"}
 }

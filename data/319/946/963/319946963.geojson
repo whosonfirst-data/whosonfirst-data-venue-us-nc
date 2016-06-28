@@ -2,13 +2,14 @@
   "id": 319946963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.471455,35.642027,-78.471455,35.642027",
     "geom:latitude":35.642027,
     "geom:longitude":-78.471455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 S Lombard St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":319946963,
-    "wof:lastmodified":1449024794,
+    "wof:lastmodified":1466646708,
     "wof:name":"West Clayton Church Of God",
     "wof:parent_id":85807481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.471455,35.642027,-78.471455,35.642027],
-  "geometry": {"coordinates":[-78.471455,35.642027],"type":"Point"}
+  "bbox": [
+    -78.471455,
+    35.642027,
+    -78.471455,
+    35.642027
+],
+  "geometry": {"coordinates":[-78.47145500000001,35.642027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269984257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.856511,34.742642,-76.856511,34.742642",
     "geom:latitude":34.742642,
     "geom:longitude":-76.856511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Canton St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269984257,
-    "wof:lastmodified":1449037488,
+    "wof:lastmodified":1466649143,
     "wof:name":"First Choice Painting",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-76.856511,34.742642,-76.856511,34.742642],
+  "bbox": [
+    -76.856511,
+    34.742642,
+    -76.856511,
+    34.742642
+],
   "geometry": {"coordinates":[-76.856511,34.742642],"type":"Point"}
 }

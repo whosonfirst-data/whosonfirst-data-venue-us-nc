@@ -2,13 +2,14 @@
   "id": 186641113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.881641,34.232119,-77.881641,34.232119",
     "geom:latitude":34.232119,
     "geom:longitude":-77.881641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4910 Randall Pkwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186641113,
-    "wof:lastmodified":1449052369,
+    "wof:lastmodified":1466655070,
     "wof:name":"Sundance Family Svc",
     "wof:parent_id":85811739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-77.881641,34.232119,-77.881641,34.232119],
+  "bbox": [
+    -77.881641,
+    34.232119,
+    -77.881641,
+    34.232119
+],
   "geometry": {"coordinates":[-77.881641,34.232119],"type":"Point"}
 }

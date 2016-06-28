@@ -2,13 +2,14 @@
   "id": 286747369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.90358,35.077105,-78.90358,35.077105",
     "geom:latitude":35.077105,
     "geom:longitude":-78.90358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Torrey Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286747369,
-    "wof:lastmodified":1449015702,
+    "wof:lastmodified":1466649749,
     "wof:name":"Bluestar Tours Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tour"
     ]
 },
-  "bbox": [-78.90358,35.077105,-78.90358,35.077105],
-  "geometry": {"coordinates":[-78.90358,35.077105],"type":"Point"}
+  "bbox": [
+    -78.90358,
+    35.077105,
+    -78.90358,
+    35.077105
+],
+  "geometry": {"coordinates":[-78.90358000000001,35.077105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236262629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.99648,36.394161,-78.99648,36.394161",
     "geom:latitude":36.394161,
     "geom:longitude":-78.99648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 S Morgan St",
     "sg:city":"Roxboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236262629,
-    "wof:lastmodified":1449003739,
+    "wof:lastmodified":1466645571,
     "wof:name":"Woodsdale Animal Hospital",
     "wof:parent_id":85829253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.99648,36.394161,-78.99648,36.394161],
-  "geometry": {"coordinates":[-78.99648,36.394161],"type":"Point"}
+  "bbox": [
+    -78.99648,
+    36.394161,
+    -78.99648,
+    36.394161
+],
+  "geometry": {"coordinates":[-78.99648000000001,36.394161],"type":"Point"}
 }

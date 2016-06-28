@@ -2,13 +2,14 @@
   "id": 220082585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.449582,35.179122,-79.449582,35.179122",
     "geom:latitude":35.179122,
     "geom:longitude":-79.449582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Surry Cir S",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220082585,
-    "wof:lastmodified":1449074083,
+    "wof:lastmodified":1466643863,
     "wof:name":"Sandavis Kitchens & Interiors",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-79.449582,35.179122,-79.449582,35.179122],
-  "geometry": {"coordinates":[-79.449582,35.179122],"type":"Point"}
+  "bbox": [
+    -79.449582,
+    35.179122,
+    -79.449582,
+    35.179122
+],
+  "geometry": {"coordinates":[-79.44958200000001,35.179122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370320013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.780097,34.258587,-77.780097,34.258587",
     "geom:latitude":34.258587,
     "geom:longitude":-77.780097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2107 Middle Sound Loop Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370320013,
-    "wof:lastmodified":1449029952,
+    "wof:lastmodified":1466650263,
     "wof:name":"Coastal Carolina Yacht Yard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boat"
     ]
 },
-  "bbox": [-77.780097,34.258587,-77.780097,34.258587],
+  "bbox": [
+    -77.780097,
+    34.258587,
+    -77.780097,
+    34.258587
+],
   "geometry": {"coordinates":[-77.780097,34.258587],"type":"Point"}
 }

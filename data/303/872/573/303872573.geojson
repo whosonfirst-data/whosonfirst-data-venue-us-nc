@@ -2,13 +2,14 @@
   "id": 303872573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.819324,35.838066,-77.819324,35.838066",
     "geom:latitude":35.838066,
     "geom:longitude":-77.819324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6769 Reedy Branch Rd",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303872573,
-    "wof:lastmodified":1448998337,
+    "wof:lastmodified":1466655892,
     "wof:name":"Ed Apol Truck Broker Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.819324,35.838066,-77.819324,35.838066],
-  "geometry": {"coordinates":[-77.819324,35.838066],"type":"Point"}
+  "bbox": [
+    -77.819324,
+    35.838066,
+    -77.819324,
+    35.838066
+],
+  "geometry": {"coordinates":[-77.81932399999999,35.838066],"type":"Point"}
 }

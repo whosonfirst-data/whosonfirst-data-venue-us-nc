@@ -2,13 +2,14 @@
   "id": 202842059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.440219,35.254301,-80.440219,35.254301",
     "geom:latitude":35.254301,
     "geom:longitude":-80.440219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 W Main St",
     "sg:city":"Locust",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202842059,
-    "wof:lastmodified":1449060299,
+    "wof:lastmodified":1466644484,
     "wof:name":"2.50 Cleaners",
     "wof:parent_id":85892003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.440219,35.254301,-80.440219,35.254301],
+  "bbox": [
+    -80.440219,
+    35.254301,
+    -80.440219,
+    35.254301
+],
   "geometry": {"coordinates":[-80.440219,35.254301],"type":"Point"}
 }

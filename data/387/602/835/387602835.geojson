@@ -2,13 +2,14 @@
   "id": 387602835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.877118,34.19484,-77.877118,34.19484",
     "geom:latitude":34.19484,
     "geom:longitude":-77.877118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2807 Warlick Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387602835,
-    "wof:lastmodified":1449057890,
+    "wof:lastmodified":1466656887,
     "wof:name":"Mickey Fogelman",
     "wof:parent_id":85842005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.877118,34.19484,-77.877118,34.19484],
+  "bbox": [
+    -77.877118,
+    34.19484,
+    -77.877118,
+    34.19484
+],
   "geometry": {"coordinates":[-77.877118,34.19484],"type":"Point"}
 }

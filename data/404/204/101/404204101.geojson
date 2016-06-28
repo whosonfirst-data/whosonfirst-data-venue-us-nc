@@ -2,13 +2,14 @@
   "id": 404204101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.560476,35.700851,-82.560476,35.700851",
     "geom:latitude":35.700851,
     "geom:longitude":-82.560476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 N Main St",
     "sg:city":"Weaverville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404204101,
-    "wof:lastmodified":1449040347,
+    "wof:lastmodified":1466653893,
     "wof:name":"Mc Mahan & Assoc Pa",
     "wof:parent_id":85892199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-82.560476,35.700851,-82.560476,35.700851],
-  "geometry": {"coordinates":[-82.560476,35.700851],"type":"Point"}
+  "bbox": [
+    -82.560476,
+    35.700851,
+    -82.560476,
+    35.700851
+],
+  "geometry": {"coordinates":[-82.56047599999999,35.700851],"type":"Point"}
 }

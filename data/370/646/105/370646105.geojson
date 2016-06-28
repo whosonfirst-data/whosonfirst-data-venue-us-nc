@@ -2,13 +2,14 @@
   "id": 370646105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.818069,34.273111,-77.818069,34.273111",
     "geom:latitude":34.273111,
     "geom:longitude":-77.818069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370646105,
-    "wof:lastmodified":1449028981,
+    "wof:lastmodified":1466654479,
     "wof:name":"Jones Seafood Restaurant",
     "wof:parent_id":85807111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-77.818069,34.273111,-77.818069,34.273111],
-  "geometry": {"coordinates":[-77.818069,34.273111],"type":"Point"}
+  "bbox": [
+    -77.818069,
+    34.273111,
+    -77.818069,
+    34.273111
+],
+  "geometry": {"coordinates":[-77.81806899999999,34.273111],"type":"Point"}
 }

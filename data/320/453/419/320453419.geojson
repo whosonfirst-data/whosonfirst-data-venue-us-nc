@@ -2,13 +2,14 @@
   "id": 320453419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.936095,36.022048,-78.936095,36.022048",
     "geom:latitude":36.022048,
     "geom:longitude":-78.936095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Hillandale Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320453419,
-    "wof:lastmodified":1449014054,
+    "wof:lastmodified":1466651691,
     "wof:name":"Hillandale Golf Course Fund",
     "wof:parent_id":85877201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-78.936095,36.022048,-78.936095,36.022048],
-  "geometry": {"coordinates":[-78.936095,36.022048],"type":"Point"}
+  "bbox": [
+    -78.936095,
+    36.022048,
+    -78.936095,
+    36.022048
+],
+  "geometry": {"coordinates":[-78.93609499999999,36.022048],"type":"Point"}
 }

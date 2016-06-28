@@ -2,13 +2,14 @@
   "id": 353943863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.530802,35.698561,-80.530802,35.698561",
     "geom:latitude":35.698561,
     "geom:longitude":-80.530802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 Statesville Blvd",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353943863,
-    "wof:lastmodified":1449018939,
+    "wof:lastmodified":1466653432,
     "wof:name":"Steve W Yang DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.530802,35.698561,-80.530802,35.698561],
-  "geometry": {"coordinates":[-80.530802,35.698561],"type":"Point"}
+  "bbox": [
+    -80.530802,
+    35.698561,
+    -80.530802,
+    35.698561
+],
+  "geometry": {"coordinates":[-80.53080199999999,35.698561],"type":"Point"}
 }

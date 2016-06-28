@@ -2,13 +2,14 @@
   "id": 320585491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.576214,35.351201,-78.576214,35.351201",
     "geom:latitude":35.351201,
     "geom:longitude":-78.576214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3924 US Hwy 301 N",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320585491,
-    "wof:lastmodified":1449013753,
+    "wof:lastmodified":1466653620,
     "wof:name":"Carolina Automotive",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.576214,35.351201,-78.576214,35.351201],
-  "geometry": {"coordinates":[-78.576214,35.351201],"type":"Point"}
+  "bbox": [
+    -78.576214,
+    35.351201,
+    -78.576214,
+    35.351201
+],
+  "geometry": {"coordinates":[-78.57621399999999,35.351201],"type":"Point"}
 }

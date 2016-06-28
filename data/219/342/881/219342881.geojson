@@ -2,13 +2,14 @@
   "id": 219342881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.191358,35.605246,-78.191358,35.605246",
     "geom:latitude":35.605246,
     "geom:longitude":-78.191358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Ivey Dr",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219342881,
-    "wof:lastmodified":1449073654,
+    "wof:lastmodified":1466643645,
     "wof:name":"World Of Walls",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-78.191358,35.605246,-78.191358,35.605246],
-  "geometry": {"coordinates":[-78.191358,35.605246],"type":"Point"}
+  "bbox": [
+    -78.191358,
+    35.605246,
+    -78.191358,
+    35.605246
+],
+  "geometry": {"coordinates":[-78.19135799999999,35.605246],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320420199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.764515,36.200115,-75.764515,36.200115",
     "geom:latitude":36.200115,
     "geom:longitude":-75.764515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1261 Duck Rd",
     "sg:city":"Kitty Hawk",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320420199,
-    "wof:lastmodified":1449013041,
+    "wof:lastmodified":1466651217,
     "wof:name":"US Army Corps Of Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-75.764515,36.200115,-75.764515,36.200115],
+  "bbox": [
+    -75.764515,
+    36.200115,
+    -75.764515,
+    36.200115
+],
   "geometry": {"coordinates":[-75.764515,36.200115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320615675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.507443,36.055454,-79.507443,36.055454",
     "geom:latitude":36.055454,
     "geom:longitude":-79.507443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1671 Huffman Mill Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320615675,
-    "wof:lastmodified":1449012452,
+    "wof:lastmodified":1466654052,
     "wof:name":"Martin Marietta Aggregates",
     "wof:parent_id":85857181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-79.507443,36.055454,-79.507443,36.055454],
-  "geometry": {"coordinates":[-79.507443,36.055454],"type":"Point"}
+  "bbox": [
+    -79.507443,
+    36.055454,
+    -79.507443,
+    36.055454
+],
+  "geometry": {"coordinates":[-79.50744299999999,36.055454],"type":"Point"}
 }

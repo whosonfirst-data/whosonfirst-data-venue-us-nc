@@ -2,13 +2,14 @@
   "id": 253400333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.734771,35.074693,-80.734771,35.074693",
     "geom:latitude":35.074693,
     "geom:longitude":-80.734771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3624 Manor House Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253400333,
-    "wof:lastmodified":1449063095,
+    "wof:lastmodified":1466647178,
     "wof:name":"Alexander Appraisal Svc",
     "wof:parent_id":85843235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-80.734771,35.074693,-80.734771,35.074693],
-  "geometry": {"coordinates":[-80.734771,35.074693],"type":"Point"}
+  "bbox": [
+    -80.734771,
+    35.074693,
+    -80.734771,
+    35.074693
+],
+  "geometry": {"coordinates":[-80.73477099999999,35.074693],"type":"Point"}
 }

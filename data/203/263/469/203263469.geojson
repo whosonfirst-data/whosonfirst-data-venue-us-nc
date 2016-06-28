@@ -2,13 +2,14 @@
   "id": 203263469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.21143,35.896978,-79.21143,35.896978",
     "geom:latitude":35.896978,
     "geom:longitude":-79.21143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5202 Old Greensboro Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203263469,
-    "wof:lastmodified":1449026824,
+    "wof:lastmodified":1466655673,
     "wof:name":"Van Hook Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.21143,35.896978,-79.21143,35.896978],
-  "geometry": {"coordinates":[-79.21143,35.896978],"type":"Point"}
+  "bbox": [
+    -79.21143,
+    35.896978,
+    -79.21143,
+    35.896978
+],
+  "geometry": {"coordinates":[-79.21142999999999,35.896978],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370827931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.751647,35.22674,-80.751647,35.22674",
     "geom:latitude":35.22674,
     "geom:longitude":-80.751647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Kavanaugh Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370827931,
-    "wof:lastmodified":1449030303,
+    "wof:lastmodified":1466656489,
     "wof:name":"Under Mango Tree",
     "wof:parent_id":85882269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.751647,35.22674,-80.751647,35.22674],
-  "geometry": {"coordinates":[-80.751647,35.22674],"type":"Point"}
+  "bbox": [
+    -80.751647,
+    35.22674,
+    -80.751647,
+    35.22674
+],
+  "geometry": {"coordinates":[-80.75164700000001,35.22674],"type":"Point"}
 }

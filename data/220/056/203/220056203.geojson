@@ -2,13 +2,14 @@
   "id": 220056203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.421354,34.789348,-77.421354,34.789348",
     "geom:latitude":34.789348,
     "geom:longitude":-77.421354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 Henderson Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220056203,
-    "wof:lastmodified":1449074240,
+    "wof:lastmodified":1466643647,
     "wof:name":"Glenn O'Keith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-77.421354,34.789348,-77.421354,34.789348],
-  "geometry": {"coordinates":[-77.421354,34.789348],"type":"Point"}
+  "bbox": [
+    -77.421354,
+    34.789348,
+    -77.421354,
+    34.789348
+],
+  "geometry": {"coordinates":[-77.42135399999999,34.789348],"type":"Point"}
 }

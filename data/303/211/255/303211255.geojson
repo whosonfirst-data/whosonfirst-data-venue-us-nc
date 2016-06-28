@@ -2,13 +2,14 @@
   "id": 303211255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.876978,34.245048,-77.876978,34.245048",
     "geom:latitude":34.245048,
     "geom:longitude":-77.876978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5229 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303211255,
-    "wof:lastmodified":1448998714,
+    "wof:lastmodified":1466646381,
     "wof:name":"Main Stay Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operations"
     ]
 },
-  "bbox": [-77.876978,34.245048,-77.876978,34.245048],
-  "geometry": {"coordinates":[-77.876978,34.245048],"type":"Point"}
+  "bbox": [
+    -77.876978,
+    34.245048,
+    -77.876978,
+    34.245048
+],
+  "geometry": {"coordinates":[-77.87697799999999,34.245048],"type":"Point"}
 }

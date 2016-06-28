@@ -2,13 +2,14 @@
   "id": 371170009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.79331,35.956375,-77.79331,35.956375",
     "geom:latitude":35.956375,
     "geom:longitude":-77.79331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Melton Dr",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371170009,
-    "wof:lastmodified":1449049119,
+    "wof:lastmodified":1466650979,
     "wof:name":"B & S Generator Inc",
     "wof:parent_id":85851697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"
     ]
 },
-  "bbox": [-77.79331,35.956375,-77.79331,35.956375],
-  "geometry": {"coordinates":[-77.79331,35.956375],"type":"Point"}
+  "bbox": [
+    -77.79331,
+    35.956375,
+    -77.79331,
+    35.956375
+],
+  "geometry": {"coordinates":[-77.79331000000001,35.956375],"type":"Point"}
 }

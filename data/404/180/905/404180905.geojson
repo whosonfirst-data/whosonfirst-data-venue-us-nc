@@ -2,13 +2,14 @@
   "id": 404180905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.319241,35.723179,-81.319241,35.723179",
     "geom:latitude":35.723179,
     "geom:longitude":-81.319241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Lenoir Rhyne Blvd SE",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404180905,
-    "wof:lastmodified":1449039115,
+    "wof:lastmodified":1466653597,
     "wof:name":"Country Chairs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.319241,35.723179,-81.319241,35.723179],
-  "geometry": {"coordinates":[-81.319241,35.723179],"type":"Point"}
+  "bbox": [
+    -81.319241,
+    35.723179,
+    -81.319241,
+    35.723179
+],
+  "geometry": {"coordinates":[-81.31924100000001,35.723179],"type":"Point"}
 }

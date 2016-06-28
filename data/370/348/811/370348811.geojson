@@ -2,13 +2,14 @@
   "id": 370348811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.708053,36.128121,-79.708053,36.128121",
     "geom:latitude":36.128121,
     "geom:longitude":-79.708053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 Hines Chapel Rd",
     "sg:city":"Mc Leansville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370348811,
-    "wof:lastmodified":1449029216,
+    "wof:lastmodified":1466650620,
     "wof:name":"Best One Card Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.708053,36.128121,-79.708053,36.128121],
-  "geometry": {"coordinates":[-79.708053,36.128121],"type":"Point"}
+  "bbox": [
+    -79.708053,
+    36.128121,
+    -79.708053,
+    36.128121
+],
+  "geometry": {"coordinates":[-79.70805300000001,36.128121],"type":"Point"}
 }

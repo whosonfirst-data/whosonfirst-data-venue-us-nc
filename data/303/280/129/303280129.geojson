@@ -2,13 +2,14 @@
   "id": 303280129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.501589,36.196949,-79.501589,36.196949",
     "geom:latitude":36.196949,
     "geom:longitude":-79.501589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Altamahaw Racetrack Rd",
     "sg:city":"Elon College",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303280129,
-    "wof:lastmodified":1448999319,
+    "wof:lastmodified":1466647396,
     "wof:name":"Ace Speedway",
     "wof:parent_id":85845553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "or"
     ]
 },
-  "bbox": [-79.501589,36.196949,-79.501589,36.196949],
+  "bbox": [
+    -79.501589,
+    36.196949,
+    -79.501589,
+    36.196949
+],
   "geometry": {"coordinates":[-79.501589,36.196949],"type":"Point"}
 }

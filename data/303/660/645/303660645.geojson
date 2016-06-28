@@ -2,13 +2,14 @@
   "id": 303660645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.79345,35.574823,-80.79345,35.574823",
     "geom:latitude":35.574823,
     "geom:longitude":-80.79345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"865 Vintage Dr",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303660645,
-    "wof:lastmodified":1449000313,
+    "wof:lastmodified":1466652837,
     "wof:name":"Ray of Light",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.79345,35.574823,-80.79345,35.574823],
-  "geometry": {"coordinates":[-80.79345,35.574823],"type":"Point"}
+  "bbox": [
+    -80.79345,
+    35.574823,
+    -80.79345,
+    35.574823
+],
+  "geometry": {"coordinates":[-80.79345000000001,35.574823],"type":"Point"}
 }

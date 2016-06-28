@@ -2,13 +2,14 @@
   "id": 287065535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.033414,35.928729,-79.033414,35.928729",
     "geom:latitude":35.928729,
     "geom:longitude":-79.033414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Estes Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287065535,
-    "wof:lastmodified":1449001586,
+    "wof:lastmodified":1466644175,
     "wof:name":"Cooper & Williams",
     "wof:parent_id":85868007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-79.033414,35.928729,-79.033414,35.928729],
-  "geometry": {"coordinates":[-79.033414,35.928729],"type":"Point"}
+  "bbox": [
+    -79.033414,
+    35.928729,
+    -79.033414,
+    35.928729
+],
+  "geometry": {"coordinates":[-79.03341399999999,35.928729],"type":"Point"}
 }

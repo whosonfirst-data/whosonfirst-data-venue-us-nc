@@ -2,13 +2,14 @@
   "id": 404153193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.692199,35.749615,-81.692199,35.749615",
     "geom:latitude":35.749615,
     "geom:longitude":-81.692199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Bouchelle St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404153193,
-    "wof:lastmodified":1449039953,
+    "wof:lastmodified":1466653225,
     "wof:name":"St Stephen's Episcopal Church",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.692199,35.749615,-81.692199,35.749615],
+  "bbox": [
+    -81.692199,
+    35.749615,
+    -81.692199,
+    35.749615
+],
   "geometry": {"coordinates":[-81.692199,35.749615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336665249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.125966,35.251308,-81.125966,35.251308",
     "geom:latitude":35.251308,
     "geom:longitude":-81.125966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 Deerwood Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336665249,
-    "wof:lastmodified":1448997276,
+    "wof:lastmodified":1466646852,
     "wof:name":"Vienna House Inc",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.125966,35.251308,-81.125966,35.251308],
-  "geometry": {"coordinates":[-81.125966,35.251308],"type":"Point"}
+  "bbox": [
+    -81.125966,
+    35.251308,
+    -81.125966,
+    35.251308
+],
+  "geometry": {"coordinates":[-81.12596600000001,35.251308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287260661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.422126,35.479398,-78.422126,35.479398",
     "geom:latitude":35.479398,
     "geom:longitude":-78.422126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Old Olive Rd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287260661,
-    "wof:lastmodified":1449000811,
+    "wof:lastmodified":1466646930,
     "wof:name":"Better Plumbing Svc",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.422126,35.479398,-78.422126,35.479398],
-  "geometry": {"coordinates":[-78.422126,35.479398],"type":"Point"}
+  "bbox": [
+    -78.422126,
+    35.479398,
+    -78.422126,
+    35.479398
+],
+  "geometry": {"coordinates":[-78.42212600000001,35.479398],"type":"Point"}
 }

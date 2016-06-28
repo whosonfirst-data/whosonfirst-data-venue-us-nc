@@ -2,13 +2,14 @@
   "id": 203408087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.898945,34.214518,-77.898945,34.214518",
     "geom:latitude":34.214518,
     "geom:longitude":-77.898945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 S 39th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203408087,
-    "wof:lastmodified":1449025181,
+    "wof:lastmodified":1466644064,
     "wof:name":"Wilmington Realty",
     "wof:parent_id":85830591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.898945,34.214518,-77.898945,34.214518],
+  "bbox": [
+    -77.898945,
+    34.214518,
+    -77.898945,
+    34.214518
+],
   "geometry": {"coordinates":[-77.898945,34.214518],"type":"Point"}
 }

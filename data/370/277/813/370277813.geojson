@@ -2,13 +2,14 @@
   "id": 370277813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.781749,34.876271,-76.781749,34.876271",
     "geom:latitude":34.876271,
     "geom:longitude":-76.781749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Boone Rd",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370277813,
-    "wof:lastmodified":1449029470,
+    "wof:lastmodified":1466649743,
     "wof:name":"George Everette Septic Tank",
     "wof:parent_id":85824245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "septic"
     ]
 },
-  "bbox": [-76.781749,34.876271,-76.781749,34.876271],
+  "bbox": [
+    -76.781749,
+    34.876271,
+    -76.781749,
+    34.876271
+],
   "geometry": {"coordinates":[-76.781749,34.876271],"type":"Point"}
 }

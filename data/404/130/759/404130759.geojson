@@ -2,13 +2,14 @@
   "id": 404130759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.582287,35.935091,-78.582287,35.935091",
     "geom:latitude":35.935091,
     "geom:longitude":-78.582287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9613 Waterwood Ct",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404130759,
-    "wof:lastmodified":1449039426,
+    "wof:lastmodified":1466652937,
     "wof:name":"Weller Painting LLC",
     "wof:parent_id":85892177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-78.582287,35.935091,-78.582287,35.935091],
-  "geometry": {"coordinates":[-78.582287,35.935091],"type":"Point"}
+  "bbox": [
+    -78.582287,
+    35.935091,
+    -78.582287,
+    35.935091
+],
+  "geometry": {"coordinates":[-78.58228699999999,35.935091],"type":"Point"}
 }

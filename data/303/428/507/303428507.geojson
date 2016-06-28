@@ -2,13 +2,14 @@
   "id": 303428507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.693351,35.010586,-78.693351,35.010586",
     "geom:latitude":35.010586,
     "geom:longitude":-78.693351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 E 1st St",
     "sg:city":"Stedman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303428507,
-    "wof:lastmodified":1449000400,
+    "wof:lastmodified":1466649483,
     "wof:name":"Danielle's Collection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-78.693351,35.010586,-78.693351,35.010586],
-  "geometry": {"coordinates":[-78.693351,35.010586],"type":"Point"}
+  "bbox": [
+    -78.693351,
+    35.010586,
+    -78.693351,
+    35.010586
+],
+  "geometry": {"coordinates":[-78.69335100000001,35.010586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303340055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.352174,36.46251,-81.352174,36.46251",
     "geom:latitude":36.46251,
     "geom:longitude":-81.352174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9729 US Hwy 221 N",
     "sg:city":"Crumpler",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303340055,
-    "wof:lastmodified":1449000006,
+    "wof:lastmodified":1466648205,
     "wof:name":"Carson Log Cabin Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.352174,36.46251,-81.352174,36.46251],
-  "geometry": {"coordinates":[-81.352174,36.46251],"type":"Point"}
+  "bbox": [
+    -81.352174,
+    36.46251,
+    -81.352174,
+    36.46251
+],
+  "geometry": {"coordinates":[-81.35217400000001,36.46251],"type":"Point"}
 }

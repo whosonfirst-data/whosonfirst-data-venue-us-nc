@@ -2,13 +2,14 @@
   "id": 269900569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.243068,36.131937,-80.243068,36.131937",
     "geom:latitude":36.131937,
     "geom:longitude":-80.243068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3123 Indiana Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269900569,
-    "wof:lastmodified":1449037167,
+    "wof:lastmodified":1466648113,
     "wof:name":"Woodland Cemetery",
     "wof:parent_id":85806595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-80.243068,36.131937,-80.243068,36.131937],
-  "geometry": {"coordinates":[-80.243068,36.131937],"type":"Point"}
+  "bbox": [
+    -80.243068,
+    36.131937,
+    -80.243068,
+    36.131937
+],
+  "geometry": {"coordinates":[-80.24306799999999,36.131937],"type":"Point"}
 }

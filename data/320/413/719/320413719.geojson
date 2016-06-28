@@ -2,13 +2,14 @@
   "id": 320413719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.257161,35.470443,-81.257161,35.470443",
     "geom:latitude":35.470443,
     "geom:longitude":-81.257161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W Water St",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320413719,
-    "wof:lastmodified":1449011843,
+    "wof:lastmodified":1466651123,
     "wof:name":"Lincoln Times-News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-81.257161,35.470443,-81.257161,35.470443],
+  "bbox": [
+    -81.257161,
+    35.470443,
+    -81.257161,
+    35.470443
+],
   "geometry": {"coordinates":[-81.257161,35.470443],"type":"Point"}
 }

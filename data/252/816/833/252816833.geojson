@@ -2,13 +2,14 @@
   "id": 252816833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.553001,35.710113,-82.553001,35.710113",
     "geom:latitude":35.710113,
     "geom:longitude":-82.553001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Leisure Ln",
     "sg:city":"Weaverville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252816833,
-    "wof:lastmodified":1449006053,
+    "wof:lastmodified":1466644188,
     "wof:name":"Thornberry Development Corp",
     "wof:parent_id":85892199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-82.553001,35.710113,-82.553001,35.710113],
-  "geometry": {"coordinates":[-82.553001,35.710113],"type":"Point"}
+  "bbox": [
+    -82.553001,
+    35.710113,
+    -82.553001,
+    35.710113
+],
+  "geometry": {"coordinates":[-82.55300099999999,35.710113],"type":"Point"}
 }

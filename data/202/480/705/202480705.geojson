@@ -2,13 +2,14 @@
   "id": 202480705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.256932,34.926763,-79.256932,34.926763",
     "geom:latitude":34.926763,
     "geom:longitude":-79.256932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3479 Old Maxton Rd",
     "sg:city":"Red Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202480705,
-    "wof:lastmodified":1449060933,
+    "wof:lastmodified":1466654860,
     "wof:name":"United Fire Protector",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-79.256932,34.926763,-79.256932,34.926763],
-  "geometry": {"coordinates":[-79.256932,34.926763],"type":"Point"}
+  "bbox": [
+    -79.256932,
+    34.926763,
+    -79.256932,
+    34.926763
+],
+  "geometry": {"coordinates":[-79.25693200000001,34.926763],"type":"Point"}
 }

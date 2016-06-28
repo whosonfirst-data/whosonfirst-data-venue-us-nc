@@ -2,13 +2,14 @@
   "id": 303149507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.010089,35.209815,-81.010089,35.209815",
     "geom:latitude":35.209815,
     "geom:longitude":-81.010089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Oakcrest Dr",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303149507,
-    "wof:lastmodified":1448998122,
+    "wof:lastmodified":1466645458,
     "wof:name":"D K Pruitt Realty",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.010089,35.209815,-81.010089,35.209815],
-  "geometry": {"coordinates":[-81.010089,35.209815],"type":"Point"}
+  "bbox": [
+    -81.010089,
+    35.209815,
+    -81.010089,
+    35.209815
+],
+  "geometry": {"coordinates":[-81.01008899999999,35.209815],"type":"Point"}
 }

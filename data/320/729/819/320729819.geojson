@@ -2,13 +2,14 @@
   "id": 320729819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.002643,35.378144,-78.002643,35.378144",
     "geom:latitude":35.378144,
     "geom:longitude":-78.002643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 S George St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320729819,
-    "wof:lastmodified":1449013136,
+    "wof:lastmodified":1466655677,
     "wof:name":"Salvage TT Auction",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-78.002643,35.378144,-78.002643,35.378144],
-  "geometry": {"coordinates":[-78.002643,35.378144],"type":"Point"}
+  "bbox": [
+    -78.002643,
+    35.378144,
+    -78.002643,
+    35.378144
+],
+  "geometry": {"coordinates":[-78.00264300000001,35.378144],"type":"Point"}
 }

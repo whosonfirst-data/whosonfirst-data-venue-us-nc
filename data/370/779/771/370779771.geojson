@@ -2,13 +2,14 @@
   "id": 370779771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.593524,36.488581,-80.593524,36.488581",
     "geom:latitude":36.488581,
     "geom:longitude":-80.593524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 US Hwy 52 Bus",
     "sg:city":"Mount Airy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370779771,
-    "wof:lastmodified":1449029607,
+    "wof:lastmodified":1466656205,
     "wof:name":"Coe Electrolysis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-80.593524,36.488581,-80.593524,36.488581],
+  "bbox": [
+    -80.593524,
+    36.488581,
+    -80.593524,
+    36.488581
+],
   "geometry": {"coordinates":[-80.593524,36.488581],"type":"Point"}
 }

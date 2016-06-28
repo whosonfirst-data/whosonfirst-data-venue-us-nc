@@ -2,13 +2,14 @@
   "id": 370618567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.872157,34.288147,-77.872157,34.288147",
     "geom:latitude":34.288147,
     "geom:longitude":-77.872157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 Exchange Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370618567,
-    "wof:lastmodified":1449031194,
+    "wof:lastmodified":1466654117,
     "wof:name":"EIS Data Systems",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.872157,34.288147,-77.872157,34.288147],
+  "bbox": [
+    -77.872157,
+    34.288147,
+    -77.872157,
+    34.288147
+],
   "geometry": {"coordinates":[-77.872157,34.288147],"type":"Point"}
 }

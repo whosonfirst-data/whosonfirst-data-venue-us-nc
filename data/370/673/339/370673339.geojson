@@ -2,13 +2,14 @@
   "id": 370673339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.46882,34.735328,-77.46882,34.735328",
     "geom:latitude":34.735328,
     "geom:longitude":-77.46882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1914 Wilmington Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370673339,
-    "wof:lastmodified":1449030396,
+    "wof:lastmodified":1466654852,
     "wof:name":"Gary's Auto Sales",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.46882,34.735328,-77.46882,34.735328],
-  "geometry": {"coordinates":[-77.46882,34.735328],"type":"Point"}
+  "bbox": [
+    -77.46882,
+    34.735328,
+    -77.46882,
+    34.735328
+],
+  "geometry": {"coordinates":[-77.46881999999999,34.735328],"type":"Point"}
 }

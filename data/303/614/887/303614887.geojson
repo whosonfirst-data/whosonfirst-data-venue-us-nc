@@ -2,13 +2,14 @@
   "id": 303614887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.167408,35.491507,-79.167408,35.491507",
     "geom:latitude":35.491507,
     "geom:longitude":-79.167408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N 7th St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303614887,
-    "wof:lastmodified":1449000636,
+    "wof:lastmodified":1466652173,
     "wof:name":"Morningside Presbt Church",
     "wof:parent_id":85851589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.167408,35.491507,-79.167408,35.491507],
-  "geometry": {"coordinates":[-79.167408,35.491507],"type":"Point"}
+  "bbox": [
+    -79.167408,
+    35.491507,
+    -79.167408,
+    35.491507
+],
+  "geometry": {"coordinates":[-79.16740799999999,35.491507],"type":"Point"}
 }

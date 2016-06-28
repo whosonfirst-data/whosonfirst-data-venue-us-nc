@@ -2,13 +2,14 @@
   "id": 320353603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.138292,35.254939,-81.138292,35.254939",
     "geom:latitude":35.254939,
     "geom:longitude":-81.138292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Dunham Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320353603,
-    "wof:lastmodified":1449012335,
+    "wof:lastmodified":1466650257,
     "wof:name":"B P Appliance",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-81.138292,35.254939,-81.138292,35.254939],
-  "geometry": {"coordinates":[-81.138292,35.254939],"type":"Point"}
+  "bbox": [
+    -81.138292,
+    35.254939,
+    -81.138292,
+    35.254939
+],
+  "geometry": {"coordinates":[-81.13829200000001,35.254939],"type":"Point"}
 }

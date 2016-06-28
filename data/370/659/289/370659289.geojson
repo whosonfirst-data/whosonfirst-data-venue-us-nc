@@ -2,13 +2,14 @@
   "id": 370659289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.328635,35.184024,-78.328635,35.184024",
     "geom:latitude":35.184024,
     "geom:longitude":-78.328635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12201 Hobbton Hwy",
     "sg:city":"Newton Grove",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370659289,
-    "wof:lastmodified":1449029455,
+    "wof:lastmodified":1466654660,
     "wof:name":"Hobbton Highschool Field House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.328635,35.184024,-78.328635,35.184024],
-  "geometry": {"coordinates":[-78.328635,35.184024],"type":"Point"}
+  "bbox": [
+    -78.328635,
+    35.184024,
+    -78.328635,
+    35.184024
+],
+  "geometry": {"coordinates":[-78.32863500000001,35.184024],"type":"Point"}
 }

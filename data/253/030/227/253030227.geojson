@@ -2,13 +2,14 @@
   "id": 253030227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.817469,35.708306,-79.817469,35.708306",
     "geom:latitude":35.708306,
     "geom:longitude":-79.817469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 W Salisbury St",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":253030227,
-    "wof:lastmodified":1449063912,
+    "wof:lastmodified":1466643455,
     "wof:name":"L T Transit Claims Svc of NC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "furniture"
     ]
 },
-  "bbox": [-79.817469,35.708306,-79.817469,35.708306],
+  "bbox": [
+    -79.817469,
+    35.708306,
+    -79.817469,
+    35.708306
+],
   "geometry": {"coordinates":[-79.817469,35.708306],"type":"Point"}
 }

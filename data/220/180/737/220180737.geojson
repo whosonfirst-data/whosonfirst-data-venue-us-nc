@@ -2,13 +2,14 @@
   "id": 220180737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.831983,36.065675,-79.831983,36.065675",
     "geom:latitude":36.065675,
     "geom:longitude":-79.831983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Northridge St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220180737,
-    "wof:lastmodified":1449074085,
+    "wof:lastmodified":1466644643,
     "wof:name":"HBC Builders LLC",
     "wof:parent_id":85877959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.831983,36.065675,-79.831983,36.065675],
-  "geometry": {"coordinates":[-79.831983,36.065675],"type":"Point"}
+  "bbox": [
+    -79.831983,
+    36.065675,
+    -79.831983,
+    36.065675
+],
+  "geometry": {"coordinates":[-79.83198299999999,36.065675],"type":"Point"}
 }

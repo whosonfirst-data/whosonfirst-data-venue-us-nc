@@ -2,13 +2,14 @@
   "id": 319836839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.577685,35.798464,-78.577685,35.798464",
     "geom:latitude":35.798464,
     "geom:longitude":-78.577685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Trawick Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":319836839,
-    "wof:lastmodified":1449024598,
+    "wof:lastmodified":1466645118,
     "wof:name":"Trinity Healthcare",
     "wof:parent_id":85805025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-78.577685,35.798464,-78.577685,35.798464],
+  "bbox": [
+    -78.577685,
+    35.798464,
+    -78.577685,
+    35.798464
+],
   "geometry": {"coordinates":[-78.577685,35.798464],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303262347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.962946,35.91846,-78.962946,35.91846",
     "geom:latitude":35.91846,
     "geom:longitude":-78.962946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W State Hwy 54",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303262347,
-    "wof:lastmodified":1448999633,
+    "wof:lastmodified":1466647136,
     "wof:name":"AHB Psychological Svc",
     "wof:parent_id":85818839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-78.962946,35.91846,-78.962946,35.91846],
+  "bbox": [
+    -78.962946,
+    35.91846,
+    -78.962946,
+    35.91846
+],
   "geometry": {"coordinates":[-78.962946,35.91846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386991251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.62887,35.529517,-82.62887,35.529517",
     "geom:latitude":35.529517,
     "geom:longitude":-82.62887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Brown Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386991251,
-    "wof:lastmodified":1449028713,
+    "wof:lastmodified":1466650203,
     "wof:name":"Hunter Insurance Svc",
     "wof:parent_id":85853555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accident"
     ]
 },
-  "bbox": [-82.62887,35.529517,-82.62887,35.529517],
-  "geometry": {"coordinates":[-82.62887,35.529517],"type":"Point"}
+  "bbox": [
+    -82.62887,
+    35.529517,
+    -82.62887,
+    35.529517
+],
+  "geometry": {"coordinates":[-82.62887000000001,35.529517],"type":"Point"}
 }

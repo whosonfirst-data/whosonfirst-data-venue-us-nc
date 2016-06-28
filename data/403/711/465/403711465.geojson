@@ -2,13 +2,14 @@
   "id": 403711465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.550181,35.915839,-77.550181,35.915839",
     "geom:latitude":35.915839,
     "geom:longitude":-77.550181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Hastings St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403711465,
-    "wof:lastmodified":1449055723,
+    "wof:lastmodified":1466650442,
     "wof:name":"Whitehead Trucking & Hauling S",
     "wof:parent_id":85856477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.550181,35.915839,-77.550181,35.915839],
-  "geometry": {"coordinates":[-77.550181,35.915839],"type":"Point"}
+  "bbox": [
+    -77.550181,
+    35.915839,
+    -77.550181,
+    35.915839
+],
+  "geometry": {"coordinates":[-77.55018099999999,35.915839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219659219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.947905,34.23889,-77.947905,34.23889",
     "geom:latitude":34.23889,
     "geom:longitude":-77.947905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N 2nd St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219659219,
-    "wof:lastmodified":1449070773,
+    "wof:lastmodified":1466646034,
     "wof:name":"Whitley's Bail Bonding Svc",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-77.947905,34.23889,-77.947905,34.23889],
-  "geometry": {"coordinates":[-77.947905,34.23889],"type":"Point"}
+  "bbox": [
+    -77.947905,
+    34.23889,
+    -77.947905,
+    34.23889
+],
+  "geometry": {"coordinates":[-77.94790500000001,34.23889],"type":"Point"}
 }

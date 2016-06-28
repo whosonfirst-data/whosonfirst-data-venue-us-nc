@@ -2,13 +2,14 @@
   "id": 220145765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.613543,35.917264,-78.613543,35.917264",
     "geom:latitude":35.917264,
     "geom:longitude":-78.613543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5324 Wynneford Way",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220145765,
-    "wof:lastmodified":1449074264,
+    "wof:lastmodified":1466644358,
     "wof:name":"Steen Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.613543,35.917264,-78.613543,35.917264],
-  "geometry": {"coordinates":[-78.613543,35.917264],"type":"Point"}
+  "bbox": [
+    -78.613543,
+    35.917264,
+    -78.613543,
+    35.917264
+],
+  "geometry": {"coordinates":[-78.61354300000001,35.917264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387354991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.09345,34.679111,-77.09345,34.679111",
     "geom:latitude":34.679111,
     "geom:longitude":-77.09345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 Cedar Point Blvd",
     "sg:city":"Swansboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387354991,
-    "wof:lastmodified":1449059487,
+    "wof:lastmodified":1466654530,
     "wof:name":"Cedar Point Family Practice",
     "wof:parent_id":85843465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-77.09345,34.679111,-77.09345,34.679111],
+  "bbox": [
+    -77.09345,
+    34.679111,
+    -77.09345,
+    34.679111
+],
   "geometry": {"coordinates":[-77.09345,34.679111],"type":"Point"}
 }

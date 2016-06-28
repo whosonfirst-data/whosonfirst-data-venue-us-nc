@@ -2,13 +2,14 @@
   "id": 303263467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.374023,35.615641,-77.374023,35.615641",
     "geom:latitude":35.615641,
     "geom:longitude":-77.374023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W 1st St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303263467,
-    "wof:lastmodified":1449000493,
+    "wof:lastmodified":1466647150,
     "wof:name":"Greenville Zoning & Develop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dev"
     ]
 },
-  "bbox": [-77.374023,35.615641,-77.374023,35.615641],
-  "geometry": {"coordinates":[-77.374023,35.615641],"type":"Point"}
+  "bbox": [
+    -77.374023,
+    35.615641,
+    -77.374023,
+    35.615641
+],
+  "geometry": {"coordinates":[-77.37402299999999,35.615641],"type":"Point"}
 }

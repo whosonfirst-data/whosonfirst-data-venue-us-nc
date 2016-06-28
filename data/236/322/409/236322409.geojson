@@ -2,13 +2,14 @@
   "id": 236322409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.085114,35.575372,-77.085114,35.575372",
     "geom:latitude":35.575372,
     "geom:longitude":-77.085114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1989 W 5th St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236322409,
-    "wof:lastmodified":1449001650,
+    "wof:lastmodified":1466646071,
     "wof:name":"Washington Sporting Ctr",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.085114,35.575372,-77.085114,35.575372],
+  "bbox": [
+    -77.085114,
+    35.575372,
+    -77.085114,
+    35.575372
+],
   "geometry": {"coordinates":[-77.085114,35.575372],"type":"Point"}
 }

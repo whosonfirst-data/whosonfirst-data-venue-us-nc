@@ -2,13 +2,14 @@
   "id": 303096167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.626161,35.815164,-78.626161,35.815164",
     "geom:latitude":35.815164,
     "geom:longitude":-78.626161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2234 Wake Forest Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303096167,
-    "wof:lastmodified":1448998907,
+    "wof:lastmodified":1466644635,
     "wof:name":"ABC Bartending",
     "wof:parent_id":85838339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.626161,35.815164,-78.626161,35.815164],
+  "bbox": [
+    -78.626161,
+    35.815164,
+    -78.626161,
+    35.815164
+],
   "geometry": {"coordinates":[-78.626161,35.815164],"type":"Point"}
 }

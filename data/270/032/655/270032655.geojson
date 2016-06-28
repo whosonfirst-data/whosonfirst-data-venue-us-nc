@@ -2,13 +2,14 @@
   "id": 270032655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.565553,35.916134,-78.565553,35.916134",
     "geom:latitude":35.916134,
     "geom:longitude":-78.565553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11008 Cokesbury Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270032655,
-    "wof:lastmodified":1449009827,
+    "wof:lastmodified":1466643570,
     "wof:name":"Alpha Appraisal Svs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.565553,35.916134,-78.565553,35.916134],
-  "geometry": {"coordinates":[-78.565553,35.916134],"type":"Point"}
+  "bbox": [
+    -78.565553,
+    35.916134,
+    -78.565553,
+    35.916134
+],
+  "geometry": {"coordinates":[-78.56555299999999,35.916134],"type":"Point"}
 }

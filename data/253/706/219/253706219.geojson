@@ -2,13 +2,14 @@
   "id": 253706219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.818723,35.757953,-78.818723,35.757953",
     "geom:latitude":35.757953,
     "geom:longitude":-78.818723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Suterland Rd",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253706219,
-    "wof:lastmodified":1449063034,
+    "wof:lastmodified":1466650818,
     "wof:name":"Bow Wow Bistro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.818723,35.757953,-78.818723,35.757953],
-  "geometry": {"coordinates":[-78.818723,35.757953],"type":"Point"}
+  "bbox": [
+    -78.818723,
+    35.757953,
+    -78.818723,
+    35.757953
+],
+  "geometry": {"coordinates":[-78.81872300000001,35.757953],"type":"Point"}
 }

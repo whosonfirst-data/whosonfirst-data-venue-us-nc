@@ -2,13 +2,14 @@
   "id": 404110929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256528,35.906242,-80.256528,35.906242",
     "geom:latitude":35.906242,
     "geom:longitude":-80.256528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6066 Old US Hwy 52",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404110929,
-    "wof:lastmodified":1449039408,
+    "wof:lastmodified":1466652678,
     "wof:name":"Crow's Nest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-80.256528,35.906242,-80.256528,35.906242],
+  "bbox": [
+    -80.256528,
+    35.906242,
+    -80.256528,
+    35.906242
+],
   "geometry": {"coordinates":[-80.256528,35.906242],"type":"Point"}
 }

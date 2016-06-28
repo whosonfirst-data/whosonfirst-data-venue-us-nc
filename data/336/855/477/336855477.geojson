@@ -2,13 +2,14 @@
   "id": 336855477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.573383,35.880109,-78.573383,35.880109",
     "geom:latitude":35.880109,
     "geom:longitude":-78.573383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6937 Capital Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336855477,
-    "wof:lastmodified":1448997726,
+    "wof:lastmodified":1466649735,
     "wof:name":"S T Wooten Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.573383,35.880109,-78.573383,35.880109],
-  "geometry": {"coordinates":[-78.573383,35.880109],"type":"Point"}
+  "bbox": [
+    -78.573383,
+    35.880109,
+    -78.573383,
+    35.880109
+],
+  "geometry": {"coordinates":[-78.57338300000001,35.880109],"type":"Point"}
 }

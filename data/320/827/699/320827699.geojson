@@ -2,13 +2,14 @@
   "id": 320827699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.850961,36.071984,-79.850961,36.071984",
     "geom:latitude":36.071984,
     "geom:longitude":-79.850961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Manchester Pl",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320827699,
-    "wof:lastmodified":1449012612,
+    "wof:lastmodified":1466656569,
     "wof:name":"Greensboro Orthopedic Center",
     "wof:parent_id":85850945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-79.850961,36.071984,-79.850961,36.071984],
+  "bbox": [
+    -79.850961,
+    36.071984,
+    -79.850961,
+    36.071984
+],
   "geometry": {"coordinates":[-79.850961,36.071984],"type":"Point"}
 }

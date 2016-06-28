@@ -2,13 +2,14 @@
   "id": 370458139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.157519,35.934836,-81.157519,35.934836",
     "geom:latitude":35.934836,
     "geom:longitude":-81.157519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Jones Rd",
     "sg:city":"Ferguson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370458139,
-    "wof:lastmodified":1449031499,
+    "wof:lastmodified":1466652017,
     "wof:name":"ABC 123 Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.157519,35.934836,-81.157519,35.934836],
-  "geometry": {"coordinates":[-81.157519,35.934836],"type":"Point"}
+  "bbox": [
+    -81.157519,
+    35.934836,
+    -81.157519,
+    35.934836
+],
+  "geometry": {"coordinates":[-81.15751899999999,35.934836],"type":"Point"}
 }

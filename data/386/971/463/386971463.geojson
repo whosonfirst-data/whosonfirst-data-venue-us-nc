@@ -2,13 +2,14 @@
   "id": 386971463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.797643,35.949611,-77.797643,35.949611",
     "geom:latitude":35.949611,
     "geom:longitude":-77.797643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Grace St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386971463,
-    "wof:lastmodified":1449028789,
+    "wof:lastmodified":1466649950,
     "wof:name":"Rich Bennett",
     "wof:parent_id":85850007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.797643,35.949611,-77.797643,35.949611],
-  "geometry": {"coordinates":[-77.797643,35.949611],"type":"Point"}
+  "bbox": [
+    -77.797643,
+    35.949611,
+    -77.797643,
+    35.949611
+],
+  "geometry": {"coordinates":[-77.79764299999999,35.949611],"type":"Point"}
 }

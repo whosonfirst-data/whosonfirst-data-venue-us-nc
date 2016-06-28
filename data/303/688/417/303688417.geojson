@@ -2,13 +2,14 @@
   "id": 303688417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.896363,35.713879,-80.896363,35.713879",
     "geom:latitude":35.713879,
     "geom:longitude":-80.896363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 N Main St",
     "sg:city":"Troutman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303688417,
-    "wof:lastmodified":1448999030,
+    "wof:lastmodified":1466653252,
     "wof:name":"Carolina Specialty Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.896363,35.713879,-80.896363,35.713879],
-  "geometry": {"coordinates":[-80.896363,35.713879],"type":"Point"}
+  "bbox": [
+    -80.896363,
+    35.713879,
+    -80.896363,
+    35.713879
+],
+  "geometry": {"coordinates":[-80.89636299999999,35.713879],"type":"Point"}
 }

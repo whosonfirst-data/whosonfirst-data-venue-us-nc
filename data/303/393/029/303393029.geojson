@@ -2,13 +2,14 @@
   "id": 303393029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.057646,35.034909,-79.057646,35.034909",
     "geom:latitude":35.034909,
     "geom:longitude":-79.057646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 Rossmore Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303393029,
-    "wof:lastmodified":1448998883,
+    "wof:lastmodified":1466648974,
     "wof:name":"As My Own Pet Svc",
     "wof:parent_id":85831097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-79.057646,35.034909,-79.057646,35.034909],
-  "geometry": {"coordinates":[-79.057646,35.034909],"type":"Point"}
+  "bbox": [
+    -79.057646,
+    35.034909,
+    -79.057646,
+    35.034909
+],
+  "geometry": {"coordinates":[-79.05764600000001,35.034909],"type":"Point"}
 }

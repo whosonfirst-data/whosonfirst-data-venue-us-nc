@@ -2,13 +2,14 @@
   "id": 386955317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.631138,35.807417,-78.631138,35.807417",
     "geom:latitude":35.807417,
     "geom:longitude":-78.631138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 Bernard St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386955317,
-    "wof:lastmodified":1449028836,
+    "wof:lastmodified":1466649731,
     "wof:name":"Pindell Wilson Property Mgmt",
     "wof:parent_id":85821323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-78.631138,35.807417,-78.631138,35.807417],
-  "geometry": {"coordinates":[-78.631138,35.807417],"type":"Point"}
+  "bbox": [
+    -78.631138,
+    35.807417,
+    -78.631138,
+    35.807417
+],
+  "geometry": {"coordinates":[-78.63113800000001,35.807417],"type":"Point"}
 }

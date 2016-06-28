@@ -2,13 +2,14 @@
   "id": 220048865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.890473,34.33319,-77.890473,34.33319",
     "geom:latitude":34.33319,
     "geom:longitude":-77.890473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4536 Parmele Rd",
     "sg:city":"Castle Hayne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220048865,
-    "wof:lastmodified":1449074298,
+    "wof:lastmodified":1466643600,
     "wof:name":"Intercoastal Yacht Service",
     "wof:parent_id":85807815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-77.890473,34.33319,-77.890473,34.33319],
+  "bbox": [
+    -77.890473,
+    34.33319,
+    -77.890473,
+    34.33319
+],
   "geometry": {"coordinates":[-77.890473,34.33319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303895807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.825396,34.227892,-77.825396,34.227892",
     "geom:latitude":34.227892,
     "geom:longitude":-77.825396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1814 Vincennes Pl",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303895807,
-    "wof:lastmodified":1448999156,
+    "wof:lastmodified":1466656142,
     "wof:name":"Interiors By Snowden",
     "wof:parent_id":85830827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-77.825396,34.227892,-77.825396,34.227892],
+  "bbox": [
+    -77.825396,
+    34.227892,
+    -77.825396,
+    34.227892
+],
   "geometry": {"coordinates":[-77.825396,34.227892],"type":"Point"}
 }

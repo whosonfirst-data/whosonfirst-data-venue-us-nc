@@ -2,13 +2,14 @@
   "id": 202830695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.636743,35.775501,-78.636743,35.775501",
     "geom:latitude":35.775501,
     "geom:longitude":-78.636743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Davie St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202830695,
-    "wof:lastmodified":1449060656,
+    "wof:lastmodified":1466644403,
     "wof:name":"Progress Energy",
     "wof:parent_id":85873451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-78.636743,35.775501,-78.636743,35.775501],
+  "bbox": [
+    -78.636743,
+    35.775501,
+    -78.636743,
+    35.775501
+],
   "geometry": {"coordinates":[-78.636743,35.775501],"type":"Point"}
 }

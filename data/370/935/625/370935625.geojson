@@ -2,13 +2,14 @@
   "id": 370935625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.499632,35.386943,-80.499632,35.386943",
     "geom:latitude":35.386943,
     "geom:longitude":-80.499632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4551 Old Airport Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370935625,
-    "wof:lastmodified":1449031867,
+    "wof:lastmodified":1466657080,
     "wof:name":"Cabarrus County Fair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "show"
     ]
 },
-  "bbox": [-80.499632,35.386943,-80.499632,35.386943],
-  "geometry": {"coordinates":[-80.499632,35.386943],"type":"Point"}
+  "bbox": [
+    -80.499632,
+    35.386943,
+    -80.499632,
+    35.386943
+],
+  "geometry": {"coordinates":[-80.49963200000001,35.386943],"type":"Point"}
 }

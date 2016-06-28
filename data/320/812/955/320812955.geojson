@@ -2,13 +2,14 @@
   "id": 320812955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.400424,35.177594,-83.400424,35.177594",
     "geom:latitude":35.177594,
     "geom:longitude":-83.400424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Palmer Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320812955,
-    "wof:lastmodified":1449011363,
+    "wof:lastmodified":1466656451,
     "wof:name":"West Franklin Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-83.400424,35.177594,-83.400424,35.177594],
+  "bbox": [
+    -83.400424,
+    35.177594,
+    -83.400424,
+    35.177594
+],
   "geometry": {"coordinates":[-83.400424,35.177594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320401975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.975715,35.445195,-76.975715,35.445195",
     "geom:latitude":35.445195,
     "geom:longitude":-76.975715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 Gilead Shores Rd",
     "sg:city":"Blounts Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320401975,
-    "wof:lastmodified":1449014423,
+    "wof:lastmodified":1466650950,
     "wof:name":"Pamlico Heating",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-76.975715,35.445195,-76.975715,35.445195],
-  "geometry": {"coordinates":[-76.975715,35.445195],"type":"Point"}
+  "bbox": [
+    -76.975715,
+    35.445195,
+    -76.975715,
+    35.445195
+],
+  "geometry": {"coordinates":[-76.97571499999999,35.445195],"type":"Point"}
 }

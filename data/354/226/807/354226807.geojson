@@ -2,13 +2,14 @@
   "id": 354226807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.758789,35.73846,-78.758789,35.73846",
     "geom:latitude":35.73846,
     "geom:longitude":-78.758789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Townsend Ct",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354226807,
-    "wof:lastmodified":1449067193,
+    "wof:lastmodified":1466650182,
     "wof:name":"OSI Software",
     "wof:parent_id":85851379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.758789,35.73846,-78.758789,35.73846],
-  "geometry": {"coordinates":[-78.758789,35.73846],"type":"Point"}
+  "bbox": [
+    -78.758789,
+    35.73846,
+    -78.758789,
+    35.73846
+],
+  "geometry": {"coordinates":[-78.75878899999999,35.73846],"type":"Point"}
 }

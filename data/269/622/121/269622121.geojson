@@ -2,13 +2,14 @@
   "id": 269622121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.013945,36.421414,-76.013945,36.421414",
     "geom:latitude":36.421414,
     "geom:longitude":-76.013945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 S Currituck Rd",
     "sg:city":"Currituck",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269622121,
-    "wof:lastmodified":1449038408,
+    "wof:lastmodified":1466644865,
     "wof:name":"Currituck County Fire Marshal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "protection"
     ]
 },
-  "bbox": [-76.013945,36.421414,-76.013945,36.421414],
-  "geometry": {"coordinates":[-76.013945,36.421414],"type":"Point"}
+  "bbox": [
+    -76.013945,
+    36.421414,
+    -76.013945,
+    36.421414
+],
+  "geometry": {"coordinates":[-76.01394500000001,36.421414],"type":"Point"}
 }

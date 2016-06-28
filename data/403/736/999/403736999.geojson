@@ -2,13 +2,14 @@
   "id": 403736999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.209152,35.277737,-81.209152,35.277737",
     "geom:latitude":35.277737,
     "geom:longitude":-81.209152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Baker Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403736999,
-    "wof:lastmodified":1449055935,
+    "wof:lastmodified":1466650770,
     "wof:name":"Dockery Lakes Roofing",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.209152,35.277737,-81.209152,35.277737],
+  "bbox": [
+    -81.209152,
+    35.277737,
+    -81.209152,
+    35.277737
+],
   "geometry": {"coordinates":[-81.209152,35.277737],"type":"Point"}
 }

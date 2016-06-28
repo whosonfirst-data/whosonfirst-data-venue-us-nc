@@ -2,13 +2,14 @@
   "id": 269908051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.531001,35.949667,-78.531001,35.949667",
     "geom:latitude":35.949667,
     "geom:longitude":-78.531001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10308 Ligon Mill Rd",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269908051,
-    "wof:lastmodified":1449037498,
+    "wof:lastmodified":1466648209,
     "wof:name":"NORTH Wake Mini Storage",
     "wof:parent_id":85892189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-78.531001,35.949667,-78.531001,35.949667],
+  "bbox": [
+    -78.531001,
+    35.949667,
+    -78.531001,
+    35.949667
+],
   "geometry": {"coordinates":[-78.531001,35.949667],"type":"Point"}
 }

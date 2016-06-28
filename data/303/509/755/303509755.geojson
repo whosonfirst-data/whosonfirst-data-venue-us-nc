@@ -2,13 +2,14 @@
   "id": 303509755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.238549,35.82151,-80.238549,35.82151",
     "geom:latitude":35.82151,
     "geom:longitude":-80.238549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Hackney St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303509755,
-    "wof:lastmodified":1448998217,
+    "wof:lastmodified":1466650660,
     "wof:name":"Dyson Tile & Stone",
     "wof:parent_id":85837937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.238549,35.82151,-80.238549,35.82151],
-  "geometry": {"coordinates":[-80.238549,35.82151],"type":"Point"}
+  "bbox": [
+    -80.238549,
+    35.82151,
+    -80.238549,
+    35.82151
+],
+  "geometry": {"coordinates":[-80.23854900000001,35.82151],"type":"Point"}
 }

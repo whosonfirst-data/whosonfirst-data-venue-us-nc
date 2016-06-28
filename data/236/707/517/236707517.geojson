@@ -2,13 +2,14 @@
   "id": 236707517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.478816,34.695695,-77.478816,34.695695",
     "geom:latitude":34.695695,
     "geom:longitude":-77.478816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 Wilmington Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236707517,
-    "wof:lastmodified":1449004623,
+    "wof:lastmodified":1466649549,
     "wof:name":"Parker's Used Cars",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.478816,34.695695,-77.478816,34.695695],
-  "geometry": {"coordinates":[-77.478816,34.695695],"type":"Point"}
+  "bbox": [
+    -77.478816,
+    34.695695,
+    -77.478816,
+    34.695695
+],
+  "geometry": {"coordinates":[-77.47881599999999,34.695695],"type":"Point"}
 }

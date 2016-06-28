@@ -2,13 +2,14 @@
   "id": 286608235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.231099,36.099547,-80.231099,36.099547",
     "geom:latitude":36.099547,
     "geom:longitude":-80.231099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 N Cleveland Ave",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286608235,
-    "wof:lastmodified":1449016436,
+    "wof:lastmodified":1466647842,
     "wof:name":"Jonathan D Weston MD",
     "wof:parent_id":85816949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.231099,36.099547,-80.231099,36.099547],
+  "bbox": [
+    -80.231099,
+    36.099547,
+    -80.231099,
+    36.099547
+],
   "geometry": {"coordinates":[-80.231099,36.099547],"type":"Point"}
 }

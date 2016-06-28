@@ -2,13 +2,14 @@
   "id": 219942049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.895676,35.902459,-78.895676,35.902459",
     "geom:latitude":35.902459,
     "geom:longitude":-78.895676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 E State Hwy 54",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219942049,
-    "wof:lastmodified":1449072005,
+    "wof:lastmodified":1466648333,
     "wof:name":"Dataphiles Programming",
     "wof:parent_id":85831613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "programming"
     ]
 },
-  "bbox": [-78.895676,35.902459,-78.895676,35.902459],
-  "geometry": {"coordinates":[-78.895676,35.902459],"type":"Point"}
+  "bbox": [
+    -78.895676,
+    35.902459,
+    -78.895676,
+    35.902459
+],
+  "geometry": {"coordinates":[-78.89567599999999,35.902459],"type":"Point"}
 }

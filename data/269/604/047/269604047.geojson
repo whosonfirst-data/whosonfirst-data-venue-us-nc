@@ -2,13 +2,14 @@
   "id": 269604047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.694713,35.749984,-81.694713,35.749984",
     "geom:latitude":35.749984,
     "geom:longitude":-81.694713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 2nd St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269604047,
-    "wof:lastmodified":1449038651,
+    "wof:lastmodified":1466644640,
     "wof:name":"Co-Op Extension Svc",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "marketing"
     ]
 },
-  "bbox": [-81.694713,35.749984,-81.694713,35.749984],
-  "geometry": {"coordinates":[-81.694713,35.749984],"type":"Point"}
+  "bbox": [
+    -81.694713,
+    35.749984,
+    -81.694713,
+    35.749984
+],
+  "geometry": {"coordinates":[-81.69471299999999,35.749984],"type":"Point"}
 }

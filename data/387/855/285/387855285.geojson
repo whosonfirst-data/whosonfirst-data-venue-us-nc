@@ -2,13 +2,14 @@
   "id": 387855285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.654227,36.218827,-81.654227,36.218827",
     "geom:latitude":36.218827,
     "geom:longitude":-81.654227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Spruce St",
     "sg:city":"Boone",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387855285,
-    "wof:lastmodified":1449058908,
+    "wof:lastmodified":1466657868,
     "wof:name":"Hound Ears Club",
     "wof:parent_id":85836725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.654227,36.218827,-81.654227,36.218827],
-  "geometry": {"coordinates":[-81.654227,36.218827],"type":"Point"}
+  "bbox": [
+    -81.654227,
+    36.218827,
+    -81.654227,
+    36.218827
+],
+  "geometry": {"coordinates":[-81.65422700000001,36.218827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354170623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.491852,35.420519,-81.491852,35.420519",
     "geom:latitude":35.420519,
     "geom:longitude":-81.491852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3919 Fallston-Waco Rd",
     "sg:city":"Lawndale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354170623,
-    "wof:lastmodified":1449066084,
+    "wof:lastmodified":1466649542,
     "wof:name":"Jack's Fire Extinguisher Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-81.491852,35.420519,-81.491852,35.420519],
-  "geometry": {"coordinates":[-81.491852,35.420519],"type":"Point"}
+  "bbox": [
+    -81.491852,
+    35.420519,
+    -81.491852,
+    35.420519
+],
+  "geometry": {"coordinates":[-81.49185199999999,35.420519],"type":"Point"}
 }

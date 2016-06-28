@@ -2,13 +2,14 @@
   "id": 236799385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.445828,35.193429,-80.445828,35.193429",
     "geom:latitude":35.193429,
     "geom:longitude":-80.445828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7411 Dakota Ln",
     "sg:city":"Stanfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236799385,
-    "wof:lastmodified":1449005270,
+    "wof:lastmodified":1466650413,
     "wof:name":"Nathan Morgan",
     "wof:parent_id":85892003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.445828,35.193429,-80.445828,35.193429],
-  "geometry": {"coordinates":[-80.445828,35.193429],"type":"Point"}
+  "bbox": [
+    -80.445828,
+    35.193429,
+    -80.445828,
+    35.193429
+],
+  "geometry": {"coordinates":[-80.44582800000001,35.193429],"type":"Point"}
 }

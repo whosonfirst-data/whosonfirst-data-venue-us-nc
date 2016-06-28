@@ -2,13 +2,14 @@
   "id": 186523115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101721,35.255873,-81.101721,35.255873",
     "geom:latitude":35.255873,
     "geom:longitude":-81.101721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4414 Wilkinson Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186523115,
-    "wof:lastmodified":1449051929,
+    "wof:lastmodified":1466654514,
     "wof:name":"Healthcare Service Group Inc",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.101721,35.255873,-81.101721,35.255873],
+  "bbox": [
+    -81.101721,
+    35.255873,
+    -81.101721,
+    35.255873
+],
   "geometry": {"coordinates":[-81.101721,35.255873],"type":"Point"}
 }

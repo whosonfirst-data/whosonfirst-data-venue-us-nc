@@ -2,13 +2,14 @@
   "id": 303531229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.893501,35.578676,-80.893501,35.578676",
     "geom:latitude":35.578676,
     "geom:longitude":-80.893501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Harborcrest Ln",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303531229,
-    "wof:lastmodified":1448998692,
+    "wof:lastmodified":1466650958,
     "wof:name":"GRB Builders LLC",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.893501,35.578676,-80.893501,35.578676],
+  "bbox": [
+    -80.893501,
+    35.578676,
+    -80.893501,
+    35.578676
+],
   "geometry": {"coordinates":[-80.893501,35.578676],"type":"Point"}
 }

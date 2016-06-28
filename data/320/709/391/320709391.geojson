@@ -2,13 +2,14 @@
   "id": 320709391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.676757,35.810443,-78.676757,35.810443",
     "geom:latitude":35.810443,
     "geom:longitude":-78.676757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Dixie Trl",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320709391,
-    "wof:lastmodified":1449012007,
+    "wof:lastmodified":1466655384,
     "wof:name":"Sunset Hills Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-78.676757,35.810443,-78.676757,35.810443],
-  "geometry": {"coordinates":[-78.676757,35.810443],"type":"Point"}
+  "bbox": [
+    -78.676757,
+    35.810443,
+    -78.676757,
+    35.810443
+],
+  "geometry": {"coordinates":[-78.67675699999999,35.810443],"type":"Point"}
 }

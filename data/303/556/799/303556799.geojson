@@ -2,13 +2,14 @@
   "id": 303556799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.21723,35.957376,-80.21723,35.957376",
     "geom:latitude":35.957376,
     "geom:longitude":-80.21723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Eller Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303556799,
-    "wof:lastmodified":1448998718,
+    "wof:lastmodified":1466651337,
     "wof:name":"Cross Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.21723,35.957376,-80.21723,35.957376],
+  "bbox": [
+    -80.21723,
+    35.957376,
+    -80.21723,
+    35.957376
+],
   "geometry": {"coordinates":[-80.21723,35.957376],"type":"Point"}
 }

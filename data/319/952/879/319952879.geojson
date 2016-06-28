@@ -2,13 +2,14 @@
   "id": 319952879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.806098,35.88904,-79.806098,35.88904",
     "geom:latitude":35.88904,
     "geom:longitude":-79.806098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 Branson Mill Rd",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":319952879,
-    "wof:lastmodified":1449024643,
+    "wof:lastmodified":1466646792,
     "wof:name":"MPA Promotions",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "or"
     ]
 },
-  "bbox": [-79.806098,35.88904,-79.806098,35.88904],
-  "geometry": {"coordinates":[-79.806098,35.88904],"type":"Point"}
+  "bbox": [
+    -79.806098,
+    35.88904,
+    -79.806098,
+    35.88904
+],
+  "geometry": {"coordinates":[-79.80609800000001,35.88904],"type":"Point"}
 }

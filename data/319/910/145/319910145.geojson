@@ -2,13 +2,14 @@
   "id": 319910145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.513556,35.461728,-82.513556,35.461728",
     "geom:latitude":35.461728,
     "geom:longitude":-82.513556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2398 Hendersonville Rd",
     "sg:city":"Arden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319910145,
-    "wof:lastmodified":1449024409,
+    "wof:lastmodified":1466646176,
     "wof:name":"DCSLLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.513556,35.461728,-82.513556,35.461728],
-  "geometry": {"coordinates":[-82.513556,35.461728],"type":"Point"}
+  "bbox": [
+    -82.513556,
+    35.461728,
+    -82.513556,
+    35.461728
+],
+  "geometry": {"coordinates":[-82.51355599999999,35.461728],"type":"Point"}
 }

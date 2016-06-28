@@ -2,13 +2,14 @@
   "id": 387468155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.889327,35.601528,-80.889327,35.601528",
     "geom:latitude":35.601528,
     "geom:longitude":-80.889327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Water Oak Dr",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387468155,
-    "wof:lastmodified":1449058835,
+    "wof:lastmodified":1466656003,
     "wof:name":"Water Oak Sales",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.889327,35.601528,-80.889327,35.601528],
-  "geometry": {"coordinates":[-80.889327,35.601528],"type":"Point"}
+  "bbox": [
+    -80.889327,
+    35.601528,
+    -80.889327,
+    35.601528
+],
+  "geometry": {"coordinates":[-80.88932699999999,35.601528],"type":"Point"}
 }

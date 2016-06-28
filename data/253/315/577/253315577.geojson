@@ -2,13 +2,14 @@
   "id": 253315577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.018565,35.945726,-79.018565,35.945726",
     "geom:latitude":35.945726,
     "geom:longitude":-79.018565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 McGregor Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253315577,
-    "wof:lastmodified":1449065645,
+    "wof:lastmodified":1466646203,
     "wof:name":"Lee Sangdon",
     "wof:parent_id":85817095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "student"
     ]
 },
-  "bbox": [-79.018565,35.945726,-79.018565,35.945726],
+  "bbox": [
+    -79.018565,
+    35.945726,
+    -79.018565,
+    35.945726
+],
   "geometry": {"coordinates":[-79.018565,35.945726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252839363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.763213,35.478003,-77.763213,35.478003",
     "geom:latitude":35.478003,
     "geom:longitude":-77.763213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2898 Peanut Rd",
     "sg:city":"Snow Hill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252839363,
-    "wof:lastmodified":1449006084,
+    "wof:lastmodified":1466644386,
     "wof:name":"Fort Run Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.763213,35.478003,-77.763213,35.478003],
-  "geometry": {"coordinates":[-77.763213,35.478003],"type":"Point"}
+  "bbox": [
+    -77.763213,
+    35.478003,
+    -77.763213,
+    35.478003
+],
+  "geometry": {"coordinates":[-77.76321299999999,35.478003],"type":"Point"}
 }

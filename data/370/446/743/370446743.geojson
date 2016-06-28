@@ -2,13 +2,14 @@
   "id": 370446743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.600513,35.796104,-78.600513,35.796104",
     "geom:latitude":35.796104,
     "geom:longitude":-78.600513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Plymouth Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370446743,
-    "wof:lastmodified":1449032189,
+    "wof:lastmodified":1466651885,
     "wof:name":"Windfall Tracers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-78.600513,35.796104,-78.600513,35.796104],
-  "geometry": {"coordinates":[-78.600513,35.796104],"type":"Point"}
+  "bbox": [
+    -78.600513,
+    35.796104,
+    -78.600513,
+    35.796104
+],
+  "geometry": {"coordinates":[-78.60051300000001,35.796104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303516733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.569781,35.570508,-82.569781,35.570508",
     "geom:latitude":35.570508,
     "geom:longitude":-82.569781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Tahkieostie Trl",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303516733,
-    "wof:lastmodified":1448998582,
+    "wof:lastmodified":1466650759,
     "wof:name":"Curtis Maintenance",
     "wof:parent_id":85842077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.569781,35.570508,-82.569781,35.570508],
-  "geometry": {"coordinates":[-82.569781,35.570508],"type":"Point"}
+  "bbox": [
+    -82.569781,
+    35.570508,
+    -82.569781,
+    35.570508
+],
+  "geometry": {"coordinates":[-82.56978100000001,35.570508],"type":"Point"}
 }

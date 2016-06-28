@@ -2,13 +2,14 @@
   "id": 286962915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.996902,35.387382,-77.996902,35.387382",
     "geom:latitude":35.387382,
     "geom:longitude":-77.996902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Oak St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286962915,
-    "wof:lastmodified":1449016926,
+    "wof:lastmodified":1466652697,
     "wof:name":"Community Soup Kitchen Gold",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-77.996902,35.387382,-77.996902,35.387382],
-  "geometry": {"coordinates":[-77.996902,35.387382],"type":"Point"}
+  "bbox": [
+    -77.996902,
+    35.387382,
+    -77.996902,
+    35.387382
+],
+  "geometry": {"coordinates":[-77.99690200000001,35.387382],"type":"Point"}
 }

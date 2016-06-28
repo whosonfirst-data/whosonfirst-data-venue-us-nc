@@ -2,13 +2,14 @@
   "id": 269559291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.953512,36.022423,-78.953512,36.022423",
     "geom:latitude":36.022423,
     "geom:longitude":-78.953512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Hillsborough Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269559291,
-    "wof:lastmodified":1449038306,
+    "wof:lastmodified":1466644077,
     "wof:name":"Hilton Durham-Duke University",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.953512,36.022423,-78.953512,36.022423],
+  "bbox": [
+    -78.953512,
+    36.022423,
+    -78.953512,
+    36.022423
+],
   "geometry": {"coordinates":[-78.953512,36.022423],"type":"Point"}
 }

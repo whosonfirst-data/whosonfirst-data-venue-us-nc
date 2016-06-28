@@ -2,13 +2,14 @@
   "id": 404108873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.572978,35.86194,-79.572978,35.86194",
     "geom:latitude":35.86194,
     "geom:longitude":-79.572978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 N Greensboro St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404108873,
-    "wof:lastmodified":1449039106,
+    "wof:lastmodified":1466652650,
     "wof:name":"Andy Sykes DDS",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-79.572978,35.86194,-79.572978,35.86194],
-  "geometry": {"coordinates":[-79.572978,35.86194],"type":"Point"}
+  "bbox": [
+    -79.572978,
+    35.86194,
+    -79.572978,
+    35.86194
+],
+  "geometry": {"coordinates":[-79.57297800000001,35.86194],"type":"Point"}
 }

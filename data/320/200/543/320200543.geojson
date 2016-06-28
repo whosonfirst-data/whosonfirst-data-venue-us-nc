@@ -2,13 +2,14 @@
   "id": 320200543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.541364,35.280133,-81.541364,35.280133",
     "geom:latitude":35.280133,
     "geom:longitude":-81.541364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Belmont Pl",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320200543,
-    "wof:lastmodified":1449012761,
+    "wof:lastmodified":1466648101,
     "wof:name":"North State Dental Lab",
     "wof:parent_id":85845571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-81.541364,35.280133,-81.541364,35.280133],
+  "bbox": [
+    -81.541364,
+    35.280133,
+    -81.541364,
+    35.280133
+],
   "geometry": {"coordinates":[-81.541364,35.280133],"type":"Point"}
 }

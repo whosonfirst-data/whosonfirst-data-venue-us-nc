@@ -2,13 +2,14 @@
   "id": 387879421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.770069,36.047582,-79.770069,36.047582",
     "geom:latitude":36.047582,
     "geom:longitude":-79.770069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 S Side Blvd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387879421,
-    "wof:lastmodified":1449056148,
+    "wof:lastmodified":1466657942,
     "wof:name":"DCI Greensboro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-79.770069,36.047582,-79.770069,36.047582],
-  "geometry": {"coordinates":[-79.770069,36.047582],"type":"Point"}
+  "bbox": [
+    -79.770069,
+    36.047582,
+    -79.770069,
+    36.047582
+],
+  "geometry": {"coordinates":[-79.77006900000001,36.047582],"type":"Point"}
 }

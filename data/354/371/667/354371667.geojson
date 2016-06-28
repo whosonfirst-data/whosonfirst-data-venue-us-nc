@@ -2,13 +2,14 @@
   "id": 354371667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.509836,35.386901,-78.509836,35.386901",
     "geom:latitude":35.386901,
     "geom:longitude":-78.509836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3025 Allens Crossroads Rd",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354371667,
-    "wof:lastmodified":1449067253,
+    "wof:lastmodified":1466651847,
     "wof:name":"Tucker Lake Recreation",
     "wof:parent_id":85809775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-78.509836,35.386901,-78.509836,35.386901],
-  "geometry": {"coordinates":[-78.509836,35.386901],"type":"Point"}
+  "bbox": [
+    -78.509836,
+    35.386901,
+    -78.509836,
+    35.386901
+],
+  "geometry": {"coordinates":[-78.50983600000001,35.386901],"type":"Point"}
 }

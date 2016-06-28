@@ -2,13 +2,14 @@
   "id": 286506857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.932496,35.195504,-80.932496,35.195504",
     "geom:latitude":35.195504,
     "geom:longitude":-80.932496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Cessna Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":286506857,
-    "wof:lastmodified":1449015221,
+    "wof:lastmodified":1466646434,
     "wof:name":"Building Maintenance-America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-80.932496,35.195504,-80.932496,35.195504],
+  "bbox": [
+    -80.932496,
+    35.195504,
+    -80.932496,
+    35.195504
+],
   "geometry": {"coordinates":[-80.932496,35.195504],"type":"Point"}
 }

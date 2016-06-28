@@ -2,13 +2,14 @@
   "id": 320201727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.528119,34.977144,-80.528119,34.977144",
     "geom:latitude":34.977144,
     "geom:longitude":-80.528119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 Sikes St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320201727,
-    "wof:lastmodified":1449014469,
+    "wof:lastmodified":1466648115,
     "wof:name":"AVC Food Svc",
     "wof:parent_id":85840585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.528119,34.977144,-80.528119,34.977144],
+  "bbox": [
+    -80.528119,
+    34.977144,
+    -80.528119,
+    34.977144
+],
   "geometry": {"coordinates":[-80.528119,34.977144],"type":"Point"}
 }

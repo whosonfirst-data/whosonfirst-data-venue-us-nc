@@ -2,13 +2,14 @@
   "id": 336618979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135863,35.878849,-80.135863,35.878849",
     "geom:latitude":35.878849,
     "geom:longitude":-80.135863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 Old US Hwy 29",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336618979,
-    "wof:lastmodified":1448997605,
+    "wof:lastmodified":1466646123,
     "wof:name":"Pilot Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.135863,35.878849,-80.135863,35.878849],
+  "bbox": [
+    -80.135863,
+    35.878849,
+    -80.135863,
+    35.878849
+],
   "geometry": {"coordinates":[-80.135863,35.878849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303335823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.361236,36.270791,-80.361236,36.270791",
     "geom:latitude":36.270791,
     "geom:longitude":-80.361236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"549 S Main St",
     "sg:city":"King",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303335823,
-    "wof:lastmodified":1448999732,
+    "wof:lastmodified":1466648147,
     "wof:name":"Stokes Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.361236,36.270791,-80.361236,36.270791],
-  "geometry": {"coordinates":[-80.361236,36.270791],"type":"Point"}
+  "bbox": [
+    -80.361236,
+    36.270791,
+    -80.361236,
+    36.270791
+],
+  "geometry": {"coordinates":[-80.36123600000001,36.270791],"type":"Point"}
 }

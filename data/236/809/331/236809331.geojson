@@ -2,13 +2,14 @@
   "id": 236809331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.40041,35.776319,-78.40041,35.776319",
     "geom:latitude":35.776319,
     "geom:longitude":-78.40041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1532 Eagle Rock Rd",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236809331,
-    "wof:lastmodified":1449004538,
+    "wof:lastmodified":1466650495,
     "wof:name":"Pearce Pump & Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.40041,35.776319,-78.40041,35.776319],
-  "geometry": {"coordinates":[-78.40041,35.776319],"type":"Point"}
+  "bbox": [
+    -78.40041,
+    35.776319,
+    -78.40041,
+    35.776319
+],
+  "geometry": {"coordinates":[-78.40040999999999,35.776319],"type":"Point"}
 }

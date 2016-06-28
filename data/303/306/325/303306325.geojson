@@ -2,13 +2,14 @@
   "id": 303306325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.011637,36.138346,-79.011637,36.138346",
     "geom:latitude":36.138346,
     "geom:longitude":-79.011637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 New Sharon Church Rd",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303306325,
-    "wof:lastmodified":1449000454,
+    "wof:lastmodified":1466647763,
     "wof:name":"Underwood & Sons Grocery",
     "wof:parent_id":85857995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.011637,36.138346,-79.011637,36.138346],
-  "geometry": {"coordinates":[-79.011637,36.138346],"type":"Point"}
+  "bbox": [
+    -79.011637,
+    36.138346,
+    -79.011637,
+    36.138346
+],
+  "geometry": {"coordinates":[-79.01163699999999,36.138346],"type":"Point"}
 }

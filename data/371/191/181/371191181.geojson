@@ -2,13 +2,14 @@
   "id": 371191181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.53118,35.952814,-78.53118,35.952814",
     "geom:latitude":35.952814,
     "geom:longitude":-78.53118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Alberbury Commons Ct",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371191181,
-    "wof:lastmodified":1449049666,
+    "wof:lastmodified":1466651252,
     "wof:name":"Dail & Assoc",
     "wof:parent_id":85892179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-78.53118,35.952814,-78.53118,35.952814],
-  "geometry": {"coordinates":[-78.53118,35.952814],"type":"Point"}
+  "bbox": [
+    -78.53118,
+    35.952814,
+    -78.53118,
+    35.952814
+],
+  "geometry": {"coordinates":[-78.53118000000001,35.952814],"type":"Point"}
 }

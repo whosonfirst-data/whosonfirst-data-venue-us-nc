@@ -2,13 +2,14 @@
   "id": 270003103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.528456,35.916226,-81.528456,35.916226",
     "geom:latitude":35.916226,
     "geom:longitude":-81.528456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Wilson St NW",
     "sg:city":"Lenoir",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270003103,
-    "wof:lastmodified":1449010909,
+    "wof:lastmodified":1466643241,
     "wof:name":"Mike Klingler Roofing & Leak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.528456,35.916226,-81.528456,35.916226],
-  "geometry": {"coordinates":[-81.528456,35.916226],"type":"Point"}
+  "bbox": [
+    -81.528456,
+    35.916226,
+    -81.528456,
+    35.916226
+],
+  "geometry": {"coordinates":[-81.52845600000001,35.916226],"type":"Point"}
 }

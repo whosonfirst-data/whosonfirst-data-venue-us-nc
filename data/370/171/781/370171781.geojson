@@ -2,13 +2,14 @@
   "id": 370171781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.509524,35.978549,-78.509524,35.978549",
     "geom:latitude":35.978549,
     "geom:longitude":-78.509524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 S White St",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370171781,
-    "wof:lastmodified":1449032482,
+    "wof:lastmodified":1466648406,
     "wof:name":"Windows Of The Forest",
     "wof:parent_id":85892169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-78.509524,35.978549,-78.509524,35.978549],
+  "bbox": [
+    -78.509524,
+    35.978549,
+    -78.509524,
+    35.978549
+],
   "geometry": {"coordinates":[-78.509524,35.978549],"type":"Point"}
 }

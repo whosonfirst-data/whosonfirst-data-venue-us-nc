@@ -2,13 +2,14 @@
   "id": 236912119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943218,35.913888,-78.943218,35.913888",
     "geom:latitude":35.913888,
     "geom:longitude":-78.943218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5011 Southpark Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236912119,
-    "wof:lastmodified":1449003247,
+    "wof:lastmodified":1466651387,
     "wof:name":"A Faith Based Psychotherapy",
     "wof:parent_id":85858607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-78.943218,35.913888,-78.943218,35.913888],
+  "bbox": [
+    -78.943218,
+    35.913888,
+    -78.943218,
+    35.913888
+],
   "geometry": {"coordinates":[-78.943218,35.913888],"type":"Point"}
 }

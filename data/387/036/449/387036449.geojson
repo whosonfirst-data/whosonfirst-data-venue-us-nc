@@ -2,13 +2,14 @@
   "id": 387036449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.935798,35.080206,-78.935798,35.080206",
     "geom:latitude":35.080206,
     "geom:longitude":-78.935798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 Shannon Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387036449,
-    "wof:lastmodified":1449056956,
+    "wof:lastmodified":1466650339,
     "wof:name":"Clark & Shaw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-78.935798,35.080206,-78.935798,35.080206],
-  "geometry": {"coordinates":[-78.935798,35.080206],"type":"Point"}
+  "bbox": [
+    -78.935798,
+    35.080206,
+    -78.935798,
+    35.080206
+],
+  "geometry": {"coordinates":[-78.93579800000001,35.080206],"type":"Point"}
 }

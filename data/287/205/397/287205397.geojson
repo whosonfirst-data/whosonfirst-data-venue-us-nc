@@ -2,13 +2,14 @@
   "id": 287205397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.751309,35.793099,-78.751309,35.793099",
     "geom:latitude":35.793099,
     "geom:longitude":-78.751309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Trinity Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287205397,
-    "wof:lastmodified":1449001196,
+    "wof:lastmodified":1466646163,
     "wof:name":"Blythe Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.751309,35.793099,-78.751309,35.793099],
-  "geometry": {"coordinates":[-78.751309,35.793099],"type":"Point"}
+  "bbox": [
+    -78.751309,
+    35.793099,
+    -78.751309,
+    35.793099
+],
+  "geometry": {"coordinates":[-78.75130900000001,35.793099],"type":"Point"}
 }

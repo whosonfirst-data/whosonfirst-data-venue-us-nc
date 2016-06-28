@@ -2,13 +2,14 @@
   "id": 202603423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.488243,35.749203,-79.488243,35.749203",
     "geom:latitude":35.749203,
     "geom:longitude":-79.488243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Hamp Stone Rd",
     "sg:city":"Siler City",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":202603423,
-    "wof:lastmodified":1449062264,
+    "wof:lastmodified":1466655530,
     "wof:name":"Chatham Charter School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.488243,35.749203,-79.488243,35.749203],
+  "bbox": [
+    -79.488243,
+    35.749203,
+    -79.488243,
+    35.749203
+],
   "geometry": {"coordinates":[-79.488243,35.749203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404067909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.05905,35.916264,-79.05905,35.916264",
     "geom:latitude":35.916264,
     "geom:longitude":-79.05905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Pritchard Ave",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404067909,
-    "wof:lastmodified":1449039122,
+    "wof:lastmodified":1466652151,
     "wof:name":"Blossoms",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-79.05905,35.916264,-79.05905,35.916264],
+  "bbox": [
+    -79.05905,
+    35.916264,
+    -79.05905,
+    35.916264
+],
   "geometry": {"coordinates":[-79.05905,35.916264],"type":"Point"}
 }

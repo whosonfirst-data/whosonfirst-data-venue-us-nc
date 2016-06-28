@@ -2,13 +2,14 @@
   "id": 336874393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.460258,36.10141,-79.460258,36.10141",
     "geom:latitude":36.10141,
     "geom:longitude":-79.460258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 W Davis St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336874393,
-    "wof:lastmodified":1448997942,
+    "wof:lastmodified":1466650033,
     "wof:name":"John Glenn Builders",
     "wof:parent_id":85810235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-79.460258,36.10141,-79.460258,36.10141],
+  "bbox": [
+    -79.460258,
+    36.10141,
+    -79.460258,
+    36.10141
+],
   "geometry": {"coordinates":[-79.460258,36.10141],"type":"Point"}
 }

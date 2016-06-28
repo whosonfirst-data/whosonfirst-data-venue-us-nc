@@ -2,13 +2,14 @@
   "id": 320068977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101075,35.576325,-81.101075,35.576325",
     "geom:latitude":35.576325,
     "geom:longitude":-81.101075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4502 Burton Dr",
     "sg:city":"Maiden",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320068977,
-    "wof:lastmodified":1449013182,
+    "wof:lastmodified":1466646280,
     "wof:name":"Honeycutt Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.101075,35.576325,-81.101075,35.576325],
-  "geometry": {"coordinates":[-81.101075,35.576325],"type":"Point"}
+  "bbox": [
+    -81.101075,
+    35.576325,
+    -81.101075,
+    35.576325
+],
+  "geometry": {"coordinates":[-81.10107499999999,35.576325],"type":"Point"}
 }

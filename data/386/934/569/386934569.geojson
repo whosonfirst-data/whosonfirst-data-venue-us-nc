@@ -2,13 +2,14 @@
   "id": 386934569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.436225,35.69273,-80.436225,35.69273",
     "geom:latitude":35.69273,
     "geom:longitude":-80.436225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 4th St",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386934569,
-    "wof:lastmodified":1449028645,
+    "wof:lastmodified":1466649453,
     "wof:name":"Bost Pools",
     "wof:parent_id":85836893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.436225,35.69273,-80.436225,35.69273],
-  "geometry": {"coordinates":[-80.436225,35.69273],"type":"Point"}
+  "bbox": [
+    -80.436225,
+    35.69273,
+    -80.436225,
+    35.69273
+],
+  "geometry": {"coordinates":[-80.43622499999999,35.69273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336756947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.203353,36.188772,-78.203353,36.188772",
     "geom:latitude":36.188772,
     "geom:longitude":-78.203353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 Person Rd",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336756947,
-    "wof:lastmodified":1448997585,
+    "wof:lastmodified":1466648201,
     "wof:name":"Hunt Logging Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-78.203353,36.188772,-78.203353,36.188772],
-  "geometry": {"coordinates":[-78.203353,36.188772],"type":"Point"}
+  "bbox": [
+    -78.203353,
+    36.188772,
+    -78.203353,
+    36.188772
+],
+  "geometry": {"coordinates":[-78.20335300000001,36.188772],"type":"Point"}
 }

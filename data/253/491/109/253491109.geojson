@@ -2,13 +2,14 @@
   "id": 253491109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.886166,35.099185,-80.886166,35.099185",
     "geom:latitude":35.099185,
     "geom:longitude":-80.886166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10412 Rodney St",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253491109,
-    "wof:lastmodified":1449062776,
+    "wof:lastmodified":1466648266,
     "wof:name":"Firing Point",
     "wof:parent_id":85851011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.886166,35.099185,-80.886166,35.099185],
+  "bbox": [
+    -80.886166,
+    35.099185,
+    -80.886166,
+    35.099185
+],
   "geometry": {"coordinates":[-80.886166,35.099185],"type":"Point"}
 }

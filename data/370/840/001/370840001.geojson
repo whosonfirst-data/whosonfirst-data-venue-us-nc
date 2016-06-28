@@ -2,13 +2,14 @@
   "id": 370840001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23511,36.096473,-80.23511,36.096473",
     "geom:latitude":36.096473,
     "geom:longitude":-80.23511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Greyhound Ct",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370840001,
-    "wof:lastmodified":1449031722,
+    "wof:lastmodified":1466656719,
     "wof:name":"R E Michel Company Inc",
     "wof:parent_id":85867051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.23511,36.096473,-80.23511,36.096473],
-  "geometry": {"coordinates":[-80.23511,36.096473],"type":"Point"}
+  "bbox": [
+    -80.23511,
+    36.096473,
+    -80.23511,
+    36.096473
+],
+  "geometry": {"coordinates":[-80.23511000000001,36.096473],"type":"Point"}
 }

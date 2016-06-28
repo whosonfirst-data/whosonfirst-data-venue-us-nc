@@ -2,13 +2,14 @@
   "id": 387490187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.850402,36.070378,-79.850402,36.070378",
     "geom:latitude":36.070378,
     "geom:longitude":-79.850402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 W Market St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387490187,
-    "wof:lastmodified":1449059528,
+    "wof:lastmodified":1466656009,
     "wof:name":"Southeastern Radiology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.850402,36.070378,-79.850402,36.070378],
+  "bbox": [
+    -79.850402,
+    36.070378,
+    -79.850402,
+    36.070378
+],
   "geometry": {"coordinates":[-79.850402,36.070378],"type":"Point"}
 }

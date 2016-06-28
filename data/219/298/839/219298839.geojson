@@ -2,13 +2,14 @@
   "id": 219298839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.450784,34.76809,-79.450784,34.76809",
     "geom:latitude":34.76809,
     "geom:longitude":-79.450784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Hall St",
     "sg:city":"Laurinburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219298839,
-    "wof:lastmodified":1449071361,
+    "wof:lastmodified":1466643314,
     "wof:name":"Laurinburg Refuse Collection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-79.450784,34.76809,-79.450784,34.76809],
+  "bbox": [
+    -79.450784,
+    34.76809,
+    -79.450784,
+    34.76809
+],
   "geometry": {"coordinates":[-79.450784,34.76809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303616095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.054083,36.16422,-80.054083,36.16422",
     "geom:latitude":36.16422,
     "geom:longitude":-80.054083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Piney Grove Rd",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303616095,
-    "wof:lastmodified":1448999916,
+    "wof:lastmodified":1466652193,
     "wof:name":"Piney Grove Elementary School",
     "wof:parent_id":85852277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-80.054083,36.16422,-80.054083,36.16422],
-  "geometry": {"coordinates":[-80.054083,36.16422],"type":"Point"}
+  "bbox": [
+    -80.054083,
+    36.16422,
+    -80.054083,
+    36.16422
+],
+  "geometry": {"coordinates":[-80.05408300000001,36.16422],"type":"Point"}
 }

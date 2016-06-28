@@ -2,13 +2,14 @@
   "id": 303101243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.657231,35.678229,-78.657231,35.678229",
     "geom:latitude":35.678229,
     "geom:longitude":-78.657231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 Old Stage Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303101243,
-    "wof:lastmodified":1448999408,
+    "wof:lastmodified":1466644715,
     "wof:name":"RESCO Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.657231,35.678229,-78.657231,35.678229],
+  "bbox": [
+    -78.657231,
+    35.678229,
+    -78.657231,
+    35.678229
+],
   "geometry": {"coordinates":[-78.657231,35.678229],"type":"Point"}
 }

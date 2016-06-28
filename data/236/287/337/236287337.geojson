@@ -2,13 +2,14 @@
   "id": 236287337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.554262,35.595022,-82.554262,35.595022",
     "geom:latitude":35.595022,
     "geom:longitude":-82.554262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 College St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236287337,
-    "wof:lastmodified":1449001827,
+    "wof:lastmodified":1466645782,
     "wof:name":"Charter One",
     "wof:parent_id":85830137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-82.554262,35.595022,-82.554262,35.595022],
-  "geometry": {"coordinates":[-82.554262,35.595022],"type":"Point"}
+  "bbox": [
+    -82.554262,
+    35.595022,
+    -82.554262,
+    35.595022
+],
+  "geometry": {"coordinates":[-82.55426199999999,35.595022],"type":"Point"}
 }

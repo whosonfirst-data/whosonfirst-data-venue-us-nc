@@ -2,13 +2,14 @@
   "id": 286378225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.668117,35.855522,-79.668117,35.855522",
     "geom:latitude":35.855522,
     "geom:longitude":-79.668117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3814 Hollow Tree Dr",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":286378225,
-    "wof:lastmodified":1449017174,
+    "wof:lastmodified":1466644744,
     "wof:name":"Hyatt's Home Inspections",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-79.668117,35.855522,-79.668117,35.855522],
+  "bbox": [
+    -79.668117,
+    35.855522,
+    -79.668117,
+    35.855522
+],
   "geometry": {"coordinates":[-79.668117,35.855522],"type":"Point"}
 }

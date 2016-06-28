@@ -2,13 +2,14 @@
   "id": 370675199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.365961,36.098989,-80.365961,36.098989",
     "geom:latitude":36.098989,
     "geom:longitude":-80.365961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Meadowlark Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370675199,
-    "wof:lastmodified":1449030802,
+    "wof:lastmodified":1466654883,
     "wof:name":"Meadowlark Elementary School",
     "wof:parent_id":85881849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-80.365961,36.098989,-80.365961,36.098989],
+  "bbox": [
+    -80.365961,
+    36.098989,
+    -80.365961,
+    36.098989
+],
   "geometry": {"coordinates":[-80.365961,36.098989],"type":"Point"}
 }

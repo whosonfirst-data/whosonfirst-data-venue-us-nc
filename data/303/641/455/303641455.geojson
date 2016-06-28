@@ -2,13 +2,14 @@
   "id": 303641455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.627383,35.609249,-82.627383,35.609249",
     "geom:latitude":35.609249,
     "geom:longitude":-82.627383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"466 New Leicester Hwy",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303641455,
-    "wof:lastmodified":1448999977,
+    "wof:lastmodified":1466652571,
     "wof:name":"Java Grande",
     "wof:parent_id":85808963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-82.627383,35.609249,-82.627383,35.609249],
-  "geometry": {"coordinates":[-82.627383,35.609249],"type":"Point"}
+  "bbox": [
+    -82.627383,
+    35.609249,
+    -82.627383,
+    35.609249
+],
+  "geometry": {"coordinates":[-82.62738299999999,35.609249],"type":"Point"}
 }

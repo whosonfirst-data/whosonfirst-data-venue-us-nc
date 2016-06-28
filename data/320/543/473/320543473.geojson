@@ -2,13 +2,14 @@
   "id": 320543473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.523327,35.517019,-82.523327,35.517019",
     "geom:latitude":35.517019,
     "geom:longitude":-82.523327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Cloverleaf Ln",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320543473,
-    "wof:lastmodified":1449011986,
+    "wof:lastmodified":1466652995,
     "wof:name":"Cross Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.523327,35.517019,-82.523327,35.517019],
-  "geometry": {"coordinates":[-82.523327,35.517019],"type":"Point"}
+  "bbox": [
+    -82.523327,
+    35.517019,
+    -82.523327,
+    35.517019
+],
+  "geometry": {"coordinates":[-82.52332699999999,35.517019],"type":"Point"}
 }

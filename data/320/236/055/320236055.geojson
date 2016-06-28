@@ -2,13 +2,14 @@
   "id": 320236055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.818313,35.702143,-79.818313,35.702143",
     "geom:latitude":35.702143,
     "geom:longitude":-79.818313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 W Wainman Ave",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320236055,
-    "wof:lastmodified":1449011637,
+    "wof:lastmodified":1466648596,
     "wof:name":"Grantham Tree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-79.818313,35.702143,-79.818313,35.702143],
+  "bbox": [
+    -79.818313,
+    35.702143,
+    -79.818313,
+    35.702143
+],
   "geometry": {"coordinates":[-79.818313,35.702143],"type":"Point"}
 }

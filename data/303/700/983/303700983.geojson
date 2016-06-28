@@ -2,13 +2,14 @@
   "id": 303700983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.309268,35.283343,-81.309268,35.283343",
     "geom:latitude":35.283343,
     "geom:longitude":-81.309268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Long Creek Rd",
     "sg:city":"Bessemer City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303700983,
-    "wof:lastmodified":1449000353,
+    "wof:lastmodified":1466653429,
     "wof:name":"American Legion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-81.309268,35.283343,-81.309268,35.283343],
+  "bbox": [
+    -81.309268,
+    35.283343,
+    -81.309268,
+    35.283343
+],
   "geometry": {"coordinates":[-81.309268,35.283343],"type":"Point"}
 }

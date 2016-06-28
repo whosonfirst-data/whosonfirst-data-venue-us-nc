@@ -2,13 +2,14 @@
   "id": 286373065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.858657,35.208966,-80.858657,35.208966",
     "geom:latitude":35.208966,
     "geom:longitude":-80.858657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Tremont Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286373065,
-    "wof:lastmodified":1449016718,
+    "wof:lastmodified":1466644678,
     "wof:name":"Engineered Handling",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "handling"
     ]
 },
-  "bbox": [-80.858657,35.208966,-80.858657,35.208966],
-  "geometry": {"coordinates":[-80.858657,35.208966],"type":"Point"}
+  "bbox": [
+    -80.858657,
+    35.208966,
+    -80.858657,
+    35.208966
+],
+  "geometry": {"coordinates":[-80.85865699999999,35.208966],"type":"Point"}
 }

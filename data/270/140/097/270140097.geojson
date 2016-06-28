@@ -2,13 +2,14 @@
   "id": 270140097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.012813,34.665977,-77.012813,34.665977",
     "geom:latitude":34.665977,
     "geom:longitude":-77.012813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7016 Ocean Dr",
     "sg:city":"Emerald Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270140097,
-    "wof:lastmodified":1449008987,
+    "wof:lastmodified":1466644848,
     "wof:name":"US Auxilliary",
     "wof:parent_id":85839153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-77.012813,34.665977,-77.012813,34.665977],
-  "geometry": {"coordinates":[-77.012813,34.665977],"type":"Point"}
+  "bbox": [
+    -77.012813,
+    34.665977,
+    -77.012813,
+    34.665977
+],
+  "geometry": {"coordinates":[-77.01281299999999,34.665977],"type":"Point"}
 }

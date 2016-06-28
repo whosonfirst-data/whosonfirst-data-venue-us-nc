@@ -2,13 +2,14 @@
   "id": 202777991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.686885,35.354398,-80.686885,35.354398",
     "geom:latitude":35.354398,
     "geom:longitude":-80.686885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 Concord Pkwy S",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":202777991,
-    "wof:lastmodified":1449061443,
+    "wof:lastmodified":1466643997,
     "wof:name":"Erez Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.686885,35.354398,-80.686885,35.354398],
+  "bbox": [
+    -80.686885,
+    35.354398,
+    -80.686885,
+    35.354398
+],
   "geometry": {"coordinates":[-80.686885,35.354398],"type":"Point"}
 }

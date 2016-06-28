@@ -2,13 +2,14 @@
   "id": 220151719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.686381,35.758227,-81.686381,35.758227",
     "geom:latitude":35.758227,
     "geom:longitude":-81.686381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Rockyford St",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220151719,
-    "wof:lastmodified":1449074069,
+    "wof:lastmodified":1466644408,
     "wof:name":"Ross Windows",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-81.686381,35.758227,-81.686381,35.758227],
+  "bbox": [
+    -81.686381,
+    35.758227,
+    -81.686381,
+    35.758227
+],
   "geometry": {"coordinates":[-81.686381,35.758227],"type":"Point"}
 }

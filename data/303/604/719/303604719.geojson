@@ -2,13 +2,14 @@
   "id": 303604719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.076214,35.912775,-79.076214,35.912775",
     "geom:latitude":35.912775,
     "geom:longitude":-79.076214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Elm St",
     "sg:city":"Carrboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303604719,
-    "wof:lastmodified":1449000283,
+    "wof:lastmodified":1466652019,
     "wof:name":"Happy At Home",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-79.076214,35.912775,-79.076214,35.912775],
-  "geometry": {"coordinates":[-79.076214,35.912775],"type":"Point"}
+  "bbox": [
+    -79.076214,
+    35.912775,
+    -79.076214,
+    35.912775
+],
+  "geometry": {"coordinates":[-79.07621399999999,35.912775],"type":"Point"}
 }

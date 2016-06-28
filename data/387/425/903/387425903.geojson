@@ -2,13 +2,14 @@
   "id": 387425903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.300452,35.846421,-80.300452,35.846421",
     "geom:latitude":35.846421,
     "geom:longitude":-80.300452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Rowe Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387425903,
-    "wof:lastmodified":1449057439,
+    "wof:lastmodified":1466655447,
     "wof:name":"Ray's Body Shop",
     "wof:parent_id":85855127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "painting"
     ]
 },
-  "bbox": [-80.300452,35.846421,-80.300452,35.846421],
-  "geometry": {"coordinates":[-80.300452,35.846421],"type":"Point"}
+  "bbox": [
+    -80.300452,
+    35.846421,
+    -80.300452,
+    35.846421
+],
+  "geometry": {"coordinates":[-80.30045200000001,35.846421],"type":"Point"}
 }

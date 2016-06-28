@@ -2,13 +2,14 @@
   "id": 354361499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.784375,34.939302,-79.784375,34.939302",
     "geom:latitude":34.939302,
     "geom:longitude":-79.784375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Broad Ave",
     "sg:city":"Rockingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354361499,
-    "wof:lastmodified":1449067195,
+    "wof:lastmodified":1466651728,
     "wof:name":"Broad Street BP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.784375,34.939302,-79.784375,34.939302],
+  "bbox": [
+    -79.784375,
+    34.939302,
+    -79.784375,
+    34.939302
+],
   "geometry": {"coordinates":[-79.784375,34.939302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203147999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.033374,36.155768,-80.033374,36.155768",
     "geom:latitude":36.155768,
     "geom:longitude":-80.033374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Barden Dr",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203147999,
-    "wof:lastmodified":1449026662,
+    "wof:lastmodified":1466655010,
     "wof:name":"ASI Generator Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"
     ]
 },
-  "bbox": [-80.033374,36.155768,-80.033374,36.155768],
-  "geometry": {"coordinates":[-80.033374,36.155768],"type":"Point"}
+  "bbox": [
+    -80.033374,
+    36.155768,
+    -80.033374,
+    36.155768
+],
+  "geometry": {"coordinates":[-80.03337399999999,36.155768],"type":"Point"}
 }

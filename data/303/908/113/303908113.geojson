@@ -2,13 +2,14 @@
   "id": 303908113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.806805,34.291381,-77.806805,34.291381",
     "geom:latitude":34.291381,
     "geom:longitude":-77.806805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Beawood Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303908113,
-    "wof:lastmodified":1448999508,
+    "wof:lastmodified":1466656279,
     "wof:name":"JLP Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-77.806805,34.291381,-77.806805,34.291381],
+  "bbox": [
+    -77.806805,
+    34.291381,
+    -77.806805,
+    34.291381
+],
   "geometry": {"coordinates":[-77.806805,34.291381],"type":"Point"}
 }

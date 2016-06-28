@@ -2,13 +2,14 @@
   "id": 253408067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.332523,36.444294,-76.332523,36.444294",
     "geom:latitude":36.444294,
     "geom:longitude":-76.332523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Main St",
     "sg:city":"South Mills",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253408067,
-    "wof:lastmodified":1449063187,
+    "wof:lastmodified":1466647257,
     "wof:name":"United Hse Pryer For All Pople",
     "wof:parent_id":85846085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.332523,36.444294,-76.332523,36.444294],
-  "geometry": {"coordinates":[-76.332523,36.444294],"type":"Point"}
+  "bbox": [
+    -76.332523,
+    36.444294,
+    -76.332523,
+    36.444294
+],
+  "geometry": {"coordinates":[-76.33252299999999,36.444294],"type":"Point"}
 }

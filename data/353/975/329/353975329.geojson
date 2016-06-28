@@ -2,13 +2,14 @@
   "id": 353975329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.607387,36.312087,-78.607387,36.312087",
     "geom:latitude":36.312087,
     "geom:longitude":-78.607387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Clover Ln",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353975329,
-    "wof:lastmodified":1449020455,
+    "wof:lastmodified":1466653818,
     "wof:name":"CIT Of Oxford",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.607387,36.312087,-78.607387,36.312087],
+  "bbox": [
+    -78.607387,
+    36.312087,
+    -78.607387,
+    36.312087
+],
   "geometry": {"coordinates":[-78.607387,36.312087],"type":"Point"}
 }

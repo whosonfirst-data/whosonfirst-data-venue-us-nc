@@ -2,13 +2,14 @@
   "id": 236022441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.941845,34.221813,-77.941845,34.221813",
     "geom:latitude":34.221813,
     "geom:longitude":-77.941845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Mears St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236022441,
-    "wof:lastmodified":1449002594,
+    "wof:lastmodified":1466643416,
     "wof:name":"William Hooper Apartments",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-77.941845,34.221813,-77.941845,34.221813],
+  "bbox": [
+    -77.941845,
+    34.221813,
+    -77.941845,
+    34.221813
+],
   "geometry": {"coordinates":[-77.941845,34.221813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370438037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.243175,36.098625,-80.243175,36.098625",
     "geom:latitude":36.098625,
     "geom:longitude":-80.243175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Church St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370438037,
-    "wof:lastmodified":1449030248,
+    "wof:lastmodified":1466651777,
     "wof:name":"SW Rodgers Contracting Co",
     "wof:parent_id":85867051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.243175,36.098625,-80.243175,36.098625],
-  "geometry": {"coordinates":[-80.243175,36.098625],"type":"Point"}
+  "bbox": [
+    -80.243175,
+    36.098625,
+    -80.243175,
+    36.098625
+],
+  "geometry": {"coordinates":[-80.24317499999999,36.098625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202470159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.905649,35.393021,-77.905649,35.393021",
     "geom:latitude":35.393021,
     "geom:longitude":-77.905649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Balsam Pl",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202470159,
-    "wof:lastmodified":1449060725,
+    "wof:lastmodified":1466654703,
     "wof:name":"Cvc of Goldsboro",
     "wof:parent_id":85843871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-77.905649,35.393021,-77.905649,35.393021],
+  "bbox": [
+    -77.905649,
+    35.393021,
+    -77.905649,
+    35.393021
+],
   "geometry": {"coordinates":[-77.905649,35.393021],"type":"Point"}
 }

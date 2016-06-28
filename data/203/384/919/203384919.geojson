@@ -2,13 +2,14 @@
   "id": 203384919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.148614,36.160067,-81.148614,36.160067",
     "geom:latitude":36.160067,
     "geom:longitude":-81.148614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 10th St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203384919,
-    "wof:lastmodified":1449025190,
+    "wof:lastmodified":1466643877,
     "wof:name":"Lyall Design",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-81.148614,36.160067,-81.148614,36.160067],
-  "geometry": {"coordinates":[-81.148614,36.160067],"type":"Point"}
+  "bbox": [
+    -81.148614,
+    36.160067,
+    -81.148614,
+    36.160067
+],
+  "geometry": {"coordinates":[-81.14861399999999,36.160067],"type":"Point"}
 }

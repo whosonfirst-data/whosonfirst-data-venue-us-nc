@@ -2,13 +2,14 @@
   "id": 270434955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.911735,35.995629,-78.911735,35.995629",
     "geom:latitude":35.995629,
     "geom:longitude":-78.911735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 William Vickers Ave",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270434955,
-    "wof:lastmodified":1449009149,
+    "wof:lastmodified":1466648587,
     "wof:name":"Vickers Clinic",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.911735,35.995629,-78.911735,35.995629],
-  "geometry": {"coordinates":[-78.911735,35.995629],"type":"Point"}
+  "bbox": [
+    -78.911735,
+    35.995629,
+    -78.911735,
+    35.995629
+],
+  "geometry": {"coordinates":[-78.91173499999999,35.995629],"type":"Point"}
 }

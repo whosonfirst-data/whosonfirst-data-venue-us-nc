@@ -2,13 +2,14 @@
   "id": 270378355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.049034,35.269755,-81.049034,35.269755",
     "geom:latitude":35.269755,
     "geom:longitude":-81.049034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Woodlawn Ave",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270378355,
-    "wof:lastmodified":1449010316,
+    "wof:lastmodified":1466647865,
     "wof:name":"Craigs",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasoline"
     ]
 },
-  "bbox": [-81.049034,35.269755,-81.049034,35.269755],
-  "geometry": {"coordinates":[-81.049034,35.269755],"type":"Point"}
+  "bbox": [
+    -81.049034,
+    35.269755,
+    -81.049034,
+    35.269755
+],
+  "geometry": {"coordinates":[-81.04903400000001,35.269755],"type":"Point"}
 }

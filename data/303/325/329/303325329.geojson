@@ -2,13 +2,14 @@
   "id": 303325329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.975555,35.538726,-76.975555,35.538726",
     "geom:latitude":35.538726,
     "geom:longitude":-76.975555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Lizzard Slip Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303325329,
-    "wof:lastmodified":1448999079,
+    "wof:lastmodified":1466648010,
     "wof:name":"Carolina Electrolysis & Csmtcs",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrolysis"
     ]
 },
-  "bbox": [-76.975555,35.538726,-76.975555,35.538726],
+  "bbox": [
+    -76.975555,
+    35.538726,
+    -76.975555,
+    35.538726
+],
   "geometry": {"coordinates":[-76.975555,35.538726],"type":"Point"}
 }

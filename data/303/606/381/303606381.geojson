@@ -2,13 +2,14 @@
   "id": 303606381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254163,35.910812,-80.254163,35.910812",
     "geom:latitude":35.910812,
     "geom:longitude":-80.254163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6427 Old US Hwy 52",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303606381,
-    "wof:lastmodified":1448998496,
+    "wof:lastmodified":1466652043,
     "wof:name":"Welcome Coin Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.254163,35.910812,-80.254163,35.910812],
-  "geometry": {"coordinates":[-80.254163,35.910812],"type":"Point"}
+  "bbox": [
+    -80.254163,
+    35.910812,
+    -80.254163,
+    35.910812
+],
+  "geometry": {"coordinates":[-80.25416300000001,35.910812],"type":"Point"}
 }

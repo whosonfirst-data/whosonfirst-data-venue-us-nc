@@ -2,13 +2,14 @@
   "id": 220114217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.359783,36.15319,-80.359783,36.15319",
     "geom:latitude":36.15319,
     "geom:longitude":-80.359783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4685 Yadkinville Rd",
     "sg:city":"Pfafftown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220114217,
-    "wof:lastmodified":1449074375,
+    "wof:lastmodified":1466644118,
     "wof:name":"Perfect Game Batting Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "baseball"
     ]
 },
-  "bbox": [-80.359783,36.15319,-80.359783,36.15319],
-  "geometry": {"coordinates":[-80.359783,36.15319],"type":"Point"}
+  "bbox": [
+    -80.359783,
+    36.15319,
+    -80.359783,
+    36.15319
+],
+  "geometry": {"coordinates":[-80.35978299999999,36.15319],"type":"Point"}
 }

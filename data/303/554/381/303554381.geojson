@@ -2,13 +2,14 @@
   "id": 303554381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.558265,35.58285,-80.558265,35.58285",
     "geom:latitude":35.58285,
     "geom:longitude":-80.558265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 N Main St",
     "sg:city":"China Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303554381,
-    "wof:lastmodified":1448998619,
+    "wof:lastmodified":1466651301,
     "wof:name":"Bare Furniture Company",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [-80.558265,35.58285,-80.558265,35.58285],
-  "geometry": {"coordinates":[-80.558265,35.58285],"type":"Point"}
+  "bbox": [
+    -80.558265,
+    35.58285,
+    -80.558265,
+    35.58285
+],
+  "geometry": {"coordinates":[-80.55826500000001,35.58285],"type":"Point"}
 }

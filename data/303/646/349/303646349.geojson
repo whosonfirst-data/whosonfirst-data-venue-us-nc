@@ -2,13 +2,14 @@
   "id": 303646349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.456207,35.713485,-79.456207,35.713485",
     "geom:latitude":35.713485,
     "geom:longitude":-79.456207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Hillbrook Blvd",
     "sg:city":"Siler City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303646349,
-    "wof:lastmodified":1448998055,
+    "wof:lastmodified":1466652639,
     "wof:name":"D D B Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "banner"
     ]
 },
-  "bbox": [-79.456207,35.713485,-79.456207,35.713485],
-  "geometry": {"coordinates":[-79.456207,35.713485],"type":"Point"}
+  "bbox": [
+    -79.456207,
+    35.713485,
+    -79.456207,
+    35.713485
+],
+  "geometry": {"coordinates":[-79.45620700000001,35.713485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303350429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.349927,35.762202,-81.349927,35.762202",
     "geom:latitude":35.762202,
     "geom:longitude":-81.349927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 19th Avenue Dr NW",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303350429,
-    "wof:lastmodified":1448999368,
+    "wof:lastmodified":1466648354,
     "wof:name":"Duncan Sales Group LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "establishment"
     ]
 },
-  "bbox": [-81.349927,35.762202,-81.349927,35.762202],
-  "geometry": {"coordinates":[-81.349927,35.762202],"type":"Point"}
+  "bbox": [
+    -81.349927,
+    35.762202,
+    -81.349927,
+    35.762202
+],
+  "geometry": {"coordinates":[-81.34992699999999,35.762202],"type":"Point"}
 }

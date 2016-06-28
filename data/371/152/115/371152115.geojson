@@ -2,13 +2,14 @@
   "id": 371152115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.649604,35.895683,-78.649604,35.895683",
     "geom:latitude":35.895683,
     "geom:longitude":-78.649604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8510 Six Forks Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371152115,
-    "wof:lastmodified":1449049836,
+    "wof:lastmodified":1466650740,
     "wof:name":"It Sentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-78.649604,35.895683,-78.649604,35.895683],
+  "bbox": [
+    -78.649604,
+    35.895683,
+    -78.649604,
+    35.895683
+],
   "geometry": {"coordinates":[-78.649604,35.895683],"type":"Point"}
 }

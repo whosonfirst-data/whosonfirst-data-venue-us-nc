@@ -2,13 +2,14 @@
   "id": 303926791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.7755,35.769705,-78.7755,35.769705",
     "geom:latitude":35.769705,
     "geom:longitude":-78.7755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Warren Ave",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303926791,
-    "wof:lastmodified":1448998970,
+    "wof:lastmodified":1466656254,
     "wof:name":"Vital Basics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.7755,35.769705,-78.7755,35.769705],
-  "geometry": {"coordinates":[-78.7755,35.769705],"type":"Point"}
+  "bbox": [
+    -78.7755,
+    35.769705,
+    -78.7755,
+    35.769705
+],
+  "geometry": {"coordinates":[-78.77549999999999,35.769705],"type":"Point"}
 }

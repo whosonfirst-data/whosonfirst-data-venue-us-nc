@@ -2,13 +2,14 @@
   "id": 269846711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.011811,35.95379,-80.011811,35.95379",
     "geom:latitude":35.95379,
     "geom:longitude":-80.011811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W High Ave",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269846711,
-    "wof:lastmodified":1449038288,
+    "wof:lastmodified":1466647477,
     "wof:name":"Center Point",
     "wof:parent_id":85891965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.011811,35.95379,-80.011811,35.95379],
-  "geometry": {"coordinates":[-80.011811,35.95379],"type":"Point"}
+  "bbox": [
+    -80.011811,
+    35.95379,
+    -80.011811,
+    35.95379
+],
+  "geometry": {"coordinates":[-80.01181099999999,35.95379],"type":"Point"}
 }

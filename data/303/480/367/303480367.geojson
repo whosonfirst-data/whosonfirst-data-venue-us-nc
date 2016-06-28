@@ -2,13 +2,14 @@
   "id": 303480367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.30718,35.918693,-82.30718,35.918693",
     "geom:latitude":35.918693,
     "geom:longitude":-82.30718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Robertson St",
     "sg:city":"Burnsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303480367,
-    "wof:lastmodified":1448998912,
+    "wof:lastmodified":1466650254,
     "wof:name":"St Thomas Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.30718,35.918693,-82.30718,35.918693],
+  "bbox": [
+    -82.30718,
+    35.918693,
+    -82.30718,
+    35.918693
+],
   "geometry": {"coordinates":[-82.30718,35.918693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270512281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.609249,35.480652,-78.609249,35.480652",
     "geom:latitude":35.480652,
     "geom:longitude":-78.609249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5459 Old Fairground Rd",
     "sg:city":"Angier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270512281,
-    "wof:lastmodified":1449010437,
+    "wof:lastmodified":1466649621,
     "wof:name":"Campbell Tire Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tire"
     ]
 },
-  "bbox": [-78.609249,35.480652,-78.609249,35.480652],
-  "geometry": {"coordinates":[-78.609249,35.480652],"type":"Point"}
+  "bbox": [
+    -78.609249,
+    35.480652,
+    -78.609249,
+    35.480652
+],
+  "geometry": {"coordinates":[-78.60924900000001,35.480652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253503103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.52619,35.880477,-78.52619,35.880477",
     "geom:latitude":35.880477,
     "geom:longitude":-78.52619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3316 Single Leaf Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253503103,
-    "wof:lastmodified":1449065818,
+    "wof:lastmodified":1466648413,
     "wof:name":"Colonial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "benefit"
     ]
 },
-  "bbox": [-78.52619,35.880477,-78.52619,35.880477],
+  "bbox": [
+    -78.52619,
+    35.880477,
+    -78.52619,
+    35.880477
+],
   "geometry": {"coordinates":[-78.52619,35.880477],"type":"Point"}
 }

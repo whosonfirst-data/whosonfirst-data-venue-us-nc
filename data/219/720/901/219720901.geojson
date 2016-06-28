@@ -2,13 +2,14 @@
   "id": 219720901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.444426,35.325318,-82.444426,35.325318",
     "geom:latitude":35.325318,
     "geom:longitude":-82.444426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Wilmont Dr",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219720901,
-    "wof:lastmodified":1449071237,
+    "wof:lastmodified":1466646519,
     "wof:name":"Zack Automotive",
     "wof:parent_id":85812455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.444426,35.325318,-82.444426,35.325318],
-  "geometry": {"coordinates":[-82.444426,35.325318],"type":"Point"}
+  "bbox": [
+    -82.444426,
+    35.325318,
+    -82.444426,
+    35.325318
+],
+  "geometry": {"coordinates":[-82.44442600000001,35.325318],"type":"Point"}
 }

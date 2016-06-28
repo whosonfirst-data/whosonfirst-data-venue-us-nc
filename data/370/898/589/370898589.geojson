@@ -2,13 +2,14 @@
   "id": 370898589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.014283,35.750679,-81.014283,35.750679",
     "geom:latitude":35.750679,
     "geom:longitude":-81.014283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Benfield Rd",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370898589,
-    "wof:lastmodified":1449028998,
+    "wof:lastmodified":1466656755,
     "wof:name":"Providence Church Parsonage",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.014283,35.750679,-81.014283,35.750679],
-  "geometry": {"coordinates":[-81.014283,35.750679],"type":"Point"}
+  "bbox": [
+    -81.014283,
+    35.750679,
+    -81.014283,
+    35.750679
+],
+  "geometry": {"coordinates":[-81.01428300000001,35.750679],"type":"Point"}
 }

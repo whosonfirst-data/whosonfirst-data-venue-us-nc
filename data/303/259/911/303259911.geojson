@@ -2,13 +2,14 @@
   "id": 303259911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.947476,34.235289,-77.947476,34.235289",
     "geom:latitude":34.235289,
     "geom:longitude":-77.947476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303259911,
-    "wof:lastmodified":1448998670,
+    "wof:lastmodified":1466647096,
     "wof:name":"Bevanda Lounge",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-77.947476,34.235289,-77.947476,34.235289],
-  "geometry": {"coordinates":[-77.947476,34.235289],"type":"Point"}
+  "bbox": [
+    -77.947476,
+    34.235289,
+    -77.947476,
+    34.235289
+],
+  "geometry": {"coordinates":[-77.94747599999999,34.235289],"type":"Point"}
 }

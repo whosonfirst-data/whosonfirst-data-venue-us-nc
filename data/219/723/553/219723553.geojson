@@ -2,13 +2,14 @@
   "id": 219723553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.52039,36.238558,-79.52039,36.238558",
     "geom:latitude":36.238558,
     "geom:longitude":-79.52039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4347 Troxler Mill Rd",
     "sg:city":"Gibsonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219723553,
-    "wof:lastmodified":1449072445,
+    "wof:lastmodified":1466646542,
     "wof:name":"Tree Service William Hilton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.52039,36.238558,-79.52039,36.238558],
-  "geometry": {"coordinates":[-79.52039,36.238558],"type":"Point"}
+  "bbox": [
+    -79.52039,
+    36.238558,
+    -79.52039,
+    36.238558
+],
+  "geometry": {"coordinates":[-79.52039000000001,36.238558],"type":"Point"}
 }

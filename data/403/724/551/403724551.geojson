@@ -2,13 +2,14 @@
   "id": 403724551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.011201,35.144885,-79.011201,35.144885",
     "geom:latitude":35.144885,
     "geom:longitude":-79.011201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2176 Sunchon Rd",
     "sg:city":"Fort Bragg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403724551,
-    "wof:lastmodified":1449055920,
+    "wof:lastmodified":1466650609,
     "wof:name":"Sainte Mere Eglise Ctr",
     "wof:parent_id":85846713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.011201,35.144885,-79.011201,35.144885],
+  "bbox": [
+    -79.011201,
+    35.144885,
+    -79.011201,
+    35.144885
+],
   "geometry": {"coordinates":[-79.011201,35.144885],"type":"Point"}
 }

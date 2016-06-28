@@ -2,13 +2,14 @@
   "id": 253133945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.854013,35.805205,-80.854013,35.805205",
     "geom:latitude":35.805205,
     "geom:longitude":-80.854013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2579 Davie Ave",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253133945,
-    "wof:lastmodified":1449065253,
+    "wof:lastmodified":1466644395,
     "wof:name":"Hallmark Inn Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.854013,35.805205,-80.854013,35.805205],
-  "geometry": {"coordinates":[-80.854013,35.805205],"type":"Point"}
+  "bbox": [
+    -80.854013,
+    35.805205,
+    -80.854013,
+    35.805205
+],
+  "geometry": {"coordinates":[-80.85401299999999,35.805205],"type":"Point"}
 }

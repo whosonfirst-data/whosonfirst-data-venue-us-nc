@@ -2,13 +2,14 @@
   "id": 202637919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.876291,35.901664,-79.876291,35.901664",
     "geom:latitude":35.901664,
     "geom:longitude":-79.876291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2098 Ebenezer Church Rd",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202637919,
-    "wof:lastmodified":1449060117,
+    "wof:lastmodified":1466655655,
     "wof:name":"Ebenezer Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.876291,35.901664,-79.876291,35.901664],
-  "geometry": {"coordinates":[-79.876291,35.901664],"type":"Point"}
+  "bbox": [
+    -79.876291,
+    35.901664,
+    -79.876291,
+    35.901664
+],
+  "geometry": {"coordinates":[-79.87629099999999,35.901664],"type":"Point"}
 }

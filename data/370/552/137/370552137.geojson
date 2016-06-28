@@ -2,13 +2,14 @@
   "id": 370552137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.530616,34.98829,-80.530616,34.98829",
     "geom:latitude":34.98829,
     "geom:longitude":-80.530616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 Morgan Mill Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370552137,
-    "wof:lastmodified":1449030501,
+    "wof:lastmodified":1466653247,
     "wof:name":"City Tire Towing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.530616,34.98829,-80.530616,34.98829],
-  "geometry": {"coordinates":[-80.530616,34.98829],"type":"Point"}
+  "bbox": [
+    -80.530616,
+    34.98829,
+    -80.530616,
+    34.98829
+],
+  "geometry": {"coordinates":[-80.53061599999999,34.98829],"type":"Point"}
 }

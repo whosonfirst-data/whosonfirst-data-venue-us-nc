@@ -2,13 +2,14 @@
   "id": 387695271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.651429,35.724532,-78.651429,35.724532",
     "geom:latitude":35.724532,
     "geom:longitude":-78.651429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3912 Fayetteville Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387695271,
-    "wof:lastmodified":1449057548,
+    "wof:lastmodified":1466657414,
     "wof:name":"Oakwood Homes",
     "wof:parent_id":85892051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "modular"
     ]
 },
-  "bbox": [-78.651429,35.724532,-78.651429,35.724532],
-  "geometry": {"coordinates":[-78.651429,35.724532],"type":"Point"}
+  "bbox": [
+    -78.651429,
+    35.724532,
+    -78.651429,
+    35.724532
+],
+  "geometry": {"coordinates":[-78.65142899999999,35.724532],"type":"Point"}
 }

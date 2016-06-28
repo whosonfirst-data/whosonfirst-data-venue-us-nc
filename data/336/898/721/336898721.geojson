@@ -2,13 +2,14 @@
   "id": 336898721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.424449,34.784382,-77.424449,34.784382",
     "geom:latitude":34.784382,
     "geom:longitude":-77.424449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Henderson Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":336898721,
-    "wof:lastmodified":1448996904,
+    "wof:lastmodified":1466650403,
     "wof:name":"Island Tan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-77.424449,34.784382,-77.424449,34.784382],
+  "bbox": [
+    -77.424449,
+    34.784382,
+    -77.424449,
+    34.784382
+],
   "geometry": {"coordinates":[-77.424449,34.784382],"type":"Point"}
 }

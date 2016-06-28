@@ -2,13 +2,14 @@
   "id": 202691491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.566577,35.838729,-78.566577,35.838729",
     "geom:latitude":35.838729,
     "geom:longitude":-78.566577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 Stoneford Trace Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202691491,
-    "wof:lastmodified":1449060328,
+    "wof:lastmodified":1466643357,
     "wof:name":"APS Company of NC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.566577,35.838729,-78.566577,35.838729],
+  "bbox": [
+    -78.566577,
+    35.838729,
+    -78.566577,
+    35.838729
+],
   "geometry": {"coordinates":[-78.566577,35.838729],"type":"Point"}
 }

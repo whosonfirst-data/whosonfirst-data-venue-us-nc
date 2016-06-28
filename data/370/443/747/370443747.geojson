@@ -2,13 +2,14 @@
   "id": 370443747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.613145,35.792946,-78.613145,35.792946",
     "geom:latitude":35.792946,
     "geom:longitude":-78.613145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1339 Raleigh Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370443747,
-    "wof:lastmodified":1449031846,
+    "wof:lastmodified":1466651847,
     "wof:name":"Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.613145,35.792946,-78.613145,35.792946],
+  "bbox": [
+    -78.613145,
+    35.792946,
+    -78.613145,
+    35.792946
+],
   "geometry": {"coordinates":[-78.613145,35.792946],"type":"Point"}
 }

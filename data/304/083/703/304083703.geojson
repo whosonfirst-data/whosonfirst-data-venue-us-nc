@@ -2,13 +2,14 @@
   "id": 304083703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.789931,35.195749,-80.789931,35.195749",
     "geom:latitude":35.195749,
     "geom:longitude":-80.789931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 McAlway Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304083703,
-    "wof:lastmodified":1449043821,
+    "wof:lastmodified":1466645341,
     "wof:name":"O'Hara Veterinary Clinic",
     "wof:parent_id":85838939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.789931,35.195749,-80.789931,35.195749],
+  "bbox": [
+    -80.789931,
+    35.195749,
+    -80.789931,
+    35.195749
+],
   "geometry": {"coordinates":[-80.789931,35.195749],"type":"Point"}
 }

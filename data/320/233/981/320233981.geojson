@@ -2,13 +2,14 @@
   "id": 320233981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.504051,35.982234,-78.504051,35.982234",
     "geom:latitude":35.982234,
     "geom:longitude":-78.504051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 E Walnut Ave",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320233981,
-    "wof:lastmodified":1449015030,
+    "wof:lastmodified":1466648569,
     "wof:name":"Wake Electric",
     "wof:parent_id":85892169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-78.504051,35.982234,-78.504051,35.982234],
+  "bbox": [
+    -78.504051,
+    35.982234,
+    -78.504051,
+    35.982234
+],
   "geometry": {"coordinates":[-78.504051,35.982234],"type":"Point"}
 }

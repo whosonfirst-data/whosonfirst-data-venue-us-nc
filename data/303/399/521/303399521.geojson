@@ -2,13 +2,14 @@
   "id": 303399521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.227337,35.472752,-79.227337,35.472752",
     "geom:latitude":35.472752,
     "geom:longitude":-79.227337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3606 Wicker St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303399521,
-    "wof:lastmodified":1448998549,
+    "wof:lastmodified":1466649066,
     "wof:name":"First Pentecostal Holiness Chr",
     "wof:parent_id":85855799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.227337,35.472752,-79.227337,35.472752],
-  "geometry": {"coordinates":[-79.227337,35.472752],"type":"Point"}
+  "bbox": [
+    -79.227337,
+    35.472752,
+    -79.227337,
+    35.472752
+],
+  "geometry": {"coordinates":[-79.22733700000001,35.472752],"type":"Point"}
 }

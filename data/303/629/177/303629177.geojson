@@ -2,13 +2,14 @@
   "id": 303629177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.984308,35.383482,-77.984308,35.383482",
     "geom:latitude":35.383482,
     "geom:longitude":-77.984308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 E Simmons St",
     "sg:city":"Goldsboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303629177,
-    "wof:lastmodified":1448999992,
+    "wof:lastmodified":1466652390,
     "wof:name":"Area Services & Programs",
     "wof:parent_id":85809693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-77.984308,35.383482,-77.984308,35.383482],
+  "bbox": [
+    -77.984308,
+    35.383482,
+    -77.984308,
+    35.383482
+],
   "geometry": {"coordinates":[-77.984308,35.383482],"type":"Point"}
 }

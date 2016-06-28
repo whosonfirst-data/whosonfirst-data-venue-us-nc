@@ -2,13 +2,14 @@
   "id": 303232523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.645044,35.87893,-78.645044,35.87893",
     "geom:latitude":35.87893,
     "geom:longitude":-78.645044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Newton Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303232523,
-    "wof:lastmodified":1448998904,
+    "wof:lastmodified":1466646685,
     "wof:name":"Exotic Tan",
     "wof:parent_id":85848847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-78.645044,35.87893,-78.645044,35.87893],
+  "bbox": [
+    -78.645044,
+    35.87893,
+    -78.645044,
+    35.87893
+],
   "geometry": {"coordinates":[-78.645044,35.87893],"type":"Point"}
 }

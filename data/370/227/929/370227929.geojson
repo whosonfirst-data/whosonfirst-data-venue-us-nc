@@ -2,13 +2,14 @@
   "id": 370227929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.841737,34.223169,-77.841737,34.223169",
     "geom:latitude":34.223169,
     "geom:longitude":-77.841737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Rogersville Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370227929,
-    "wof:lastmodified":1449029842,
+    "wof:lastmodified":1466649122,
     "wof:name":"Henry M Wright MD",
     "wof:parent_id":85830827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-77.841737,34.223169,-77.841737,34.223169],
-  "geometry": {"coordinates":[-77.841737,34.223169],"type":"Point"}
+  "bbox": [
+    -77.841737,
+    34.223169,
+    -77.841737,
+    34.223169
+],
+  "geometry": {"coordinates":[-77.84173699999999,34.223169],"type":"Point"}
 }

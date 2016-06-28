@@ -2,13 +2,14 @@
   "id": 403878533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.558158,34.73419,-76.558158,34.73419",
     "geom:latitude":34.73419,
     "geom:longitude":-76.558158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Straits Rd",
     "sg:city":"Beaufort",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403878533,
-    "wof:lastmodified":1449055336,
+    "wof:lastmodified":1466652636,
     "wof:name":"East Coast Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.558158,34.73419,-76.558158,34.73419],
-  "geometry": {"coordinates":[-76.558158,34.73419],"type":"Point"}
+  "bbox": [
+    -76.558158,
+    34.73419,
+    -76.558158,
+    34.73419
+],
+  "geometry": {"coordinates":[-76.55815800000001,34.73419],"type":"Point"}
 }

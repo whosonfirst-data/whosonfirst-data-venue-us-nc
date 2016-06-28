@@ -2,13 +2,14 @@
   "id": 404133793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.653671,35.759485,-79.653671,35.759485",
     "geom:latitude":35.759485,
     "geom:longitude":-79.653671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"773 Brady St Exd",
     "sg:city":"Ramseur",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404133793,
-    "wof:lastmodified":1449040096,
+    "wof:lastmodified":1466652971,
     "wof:name":"Patterson Grove Church",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-79.653671,35.759485,-79.653671,35.759485],
+  "bbox": [
+    -79.653671,
+    35.759485,
+    -79.653671,
+    35.759485
+],
   "geometry": {"coordinates":[-79.653671,35.759485],"type":"Point"}
 }

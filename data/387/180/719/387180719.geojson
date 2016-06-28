@@ -2,13 +2,14 @@
   "id": 387180719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.030792,35.17829,-81.030792,35.17829",
     "geom:latitude":35.17829,
     "geom:longitude":-81.030792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Old Spring Rd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387180719,
-    "wof:lastmodified":1449056266,
+    "wof:lastmodified":1466652233,
     "wof:name":"JDM Seeding Inc",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.030792,35.17829,-81.030792,35.17829],
-  "geometry": {"coordinates":[-81.030792,35.17829],"type":"Point"}
+  "bbox": [
+    -81.030792,
+    35.17829,
+    -81.030792,
+    35.17829
+],
+  "geometry": {"coordinates":[-81.03079200000001,35.17829],"type":"Point"}
 }

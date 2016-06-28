@@ -2,13 +2,14 @@
   "id": 304030801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.943939,36.010764,-78.943939,36.010764",
     "geom:latitude":36.010764,
     "geom:longitude":-78.943939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Pratt St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304030801,
-    "wof:lastmodified":1449043780,
+    "wof:lastmodified":1466644600,
     "wof:name":"Torres Painting Co",
     "wof:parent_id":85877141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-78.943939,36.010764,-78.943939,36.010764],
+  "bbox": [
+    -78.943939,
+    36.010764,
+    -78.943939,
+    36.010764
+],
   "geometry": {"coordinates":[-78.943939,36.010764],"type":"Point"}
 }

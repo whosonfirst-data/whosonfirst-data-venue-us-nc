@@ -2,13 +2,14 @@
   "id": 320811361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.263376,35.488322,-78.263376,35.488322",
     "geom:latitude":35.488322,
     "geom:longitude":-78.263376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2938 US Hwy 70 E",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320811361,
-    "wof:lastmodified":1449013059,
+    "wof:lastmodified":1466656432,
     "wof:name":"Worley's Auto Sales Inc",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.263376,35.488322,-78.263376,35.488322],
-  "geometry": {"coordinates":[-78.263376,35.488322],"type":"Point"}
+  "bbox": [
+    -78.263376,
+    35.488322,
+    -78.263376,
+    35.488322
+],
+  "geometry": {"coordinates":[-78.26337599999999,35.488322],"type":"Point"}
 }

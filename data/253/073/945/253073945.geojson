@@ -2,13 +2,14 @@
   "id": 253073945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.987468,35.191826,-78.987468,35.191826",
     "geom:latitude":35.191826,
     "geom:longitude":-78.987468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Manchester Rd",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253073945,
-    "wof:lastmodified":1449063228,
+    "wof:lastmodified":1466643832,
     "wof:name":"Church Of The Covenant",
     "wof:parent_id":85803425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-78.987468,35.191826,-78.987468,35.191826],
-  "geometry": {"coordinates":[-78.987468,35.191826],"type":"Point"}
+  "bbox": [
+    -78.987468,
+    35.191826,
+    -78.987468,
+    35.191826
+],
+  "geometry": {"coordinates":[-78.98746800000001,35.191826],"type":"Point"}
 }

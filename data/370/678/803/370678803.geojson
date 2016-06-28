@@ -2,13 +2,14 @@
   "id": 370678803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.791504,35.338393,-80.791504,35.338393",
     "geom:latitude":35.338393,
     "geom:longitude":-80.791504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11921 Mallard Ridge Dr",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370678803,
-    "wof:lastmodified":1449030726,
+    "wof:lastmodified":1466654929,
     "wof:name":"MKR Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-80.791504,35.338393,-80.791504,35.338393],
+  "bbox": [
+    -80.791504,
+    35.338393,
+    -80.791504,
+    35.338393
+],
   "geometry": {"coordinates":[-80.791504,35.338393],"type":"Point"}
 }

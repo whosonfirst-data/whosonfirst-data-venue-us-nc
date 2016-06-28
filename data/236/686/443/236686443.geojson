@@ -2,13 +2,14 @@
   "id": 236686443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.471438,35.68024,-80.471438,35.68024",
     "geom:latitude":35.68024,
     "geom:longitude":-80.471438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Mocksville Ave",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236686443,
-    "wof:lastmodified":1449004280,
+    "wof:lastmodified":1466649345,
     "wof:name":"Mostrack",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.471438,35.68024,-80.471438,35.68024],
-  "geometry": {"coordinates":[-80.471438,35.68024],"type":"Point"}
+  "bbox": [
+    -80.471438,
+    35.68024,
+    -80.471438,
+    35.68024
+],
+  "geometry": {"coordinates":[-80.47143800000001,35.68024],"type":"Point"}
 }

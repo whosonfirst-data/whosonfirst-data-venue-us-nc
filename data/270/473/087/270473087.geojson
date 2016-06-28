@@ -2,13 +2,14 @@
   "id": 270473087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.224078,35.248017,-81.224078,35.248017",
     "geom:latitude":35.248017,
     "geom:longitude":-81.224078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 S Myrtle School Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270473087,
-    "wof:lastmodified":1449009139,
+    "wof:lastmodified":1466649084,
     "wof:name":"Westside Market",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.224078,35.248017,-81.224078,35.248017],
-  "geometry": {"coordinates":[-81.224078,35.248017],"type":"Point"}
+  "bbox": [
+    -81.224078,
+    35.248017,
+    -81.224078,
+    35.248017
+],
+  "geometry": {"coordinates":[-81.22407800000001,35.248017],"type":"Point"}
 }

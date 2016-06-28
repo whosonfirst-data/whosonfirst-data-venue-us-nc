@@ -2,13 +2,14 @@
   "id": 202380713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.723408,35.565654,-78.723408,35.565654",
     "geom:latitude":35.565654,
     "geom:longitude":-78.723408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Buck Rowland Rd",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202380713,
-    "wof:lastmodified":1449061301,
+    "wof:lastmodified":1466652383,
     "wof:name":"Cotten's Upholstery",
     "wof:parent_id":85891937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-78.723408,35.565654,-78.723408,35.565654],
-  "geometry": {"coordinates":[-78.723408,35.565654],"type":"Point"}
+  "bbox": [
+    -78.723408,
+    35.565654,
+    -78.723408,
+    35.565654
+],
+  "geometry": {"coordinates":[-78.72340800000001,35.565654],"type":"Point"}
 }

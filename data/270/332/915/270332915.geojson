@@ -2,13 +2,14 @@
   "id": 270332915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.505863,34.750137,-77.505863,34.750137",
     "geom:latitude":34.750137,
     "geom:longitude":-77.505863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Gould Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270332915,
-    "wof:lastmodified":1449010014,
+    "wof:lastmodified":1466647279,
     "wof:name":"Justice Farms",
     "wof:parent_id":85821321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.505863,34.750137,-77.505863,34.750137],
-  "geometry": {"coordinates":[-77.505863,34.750137],"type":"Point"}
+  "bbox": [
+    -77.505863,
+    34.750137,
+    -77.505863,
+    34.750137
+],
+  "geometry": {"coordinates":[-77.50586300000001,34.750137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303445249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.11001,35.223187,-81.11001,35.223187",
     "geom:latitude":35.223187,
     "geom:longitude":-81.11001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3704 Bellevue Ter",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303445249,
-    "wof:lastmodified":1448998444,
+    "wof:lastmodified":1466649725,
     "wof:name":"Steve Randolph Sales Company",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.11001,35.223187,-81.11001,35.223187],
+  "bbox": [
+    -81.11001,
+    35.223187,
+    -81.11001,
+    35.223187
+],
   "geometry": {"coordinates":[-81.11001,35.223187],"type":"Point"}
 }

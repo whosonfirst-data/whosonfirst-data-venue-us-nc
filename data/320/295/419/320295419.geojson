@@ -2,13 +2,14 @@
   "id": 320295419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.573136,35.865021,-79.573136,35.865021",
     "geom:latitude":35.865021,
     "geom:longitude":-79.573136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"832 N Greensboro St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320295419,
-    "wof:lastmodified":1449012785,
+    "wof:lastmodified":1466649418,
     "wof:name":"Xibit Inc",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.573136,35.865021,-79.573136,35.865021],
-  "geometry": {"coordinates":[-79.573136,35.865021],"type":"Point"}
+  "bbox": [
+    -79.573136,
+    35.865021,
+    -79.573136,
+    35.865021
+],
+  "geometry": {"coordinates":[-79.57313600000001,35.865021],"type":"Point"}
 }

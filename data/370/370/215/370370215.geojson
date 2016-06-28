@@ -2,13 +2,14 @@
   "id": 370370215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.89342,35.90892,-78.89342,35.90892",
     "geom:latitude":35.90892,
     "geom:longitude":-78.89342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4433 State Hwy 55",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370370215,
-    "wof:lastmodified":1449030918,
+    "wof:lastmodified":1466650879,
     "wof:name":"Innkeeper Of Durham RTP",
     "wof:parent_id":85831613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.89342,35.90892,-78.89342,35.90892],
-  "geometry": {"coordinates":[-78.89342,35.90892],"type":"Point"}
+  "bbox": [
+    -78.89342,
+    35.90892,
+    -78.89342,
+    35.90892
+],
+  "geometry": {"coordinates":[-78.89342000000001,35.90892],"type":"Point"}
 }

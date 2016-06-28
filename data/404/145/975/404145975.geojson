@@ -2,13 +2,14 @@
   "id": 404145975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.847321,36.111206,-79.847321,36.111206",
     "geom:latitude":36.111206,
     "geom:longitude":-79.847321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Red Forest Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404145975,
-    "wof:lastmodified":1449039390,
+    "wof:lastmodified":1466653130,
     "wof:name":"Triad Sign Guys",
     "wof:parent_id":85819993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.847321,36.111206,-79.847321,36.111206],
-  "geometry": {"coordinates":[-79.847321,36.111206],"type":"Point"}
+  "bbox": [
+    -79.847321,
+    36.111206,
+    -79.847321,
+    36.111206
+],
+  "geometry": {"coordinates":[-79.84732099999999,36.111206],"type":"Point"}
 }

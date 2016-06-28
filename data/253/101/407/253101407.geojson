@@ -2,13 +2,14 @@
   "id": 253101407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.039223,35.109619,-77.039223,35.109619",
     "geom:latitude":35.109619,
     "geom:longitude":-77.039223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 New St",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253101407,
-    "wof:lastmodified":1449064378,
+    "wof:lastmodified":1466644078,
     "wof:name":"Hudson Pope",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.039223,35.109619,-77.039223,35.109619],
-  "geometry": {"coordinates":[-77.039223,35.109619],"type":"Point"}
+  "bbox": [
+    -77.039223,
+    35.109619,
+    -77.039223,
+    35.109619
+],
+  "geometry": {"coordinates":[-77.03922300000001,35.109619],"type":"Point"}
 }

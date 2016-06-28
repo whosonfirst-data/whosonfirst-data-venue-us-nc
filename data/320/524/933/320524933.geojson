@@ -2,13 +2,14 @@
   "id": 320524933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.381933,34.769109,-77.381933,34.769109",
     "geom:latitude":34.769109,
     "geom:longitude":-77.381933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Myrtlewood Cir",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320524933,
-    "wof:lastmodified":1449011222,
+    "wof:lastmodified":1466652728,
     "wof:name":"Jacksonville Water Source Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.381933,34.769109,-77.381933,34.769109],
+  "bbox": [
+    -77.381933,
+    34.769109,
+    -77.381933,
+    34.769109
+],
   "geometry": {"coordinates":[-77.381933,34.769109],"type":"Point"}
 }

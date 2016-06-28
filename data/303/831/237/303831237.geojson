@@ -2,13 +2,14 @@
   "id": 303831237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.825584,35.545266,-82.825584,35.545266",
     "geom:latitude":35.545266,
     "geom:longitude":-82.825584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Newfound St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303831237,
-    "wof:lastmodified":1448999557,
+    "wof:lastmodified":1466655308,
     "wof:name":"Single Stop Inc Office",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.825584,35.545266,-82.825584,35.545266],
-  "geometry": {"coordinates":[-82.825584,35.545266],"type":"Point"}
+  "bbox": [
+    -82.825584,
+    35.545266,
+    -82.825584,
+    35.545266
+],
+  "geometry": {"coordinates":[-82.82558400000001,35.545266],"type":"Point"}
 }

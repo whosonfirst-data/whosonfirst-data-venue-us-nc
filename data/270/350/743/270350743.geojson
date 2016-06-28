@@ -2,13 +2,14 @@
   "id": 270350743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.590218,35.420595,-80.590218,35.420595",
     "geom:latitude":35.420595,
     "geom:longitude":-80.590218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 Church St N",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270350743,
-    "wof:lastmodified":1449009887,
+    "wof:lastmodified":1466647513,
     "wof:name":"Troutman's Bar-B-Q Pit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.590218,35.420595,-80.590218,35.420595],
-  "geometry": {"coordinates":[-80.590218,35.420595],"type":"Point"}
+  "bbox": [
+    -80.590218,
+    35.420595,
+    -80.590218,
+    35.420595
+],
+  "geometry": {"coordinates":[-80.59021799999999,35.420595],"type":"Point"}
 }

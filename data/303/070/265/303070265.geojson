@@ -2,13 +2,14 @@
   "id": 303070265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.303991,36.094922,-78.303991,36.094922",
     "geom:latitude":36.094922,
     "geom:longitude":-78.303991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 S Main St",
     "sg:city":"Louisburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303070265,
-    "wof:lastmodified":1448999313,
+    "wof:lastmodified":1466644253,
     "wof:name":"Richardson Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-78.303991,36.094922,-78.303991,36.094922],
+  "bbox": [
+    -78.303991,
+    36.094922,
+    -78.303991,
+    36.094922
+],
   "geometry": {"coordinates":[-78.303991,36.094922],"type":"Point"}
 }

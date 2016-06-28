@@ -2,13 +2,14 @@
   "id": 371181725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.79054,34.286939,-77.79054,34.286939",
     "geom:latitude":34.286939,
     "geom:longitude":-77.79054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Bayfield Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371181725,
-    "wof:lastmodified":1449049671,
+    "wof:lastmodified":1466651125,
     "wof:name":"Autumn Air Htg & AC",
     "wof:parent_id":85852563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.79054,34.286939,-77.79054,34.286939],
-  "geometry": {"coordinates":[-77.79054,34.286939],"type":"Point"}
+  "bbox": [
+    -77.79054,
+    34.286939,
+    -77.79054,
+    34.286939
+],
+  "geometry": {"coordinates":[-77.79053999999999,34.286939],"type":"Point"}
 }

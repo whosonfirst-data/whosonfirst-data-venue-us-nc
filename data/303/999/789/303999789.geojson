@@ -2,13 +2,14 @@
   "id": 303999789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.69849,35.762122,-81.69849,35.762122",
     "geom:latitude":35.762122,
     "geom:longitude":-81.69849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Sanford Dr",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303999789,
-    "wof:lastmodified":1449000263,
+    "wof:lastmodified":1466656844,
     "wof:name":"Forestry Dept",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-81.69849,35.762122,-81.69849,35.762122],
-  "geometry": {"coordinates":[-81.69849,35.762122],"type":"Point"}
+  "bbox": [
+    -81.69849,
+    35.762122,
+    -81.69849,
+    35.762122
+],
+  "geometry": {"coordinates":[-81.69849000000001,35.762122],"type":"Point"}
 }

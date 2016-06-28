@@ -2,13 +2,14 @@
   "id": 219935591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.277702,36.095608,-80.277702,36.095608",
     "geom:latitude":36.095608,
     "geom:longitude":-80.277702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 S Stratford Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219935591,
-    "wof:lastmodified":1449073290,
+    "wof:lastmodified":1466648284,
     "wof:name":"Salem Speech & Language Svc",
     "wof:parent_id":85855629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "body"
     ]
 },
-  "bbox": [-80.277702,36.095608,-80.277702,36.095608],
-  "geometry": {"coordinates":[-80.277702,36.095608],"type":"Point"}
+  "bbox": [
+    -80.277702,
+    36.095608,
+    -80.277702,
+    36.095608
+],
+  "geometry": {"coordinates":[-80.27770200000001,36.095608],"type":"Point"}
 }

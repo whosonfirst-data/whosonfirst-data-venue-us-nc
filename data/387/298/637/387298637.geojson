@@ -2,13 +2,14 @@
   "id": 387298637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.345003,35.5719,-77.345003,35.5719",
     "geom:latitude":35.5719,
     "geom:longitude":-77.345003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3216 Meeting Pl",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387298637,
-    "wof:lastmodified":1449057126,
+    "wof:lastmodified":1466653783,
     "wof:name":"Heath Boyer",
     "wof:parent_id":85852761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.345003,35.5719,-77.345003,35.5719],
-  "geometry": {"coordinates":[-77.345003,35.5719],"type":"Point"}
+  "bbox": [
+    -77.345003,
+    35.5719,
+    -77.345003,
+    35.5719
+],
+  "geometry": {"coordinates":[-77.34500300000001,35.5719],"type":"Point"}
 }

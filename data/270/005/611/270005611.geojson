@@ -2,13 +2,14 @@
   "id": 270005611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.937518,34.219892,-77.937518,34.219892",
     "geom:latitude":34.219892,
     "geom:longitude":-77.937518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 S 8th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270005611,
-    "wof:lastmodified":1449010902,
+    "wof:lastmodified":1466643272,
     "wof:name":"TLC Childcare Providers",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.937518,34.219892,-77.937518,34.219892],
+  "bbox": [
+    -77.937518,
+    34.219892,
+    -77.937518,
+    34.219892
+],
   "geometry": {"coordinates":[-77.937518,34.219892],"type":"Point"}
 }

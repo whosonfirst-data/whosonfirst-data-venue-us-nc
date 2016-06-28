@@ -2,13 +2,14 @@
   "id": 203283569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.386423,35.180417,-83.386423,35.180417",
     "geom:latitude":35.180417,
     "geom:longitude":-83.386423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 W Main St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203283569,
-    "wof:lastmodified":1449025472,
+    "wof:lastmodified":1466655776,
     "wof:name":"First Impressions Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.386423,35.180417,-83.386423,35.180417],
-  "geometry": {"coordinates":[-83.386423,35.180417],"type":"Point"}
+  "bbox": [
+    -83.386423,
+    35.180417,
+    -83.386423,
+    35.180417
+],
+  "geometry": {"coordinates":[-83.38642299999999,35.180417],"type":"Point"}
 }

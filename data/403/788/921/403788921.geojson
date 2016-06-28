@@ -2,13 +2,14 @@
   "id": 403788921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.827441,34.940368,-77.827441,34.940368",
     "geom:latitude":34.940368,
     "geom:longitude":-77.827441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 N Blizzard Town Rd",
     "sg:city":"Beulaville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403788921,
-    "wof:lastmodified":1449055330,
+    "wof:lastmodified":1466651428,
     "wof:name":"Blizzard Paralegal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paralegal"
     ]
 },
-  "bbox": [-77.827441,34.940368,-77.827441,34.940368],
-  "geometry": {"coordinates":[-77.827441,34.940368],"type":"Point"}
+  "bbox": [
+    -77.827441,
+    34.940368,
+    -77.827441,
+    34.940368
+],
+  "geometry": {"coordinates":[-77.82744099999999,34.940368],"type":"Point"}
 }

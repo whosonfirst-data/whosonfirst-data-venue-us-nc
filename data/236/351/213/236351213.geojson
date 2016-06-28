@@ -2,13 +2,14 @@
   "id": 236351213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.143453,35.929099,-82.143453,35.929099",
     "geom:latitude":35.929099,
     "geom:longitude":-82.143453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2591 Rabbit Hop Rd",
     "sg:city":"Spruce Pine",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236351213,
-    "wof:lastmodified":1449004648,
+    "wof:lastmodified":1466646307,
     "wof:name":"L & S Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-82.143453,35.929099,-82.143453,35.929099],
-  "geometry": {"coordinates":[-82.143453,35.929099],"type":"Point"}
+  "bbox": [
+    -82.143453,
+    35.929099,
+    -82.143453,
+    35.929099
+],
+  "geometry": {"coordinates":[-82.14345299999999,35.929099],"type":"Point"}
 }

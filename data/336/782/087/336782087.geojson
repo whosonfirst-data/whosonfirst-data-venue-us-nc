@@ -2,13 +2,14 @@
   "id": 336782087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.560357,34.974224,-80.560357,34.974224",
     "geom:latitude":34.974224,
     "geom:longitude":-80.560357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Lucille Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336782087,
-    "wof:lastmodified":1448996913,
+    "wof:lastmodified":1466648614,
     "wof:name":"John J Miles Dr",
     "wof:parent_id":85879031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.560357,34.974224,-80.560357,34.974224],
+  "bbox": [
+    -80.560357,
+    34.974224,
+    -80.560357,
+    34.974224
+],
   "geometry": {"coordinates":[-80.560357,34.974224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387897269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.274559,33.913573,-78.274559,33.913573",
     "geom:latitude":33.913573,
     "geom:longitude":-78.274559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Ocean Blvd W",
     "sg:city":"Supply",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387897269,
-    "wof:lastmodified":1449059309,
+    "wof:lastmodified":1466657971,
     "wof:name":"Coastal Rental",
     "wof:parent_id":85848193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-78.274559,33.913573,-78.274559,33.913573],
+  "bbox": [
+    -78.274559,
+    33.913573,
+    -78.274559,
+    33.913573
+],
   "geometry": {"coordinates":[-78.274559,33.913573],"type":"Point"}
 }

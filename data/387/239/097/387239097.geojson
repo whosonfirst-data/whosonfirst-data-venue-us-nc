@@ -2,13 +2,14 @@
   "id": 387239097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.699414,35.682003,-79.699414,35.682003",
     "geom:latitude":35.682003,
     "geom:longitude":-79.699414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2075 Grantville Ln",
     "sg:city":"Asheboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387239097,
-    "wof:lastmodified":1449056476,
+    "wof:lastmodified":1466653019,
     "wof:name":"Brown Brothers Well Drilling",
     "wof:parent_id":85807293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-79.699414,35.682003,-79.699414,35.682003],
+  "bbox": [
+    -79.699414,
+    35.682003,
+    -79.699414,
+    35.682003
+],
   "geometry": {"coordinates":[-79.699414,35.682003],"type":"Point"}
 }

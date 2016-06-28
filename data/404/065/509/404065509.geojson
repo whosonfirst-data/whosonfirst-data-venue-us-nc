@@ -2,13 +2,14 @@
   "id": 404065509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.903638,34.211805,-77.903638,34.211805",
     "geom:latitude":34.211805,
     "geom:longitude":-77.903638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 Fordham Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404065509,
-    "wof:lastmodified":1449040318,
+    "wof:lastmodified":1466652118,
     "wof:name":"Jebco",
     "wof:parent_id":85830591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-77.903638,34.211805,-77.903638,34.211805],
+  "bbox": [
+    -77.903638,
+    34.211805,
+    -77.903638,
+    34.211805
+],
   "geometry": {"coordinates":[-77.903638,34.211805],"type":"Point"}
 }

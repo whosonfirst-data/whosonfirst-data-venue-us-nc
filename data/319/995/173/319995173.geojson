@@ -2,13 +2,14 @@
   "id": 319995173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.527357,34.881996,-78.527357,34.881996",
     "geom:latitude":34.881996,
     "geom:longitude":-78.527357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11990 Broadwater Bridge Rd",
     "sg:city":"Roseboro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":319995173,
-    "wof:lastmodified":1449024799,
+    "wof:lastmodified":1466647402,
     "wof:name":"C J C Cattle Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-78.527357,34.881996,-78.527357,34.881996],
-  "geometry": {"coordinates":[-78.527357,34.881996],"type":"Point"}
+  "bbox": [
+    -78.527357,
+    34.881996,
+    -78.527357,
+    34.881996
+],
+  "geometry": {"coordinates":[-78.52735699999999,34.881996],"type":"Point"}
 }

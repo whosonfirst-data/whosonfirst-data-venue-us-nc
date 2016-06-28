@@ -2,13 +2,14 @@
   "id": 404102119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.152876,35.462711,-79.152876,35.462711",
     "geom:latitude":35.462711,
     "geom:longitude":-79.152876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Commercial Ct",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404102119,
-    "wof:lastmodified":1449040252,
+    "wof:lastmodified":1466652565,
     "wof:name":"Sanford Southeastern District",
     "wof:parent_id":85827995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mine"
     ]
 },
-  "bbox": [-79.152876,35.462711,-79.152876,35.462711],
-  "geometry": {"coordinates":[-79.152876,35.462711],"type":"Point"}
+  "bbox": [
+    -79.152876,
+    35.462711,
+    -79.152876,
+    35.462711
+],
+  "geometry": {"coordinates":[-79.15287600000001,35.462711],"type":"Point"}
 }

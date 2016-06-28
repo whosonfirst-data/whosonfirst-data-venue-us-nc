@@ -2,13 +2,14 @@
   "id": 354120469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.975429,35.084875,-78.975429,35.084875",
     "geom:latitude":35.084875,
     "geom:longitude":-78.975429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5352 Yadkin Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354120469,
-    "wof:lastmodified":1449067418,
+    "wof:lastmodified":1466648952,
     "wof:name":"J&J Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-78.975429,35.084875,-78.975429,35.084875],
-  "geometry": {"coordinates":[-78.975429,35.084875],"type":"Point"}
+  "bbox": [
+    -78.975429,
+    35.084875,
+    -78.975429,
+    35.084875
+],
+  "geometry": {"coordinates":[-78.97542900000001,35.084875],"type":"Point"}
 }

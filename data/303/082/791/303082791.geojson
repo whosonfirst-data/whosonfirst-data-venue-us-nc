@@ -2,13 +2,14 @@
   "id": 303082791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.661988,36.230655,-81.661988,36.230655",
     "geom:latitude":36.230655,
     "geom:longitude":-81.661988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467 Rainbow Trl",
     "sg:city":"Boone",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303082791,
-    "wof:lastmodified":1448998179,
+    "wof:lastmodified":1466644439,
     "wof:name":"Aircraft Heating Cooling",
     "wof:parent_id":85836725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-81.661988,36.230655,-81.661988,36.230655],
-  "geometry": {"coordinates":[-81.661988,36.230655],"type":"Point"}
+  "bbox": [
+    -81.661988,
+    36.230655,
+    -81.661988,
+    36.230655
+],
+  "geometry": {"coordinates":[-81.66198799999999,36.230655],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270017419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.455706,36.105166,-79.455706,36.105166",
     "geom:latitude":36.105166,
     "geom:longitude":-79.455706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1439 W Webb Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270017419,
-    "wof:lastmodified":1449009945,
+    "wof:lastmodified":1466643401,
     "wof:name":"1439 Mini Storage",
     "wof:parent_id":85810235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-79.455706,36.105166,-79.455706,36.105166],
-  "geometry": {"coordinates":[-79.455706,36.105166],"type":"Point"}
+  "bbox": [
+    -79.455706,
+    36.105166,
+    -79.455706,
+    36.105166
+],
+  "geometry": {"coordinates":[-79.45570600000001,36.105166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387931195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.829867,35.816766,-80.829867,35.816766",
     "geom:latitude":35.816766,
     "geom:longitude":-80.829867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Sherlock Dr",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387931195,
-    "wof:lastmodified":1449059577,
+    "wof:lastmodified":1466658017,
     "wof:name":"Piedmont Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.829867,35.816766,-80.829867,35.816766],
-  "geometry": {"coordinates":[-80.829867,35.816766],"type":"Point"}
+  "bbox": [
+    -80.829867,
+    35.816766,
+    -80.829867,
+    35.816766
+],
+  "geometry": {"coordinates":[-80.82986699999999,35.816766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370361733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.262487,36.124165,-80.262487,36.124165",
     "geom:latitude":36.124165,
     "geom:longitude":-80.262487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Coliseum Dr NW",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370361733,
-    "wof:lastmodified":1449031559,
+    "wof:lastmodified":1466650779,
     "wof:name":"Richard Burr Committee",
     "wof:parent_id":85881835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.262487,36.124165,-80.262487,36.124165],
-  "geometry": {"coordinates":[-80.262487,36.124165],"type":"Point"}
+  "bbox": [
+    -80.262487,
+    36.124165,
+    -80.262487,
+    36.124165
+],
+  "geometry": {"coordinates":[-80.26248699999999,36.124165],"type":"Point"}
 }

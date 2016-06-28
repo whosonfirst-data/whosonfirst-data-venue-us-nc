@@ -2,13 +2,14 @@
   "id": 303743723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.468178,35.329572,-82.468178,35.329572",
     "geom:latitude":35.329572,
     "geom:longitude":-82.468178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Beverly Hanks Center",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303743723,
-    "wof:lastmodified":1449000552,
+    "wof:lastmodified":1466654049,
     "wof:name":"Moore W D DDS & S McChristian",
     "wof:parent_id":85815273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.468178,35.329572,-82.468178,35.329572],
-  "geometry": {"coordinates":[-82.468178,35.329572],"type":"Point"}
+  "bbox": [
+    -82.468178,
+    35.329572,
+    -82.468178,
+    35.329572
+],
+  "geometry": {"coordinates":[-82.46817799999999,35.329572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320714687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.87466,34.234391,-77.87466,34.234391",
     "geom:latitude":34.234391,
     "geom:longitude":-77.87466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S College Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320714687,
-    "wof:lastmodified":1449013102,
+    "wof:lastmodified":1466655464,
     "wof:name":"Aaron Rents",
     "wof:parent_id":85811739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-77.87466,34.234391,-77.87466,34.234391],
-  "geometry": {"coordinates":[-77.87466,34.234391],"type":"Point"}
+  "bbox": [
+    -77.87466,
+    34.234391,
+    -77.87466,
+    34.234391
+],
+  "geometry": {"coordinates":[-77.87466000000001,34.234391],"type":"Point"}
 }

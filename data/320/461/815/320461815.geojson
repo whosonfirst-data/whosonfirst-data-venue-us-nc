@@ -2,13 +2,14 @@
   "id": 320461815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254116,35.910881,-80.254116,35.910881",
     "geom:latitude":35.910881,
     "geom:longitude":-80.254116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6421 Old US Hwy 52",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320461815,
-    "wof:lastmodified":1449012687,
+    "wof:lastmodified":1466651805,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.254116,35.910881,-80.254116,35.910881],
+  "bbox": [
+    -80.254116,
+    35.910881,
+    -80.254116,
+    35.910881
+],
   "geometry": {"coordinates":[-80.254116,35.910881],"type":"Point"}
 }

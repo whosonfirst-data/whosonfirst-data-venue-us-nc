@@ -2,13 +2,14 @@
   "id": 387434195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.665748,35.451756,-77.665748,35.451756",
     "geom:latitude":35.451756,
     "geom:longitude":-77.665748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 SE 2nd St",
     "sg:city":"Snow Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387434195,
-    "wof:lastmodified":1449056925,
+    "wof:lastmodified":1466655552,
     "wof:name":"Snow Hill Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dpt"
     ]
 },
-  "bbox": [-77.665748,35.451756,-77.665748,35.451756],
-  "geometry": {"coordinates":[-77.665748,35.451756],"type":"Point"}
+  "bbox": [
+    -77.665748,
+    35.451756,
+    -77.665748,
+    35.451756
+],
+  "geometry": {"coordinates":[-77.66574799999999,35.451756],"type":"Point"}
 }

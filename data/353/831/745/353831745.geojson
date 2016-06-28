@@ -2,13 +2,14 @@
   "id": 353831745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.698608,35.762112,-81.698608,35.762112",
     "geom:latitude":35.762112,
     "geom:longitude":-81.698608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Sanford Dr",
     "sg:city":"Morganton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353831745,
-    "wof:lastmodified":1449019768,
+    "wof:lastmodified":1466652125,
     "wof:name":"North Carolina Wildlife Rsrcs",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "conservation"
     ]
 },
-  "bbox": [-81.698608,35.762112,-81.698608,35.762112],
-  "geometry": {"coordinates":[-81.698608,35.762112],"type":"Point"}
+  "bbox": [
+    -81.698608,
+    35.762112,
+    -81.698608,
+    35.762112
+],
+  "geometry": {"coordinates":[-81.69860799999999,35.762112],"type":"Point"}
 }

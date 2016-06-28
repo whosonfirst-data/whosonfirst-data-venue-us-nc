@@ -2,13 +2,14 @@
   "id": 370256333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.912315,34.293079,-77.912315,34.293079",
     "geom:latitude":34.293079,
     "geom:longitude":-77.912315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Long Leaf Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370256333,
-    "wof:lastmodified":1449031674,
+    "wof:lastmodified":1466649481,
     "wof:name":"Daniel Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.912315,34.293079,-77.912315,34.293079],
-  "geometry": {"coordinates":[-77.912315,34.293079],"type":"Point"}
+  "bbox": [
+    -77.912315,
+    34.293079,
+    -77.912315,
+    34.293079
+],
+  "geometry": {"coordinates":[-77.91231500000001,34.293079],"type":"Point"}
 }

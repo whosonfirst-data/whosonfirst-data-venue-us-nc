@@ -2,13 +2,14 @@
   "id": 387422675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.471241,35.677944,-80.471241,35.677944",
     "geom:latitude":35.677944,
     "geom:longitude":-80.471241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Mocksville Ave",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387422675,
-    "wof:lastmodified":1449056377,
+    "wof:lastmodified":1466655405,
     "wof:name":"Salisbury Radiation Oncol",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.471241,35.677944,-80.471241,35.677944],
-  "geometry": {"coordinates":[-80.471241,35.677944],"type":"Point"}
+  "bbox": [
+    -80.471241,
+    35.677944,
+    -80.471241,
+    35.677944
+],
+  "geometry": {"coordinates":[-80.47124100000001,35.677944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270492929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.638601,35.023868,-80.638601,35.023868",
     "geom:latitude":35.023868,
     "geom:longitude":-80.638601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 Genesis Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270492929,
-    "wof:lastmodified":1449008660,
+    "wof:lastmodified":1466649352,
     "wof:name":"Hammond Cnstr of Charlotte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.638601,35.023868,-80.638601,35.023868],
-  "geometry": {"coordinates":[-80.638601,35.023868],"type":"Point"}
+  "bbox": [
+    -80.638601,
+    35.023868,
+    -80.638601,
+    35.023868
+],
+  "geometry": {"coordinates":[-80.63860099999999,35.023868],"type":"Point"}
 }

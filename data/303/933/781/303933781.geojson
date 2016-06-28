@@ -2,13 +2,14 @@
   "id": 303933781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.806598,35.319632,-83.806598,35.319632",
     "geom:latitude":35.319632,
     "geom:longitude":-83.806598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 S Main St",
     "sg:city":"Robbinsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303933781,
-    "wof:lastmodified":1448998616,
+    "wof:lastmodified":1466656329,
     "wof:name":"Smoky Mountain Ctr For Mental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-83.806598,35.319632,-83.806598,35.319632],
-  "geometry": {"coordinates":[-83.806598,35.319632],"type":"Point"}
+  "bbox": [
+    -83.806598,
+    35.319632,
+    -83.806598,
+    35.319632
+],
+  "geometry": {"coordinates":[-83.80659799999999,35.319632],"type":"Point"}
 }

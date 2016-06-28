@@ -2,13 +2,14 @@
   "id": 370329701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.223695,35.376499,-81.223695,35.376499",
     "geom:latitude":35.376499,
     "geom:longitude":-81.223695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1129 Miles Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370329701,
-    "wof:lastmodified":1449030049,
+    "wof:lastmodified":1466650376,
     "wof:name":"C & B Welding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welding"
     ]
 },
-  "bbox": [-81.223695,35.376499,-81.223695,35.376499],
-  "geometry": {"coordinates":[-81.223695,35.376499],"type":"Point"}
+  "bbox": [
+    -81.223695,
+    35.376499,
+    -81.223695,
+    35.376499
+],
+  "geometry": {"coordinates":[-81.22369500000001,35.376499],"type":"Point"}
 }

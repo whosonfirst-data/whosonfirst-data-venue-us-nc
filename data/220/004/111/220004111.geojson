@@ -2,13 +2,14 @@
   "id": 220004111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.900691,34.240783,-77.900691,34.240783",
     "geom:latitude":34.240783,
     "geom:longitude":-77.900691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3722 Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220004111,
-    "wof:lastmodified":1449074322,
+    "wof:lastmodified":1466643246,
     "wof:name":"Furniture Outlet Of Wilmington",
     "wof:parent_id":85804465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.900691,34.240783,-77.900691,34.240783],
-  "geometry": {"coordinates":[-77.900691,34.240783],"type":"Point"}
+  "bbox": [
+    -77.900691,
+    34.240783,
+    -77.900691,
+    34.240783
+],
+  "geometry": {"coordinates":[-77.90069099999999,34.240783],"type":"Point"}
 }

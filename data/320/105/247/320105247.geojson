@@ -2,13 +2,14 @@
   "id": 320105247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.935204,35.016999,-78.935204,35.016999",
     "geom:latitude":35.016999,
     "geom:longitude":-78.935204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3738 Boone Trl",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320105247,
-    "wof:lastmodified":1449012706,
+    "wof:lastmodified":1466646776,
     "wof:name":"Day & Night Heating & Air Cond",
     "wof:parent_id":85877381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.935204,35.016999,-78.935204,35.016999],
+  "bbox": [
+    -78.935204,
+    35.016999,
+    -78.935204,
+    35.016999
+],
   "geometry": {"coordinates":[-78.935204,35.016999],"type":"Point"}
 }

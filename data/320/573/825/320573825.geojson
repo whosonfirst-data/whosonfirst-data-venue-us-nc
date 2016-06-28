@@ -2,13 +2,14 @@
   "id": 320573825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.328727,34.999983,-78.328727,34.999983",
     "geom:latitude":34.999983,
     "geom:longitude":-78.328727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Giddens St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320573825,
-    "wof:lastmodified":1449014012,
+    "wof:lastmodified":1466653447,
     "wof:name":"Case Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-78.328727,34.999983,-78.328727,34.999983],
+  "bbox": [
+    -78.328727,
+    34.999983,
+    -78.328727,
+    34.999983
+],
   "geometry": {"coordinates":[-78.328727,34.999983],"type":"Point"}
 }

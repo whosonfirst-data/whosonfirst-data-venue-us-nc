@@ -2,13 +2,14 @@
   "id": 354004005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.900945,35.591937,-80.900945,35.591937",
     "geom:latitude":35.591937,
     "geom:longitude":-80.900945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Whippoorwill Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354004005,
-    "wof:lastmodified":1449066536,
+    "wof:lastmodified":1466647611,
     "wof:name":"All Walls",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.900945,35.591937,-80.900945,35.591937],
-  "geometry": {"coordinates":[-80.900945,35.591937],"type":"Point"}
+  "bbox": [
+    -80.900945,
+    35.591937,
+    -80.900945,
+    35.591937
+],
+  "geometry": {"coordinates":[-80.90094499999999,35.591937],"type":"Point"}
 }

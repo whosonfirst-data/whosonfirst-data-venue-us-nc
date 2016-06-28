@@ -2,13 +2,14 @@
   "id": 303473801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.839599,34.236391,-77.839599,34.236391",
     "geom:latitude":34.236391,
     "geom:longitude":-77.839599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Bay Creek Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303473801,
-    "wof:lastmodified":1448998624,
+    "wof:lastmodified":1466650161,
     "wof:name":"Magi LLC",
     "wof:parent_id":85809845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.839599,34.236391,-77.839599,34.236391],
-  "geometry": {"coordinates":[-77.839599,34.236391],"type":"Point"}
+  "bbox": [
+    -77.839599,
+    34.236391,
+    -77.839599,
+    34.236391
+],
+  "geometry": {"coordinates":[-77.83959900000001,34.236391],"type":"Point"}
 }

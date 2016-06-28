@@ -2,13 +2,14 @@
   "id": 337417157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945011,34.237933,-77.945011,34.237933",
     "geom:latitude":34.237933,
     "geom:longitude":-77.945011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Chestnut St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337417157,
-    "wof:lastmodified":1449027270,
+    "wof:lastmodified":1466646864,
     "wof:name":"Wilmington Business Licenses",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-77.945011,34.237933,-77.945011,34.237933],
-  "geometry": {"coordinates":[-77.945011,34.237933],"type":"Point"}
+  "bbox": [
+    -77.945011,
+    34.237933,
+    -77.945011,
+    34.237933
+],
+  "geometry": {"coordinates":[-77.94501099999999,34.237933],"type":"Point"}
 }

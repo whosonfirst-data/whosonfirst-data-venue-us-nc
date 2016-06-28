@@ -2,13 +2,14 @@
   "id": 337323221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.987789,35.490085,-82.987789,35.490085",
     "geom:latitude":35.490085,
     "geom:longitude":-82.987789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 N Main St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337323221,
-    "wof:lastmodified":1449027016,
+    "wof:lastmodified":1466646356,
     "wof:name":"WQNS",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-82.987789,35.490085,-82.987789,35.490085],
-  "geometry": {"coordinates":[-82.987789,35.490085],"type":"Point"}
+  "bbox": [
+    -82.987789,
+    35.490085,
+    -82.987789,
+    35.490085
+],
+  "geometry": {"coordinates":[-82.98778900000001,35.490085],"type":"Point"}
 }

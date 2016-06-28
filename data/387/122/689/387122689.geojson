@@ -2,13 +2,14 @@
   "id": 387122689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.346426,34.736746,-79.346426,34.736746",
     "geom:latitude":34.736746,
     "geom:longitude":-79.346426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Wilmington St",
     "sg:city":"Maxton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387122689,
-    "wof:lastmodified":1449058265,
+    "wof:lastmodified":1466651443,
     "wof:name":"Grahams Groceries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.346426,34.736746,-79.346426,34.736746],
-  "geometry": {"coordinates":[-79.346426,34.736746],"type":"Point"}
+  "bbox": [
+    -79.346426,
+    34.736746,
+    -79.346426,
+    34.736746
+],
+  "geometry": {"coordinates":[-79.34642599999999,34.736746],"type":"Point"}
 }

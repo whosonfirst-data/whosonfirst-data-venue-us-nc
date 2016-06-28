@@ -2,13 +2,14 @@
   "id": 203271311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.983416,35.986442,-79.983416,35.986442",
     "geom:latitude":35.986442,
     "geom:longitude":-79.983416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1913 Boulding Ave",
     "sg:city":"High Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203271311,
-    "wof:lastmodified":1449025931,
+    "wof:lastmodified":1466655717,
     "wof:name":"Now Express Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-79.983416,35.986442,-79.983416,35.986442],
-  "geometry": {"coordinates":[-79.983416,35.986442],"type":"Point"}
+  "bbox": [
+    -79.983416,
+    35.986442,
+    -79.983416,
+    35.986442
+],
+  "geometry": {"coordinates":[-79.98341600000001,35.986442],"type":"Point"}
 }

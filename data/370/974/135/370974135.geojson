@@ -2,13 +2,14 @@
   "id": 370974135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.900373,34.370803,-77.900373,34.370803",
     "geom:latitude":34.370803,
     "geom:longitude":-77.900373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 Old Bridge Site Rd",
     "sg:city":"Castle Hayne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370974135,
-    "wof:lastmodified":1449032027,
+    "wof:lastmodified":1466657238,
     "wof:name":"William Hickman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.900373,34.370803,-77.900373,34.370803],
+  "bbox": [
+    -77.900373,
+    34.370803,
+    -77.900373,
+    34.370803
+],
   "geometry": {"coordinates":[-77.900373,34.370803],"type":"Point"}
 }

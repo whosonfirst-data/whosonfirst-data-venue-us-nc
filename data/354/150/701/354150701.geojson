@@ -2,13 +2,14 @@
   "id": 354150701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.981733,35.181008,-78.981733,35.181008",
     "geom:latitude":35.181008,
     "geom:longitude":-78.981733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 N Bragg Blvd",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354150701,
-    "wof:lastmodified":1449065954,
+    "wof:lastmodified":1466649303,
     "wof:name":"Colortyme",
     "wof:parent_id":85803425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rental"
     ]
 },
-  "bbox": [-78.981733,35.181008,-78.981733,35.181008],
-  "geometry": {"coordinates":[-78.981733,35.181008],"type":"Point"}
+  "bbox": [
+    -78.981733,
+    35.181008,
+    -78.981733,
+    35.181008
+],
+  "geometry": {"coordinates":[-78.98173300000001,35.181008],"type":"Point"}
 }

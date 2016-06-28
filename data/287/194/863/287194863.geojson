@@ -2,13 +2,14 @@
   "id": 287194863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.958954,35.906151,-79.958954,35.906151",
     "geom:latitude":35.906151,
     "geom:longitude":-79.958954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10193 N Main St",
     "sg:city":"Archdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287194863,
-    "wof:lastmodified":1449001442,
+    "wof:lastmodified":1466646014,
     "wof:name":"US Post Office",
     "wof:parent_id":85843865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.958954,35.906151,-79.958954,35.906151],
-  "geometry": {"coordinates":[-79.958954,35.906151],"type":"Point"}
+  "bbox": [
+    -79.958954,
+    35.906151,
+    -79.958954,
+    35.906151
+],
+  "geometry": {"coordinates":[-79.95895400000001,35.906151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286735129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.504753,35.13181,-80.504753,35.13181",
     "geom:latitude":35.13181,
     "geom:longitude":-80.504753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Old Fish Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286735129,
-    "wof:lastmodified":1449018013,
+    "wof:lastmodified":1466649580,
     "wof:name":"Hinson Masonry",
     "wof:parent_id":85812565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.504753,35.13181,-80.504753,35.13181],
-  "geometry": {"coordinates":[-80.504753,35.13181],"type":"Point"}
+  "bbox": [
+    -80.504753,
+    35.13181,
+    -80.504753,
+    35.13181
+],
+  "geometry": {"coordinates":[-80.50475299999999,35.13181],"type":"Point"}
 }

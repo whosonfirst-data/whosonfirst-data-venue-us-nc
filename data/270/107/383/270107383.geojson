@@ -2,13 +2,14 @@
   "id": 270107383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.580632,35.240541,-78.580632,35.240541",
     "geom:latitude":35.240541,
     "geom:longitude":-78.580632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3231 N Spring Branch Rd",
     "sg:city":"Dunn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270107383,
-    "wof:lastmodified":1449008673,
+    "wof:lastmodified":1466644448,
     "wof:name":"Pope Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.580632,35.240541,-78.580632,35.240541],
-  "geometry": {"coordinates":[-78.580632,35.240541],"type":"Point"}
+  "bbox": [
+    -78.580632,
+    35.240541,
+    -78.580632,
+    35.240541
+],
+  "geometry": {"coordinates":[-78.58063199999999,35.240541],"type":"Point"}
 }

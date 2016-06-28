@@ -2,13 +2,14 @@
   "id": 320730501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.456243,35.649022,-78.456243,35.649022",
     "geom:latitude":35.649022,
     "geom:longitude":-78.456243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 E 2nd St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320730501,
-    "wof:lastmodified":1449014372,
+    "wof:lastmodified":1466655684,
     "wof:name":"Cleanrite Cleaners Inc",
     "wof:parent_id":85845801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-78.456243,35.649022,-78.456243,35.649022],
+  "bbox": [
+    -78.456243,
+    35.649022,
+    -78.456243,
+    35.649022
+],
   "geometry": {"coordinates":[-78.456243,35.649022],"type":"Point"}
 }

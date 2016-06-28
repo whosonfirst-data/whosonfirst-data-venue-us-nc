@@ -2,13 +2,14 @@
   "id": 320367063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.529484,36.099742,-79.529484,36.099742",
     "geom:latitude":36.099742,
     "geom:longitude":-79.529484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Springhill Ln",
     "sg:city":"Gibsonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320367063,
-    "wof:lastmodified":1449013463,
+    "wof:lastmodified":1466650444,
     "wof:name":"Asset Appraisals",
     "wof:parent_id":85856687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-79.529484,36.099742,-79.529484,36.099742],
+  "bbox": [
+    -79.529484,
+    36.099742,
+    -79.529484,
+    36.099742
+],
   "geometry": {"coordinates":[-79.529484,36.099742],"type":"Point"}
 }

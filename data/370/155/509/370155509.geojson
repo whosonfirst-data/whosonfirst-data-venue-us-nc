@@ -2,13 +2,14 @@
   "id": 370155509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.441251,35.286005,-81.441251,35.286005",
     "geom:latitude":35.286005,
     "geom:longitude":-81.441251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Oakmount Dr",
     "sg:city":"Kings Mountain",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370155509,
-    "wof:lastmodified":1449031882,
+    "wof:lastmodified":1466648184,
     "wof:name":"Judy D Camp Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.441251,35.286005,-81.441251,35.286005],
-  "geometry": {"coordinates":[-81.441251,35.286005],"type":"Point"}
+  "bbox": [
+    -81.441251,
+    35.286005,
+    -81.441251,
+    35.286005
+],
+  "geometry": {"coordinates":[-81.44125099999999,35.286005],"type":"Point"}
 }

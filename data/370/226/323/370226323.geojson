@@ -2,13 +2,14 @@
   "id": 370226323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.890571,36.531369,-77.890571,36.531369",
     "geom:latitude":36.531369,
     "geom:longitude":-77.890571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Springwood Ln",
     "sg:city":"Henrico",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370226323,
-    "wof:lastmodified":1449031545,
+    "wof:lastmodified":1466649100,
     "wof:name":"Rodgers Classic Organs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organs"
     ]
 },
-  "bbox": [-77.890571,36.531369,-77.890571,36.531369],
-  "geometry": {"coordinates":[-77.890571,36.531369],"type":"Point"}
+  "bbox": [
+    -77.890571,
+    36.531369,
+    -77.890571,
+    36.531369
+],
+  "geometry": {"coordinates":[-77.89057099999999,36.531369],"type":"Point"}
 }

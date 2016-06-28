@@ -2,13 +2,14 @@
   "id": 353764195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.549664,35.381191,-78.549664,35.381191",
     "geom:latitude":35.381191,
     "geom:longitude":-78.549664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Wall St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353764195,
-    "wof:lastmodified":1449020668,
+    "wof:lastmodified":1466651350,
     "wof:name":"Blackman Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.549664,35.381191,-78.549664,35.381191],
-  "geometry": {"coordinates":[-78.549664,35.381191],"type":"Point"}
+  "bbox": [
+    -78.549664,
+    35.381191,
+    -78.549664,
+    35.381191
+],
+  "geometry": {"coordinates":[-78.54966400000001,35.381191],"type":"Point"}
 }

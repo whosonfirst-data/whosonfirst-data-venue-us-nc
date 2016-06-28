@@ -2,13 +2,14 @@
   "id": 287294515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.25705,35.830704,-80.25705,35.830704",
     "geom:latitude":35.830704,
     "geom:longitude":-80.25705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Williams Cir",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287294515,
-    "wof:lastmodified":1449001310,
+    "wof:lastmodified":1466647382,
     "wof:name":"Charles T Parker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.25705,35.830704,-80.25705,35.830704],
-  "geometry": {"coordinates":[-80.25705,35.830704],"type":"Point"}
+  "bbox": [
+    -80.25705,
+    35.830704,
+    -80.25705,
+    35.830704
+],
+  "geometry": {"coordinates":[-80.25705000000001,35.830704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403985157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.247089,36.294752,-76.247089,36.294752",
     "geom:latitude":36.294752,
     "geom:longitude":-76.247089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Halstead Blvd",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403985157,
-    "wof:lastmodified":1449055298,
+    "wof:lastmodified":1466654004,
     "wof:name":"Service Center Outdoor Power",
     "wof:parent_id":85840077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mower"
     ]
 },
-  "bbox": [-76.247089,36.294752,-76.247089,36.294752],
+  "bbox": [
+    -76.247089,
+    36.294752,
+    -76.247089,
+    36.294752
+],
   "geometry": {"coordinates":[-76.247089,36.294752],"type":"Point"}
 }

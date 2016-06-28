@@ -2,13 +2,14 @@
   "id": 303811171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.000851,36.068423,-79.000851,36.068423",
     "geom:latitude":36.068423,
     "geom:longitude":-79.000851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5311 Emeraldwood Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303811171,
-    "wof:lastmodified":1448999296,
+    "wof:lastmodified":1466655026,
     "wof:name":"Westbrook & Westbrook",
     "wof:parent_id":85807487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-79.000851,36.068423,-79.000851,36.068423],
+  "bbox": [
+    -79.000851,
+    36.068423,
+    -79.000851,
+    36.068423
+],
   "geometry": {"coordinates":[-79.000851,36.068423],"type":"Point"}
 }

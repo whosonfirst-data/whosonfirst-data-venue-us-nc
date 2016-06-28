@@ -2,13 +2,14 @@
   "id": 236707709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.551527,35.641225,-80.551527,35.641225",
     "geom:latitude":35.641225,
     "geom:longitude":-80.551527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Cedar Dr",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236707709,
-    "wof:lastmodified":1449004621,
+    "wof:lastmodified":1466649550,
     "wof:name":"Micro Circuts Diversified",
     "wof:parent_id":85839727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.551527,35.641225,-80.551527,35.641225],
-  "geometry": {"coordinates":[-80.551527,35.641225],"type":"Point"}
+  "bbox": [
+    -80.551527,
+    35.641225,
+    -80.551527,
+    35.641225
+],
+  "geometry": {"coordinates":[-80.55152699999999,35.641225],"type":"Point"}
 }

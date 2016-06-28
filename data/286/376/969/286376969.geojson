@@ -2,13 +2,14 @@
   "id": 286376969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.077193,35.06127,-77.077193,35.06127",
     "geom:latitude":35.06127,
     "geom:longitude":-77.077193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Barkside Ln",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286376969,
-    "wof:lastmodified":1449016191,
+    "wof:lastmodified":1466644726,
     "wof:name":"R W Edwards Inc",
     "wof:parent_id":85830487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-77.077193,35.06127,-77.077193,35.06127],
-  "geometry": {"coordinates":[-77.077193,35.06127],"type":"Point"}
+  "bbox": [
+    -77.077193,
+    35.06127,
+    -77.077193,
+    35.06127
+],
+  "geometry": {"coordinates":[-77.07719299999999,35.06127],"type":"Point"}
 }

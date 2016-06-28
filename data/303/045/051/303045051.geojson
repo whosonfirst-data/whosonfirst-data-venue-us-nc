@@ -2,13 +2,14 @@
   "id": 303045051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.380212,34.786409,-77.380212,34.786409",
     "geom:latitude":34.786409,
     "geom:longitude":-77.380212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 N Marine Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303045051,
-    "wof:lastmodified":1449000281,
+    "wof:lastmodified":1466643887,
     "wof:name":"Swans Realty",
     "wof:parent_id":85851533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.380212,34.786409,-77.380212,34.786409],
+  "bbox": [
+    -77.380212,
+    34.786409,
+    -77.380212,
+    34.786409
+],
   "geometry": {"coordinates":[-77.380212,34.786409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320128851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.768606,35.19885,-80.768606,35.19885",
     "geom:latitude":35.19885,
     "geom:longitude":-80.768606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4822 Albemarle Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":320128851,
-    "wof:lastmodified":1449012726,
+    "wof:lastmodified":1466647112,
     "wof:name":"Charlotte Mecklenberg N A A C",
     "wof:parent_id":85838939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.768606,35.19885,-80.768606,35.19885],
-  "geometry": {"coordinates":[-80.768606,35.19885],"type":"Point"}
+  "bbox": [
+    -80.768606,
+    35.19885,
+    -80.768606,
+    35.19885
+],
+  "geometry": {"coordinates":[-80.76860600000001,35.19885],"type":"Point"}
 }

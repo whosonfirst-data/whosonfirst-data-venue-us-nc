@@ -2,13 +2,14 @@
   "id": 269862621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.944162,35.363752,-81.944162,35.363752",
     "geom:latitude":35.363752,
     "geom:longitude":-81.944162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Laurel Dr",
     "sg:city":"Wadesboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269862621,
-    "wof:lastmodified":1449039056,
+    "wof:lastmodified":1466647646,
     "wof:name":"Laurel Commons Apartments",
     "wof:parent_id":85819215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.944162,35.363752,-81.944162,35.363752],
-  "geometry": {"coordinates":[-81.944162,35.363752],"type":"Point"}
+  "bbox": [
+    -81.944162,
+    35.363752,
+    -81.944162,
+    35.363752
+],
+  "geometry": {"coordinates":[-81.94416200000001,35.363752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203264191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.948095,35.567558,-80.948095,35.567558",
     "geom:latitude":35.567558,
     "geom:longitude":-80.948095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Kemp Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203264191,
-    "wof:lastmodified":1449026211,
+    "wof:lastmodified":1466655686,
     "wof:name":"Christenbury Home Inspection",
     "wof:parent_id":85824803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.948095,35.567558,-80.948095,35.567558],
+  "bbox": [
+    -80.948095,
+    35.567558,
+    -80.948095,
+    35.567558
+],
   "geometry": {"coordinates":[-80.948095,35.567558],"type":"Point"}
 }

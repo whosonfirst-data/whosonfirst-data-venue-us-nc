@@ -2,13 +2,14 @@
   "id": 287044217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.960582,35.107846,-78.960582,35.107846",
     "geom:latitude":35.107846,
     "geom:longitude":-78.960582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Bragg Blvd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287044217,
-    "wof:lastmodified":1449001128,
+    "wof:lastmodified":1466643851,
     "wof:name":"Midsouth Transmission Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-78.960582,35.107846,-78.960582,35.107846],
+  "bbox": [
+    -78.960582,
+    35.107846,
+    -78.960582,
+    35.107846
+],
   "geometry": {"coordinates":[-78.960582,35.107846],"type":"Point"}
 }

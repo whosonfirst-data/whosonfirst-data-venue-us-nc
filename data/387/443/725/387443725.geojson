@@ -2,13 +2,14 @@
   "id": 387443725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.430164,36.088426,-79.430164,36.088426",
     "geom:latitude":36.088426,
     "geom:longitude":-79.430164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"653 E Webb Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387443725,
-    "wof:lastmodified":1449059217,
+    "wof:lastmodified":1466655681,
     "wof:name":"Wilco Service Station",
     "wof:parent_id":85841543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-79.430164,36.088426,-79.430164,36.088426],
+  "bbox": [
+    -79.430164,
+    36.088426,
+    -79.430164,
+    36.088426
+],
   "geometry": {"coordinates":[-79.430164,36.088426],"type":"Point"}
 }

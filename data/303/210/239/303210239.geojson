@@ -2,13 +2,14 @@
   "id": 303210239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.814515,36.158783,-79.814515,36.158783",
     "geom:latitude":36.158783,
     "geom:longitude":-79.814515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Reel Ct",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303210239,
-    "wof:lastmodified":1448998946,
+    "wof:lastmodified":1466646366,
     "wof:name":"G-Tex",
     "wof:parent_id":85877987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-79.814515,36.158783,-79.814515,36.158783],
+  "bbox": [
+    -79.814515,
+    36.158783,
+    -79.814515,
+    36.158783
+],
   "geometry": {"coordinates":[-79.814515,36.158783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387593643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.429246,35.652276,-81.429246,35.652276",
     "geom:latitude":35.652276,
     "geom:longitude":-81.429246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1192 J V Parker Dr",
     "sg:city":"Hickory",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387593643,
-    "wof:lastmodified":1449058636,
+    "wof:lastmodified":1466656838,
     "wof:name":"Whisnant Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.429246,35.652276,-81.429246,35.652276],
-  "geometry": {"coordinates":[-81.429246,35.652276],"type":"Point"}
+  "bbox": [
+    -81.429246,
+    35.652276,
+    -81.429246,
+    35.652276
+],
+  "geometry": {"coordinates":[-81.42924600000001,35.652276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370634051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.5922,35.800651,-78.5922,35.800651",
     "geom:latitude":35.800651,
     "geom:longitude":-78.5922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 Yonkers Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370634051,
-    "wof:lastmodified":1449030707,
+    "wof:lastmodified":1466654319,
     "wof:name":"Dish Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-78.5922,35.800651,-78.5922,35.800651],
-  "geometry": {"coordinates":[-78.5922,35.800651],"type":"Point"}
+  "bbox": [
+    -78.5922,
+    35.800651,
+    -78.5922,
+    35.800651
+],
+  "geometry": {"coordinates":[-78.59220000000001,35.800651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253236975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.952373,35.712334,-77.952373,35.712334",
     "geom:latitude":35.712334,
     "geom:longitude":-77.952373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2712 Forest Hills Rd SW",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253236975,
-    "wof:lastmodified":1449063126,
+    "wof:lastmodified":1466645446,
     "wof:name":"Forest Hills Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-77.952373,35.712334,-77.952373,35.712334],
-  "geometry": {"coordinates":[-77.952373,35.712334],"type":"Point"}
+  "bbox": [
+    -77.952373,
+    35.712334,
+    -77.952373,
+    35.712334
+],
+  "geometry": {"coordinates":[-77.95237299999999,35.712334],"type":"Point"}
 }

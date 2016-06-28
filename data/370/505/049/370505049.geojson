@@ -2,13 +2,14 @@
   "id": 370505049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.318408,34.752997,-78.318408,34.752997",
     "geom:latitude":34.752997,
     "geom:longitude":-78.318408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6041 Harrells Hwy",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370505049,
-    "wof:lastmodified":1449031906,
+    "wof:lastmodified":1466652618,
     "wof:name":"Johnson Breeders-Fisher Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.318408,34.752997,-78.318408,34.752997],
-  "geometry": {"coordinates":[-78.318408,34.752997],"type":"Point"}
+  "bbox": [
+    -78.318408,
+    34.752997,
+    -78.318408,
+    34.752997
+],
+  "geometry": {"coordinates":[-78.31840800000001,34.752997],"type":"Point"}
 }

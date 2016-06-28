@@ -2,13 +2,14 @@
   "id": 303260009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.787797,35.57292,-80.787797,35.57292",
     "geom:latitude":35.57292,
     "geom:longitude":-80.787797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Harris Farm Rd",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303260009,
-    "wof:lastmodified":1448998526,
+    "wof:lastmodified":1466647099,
     "wof:name":"Harris Village HOA",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.787797,35.57292,-80.787797,35.57292],
+  "bbox": [
+    -80.787797,
+    35.57292,
+    -80.787797,
+    35.57292
+],
   "geometry": {"coordinates":[-80.787797,35.57292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370294953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.968545,35.70172,-81.968545,35.70172",
     "geom:latitude":35.70172,
     "geom:longitude":-81.968545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2740 US Hwy 70 E",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370294953,
-    "wof:lastmodified":1449031505,
+    "wof:lastmodified":1466649962,
     "wof:name":"Duncan Shoe House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.968545,35.70172,-81.968545,35.70172],
-  "geometry": {"coordinates":[-81.968545,35.70172],"type":"Point"}
+  "bbox": [
+    -81.968545,
+    35.70172,
+    -81.968545,
+    35.70172
+],
+  "geometry": {"coordinates":[-81.96854500000001,35.70172],"type":"Point"}
 }

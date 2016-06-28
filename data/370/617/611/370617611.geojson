@@ -2,13 +2,14 @@
   "id": 370617611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.77567,35.760265,-78.77567,35.760265",
     "geom:latitude":35.760265,
     "geom:longitude":-78.77567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Parkview Cir",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370617611,
-    "wof:lastmodified":1449029183,
+    "wof:lastmodified":1466654105,
     "wof:name":"Mary Lynne Courtney PHD P C",
     "wof:parent_id":85818981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-78.77567,35.760265,-78.77567,35.760265],
-  "geometry": {"coordinates":[-78.77567,35.760265],"type":"Point"}
+  "bbox": [
+    -78.77567,
+    35.760265,
+    -78.77567,
+    35.760265
+],
+  "geometry": {"coordinates":[-78.77567000000001,35.760265],"type":"Point"}
 }

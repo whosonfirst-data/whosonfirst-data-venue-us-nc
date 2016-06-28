@@ -2,13 +2,14 @@
   "id": 386997101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.539185,35.906963,-77.539185,35.906963",
     "geom:latitude":35.906963,
     "geom:longitude":-77.539185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Saint Andrew St",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386997101,
-    "wof:lastmodified":1449028901,
+    "wof:lastmodified":1466650279,
     "wof:name":"R & S Properties",
     "wof:parent_id":85856477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.539185,35.906963,-77.539185,35.906963],
+  "bbox": [
+    -77.539185,
+    35.906963,
+    -77.539185,
+    35.906963
+],
   "geometry": {"coordinates":[-77.539185,35.906963],"type":"Point"}
 }

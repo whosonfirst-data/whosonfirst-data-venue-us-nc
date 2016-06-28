@@ -2,13 +2,14 @@
   "id": 220034879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.752507,35.927732,-78.752507,35.927732",
     "geom:latitude":35.927732,
     "geom:longitude":-78.752507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 Crossfield Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220034879,
-    "wof:lastmodified":1449074119,
+    "wof:lastmodified":1466643485,
     "wof:name":"Global Dispensing Systems",
     "wof:parent_id":85892071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-78.752507,35.927732,-78.752507,35.927732],
-  "geometry": {"coordinates":[-78.752507,35.927732],"type":"Point"}
+  "bbox": [
+    -78.752507,
+    35.927732,
+    -78.752507,
+    35.927732
+],
+  "geometry": {"coordinates":[-78.75250699999999,35.927732],"type":"Point"}
 }

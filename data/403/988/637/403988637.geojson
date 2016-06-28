@@ -2,13 +2,14 @@
   "id": 403988637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256898,35.782364,-80.256898,35.782364",
     "geom:latitude":35.782364,
     "geom:longitude":-80.256898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Plaza Pkwy",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403988637,
-    "wof:lastmodified":1449055083,
+    "wof:lastmodified":1466654051,
     "wof:name":"Shoe Dept 275",
     "wof:parent_id":85833799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.256898,35.782364,-80.256898,35.782364],
-  "geometry": {"coordinates":[-80.256898,35.782364],"type":"Point"}
+  "bbox": [
+    -80.256898,
+    35.782364,
+    -80.256898,
+    35.782364
+],
+  "geometry": {"coordinates":[-80.25689800000001,35.782364],"type":"Point"}
 }

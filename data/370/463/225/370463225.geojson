@@ -2,13 +2,14 @@
   "id": 370463225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.810013,35.784813,-78.810013,35.784813",
     "geom:latitude":35.784813,
     "geom:longitude":-78.810013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1251 NW Maynard Rd",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370463225,
-    "wof:lastmodified":1449031435,
+    "wof:lastmodified":1466652085,
     "wof:name":"Disaster Reconstruction Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.810013,35.784813,-78.810013,35.784813],
+  "bbox": [
+    -78.810013,
+    35.784813,
+    -78.810013,
+    35.784813
+],
   "geometry": {"coordinates":[-78.810013,35.784813],"type":"Point"}
 }

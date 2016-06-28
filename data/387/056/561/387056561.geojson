@@ -2,13 +2,14 @@
   "id": 387056561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.509396,35.975166,-78.509396,35.975166",
     "geom:latitude":35.975166,
     "geom:longitude":-78.509396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Brooks St",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387056561,
-    "wof:lastmodified":1449057188,
+    "wof:lastmodified":1466650594,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85892185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.509396,35.975166,-78.509396,35.975166],
+  "bbox": [
+    -78.509396,
+    35.975166,
+    -78.509396,
+    35.975166
+],
   "geometry": {"coordinates":[-78.509396,35.975166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270019101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.607672,35.852676,-78.607672,35.852676",
     "geom:latitude":35.852676,
     "geom:longitude":-78.607672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4932 Windy Hill Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270019101,
-    "wof:lastmodified":1449010060,
+    "wof:lastmodified":1466643422,
     "wof:name":"Mc Intyre & Assoc",
     "wof:parent_id":85854217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-78.607672,35.852676,-78.607672,35.852676],
-  "geometry": {"coordinates":[-78.607672,35.852676],"type":"Point"}
+  "bbox": [
+    -78.607672,
+    35.852676,
+    -78.607672,
+    35.852676
+],
+  "geometry": {"coordinates":[-78.60767199999999,35.852676],"type":"Point"}
 }

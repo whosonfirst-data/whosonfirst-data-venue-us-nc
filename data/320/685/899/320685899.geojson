@@ -2,13 +2,14 @@
   "id": 320685899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.509748,35.585832,-82.509748,35.585832",
     "geom:latitude":35.585832,
     "geom:longitude":-82.509748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Overbrook Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320685899,
-    "wof:lastmodified":1449014876,
+    "wof:lastmodified":1466655063,
     "wof:name":"Asheville Bravo Concerts",
     "wof:parent_id":85806005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concert"
     ]
 },
-  "bbox": [-82.509748,35.585832,-82.509748,35.585832],
+  "bbox": [
+    -82.509748,
+    35.585832,
+    -82.509748,
+    35.585832
+],
   "geometry": {"coordinates":[-82.509748,35.585832],"type":"Point"}
 }

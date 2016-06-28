@@ -2,13 +2,14 @@
   "id": 219718725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.745476,35.345243,-80.745476,35.345243",
     "geom:latitude":35.345243,
     "geom:longitude":-80.745476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1534 Copperplate Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":219718725,
-    "wof:lastmodified":1449071156,
+    "wof:lastmodified":1466646499,
     "wof:name":"Universal Business Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-80.745476,35.345243,-80.745476,35.345243],
+  "bbox": [
+    -80.745476,
+    35.345243,
+    -80.745476,
+    35.345243
+],
   "geometry": {"coordinates":[-80.745476,35.345243],"type":"Point"}
 }

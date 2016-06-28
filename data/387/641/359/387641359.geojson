@@ -2,13 +2,14 @@
   "id": 387641359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.378897,35.633884,-79.378897,35.633884",
     "geom:latitude":35.633884,
     "geom:longitude":-79.378897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Barker Rd",
     "sg:city":"Bear Creek",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387641359,
-    "wof:lastmodified":1449058994,
+    "wof:lastmodified":1466657109,
     "wof:name":"Raleigh National Open Cribbage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.378897,35.633884,-79.378897,35.633884],
-  "geometry": {"coordinates":[-79.378897,35.633884],"type":"Point"}
+  "bbox": [
+    -79.378897,
+    35.633884,
+    -79.378897,
+    35.633884
+],
+  "geometry": {"coordinates":[-79.37889699999999,35.633884],"type":"Point"}
 }

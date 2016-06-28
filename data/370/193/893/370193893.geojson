@@ -2,13 +2,14 @@
   "id": 370193893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.171668,36.141168,-81.171668,36.141168",
     "geom:latitude":36.141168,
     "geom:longitude":-81.171668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 River St",
     "sg:city":"Wilkesboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370193893,
-    "wof:lastmodified":1449029635,
+    "wof:lastmodified":1466648693,
     "wof:name":"Contract Welding Svc",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.171668,36.141168,-81.171668,36.141168],
+  "bbox": [
+    -81.171668,
+    36.141168,
+    -81.171668,
+    36.141168
+],
   "geometry": {"coordinates":[-81.171668,36.141168],"type":"Point"}
 }

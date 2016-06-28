@@ -2,13 +2,14 @@
   "id": 286747971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.852911,35.208664,-80.852911,35.208664",
     "geom:latitude":35.208664,
     "geom:longitude":-80.852911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Winthrop Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286747971,
-    "wof:lastmodified":1449015698,
+    "wof:lastmodified":1466649754,
     "wof:name":"House Of Bartlett",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.852911,35.208664,-80.852911,35.208664],
-  "geometry": {"coordinates":[-80.852911,35.208664],"type":"Point"}
+  "bbox": [
+    -80.852911,
+    35.208664,
+    -80.852911,
+    35.208664
+],
+  "geometry": {"coordinates":[-80.85291100000001,35.208664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387412557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.421591,35.613672,-82.421591,35.613672",
     "geom:latitude":35.613672,
     "geom:longitude":-82.421591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Riddle Rd",
     "sg:city":"Swannanoa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387412557,
-    "wof:lastmodified":1449056876,
+    "wof:lastmodified":1466655277,
     "wof:name":"Blue Ridge Lock & Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-82.421591,35.613672,-82.421591,35.613672],
-  "geometry": {"coordinates":[-82.421591,35.613672],"type":"Point"}
+  "bbox": [
+    -82.421591,
+    35.613672,
+    -82.421591,
+    35.613672
+],
+  "geometry": {"coordinates":[-82.42159100000001,35.613672],"type":"Point"}
 }

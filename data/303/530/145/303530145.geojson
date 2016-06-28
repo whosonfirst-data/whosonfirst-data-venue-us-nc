@@ -2,13 +2,14 @@
   "id": 303530145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.621411,36.008527,-79.621411,36.008527",
     "geom:latitude":36.008527,
     "geom:longitude":-79.621411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Mount Hope Church Rd",
     "sg:city":"Whitsett",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303530145,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466650942,
     "wof:name":"Mount Hope Untd Church Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.621411,36.008527,-79.621411,36.008527],
-  "geometry": {"coordinates":[-79.621411,36.008527],"type":"Point"}
+  "bbox": [
+    -79.621411,
+    36.008527,
+    -79.621411,
+    36.008527
+],
+  "geometry": {"coordinates":[-79.62141099999999,36.008527],"type":"Point"}
 }

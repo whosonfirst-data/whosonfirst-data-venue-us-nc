@@ -2,13 +2,14 @@
   "id": 304046683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.073484,36.119421,-80.073484,36.119421",
     "geom:latitude":36.119421,
     "geom:longitude":-80.073484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Main St",
     "sg:city":"Kernersville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":304046683,
-    "wof:lastmodified":1449043927,
+    "wof:lastmodified":1466644824,
     "wof:name":"John C Pegg Auction & Apprsl",
     "wof:parent_id":85852277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-80.073484,36.119421,-80.073484,36.119421],
-  "geometry": {"coordinates":[-80.073484,36.119421],"type":"Point"}
+  "bbox": [
+    -80.073484,
+    36.119421,
+    -80.073484,
+    36.119421
+],
+  "geometry": {"coordinates":[-80.07348399999999,36.119421],"type":"Point"}
 }

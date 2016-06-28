@@ -2,13 +2,14 @@
   "id": 320318987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.819984,35.571525,-80.819984,35.571525",
     "geom:latitude":35.571525,
     "geom:longitude":-80.819984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"648 Smith St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320318987,
-    "wof:lastmodified":1449012080,
+    "wof:lastmodified":1466649748,
     "wof:name":"Apparent Choice Hm Imprvmt Inc",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-80.819984,35.571525,-80.819984,35.571525],
-  "geometry": {"coordinates":[-80.819984,35.571525],"type":"Point"}
+  "bbox": [
+    -80.819984,
+    35.571525,
+    -80.819984,
+    35.571525
+],
+  "geometry": {"coordinates":[-80.81998400000001,35.571525],"type":"Point"}
 }

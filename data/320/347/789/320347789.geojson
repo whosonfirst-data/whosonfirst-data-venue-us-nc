@@ -2,13 +2,14 @@
   "id": 320347789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.569819,35.891107,-80.569819,35.891107",
     "geom:latitude":35.891107,
     "geom:longitude":-80.569819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Sanford Ave",
     "sg:city":"Mocksville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320347789,
-    "wof:lastmodified":1449013065,
+    "wof:lastmodified":1466650173,
     "wof:name":"CAM Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-80.569819,35.891107,-80.569819,35.891107],
+  "bbox": [
+    -80.569819,
+    35.891107,
+    -80.569819,
+    35.891107
+],
   "geometry": {"coordinates":[-80.569819,35.891107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202806461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.891128,34.180804,-77.891128,34.180804",
     "geom:latitude":34.180804,
     "geom:longitude":-77.891128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3514 S College Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202806461,
-    "wof:lastmodified":1449060101,
+    "wof:lastmodified":1466644214,
     "wof:name":"Eastern Carolina Express",
     "wof:parent_id":85817219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-77.891128,34.180804,-77.891128,34.180804],
-  "geometry": {"coordinates":[-77.891128,34.180804],"type":"Point"}
+  "bbox": [
+    -77.891128,
+    34.180804,
+    -77.891128,
+    34.180804
+],
+  "geometry": {"coordinates":[-77.89112799999999,34.180804],"type":"Point"}
 }

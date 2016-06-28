@@ -2,13 +2,14 @@
   "id": 387689843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.189619,35.246029,-81.189619,35.246029",
     "geom:latitude":35.246029,
     "geom:longitude":-81.189619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Oakwood Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387689843,
-    "wof:lastmodified":1449059280,
+    "wof:lastmodified":1466657360,
     "wof:name":"Federated Insurance",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.189619,35.246029,-81.189619,35.246029],
-  "geometry": {"coordinates":[-81.189619,35.246029],"type":"Point"}
+  "bbox": [
+    -81.189619,
+    35.246029,
+    -81.189619,
+    35.246029
+],
+  "geometry": {"coordinates":[-81.18961899999999,35.246029],"type":"Point"}
 }

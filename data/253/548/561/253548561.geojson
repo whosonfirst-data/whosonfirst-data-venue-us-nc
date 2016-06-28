@@ -2,13 +2,14 @@
   "id": 253548561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.763652,36.117134,-79.763652,36.117134",
     "geom:latitude":36.117134,
     "geom:longitude":-79.763652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3107 Summit Ave",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253548561,
-    "wof:lastmodified":1449064888,
+    "wof:lastmodified":1466648947,
     "wof:name":"Cafe Trung Nguyen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.763652,36.117134,-79.763652,36.117134],
-  "geometry": {"coordinates":[-79.763652,36.117134],"type":"Point"}
+  "bbox": [
+    -79.763652,
+    36.117134,
+    -79.763652,
+    36.117134
+],
+  "geometry": {"coordinates":[-79.76365199999999,36.117134],"type":"Point"}
 }

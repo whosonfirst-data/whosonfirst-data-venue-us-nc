@@ -2,13 +2,14 @@
   "id": 404192083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.422367,36.329198,-78.422367,36.329198",
     "geom:latitude":36.329198,
     "geom:longitude":-78.422367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Wakefield Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404192083,
-    "wof:lastmodified":1449039978,
+    "wof:lastmodified":1466653735,
     "wof:name":"Bullock's Appliance Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-78.422367,36.329198,-78.422367,36.329198],
-  "geometry": {"coordinates":[-78.422367,36.329198],"type":"Point"}
+  "bbox": [
+    -78.422367,
+    36.329198,
+    -78.422367,
+    36.329198
+],
+  "geometry": {"coordinates":[-78.42236699999999,36.329198],"type":"Point"}
 }

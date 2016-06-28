@@ -2,13 +2,14 @@
   "id": 303345683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.560111,35.899758,-77.560111,35.899758",
     "geom:latitude":35.899758,
     "geom:longitude":-77.560111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Howard Ave",
     "sg:city":"Tarboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303345683,
-    "wof:lastmodified":1449000373,
+    "wof:lastmodified":1466648285,
     "wof:name":"Parkhill Mall Leasing Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-77.560111,35.899758,-77.560111,35.899758],
-  "geometry": {"coordinates":[-77.560111,35.899758],"type":"Point"}
+  "bbox": [
+    -77.560111,
+    35.899758,
+    -77.560111,
+    35.899758
+],
+  "geometry": {"coordinates":[-77.56011100000001,35.899758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370976189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.344079,36.1869,-80.344079,36.1869",
     "geom:latitude":36.1869,
     "geom:longitude":-80.344079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3251 High Cliffs Rd",
     "sg:city":"Pfafftown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370976189,
-    "wof:lastmodified":1449030486,
+    "wof:lastmodified":1466657095,
     "wof:name":"Washburn Interior Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.344079,36.1869,-80.344079,36.1869],
-  "geometry": {"coordinates":[-80.344079,36.1869],"type":"Point"}
+  "bbox": [
+    -80.344079,
+    36.1869,
+    -80.344079,
+    36.1869
+],
+  "geometry": {"coordinates":[-80.34407899999999,36.1869],"type":"Point"}
 }

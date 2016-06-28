@@ -2,13 +2,14 @@
   "id": 286963549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.180393,35.281122,-81.180393,35.281122",
     "geom:latitude":35.281122,
     "geom:longitude":-81.180393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 Woodhill Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":286963549,
-    "wof:lastmodified":1449015464,
+    "wof:lastmodified":1466652708,
     "wof:name":"Woodhill Elementary School",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-81.180393,35.281122,-81.180393,35.281122],
+  "bbox": [
+    -81.180393,
+    35.281122,
+    -81.180393,
+    35.281122
+],
   "geometry": {"coordinates":[-81.180393,35.281122],"type":"Point"}
 }

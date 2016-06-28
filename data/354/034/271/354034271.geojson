@@ -2,13 +2,14 @@
   "id": 354034271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.351109,34.826735,-77.351109,34.826735",
     "geom:latitude":34.826735,
     "geom:longitude":-77.351109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Kellum Loop Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354034271,
-    "wof:lastmodified":1449066124,
+    "wof:lastmodified":1466647941,
     "wof:name":"Allen Goodson Logging Co",
     "wof:parent_id":85839091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.351109,34.826735,-77.351109,34.826735],
-  "geometry": {"coordinates":[-77.351109,34.826735],"type":"Point"}
+  "bbox": [
+    -77.351109,
+    34.826735,
+    -77.351109,
+    34.826735
+],
+  "geometry": {"coordinates":[-77.35110899999999,34.826735],"type":"Point"}
 }

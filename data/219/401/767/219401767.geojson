@@ -2,13 +2,14 @@
   "id": 219401767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.218759,35.367126,-81.218759,35.367126",
     "geom:latitude":35.367126,
     "geom:longitude":-81.218759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Huffstetler Lake Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219401767,
-    "wof:lastmodified":1449073388,
+    "wof:lastmodified":1466644156,
     "wof:name":"Ranger Concrete Construction",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.218759,35.367126,-81.218759,35.367126],
-  "geometry": {"coordinates":[-81.218759,35.367126],"type":"Point"}
+  "bbox": [
+    -81.218759,
+    35.367126,
+    -81.218759,
+    35.367126
+],
+  "geometry": {"coordinates":[-81.21875900000001,35.367126],"type":"Point"}
 }

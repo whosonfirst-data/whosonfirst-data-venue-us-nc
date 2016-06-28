@@ -2,13 +2,14 @@
   "id": 236441585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.649819,36.446066,-78.649819,36.446066",
     "geom:latitude":36.446066,
     "geom:longitude":-78.649819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Little Mountain Creek Rd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236441585,
-    "wof:lastmodified":1449001866,
+    "wof:lastmodified":1466647093,
     "wof:name":"Charley's Transmission Svc",
     "wof:parent_id":85826281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-78.649819,36.446066,-78.649819,36.446066],
-  "geometry": {"coordinates":[-78.649819,36.446066],"type":"Point"}
+  "bbox": [
+    -78.649819,
+    36.446066,
+    -78.649819,
+    36.446066
+],
+  "geometry": {"coordinates":[-78.64981899999999,36.446066],"type":"Point"}
 }

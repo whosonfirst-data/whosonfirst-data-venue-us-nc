@@ -2,13 +2,14 @@
   "id": 269703121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.652436,35.881718,-78.652436,35.881718",
     "geom:latitude":35.881718,
     "geom:longitude":-78.652436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Sawmill Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269703121,
-    "wof:lastmodified":1449036880,
+    "wof:lastmodified":1466645817,
     "wof:name":"Raleigh Residential Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.652436,35.881718,-78.652436,35.881718],
-  "geometry": {"coordinates":[-78.652436,35.881718],"type":"Point"}
+  "bbox": [
+    -78.652436,
+    35.881718,
+    -78.652436,
+    35.881718
+],
+  "geometry": {"coordinates":[-78.65243599999999,35.881718],"type":"Point"}
 }

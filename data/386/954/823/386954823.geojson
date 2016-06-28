@@ -2,13 +2,14 @@
   "id": 386954823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.177127,35.317558,-81.177127,35.317558",
     "geom:latitude":35.317558,
     "geom:longitude":-81.177127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Holland St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386954823,
-    "wof:lastmodified":1449028926,
+    "wof:lastmodified":1466649725,
     "wof:name":"Dallas Light Dept",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.177127,35.317558,-81.177127,35.317558],
+  "bbox": [
+    -81.177127,
+    35.317558,
+    -81.177127,
+    35.317558
+],
   "geometry": {"coordinates":[-81.177127,35.317558],"type":"Point"}
 }

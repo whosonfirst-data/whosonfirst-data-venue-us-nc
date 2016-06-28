@@ -2,13 +2,14 @@
   "id": 387656277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.759327,36.404312,-76.759327,36.404312",
     "geom:latitude":36.404312,
     "geom:longitude":-76.759327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 High St",
     "sg:city":"Gatesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387656277,
-    "wof:lastmodified":1449058589,
+    "wof:lastmodified":1466657167,
     "wof:name":"Lee Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-76.759327,36.404312,-76.759327,36.404312],
+  "bbox": [
+    -76.759327,
+    36.404312,
+    -76.759327,
+    36.404312
+],
   "geometry": {"coordinates":[-76.759327,36.404312],"type":"Point"}
 }

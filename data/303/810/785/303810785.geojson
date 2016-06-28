@@ -2,13 +2,14 @@
   "id": 303810785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.525348,35.852019,-78.525348,35.852019",
     "geom:latitude":35.852019,
     "geom:longitude":-78.525348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 Chestnut Cove",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303810785,
-    "wof:lastmodified":1448998826,
+    "wof:lastmodified":1466655021,
     "wof:name":"Four Seasons Catering",
     "wof:parent_id":85857937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-78.525348,35.852019,-78.525348,35.852019],
-  "geometry": {"coordinates":[-78.525348,35.852019],"type":"Point"}
+  "bbox": [
+    -78.525348,
+    35.852019,
+    -78.525348,
+    35.852019
+],
+  "geometry": {"coordinates":[-78.52534799999999,35.852019],"type":"Point"}
 }

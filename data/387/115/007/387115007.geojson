@@ -2,13 +2,14 @@
   "id": 387115007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.937367,35.910959,-78.937367,35.910959",
     "geom:latitude":35.910959,
     "geom:longitude":-78.937367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W State Hwy 54",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387115007,
-    "wof:lastmodified":1449056088,
+    "wof:lastmodified":1466651347,
     "wof:name":"H & S Cleaners",
     "wof:parent_id":85858607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-78.937367,35.910959,-78.937367,35.910959],
-  "geometry": {"coordinates":[-78.937367,35.910959],"type":"Point"}
+  "bbox": [
+    -78.937367,
+    35.910959,
+    -78.937367,
+    35.910959
+],
+  "geometry": {"coordinates":[-78.93736699999999,35.910959],"type":"Point"}
 }

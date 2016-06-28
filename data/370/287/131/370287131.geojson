@@ -2,13 +2,14 @@
   "id": 370287131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.646077,35.104778,-80.646077,35.104778",
     "geom:latitude":35.104778,
     "geom:longitude":-80.646077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7809 Stinson Hartis Rd",
     "sg:city":"Indian Trail",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370287131,
-    "wof:lastmodified":1449029285,
+    "wof:lastmodified":1466649861,
     "wof:name":"Edwards Hardware Inc",
     "wof:parent_id":85812565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.646077,35.104778,-80.646077,35.104778],
-  "geometry": {"coordinates":[-80.646077,35.104778],"type":"Point"}
+  "bbox": [
+    -80.646077,
+    35.104778,
+    -80.646077,
+    35.104778
+],
+  "geometry": {"coordinates":[-80.64607700000001,35.104778],"type":"Point"}
 }

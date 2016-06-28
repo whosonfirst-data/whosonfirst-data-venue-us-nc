@@ -2,13 +2,14 @@
   "id": 336890419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.904739,36.322359,-75.904739,36.322359",
     "geom:latitude":36.322359,
     "geom:longitude":-75.904739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Aydlett Rd",
     "sg:city":"Aydlett",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336890419,
-    "wof:lastmodified":1448997191,
+    "wof:lastmodified":1466650266,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.904739,36.322359,-75.904739,36.322359],
-  "geometry": {"coordinates":[-75.904739,36.322359],"type":"Point"}
+  "bbox": [
+    -75.904739,
+    36.322359,
+    -75.904739,
+    36.322359
+],
+  "geometry": {"coordinates":[-75.90473900000001,36.322359],"type":"Point"}
 }

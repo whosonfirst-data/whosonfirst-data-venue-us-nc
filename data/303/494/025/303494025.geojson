@@ -2,13 +2,14 @@
   "id": 303494025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.558016,34.698235,-76.558016,34.698235",
     "geom:latitude":34.698235,
     "geom:longitude":-76.558016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Fulford Dr",
     "sg:city":"Harkers Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303494025,
-    "wof:lastmodified":1449000300,
+    "wof:lastmodified":1466650437,
     "wof:name":"Basic Power Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.558016,34.698235,-76.558016,34.698235],
-  "geometry": {"coordinates":[-76.558016,34.698235],"type":"Point"}
+  "bbox": [
+    -76.558016,
+    34.698235,
+    -76.558016,
+    34.698235
+],
+  "geometry": {"coordinates":[-76.55801599999999,34.698235],"type":"Point"}
 }

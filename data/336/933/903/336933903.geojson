@@ -2,13 +2,14 @@
   "id": 336933903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.498151,35.526222,-77.498151,35.526222",
     "geom:latitude":35.526222,
     "geom:longitude":-77.498151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2263 Pocosin Rd",
     "sg:city":"Ayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336933903,
-    "wof:lastmodified":1448997169,
+    "wof:lastmodified":1466650933,
     "wof:name":"Simplicity Ranch",
     "wof:parent_id":85820763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-77.498151,35.526222,-77.498151,35.526222],
-  "geometry": {"coordinates":[-77.498151,35.526222],"type":"Point"}
+  "bbox": [
+    -77.498151,
+    35.526222,
+    -77.498151,
+    35.526222
+],
+  "geometry": {"coordinates":[-77.49815099999999,35.526222],"type":"Point"}
 }

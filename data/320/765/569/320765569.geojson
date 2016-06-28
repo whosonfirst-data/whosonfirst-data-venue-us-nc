@@ -2,13 +2,14 @@
   "id": 320765569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949497,34.203178,-77.949497,34.203178",
     "geom:latitude":34.203178,
     "geom:longitude":-77.949497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Northern Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320765569,
-    "wof:lastmodified":1449013420,
+    "wof:lastmodified":1466656265,
     "wof:name":"Sondra L North",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-77.949497,34.203178,-77.949497,34.203178],
-  "geometry": {"coordinates":[-77.949497,34.203178],"type":"Point"}
+  "bbox": [
+    -77.949497,
+    34.203178,
+    -77.949497,
+    34.203178
+],
+  "geometry": {"coordinates":[-77.94949699999999,34.203178],"type":"Point"}
 }

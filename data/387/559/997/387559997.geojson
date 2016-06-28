@@ -2,13 +2,14 @@
   "id": 387559997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.05209,35.551056,-77.05209,35.551056",
     "geom:latitude":35.551056,
     "geom:longitude":-77.05209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 W 9th St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387559997,
-    "wof:lastmodified":1449059080,
+    "wof:lastmodified":1466656601,
     "wof:name":"Trade Art",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-77.05209,35.551056,-77.05209,35.551056],
-  "geometry": {"coordinates":[-77.05209,35.551056],"type":"Point"}
+  "bbox": [
+    -77.05209,
+    35.551056,
+    -77.05209,
+    35.551056
+],
+  "geometry": {"coordinates":[-77.05209000000001,35.551056],"type":"Point"}
 }

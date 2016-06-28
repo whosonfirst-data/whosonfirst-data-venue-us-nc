@@ -2,13 +2,14 @@
   "id": 370183663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.684548,35.906366,-78.684548,35.906366",
     "geom:latitude":35.906366,
     "geom:longitude":-78.684548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8805 Ashdown Ct",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370183663,
-    "wof:lastmodified":1449030894,
+    "wof:lastmodified":1466648560,
     "wof:name":"Coble & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.684548,35.906366,-78.684548,35.906366],
-  "geometry": {"coordinates":[-78.684548,35.906366],"type":"Point"}
+  "bbox": [
+    -78.684548,
+    35.906366,
+    -78.684548,
+    35.906366
+],
+  "geometry": {"coordinates":[-78.68454800000001,35.906366],"type":"Point"}
 }

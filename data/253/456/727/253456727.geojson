@@ -2,13 +2,14 @@
   "id": 253456727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.070366,36.05596,-79.070366,36.05596",
     "geom:latitude":36.05596,
     "geom:longitude":-79.070366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 Jefferson Dr",
     "sg:city":"Hillsborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253456727,
-    "wof:lastmodified":1449063690,
+    "wof:lastmodified":1466647822,
     "wof:name":"Pat Tilley",
     "wof:parent_id":85818679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-79.070366,36.05596,-79.070366,36.05596],
-  "geometry": {"coordinates":[-79.070366,36.05596],"type":"Point"}
+  "bbox": [
+    -79.070366,
+    36.05596,
+    -79.070366,
+    36.05596
+],
+  "geometry": {"coordinates":[-79.07036600000001,36.05596],"type":"Point"}
 }

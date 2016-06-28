@@ -2,13 +2,14 @@
   "id": 353716761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.944257,35.733221,-77.944257,35.733221",
     "geom:latitude":35.733221,
     "geom:longitude":-77.944257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 Woodside Dr W",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353716761,
-    "wof:lastmodified":1449018616,
+    "wof:lastmodified":1466650818,
     "wof:name":"Boyette Windshield Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "replacement"
     ]
 },
-  "bbox": [-77.944257,35.733221,-77.944257,35.733221],
-  "geometry": {"coordinates":[-77.944257,35.733221],"type":"Point"}
+  "bbox": [
+    -77.944257,
+    35.733221,
+    -77.944257,
+    35.733221
+],
+  "geometry": {"coordinates":[-77.94425699999999,35.733221],"type":"Point"}
 }

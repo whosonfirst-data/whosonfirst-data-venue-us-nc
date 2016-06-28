@@ -2,13 +2,14 @@
   "id": 354170985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.490547,35.65594,-78.490547,35.65594",
     "geom:latitude":35.65594,
     "geom:longitude":-78.490547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Mulberry Rd",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354170985,
-    "wof:lastmodified":1449066082,
+    "wof:lastmodified":1466649545,
     "wof:name":"Crowder Cnstr of Clayton",
     "wof:parent_id":85850943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-78.490547,35.65594,-78.490547,35.65594],
-  "geometry": {"coordinates":[-78.490547,35.65594],"type":"Point"}
+  "bbox": [
+    -78.490547,
+    35.65594,
+    -78.490547,
+    35.65594
+],
+  "geometry": {"coordinates":[-78.49054700000001,35.65594],"type":"Point"}
 }

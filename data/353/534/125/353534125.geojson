@@ -2,13 +2,14 @@
   "id": 353534125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.789988,35.944047,-77.789988,35.944047",
     "geom:latitude":35.944047,
     "geom:longitude":-77.789988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Lexington St",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353534125,
-    "wof:lastmodified":1449018924,
+    "wof:lastmodified":1466648565,
     "wof:name":"Unity Lodge 64",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-77.789988,35.944047,-77.789988,35.944047],
-  "geometry": {"coordinates":[-77.789988,35.944047],"type":"Point"}
+  "bbox": [
+    -77.789988,
+    35.944047,
+    -77.789988,
+    35.944047
+],
+  "geometry": {"coordinates":[-77.78998799999999,35.944047],"type":"Point"}
 }

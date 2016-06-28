@@ -2,13 +2,14 @@
   "id": 404138289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.694262,35.886719,-78.694262,35.886719",
     "geom:latitude":35.886719,
     "geom:longitude":-78.694262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 Sutcliffe Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404138289,
-    "wof:lastmodified":1449039363,
+    "wof:lastmodified":1466653031,
     "wof:name":"Heart House Ministries",
     "wof:parent_id":85892083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.694262,35.886719,-78.694262,35.886719],
-  "geometry": {"coordinates":[-78.694262,35.886719],"type":"Point"}
+  "bbox": [
+    -78.694262,
+    35.886719,
+    -78.694262,
+    35.886719
+],
+  "geometry": {"coordinates":[-78.69426199999999,35.886719],"type":"Point"}
 }

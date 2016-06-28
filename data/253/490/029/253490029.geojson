@@ -2,13 +2,14 @@
   "id": 253490029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.824707,35.208305,-80.824707,35.208305",
     "geom:latitude":35.208305,
     "geom:longitude":-80.824707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Providence Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253490029,
-    "wof:lastmodified":1449065483,
+    "wof:lastmodified":1466648252,
     "wof:name":"Pediatric Endocrinology",
     "wof:parent_id":85811911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.824707,35.208305,-80.824707,35.208305],
+  "bbox": [
+    -80.824707,
+    35.208305,
+    -80.824707,
+    35.208305
+],
   "geometry": {"coordinates":[-80.824707,35.208305],"type":"Point"}
 }

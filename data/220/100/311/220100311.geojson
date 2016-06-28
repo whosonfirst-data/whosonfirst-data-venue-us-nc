@@ -2,13 +2,14 @@
   "id": 220100311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.925121,34.215372,-77.925121,34.215372",
     "geom:latitude":34.215372,
     "geom:longitude":-77.925121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 S 17th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220100311,
-    "wof:lastmodified":1449074640,
+    "wof:lastmodified":1466644015,
     "wof:name":"Atlantic Diagnostic Nuclear ME",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-77.925121,34.215372,-77.925121,34.215372],
+  "bbox": [
+    -77.925121,
+    34.215372,
+    -77.925121,
+    34.215372
+],
   "geometry": {"coordinates":[-77.925121,34.215372],"type":"Point"}
 }

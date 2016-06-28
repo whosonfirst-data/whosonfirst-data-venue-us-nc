@@ -2,13 +2,14 @@
   "id": 353979373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.534253,35.817521,-78.534253,35.817521",
     "geom:latitude":35.817521,
     "geom:longitude":-78.534253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Bodie Island Ln",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353979373,
-    "wof:lastmodified":1449020048,
+    "wof:lastmodified":1466653873,
     "wof:name":"True Vine Referral Agency",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.534253,35.817521,-78.534253,35.817521],
-  "geometry": {"coordinates":[-78.534253,35.817521],"type":"Point"}
+  "bbox": [
+    -78.534253,
+    35.817521,
+    -78.534253,
+    35.817521
+],
+  "geometry": {"coordinates":[-78.53425300000001,35.817521],"type":"Point"}
 }

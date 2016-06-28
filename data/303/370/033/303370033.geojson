@@ -2,13 +2,14 @@
   "id": 303370033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.814414,35.838189,-78.814414,35.838189",
     "geom:latitude":35.838189,
     "geom:longitude":-78.814414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Southcenter Ct",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303370033,
-    "wof:lastmodified":1448999453,
+    "wof:lastmodified":1466648649,
     "wof:name":"US Customs Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-78.814414,35.838189,-78.814414,35.838189],
+  "bbox": [
+    -78.814414,
+    35.838189,
+    -78.814414,
+    35.838189
+],
   "geometry": {"coordinates":[-78.814414,35.838189],"type":"Point"}
 }

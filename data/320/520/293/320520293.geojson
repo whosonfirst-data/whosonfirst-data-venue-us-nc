@@ -2,13 +2,14 @@
   "id": 320520293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.726291,35.159728,-80.726291,35.159728",
     "geom:latitude":35.159728,
     "geom:longitude":-80.726291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3106 Old House Cir",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320520293,
-    "wof:lastmodified":1449012502,
+    "wof:lastmodified":1466652658,
     "wof:name":"Custom Vending Services",
     "wof:parent_id":85835249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-80.726291,35.159728,-80.726291,35.159728],
+  "bbox": [
+    -80.726291,
+    35.159728,
+    -80.726291,
+    35.159728
+],
   "geometry": {"coordinates":[-80.726291,35.159728],"type":"Point"}
 }

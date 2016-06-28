@@ -2,13 +2,14 @@
   "id": 319848757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.80558,36.068072,-79.80558,36.068072",
     "geom:latitude":36.068072,
     "geom:longitude":-79.80558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Tate St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319848757,
-    "wof:lastmodified":1449024203,
+    "wof:lastmodified":1466645286,
     "wof:name":"Wear Yours",
     "wof:parent_id":85877963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-79.80558,36.068072,-79.80558,36.068072],
-  "geometry": {"coordinates":[-79.80558,36.068072],"type":"Point"}
+  "bbox": [
+    -79.80558,
+    36.068072,
+    -79.80558,
+    36.068072
+],
+  "geometry": {"coordinates":[-79.80558000000001,36.068072],"type":"Point"}
 }

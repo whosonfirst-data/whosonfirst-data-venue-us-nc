@@ -2,13 +2,14 @@
   "id": 403999957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.183607,35.259047,-81.183607,35.259047",
     "geom:latitude":35.259047,
     "geom:longitude":-81.183607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 W 3rd Ave",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403999957,
-    "wof:lastmodified":1449055812,
+    "wof:lastmodified":1466654193,
     "wof:name":"Park Dansan",
     "wof:parent_id":85805147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-81.183607,35.259047,-81.183607,35.259047],
-  "geometry": {"coordinates":[-81.183607,35.259047],"type":"Point"}
+  "bbox": [
+    -81.183607,
+    35.259047,
+    -81.183607,
+    35.259047
+],
+  "geometry": {"coordinates":[-81.18360699999999,35.259047],"type":"Point"}
 }

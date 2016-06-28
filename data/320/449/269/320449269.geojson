@@ -2,13 +2,14 @@
   "id": 320449269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.993108,34.658128,-78.993108,34.658128",
     "geom:latitude":34.658128,
     "geom:longitude":-78.993108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Pine Run Dr",
     "sg:city":"Lumberton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320449269,
-    "wof:lastmodified":1449014687,
+    "wof:lastmodified":1466651631,
     "wof:name":"Southeastern Recovery Altrntvs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-78.993108,34.658128,-78.993108,34.658128],
-  "geometry": {"coordinates":[-78.993108,34.658128],"type":"Point"}
+  "bbox": [
+    -78.993108,
+    34.658128,
+    -78.993108,
+    34.658128
+],
+  "geometry": {"coordinates":[-78.99310800000001,34.658128],"type":"Point"}
 }

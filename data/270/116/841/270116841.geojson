@@ -2,13 +2,14 @@
   "id": 270116841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.87117,35.745905,-80.87117,35.745905",
     "geom:latitude":35.745905,
     "geom:longitude":-80.87117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Club House Dr",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270116841,
-    "wof:lastmodified":1449008992,
+    "wof:lastmodified":1466644555,
     "wof:name":"County Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "property"
     ]
 },
-  "bbox": [-80.87117,35.745905,-80.87117,35.745905],
-  "geometry": {"coordinates":[-80.87117,35.745905],"type":"Point"}
+  "bbox": [
+    -80.87117,
+    35.745905,
+    -80.87117,
+    35.745905
+],
+  "geometry": {"coordinates":[-80.87117000000001,35.745905],"type":"Point"}
 }

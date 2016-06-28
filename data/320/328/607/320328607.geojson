@@ -2,13 +2,14 @@
   "id": 320328607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.550688,35.591702,-82.550688,35.591702",
     "geom:latitude":35.591702,
     "geom:longitude":-82.550688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Biltmore Ave",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320328607,
-    "wof:lastmodified":1449013451,
+    "wof:lastmodified":1466649897,
     "wof:name":"Bio Wheels",
     "wof:parent_id":85830137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.550688,35.591702,-82.550688,35.591702],
-  "geometry": {"coordinates":[-82.550688,35.591702],"type":"Point"}
+  "bbox": [
+    -82.550688,
+    35.591702,
+    -82.550688,
+    35.591702
+],
+  "geometry": {"coordinates":[-82.55068799999999,35.591702],"type":"Point"}
 }

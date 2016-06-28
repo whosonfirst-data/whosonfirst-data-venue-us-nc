@@ -2,13 +2,14 @@
   "id": 320444273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.884171,35.046062,-78.884171,35.046062",
     "geom:latitude":35.046062,
     "geom:longitude":-78.884171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Glidden St",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320444273,
-    "wof:lastmodified":1449014462,
+    "wof:lastmodified":1466651561,
     "wof:name":"S & G Realty",
     "wof:parent_id":85847217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.884171,35.046062,-78.884171,35.046062],
-  "geometry": {"coordinates":[-78.884171,35.046062],"type":"Point"}
+  "bbox": [
+    -78.884171,
+    35.046062,
+    -78.884171,
+    35.046062
+],
+  "geometry": {"coordinates":[-78.88417099999999,35.046062],"type":"Point"}
 }

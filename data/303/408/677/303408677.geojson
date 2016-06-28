@@ -2,13 +2,14 @@
   "id": 303408677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210289,35.968113,-80.210289,35.968113",
     "geom:latitude":35.968113,
     "geom:longitude":-80.210289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Shady Ln",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303408677,
-    "wof:lastmodified":1448998421,
+    "wof:lastmodified":1466649193,
     "wof:name":"Health Information Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-80.210289,35.968113,-80.210289,35.968113],
+  "bbox": [
+    -80.210289,
+    35.968113,
+    -80.210289,
+    35.968113
+],
   "geometry": {"coordinates":[-80.210289,35.968113],"type":"Point"}
 }

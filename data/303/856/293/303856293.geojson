@@ -2,13 +2,14 @@
   "id": 303856293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.000284,35.528486,-83.000284,35.528486",
     "geom:latitude":35.528486,
     "geom:longitude":-83.000284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2056 Dellwood Rd",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303856293,
-    "wof:lastmodified":1448998804,
+    "wof:lastmodified":1466655679,
     "wof:name":"Lee's Tattoos",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-83.000284,35.528486,-83.000284,35.528486],
-  "geometry": {"coordinates":[-83.000284,35.528486],"type":"Point"}
+  "bbox": [
+    -83.000284,
+    35.528486,
+    -83.000284,
+    35.528486
+],
+  "geometry": {"coordinates":[-83.00028399999999,35.528486],"type":"Point"}
 }

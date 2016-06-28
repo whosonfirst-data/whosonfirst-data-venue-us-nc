@@ -2,13 +2,14 @@
   "id": 203258983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.848521,35.964779,-77.848521,35.964779",
     "geom:latitude":35.964779,
     "geom:longitude":-77.848521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Stony Creek Dr",
     "sg:city":"Rocky Mount",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203258983,
-    "wof:lastmodified":1449026438,
+    "wof:lastmodified":1466655645,
     "wof:name":"Nottingham Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-77.848521,35.964779,-77.848521,35.964779],
-  "geometry": {"coordinates":[-77.848521,35.964779],"type":"Point"}
+  "bbox": [
+    -77.848521,
+    35.964779,
+    -77.848521,
+    35.964779
+],
+  "geometry": {"coordinates":[-77.84852100000001,35.964779],"type":"Point"}
 }

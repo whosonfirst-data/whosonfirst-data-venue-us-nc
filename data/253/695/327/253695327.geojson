@@ -2,13 +2,14 @@
   "id": 253695327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.500244,35.377196,-82.500244,35.377196",
     "geom:latitude":35.377196,
     "geom:longitude":-82.500244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 Asheville Hwy",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253695327,
-    "wof:lastmodified":1449063956,
+    "wof:lastmodified":1466650687,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85847699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-82.500244,35.377196,-82.500244,35.377196],
+  "bbox": [
+    -82.500244,
+    35.377196,
+    -82.500244,
+    35.377196
+],
   "geometry": {"coordinates":[-82.500244,35.377196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236671747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.040541,35.517858,-77.040541,35.517858",
     "geom:latitude":35.517858,
     "geom:longitude":-77.040541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Pamlico Dr",
     "sg:city":"Chocowinity",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236671747,
-    "wof:lastmodified":1449002251,
+    "wof:lastmodified":1466649196,
     "wof:name":"Pamlico Transmission",
     "wof:parent_id":85849043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-77.040541,35.517858,-77.040541,35.517858],
+  "bbox": [
+    -77.040541,
+    35.517858,
+    -77.040541,
+    35.517858
+],
   "geometry": {"coordinates":[-77.040541,35.517858],"type":"Point"}
 }

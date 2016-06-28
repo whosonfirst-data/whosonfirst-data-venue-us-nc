@@ -2,13 +2,14 @@
   "id": 219889505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.570405,35.852338,-79.570405,35.852338",
     "geom:latitude":35.852338,
     "geom:longitude":-79.570405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 S Fayetteville St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219889505,
-    "wof:lastmodified":1449070315,
+    "wof:lastmodified":1466647904,
     "wof:name":"Liberty Advisors LLC",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.570405,35.852338,-79.570405,35.852338],
-  "geometry": {"coordinates":[-79.570405,35.852338],"type":"Point"}
+  "bbox": [
+    -79.570405,
+    35.852338,
+    -79.570405,
+    35.852338
+],
+  "geometry": {"coordinates":[-79.57040499999999,35.852338],"type":"Point"}
 }

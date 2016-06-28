@@ -2,13 +2,14 @@
   "id": 202611019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.136057,35.030926,-79.136057,35.030926",
     "geom:latitude":35.030926,
     "geom:longitude":-79.136057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7110 Fayetteville Rd",
     "sg:city":"Raeford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202611019,
-    "wof:lastmodified":1449062121,
+    "wof:lastmodified":1466655554,
     "wof:name":"Southern Medical Eqpt Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.136057,35.030926,-79.136057,35.030926],
-  "geometry": {"coordinates":[-79.136057,35.030926],"type":"Point"}
+  "bbox": [
+    -79.136057,
+    35.030926,
+    -79.136057,
+    35.030926
+],
+  "geometry": {"coordinates":[-79.13605699999999,35.030926],"type":"Point"}
 }

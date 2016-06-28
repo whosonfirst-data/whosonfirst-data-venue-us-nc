@@ -2,13 +2,14 @@
   "id": 303418957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.949042,34.231683,-77.949042,34.231683",
     "geom:latitude":34.231683,
     "geom:longitude":-77.949042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S Water St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303418957,
-    "wof:lastmodified":1449000038,
+    "wof:lastmodified":1466649342,
     "wof:name":"Peacocks Fine Art",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-77.949042,34.231683,-77.949042,34.231683],
-  "geometry": {"coordinates":[-77.949042,34.231683],"type":"Point"}
+  "bbox": [
+    -77.949042,
+    34.231683,
+    -77.949042,
+    34.231683
+],
+  "geometry": {"coordinates":[-77.94904200000001,34.231683],"type":"Point"}
 }

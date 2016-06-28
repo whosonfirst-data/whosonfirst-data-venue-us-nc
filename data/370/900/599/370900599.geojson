@@ -2,13 +2,14 @@
   "id": 370900599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.654327,35.883174,-78.654327,35.883174",
     "geom:latitude":35.883174,
     "geom:longitude":-78.654327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7705 Foxwood Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370900599,
-    "wof:lastmodified":1449030545,
+    "wof:lastmodified":1466656761,
     "wof:name":"We'Ve Lost Our Marbles",
     "wof:parent_id":85848847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-78.654327,35.883174,-78.654327,35.883174],
-  "geometry": {"coordinates":[-78.654327,35.883174],"type":"Point"}
+  "bbox": [
+    -78.654327,
+    35.883174,
+    -78.654327,
+    35.883174
+],
+  "geometry": {"coordinates":[-78.65432699999999,35.883174],"type":"Point"}
 }

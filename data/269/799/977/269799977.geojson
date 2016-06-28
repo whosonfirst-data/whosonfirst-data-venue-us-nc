@@ -2,13 +2,14 @@
   "id": 269799977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.548037,35.59841,-82.548037,35.59841",
     "geom:latitude":35.59841,
     "geom:longitude":-82.548037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Woodfin St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269799977,
-    "wof:lastmodified":1449038981,
+    "wof:lastmodified":1466646946,
     "wof:name":"Y M C A",
     "wof:parent_id":85825097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.548037,35.59841,-82.548037,35.59841],
-  "geometry": {"coordinates":[-82.548037,35.59841],"type":"Point"}
+  "bbox": [
+    -82.548037,
+    35.59841,
+    -82.548037,
+    35.59841
+],
+  "geometry": {"coordinates":[-82.54803699999999,35.59841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320818871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.832997,34.296857,-77.832997,34.296857",
     "geom:latitude":34.296857,
     "geom:longitude":-77.832997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7226 Quail Woods Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320818871,
-    "wof:lastmodified":1449013073,
+    "wof:lastmodified":1466656516,
     "wof:name":"Mike Poes Truck Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-77.832997,34.296857,-77.832997,34.296857],
-  "geometry": {"coordinates":[-77.832997,34.296857],"type":"Point"}
+  "bbox": [
+    -77.832997,
+    34.296857,
+    -77.832997,
+    34.296857
+],
+  "geometry": {"coordinates":[-77.83299700000001,34.296857],"type":"Point"}
 }

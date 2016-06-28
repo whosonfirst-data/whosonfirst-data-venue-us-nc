@@ -2,13 +2,14 @@
   "id": 319972975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.337406,35.660233,-77.337406,35.660233",
     "geom:latitude":35.660233,
     "geom:longitude":-77.337406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Sugg Rd",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":319972975,
-    "wof:lastmodified":1449024479,
+    "wof:lastmodified":1466647076,
     "wof:name":"Daily Reflector",
     "wof:parent_id":85833413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-77.337406,35.660233,-77.337406,35.660233],
+  "bbox": [
+    -77.337406,
+    35.660233,
+    -77.337406,
+    35.660233
+],
   "geometry": {"coordinates":[-77.337406,35.660233],"type":"Point"}
 }

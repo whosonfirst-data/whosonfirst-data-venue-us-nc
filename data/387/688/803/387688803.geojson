@@ -2,13 +2,14 @@
   "id": 387688803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.540689,35.28609,-81.540689,35.28609",
     "geom:latitude":35.28609,
     "geom:longitude":-81.540689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 S Lafayette St",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387688803,
-    "wof:lastmodified":1449057529,
+    "wof:lastmodified":1466657311,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-81.540689,35.28609,-81.540689,35.28609],
+  "bbox": [
+    -81.540689,
+    35.28609,
+    -81.540689,
+    35.28609
+],
   "geometry": {"coordinates":[-81.540689,35.28609],"type":"Point"}
 }

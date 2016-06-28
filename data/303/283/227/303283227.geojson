@@ -2,13 +2,14 @@
   "id": 303283227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.218534,35.278616,-81.218534,35.278616",
     "geom:latitude":35.278616,
     "geom:longitude":-81.218534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 Northwest Blvd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303283227,
-    "wof:lastmodified":1448998839,
+    "wof:lastmodified":1466647433,
     "wof:name":"Curtiss-Wright Flight Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-81.218534,35.278616,-81.218534,35.278616],
-  "geometry": {"coordinates":[-81.218534,35.278616],"type":"Point"}
+  "bbox": [
+    -81.218534,
+    35.278616,
+    -81.218534,
+    35.278616
+],
+  "geometry": {"coordinates":[-81.21853400000001,35.278616],"type":"Point"}
 }

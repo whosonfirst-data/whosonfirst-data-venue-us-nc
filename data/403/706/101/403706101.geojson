@@ -2,13 +2,14 @@
   "id": 403706101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.874011,36.233815,-75.874011,36.233815",
     "geom:latitude":36.233815,
     "geom:longitude":-75.874011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6520 Caratoke Hwy",
     "sg:city":"Grandy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403706101,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1466650370,
     "wof:name":"Grandy Express Convenience",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.874011,36.233815,-75.874011,36.233815],
+  "bbox": [
+    -75.874011,
+    36.233815,
+    -75.874011,
+    36.233815
+],
   "geometry": {"coordinates":[-75.874011,36.233815],"type":"Point"}
 }

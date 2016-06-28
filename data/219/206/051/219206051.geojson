@@ -2,13 +2,14 @@
   "id": 219206051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.841445,35.083762,-80.841445,35.083762",
     "geom:latitude":35.083762,
     "geom:longitude":-80.841445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6915 Northbury Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219206051,
-    "wof:lastmodified":1449072781,
+    "wof:lastmodified":1466655408,
     "wof:name":"Alan & Stephanies Painting",
     "wof:parent_id":85809539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-80.841445,35.083762,-80.841445,35.083762],
-  "geometry": {"coordinates":[-80.841445,35.083762],"type":"Point"}
+  "bbox": [
+    -80.841445,
+    35.083762,
+    -80.841445,
+    35.083762
+],
+  "geometry": {"coordinates":[-80.84144499999999,35.083762],"type":"Point"}
 }

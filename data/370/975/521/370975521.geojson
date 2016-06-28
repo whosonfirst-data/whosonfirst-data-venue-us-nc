@@ -2,13 +2,14 @@
   "id": 370975521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.126832,35.255578,-81.126832,35.255578",
     "geom:latitude":35.255578,
     "geom:longitude":-81.126832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Eastwood Dr",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370975521,
-    "wof:lastmodified":1449032002,
+    "wof:lastmodified":1466657245,
     "wof:name":"KDR Products",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-81.126832,35.255578,-81.126832,35.255578],
-  "geometry": {"coordinates":[-81.126832,35.255578],"type":"Point"}
+  "bbox": [
+    -81.126832,
+    35.255578,
+    -81.126832,
+    35.255578
+],
+  "geometry": {"coordinates":[-81.12683199999999,35.255578],"type":"Point"}
 }

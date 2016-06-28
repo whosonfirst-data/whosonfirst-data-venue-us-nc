@@ -2,13 +2,14 @@
   "id": 286825125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.121006,35.592808,-78.121006,35.592808",
     "geom:latitude":35.592808,
     "geom:longitude":-78.121006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N College Ave",
     "sg:city":"Kenly",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":286825125,
-    "wof:lastmodified":1449015280,
+    "wof:lastmodified":1466650789,
     "wof:name":"Kenly Senior Center",
     "wof:parent_id":85818511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "citizen"
     ]
 },
-  "bbox": [-78.121006,35.592808,-78.121006,35.592808],
-  "geometry": {"coordinates":[-78.121006,35.592808],"type":"Point"}
+  "bbox": [
+    -78.121006,
+    35.592808,
+    -78.121006,
+    35.592808
+],
+  "geometry": {"coordinates":[-78.12100599999999,35.592808],"type":"Point"}
 }

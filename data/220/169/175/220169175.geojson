@@ -2,13 +2,14 @@
   "id": 220169175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.164273,36.153192,-81.164273,36.153192",
     "geom:latitude":36.153192,
     "geom:longitude":-81.164273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 W Park Cir",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220169175,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466644551,
     "wof:name":"W A Lankford Co",
     "wof:parent_id":85828719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.164273,36.153192,-81.164273,36.153192],
-  "geometry": {"coordinates":[-81.164273,36.153192],"type":"Point"}
+  "bbox": [
+    -81.164273,
+    36.153192,
+    -81.164273,
+    36.153192
+],
+  "geometry": {"coordinates":[-81.16427299999999,36.153192],"type":"Point"}
 }

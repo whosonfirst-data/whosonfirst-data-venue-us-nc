@@ -2,13 +2,14 @@
   "id": 403888853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.55473,35.642482,-82.55473,35.642482",
     "geom:latitude":35.642482,
     "geom:longitude":-82.55473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Stratford Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403888853,
-    "wof:lastmodified":1449055471,
+    "wof:lastmodified":1466652760,
     "wof:name":"Hound Dog Enterprises Inc",
     "wof:parent_id":85822395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-82.55473,35.642482,-82.55473,35.642482],
-  "geometry": {"coordinates":[-82.55473,35.642482],"type":"Point"}
+  "bbox": [
+    -82.55473,
+    35.642482,
+    -82.55473,
+    35.642482
+],
+  "geometry": {"coordinates":[-82.55473000000001,35.642482],"type":"Point"}
 }

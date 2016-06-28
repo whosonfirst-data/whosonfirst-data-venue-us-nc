@@ -2,13 +2,14 @@
   "id": 236173137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.433382,34.768653,-77.433382,34.768653",
     "geom:latitude":34.768653,
     "geom:longitude":-77.433382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Barn St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236173137,
-    "wof:lastmodified":1449002155,
+    "wof:lastmodified":1466644785,
     "wof:name":"John A Shalhoub Counseling Svc",
     "wof:parent_id":85868005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.433382,34.768653,-77.433382,34.768653],
-  "geometry": {"coordinates":[-77.433382,34.768653],"type":"Point"}
+  "bbox": [
+    -77.433382,
+    34.768653,
+    -77.433382,
+    34.768653
+],
+  "geometry": {"coordinates":[-77.43338199999999,34.768653],"type":"Point"}
 }

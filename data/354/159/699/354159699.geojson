@@ -2,13 +2,14 @@
   "id": 354159699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.967577,35.97496,-77.967577,35.97496",
     "geom:latitude":35.97496,
     "geom:longitude":-77.967577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Boddie St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354159699,
-    "wof:lastmodified":1449066141,
+    "wof:lastmodified":1466649402,
     "wof:name":"M M Ceramic Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-77.967577,35.97496,-77.967577,35.97496],
-  "geometry": {"coordinates":[-77.967577,35.97496],"type":"Point"}
+  "bbox": [
+    -77.967577,
+    35.97496,
+    -77.967577,
+    35.97496
+],
+  "geometry": {"coordinates":[-77.96757700000001,35.97496],"type":"Point"}
 }

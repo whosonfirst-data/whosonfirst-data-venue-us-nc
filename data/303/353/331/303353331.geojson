@@ -2,13 +2,14 @@
   "id": 303353331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.150262,35.086318,-77.150262,35.086318",
     "geom:latitude":35.086318,
     "geom:longitude":-77.150262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4917 Woodbrook Dr",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303353331,
-    "wof:lastmodified":1448998816,
+    "wof:lastmodified":1466648398,
     "wof:name":"H & S Logging Co",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-77.150262,35.086318,-77.150262,35.086318],
+  "bbox": [
+    -77.150262,
+    35.086318,
+    -77.150262,
+    35.086318
+],
   "geometry": {"coordinates":[-77.150262,35.086318],"type":"Point"}
 }

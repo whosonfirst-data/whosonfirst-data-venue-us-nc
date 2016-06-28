@@ -2,13 +2,14 @@
   "id": 303549801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.776975,34.266429,-77.776975,34.266429",
     "geom:latitude":34.266429,
     "geom:longitude":-77.776975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7326 Mason Landing Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303549801,
-    "wof:lastmodified":1448998785,
+    "wof:lastmodified":1466651239,
     "wof:name":"JEBA",
     "wof:parent_id":85852563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.776975,34.266429,-77.776975,34.266429],
-  "geometry": {"coordinates":[-77.776975,34.266429],"type":"Point"}
+  "bbox": [
+    -77.776975,
+    34.266429,
+    -77.776975,
+    34.266429
+],
+  "geometry": {"coordinates":[-77.77697499999999,34.266429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220005843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.626945,35.615029,-82.626945,35.615029",
     "geom:latitude":35.615029,
     "geom:longitude":-82.626945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Lees Creek Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220005843,
-    "wof:lastmodified":1449074814,
+    "wof:lastmodified":1466643260,
     "wof:name":"Buncombe Reg Juv Det Cntr",
     "wof:parent_id":85808963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-82.626945,35.615029,-82.626945,35.615029],
-  "geometry": {"coordinates":[-82.626945,35.615029],"type":"Point"}
+  "bbox": [
+    -82.626945,
+    35.615029,
+    -82.626945,
+    35.615029
+],
+  "geometry": {"coordinates":[-82.62694500000001,35.615029],"type":"Point"}
 }

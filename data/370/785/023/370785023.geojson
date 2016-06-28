@@ -2,13 +2,14 @@
   "id": 370785023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.897572,34.150603,-77.897572,34.150603",
     "geom:latitude":34.150603,
     "geom:longitude":-77.897572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Willoughby Park Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370785023,
-    "wof:lastmodified":1449031894,
+    "wof:lastmodified":1466656276,
     "wof:name":"One Source Solutions",
     "wof:parent_id":85822927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-77.897572,34.150603,-77.897572,34.150603],
+  "bbox": [
+    -77.897572,
+    34.150603,
+    -77.897572,
+    34.150603
+],
   "geometry": {"coordinates":[-77.897572,34.150603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320731855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.032039,35.457313,-83.032039,35.457313",
     "geom:latitude":35.457313,
     "geom:longitude":-83.032039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18240 Great Smoky Mountain Expy",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320731855,
-    "wof:lastmodified":1449014548,
+    "wof:lastmodified":1466655705,
     "wof:name":"Miss Purtie's Attic",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-83.032039,35.457313,-83.032039,35.457313],
+  "bbox": [
+    -83.032039,
+    35.457313,
+    -83.032039,
+    35.457313
+],
   "geometry": {"coordinates":[-83.032039,35.457313],"type":"Point"}
 }

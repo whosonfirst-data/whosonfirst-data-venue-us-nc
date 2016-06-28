@@ -2,13 +2,14 @@
   "id": 202822593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.84041,35.556341,-80.84041,35.556341",
     "geom:latitude":35.556341,
     "geom:longitude":-80.84041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 Mecklenburg Hwy",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202822593,
-    "wof:lastmodified":1449062560,
+    "wof:lastmodified":1466644335,
     "wof:name":"Intertec Tile & Stone Distrs",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.84041,35.556341,-80.84041,35.556341],
-  "geometry": {"coordinates":[-80.84041,35.556341],"type":"Point"}
+  "bbox": [
+    -80.84041,
+    35.556341,
+    -80.84041,
+    35.556341
+],
+  "geometry": {"coordinates":[-80.84041000000001,35.556341],"type":"Point"}
 }

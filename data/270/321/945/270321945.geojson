@@ -2,13 +2,14 @@
   "id": 270321945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.404879,35.899735,-79.404879,35.899735",
     "geom:latitude":35.899735,
     "geom:longitude":-79.404879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"754 E Greensboro Chapel Hill Rd",
     "sg:city":"Snow Camp",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270321945,
-    "wof:lastmodified":1449008720,
+    "wof:lastmodified":1466647141,
     "wof:name":"Daniel Grant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.404879,35.899735,-79.404879,35.899735],
-  "geometry": {"coordinates":[-79.404879,35.899735],"type":"Point"}
+  "bbox": [
+    -79.404879,
+    35.899735,
+    -79.404879,
+    35.899735
+],
+  "geometry": {"coordinates":[-79.40487899999999,35.899735],"type":"Point"}
 }

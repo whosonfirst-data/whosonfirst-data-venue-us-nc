@@ -2,13 +2,14 @@
   "id": 404020401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.907887,34.785993,-76.907887,34.785993",
     "geom:latitude":34.785993,
     "geom:longitude":-76.907887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Roberts Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404020401,
-    "wof:lastmodified":1449039573,
+    "wof:lastmodified":1466651560,
     "wof:name":"Roberts W D Jr Surveying",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-76.907887,34.785993,-76.907887,34.785993],
+  "bbox": [
+    -76.907887,
+    34.785993,
+    -76.907887,
+    34.785993
+],
   "geometry": {"coordinates":[-76.907887,34.785993],"type":"Point"}
 }

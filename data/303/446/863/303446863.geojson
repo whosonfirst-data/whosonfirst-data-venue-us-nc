@@ -2,13 +2,14 @@
   "id": 303446863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530605,35.548347,-82.530605,35.548347",
     "geom:latitude":35.548347,
     "geom:longitude":-82.530605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Shiloh Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303446863,
-    "wof:lastmodified":1449000359,
+    "wof:lastmodified":1466649751,
     "wof:name":"Republican Party Headquarters",
     "wof:parent_id":85848375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.530605,35.548347,-82.530605,35.548347],
-  "geometry": {"coordinates":[-82.530605,35.548347],"type":"Point"}
+  "bbox": [
+    -82.530605,
+    35.548347,
+    -82.530605,
+    35.548347
+],
+  "geometry": {"coordinates":[-82.53060499999999,35.548347],"type":"Point"}
 }

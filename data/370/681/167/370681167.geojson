@@ -2,13 +2,14 @@
   "id": 370681167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.357362,36.317835,-78.357362,36.317835",
     "geom:latitude":36.317835,
     "geom:longitude":-78.357362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1776 Vicksboro Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370681167,
-    "wof:lastmodified":1449031157,
+    "wof:lastmodified":1466654959,
     "wof:name":"Henderson Heating & AC",
     "wof:parent_id":85857977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.357362,36.317835,-78.357362,36.317835],
-  "geometry": {"coordinates":[-78.357362,36.317835],"type":"Point"}
+  "bbox": [
+    -78.357362,
+    36.317835,
+    -78.357362,
+    36.317835
+],
+  "geometry": {"coordinates":[-78.35736199999999,36.317835],"type":"Point"}
 }

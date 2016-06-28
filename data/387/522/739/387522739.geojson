@@ -2,13 +2,14 @@
   "id": 387522739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.503343,35.997722,-78.503343,35.997722",
     "geom:latitude":35.997722,
     "geom:longitude":-78.503343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Lilliput Ln",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387522739,
-    "wof:lastmodified":1449057914,
+    "wof:lastmodified":1466656208,
     "wof:name":"Woodhead Connectivity",
     "wof:parent_id":85892181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-78.503343,35.997722,-78.503343,35.997722],
+  "bbox": [
+    -78.503343,
+    35.997722,
+    -78.503343,
+    35.997722
+],
   "geometry": {"coordinates":[-78.503343,35.997722],"type":"Point"}
 }

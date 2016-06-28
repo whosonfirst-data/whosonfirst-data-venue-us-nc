@@ -2,13 +2,14 @@
   "id": 354250379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.140704,36.161888,-81.140704,36.161888",
     "geom:latitude":36.161888,
     "geom:longitude":-81.140704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Main St",
     "sg:city":"North Wilkesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354250379,
-    "wof:lastmodified":1449066924,
+    "wof:lastmodified":1466650434,
     "wof:name":"Watco Cleaning",
     "wof:parent_id":85819921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.140704,36.161888,-81.140704,36.161888],
+  "bbox": [
+    -81.140704,
+    36.161888,
+    -81.140704,
+    36.161888
+],
   "geometry": {"coordinates":[-81.140704,36.161888],"type":"Point"}
 }

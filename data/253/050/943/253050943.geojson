@@ -2,13 +2,14 @@
   "id": 253050943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.464779,35.666217,-80.464779,35.666217",
     "geom:latitude":35.666217,
     "geom:longitude":-80.464779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 N Long St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253050943,
-    "wof:lastmodified":1449064456,
+    "wof:lastmodified":1466643628,
     "wof:name":"Rowan Helping Ministries",
     "wof:parent_id":85810055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "intervention"
     ]
 },
-  "bbox": [-80.464779,35.666217,-80.464779,35.666217],
-  "geometry": {"coordinates":[-80.464779,35.666217],"type":"Point"}
+  "bbox": [
+    -80.464779,
+    35.666217,
+    -80.464779,
+    35.666217
+],
+  "geometry": {"coordinates":[-80.46477899999999,35.666217],"type":"Point"}
 }

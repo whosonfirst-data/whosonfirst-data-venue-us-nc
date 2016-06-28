@@ -2,13 +2,14 @@
   "id": 336825101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.824879,35.826072,-78.824879,35.826072",
     "geom:latitude":35.826072,
     "geom:longitude":-78.824879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Cotten Dr",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336825101,
-    "wof:lastmodified":1448996952,
+    "wof:lastmodified":1466649261,
     "wof:name":"John Bridges Contractor",
     "wof:parent_id":85857059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-78.824879,35.826072,-78.824879,35.826072],
+  "bbox": [
+    -78.824879,
+    35.826072,
+    -78.824879,
+    35.826072
+],
   "geometry": {"coordinates":[-78.824879,35.826072],"type":"Point"}
 }

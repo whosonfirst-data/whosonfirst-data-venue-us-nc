@@ -2,13 +2,14 @@
   "id": 270516377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.004802,36.001614,-79.004802,36.001614",
     "geom:latitude":36.001614,
     "geom:longitude":-79.004802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5124 Taproot Ln",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270516377,
-    "wof:lastmodified":1449009102,
+    "wof:lastmodified":1466649664,
     "wof:name":"Cruise Connection",
     "wof:parent_id":85838755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-79.004802,36.001614,-79.004802,36.001614],
+  "bbox": [
+    -79.004802,
+    36.001614,
+    -79.004802,
+    36.001614
+],
   "geometry": {"coordinates":[-79.004802,36.001614],"type":"Point"}
 }

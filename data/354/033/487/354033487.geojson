@@ -2,13 +2,14 @@
   "id": 354033487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.155565,36.072873,-80.155565,36.072873",
     "geom:latitude":36.072873,
     "geom:longitude":-80.155565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 Robbins Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354033487,
-    "wof:lastmodified":1449066281,
+    "wof:lastmodified":1466647934,
     "wof:name":"Bob Just and Company",
     "wof:parent_id":85892207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-80.155565,36.072873,-80.155565,36.072873],
+  "bbox": [
+    -80.155565,
+    36.072873,
+    -80.155565,
+    36.072873
+],
   "geometry": {"coordinates":[-80.155565,36.072873],"type":"Point"}
 }

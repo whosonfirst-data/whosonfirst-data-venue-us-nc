@@ -2,13 +2,14 @@
   "id": 303417335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.82372,35.996371,-78.82372,35.996371",
     "geom:latitude":35.996371,
     "geom:longitude":-78.82372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 Freeman Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303417335,
-    "wof:lastmodified":1448999120,
+    "wof:lastmodified":1466649320,
     "wof:name":"Boys To Gentlemen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-78.82372,35.996371,-78.82372,35.996371],
-  "geometry": {"coordinates":[-78.82372,35.996371],"type":"Point"}
+  "bbox": [
+    -78.82372,
+    35.996371,
+    -78.82372,
+    35.996371
+],
+  "geometry": {"coordinates":[-78.82371999999999,35.996371],"type":"Point"}
 }

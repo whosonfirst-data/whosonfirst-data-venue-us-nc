@@ -2,13 +2,14 @@
   "id": 269910543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.939332,34.994461,-78.939332,34.994461",
     "geom:latitude":34.994461,
     "geom:longitude":-78.939332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 E Cramer Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269910543,
-    "wof:lastmodified":1449037125,
+    "wof:lastmodified":1466648237,
     "wof:name":"Murray Fork Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welfare"
     ]
 },
-  "bbox": [-78.939332,34.994461,-78.939332,34.994461],
-  "geometry": {"coordinates":[-78.939332,34.994461],"type":"Point"}
+  "bbox": [
+    -78.939332,
+    34.994461,
+    -78.939332,
+    34.994461
+],
+  "geometry": {"coordinates":[-78.93933199999999,34.994461],"type":"Point"}
 }

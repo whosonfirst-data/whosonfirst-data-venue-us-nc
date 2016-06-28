@@ -2,13 +2,14 @@
   "id": 320455183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.307086,36.168753,-80.307086,36.168753",
     "geom:latitude":36.168753,
     "geom:longitude":-80.307086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 Hutchins St",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320455183,
-    "wof:lastmodified":1449014374,
+    "wof:lastmodified":1466651717,
     "wof:name":"Barrows Tree Svc",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-80.307086,36.168753,-80.307086,36.168753],
+  "bbox": [
+    -80.307086,
+    36.168753,
+    -80.307086,
+    36.168753
+],
   "geometry": {"coordinates":[-80.307086,36.168753],"type":"Point"}
 }

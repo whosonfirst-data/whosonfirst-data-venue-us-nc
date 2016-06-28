@@ -2,13 +2,14 @@
   "id": 270389875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.615811,35.609697,-82.615811,35.609697",
     "geom:latitude":35.609697,
     "geom:longitude":-82.615811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Ben Lippen School Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270389875,
-    "wof:lastmodified":1449010565,
+    "wof:lastmodified":1466648002,
     "wof:name":"Ontolitecture",
     "wof:parent_id":85808963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.615811,35.609697,-82.615811,35.609697],
-  "geometry": {"coordinates":[-82.615811,35.609697],"type":"Point"}
+  "bbox": [
+    -82.615811,
+    35.609697,
+    -82.615811,
+    35.609697
+],
+  "geometry": {"coordinates":[-82.61581099999999,35.609697],"type":"Point"}
 }

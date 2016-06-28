@@ -2,13 +2,14 @@
   "id": 320250243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.874231,34.12512,-77.874231,34.12512",
     "geom:latitude":34.12512,
     "geom:longitude":-77.874231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"269 Loder Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320250243,
-    "wof:lastmodified":1449013383,
+    "wof:lastmodified":1466648803,
     "wof:name":"Pollock Michael & Carolyn W",
     "wof:parent_id":85822927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.874231,34.12512,-77.874231,34.12512],
-  "geometry": {"coordinates":[-77.874231,34.12512],"type":"Point"}
+  "bbox": [
+    -77.874231,
+    34.12512,
+    -77.874231,
+    34.12512
+],
+  "geometry": {"coordinates":[-77.87423099999999,34.12512],"type":"Point"}
 }

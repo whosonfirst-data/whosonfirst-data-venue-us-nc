@@ -2,13 +2,14 @@
   "id": 353791965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.465077,35.591716,-82.465077,35.591716",
     "geom:latitude":35.591716,
     "geom:longitude":-82.465077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"698 Moffitt Rd",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353791965,
-    "wof:lastmodified":1449020230,
+    "wof:lastmodified":1466651677,
     "wof:name":"Earthscapes Company Asheville",
     "wof:parent_id":85804127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.465077,35.591716,-82.465077,35.591716],
-  "geometry": {"coordinates":[-82.465077,35.591716],"type":"Point"}
+  "bbox": [
+    -82.465077,
+    35.591716,
+    -82.465077,
+    35.591716
+],
+  "geometry": {"coordinates":[-82.46507699999999,35.591716],"type":"Point"}
 }

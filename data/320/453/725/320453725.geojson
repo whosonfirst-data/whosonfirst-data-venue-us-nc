@@ -2,13 +2,14 @@
   "id": 320453725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.882387,35.79792,-80.882387,35.79792",
     "geom:latitude":35.79792,
     "geom:longitude":-80.882387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"738 Bryant St",
     "sg:city":"Statesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320453725,
-    "wof:lastmodified":1449014053,
+    "wof:lastmodified":1466651694,
     "wof:name":"Statesville Cardiovascular",
     "wof:parent_id":85838343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.882387,35.79792,-80.882387,35.79792],
-  "geometry": {"coordinates":[-80.882387,35.79792],"type":"Point"}
+  "bbox": [
+    -80.882387,
+    35.79792,
+    -80.882387,
+    35.79792
+],
+  "geometry": {"coordinates":[-80.88238699999999,35.79792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286940265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.614157,35.523535,-80.614157,35.523535",
     "geom:latitude":35.523535,
     "geom:longitude":-80.614157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 N Main St",
     "sg:city":"Kannapolis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286940265,
-    "wof:lastmodified":1449015888,
+    "wof:lastmodified":1466652376,
     "wof:name":"Lambert Wheel Alignment Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "alignment"
     ]
 },
-  "bbox": [-80.614157,35.523535,-80.614157,35.523535],
-  "geometry": {"coordinates":[-80.614157,35.523535],"type":"Point"}
+  "bbox": [
+    -80.614157,
+    35.523535,
+    -80.614157,
+    35.523535
+],
+  "geometry": {"coordinates":[-80.61415700000001,35.523535],"type":"Point"}
 }

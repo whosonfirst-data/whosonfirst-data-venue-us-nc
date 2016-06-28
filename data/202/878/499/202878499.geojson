@@ -2,13 +2,14 @@
   "id": 202878499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.796776,35.810286,-79.796776,35.810286",
     "geom:latitude":35.810286,
     "geom:longitude":-79.796776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Hillcrest Dr",
     "sg:city":"Randleman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202878499,
-    "wof:lastmodified":1449061434,
+    "wof:lastmodified":1466644779,
     "wof:name":"Phil Pendry Constr Co Inc",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.796776,35.810286,-79.796776,35.810286],
-  "geometry": {"coordinates":[-79.796776,35.810286],"type":"Point"}
+  "bbox": [
+    -79.796776,
+    35.810286,
+    -79.796776,
+    35.810286
+],
+  "geometry": {"coordinates":[-79.79677599999999,35.810286],"type":"Point"}
 }

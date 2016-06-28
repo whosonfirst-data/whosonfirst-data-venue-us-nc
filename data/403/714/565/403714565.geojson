@@ -2,13 +2,14 @@
   "id": 403714565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.673015,35.13669,-80.673015,35.13669",
     "geom:latitude":35.13669,
     "geom:longitude":-80.673015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13649 Idlewild Rd",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403714565,
-    "wof:lastmodified":1449055288,
+    "wof:lastmodified":1466650483,
     "wof:name":"Robinson's Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-80.673015,35.13669,-80.673015,35.13669],
-  "geometry": {"coordinates":[-80.673015,35.13669],"type":"Point"}
+  "bbox": [
+    -80.673015,
+    35.13669,
+    -80.673015,
+    35.13669
+],
+  "geometry": {"coordinates":[-80.67301500000001,35.13669],"type":"Point"}
 }

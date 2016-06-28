@@ -2,13 +2,14 @@
   "id": 404004853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.244721,35.586041,-80.244721,35.586041",
     "geom:latitude":35.586041,
     "geom:longitude":-80.244721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Richfield Rd",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404004853,
-    "wof:lastmodified":1449039465,
+    "wof:lastmodified":1466651369,
     "wof:name":"Piedmont Trash Svc",
     "wof:parent_id":85836893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-80.244721,35.586041,-80.244721,35.586041],
+  "bbox": [
+    -80.244721,
+    35.586041,
+    -80.244721,
+    35.586041
+],
   "geometry": {"coordinates":[-80.244721,35.586041],"type":"Point"}
 }

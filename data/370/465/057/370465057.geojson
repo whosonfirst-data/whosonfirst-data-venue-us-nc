@@ -2,13 +2,14 @@
   "id": 370465057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.678829,35.782023,-78.678829,35.782023",
     "geom:latitude":35.782023,
     "geom:longitude":-78.678829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 Western Blvd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370465057,
-    "wof:lastmodified":1449031355,
+    "wof:lastmodified":1466652110,
     "wof:name":"Ross Baseball Instruction Inc",
     "wof:parent_id":85892145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.678829,35.782023,-78.678829,35.782023],
-  "geometry": {"coordinates":[-78.678829,35.782023],"type":"Point"}
+  "bbox": [
+    -78.678829,
+    35.782023,
+    -78.678829,
+    35.782023
+],
+  "geometry": {"coordinates":[-78.67882899999999,35.782023],"type":"Point"}
 }

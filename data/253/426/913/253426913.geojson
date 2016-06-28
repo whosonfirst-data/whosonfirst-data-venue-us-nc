@@ -2,13 +2,14 @@
   "id": 253426913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.81946,34.260582,-77.81946,34.260582",
     "geom:latitude":34.260582,
     "geom:longitude":-77.81946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Pierpoint Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253426913,
-    "wof:lastmodified":1449063437,
+    "wof:lastmodified":1466647462,
     "wof:name":"Southern Exposure Sunrooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "deck"
     ]
 },
-  "bbox": [-77.81946,34.260582,-77.81946,34.260582],
-  "geometry": {"coordinates":[-77.81946,34.260582],"type":"Point"}
+  "bbox": [
+    -77.81946,
+    34.260582,
+    -77.81946,
+    34.260582
+],
+  "geometry": {"coordinates":[-77.81946000000001,34.260582],"type":"Point"}
 }

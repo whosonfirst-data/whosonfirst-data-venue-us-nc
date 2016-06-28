@@ -2,13 +2,14 @@
   "id": 203293421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255763,36.066115,-80.255763,36.066115",
     "geom:latitude":36.066115,
     "geom:longitude":-80.255763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 Silas Creek Pkwy",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203293421,
-    "wof:lastmodified":1449025306,
+    "wof:lastmodified":1466655807,
     "wof:name":"Parcom Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.255763,36.066115,-80.255763,36.066115],
+  "bbox": [
+    -80.255763,
+    36.066115,
+    -80.255763,
+    36.066115
+],
   "geometry": {"coordinates":[-80.255763,36.066115],"type":"Point"}
 }

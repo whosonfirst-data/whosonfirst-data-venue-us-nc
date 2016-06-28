@@ -2,13 +2,14 @@
   "id": 202653743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.797756,35.787276,-78.797756,35.787276",
     "geom:latitude":35.787276,
     "geom:longitude":-78.797756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Howland Ave",
     "sg:city":"Cary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202653743,
-    "wof:lastmodified":1449060296,
+    "wof:lastmodified":1466655725,
     "wof:name":"O B Lloyd Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ecological"
     ]
 },
-  "bbox": [-78.797756,35.787276,-78.797756,35.787276],
-  "geometry": {"coordinates":[-78.797756,35.787276],"type":"Point"}
+  "bbox": [
+    -78.797756,
+    35.787276,
+    -78.797756,
+    35.787276
+],
+  "geometry": {"coordinates":[-78.79775600000001,35.787276],"type":"Point"}
 }

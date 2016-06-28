@@ -2,13 +2,14 @@
   "id": 387216509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.295608,36.139585,-80.295608,36.139585",
     "geom:latitude":36.139585,
     "geom:longitude":-80.295608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2641 Reynolda Rd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387216509,
-    "wof:lastmodified":1449059484,
+    "wof:lastmodified":1466652723,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85881831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.295608,36.139585,-80.295608,36.139585],
+  "bbox": [
+    -80.295608,
+    36.139585,
+    -80.295608,
+    36.139585
+],
   "geometry": {"coordinates":[-80.295608,36.139585],"type":"Point"}
 }

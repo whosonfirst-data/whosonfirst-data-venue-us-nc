@@ -2,13 +2,14 @@
   "id": 354000505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.307212,36.059112,-80.307212,36.059112",
     "geom:latitude":36.059112,
     "geom:longitude":-80.307212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2098 Frontis Plaza Blvd",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354000505,
-    "wof:lastmodified":1449066205,
+    "wof:lastmodified":1466655848,
     "wof:name":"Iliant Corp",
     "wof:parent_id":85857871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-80.307212,36.059112,-80.307212,36.059112],
-  "geometry": {"coordinates":[-80.307212,36.059112],"type":"Point"}
+  "bbox": [
+    -80.307212,
+    36.059112,
+    -80.307212,
+    36.059112
+],
+  "geometry": {"coordinates":[-80.30721200000001,36.059112],"type":"Point"}
 }

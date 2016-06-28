@@ -2,13 +2,14 @@
   "id": 353656205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.886533,34.21324,-77.886533,34.21324",
     "geom:latitude":34.21324,
     "geom:longitude":-77.886533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4518 Park Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353656205,
-    "wof:lastmodified":1449019909,
+    "wof:lastmodified":1466650075,
     "wof:name":"Tools Plus",
     "wof:parent_id":85842005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-77.886533,34.21324,-77.886533,34.21324],
+  "bbox": [
+    -77.886533,
+    34.21324,
+    -77.886533,
+    34.21324
+],
   "geometry": {"coordinates":[-77.886533,34.21324],"type":"Point"}
 }

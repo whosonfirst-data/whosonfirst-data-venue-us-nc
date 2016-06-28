@@ -2,13 +2,14 @@
   "id": 403901921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.511422,35.973844,-78.511422,35.973844",
     "geom:latitude":35.973844,
     "geom:longitude":-78.511422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 S White St",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403901921,
-    "wof:lastmodified":1449055186,
+    "wof:lastmodified":1466652927,
     "wof:name":"Little River LP Gas",
     "wof:parent_id":85892185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-78.511422,35.973844,-78.511422,35.973844],
+  "bbox": [
+    -78.511422,
+    35.973844,
+    -78.511422,
+    35.973844
+],
   "geometry": {"coordinates":[-78.511422,35.973844],"type":"Point"}
 }

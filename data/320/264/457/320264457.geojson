@@ -2,13 +2,14 @@
   "id": 320264457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.879115,34.805488,-76.879115,34.805488",
     "geom:latitude":34.805488,
     "geom:longitude":-76.879115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7677 US Hwy 70",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320264457,
-    "wof:lastmodified":1449013692,
+    "wof:lastmodified":1466648995,
     "wof:name":"Oceanside Auto Sales",
     "wof:parent_id":85850495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-76.879115,34.805488,-76.879115,34.805488],
+  "bbox": [
+    -76.879115,
+    34.805488,
+    -76.879115,
+    34.805488
+],
   "geometry": {"coordinates":[-76.879115,34.805488],"type":"Point"}
 }

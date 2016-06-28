@@ -2,13 +2,14 @@
   "id": 320168095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.7061,35.117673,-80.7061,35.117673",
     "geom:latitude":35.117673,
     "geom:longitude":-80.7061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 Matthews-Mint Hill Rd",
     "sg:city":"Matthews",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320168095,
-    "wof:lastmodified":1449013209,
+    "wof:lastmodified":1466647650,
     "wof:name":"Porter Paints Inc",
     "wof:parent_id":85858513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-80.7061,35.117673,-80.7061,35.117673],
-  "geometry": {"coordinates":[-80.7061,35.117673],"type":"Point"}
+  "bbox": [
+    -80.7061,
+    35.117673,
+    -80.7061,
+    35.117673
+],
+  "geometry": {"coordinates":[-80.70610000000001,35.117673],"type":"Point"}
 }

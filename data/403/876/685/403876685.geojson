@@ -2,13 +2,14 @@
   "id": 403876685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.779964,35.356597,-79.779964,35.356597",
     "geom:latitude":35.356597,
     "geom:longitude":-79.779964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Main St",
     "sg:city":"Biscoe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403876685,
-    "wof:lastmodified":1449054909,
+    "wof:lastmodified":1466652612,
     "wof:name":"Main Street Insurance Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.779964,35.356597,-79.779964,35.356597],
-  "geometry": {"coordinates":[-79.779964,35.356597],"type":"Point"}
+  "bbox": [
+    -79.779964,
+    35.356597,
+    -79.779964,
+    35.356597
+],
+  "geometry": {"coordinates":[-79.77996400000001,35.356597],"type":"Point"}
 }

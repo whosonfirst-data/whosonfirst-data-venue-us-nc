@@ -2,13 +2,14 @@
   "id": 387420645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.61457,35.734351,-81.61457,35.734351",
     "geom:latitude":35.734351,
     "geom:longitude":-81.61457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 Greentree Acres Rd",
     "sg:city":"Valdese",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387420645,
-    "wof:lastmodified":1449057920,
+    "wof:lastmodified":1466655379,
     "wof:name":"A2z Tile",
     "wof:parent_id":85831919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.61457,35.734351,-81.61457,35.734351],
+  "bbox": [
+    -81.61457,
+    35.734351,
+    -81.61457,
+    35.734351
+],
   "geometry": {"coordinates":[-81.61457,35.734351],"type":"Point"}
 }

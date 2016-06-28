@@ -2,13 +2,14 @@
   "id": 320419151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.91057,35.988035,-79.91057,35.988035",
     "geom:latitude":35.988035,
     "geom:longitude":-79.91057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5704 Hidden Valley Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320419151,
-    "wof:lastmodified":1449014894,
+    "wof:lastmodified":1466651203,
     "wof:name":"Horizon Foods Of Greensboro",
     "wof:parent_id":85802417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seafood"
     ]
 },
-  "bbox": [-79.91057,35.988035,-79.91057,35.988035],
-  "geometry": {"coordinates":[-79.91057,35.988035],"type":"Point"}
+  "bbox": [
+    -79.91057,
+    35.988035,
+    -79.91057,
+    35.988035
+],
+  "geometry": {"coordinates":[-79.91057000000001,35.988035],"type":"Point"}
 }

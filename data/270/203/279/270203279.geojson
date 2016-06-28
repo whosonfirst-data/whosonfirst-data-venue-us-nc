@@ -2,13 +2,14 @@
   "id": 270203279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.791986,35.545557,-80.791986,35.545557",
     "geom:latitude":35.545557,
     "geom:longitude":-80.791986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 River Birch Cir",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270203279,
-    "wof:lastmodified":1449009721,
+    "wof:lastmodified":1466645652,
     "wof:name":"Saubers Rv Sales & Service",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-80.791986,35.545557,-80.791986,35.545557],
-  "geometry": {"coordinates":[-80.791986,35.545557],"type":"Point"}
+  "bbox": [
+    -80.791986,
+    35.545557,
+    -80.791986,
+    35.545557
+],
+  "geometry": {"coordinates":[-80.79198599999999,35.545557],"type":"Point"}
 }

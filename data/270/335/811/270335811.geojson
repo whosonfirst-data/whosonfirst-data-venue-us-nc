@@ -2,13 +2,14 @@
   "id": 270335811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.007201,35.92064,-79.007201,35.92064",
     "geom:latitude":35.92064,
     "geom:longitude":-79.007201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 New Castle Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270335811,
-    "wof:lastmodified":1449010278,
+    "wof:lastmodified":1466647317,
     "wof:name":"New Castle Investments LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-79.007201,35.92064,-79.007201,35.92064],
-  "geometry": {"coordinates":[-79.007201,35.92064],"type":"Point"}
+  "bbox": [
+    -79.007201,
+    35.92064,
+    -79.007201,
+    35.92064
+],
+  "geometry": {"coordinates":[-79.00720099999999,35.92064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387506093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.241858,36.288104,-76.241858,36.288104",
     "geom:latitude":36.288104,
     "geom:longitude":-76.241858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Halstead Blvd",
     "sg:city":"Elizabeth City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387506093,
-    "wof:lastmodified":1449056203,
+    "wof:lastmodified":1466656057,
     "wof:name":"Elizabeth City Fire Dept",
     "wof:parent_id":85840077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-76.241858,36.288104,-76.241858,36.288104],
-  "geometry": {"coordinates":[-76.241858,36.288104],"type":"Point"}
+  "bbox": [
+    -76.241858,
+    36.288104,
+    -76.241858,
+    36.288104
+],
+  "geometry": {"coordinates":[-76.24185799999999,36.288104],"type":"Point"}
 }

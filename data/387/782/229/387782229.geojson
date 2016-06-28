@@ -2,13 +2,14 @@
   "id": 387782229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.763905,35.912216,-78.763905,35.912216",
     "geom:latitude":35.912216,
     "geom:longitude":-78.763905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7508 Precision Dr",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387782229,
-    "wof:lastmodified":1449056099,
+    "wof:lastmodified":1466657640,
     "wof:name":"SAIA Motor Freight Line Inc",
     "wof:parent_id":85892095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-78.763905,35.912216,-78.763905,35.912216],
-  "geometry": {"coordinates":[-78.763905,35.912216],"type":"Point"}
+  "bbox": [
+    -78.763905,
+    35.912216,
+    -78.763905,
+    35.912216
+],
+  "geometry": {"coordinates":[-78.76390499999999,35.912216],"type":"Point"}
 }

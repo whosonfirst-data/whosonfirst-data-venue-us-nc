@@ -2,13 +2,14 @@
   "id": 203191437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.468063,35.659793,-78.468063,35.659793",
     "geom:latitude":35.659793,
     "geom:longitude":-78.468063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Main St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203191437,
-    "wof:lastmodified":1449026085,
+    "wof:lastmodified":1466655176,
     "wof:name":"Ergonomic Concepts",
     "wof:parent_id":85850943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ergonomics"
     ]
 },
-  "bbox": [-78.468063,35.659793,-78.468063,35.659793],
+  "bbox": [
+    -78.468063,
+    35.659793,
+    -78.468063,
+    35.659793
+],
   "geometry": {"coordinates":[-78.468063,35.659793],"type":"Point"}
 }

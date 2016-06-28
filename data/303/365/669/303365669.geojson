@@ -2,13 +2,14 @@
   "id": 303365669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.673999,35.156151,-80.673999,35.156151",
     "geom:latitude":35.156151,
     "geom:longitude":-80.673999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5013 Matthews-Mint Hill Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303365669,
-    "wof:lastmodified":1448998509,
+    "wof:lastmodified":1466648582,
     "wof:name":"E-Z Metals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "system"
     ]
 },
-  "bbox": [-80.673999,35.156151,-80.673999,35.156151],
-  "geometry": {"coordinates":[-80.673999,35.156151],"type":"Point"}
+  "bbox": [
+    -80.673999,
+    35.156151,
+    -80.673999,
+    35.156151
+],
+  "geometry": {"coordinates":[-80.67399899999999,35.156151],"type":"Point"}
 }

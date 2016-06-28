@@ -2,13 +2,14 @@
   "id": 387965839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.325021,34.998437,-78.325021,34.998437",
     "geom:latitude":34.998437,
     "geom:longitude":-78.325021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Mc Koy St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387965839,
-    "wof:lastmodified":1449058767,
+    "wof:lastmodified":1466658129,
     "wof:name":"Family Monument Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-78.325021,34.998437,-78.325021,34.998437],
-  "geometry": {"coordinates":[-78.325021,34.998437],"type":"Point"}
+  "bbox": [
+    -78.325021,
+    34.998437,
+    -78.325021,
+    34.998437
+],
+  "geometry": {"coordinates":[-78.32502100000001,34.998437],"type":"Point"}
 }

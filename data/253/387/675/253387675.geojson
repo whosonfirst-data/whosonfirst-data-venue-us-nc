@@ -2,13 +2,14 @@
   "id": 253387675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.479442,35.546666,-78.479442,35.546666",
     "geom:latitude":35.546666,
     "geom:longitude":-78.479442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Freedom Rd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253387675,
-    "wof:lastmodified":1449065375,
+    "wof:lastmodified":1466647018,
     "wof:name":"Baker's Stainless Fabs Inc",
     "wof:parent_id":85854199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-78.479442,35.546666,-78.479442,35.546666],
-  "geometry": {"coordinates":[-78.479442,35.546666],"type":"Point"}
+  "bbox": [
+    -78.479442,
+    35.546666,
+    -78.479442,
+    35.546666
+],
+  "geometry": {"coordinates":[-78.47944200000001,35.546666],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320223491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.207068,35.202143,-77.207068,35.202143",
     "geom:latitude":35.202143,
     "geom:longitude":-77.207068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3865 State Hwy 55",
     "sg:city":"New Bern",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320223491,
-    "wof:lastmodified":1449011502,
+    "wof:lastmodified":1466648422,
     "wof:name":"Eastern Carolina Vinyl Prod",
     "wof:parent_id":85824391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vinyl"
     ]
 },
-  "bbox": [-77.207068,35.202143,-77.207068,35.202143],
-  "geometry": {"coordinates":[-77.207068,35.202143],"type":"Point"}
+  "bbox": [
+    -77.207068,
+    35.202143,
+    -77.207068,
+    35.202143
+],
+  "geometry": {"coordinates":[-77.20706800000001,35.202143],"type":"Point"}
 }

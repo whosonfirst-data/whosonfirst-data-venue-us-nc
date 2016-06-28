@@ -2,13 +2,14 @@
   "id": 186468251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.806851,35.592757,-78.806851,35.592757",
     "geom:latitude":35.592757,
     "geom:longitude":-78.806851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Mc Lean St",
     "sg:city":"Fuquay Varina",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186468251,
-    "wof:lastmodified":1449052279,
+    "wof:lastmodified":1466654205,
     "wof:name":"Pine Acres Community Ctr",
     "wof:parent_id":85857689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-78.806851,35.592757,-78.806851,35.592757],
-  "geometry": {"coordinates":[-78.806851,35.592757],"type":"Point"}
+  "bbox": [
+    -78.806851,
+    35.592757,
+    -78.806851,
+    35.592757
+],
+  "geometry": {"coordinates":[-78.80685099999999,35.592757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353590233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.844169,35.551403,-82.844169,35.551403",
     "geom:latitude":35.551403,
     "geom:longitude":-82.844169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"558 N Canton Rd",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353590233,
-    "wof:lastmodified":1449019792,
+    "wof:lastmodified":1466649294,
     "wof:name":"Scott Wrecker Svc",
     "wof:parent_id":85819235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.844169,35.551403,-82.844169,35.551403],
-  "geometry": {"coordinates":[-82.844169,35.551403],"type":"Point"}
+  "bbox": [
+    -82.844169,
+    35.551403,
+    -82.844169,
+    35.551403
+],
+  "geometry": {"coordinates":[-82.84416899999999,35.551403],"type":"Point"}
 }

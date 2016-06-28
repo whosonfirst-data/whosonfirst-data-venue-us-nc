@@ -2,13 +2,14 @@
   "id": 253671599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.943059,34.231924,-77.943059,34.231924",
     "geom:latitude":34.231924,
     "geom:longitude":-77.943059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Ann St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":253671599,
-    "wof:lastmodified":1449063497,
+    "wof:lastmodified":1466650407,
     "wof:name":"St Mary S Catholic Church",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "church"
     ]
 },
-  "bbox": [-77.943059,34.231924,-77.943059,34.231924],
-  "geometry": {"coordinates":[-77.943059,34.231924],"type":"Point"}
+  "bbox": [
+    -77.943059,
+    34.231924,
+    -77.943059,
+    34.231924
+],
+  "geometry": {"coordinates":[-77.94305900000001,34.231924],"type":"Point"}
 }

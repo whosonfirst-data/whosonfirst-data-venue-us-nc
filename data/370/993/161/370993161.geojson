@@ -2,13 +2,14 @@
   "id": 370993161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.534596,35.753973,-78.534596,35.753973",
     "geom:latitude":35.753973,
     "geom:longitude":-78.534596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Ann Ave",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370993161,
-    "wof:lastmodified":1449030594,
+    "wof:lastmodified":1466657200,
     "wof:name":"Price's Cabinet & Furniture",
     "wof:parent_id":85845179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-78.534596,35.753973,-78.534596,35.753973],
-  "geometry": {"coordinates":[-78.534596,35.753973],"type":"Point"}
+  "bbox": [
+    -78.534596,
+    35.753973,
+    -78.534596,
+    35.753973
+],
+  "geometry": {"coordinates":[-78.53459599999999,35.753973],"type":"Point"}
 }

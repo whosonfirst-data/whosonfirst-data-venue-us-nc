@@ -2,13 +2,14 @@
   "id": 304038609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.784877,36.101175,-79.784877,36.101175",
     "geom:latitude":36.101175,
     "geom:longitude":-79.784877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 State St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304038609,
-    "wof:lastmodified":1449043977,
+    "wof:lastmodified":1466644712,
     "wof:name":"McKinney Resa",
     "wof:parent_id":85833115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.784877,36.101175,-79.784877,36.101175],
-  "geometry": {"coordinates":[-79.784877,36.101175],"type":"Point"}
+  "bbox": [
+    -79.784877,
+    36.101175,
+    -79.784877,
+    36.101175
+],
+  "geometry": {"coordinates":[-79.78487699999999,36.101175],"type":"Point"}
 }

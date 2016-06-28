@@ -2,13 +2,14 @@
   "id": 387867399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.546894,35.602889,-82.546894,35.602889",
     "geom:latitude":35.602889,
     "geom:longitude":-82.546894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E Chestnut St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387867399,
-    "wof:lastmodified":1449057748,
+    "wof:lastmodified":1466657826,
     "wof:name":"Nami Western Carolina Inc",
     "wof:parent_id":85802591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-82.546894,35.602889,-82.546894,35.602889],
-  "geometry": {"coordinates":[-82.546894,35.602889],"type":"Point"}
+  "bbox": [
+    -82.546894,
+    35.602889,
+    -82.546894,
+    35.602889
+],
+  "geometry": {"coordinates":[-82.54689399999999,35.602889],"type":"Point"}
 }

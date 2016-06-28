@@ -2,13 +2,14 @@
   "id": 336679517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.646751,36.500034,-77.646751,36.500034",
     "geom:latitude":36.500034,
     "geom:longitude":-77.646751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Lawrenceville Rd",
     "sg:city":"Roanoke Rapids",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336679517,
-    "wof:lastmodified":1448997622,
+    "wof:lastmodified":1466647064,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-77.646751,36.500034,-77.646751,36.500034],
-  "geometry": {"coordinates":[-77.646751,36.500034],"type":"Point"}
+  "bbox": [
+    -77.646751,
+    36.500034,
+    -77.646751,
+    36.500034
+],
+  "geometry": {"coordinates":[-77.64675099999999,36.500034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286578997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.020806,35.248792,-81.020806,35.248792",
     "geom:latitude":35.248792,
     "geom:longitude":-81.020806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 Wilkinson Blvd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286578997,
-    "wof:lastmodified":1449015908,
+    "wof:lastmodified":1466647443,
     "wof:name":"Cato Rentals",
     "wof:parent_id":85849453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-81.020806,35.248792,-81.020806,35.248792],
-  "geometry": {"coordinates":[-81.020806,35.248792],"type":"Point"}
+  "bbox": [
+    -81.020806,
+    35.248792,
+    -81.020806,
+    35.248792
+],
+  "geometry": {"coordinates":[-81.02080599999999,35.248792],"type":"Point"}
 }

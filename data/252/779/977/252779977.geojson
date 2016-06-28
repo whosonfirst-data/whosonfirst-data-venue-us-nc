@@ -2,13 +2,14 @@
   "id": 252779977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.620793,35.877521,-78.620793,35.877521",
     "geom:latitude":35.877521,
     "geom:longitude":-78.620793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 Huntingridge Rd",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252779977,
-    "wof:lastmodified":1449005576,
+    "wof:lastmodified":1466643868,
     "wof:name":"Fit For His Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "weight"
     ]
 },
-  "bbox": [-78.620793,35.877521,-78.620793,35.877521],
-  "geometry": {"coordinates":[-78.620793,35.877521],"type":"Point"}
+  "bbox": [
+    -78.620793,
+    35.877521,
+    -78.620793,
+    35.877521
+],
+  "geometry": {"coordinates":[-78.62079300000001,35.877521],"type":"Point"}
 }

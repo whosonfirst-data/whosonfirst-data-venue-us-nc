@@ -2,13 +2,14 @@
   "id": 203289151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.789648,34.237405,-78.789648,34.237405",
     "geom:latitude":34.237405,
     "geom:longitude":-78.789648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2259 Beaverdam Rd",
     "sg:city":"Tabor City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203289151,
-    "wof:lastmodified":1449026533,
+    "wof:lastmodified":1466655796,
     "wof:name":"Jeff's Mobile Sawmill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-78.789648,34.237405,-78.789648,34.237405],
+  "bbox": [
+    -78.789648,
+    34.237405,
+    -78.789648,
+    34.237405
+],
   "geometry": {"coordinates":[-78.789648,34.237405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353903081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.911647,35.130985,-80.911647,35.130985",
     "geom:latitude":35.130985,
     "geom:longitude":-80.911647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8334 Arrowridge Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353903081,
-    "wof:lastmodified":1449018407,
+    "wof:lastmodified":1466652946,
     "wof:name":"C P Morgan Warehouse",
     "wof:parent_id":85858217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "storage"
     ]
 },
-  "bbox": [-80.911647,35.130985,-80.911647,35.130985],
+  "bbox": [
+    -80.911647,
+    35.130985,
+    -80.911647,
+    35.130985
+],
   "geometry": {"coordinates":[-80.911647,35.130985],"type":"Point"}
 }

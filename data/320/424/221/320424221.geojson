@@ -2,13 +2,14 @@
   "id": 320424221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.360116,35.550639,-77.360116,35.550639",
     "geom:latitude":35.550639,
     "geom:longitude":-77.360116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Bishop Dr",
     "sg:city":"Winterville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320424221,
-    "wof:lastmodified":1449014726,
+    "wof:lastmodified":1466651271,
     "wof:name":"Atlantic Boat Transportation",
     "wof:parent_id":85858219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-77.360116,35.550639,-77.360116,35.550639],
+  "bbox": [
+    -77.360116,
+    35.550639,
+    -77.360116,
+    35.550639
+],
   "geometry": {"coordinates":[-77.360116,35.550639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320650547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.332371,36.144225,-81.332371,36.144225",
     "geom:latitude":36.144225,
     "geom:longitude":-81.332371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Champion Mount Pleasant Rd",
     "sg:city":"Ferguson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320650547,
-    "wof:lastmodified":1449013530,
+    "wof:lastmodified":1466654548,
     "wof:name":"Daniel Miles Livestock",
     "wof:parent_id":85857279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-81.332371,36.144225,-81.332371,36.144225],
-  "geometry": {"coordinates":[-81.332371,36.144225],"type":"Point"}
+  "bbox": [
+    -81.332371,
+    36.144225,
+    -81.332371,
+    36.144225
+],
+  "geometry": {"coordinates":[-81.33237099999999,36.144225],"type":"Point"}
 }

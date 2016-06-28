@@ -2,13 +2,14 @@
   "id": 203101621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.701659,35.327618,-80.701659,35.327618",
     "geom:latitude":35.327618,
     "geom:longitude":-80.701659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 Whitebridge Ln",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203101621,
-    "wof:lastmodified":1449025944,
+    "wof:lastmodified":1466654798,
     "wof:name":"Latimer Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.701659,35.327618,-80.701659,35.327618],
-  "geometry": {"coordinates":[-80.701659,35.327618],"type":"Point"}
+  "bbox": [
+    -80.701659,
+    35.327618,
+    -80.701659,
+    35.327618
+],
+  "geometry": {"coordinates":[-80.70165900000001,35.327618],"type":"Point"}
 }

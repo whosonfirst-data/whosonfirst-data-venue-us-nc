@@ -2,13 +2,14 @@
   "id": 236560991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.985768,35.98602,-81.985768,35.98602",
     "geom:latitude":35.98602,
     "geom:longitude":-81.985768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Bob Taylor Rd",
     "sg:city":"Newland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236560991,
-    "wof:lastmodified":1449004302,
+    "wof:lastmodified":1466648176,
     "wof:name":"High Country Decorative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "block"
     ]
 },
-  "bbox": [-81.985768,35.98602,-81.985768,35.98602],
-  "geometry": {"coordinates":[-81.985768,35.98602],"type":"Point"}
+  "bbox": [
+    -81.985768,
+    35.98602,
+    -81.985768,
+    35.98602
+],
+  "geometry": {"coordinates":[-81.98576799999999,35.98602],"type":"Point"}
 }

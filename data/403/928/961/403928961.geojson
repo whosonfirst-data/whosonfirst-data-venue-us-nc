@@ -2,13 +2,14 @@
   "id": 403928961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.955711,36.204234,-79.955711,36.204234",
     "geom:latitude":36.204234,
     "geom:longitude":-79.955711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7762 Eversfield Rd",
     "sg:city":"Summerfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403928961,
-    "wof:lastmodified":1449055781,
+    "wof:lastmodified":1466653274,
     "wof:name":"A Quarter Inch Equals One Foot",
     "wof:parent_id":85877983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.955711,36.204234,-79.955711,36.204234],
-  "geometry": {"coordinates":[-79.955711,36.204234],"type":"Point"}
+  "bbox": [
+    -79.955711,
+    36.204234,
+    -79.955711,
+    36.204234
+],
+  "geometry": {"coordinates":[-79.95571099999999,36.204234],"type":"Point"}
 }

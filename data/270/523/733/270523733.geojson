@@ -2,13 +2,14 @@
   "id": 270523733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.633265,35.781077,-78.633265,35.781077",
     "geom:latitude":35.781077,
     "geom:longitude":-78.633265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 E Edenton St",
     "sg:city":"Raleigh",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270523733,
-    "wof:lastmodified":1449010065,
+    "wof:lastmodified":1466649759,
     "wof:name":"C & M Distributors",
     "wof:parent_id":85873449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-78.633265,35.781077,-78.633265,35.781077],
-  "geometry": {"coordinates":[-78.633265,35.781077],"type":"Point"}
+  "bbox": [
+    -78.633265,
+    35.781077,
+    -78.633265,
+    35.781077
+],
+  "geometry": {"coordinates":[-78.63326499999999,35.781077],"type":"Point"}
 }

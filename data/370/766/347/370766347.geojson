@@ -2,13 +2,14 @@
   "id": 370766347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.019985,35.122275,-77.019985,35.122275",
     "geom:latitude":35.122275,
     "geom:longitude":-77.019985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 D St",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370766347,
-    "wof:lastmodified":1449029020,
+    "wof:lastmodified":1466656046,
     "wof:name":"Emporium",
     "wof:parent_id":85812775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-77.019985,35.122275,-77.019985,35.122275],
-  "geometry": {"coordinates":[-77.019985,35.122275],"type":"Point"}
+  "bbox": [
+    -77.019985,
+    35.122275,
+    -77.019985,
+    35.122275
+],
+  "geometry": {"coordinates":[-77.01998500000001,35.122275],"type":"Point"}
 }

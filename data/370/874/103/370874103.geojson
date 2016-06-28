@@ -2,13 +2,14 @@
   "id": 370874103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.825601,36.082574,-79.825601,36.082574",
     "geom:latitude":36.082574,
     "geom:longitude":-79.825601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 N Elam Ave",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370874103,
-    "wof:lastmodified":1449032248,
+    "wof:lastmodified":1466656535,
     "wof:name":"Retina & Diabetic Eye Ctr",
     "wof:parent_id":85851563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.825601,36.082574,-79.825601,36.082574],
-  "geometry": {"coordinates":[-79.825601,36.082574],"type":"Point"}
+  "bbox": [
+    -79.825601,
+    36.082574,
+    -79.825601,
+    36.082574
+],
+  "geometry": {"coordinates":[-79.82560100000001,36.082574],"type":"Point"}
 }

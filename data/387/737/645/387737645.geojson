@@ -2,13 +2,14 @@
   "id": 387737645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.937349,36.009046,-78.937349,36.009046",
     "geom:latitude":36.009046,
     "geom:longitude":-78.937349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Fulton St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387737645,
-    "wof:lastmodified":1449056951,
+    "wof:lastmodified":1466657325,
     "wof:name":"VA Hospital Durham",
     "wof:parent_id":85877141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-78.937349,36.009046,-78.937349,36.009046],
+  "bbox": [
+    -78.937349,
+    36.009046,
+    -78.937349,
+    36.009046
+],
   "geometry": {"coordinates":[-78.937349,36.009046],"type":"Point"}
 }

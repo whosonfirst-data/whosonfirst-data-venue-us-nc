@@ -2,13 +2,14 @@
   "id": 286696441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.010776,35.318598,-78.010776,35.318598",
     "geom:latitude":35.318598,
     "geom:longitude":-78.010776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"584 Pecan Rd",
     "sg:city":"Dudley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286696441,
-    "wof:lastmodified":1449015393,
+    "wof:lastmodified":1466649041,
     "wof:name":"Saint John A M E Z Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.010776,35.318598,-78.010776,35.318598],
-  "geometry": {"coordinates":[-78.010776,35.318598],"type":"Point"}
+  "bbox": [
+    -78.010776,
+    35.318598,
+    -78.010776,
+    35.318598
+],
+  "geometry": {"coordinates":[-78.01077600000001,35.318598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286541953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.815808,35.579757,-80.815808,35.579757",
     "geom:latitude":35.579757,
     "geom:longitude":-80.815808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 S Main St",
     "sg:city":"Mooresville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286541953,
-    "wof:lastmodified":1449015500,
+    "wof:lastmodified":1466646927,
     "wof:name":"LA Valet",
     "wof:parent_id":85848439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.815808,35.579757,-80.815808,35.579757],
+  "bbox": [
+    -80.815808,
+    35.579757,
+    -80.815808,
+    35.579757
+],
   "geometry": {"coordinates":[-80.815808,35.579757],"type":"Point"}
 }

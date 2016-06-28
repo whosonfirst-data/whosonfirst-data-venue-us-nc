@@ -2,13 +2,14 @@
   "id": 370465275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.998579,36.20357,-78.998579,36.20357",
     "geom:latitude":36.20357,
     "geom:longitude":-78.998579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 Nichols Ridge Ct",
     "sg:city":"Rougemont",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370465275,
-    "wof:lastmodified":1449031356,
+    "wof:lastmodified":1466652113,
     "wof:name":"Minter Communications",
     "wof:parent_id":85857995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-78.998579,36.20357,-78.998579,36.20357],
-  "geometry": {"coordinates":[-78.998579,36.20357],"type":"Point"}
+  "bbox": [
+    -78.998579,
+    36.20357,
+    -78.998579,
+    36.20357
+],
+  "geometry": {"coordinates":[-78.99857900000001,36.20357],"type":"Point"}
 }

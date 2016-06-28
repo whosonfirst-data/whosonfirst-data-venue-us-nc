@@ -2,13 +2,14 @@
   "id": 219892003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.546343,33.899054,-78.546343,33.899054",
     "geom:latitude":33.899054,
     "geom:longitude":-78.546343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 Pine Bur Cir SW",
     "sg:city":"Sunset Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219892003,
-    "wof:lastmodified":1449070908,
+    "wof:lastmodified":1466647923,
     "wof:name":"Mckelvey RL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-78.546343,33.899054,-78.546343,33.899054],
-  "geometry": {"coordinates":[-78.546343,33.899054],"type":"Point"}
+  "bbox": [
+    -78.546343,
+    33.899054,
+    -78.546343,
+    33.899054
+],
+  "geometry": {"coordinates":[-78.54634299999999,33.899054],"type":"Point"}
 }

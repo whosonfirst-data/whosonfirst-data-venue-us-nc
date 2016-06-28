@@ -2,13 +2,14 @@
   "id": 320786705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.90883,35.107118,-78.90883,35.107118",
     "geom:latitude":35.107118,
     "geom:longitude":-78.90883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Landau Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320786705,
-    "wof:lastmodified":1449011738,
+    "wof:lastmodified":1466656241,
     "wof:name":"Makin Choices Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-78.90883,35.107118,-78.90883,35.107118],
-  "geometry": {"coordinates":[-78.90883,35.107118],"type":"Point"}
+  "bbox": [
+    -78.90883,
+    35.107118,
+    -78.90883,
+    35.107118
+],
+  "geometry": {"coordinates":[-78.90882999999999,35.107118],"type":"Point"}
 }

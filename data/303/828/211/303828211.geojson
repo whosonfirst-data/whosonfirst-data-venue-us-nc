@@ -2,13 +2,14 @@
   "id": 303828211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.764676,36.20038,-75.764676,36.20038",
     "geom:latitude":36.20038,
     "geom:longitude":-75.764676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Duck Rd",
     "sg:city":"Kitty Hawk",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303828211,
-    "wof:lastmodified":1448999357,
+    "wof:lastmodified":1466655260,
     "wof:name":"Nor'Banks Sailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boat"
     ]
 },
-  "bbox": [-75.764676,36.20038,-75.764676,36.20038],
-  "geometry": {"coordinates":[-75.764676,36.20038],"type":"Point"}
+  "bbox": [
+    -75.764676,
+    36.20038,
+    -75.764676,
+    36.20038
+],
+  "geometry": {"coordinates":[-75.76467599999999,36.20038],"type":"Point"}
 }

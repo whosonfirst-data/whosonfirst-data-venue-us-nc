@@ -2,13 +2,14 @@
   "id": 320527421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.511264,35.974126,-78.511264,35.974126",
     "geom:latitude":35.974126,
     "geom:longitude":-78.511264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 S White St",
     "sg:city":"Wake Forest",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320527421,
-    "wof:lastmodified":1449014194,
+    "wof:lastmodified":1466652759,
     "wof:name":"Time Warner Cable",
     "wof:parent_id":85892185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-78.511264,35.974126,-78.511264,35.974126],
+  "bbox": [
+    -78.511264,
+    35.974126,
+    -78.511264,
+    35.974126
+],
   "geometry": {"coordinates":[-78.511264,35.974126],"type":"Point"}
 }

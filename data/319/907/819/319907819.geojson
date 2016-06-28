@@ -2,13 +2,14 @@
   "id": 319907819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.735369,34.278426,-77.735369,34.278426",
     "geom:latitude":34.278426,
     "geom:longitude":-77.735369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 Beach Rd N",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319907819,
-    "wof:lastmodified":1449024827,
+    "wof:lastmodified":1466646144,
     "wof:name":"Murray Construction Co",
     "wof:parent_id":85852563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.735369,34.278426,-77.735369,34.278426],
-  "geometry": {"coordinates":[-77.735369,34.278426],"type":"Point"}
+  "bbox": [
+    -77.735369,
+    34.278426,
+    -77.735369,
+    34.278426
+],
+  "geometry": {"coordinates":[-77.73536900000001,34.278426],"type":"Point"}
 }

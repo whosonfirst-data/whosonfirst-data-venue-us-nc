@@ -2,13 +2,14 @@
   "id": 269648321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.839922,34.215417,-77.839922,34.215417",
     "geom:latitude":34.215417,
     "geom:longitude":-77.839922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Gaddy Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269648321,
-    "wof:lastmodified":1449036811,
+    "wof:lastmodified":1466645193,
     "wof:name":"Thompson Filtration",
     "wof:parent_id":85838865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "filter"
     ]
 },
-  "bbox": [-77.839922,34.215417,-77.839922,34.215417],
+  "bbox": [
+    -77.839922,
+    34.215417,
+    -77.839922,
+    34.215417
+],
   "geometry": {"coordinates":[-77.839922,34.215417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370177831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.26122,36.144127,-80.26122,36.144127",
     "geom:latitude":36.144127,
     "geom:longitude":-80.26122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Craft Dr",
     "sg:city":"Winston Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370177831,
-    "wof:lastmodified":1449032469,
+    "wof:lastmodified":1466648483,
     "wof:name":"Location & Surveys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "survey"
     ]
 },
-  "bbox": [-80.26122,36.144127,-80.26122,36.144127],
-  "geometry": {"coordinates":[-80.26122,36.144127],"type":"Point"}
+  "bbox": [
+    -80.26122,
+    36.144127,
+    -80.26122,
+    36.144127
+],
+  "geometry": {"coordinates":[-80.26121999999999,36.144127],"type":"Point"}
 }

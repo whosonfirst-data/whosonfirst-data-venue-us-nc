@@ -2,13 +2,14 @@
   "id": 269753799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.155013,35.222474,-81.155013,35.222474",
     "geom:latitude":35.222474,
     "geom:longitude":-81.155013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2976 Robinwood Rd",
     "sg:city":"Gastonia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269753799,
-    "wof:lastmodified":1449036429,
+    "wof:lastmodified":1466646401,
     "wof:name":"Gray House",
     "wof:parent_id":85816339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-81.155013,35.222474,-81.155013,35.222474],
+  "bbox": [
+    -81.155013,
+    35.222474,
+    -81.155013,
+    35.222474
+],
   "geometry": {"coordinates":[-81.155013,35.222474],"type":"Point"}
 }

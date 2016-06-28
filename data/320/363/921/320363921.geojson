@@ -2,13 +2,14 @@
   "id": 320363921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.784456,35.480111,-78.784456,35.480111",
     "geom:latitude":35.480111,
     "geom:longitude":-78.784456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Whit Ct",
     "sg:city":"Angier",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320363921,
-    "wof:lastmodified":1449014512,
+    "wof:lastmodified":1466650404,
     "wof:name":"Harold Bain Collidge Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.784456,35.480111,-78.784456,35.480111],
-  "geometry": {"coordinates":[-78.784456,35.480111],"type":"Point"}
+  "bbox": [
+    -78.784456,
+    35.480111,
+    -78.784456,
+    35.480111
+],
+  "geometry": {"coordinates":[-78.78445600000001,35.480111],"type":"Point"}
 }

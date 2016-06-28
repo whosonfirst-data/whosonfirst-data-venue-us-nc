@@ -2,13 +2,14 @@
   "id": 286864733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.033274,35.928604,-79.033274,35.928604",
     "geom:latitude":35.928604,
     "geom:longitude":-79.033274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 S Estes Dr",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286864733,
-    "wof:lastmodified":1449018121,
+    "wof:lastmodified":1466651351,
     "wof:name":"US Post Office",
     "wof:parent_id":85868007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.033274,35.928604,-79.033274,35.928604],
-  "geometry": {"coordinates":[-79.033274,35.928604],"type":"Point"}
+  "bbox": [
+    -79.033274,
+    35.928604,
+    -79.033274,
+    35.928604
+],
+  "geometry": {"coordinates":[-79.03327400000001,35.928604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303246593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.96326,35.255847,-78.96326,35.255847",
     "geom:latitude":35.255847,
     "geom:longitude":-78.96326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6750 Overhills Rd",
     "sg:city":"Spring Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303246593,
-    "wof:lastmodified":1448998286,
+    "wof:lastmodified":1466646904,
     "wof:name":"Anderson Creek Medical Ctr",
     "wof:parent_id":85856971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.96326,35.255847,-78.96326,35.255847],
-  "geometry": {"coordinates":[-78.96326,35.255847],"type":"Point"}
+  "bbox": [
+    -78.96326,
+    35.255847,
+    -78.96326,
+    35.255847
+],
+  "geometry": {"coordinates":[-78.96326000000001,35.255847],"type":"Point"}
 }

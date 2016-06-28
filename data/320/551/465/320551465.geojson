@@ -2,13 +2,14 @@
   "id": 320551465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.067528,35.921987,-79.067528,35.921987",
     "geom:latitude":35.921987,
     "geom:longitude":-79.067528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Ridge Trl",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320551465,
-    "wof:lastmodified":1449012013,
+    "wof:lastmodified":1466653108,
     "wof:name":"Art Of Cake",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-79.067528,35.921987,-79.067528,35.921987],
+  "bbox": [
+    -79.067528,
+    35.921987,
+    -79.067528,
+    35.921987
+],
   "geometry": {"coordinates":[-79.067528,35.921987],"type":"Point"}
 }

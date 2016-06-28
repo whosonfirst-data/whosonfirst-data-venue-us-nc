@@ -2,13 +2,14 @@
   "id": 303607807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.95077,34.18187,-77.95077,34.18187",
     "geom:latitude":34.18187,
     "geom:longitude":-77.95077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 River Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303607807,
-    "wof:lastmodified":1448998442,
+    "wof:lastmodified":1466652067,
     "wof:name":"Vopak Corp",
     "wof:parent_id":85829107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-77.95077,34.18187,-77.95077,34.18187],
-  "geometry": {"coordinates":[-77.95077,34.18187],"type":"Point"}
+  "bbox": [
+    -77.95077,
+    34.18187,
+    -77.95077,
+    34.18187
+],
+  "geometry": {"coordinates":[-77.95077000000001,34.18187],"type":"Point"}
 }

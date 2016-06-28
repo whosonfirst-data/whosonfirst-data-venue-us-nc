@@ -2,13 +2,14 @@
   "id": 370219151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.72952,35.241365,-82.72952,35.241365",
     "geom:latitude":35.241365,
     "geom:longitude":-82.72952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Mc Lean Rd",
     "sg:city":"Brevard",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370219151,
-    "wof:lastmodified":1449032328,
+    "wof:lastmodified":1466649008,
     "wof:name":"Transylvania County Library",
     "wof:parent_id":85815335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.72952,35.241365,-82.72952,35.241365],
-  "geometry": {"coordinates":[-82.72952,35.241365],"type":"Point"}
+  "bbox": [
+    -82.72952,
+    35.241365,
+    -82.72952,
+    35.241365
+],
+  "geometry": {"coordinates":[-82.72951999999999,35.241365],"type":"Point"}
 }

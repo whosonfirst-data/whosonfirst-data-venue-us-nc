@@ -2,13 +2,14 @@
   "id": 320048691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.722547,35.272867,-80.722547,35.272867",
     "geom:latitude":35.272867,
     "geom:longitude":-80.722547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8904 Grier Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320048691,
-    "wof:lastmodified":1449012569,
+    "wof:lastmodified":1466646021,
     "wof:name":"Charlotte Fire Dept",
     "wof:parent_id":85836799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.722547,35.272867,-80.722547,35.272867],
-  "geometry": {"coordinates":[-80.722547,35.272867],"type":"Point"}
+  "bbox": [
+    -80.722547,
+    35.272867,
+    -80.722547,
+    35.272867
+],
+  "geometry": {"coordinates":[-80.72254700000001,35.272867],"type":"Point"}
 }

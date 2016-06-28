@@ -2,13 +2,14 @@
   "id": 202538449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.517468,36.045663,-79.517468,36.045663",
     "geom:latitude":36.045663,
     "geom:longitude":-79.517468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 Huffman Mill Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202538449,
-    "wof:lastmodified":1449060422,
+    "wof:lastmodified":1466655228,
     "wof:name":"Terrell's Custom Cabinets",
     "wof:parent_id":85857181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.517468,36.045663,-79.517468,36.045663],
-  "geometry": {"coordinates":[-79.517468,36.045663],"type":"Point"}
+  "bbox": [
+    -79.517468,
+    36.045663,
+    -79.517468,
+    36.045663
+],
+  "geometry": {"coordinates":[-79.51746799999999,36.045663],"type":"Point"}
 }

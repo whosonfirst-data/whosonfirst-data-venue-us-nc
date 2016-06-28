@@ -2,13 +2,14 @@
   "id": 269501961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.553401,35.595226,-82.553401,35.595226",
     "geom:latitude":35.595226,
     "geom:longitude":-82.553401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 College St",
     "sg:city":"Asheville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269501961,
-    "wof:lastmodified":1449038997,
+    "wof:lastmodified":1466643431,
     "wof:name":"Mediterranean Restaurant",
     "wof:parent_id":85830137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.553401,35.595226,-82.553401,35.595226],
-  "geometry": {"coordinates":[-82.553401,35.595226],"type":"Point"}
+  "bbox": [
+    -82.553401,
+    35.595226,
+    -82.553401,
+    35.595226
+],
+  "geometry": {"coordinates":[-82.55340099999999,35.595226],"type":"Point"}
 }

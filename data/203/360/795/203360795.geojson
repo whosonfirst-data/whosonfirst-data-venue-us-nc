@@ -2,13 +2,14 @@
   "id": 203360795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.573827,35.173688,-79.573827,35.173688",
     "geom:latitude":35.173688,
     "geom:longitude":-79.573827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Foxfire Blvd",
     "sg:city":"Jackson Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203360795,
-    "wof:lastmodified":1449026397,
+    "wof:lastmodified":1466643692,
     "wof:name":"Golf Matrix",
     "wof:parent_id":85836053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "membership"
     ]
 },
-  "bbox": [-79.573827,35.173688,-79.573827,35.173688],
-  "geometry": {"coordinates":[-79.573827,35.173688],"type":"Point"}
+  "bbox": [
+    -79.573827,
+    35.173688,
+    -79.573827,
+    35.173688
+],
+  "geometry": {"coordinates":[-79.57382699999999,35.173688],"type":"Point"}
 }

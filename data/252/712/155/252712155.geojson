@@ -2,13 +2,14 @@
   "id": 252712155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.881575,35.48692,-80.881575,35.48692",
     "geom:latitude":35.48692,
     "geom:longitude":-80.881575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21132 Crealock Pl",
     "sg:city":"Cornelius",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252712155,
-    "wof:lastmodified":1449005880,
+    "wof:lastmodified":1466643261,
     "wof:name":"Harbor Artists",
     "wof:parent_id":85849143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-80.881575,35.48692,-80.881575,35.48692],
+  "bbox": [
+    -80.881575,
+    35.48692,
+    -80.881575,
+    35.48692
+],
   "geometry": {"coordinates":[-80.881575,35.48692],"type":"Point"}
 }

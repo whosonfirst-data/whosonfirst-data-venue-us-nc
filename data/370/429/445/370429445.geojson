@@ -2,13 +2,14 @@
   "id": 370429445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.750824,35.201327,-80.750824,35.201327",
     "geom:latitude":35.201327,
     "geom:longitude":-80.750824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5821 Reddman Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370429445,
-    "wof:lastmodified":1449032285,
+    "wof:lastmodified":1466651663,
     "wof:name":"RNS Managment Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.750824,35.201327,-80.750824,35.201327],
-  "geometry": {"coordinates":[-80.750824,35.201327],"type":"Point"}
+  "bbox": [
+    -80.750824,
+    35.201327,
+    -80.750824,
+    35.201327
+],
+  "geometry": {"coordinates":[-80.75082399999999,35.201327],"type":"Point"}
 }

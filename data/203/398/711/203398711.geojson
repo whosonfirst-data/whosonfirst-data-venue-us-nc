@@ -2,13 +2,14 @@
   "id": 203398711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.977813,35.883946,-79.977813,35.883946",
     "geom:latitude":35.883946,
     "geom:longitude":-79.977813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4782 Darr Rd Exd",
     "sg:city":"Trinity",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203398711,
-    "wof:lastmodified":1449025086,
+    "wof:lastmodified":1466643985,
     "wof:name":"Williams Wrecker Svc",
     "wof:parent_id":85843865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-79.977813,35.883946,-79.977813,35.883946],
+  "bbox": [
+    -79.977813,
+    35.883946,
+    -79.977813,
+    35.883946
+],
   "geometry": {"coordinates":[-79.977813,35.883946],"type":"Point"}
 }

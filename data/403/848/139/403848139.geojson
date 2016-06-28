@@ -2,13 +2,14 @@
   "id": 403848139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.999153,35.252079,-76.999153,35.252079",
     "geom:latitude":35.252079,
     "geom:longitude":-76.999153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2565 Aurora Rd",
     "sg:city":"Ernul",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403848139,
-    "wof:lastmodified":1449054811,
+    "wof:lastmodified":1466652247,
     "wof:name":"Carolina Logging of Craven",
     "wof:parent_id":85858921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-76.999153,35.252079,-76.999153,35.252079],
-  "geometry": {"coordinates":[-76.999153,35.252079],"type":"Point"}
+  "bbox": [
+    -76.999153,
+    35.252079,
+    -76.999153,
+    35.252079
+],
+  "geometry": {"coordinates":[-76.99915300000001,35.252079],"type":"Point"}
 }

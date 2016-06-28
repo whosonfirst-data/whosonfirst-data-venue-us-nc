@@ -2,13 +2,14 @@
   "id": 370405247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.430363,35.350592,-82.430363,35.350592",
     "geom:latitude":35.350592,
     "geom:longitude":-82.430363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2598 Chimney Rock Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370405247,
-    "wof:lastmodified":1449032196,
+    "wof:lastmodified":1466651343,
     "wof:name":"Lost Sock Laundromat",
     "wof:parent_id":85858765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "power"
     ]
 },
-  "bbox": [-82.430363,35.350592,-82.430363,35.350592],
+  "bbox": [
+    -82.430363,
+    35.350592,
+    -82.430363,
+    35.350592
+],
   "geometry": {"coordinates":[-82.430363,35.350592],"type":"Point"}
 }
