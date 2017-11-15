@@ -2,14 +2,20 @@
   "id": 303892669,
   "type": "Feature",
   "properties": {
+    "addr:full":"1413 Anderson St Charlotte NC 28205",
+    "addr:housenumber":"1413",
+    "addr:postcode":"28205",
+    "addr:street":"Anderson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.791669,35.242486,-80.791669,35.242486",
     "geom:latitude":35.242486,
     "geom:longitude":-80.791669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1413 Anderson St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -26,20 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
         85837459
     ],
+    "wof:brand_id":1125151081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QnT9T5C2CCkOjK3QY1i1F_35.242486_-80.791669@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a1cfba343960ed8a3bd07c8e9a216ee",
+    "wof:geomhash":"1acff784678150cde1e285f0c6aa8e6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":303892669,
-    "wof:lastmodified":1466656129,
+    "wof:lastmodified":1510695433,
     "wof:name":"New Life Baptist Church",
     "wof:parent_id":85837459,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 269488787,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 E Hebron St Charlotte NC 28273",
+    "addr:housenumber":"417",
+    "addr:postcode":"28273",
+    "addr:street":"E Hebron St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.885554,35.127391,-80.885554,35.127391",
     "geom:latitude":35.127391,
     "geom:longitude":-80.885554,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"4959bc8f3e599a4ff85938d5d45e0e43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":269488787,
-    "wof:lastmodified":1466643270,
+    "wof:lastmodified":1491926238,
     "wof:name":"Charlotte Plating Inc",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

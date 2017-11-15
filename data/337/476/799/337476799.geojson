@@ -2,9 +2,14 @@
   "id": 337476799,
   "type": "Feature",
   "properties": {
+    "addr:full":"8515 Crown Crescent Ct Charlotte NC 28227",
+    "addr:housenumber":"8515",
+    "addr:postcode":"28227",
+    "addr:street":"Crown Crescent Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.730371,35.141666,-80.730371,35.141666",
     "geom:latitude":35.141666,
     "geom:longitude":-80.730371,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"17ebc33825204bf8bc8aef4c78dfadb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337476799,
-    "wof:lastmodified":1466647261,
+    "wof:lastmodified":1491899963,
     "wof:name":"Anita Goodesign Inc",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

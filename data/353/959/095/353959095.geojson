@@ -2,9 +2,14 @@
   "id": 353959095,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Brevard Ct Durham NC 27713",
+    "addr:housenumber":"1",
+    "addr:postcode":"27713",
+    "addr:street":"Brevard Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.926682,35.913028,-78.926682,35.913028",
     "geom:latitude":35.913028,
     "geom:longitude":-78.926682,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"171fd9d0248af386f3e1251afd1f6566",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353959095,
-    "wof:lastmodified":1466653628,
+    "wof:lastmodified":1491917417,
     "wof:name":"Starchild Inc",
     "wof:parent_id":85877203,
     "wof:placetype":"venue",

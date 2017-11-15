@@ -2,9 +2,14 @@
   "id": 370568111,
   "type": "Feature",
   "properties": {
+    "addr:full":"3306 Rose of Sharon Rd Durham NC 27712",
+    "addr:housenumber":"3306",
+    "addr:postcode":"27712",
+    "addr:street":"Rose Of Sharon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.952327,36.058475,-78.952327,36.058475",
     "geom:latitude":36.058475,
     "geom:longitude":-78.952327,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"59f36d5b4633c5a23a8fe016ddea55f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":370568111
         }
     ],
     "wof:id":370568111,
-    "wof:lastmodified":1466653458,
+    "wof:lastmodified":1491905445,
     "wof:name":"Bell South Wireless Data",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

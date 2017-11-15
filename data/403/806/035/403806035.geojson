@@ -2,9 +2,14 @@
   "id": 403806035,
   "type": "Feature",
   "properties": {
+    "addr:full":"5826 Woodleigh Oaks Dr Charlotte NC 28226",
+    "addr:housenumber":"5826",
+    "addr:postcode":"28226",
+    "addr:street":"Woodleigh Oaks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.829214,35.089348,-80.829214,35.089348",
     "geom:latitude":35.089348,
     "geom:longitude":-80.829214,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        85882287,
+        85809533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"961c07302186c509daa4527decd5d4f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85882287,
+            "region_id":85688773,
+            "venue_id":403806035
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85809533,
             "region_id":85688773,
             "venue_id":403806035
         }
     ],
     "wof:id":403806035,
-    "wof:lastmodified":1466651658,
+    "wof:lastmodified":1491936698,
     "wof:name":"Veraset LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

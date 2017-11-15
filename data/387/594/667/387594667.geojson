@@ -2,14 +2,20 @@
   "id": 387594667,
   "type": "Feature",
   "properties": {
+    "addr:full":"512 West Blvd Charlotte NC 28203",
+    "addr:housenumber":"512",
+    "addr:postcode":"28203",
+    "addr:street":"West Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.867027,35.216185,-80.867027,35.216185",
     "geom:latitude":35.216185,
     "geom:longitude":-80.867027,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"512 West Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
         85858067
     ],
+    "wof:brand_id":1125159491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fFMEtorZaCyFnzeVnjJ04_35.216185_-80.867027@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"4026f379ea5e9aa1769e829f56892bac",
+    "wof:geomhash":"1f9cb1b46795ce10c5432c0970225b7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":387594667,
-    "wof:lastmodified":1466656643,
+    "wof:lastmodified":1510695424,
     "wof:name":"Calvary United Methodist Chr",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

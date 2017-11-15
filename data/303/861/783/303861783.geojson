@@ -2,9 +2,14 @@
   "id": 303861783,
   "type": "Feature",
   "properties": {
+    "addr:full":"940 Crafters Ln Pineville NC 28134",
+    "addr:housenumber":"940",
+    "addr:postcode":"28134",
+    "addr:street":"Crafters Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.886907,35.11389,-80.886907,35.11389",
     "geom:latitude":35.11389,
     "geom:longitude":-80.886907,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"332f1725c90e592d7d4d0bc9b60cafd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303861783,
-    "wof:lastmodified":1466655764,
+    "wof:lastmodified":1491926254,
     "wof:name":"C & M Silt Fencing",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

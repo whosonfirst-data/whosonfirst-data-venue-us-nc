@@ -2,9 +2,14 @@
   "id": 303474583,
   "type": "Feature",
   "properties": {
+    "addr:full":"5001 Curtiswood Dr Charlotte NC 28213",
+    "addr:housenumber":"5001",
+    "addr:postcode":"28213",
+    "addr:street":"Curtiswood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.780546,35.256024,-80.780546,35.256024",
     "geom:latitude":35.256024,
     "geom:longitude":-80.780546,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        420532327,
+        85818497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"de5486d18caab1bf1ec2225f07009209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420532327,
+            "region_id":85688773,
+            "venue_id":303474583
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85818497,
             "region_id":85688773,
             "venue_id":303474583
         }
     ],
     "wof:id":303474583,
-    "wof:lastmodified":1466650171,
+    "wof:lastmodified":1491921960,
     "wof:name":"All Safe & Lock Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

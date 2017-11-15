@@ -2,9 +2,14 @@
   "id": 320367235,
   "type": "Feature",
   "properties": {
+    "addr:full":"1910 Umstead Rd Durham NC 27712",
+    "addr:housenumber":"1910",
+    "addr:postcode":"27712",
+    "addr:street":"Umstead Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.948856,36.077788,-78.948856,36.077788",
     "geom:latitude":36.077788,
     "geom:longitude":-78.948856,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"5875a5706c88a9bfabb01650f5d4d0d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":320367235
         }
     ],
     "wof:id":320367235,
-    "wof:lastmodified":1466650448,
+    "wof:lastmodified":1491905445,
     "wof:name":"C D Wallpappering",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

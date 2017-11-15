@@ -2,9 +2,14 @@
   "id": 689445689,
   "type": "Feature",
   "properties": {
+    "addr:full":"3730 Hargrove Ave Charlotte NC 28208",
+    "addr:housenumber":"3730",
+    "addr:postcode":"28208",
+    "addr:street":"Hargrove Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.904424,35.224501,-80.904424,35.224501",
     "geom:latitude":35.224501,
     "geom:longitude":-80.904424,
@@ -37,8 +42,8 @@
         85633793,
         85981333,
         102080981,
-        85882291,
-        420559867
+        420559867,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +58,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":85882291,
+            "neighbourhood_id":420559867,
             "region_id":85688773,
             "venue_id":689445689
         },
@@ -62,15 +67,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":420559867,
+            "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":689445689
         }
     ],
     "wof:id":689445689,
-    "wof:lastmodified":1466662895,
+    "wof:lastmodified":1491904139,
     "wof:name":"Servpro Of West Mecklenburg County Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

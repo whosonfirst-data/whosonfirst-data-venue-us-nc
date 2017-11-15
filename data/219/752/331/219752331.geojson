@@ -2,9 +2,14 @@
   "id": 219752331,
   "type": "Feature",
   "properties": {
+    "addr:full":"5001 Sirus Ln Charlotte NC 28208",
+    "addr:housenumber":"5001",
+    "addr:postcode":"28208",
+    "addr:street":"Sirus Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.940562,35.195608,-80.940562,35.195608",
     "geom:latitude":35.195608,
     "geom:longitude":-80.940562,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"545f6e84dda8464c20cc4ddad80f5f1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":219752331,
-    "wof:lastmodified":1466646794,
+    "wof:lastmodified":1491920179,
     "wof:name":"RNS Intl",
     "wof:parent_id":85850977,
     "wof:placetype":"venue",

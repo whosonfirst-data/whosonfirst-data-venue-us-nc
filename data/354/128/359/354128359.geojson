@@ -2,9 +2,14 @@
   "id": 354128359,
   "type": "Feature",
   "properties": {
+    "addr:full":"3790 Guess Rd Durham NC 27705",
+    "addr:housenumber":"3790",
+    "addr:postcode":"27705",
+    "addr:street":"Guess Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.929085,36.057234,-78.929085,36.057234",
     "geom:latitude":36.057234,
     "geom:longitude":-78.929085,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -45,7 +51,7 @@
     "wof:geomhash":"25cf9e1402f4a72a215010560240895f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":354128359,
-    "wof:lastmodified":1466649042,
+    "wof:lastmodified":1491913495,
     "wof:name":"Guaranteed Rate Inc",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

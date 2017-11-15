@@ -2,9 +2,14 @@
   "id": 387955567,
   "type": "Feature",
   "properties": {
+    "addr:full":"5019 Old Hillsborough Rd Durham NC 27705",
+    "addr:housenumber":"5019",
+    "addr:postcode":"27705",
+    "addr:street":"Old Hillsborough Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.990276,36.031954,-78.990276,36.031954",
     "geom:latitude":36.031954,
     "geom:longitude":-78.990276,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85855655
+        85855655,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"5d5bded2a22dfdfd6a54a30ddd90af53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85855655,
             "region_id":85688773,
             "venue_id":387955567
         }
     ],
     "wof:id":387955567,
-    "wof:lastmodified":1466658074,
+    "wof:lastmodified":1491924754,
     "wof:name":"Eno Fire Dept",
     "wof:parent_id":85855655,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370802227,
   "type": "Feature",
   "properties": {
+    "addr:full":"7100 Ridgebrook Dr Charlotte NC 28210",
+    "addr:housenumber":"7100",
+    "addr:postcode":"28210",
+    "addr:street":"Ridgebrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.867557,35.129066,-80.867557,35.129066",
     "geom:latitude":35.129066,
     "geom:longitude":-80.867557,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -48,7 +54,7 @@
     "wof:geomhash":"b11aeb0e77b9c48fcd04d2174dd9c4f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":370802227,
-    "wof:lastmodified":1466656366,
+    "wof:lastmodified":1491926248,
     "wof:name":"Steve Breakfield Studios LTD",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

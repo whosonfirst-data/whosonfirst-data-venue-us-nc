@@ -2,9 +2,14 @@
   "id": 286482727,
   "type": "Feature",
   "properties": {
+    "addr:full":"2716 Hillsborough Rd Durham NC 27705",
+    "addr:housenumber":"2716",
+    "addr:postcode":"27705",
+    "addr:street":"Hillsborough Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.931432,36.012829,-78.931432,36.012829",
     "geom:latitude":36.012829,
     "geom:longitude":-78.931432,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8407829bd9ae4e0050c419980f307d25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286482727,
-    "wof:lastmodified":1466646107,
+    "wof:lastmodified":1491901822,
     "wof:name":"Koretizing Cleaners",
     "wof:parent_id":85877171,
     "wof:placetype":"venue",

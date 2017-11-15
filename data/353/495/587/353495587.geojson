@@ -2,9 +2,14 @@
   "id": 353495587,
   "type": "Feature",
   "properties": {
+    "addr:full":"2419 Dawn Trl Durham NC 27712",
+    "addr:housenumber":"2419",
+    "addr:postcode":"27712",
+    "addr:street":"Dawn Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.961874,36.071636,-78.961874,36.071636",
     "geom:latitude":36.071636,
     "geom:longitude":-78.961874,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"e17d0dfd2e28f6e70c0f2bec1e6e47b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":353495587
         }
     ],
     "wof:id":353495587,
-    "wof:lastmodified":1466648102,
+    "wof:lastmodified":1491905444,
     "wof:name":"Affordable Custom Tiles",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

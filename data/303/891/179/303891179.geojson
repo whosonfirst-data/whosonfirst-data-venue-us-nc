@@ -2,14 +2,20 @@
   "id": 303891179,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Coronation Blvd Charlotte NC 28227",
+    "addr:housenumber":"2201",
+    "addr:postcode":"28227",
+    "addr:street":"Coronation Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.731028,35.142689,-80.731028,35.142689",
     "geom:latitude":35.142689,
     "geom:longitude":-80.731028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 Coronation Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
         85847171
     ],
+    "wof:brand_id":1125150607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19H9H46skETdJJ1V17JOaq_35.142689_-80.731028@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"16a7ab5f05afb2df0821191846371d23",
+    "wof:geomhash":"721943b0cdd8a34f5298cbe17c669b5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":303891179,
-    "wof:lastmodified":1466655982,
+    "wof:lastmodified":1510697769,
     "wof:name":"Kraft Foods",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

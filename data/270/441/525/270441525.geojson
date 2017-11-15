@@ -2,9 +2,14 @@
   "id": 270441525,
   "type": "Feature",
   "properties": {
+    "addr:full":"1213 Harding Pl Charlotte NC 28204",
+    "addr:housenumber":"1213",
+    "addr:postcode":"28204",
+    "addr:street":"Harding Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.838744,35.209367,-80.838744,35.209367",
     "geom:latitude":35.209367,
     "geom:longitude":-80.838744,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"25d8e34fe5cd03ef774caddd6e3ae8f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270441525,
-    "wof:lastmodified":1466648668,
+    "wof:lastmodified":1491926312,
     "wof:name":"Steven's",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

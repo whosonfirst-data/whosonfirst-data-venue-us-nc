@@ -2,9 +2,14 @@
   "id": 236318009,
   "type": "Feature",
   "properties": {
+    "addr:full":"10535 Monroe Rd Matthews NC 28105",
+    "addr:housenumber":"10535",
+    "addr:postcode":"28105",
+    "addr:street":"Monroe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.733386,35.1297,-80.733386,35.1297",
     "geom:latitude":35.1297,
     "geom:longitude":-80.733386,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"fdf436d325565ae8ad2df6f145414613",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":236318009,
-    "wof:lastmodified":1466646032,
+    "wof:lastmodified":1491899968,
     "wof:name":"Matthews Twnship Collision Ctr",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

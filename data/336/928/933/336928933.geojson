@@ -2,9 +2,14 @@
   "id": 336928933,
   "type": "Feature",
   "properties": {
+    "addr:full":"5504 Durham-Chapel Hill Blvd Durham NC 27707",
+    "addr:housenumber":"5504",
+    "addr:postcode":"27707",
+    "addr:street":"Durham-Chapel Hill Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.997554,35.951651,-78.997554,35.951651",
     "geom:latitude":35.951651,
     "geom:longitude":-78.997554,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -48,7 +54,7 @@
     "wof:geomhash":"8e697758aa2c7f01470bb75060e8c409",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":336928933,
-    "wof:lastmodified":1466650858,
+    "wof:lastmodified":1491926810,
     "wof:name":"Internal Credit Systems Inc",
     "wof:parent_id":85877177,
     "wof:placetype":"venue",

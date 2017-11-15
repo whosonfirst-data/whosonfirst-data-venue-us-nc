@@ -2,9 +2,14 @@
   "id": 253345173,
   "type": "Feature",
   "properties": {
+    "addr:full":"3371 Cloverleaf Pkwy Kannapolis NC 28083",
+    "addr:housenumber":"3371",
+    "addr:postcode":"28083",
+    "addr:street":"Cloverleaf Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.60523,35.447902,-80.60523,35.447902",
     "geom:latitude":35.447902,
     "geom:longitude":-80.60523,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980229,
         102087733,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a704160237cea16a00ab5c5cf7055b85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087733,
             "locality_id":85980229,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253345173,
-    "wof:lastmodified":1466646523,
+    "wof:lastmodified":1491915794,
     "wof:name":"Jeff Hartsock",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",

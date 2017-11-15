@@ -2,9 +2,14 @@
   "id": 270496853,
   "type": "Feature",
   "properties": {
+    "addr:full":"9120 W Steeleberry Dr Charlotte NC 28278",
+    "addr:housenumber":"9120",
+    "addr:postcode":"28278",
+    "addr:street":"W Steeleberry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.958485,35.178256,-80.958485,35.178256",
     "geom:latitude":35.178256,
     "geom:longitude":-80.958485,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"aaa02d7f862d21dadcf461d46783903b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270496853,
-    "wof:lastmodified":1466649406,
+    "wof:lastmodified":1491920177,
     "wof:name":"Ken's Coatings",
     "wof:parent_id":85850977,
     "wof:placetype":"venue",

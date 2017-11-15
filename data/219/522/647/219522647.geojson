@@ -2,9 +2,14 @@
   "id": 219522647,
   "type": "Feature",
   "properties": {
+    "addr:full":"3230 Piper Ln Charlotte NC 28208",
+    "addr:housenumber":"3230",
+    "addr:postcode":"28208",
+    "addr:street":"Piper Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.930439,35.194479,-80.930439,35.194479",
     "geom:latitude":35.194479,
     "geom:longitude":-80.930439,
@@ -30,11 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291,
-        85814609
+        85814609,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +50,28 @@
     "wof:geomhash":"52e94ebbd85359cbcefd65b1a10dab20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85814609,
+            "region_id":85688773,
+            "venue_id":219522647
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":219522647
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":-1,
-            "neighbourhood_id":85814609,
-            "region_id":85688773,
-            "venue_id":219522647
         }
     ],
     "wof:id":219522647,
-    "wof:lastmodified":1466645051,
+    "wof:lastmodified":1491904143,
     "wof:name":"Rock It Tops/Solid Surface Fab",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

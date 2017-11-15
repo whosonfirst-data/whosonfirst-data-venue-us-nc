@@ -2,9 +2,14 @@
   "id": 353783983,
   "type": "Feature",
   "properties": {
+    "addr:full":"1914 Meadowlark Ln Charlotte NC 28210",
+    "addr:housenumber":"1914",
+    "addr:postcode":"28210",
+    "addr:street":"Meadowlark Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.869741,35.123142,-80.869741,35.123142",
     "geom:latitude":35.123142,
     "geom:longitude":-80.869741,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"ff7e17ad2e66fc6d284cbdf72893c8ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353783983,
-    "wof:lastmodified":1466651584,
+    "wof:lastmodified":1491926248,
     "wof:name":"Browns Concrete Construct",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

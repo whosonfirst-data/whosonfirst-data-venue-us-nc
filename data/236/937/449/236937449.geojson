@@ -2,9 +2,14 @@
   "id": 236937449,
   "type": "Feature",
   "properties": {
+    "addr:full":"10851 Providence Rd Charlotte NC 28277",
+    "addr:housenumber":"10851",
+    "addr:postcode":"28277",
+    "addr:street":"Providence Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.769851,35.062072,-80.769851,35.062072",
     "geom:latitude":35.062072,
     "geom:longitude":-80.769851,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -40,7 +46,7 @@
     "wof:geomhash":"90fa2ea90e7e1ba08402ef3fccd333a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":236937449,
-    "wof:lastmodified":1466651618,
+    "wof:lastmodified":1491897254,
     "wof:name":"Allen Tate Co",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

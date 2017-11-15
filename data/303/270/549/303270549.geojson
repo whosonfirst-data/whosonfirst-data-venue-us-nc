@@ -2,9 +2,14 @@
   "id": 303270549,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 S Salisbury St Raleigh NC 27602",
+    "addr:housenumber":"700",
+    "addr:postcode":"27602",
+    "addr:street":"S Salisbury St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.640365,35.770858,-78.640365,35.770858",
     "geom:latitude":35.770858,
     "geom:longitude":-78.640365,
@@ -27,9 +32,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
-        102087821
+        102087821,
+        85854379,
+        420533051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,28 @@
     "wof:geomhash":"8ce31bcd630713a38a36a0f528ef63e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85854379,
+            "region_id":85688773,
+            "venue_id":303270549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":420533051,
             "region_id":85688773,
             "venue_id":303270549
         }
     ],
     "wof:id":303270549,
-    "wof:lastmodified":1466647255,
+    "wof:lastmodified":1491902258,
     "wof:name":"NC Assn Of Educators Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 219394639,
   "type": "Feature",
   "properties": {
+    "addr:full":"7539 Fallow Ln Charlotte NC 28273",
+    "addr:housenumber":"7539",
+    "addr:postcode":"28273",
+    "addr:street":"Fallow Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.928421,35.151005,-80.928421,35.151005",
     "geom:latitude":35.151005,
     "geom:longitude":-80.928421,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"cbc08c7e7fbb41b1e9d2f3c670907aba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219394639,
-    "wof:lastmodified":1466644103,
+    "wof:lastmodified":1491914693,
     "wof:name":"Romeros Construction",
     "wof:parent_id":85839499,
     "wof:placetype":"venue",

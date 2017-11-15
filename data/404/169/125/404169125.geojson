@@ -2,9 +2,14 @@
   "id": 404169125,
   "type": "Feature",
   "properties": {
+    "addr:full":"1103 W Club Blvd Durham NC 27701",
+    "addr:housenumber":"1103",
+    "addr:postcode":"27701",
+    "addr:street":"W Club Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.910411,36.016831,-78.910411,36.016831",
     "geom:latitude":36.016831,
     "geom:longitude":-78.910411,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9875eb25749173bb597946424f67106e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":404169125,
-    "wof:lastmodified":1466653429,
+    "wof:lastmodified":1491930914,
     "wof:name":"Tharrington's Clothiers",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

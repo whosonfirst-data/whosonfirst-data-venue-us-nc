@@ -2,9 +2,14 @@
   "id": 270345819,
   "type": "Feature",
   "properties": {
+    "addr:full":"9920 Brickleberry Ln Charlotte NC 28262",
+    "addr:housenumber":"",
+    "addr:postcode":"9920;28262",
+    "addr:street":"Brickleberry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.737383,35.324766,-80.737383,35.324766",
     "geom:latitude":35.324766,
     "geom:longitude":-80.737383,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"caafcc1545791cb06661b216e10ad819",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270345819,
-    "wof:lastmodified":1466647452,
+    "wof:lastmodified":1491911023,
     "wof:name":"Thornberry Apartments",
     "wof:parent_id":85871243,
     "wof:placetype":"venue",

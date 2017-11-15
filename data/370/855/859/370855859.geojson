@@ -2,9 +2,14 @@
   "id": 370855859,
   "type": "Feature",
   "properties": {
+    "addr:full":"3311 Park Overlook Dr Durham NC 27712",
+    "addr:housenumber":"3311",
+    "addr:postcode":"27712",
+    "addr:street":"Park Overlook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.947714,36.066898,-78.947714,36.066898",
     "geom:latitude":36.066898,
     "geom:longitude":-78.947714,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"4a43a9854439d85f130a410ce92de931",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":370855859
         }
     ],
     "wof:id":370855859,
-    "wof:lastmodified":1466656466,
+    "wof:lastmodified":1491905445,
     "wof:name":"A To Z Realty",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

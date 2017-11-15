@@ -2,9 +2,14 @@
   "id": 387539087,
   "type": "Feature",
   "properties": {
+    "addr:full":"5410 Tahoe Dr Durham NC 27713",
+    "addr:housenumber":"5410",
+    "addr:postcode":"27713",
+    "addr:street":"Tahoe Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.919749,35.91973,-78.919749,35.91973",
     "geom:latitude":35.91973,
     "geom:longitude":-78.919749,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"48007edce2ed649ee741011933fbdbfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387539087,
-    "wof:lastmodified":1466656491,
+    "wof:lastmodified":1491917420,
     "wof:name":"Signal Innovations Group Inc",
     "wof:parent_id":85877203,
     "wof:placetype":"venue",

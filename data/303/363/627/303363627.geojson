@@ -2,9 +2,14 @@
   "id": 303363627,
   "type": "Feature",
   "properties": {
+    "addr:full":"8101 Old Concord Rd Charlotte NC 28213",
+    "addr:housenumber":"8101",
+    "addr:postcode":"28213",
+    "addr:street":"Old Concord Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.736133,35.27887,-80.736133,35.27887",
     "geom:latitude":35.27887,
     "geom:longitude":-80.736133,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"3a8d6508aa2ce3b5a9c3eb68a4d0ada7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303363627,
-    "wof:lastmodified":1466648551,
+    "wof:lastmodified":1491893386,
     "wof:name":"Sam's Mart",
     "wof:parent_id":85804005,
     "wof:placetype":"venue",

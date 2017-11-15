@@ -2,9 +2,14 @@
   "id": 336825961,
   "type": "Feature",
   "properties": {
+    "addr:full":"4207 Country Ln Charlotte NC 28270",
+    "addr:housenumber":"4207",
+    "addr:postcode":"28270",
+    "addr:street":"Country Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.771595,35.07656,-80.771595,35.07656",
     "geom:latitude":35.07656,
     "geom:longitude":-80.771595,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"f09ec47a107541885bede7f586dd9fe6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336825961,
-    "wof:lastmodified":1466649270,
+    "wof:lastmodified":1491897254,
     "wof:name":"Arborscapes Tree & Landscape",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

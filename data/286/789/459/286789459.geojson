@@ -2,9 +2,14 @@
   "id": 286789459,
   "type": "Feature",
   "properties": {
+    "addr:full":"2217 Village Lake Dr Charlotte NC 28212",
+    "addr:housenumber":"2217",
+    "addr:postcode":"28212",
+    "addr:street":"Village Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.741743,35.161691,-80.741743,35.161691",
     "geom:latitude":35.161691,
     "geom:longitude":-80.741743,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3e1aa646cf75cf2169cdf0aa55bbc715",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286789459,
-    "wof:lastmodified":1466650285,
+    "wof:lastmodified":1491936645,
     "wof:name":"Teleco Inc",
     "wof:parent_id":85891863,
     "wof:placetype":"venue",

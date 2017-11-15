@@ -2,9 +2,14 @@
   "id": 253459957,
   "type": "Feature",
   "properties": {
+    "addr:full":"908 E 35th St Charlotte NC 28205",
+    "addr:housenumber":"908",
+    "addr:postcode":"28205",
+    "addr:street":"E 35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.801163,35.243013,-80.801163,35.243013",
     "geom:latitude":35.243013,
     "geom:longitude":-80.801163,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"81249012d8d0ba492a397dd639e003d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":253459957,
-    "wof:lastmodified":1466647864,
+    "wof:lastmodified":1491906661,
     "wof:name":"Russell Realty-North Carolina",
     "wof:parent_id":85837459,
     "wof:placetype":"venue",

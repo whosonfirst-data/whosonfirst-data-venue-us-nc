@@ -2,9 +2,14 @@
   "id": 202900953,
   "type": "Feature",
   "properties": {
+    "addr:full":"7320 E Independence Blvd Charlotte NC 28227",
+    "addr:housenumber":"7320",
+    "addr:postcode":"28227",
+    "addr:street":"E Independence Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.736588,35.159907,-80.736588,35.159907",
     "geom:latitude":35.159907,
     "geom:longitude":-80.736588,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"2716ca050783198faf5f07beb8aafa5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":202900953,
-    "wof:lastmodified":1466644957,
+    "wof:lastmodified":1491936641,
     "wof:name":"Queen City TV & Appliance Co",
     "wof:parent_id":85891863,
     "wof:placetype":"venue",

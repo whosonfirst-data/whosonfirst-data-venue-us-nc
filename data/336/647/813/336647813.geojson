@@ -2,9 +2,14 @@
   "id": 336647813,
   "type": "Feature",
   "properties": {
+    "addr:full":"804 Bluestone Rd Durham NC 27713",
+    "addr:housenumber":"804",
+    "addr:postcode":"27713",
+    "addr:street":"Bluestone Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.907598,35.917049,-78.907598,35.917049",
     "geom:latitude":35.917049,
     "geom:longitude":-78.907598,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3390c4d2ad1e12432bf2ddd4c72dae44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336647813,
-    "wof:lastmodified":1466646577,
+    "wof:lastmodified":1491916645,
     "wof:name":"Douglas Boswell",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

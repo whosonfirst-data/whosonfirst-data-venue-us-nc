@@ -2,9 +2,14 @@
   "id": 304075241,
   "type": "Feature",
   "properties": {
+    "addr:full":"2333 Heywood Ave Charlotte NC 28208",
+    "addr:housenumber":"2333",
+    "addr:postcode":"28208",
+    "addr:street":"Heywood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.895203,35.230928,-80.895203,35.230928",
     "geom:latitude":35.230928,
     "geom:longitude":-80.895203,
@@ -30,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,28 @@
     "wof:geomhash":"e44e350d9c96fbd2b86c833085352105",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":304075241
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559865,
+            "region_id":85688773,
+            "venue_id":304075241
         }
     ],
     "wof:id":304075241,
-    "wof:lastmodified":1466645222,
+    "wof:lastmodified":1491904119,
     "wof:name":"Skyline Limousine & Airport Ex",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

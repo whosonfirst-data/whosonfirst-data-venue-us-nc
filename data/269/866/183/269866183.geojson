@@ -2,9 +2,14 @@
   "id": 269866183,
   "type": "Feature",
   "properties": {
+    "addr:full":"2531 Providence Hills Dr Matthews NC 28105",
+    "addr:housenumber":"2531",
+    "addr:postcode":"28105",
+    "addr:street":"Providence Hills Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.712983,35.073114,-80.712983,35.073114",
     "geom:latitude":35.073114,
     "geom:longitude":-80.712983,
@@ -30,7 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
+        85981363,
+        102080895,
+        420532837,
         85981339,
         102080981,
         85850301
@@ -43,7 +52,16 @@
     "wof:geomhash":"a56b414934ea5357b72f202c78023b5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080895,
+            "locality_id":85981363,
+            "neighbourhood_id":420532837,
+            "region_id":85688773,
+            "venue_id":269866183
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -53,9 +71,9 @@
         }
     ],
     "wof:id":269866183,
-    "wof:lastmodified":1466647686,
+    "wof:lastmodified":1491934543,
     "wof:name":"Comfort Masters Inc",
-    "wof:parent_id":85850301,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

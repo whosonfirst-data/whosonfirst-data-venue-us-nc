@@ -2,9 +2,14 @@
   "id": 202579131,
   "type": "Feature",
   "properties": {
+    "addr:full":"5428 New Hope Commons Dr Durham NC 27707",
+    "addr:housenumber":"5428",
+    "addr:postcode":"27707",
+    "addr:street":"New Hope Commons Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.996933,35.953244,-78.996933,35.953244",
     "geom:latitude":35.953244,
     "geom:longitude":-78.996933,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3bd48384821ecfd174ac382179f3cb00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202579131,
-    "wof:lastmodified":1466655424,
+    "wof:lastmodified":1491926812,
     "wof:name":"Luxor Nail",
     "wof:parent_id":85877177,
     "wof:placetype":"venue",

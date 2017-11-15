@@ -2,9 +2,14 @@
   "id": 404020707,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 Honey Creek Ln Matthews NC 28105",
+    "addr:housenumber":"2525",
+    "addr:postcode":"28105",
+    "addr:street":"Honey Creek Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.733224,35.094837,-80.733224,35.094837",
     "geom:latitude":35.094837,
     "geom:longitude":-80.733224,
@@ -30,11 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
-        85850301,
-        85811531
+        85811531,
+        85850301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +50,28 @@
     "wof:geomhash":"3ca5bcf7fa4ae66be497af1608cc1ba4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981339,
-            "neighbourhood_id":85850301,
-            "region_id":85688773,
-            "venue_id":404020707
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
             "neighbourhood_id":85811531,
             "region_id":85688773,
             "venue_id":404020707
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981339,
+            "neighbourhood_id":85850301,
+            "region_id":85688773,
+            "venue_id":404020707
         }
     ],
     "wof:id":404020707,
-    "wof:lastmodified":1466651564,
+    "wof:lastmodified":1491934560,
     "wof:name":"Creative Memories Melanie",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

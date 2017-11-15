@@ -2,9 +2,14 @@
   "id": 353915855,
   "type": "Feature",
   "properties": {
+    "addr:full":"11030 Golf Links Dr Charlotte NC 28277",
+    "addr:housenumber":"11030",
+    "addr:postcode":"28277",
+    "addr:street":"Golf Links Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.771345,35.054329,-80.771345,35.054329",
     "geom:latitude":35.054329,
     "geom:longitude":-80.771345,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0f3084f37f8964c339494b879b51db08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353915855,
-    "wof:lastmodified":1466653082,
+    "wof:lastmodified":1491897260,
     "wof:name":"Brady Family & Cosmetic",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

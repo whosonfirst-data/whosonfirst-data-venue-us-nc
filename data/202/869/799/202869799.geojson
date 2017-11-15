@@ -2,9 +2,14 @@
   "id": 202869799,
   "type": "Feature",
   "properties": {
+    "addr:full":"4829 Delta Lake Dr Raleigh NC 27612",
+    "addr:housenumber":"4829",
+    "addr:postcode":"27612",
+    "addr:street":"Delta Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.720884,35.856235,-78.720884,35.856235",
     "geom:latitude":35.856235,
     "geom:longitude":-78.720884,
@@ -27,32 +32,16 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nUUoYgXKwHCEcYrQfXvWs_35.856235_-78.720884@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"fd6fafc5a1ca1fc895b70cee30eee22f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":202869799
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":202869799,
-    "wof:lastmodified":1466644706,
+    "wof:lastmodified":1491889956,
     "wof:name":"Socaz Painting",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

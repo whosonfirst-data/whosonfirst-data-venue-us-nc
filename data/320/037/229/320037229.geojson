@@ -2,9 +2,14 @@
   "id": 320037229,
   "type": "Feature",
   "properties": {
+    "addr:full":"5539 Old Hillsborough Rd Durham NC 27705",
+    "addr:housenumber":"5539",
+    "addr:postcode":"27705",
+    "addr:street":"Old Hillsborough Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.005308,36.030046,-79.005308,36.030046",
     "geom:latitude":36.030046,
     "geom:longitude":-79.005308,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85855655
+        85855655,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"bd9c051a95e36f89050c6b094d056aa1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85855655,
             "region_id":85688773,
             "venue_id":320037229
         }
     ],
     "wof:id":320037229,
-    "wof:lastmodified":1466645858,
+    "wof:lastmodified":1491924754,
     "wof:name":"Piedmont Paving Co",
     "wof:parent_id":85855655,
     "wof:placetype":"venue",

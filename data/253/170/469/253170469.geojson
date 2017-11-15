@@ -2,9 +2,14 @@
   "id": 253170469,
   "type": "Feature",
   "properties": {
+    "addr:full":"5805 Graburn's Ford Dr Charlotte NC 28269",
+    "addr:housenumber":"5805",
+    "addr:postcode":"28269",
+    "addr:street":"Graburn'S Ford Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.754153,35.382028,-80.754153,35.382028",
     "geom:latitude":35.382028,
     "geom:longitude":-80.754153,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"373161948f2f8b8c86e577e64523b9cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253170469,
-    "wof:lastmodified":1466644815,
+    "wof:lastmodified":1491885537,
     "wof:name":"Quad City Homes LLC",
     "wof:parent_id":85891875,
     "wof:placetype":"venue",

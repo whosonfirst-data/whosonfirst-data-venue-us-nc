@@ -2,9 +2,14 @@
   "id": 353979373,
   "type": "Feature",
   "properties": {
+    "addr:full":"1104 Bodie Island Ln Raleigh NC 27604",
+    "addr:housenumber":"1104",
+    "addr:postcode":"27604",
+    "addr:street":"Bodie Island Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.534253,35.817521,-78.534253,35.817521",
     "geom:latitude":35.817521,
     "geom:longitude":-78.534253,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c2ebdb0fea621413aa646f76b6f53124",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353979373,
-    "wof:lastmodified":1466653873,
+    "wof:lastmodified":1491935410,
     "wof:name":"True Vine Referral Agency",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",

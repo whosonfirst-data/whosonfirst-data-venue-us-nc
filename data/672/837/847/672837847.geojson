@@ -2,9 +2,14 @@
   "id": 672837847,
   "type": "Feature",
   "properties": {
+    "addr:full":"5801 Farmwell Rd Raleigh NC 27610",
+    "addr:housenumber":"5801",
+    "addr:postcode":"27610",
+    "addr:street":"Farmwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.528365,35.796654,-78.528365,35.796654",
     "geom:latitude":35.796654,
     "geom:longitude":-78.528365,
@@ -29,12 +34,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85892055,
-        102087821
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uoc0I2Si1QfQbjYzetok4_35.796654_-78.528365@1294165850"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1461727750,
     "wof:geomhash":"b2dfbe2f3263568a6dcfedf2d60689f1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087821,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":672837847
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672837847,
-    "wof:lastmodified":1466663503,
+    "wof:lastmodified":1491888712,
     "wof:name":"N W Poole Well & Pump Company",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

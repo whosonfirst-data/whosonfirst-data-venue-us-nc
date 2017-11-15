@@ -2,9 +2,14 @@
   "id": 354058447,
   "type": "Feature",
   "properties": {
+    "addr:full":"1417 W Pettigrew St Durham NC 27705",
+    "addr:housenumber":"1417",
+    "addr:postcode":"27705",
+    "addr:street":"W Pettigrew St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.916884,36.003772,-78.916884,36.003772",
     "geom:latitude":36.003772,
     "geom:longitude":-78.916884,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -46,7 +52,7 @@
     "wof:geomhash":"74fe91e2fd460d3d4a019c929ddb2fb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":354058447,
-    "wof:lastmodified":1466648245,
+    "wof:lastmodified":1491913855,
     "wof:name":"Hillcrest Convalescent Home",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

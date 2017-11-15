@@ -2,9 +2,14 @@
   "id": 202868447,
   "type": "Feature",
   "properties": {
+    "addr:full":"10023 N Tryon St Charlotte NC 28262",
+    "addr:housenumber":"10023",
+    "addr:postcode":"28262",
+    "addr:street":"N Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.730617,35.324723,-80.730617,35.324723",
     "geom:latitude":35.324723,
     "geom:longitude":-80.730617,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f15e50c47e1399da68c5835b80fbbd9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202868447,
-    "wof:lastmodified":1466644695,
+    "wof:lastmodified":1491911022,
     "wof:name":"Exxon On The Run",
     "wof:parent_id":85871243,
     "wof:placetype":"venue",

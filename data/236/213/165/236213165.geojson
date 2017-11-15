@@ -2,9 +2,14 @@
   "id": 236213165,
   "type": "Feature",
   "properties": {
+    "addr:full":"3614 Broad Oak Dr Charlotte NC 28273",
+    "addr:housenumber":"3614",
+    "addr:postcode":"28273",
+    "addr:street":"Broad Oak Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.962306,35.146925,-80.962306,35.146925",
     "geom:latitude":35.146925,
     "geom:longitude":-80.962306,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291,
-        85891873
+        85891873,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +46,28 @@
     "wof:geomhash":"0523c8d51b105ec3380f46c850260821",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "neighbourhood_id":85882291,
-            "region_id":85688773,
-            "venue_id":236213165
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85891873,
             "region_id":85688773,
             "venue_id":236213165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85882291,
+            "region_id":85688773,
+            "venue_id":236213165
         }
     ],
     "wof:id":236213165,
-    "wof:lastmodified":1466645126,
+    "wof:lastmodified":1491904072,
     "wof:name":"Sutton Park Grocery & Lau",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

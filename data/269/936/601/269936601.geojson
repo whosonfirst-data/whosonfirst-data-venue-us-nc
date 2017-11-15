@@ -2,9 +2,14 @@
   "id": 269936601,
   "type": "Feature",
   "properties": {
+    "addr:full":"2143 Kilkenny Hill Rd Matthews NC 28105",
+    "addr:housenumber":"2143",
+    "addr:postcode":"28105",
+    "addr:street":"Kilkenny Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.718794,35.098999,-80.718794,35.098999",
     "geom:latitude":35.098999,
     "geom:longitude":-80.718794,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
-        85850301,
-        85811531
+        85811531,
+        85850301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +46,28 @@
     "wof:geomhash":"d953c6c317bb496881cb16a08d900919",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981339,
-            "neighbourhood_id":85850301,
-            "region_id":85688773,
-            "venue_id":269936601
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
             "neighbourhood_id":85811531,
             "region_id":85688773,
             "venue_id":269936601
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981339,
+            "neighbourhood_id":85850301,
+            "region_id":85688773,
+            "venue_id":269936601
         }
     ],
     "wof:id":269936601,
-    "wof:lastmodified":1466648585,
+    "wof:lastmodified":1491934561,
     "wof:name":"Ciba Specialty Chemicals Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

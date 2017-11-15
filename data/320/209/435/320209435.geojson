@@ -2,9 +2,14 @@
   "id": 320209435,
   "type": "Feature",
   "properties": {
+    "addr:full":"1911 Guess Rd Durham NC 27705",
+    "addr:housenumber":"1911",
+    "addr:postcode":"27705",
+    "addr:street":"Guess Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.917588,36.022318,-78.917588,36.022318",
     "geom:latitude":36.022318,
     "geom:longitude":-78.917588,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a2d4e353e4cf131df1b39066109e4a3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320209435,
-    "wof:lastmodified":1466648224,
+    "wof:lastmodified":1491930912,
     "wof:name":"Texaco",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

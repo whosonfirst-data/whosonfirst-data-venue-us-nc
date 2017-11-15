@@ -2,9 +2,14 @@
   "id": 219177181,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 N College St Charlotte NC 28206",
+    "addr:housenumber":"800",
+    "addr:postcode":"28206",
+    "addr:street":"N College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.834054,35.231899,-80.834054,35.231899",
     "geom:latitude":35.231899,
     "geom:longitude":-80.834054,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"01e3014dceb9f5c5406bc0a0fdfd67e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219177181,
-    "wof:lastmodified":1466655244,
+    "wof:lastmodified":1491900476,
     "wof:name":"Charlotte City Ballet Company",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303641331,
   "type": "Feature",
   "properties": {
+    "addr:full":"2905 Hillsborough Rd Durham NC 27705",
+    "addr:housenumber":"2905",
+    "addr:postcode":"27705",
+    "addr:street":"Hillsborough Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.934554,36.01506,-78.934554,36.01506",
     "geom:latitude":36.01506,
     "geom:longitude":-78.934554,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2719f1fd60162b53df9c7287f82d37e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303641331,
-    "wof:lastmodified":1466652570,
+    "wof:lastmodified":1491901821,
     "wof:name":"Al's Foodmart",
     "wof:parent_id":85877171,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 404041917,
   "type": "Feature",
   "properties": {
+    "addr:full":"5703 N Tryon St Charlotte NC 28213",
+    "addr:housenumber":"5703",
+    "addr:postcode":"28213",
+    "addr:street":"N Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.774539,35.26127,-80.774539,35.26127",
     "geom:latitude":35.26127,
     "geom:longitude":-80.774539,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"9e8d8d5d3506db053621d4c018a81feb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":404041917,
-    "wof:lastmodified":1466651837,
+    "wof:lastmodified":1491921963,
     "wof:name":"Arctic Heating & Air Cond",
     "wof:parent_id":85818497,
     "wof:placetype":"venue",

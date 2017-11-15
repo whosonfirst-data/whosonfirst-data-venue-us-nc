@@ -2,9 +2,14 @@
   "id": 354176889,
   "type": "Feature",
   "properties": {
+    "addr:full":"760 Orphanage Rd Concord NC 28027",
+    "addr:housenumber":"760",
+    "addr:postcode":"28027",
+    "addr:street":"Orphanage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.634036,35.445944,-80.634036,35.445944",
     "geom:latitude":35.445944,
     "geom:longitude":-80.634036,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980229,
         102087733,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ae6071dc40908cd46e0170febbadec5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087733,
             "locality_id":85980229,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354176889,
-    "wof:lastmodified":1466649615,
+    "wof:lastmodified":1491915795,
     "wof:name":"North Cabarrus Park",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",

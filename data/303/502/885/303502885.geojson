@@ -2,9 +2,14 @@
   "id": 303502885,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 Larkmoore Ct Charlotte NC 28208",
+    "addr:housenumber":"4801",
+    "addr:postcode":"28208",
+    "addr:street":"Larkmoore Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.942588,35.194846,-80.942588,35.194846",
     "geom:latitude":35.194846,
     "geom:longitude":-80.942588,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8778abe03bd92487930c47dcb93ebde3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303502885,
-    "wof:lastmodified":1466650558,
+    "wof:lastmodified":1491920178,
     "wof:name":"Klx Incorporated",
     "wof:parent_id":85850977,
     "wof:placetype":"venue",

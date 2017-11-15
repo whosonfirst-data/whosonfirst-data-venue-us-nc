@@ -2,9 +2,14 @@
   "id": 253490365,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 Broadview Dr Charlotte NC 28217",
+    "addr:housenumber":"4001",
+    "addr:postcode":"28217",
+    "addr:street":"Broadview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.895477,35.198122,-80.895477,35.198122",
     "geom:latitude":35.198122,
     "geom:longitude":-80.895477,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420560205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,28 @@
     "wof:geomhash":"3163ce3df7c147e0c0803a455f9b5e98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":253490365
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420560205,
+            "region_id":85688773,
+            "venue_id":253490365
         }
     ],
     "wof:id":253490365,
-    "wof:lastmodified":1466648258,
+    "wof:lastmodified":1491904111,
     "wof:name":"Jackson When You Need It Clean",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

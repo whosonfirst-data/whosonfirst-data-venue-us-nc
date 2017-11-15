@@ -2,9 +2,14 @@
   "id": 336860783,
   "type": "Feature",
   "properties": {
+    "addr:full":"10350 Lady Candice Ln Charlotte NC 28270",
+    "addr:housenumber":"10350",
+    "addr:postcode":"28270",
+    "addr:street":"Lady Candice Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.768613,35.070539,-80.768613,35.070539",
     "geom:latitude":35.070539,
     "geom:longitude":-80.768613,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"661794c3f990aafce68b6052d218ac6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336860783,
-    "wof:lastmodified":1466649818,
+    "wof:lastmodified":1491897267,
     "wof:name":"Ergonomic Resources",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387267855,
   "type": "Feature",
   "properties": {
+    "addr:full":"8701 Red Oak Blvd Charlotte NC 28217",
+    "addr:housenumber":"8701",
+    "addr:postcode":"28217",
+    "addr:street":"Red Oak Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.905915,35.142336,-80.905915,35.142336",
     "geom:latitude":35.142336,
     "geom:longitude":-80.905915,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8701 Red Oak Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
         85891897
     ],
+    "wof:brand_id":1125152099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ydwwujiOiYuUhEQWWnGW5_35.142336_-80.905915@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"42aaa8304bb9f8b8ad5e914d205be2ec",
+    "wof:geomhash":"0fbcd219a3e38ca034cd28128ec6ac76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":387267855,
-    "wof:lastmodified":1466653388,
+    "wof:lastmodified":1510696863,
     "wof:name":"Martin Marietta Aggregates",
     "wof:parent_id":85891897,
     "wof:placetype":"venue",

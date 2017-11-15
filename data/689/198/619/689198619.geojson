@@ -2,9 +2,14 @@
   "id": 689198619,
   "type": "Feature",
   "properties": {
+    "addr:full":"2205 Sanderford Rd Raleigh NC 27610",
+    "addr:housenumber":"2205",
+    "addr:postcode":"27610",
+    "addr:street":"Sanderford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.612711,35.748977,-78.612711,35.748977",
     "geom:latitude":35.748977,
     "geom:longitude":-78.612711,
@@ -30,8 +35,8 @@
         85633793,
         85980569,
         102087821,
-        85850267,
-        420533297
+        420533297,
+        85850267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +51,7 @@
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":85850267,
+            "neighbourhood_id":420533297,
             "region_id":85688773,
             "venue_id":689198619
         },
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":420533297,
+            "neighbourhood_id":85850267,
             "region_id":85688773,
             "venue_id":689198619
         }
     ],
     "wof:id":689198619,
-    "wof:lastmodified":1466658141,
+    "wof:lastmodified":1491928885,
     "wof:name":"Nirvana 1st Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

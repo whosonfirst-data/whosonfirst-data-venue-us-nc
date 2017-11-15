@@ -2,9 +2,14 @@
   "id": 387516461,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 Wensley Dr Charlotte NC 28210",
+    "addr:housenumber":"",
+    "addr:postcode":"2315;28210",
+    "addr:street":"Wensley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.859197,35.152224,-80.859197,35.152224",
     "geom:latitude":35.152224,
     "geom:longitude":-80.859197,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -46,7 +52,7 @@
     "wof:geomhash":"2058163d7a31ad80f1fcec55e388b37c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":387516461,
-    "wof:lastmodified":1466656164,
+    "wof:lastmodified":1491924577,
     "wof:name":"Omni Productions Inc",
     "wof:parent_id":85834943,
     "wof:placetype":"venue",

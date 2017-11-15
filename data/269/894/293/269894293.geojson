@@ -2,9 +2,14 @@
   "id": 269894293,
   "type": "Feature",
   "properties": {
+    "addr:full":"3201 Yorktown Ave Durham NC 27713",
+    "addr:housenumber":"3201",
+    "addr:postcode":"27713",
+    "addr:street":"Yorktown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.89396,35.93599,-78.89396,35.93599",
     "geom:latitude":35.93599,
     "geom:longitude":-78.89396,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"b62bc386767095b05fa050bf97e1f408",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":269894293,
-    "wof:lastmodified":1466648038,
+    "wof:lastmodified":1491916647,
     "wof:name":"Realty Ventures LLC",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

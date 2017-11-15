@@ -2,9 +2,14 @@
   "id": 253184641,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 Greenwood Cliff Charlotte NC 28204",
+    "addr:housenumber":"1108",
+    "addr:postcode":"28204",
+    "addr:street":"Greenwood Cliff",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.838748,35.210823,-80.838748,35.210823",
     "geom:latitude":35.210823,
     "geom:longitude":-80.838748,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -49,7 +55,7 @@
     "wof:geomhash":"856d00b06698aa7ff39f2b2d2a713034",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":253184641,
-    "wof:lastmodified":1466644959,
+    "wof:lastmodified":1491926321,
     "wof:name":"Metropolitan Office & Interior",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 689433445,
   "type": "Feature",
   "properties": {
+    "addr:full":"5731 Highway 64 E Raleigh NC 27610",
+    "addr:housenumber":"5731",
+    "addr:postcode":"27610",
+    "addr:street":"Highway 64 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.536973,35.794689,-78.536973,35.794689",
     "geom:latitude":35.794689,
     "geom:longitude":-78.536973,
@@ -18,12 +23,7 @@
     "sg:postcode":"27610",
     "sg:province":"NC",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85892055,
-        102087821
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FYMkrTFjZmr9Yyrl9PPzI_35.794689_-78.536973@1303262558"
@@ -31,17 +31,9 @@
     "wof:country":"US",
     "wof:created":1461750937,
     "wof:geomhash":"0b490333b1f92d17b54fbeb3a8378a4a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087821,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":689433445
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689433445,
-    "wof:lastmodified":1466662576,
+    "wof:lastmodified":1491888710,
     "wof:name":"Matchmaker Auto Svc",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

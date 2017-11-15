@@ -2,9 +2,14 @@
   "id": 320675737,
   "type": "Feature",
   "properties": {
+    "addr:full":"1423 S Tryon St Charlotte NC 28203",
+    "addr:housenumber":"1423",
+    "addr:postcode":"28203",
+    "addr:street":"S Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.854778,35.217479,-80.854778,35.217479",
     "geom:latitude":35.217479,
     "geom:longitude":-80.854778,
@@ -31,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        85858067,
+        85867041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,28 @@
     "wof:geomhash":"224d3e8b2c1d3f8759fa4924e63bc38d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85858067,
+            "region_id":85688773,
+            "venue_id":320675737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85867041,
             "region_id":85688773,
             "venue_id":320675737
         }
     ],
     "wof:id":320675737,
-    "wof:lastmodified":1466654916,
+    "wof:lastmodified":1491908361,
     "wof:name":"Pat Staub Photography Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

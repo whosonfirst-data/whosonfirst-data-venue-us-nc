@@ -2,9 +2,14 @@
   "id": 673104863,
   "type": "Feature",
   "properties": {
+    "addr:full":"2304 Wineberry Ct Matthews NC 28105",
+    "addr:housenumber":"2304",
+    "addr:postcode":"28105",
+    "addr:street":"Wineberry Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.718035,35.096539,-80.718035,35.096539",
     "geom:latitude":35.096539,
     "geom:longitude":-80.718035,
@@ -36,8 +41,8 @@
         85633793,
         85981339,
         102080981,
-        85850301,
-        85811531
+        85811531,
+        85850301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +57,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
-            "neighbourhood_id":85850301,
+            "neighbourhood_id":85811531,
             "region_id":85688773,
             "venue_id":673104863
         },
@@ -61,15 +66,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
-            "neighbourhood_id":85811531,
+            "neighbourhood_id":85850301,
             "region_id":85688773,
             "venue_id":673104863
         }
     ],
     "wof:id":673104863,
-    "wof:lastmodified":1466655225,
+    "wof:lastmodified":1491934563,
     "wof:name":"A B B Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

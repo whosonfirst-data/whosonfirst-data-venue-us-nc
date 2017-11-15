@@ -2,9 +2,14 @@
   "id": 219233641,
   "type": "Feature",
   "properties": {
+    "addr:full":"1327 Wood Branch Dr Charlotte NC 28273",
+    "addr:housenumber":"1327",
+    "addr:postcode":"28273",
+    "addr:street":"Wood Branch Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.924622,35.123023,-80.924622,35.123023",
     "geom:latitude":35.123023,
     "geom:longitude":-80.924622,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"642ae1f49a7318b8d830a73519e81631",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219233641,
-    "wof:lastmodified":1466655551,
+    "wof:lastmodified":1491912401,
     "wof:name":"Tricor Braun",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 689434997,
   "type": "Feature",
   "properties": {
+    "addr:full":"6010 Duraleigh Rd Raleigh NC 27612",
+    "addr:housenumber":"6010",
+    "addr:postcode":"27612",
+    "addr:street":"Duraleigh Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.712568,35.859858,-78.712568,35.859858",
     "geom:latitude":35.859858,
     "geom:longitude":-78.712568,
@@ -24,14 +29,7 @@
     "sg:postcode":"27612",
     "sg:province":"NC",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        102191575,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FhNYaOV6x9A8QZ44wYRN9_35.859858_-78.712568@1303262559"
@@ -39,19 +37,9 @@
     "wof:country":"US",
     "wof:created":1461750993,
     "wof:geomhash":"9326acfc0be7b96de1c35a0da5038863",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":689434997
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689434997,
-    "wof:lastmodified":1466662686,
+    "wof:lastmodified":1491889953,
     "wof:name":"La Tiendita Market",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

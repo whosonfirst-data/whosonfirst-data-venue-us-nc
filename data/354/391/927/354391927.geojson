@@ -2,9 +2,14 @@
   "id": 354391927,
   "type": "Feature",
   "properties": {
+    "addr:full":"4324 W Cornwallis Rd Durham NC 27705",
+    "addr:housenumber":"4324",
+    "addr:postcode":"27705",
+    "addr:street":"W Cornwallis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.990915,36.010341,-78.990915,36.010341",
     "geom:latitude":36.010341,
     "geom:longitude":-78.990915,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85855655
+        85855655,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"759e18373f63ee9071fd0d3e3de7732a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85855655,
             "region_id":85688773,
             "venue_id":354391927
         }
     ],
     "wof:id":354391927,
-    "wof:lastmodified":1466652081,
+    "wof:lastmodified":1491924754,
     "wof:name":"Thin Line",
     "wof:parent_id":85855655,
     "wof:placetype":"venue",

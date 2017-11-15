@@ -2,9 +2,14 @@
   "id": 387816599,
   "type": "Feature",
   "properties": {
+    "addr:full":"6601 Lead Mine Rd Raleigh NC 27612",
+    "addr:housenumber":"6601",
+    "addr:postcode":"27612",
+    "addr:street":"Lead Mine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.663602,35.870765,-78.663602,35.870765",
     "geom:latitude":35.870765,
     "geom:longitude":-78.663602,
@@ -30,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
-        102087821
+        102087821,
+        420533053,
+        420533851,
+        85807097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,37 @@
     "wof:geomhash":"77d1c4972b1c7190bce9a949db9eeebd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420533053,
+            "region_id":85688773,
+            "venue_id":387816599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":420533851,
+            "region_id":85688773,
+            "venue_id":387816599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":85807097,
             "region_id":85688773,
             "venue_id":387816599
         }
     ],
     "wof:id":387816599,
-    "wof:lastmodified":1466657809,
+    "wof:lastmodified":1491896414,
     "wof:name":"Williams Park Community Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

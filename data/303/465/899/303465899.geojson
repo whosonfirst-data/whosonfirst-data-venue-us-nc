@@ -2,9 +2,14 @@
   "id": 303465899,
   "type": "Feature",
   "properties": {
+    "addr:full":"3263 Rose of Sharon Rd Durham NC 27712",
+    "addr:housenumber":"3263",
+    "addr:postcode":"27712",
+    "addr:street":"Rose Of Sharon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.95037,36.060015,-78.95037,36.060015",
     "geom:latitude":36.060015,
     "geom:longitude":-78.95037,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"64beb0859c7d8b35a11ede4944762d83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303465899,
-    "wof:lastmodified":1466650039,
+    "wof:lastmodified":1491913499,
     "wof:name":"Garrards",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

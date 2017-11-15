@@ -2,9 +2,14 @@
   "id": 219825609,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 Silverleaf Rd Charlotte NC 28217",
+    "addr:housenumber":"613",
+    "addr:postcode":"28217",
+    "addr:street":"Silverleaf Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.885374,35.145219,-80.885374,35.145219",
     "geom:latitude":35.145219,
     "geom:longitude":-80.885374,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"26fa75c0d00ca7e8893af9398ec67ca9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219825609,
-    "wof:lastmodified":1466647393,
+    "wof:lastmodified":1491926255,
     "wof:name":"Victory Christian Ctr Blue Hse",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

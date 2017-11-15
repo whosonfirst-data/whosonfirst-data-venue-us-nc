@@ -2,14 +2,20 @@
   "id": 320445649,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 Orchard Oriole Ln Durham NC 27713",
+    "addr:housenumber":"1003",
+    "addr:postcode":"27713",
+    "addr:street":"Orchard Oriole Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.920462,35.946529,-78.920462,35.946529",
     "geom:latitude":35.946529,
     "geom:longitude":-78.920462,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1003 Orchard Oriole Ln",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
         85877179
     ],
+    "wof:brand_id":1125152863,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Pl76Gygm9tsfq7QbcqfXw_35.946529_-78.920462@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7f9d5694847e1fea04c85b3a237a11e",
+    "wof:geomhash":"c064171aa492ac624763e63fad6705ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":320445649,
-    "wof:lastmodified":1466651583,
+    "wof:lastmodified":1510613356,
     "wof:name":"D R Horton Inc",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

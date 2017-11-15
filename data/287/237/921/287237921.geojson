@@ -2,9 +2,14 @@
   "id": 287237921,
   "type": "Feature",
   "properties": {
+    "addr:full":"4419 Birkdale Dr Charlotte NC 28208",
+    "addr:housenumber":"4419",
+    "addr:postcode":"28208",
+    "addr:street":"Birkdale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.888025,35.266283,-80.888025,35.266283",
     "geom:latitude":35.266283,
     "geom:longitude":-80.888025,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ad6a6a039339dccb71fcb6a391a74f36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":287237921,
-    "wof:lastmodified":1466646626,
+    "wof:lastmodified":1491938848,
     "wof:name":"In Name Jsus Christ Ministries",
     "wof:parent_id":85842049,
     "wof:placetype":"venue",

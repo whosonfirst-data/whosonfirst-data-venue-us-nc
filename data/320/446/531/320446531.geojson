@@ -2,9 +2,14 @@
   "id": 320446531,
   "type": "Feature",
   "properties": {
+    "addr:full":"5804 Valley Estates Dr Raleigh NC 27612",
+    "addr:housenumber":"5804",
+    "addr:postcode":"27612",
+    "addr:street":"Valley Estates Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.669424,35.864911,-78.669424,35.864911",
     "geom:latitude":35.864911,
     "geom:longitude":-78.669424,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8b9187a7d9a327ba5c25a060746bf4a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320446531,
-    "wof:lastmodified":1466651596,
+    "wof:lastmodified":1491896414,
     "wof:name":"Rotoguys Inc",
     "wof:parent_id":85807097,
     "wof:placetype":"venue",

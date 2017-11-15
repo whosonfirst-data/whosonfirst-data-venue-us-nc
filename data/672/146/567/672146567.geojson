@@ -2,9 +2,14 @@
   "id": 672146567,
   "type": "Feature",
   "properties": {
+    "addr:full":"1104 Kitt Pl Raleigh NC 27610",
+    "addr:housenumber":"1104",
+    "addr:postcode":"27610",
+    "addr:street":"Kitt Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.618367,35.753088,-78.618367,35.753088",
     "geom:latitude":35.753088,
     "geom:longitude":-78.618367,
@@ -34,8 +39,8 @@
         85633793,
         85980569,
         102087821,
-        85850267,
-        420533411
+        420533411,
+        85850267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +55,7 @@
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":85850267,
+            "neighbourhood_id":420533411,
             "region_id":85688773,
             "venue_id":672146567
         },
@@ -59,15 +64,15 @@
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":420533411,
+            "neighbourhood_id":85850267,
             "region_id":85688773,
             "venue_id":672146567
         }
     ],
     "wof:id":672146567,
-    "wof:lastmodified":1466651913,
+    "wof:lastmodified":1491928888,
     "wof:name":"Sigma Gamma RHO Sorority",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

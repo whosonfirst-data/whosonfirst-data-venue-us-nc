@@ -2,9 +2,14 @@
   "id": 303236527,
   "type": "Feature",
   "properties": {
+    "addr:full":"5711 Oak Meadow Ln Raleigh NC 27612",
+    "addr:housenumber":"5711",
+    "addr:postcode":"27612",
+    "addr:street":"Oak Meadow Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.715179,35.852853,-78.715179,35.852853",
     "geom:latitude":35.852853,
     "geom:longitude":-78.715179,
@@ -27,32 +32,16 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29KesTEK4zlNYNiaUQ1MHH_35.852853_-78.715179@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"97c58631c525c7db0635eb0d90bd9110",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":303236527
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":303236527,
-    "wof:lastmodified":1466646744,
+    "wof:lastmodified":1491889957,
     "wof:name":"Bunn DJ Co",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

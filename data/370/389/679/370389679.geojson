@@ -2,9 +2,14 @@
   "id": 370389679,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 Lex Dr Charlotte NC 28262",
+    "addr:housenumber":"527",
+    "addr:postcode":"28262",
+    "addr:street":"Lex Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.72964,35.314643,-80.72964,35.314643",
     "geom:latitude":35.314643,
     "geom:longitude":-80.72964,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"5541dbf3bb4951b5685f0272763748fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370389679,
-    "wof:lastmodified":1466651136,
+    "wof:lastmodified":1491911019,
     "wof:name":"On The Move Inc",
     "wof:parent_id":85871243,
     "wof:placetype":"venue",

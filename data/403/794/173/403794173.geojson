@@ -2,9 +2,14 @@
   "id": 403794173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 Sedgefield St Durham NC 27705",
+    "addr:housenumber":"1220",
+    "addr:postcode":"27705",
+    "addr:street":"Sedgefield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.916594,36.018204,-78.916594,36.018204",
     "geom:latitude":36.018204,
     "geom:longitude":-78.916594,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"76b44aa014adba75c631e19458e2b5ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403794173,
-    "wof:lastmodified":1466651494,
+    "wof:lastmodified":1491930920,
     "wof:name":"Photo Bi ME",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303872195,
   "type": "Feature",
   "properties": {
+    "addr:full":"10710 S Tryon St Charlotte NC 28273",
+    "addr:housenumber":"10710",
+    "addr:postcode":"28273",
+    "addr:street":"S Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.95474,35.11888,-80.95474,35.11888",
     "geom:latitude":35.11888,
     "geom:longitude":-80.95474,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85850975
+        85850975,
+        85823197
     ],
     "wof:brand_id":420574567,
     "wof:breaches":[],
@@ -43,19 +50,28 @@
     "wof:geomhash":"74274b8539a2b8679a6a67c15edd51e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85850975,
             "region_id":85688773,
             "venue_id":303872195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85823197,
+            "region_id":85688773,
+            "venue_id":303872195
         }
     ],
     "wof:id":303872195,
-    "wof:lastmodified":1466655889,
+    "wof:lastmodified":1491912382,
     "wof:name":"Aldi",
-    "wof:parent_id":85850975,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

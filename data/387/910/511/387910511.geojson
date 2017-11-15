@@ -2,9 +2,14 @@
   "id": 387910511,
   "type": "Feature",
   "properties": {
+    "addr:full":"12103 Darby Chase Dr Charlotte NC 28277",
+    "addr:housenumber":"12103",
+    "addr:postcode":"28277",
+    "addr:street":"Darby Chase Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.776458,35.036738,-80.776458,35.036738",
     "geom:latitude":35.036738,
     "geom:longitude":-80.776458,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"aef82ef3cf5722fe5090848f4f31d432",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387910511,
-    "wof:lastmodified":1466657990,
+    "wof:lastmodified":1491897260,
     "wof:name":"Cherry Homes",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

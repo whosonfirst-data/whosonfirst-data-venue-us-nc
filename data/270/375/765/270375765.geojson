@@ -2,9 +2,14 @@
   "id": 270375765,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 E Kingston Ave Charlotte NC 28203",
+    "addr:housenumber":"604",
+    "addr:postcode":"28203",
+    "addr:street":"E Kingston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.850996,35.208424,-80.850996,35.208424",
     "geom:latitude":35.208424,
     "geom:longitude":-80.850996,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"217ad3aa504bbaf7fcd70d9efe1bd7f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270375765,
-    "wof:lastmodified":1466647829,
+    "wof:lastmodified":1491908358,
     "wof:name":"Marriot International",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

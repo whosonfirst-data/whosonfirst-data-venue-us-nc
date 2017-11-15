@@ -2,9 +2,14 @@
   "id": 370470981,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Ridgewood Dr Raleigh NC 27609",
+    "addr:housenumber":"120",
+    "addr:postcode":"27609",
+    "addr:street":"Ridgewood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.641342,35.866045,-78.641342,35.866045",
     "geom:latitude":35.866045,
     "geom:longitude":-78.641342,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -44,7 +50,7 @@
     "wof:geomhash":"86ded4e21ed86fe12dce5d6fdc2e6402",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":370470981,
-    "wof:lastmodified":1466652189,
+    "wof:lastmodified":1491906000,
     "wof:name":"Archstone Ridgewood",
     "wof:parent_id":85838213,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253395901,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Cobble Glen Ct Durham NC 27713",
+    "addr:housenumber":"9",
+    "addr:postcode":"27713",
+    "addr:street":"Cobble Glen Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.924673,35.931665,-78.924673,35.931665",
     "geom:latitude":35.931665,
     "geom:longitude":-78.924673,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5fddccef1920feafd8c355064b9da449",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":253395901,
-    "wof:lastmodified":1466647125,
+    "wof:lastmodified":1491916649,
     "wof:name":"Clinical & Epidemiology Rsrch",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

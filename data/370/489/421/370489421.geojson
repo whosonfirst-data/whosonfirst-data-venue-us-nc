@@ -2,9 +2,14 @@
   "id": 370489421,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 Blue Rock Dr Charlotte NC 28213",
+    "addr:housenumber":"520",
+    "addr:postcode":"28213",
+    "addr:street":"Blue Rock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.751958,35.282778,-80.751958,35.282778",
     "geom:latitude":35.282778,
     "geom:longitude":-80.751958,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"e4c1b1e3e0f770318f3766402eba4892",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":370489421,
-    "wof:lastmodified":1466652424,
+    "wof:lastmodified":1491893393,
     "wof:name":"Finley's Heating & Air Cond",
     "wof:parent_id":85804005,
     "wof:placetype":"venue",

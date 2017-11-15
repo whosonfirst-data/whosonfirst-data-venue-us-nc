@@ -2,9 +2,14 @@
   "id": 387026659,
   "type": "Feature",
   "properties": {
+    "addr:full":"1905 E Cornwallis Rd Durham NC 27713",
+    "addr:housenumber":"1905",
+    "addr:postcode":"27713",
+    "addr:street":"E Cornwallis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.891775,35.935141,-78.891775,35.935141",
     "geom:latitude":35.935141,
     "geom:longitude":-78.891775,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5fccd1a1bbc72be5b438a0db09dba5bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387026659,
-    "wof:lastmodified":1466650215,
+    "wof:lastmodified":1491916637,
     "wof:name":"Home Techz",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

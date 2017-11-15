@@ -2,9 +2,14 @@
   "id": 203367989,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 Continental Blvd Charlotte NC 28273",
+    "addr:housenumber":"1108",
+    "addr:postcode":"28273",
+    "addr:street":"Continental Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.922331,35.120312,-80.922331,35.120312",
     "geom:latitude":35.120312,
     "geom:longitude":-80.922331,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -49,7 +55,7 @@
     "wof:geomhash":"42537ef18fcf48b20e976c424cab528a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":203367989,
-    "wof:lastmodified":1466643742,
+    "wof:lastmodified":1491912394,
     "wof:name":"Piedmont National Corporation",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

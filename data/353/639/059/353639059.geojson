@@ -2,9 +2,14 @@
   "id": 353639059,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Lambeth Dr Charlotte NC 28213",
+    "addr:housenumber":"230",
+    "addr:postcode":"28213",
+    "addr:street":"Lambeth Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.781389,35.259974,-80.781389,35.259974",
     "geom:latitude":35.259974,
     "geom:longitude":-80.781389,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"460da38e1c13ba371e1501b82f4802dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353639059,
-    "wof:lastmodified":1466649879,
+    "wof:lastmodified":1491921968,
     "wof:name":"Ballantyne Custom Moving",
     "wof:parent_id":85818497,
     "wof:placetype":"venue",

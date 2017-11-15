@@ -2,9 +2,14 @@
   "id": 370944839,
   "type": "Feature",
   "properties": {
+    "addr:full":"3748 Hermine St Durham NC 27705",
+    "addr:housenumber":"",
+    "addr:postcode":"3748;27705",
+    "addr:street":"Hermine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.927683,36.047361,-78.927683,36.047361",
     "geom:latitude":36.047361,
     "geom:longitude":-78.927683,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f22f7484c135ab255b22ade9bbf3f9f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370944839,
-    "wof:lastmodified":1466657130,
+    "wof:lastmodified":1491913503,
     "wof:name":"Personality",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

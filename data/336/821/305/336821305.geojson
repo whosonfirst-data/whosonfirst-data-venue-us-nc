@@ -2,9 +2,14 @@
   "id": 336821305,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Northbend Dr Charlotte NC 28262",
+    "addr:housenumber":"101",
+    "addr:postcode":"28262",
+    "addr:street":"Northbend Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.730094,35.327377,-80.730094,35.327377",
     "geom:latitude":35.327377,
     "geom:longitude":-80.730094,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9749d3a0a967d4c03ebf4e914eff11cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336821305,
-    "wof:lastmodified":1466649205,
+    "wof:lastmodified":1491911013,
     "wof:name":"Muddy Waters Computer Repair",
     "wof:parent_id":85871243,
     "wof:placetype":"venue",

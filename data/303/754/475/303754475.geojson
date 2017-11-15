@@ -2,9 +2,14 @@
   "id": 303754475,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Swift Ave Durham NC 27705",
+    "addr:housenumber":"112",
+    "addr:postcode":"27705",
+    "addr:street":"Swift Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.920466,36.00428,-78.920466,36.00428",
     "geom:latitude":36.00428,
     "geom:longitude":-78.920466,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"5e910eaf70d4f05586e1a91c2ffef15d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303754475,
-    "wof:lastmodified":1466654203,
+    "wof:lastmodified":1491913852,
     "wof:name":"Integrative Health Care",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

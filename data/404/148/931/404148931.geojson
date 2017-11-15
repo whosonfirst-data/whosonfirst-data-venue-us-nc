@@ -2,14 +2,20 @@
   "id": 404148931,
   "type": "Feature",
   "properties": {
+    "addr:full":"2109 N Duke St Durham NC 27704",
+    "addr:housenumber":"2109",
+    "addr:postcode":"27704",
+    "addr:street":"N Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.905613,36.025429,-78.905613,36.025429",
     "geom:latitude":36.025429,
     "geom:longitude":-78.905613,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2109 N Duke St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
         85877195
     ],
+    "wof:brand_id":1125153895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YHKPpisdEzmNASw4qrUAl_36.025429_-78.905613@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6484e091d7601e9aa7f3ba320ee3865",
+    "wof:geomhash":"1a21359b6367b1c19cfda62df46d9243",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":404148931,
-    "wof:lastmodified":1466653174,
+    "wof:lastmodified":1510698861,
     "wof:name":"Our Savior Lutheran Church",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 656379691,
   "type": "Feature",
   "properties": {
+    "addr:full":"3151 Piper Ln Charlotte NC 28208",
+    "addr:housenumber":"3151",
+    "addr:postcode":"28208",
+    "addr:street":"Piper Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.927979,35.19465,-80.927979,35.19465",
     "geom:latitude":35.19465,
     "geom:longitude":-80.927979,
@@ -30,8 +35,8 @@
         85633793,
         85981333,
         102080981,
-        85882291,
-        420559457
+        420559457,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +51,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":85882291,
+            "neighbourhood_id":420559457,
             "region_id":85688773,
             "venue_id":656379691
         },
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":420559457,
+            "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":656379691
         }
     ],
     "wof:id":656379691,
-    "wof:lastmodified":1466653885,
+    "wof:lastmodified":1491904081,
     "wof:name":"Netbased Business Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

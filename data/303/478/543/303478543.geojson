@@ -2,9 +2,14 @@
   "id": 303478543,
   "type": "Feature",
   "properties": {
+    "addr:full":"8016 Douglas Dr Charlotte NC 28217",
+    "addr:housenumber":"8016",
+    "addr:postcode":"28217",
+    "addr:street":"Douglas Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.942597,35.182132,-80.942597,35.182132",
     "geom:latitude":35.182132,
     "geom:longitude":-80.942597,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"5e0007ae2de2770e3c8598bfd3bbfbf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":303478543,
-    "wof:lastmodified":1466650226,
+    "wof:lastmodified":1491920177,
     "wof:name":"Dakota Contracting Company",
     "wof:parent_id":85850977,
     "wof:placetype":"venue",

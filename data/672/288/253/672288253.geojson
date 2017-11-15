@@ -2,9 +2,14 @@
   "id": 672288253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1508 Old Milburnie Rd Raleigh NC 27604",
+    "addr:housenumber":"1508",
+    "addr:postcode":"27604",
+    "addr:street":"Old Milburnie Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.529484,35.806112,-78.529484,35.806112",
     "geom:latitude":35.806112,
     "geom:longitude":-78.529484,
@@ -28,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85892055,
-        102087821
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ASXrh1rWTK4cJ322IiqUK_35.806112_-78.529484@1294165850"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1461715365,
     "wof:geomhash":"e2861052f83165114dedb733563007cc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087821,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":672288253
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672288253,
-    "wof:lastmodified":1466657738,
+    "wof:lastmodified":1491888714,
     "wof:name":"Danny Duncan & Assoc Inc",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 371055865,
   "type": "Feature",
   "properties": {
+    "addr:full":"1409 E 3rd St Charlotte NC 28204",
+    "addr:housenumber":"1409",
+    "addr:postcode":"28204",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.829872,35.213042,-80.829872,35.213042",
     "geom:latitude":35.213042,
     "geom:longitude":-80.829872,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"96aac022b8ef8493ae9ae85e26c76538",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":371055865,
-    "wof:lastmodified":1466649527,
+    "wof:lastmodified":1491926316,
     "wof:name":"HMO Bail Bonds",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353587783,
   "type": "Feature",
   "properties": {
+    "addr:full":"4504 Sterling Dr Durham NC 27712",
+    "addr:housenumber":"4504",
+    "addr:postcode":"27712",
+    "addr:street":"Sterling Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.953951,36.073242,-78.953951,36.073242",
     "geom:latitude":36.073242,
     "geom:longitude":-78.953951,
@@ -28,8 +33,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +44,15 @@
     "wof:geomhash":"55957cec5d6359b2b1b23e8f9ec25bc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":353587783
         }
     ],
     "wof:id":353587783,
-    "wof:lastmodified":1466649255,
+    "wof:lastmodified":1491905444,
     "wof:name":"Temple Baptist Church",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

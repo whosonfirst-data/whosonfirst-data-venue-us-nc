@@ -2,9 +2,14 @@
   "id": 303643699,
   "type": "Feature",
   "properties": {
+    "addr:full":"6004 Ayr Ct Raleigh NC 27609",
+    "addr:housenumber":"6004",
+    "addr:postcode":"27609",
+    "addr:street":"Ayr Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.652084,35.866114,-78.652084,35.866114",
     "geom:latitude":35.866114,
     "geom:longitude":-78.652084,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5c13c7fc40d7bf8ca5b5b6b4bf2ff885",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303643699,
-    "wof:lastmodified":1466652601,
+    "wof:lastmodified":1491906000,
     "wof:name":"Styers Shrrill H Land Srveying",
     "wof:parent_id":85838213,
     "wof:placetype":"venue",

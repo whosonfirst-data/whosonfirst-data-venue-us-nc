@@ -2,9 +2,14 @@
   "id": 303930915,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Severna Ct Durham NC 27704",
+    "addr:housenumber":"7",
+    "addr:postcode":"27704",
+    "addr:street":"Severna Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.921526,36.054375,-78.921526,36.054375",
     "geom:latitude":36.054375,
     "geom:longitude":-78.921526,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"48f8c3a317b188e0e4d00a7eeeacf980",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303930915,
-    "wof:lastmodified":1466656306,
+    "wof:lastmodified":1491913501,
     "wof:name":"Lyons Day Care",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

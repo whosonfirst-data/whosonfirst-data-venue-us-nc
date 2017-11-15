@@ -2,9 +2,14 @@
   "id": 303552087,
   "type": "Feature",
   "properties": {
+    "addr:full":"1335 S Clarkson St Charlotte NC 28208",
+    "addr:housenumber":"1335",
+    "addr:postcode":"28208",
+    "addr:street":"S Clarkson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.86382,35.223093,-80.86382,35.223093",
     "geom:latitude":35.223093,
     "geom:longitude":-80.86382,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"804f6a4955550040f78b5e896d1487f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303552087,
-    "wof:lastmodified":1466651270,
+    "wof:lastmodified":1491909083,
     "wof:name":"Charlotte Pipe & Foundry Co",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

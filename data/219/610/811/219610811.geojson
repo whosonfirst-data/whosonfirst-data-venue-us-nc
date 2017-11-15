@@ -2,9 +2,14 @@
   "id": 219610811,
   "type": "Feature",
   "properties": {
+    "addr:full":"1221 Clanton Rd Charlotte NC 28217",
+    "addr:housenumber":"1221",
+    "addr:postcode":"28217",
+    "addr:street":"Clanton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.89297,35.20349,-80.89297,35.20349",
     "geom:latitude":35.20349,
     "geom:longitude":-80.89297,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420532193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,28 @@
     "wof:geomhash":"3e94e6b79e9582c0db6bf2a7827b66d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":219610811
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420532193,
+            "region_id":85688773,
+            "venue_id":219610811
         }
     ],
     "wof:id":219610811,
-    "wof:lastmodified":1466645660,
+    "wof:lastmodified":1491904111,
     "wof:name":"Dianes Caterers & Catering",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

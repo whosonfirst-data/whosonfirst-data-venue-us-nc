@@ -2,9 +2,14 @@
   "id": 656382877,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Romany Rd Charlotte NC 28203",
+    "addr:housenumber":"901",
+    "addr:postcode":"28203",
+    "addr:street":"Romany Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.846313,35.20775,-80.846313,35.20775",
     "geom:latitude":35.20775,
     "geom:longitude":-80.846313,
@@ -30,7 +35,8 @@
         85633793,
         85981333,
         102080981,
-        85867041
+        85867041,
+        85814539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,21 @@
             "neighbourhood_id":85867041,
             "region_id":85688773,
             "venue_id":656382877
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85814539,
+            "region_id":85688773,
+            "venue_id":656382877
         }
     ],
     "wof:id":656382877,
-    "wof:lastmodified":1466654099,
+    "wof:lastmodified":1491908380,
     "wof:name":"Mills Terry K Realty Co Inc",
-    "wof:parent_id":85867041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387612811,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Northbrook Dr Raleigh NC 27609",
+    "addr:housenumber":"700",
+    "addr:postcode":"27609",
+    "addr:street":"Northbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.652707,35.844524,-78.652707,35.844524",
     "geom:latitude":35.844524,
     "geom:longitude":-78.652707,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"02368a35ca46f9f1b2e7227990bff290",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387612811,
-    "wof:lastmodified":1466657094,
+    "wof:lastmodified":1491908398,
     "wof:name":"Brooks Elementary School",
     "wof:parent_id":85807295,
     "wof:placetype":"venue",

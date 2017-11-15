@@ -2,9 +2,14 @@
   "id": 253167505,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Stadium Dr Durham NC 27704",
+    "addr:housenumber":"100",
+    "addr:postcode":"27704",
+    "addr:street":"Stadium Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.905636,36.033466,-78.905636,36.033466",
     "geom:latitude":36.033466,
     "geom:longitude":-78.905636,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85877187,
+        85807037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,27 @@
     "wof:geomhash":"007a01d013af29ad15db909fb41055fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877187,
+            "region_id":85688773,
+            "venue_id":253167505
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85807037,
             "region_id":85688773,
             "venue_id":253167505
         }
     ],
     "wof:id":253167505,
-    "wof:lastmodified":1466644789,
+    "wof:lastmodified":1491927369,
     "wof:name":"National Guard Support Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

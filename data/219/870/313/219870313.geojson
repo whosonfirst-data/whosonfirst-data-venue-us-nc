@@ -2,9 +2,14 @@
   "id": 219870313,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Indigo Creek Trl Durham NC 27712",
+    "addr:housenumber":"21",
+    "addr:postcode":"27712",
+    "addr:street":"Indigo Creek Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.948123,36.074726,-78.948123,36.074726",
     "geom:latitude":36.074726,
     "geom:longitude":-78.948123,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"6a6025db364a8e93e1db0dc131d07371",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":219870313
         }
     ],
     "wof:id":219870313,
-    "wof:lastmodified":1466647759,
+    "wof:lastmodified":1491905443,
     "wof:name":"Oasis Computer Support",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303322555,
   "type": "Feature",
   "properties": {
+    "addr:full":"5612 Preston Pl Raleigh NC 27604",
+    "addr:housenumber":"5612",
+    "addr:postcode":"27604",
+    "addr:street":"Preston Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.536011,35.802124,-78.536011,35.802124",
     "geom:latitude":35.802124,
     "geom:longitude":-78.536011,
@@ -27,31 +32,16 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        102087821,
-        85892055
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bclqnvXx3PEHiUpZhiUtD_35.802124_-78.536011@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"ea27970bf22ca0b034309dbce5fbf29f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":-1,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":303322555
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":303322555,
-    "wof:lastmodified":1466647973,
+    "wof:lastmodified":1491888715,
     "wof:name":"Elite Child Care",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

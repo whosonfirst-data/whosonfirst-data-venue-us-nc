@@ -2,9 +2,14 @@
   "id": 286964933,
   "type": "Feature",
   "properties": {
+    "addr:full":"1413 Kirkwood Dr Durham NC 27705",
+    "addr:housenumber":"1413",
+    "addr:postcode":"27705",
+    "addr:street":"Kirkwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.923006,36.042936,-78.923006,36.042936",
     "geom:latitude":36.042936,
     "geom:longitude":-78.923006,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85877151,
+        85851613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"3955caac73160f0c006cca7ae9dbcc5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877151,
+            "region_id":85688773,
+            "venue_id":286964933
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85851613,
             "region_id":85688773,
             "venue_id":286964933
         }
     ],
     "wof:id":286964933,
-    "wof:lastmodified":1466652730,
+    "wof:lastmodified":1491913501,
     "wof:name":"AAA Cleaning Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

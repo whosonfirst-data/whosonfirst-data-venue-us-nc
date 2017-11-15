@@ -2,9 +2,14 @@
   "id": 689305423,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 W Morgan St Raleigh NC 27603",
+    "addr:housenumber":"500",
+    "addr:postcode":"27603",
+    "addr:street":"W Morgan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.647018,35.77988,-78.647018,35.77988",
     "geom:latitude":35.77988,
     "geom:longitude":-78.647018,
@@ -35,7 +40,15 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688773,
+        102191575,
+        85633793,
+        85980569,
+        102087821,
+        85873475,
+        85873457
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WX2rJtazO2yQz03ilQv8P_35.779880_-78.647018@1294165850"
@@ -43,11 +56,30 @@
     "wof:country":"US",
     "wof:created":1461745865,
     "wof:geomhash":"ea95aebba221c5eace44545edf5e04f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":85873475,
+            "region_id":85688773,
+            "venue_id":689305423
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":85873457,
+            "region_id":85688773,
+            "venue_id":689305423
+        }
+    ],
     "wof:id":689305423,
-    "wof:lastmodified":1466658991,
+    "wof:lastmodified":1491913520,
     "wof:name":"Wilsons Outdoor Equipment Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

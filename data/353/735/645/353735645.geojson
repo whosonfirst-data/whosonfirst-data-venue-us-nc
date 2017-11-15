@@ -2,9 +2,14 @@
   "id": 353735645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 Marlowe Rd Raleigh NC 27609",
+    "addr:housenumber":"1015",
+    "addr:postcode":"27609",
+    "addr:street":"Marlowe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.652141,35.82905,-78.652141,35.82905",
     "geom:latitude":35.82905,
     "geom:longitude":-78.652141,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b830d024c57c3867525962f601d1f019",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353735645,
-    "wof:lastmodified":1466651031,
+    "wof:lastmodified":1491887156,
     "wof:name":"Enterprise Exploration & Prod",
     "wof:parent_id":85857835,
     "wof:placetype":"venue",

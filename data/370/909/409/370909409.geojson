@@ -2,9 +2,14 @@
   "id": 370909409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 Minerva Ave Durham NC 27701",
+    "addr:housenumber":"1020",
+    "addr:postcode":"27701",
+    "addr:street":"Minerva Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.910684,36.004542,-78.910684,36.004542",
     "geom:latitude":36.004542,
     "geom:longitude":-78.910684,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"00f5be90a27419b06e363b5a652e0d3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370909409,
-    "wof:lastmodified":1466656849,
+    "wof:lastmodified":1491906391,
     "wof:name":"Crescent Prpts & Restoration",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

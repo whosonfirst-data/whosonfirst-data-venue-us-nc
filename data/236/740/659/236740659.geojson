@@ -2,9 +2,14 @@
   "id": 236740659,
   "type": "Feature",
   "properties": {
+    "addr:full":"428 S McDowell St Raleigh NC 27601",
+    "addr:housenumber":"428",
+    "addr:postcode":"27601",
+    "addr:street":"S Mcdowell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.642054,35.775305,-78.642054,35.775305",
     "geom:latitude":35.775305,
     "geom:longitude":-78.642054,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"42e60131b40d80036b93ac9335ffa19f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236740659,
-    "wof:lastmodified":1466649874,
+    "wof:lastmodified":1491939133,
     "wof:name":"Van De Zande Photography",
     "wof:parent_id":85873475,
     "wof:placetype":"venue",

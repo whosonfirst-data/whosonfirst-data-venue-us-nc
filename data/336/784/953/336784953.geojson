@@ -2,9 +2,14 @@
   "id": 336784953,
   "type": "Feature",
   "properties": {
+    "addr:full":"13108 Kensworth Ct Charlotte NC 28277",
+    "addr:housenumber":"13108",
+    "addr:postcode":"28277",
+    "addr:street":"Kensworth Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.774838,35.037636,-80.774838,35.037636",
     "geom:latitude":35.037636,
     "geom:longitude":-80.774838,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7b632298a16265f27c89856e423b8202",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336784953,
-    "wof:lastmodified":1466648657,
+    "wof:lastmodified":1491897263,
     "wof:name":"Cynthia Stahl & Co",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354357539,
   "type": "Feature",
   "properties": {
+    "addr:full":"7421 Chital Rd Charlotte NC 28273",
+    "addr:housenumber":"7421",
+    "addr:postcode":"28273",
+    "addr:street":"Chital Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.926799,35.152165,-80.926799,35.152165",
     "geom:latitude":35.152165,
     "geom:longitude":-80.926799,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"4345c7cbaa01898e04601e7f18e6865d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":354357539,
-    "wof:lastmodified":1466651684,
+    "wof:lastmodified":1491914697,
     "wof:name":"Anoited Cleaning Services",
     "wof:parent_id":85839499,
     "wof:placetype":"venue",

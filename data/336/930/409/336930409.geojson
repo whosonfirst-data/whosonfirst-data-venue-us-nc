@@ -2,9 +2,14 @@
   "id": 336930409,
   "type": "Feature",
   "properties": {
+    "addr:full":"2820 Fox Dr Durham NC 27712",
+    "addr:housenumber":"2820",
+    "addr:postcode":"27712",
+    "addr:street":"Fox Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.977275,36.077656,-78.977275,36.077656",
     "geom:latitude":36.077656,
     "geom:longitude":-78.977275,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"240a6a0f962e159289120bc18d6a151e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":336930409
         }
     ],
     "wof:id":336930409,
-    "wof:lastmodified":1466650882,
+    "wof:lastmodified":1491905447,
     "wof:name":"Wall To Wall Home Inspections",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

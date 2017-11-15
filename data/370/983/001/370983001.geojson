@@ -2,9 +2,14 @@
   "id": 370983001,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 Watts St Durham NC 27701",
+    "addr:housenumber":"1405",
+    "addr:postcode":"27701",
+    "addr:street":"Watts St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.910802,36.015898,-78.910802,36.015898",
     "geom:latitude":36.015898,
     "geom:longitude":-78.910802,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -48,7 +54,7 @@
     "wof:geomhash":"2516bfe94fc6335415e0cba6ee7ed794",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":370983001,
-    "wof:lastmodified":1466657318,
+    "wof:lastmodified":1491930892,
     "wof:name":"Dukes Wedding Directing Rental",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

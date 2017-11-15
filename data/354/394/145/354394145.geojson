@@ -2,9 +2,14 @@
   "id": 354394145,
   "type": "Feature",
   "properties": {
+    "addr:full":"522 Lynderhill Ln Matthews NC 28105",
+    "addr:housenumber":"522",
+    "addr:postcode":"28105",
+    "addr:street":"Lynderhill Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.740025,35.123405,-80.740025,35.123405",
     "geom:latitude":35.123405,
     "geom:longitude":-80.740025,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"016564283c53951538327f8f133fb4bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":354394145,
-    "wof:lastmodified":1466652105,
+    "wof:lastmodified":1491899955,
     "wof:name":"Tech Source Inc",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

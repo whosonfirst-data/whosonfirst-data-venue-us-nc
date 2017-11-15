@@ -2,9 +2,14 @@
   "id": 319935099,
   "type": "Feature",
   "properties": {
+    "addr:full":"5430 Hovis Rd Charlotte NC 28208",
+    "addr:housenumber":"",
+    "addr:postcode":"5430;28208",
+    "addr:street":"Hovis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.89737,35.273624,-80.89737,35.273624",
     "geom:latitude":35.273624,
     "geom:longitude":-80.89737,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"6d97fb21d3f8085bce19312fec120fb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":319935099,
-    "wof:lastmodified":1466646548,
+    "wof:lastmodified":1491938847,
     "wof:name":"Pacific Trailer Repair Service",
     "wof:parent_id":85842049,
     "wof:placetype":"venue",

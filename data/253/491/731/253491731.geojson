@@ -2,9 +2,14 @@
   "id": 253491731,
   "type": "Feature",
   "properties": {
+    "addr:full":"13223 Chasewater Dr Charlotte NC 28277",
+    "addr:housenumber":"13223",
+    "addr:postcode":"28277",
+    "addr:street":"Chasewater Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.778226,35.036507,-80.778226,35.036507",
     "geom:latitude":35.036507,
     "geom:longitude":-80.778226,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"722f5a1ec8b1ba5437fe3e84e296b480",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":253491731,
-    "wof:lastmodified":1466648275,
+    "wof:lastmodified":1491897242,
     "wof:name":"Dollars & Sense Accounting",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

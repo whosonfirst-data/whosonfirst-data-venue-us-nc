@@ -2,9 +2,14 @@
   "id": 320593123,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 N Brevard St Charlotte NC 28202",
+    "addr:housenumber":"402",
+    "addr:postcode":"28202",
+    "addr:street":"N Brevard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.835622,35.227576,-80.835622,35.227576",
     "geom:latitude":35.227576,
     "geom:longitude":-80.835622,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"af8f532133843f29b4e09ae41ed6947a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320593123,
-    "wof:lastmodified":1466653729,
+    "wof:lastmodified":1491900480,
     "wof:name":"Waxhaw Town Public Svc Dept",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",

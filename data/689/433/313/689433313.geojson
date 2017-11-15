@@ -2,9 +2,14 @@
   "id": 689433313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1917 Crawford Rd Raleigh NC 27610",
+    "addr:housenumber":"1917",
+    "addr:postcode":"27610",
+    "addr:street":"Crawford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.607543,35.753506,-78.607543,35.753506",
     "geom:latitude":35.753506,
     "geom:longitude":-78.607543,
@@ -34,8 +39,8 @@
         85633793,
         85980569,
         102087821,
-        85850267,
-        420533297
+        420533297,
+        85850267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +55,7 @@
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":85850267,
+            "neighbourhood_id":420533297,
             "region_id":85688773,
             "venue_id":689433313
         },
@@ -59,15 +64,15 @@
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":420533297,
+            "neighbourhood_id":85850267,
             "region_id":85688773,
             "venue_id":689433313
         }
     ],
     "wof:id":689433313,
-    "wof:lastmodified":1466662638,
+    "wof:lastmodified":1491928887,
     "wof:name":"Kidz Castle",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

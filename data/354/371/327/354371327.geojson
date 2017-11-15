@@ -2,9 +2,14 @@
   "id": 354371327,
   "type": "Feature",
   "properties": {
+    "addr:full":"10532 Elrod Ln Charlotte NC 28277",
+    "addr:housenumber":"",
+    "addr:postcode":"10532;28277",
+    "addr:street":"Elrod Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.78769,35.065121,-80.78769,35.065121",
     "geom:latitude":35.065121,
     "geom:longitude":-80.78769,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"34e78ac58ec2086c3d568c519bc43100",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":354371327,
-    "wof:lastmodified":1466651843,
+    "wof:lastmodified":1491897242,
     "wof:name":"Bev Co Inc",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

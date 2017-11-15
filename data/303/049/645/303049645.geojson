@@ -2,9 +2,14 @@
   "id": 303049645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1904 Spanish Bay Ct Raleigh NC 27604",
+    "addr:housenumber":"1904",
+    "addr:postcode":"27604",
+    "addr:street":"Spanish Bay Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.546579,35.810128,-78.546579,35.810128",
     "geom:latitude":35.810128,
     "geom:longitude":-78.546579,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -39,7 +45,7 @@
     "wof:geomhash":"da5a4ebc7d23731f87c48c64d7e486d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303049645,
-    "wof:lastmodified":1466643948,
+    "wof:lastmodified":1491935412,
     "wof:name":"D R C Marketing LLC",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320219093,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Winona St Charlotte NC 28203",
+    "addr:housenumber":"125",
+    "addr:postcode":"28203",
+    "addr:street":"Winona St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.856652,35.217296,-80.856652,35.217296",
     "geom:latitude":35.217296,
     "geom:longitude":-80.856652,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"09b8074043a0ded7cf82249b755a005c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320219093,
-    "wof:lastmodified":1466648355,
+    "wof:lastmodified":1491909078,
     "wof:name":"Graphic Specialties Of The Se",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

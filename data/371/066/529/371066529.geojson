@@ -2,9 +2,14 @@
   "id": 371066529,
   "type": "Feature",
   "properties": {
+    "addr:full":"4824 Parkway Plaza Blvd Charlotte NC 28217",
+    "addr:housenumber":"4824",
+    "addr:postcode":"28217",
+    "addr:street":"Parkway Plaza Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.902879,35.183394,-80.902879,35.183394",
     "geom:latitude":35.183394,
     "geom:longitude":-80.902879,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"3790733b0663df31fd5303df1cb0febb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
             "venue_id":371066529
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":371066529,
-    "wof:lastmodified":1466649662,
+    "wof:lastmodified":1491904098,
     "wof:name":"Mentor Clinical Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

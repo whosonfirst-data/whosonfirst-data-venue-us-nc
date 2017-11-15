@@ -2,9 +2,14 @@
   "id": 236902571,
   "type": "Feature",
   "properties": {
+    "addr:full":"6227 South Blvd Charlotte NC 28217",
+    "addr:housenumber":"6227",
+    "addr:postcode":"28217",
+    "addr:street":"South Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.876264,35.151529,-80.876264,35.151529",
     "geom:latitude":35.151529,
     "geom:longitude":-80.876264,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ace48cb9d09c32118bc3652ae993f1d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":236902571,
-    "wof:lastmodified":1466651306,
+    "wof:lastmodified":1491924591,
     "wof:name":"Bestway Rentals",
     "wof:parent_id":85834943,
     "wof:placetype":"venue",

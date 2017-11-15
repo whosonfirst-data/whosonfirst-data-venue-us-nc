@@ -2,9 +2,14 @@
   "id": 287023237,
   "type": "Feature",
   "properties": {
+    "addr:full":"6637 Orr Rd Charlotte NC 28213",
+    "addr:housenumber":"6637",
+    "addr:postcode":"28213",
+    "addr:street":"Orr Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.745367,35.266569,-80.745367,35.266569",
     "geom:latitude":35.266569,
     "geom:longitude":-80.745367,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4aecd659ba3fc3f32a8c674789cec6b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287023237,
-    "wof:lastmodified":1466643557,
+    "wof:lastmodified":1491893390,
     "wof:name":"RBM Automotive",
     "wof:parent_id":85804005,
     "wof:placetype":"venue",

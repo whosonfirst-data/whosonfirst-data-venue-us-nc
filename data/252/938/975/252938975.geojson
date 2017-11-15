@@ -2,9 +2,14 @@
   "id": 252938975,
   "type": "Feature",
   "properties": {
+    "addr:full":"1814 Euclid Ave Charlotte NC 28203",
+    "addr:housenumber":"1814",
+    "addr:postcode":"28203",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.856411,35.209235,-80.856411,35.209235",
     "geom:latitude":35.209235,
     "geom:longitude":-80.856411,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"e47f67b9d17d90c1fdfb10ad57951d58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":252938975,
-    "wof:lastmodified":1466645308,
+    "wof:lastmodified":1491908360,
     "wof:name":"Dove's Nest",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

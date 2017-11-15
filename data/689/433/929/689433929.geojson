@@ -2,9 +2,14 @@
   "id": 689433929,
   "type": "Feature",
   "properties": {
+    "addr:full":"5915 Cameo Glass Way Raleigh NC 27612",
+    "addr:housenumber":"5915",
+    "addr:postcode":"27612",
+    "addr:street":"Cameo Glass Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.720551,35.860279,-78.720551,35.860279",
     "geom:latitude":35.860279,
     "geom:longitude":-78.720551,
@@ -42,12 +47,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
-        85633793,
-        85892077,
-        102087821,
         102191575,
+        85633793,
         85980569,
-        85847761
+        102087821,
+        85892077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,26 +62,19 @@
     "wof:geomhash":"4b9a661cf91e5e075dc7606682b77160",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102087821,
-            "neighbourhood_id":85892077,
-            "region_id":85688773,
-            "venue_id":689433929
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":85847761,
+            "neighbourhood_id":85892077,
             "region_id":85688773,
             "venue_id":689433929
         }
     ],
     "wof:id":689433929,
-    "wof:lastmodified":1466662643,
+    "wof:lastmodified":1491889950,
     "wof:name":"Domino's Pizza",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

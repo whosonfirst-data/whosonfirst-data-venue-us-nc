@@ -2,9 +2,14 @@
   "id": 286833963,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 Yorkmont Rd Charlotte NC 28208",
+    "addr:housenumber":"3101",
+    "addr:postcode":"28208",
+    "addr:street":"Yorkmont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.933317,35.193883,-80.933317,35.193883",
     "geom:latitude":35.193883,
     "geom:longitude":-80.933317,
@@ -31,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
+        420559457,
+        85814609,
         85882291
     ],
     "wof:breaches":[],
@@ -44,7 +52,25 @@
     "wof:geomhash":"7a214e2b2aeb51ebd425b92df1bde97d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559457,
+            "region_id":85688773,
+            "venue_id":286833963
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85814609,
+            "region_id":85688773,
+            "venue_id":286833963
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,9 +80,9 @@
         }
     ],
     "wof:id":286833963,
-    "wof:lastmodified":1466650921,
+    "wof:lastmodified":1491904116,
     "wof:name":"San Direct",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

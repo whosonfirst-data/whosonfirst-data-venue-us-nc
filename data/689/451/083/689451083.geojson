@@ -2,9 +2,14 @@
   "id": 689451083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1022 Pressley Rd Ste C Charlotte NC 28217",
+    "addr:housenumber":"1022",
+    "addr:postcode":"28217",
+    "addr:street":"Pressley Rd Ste C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.894187,35.191302,-80.894187,35.191302",
     "geom:latitude":35.191302,
     "geom:longitude":-80.894187,
@@ -66,8 +71,8 @@
         85633793,
         85981333,
         102080981,
-        420560205,
-        85882291
+        85882291,
+        420560205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +87,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":420560205,
+            "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":689451083
         },
@@ -91,15 +96,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":85882291,
+            "neighbourhood_id":420560205,
             "region_id":85688773,
             "venue_id":689451083
         }
     ],
     "wof:id":689451083,
-    "wof:lastmodified":1466663055,
+    "wof:lastmodified":1491904153,
     "wof:name":"Staples",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370660847,
   "type": "Feature",
   "properties": {
+    "addr:full":"2725 Green Lane Dr Durham NC 27712",
+    "addr:housenumber":"2725",
+    "addr:postcode":"27712",
+    "addr:street":"Green Lane Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.971127,36.074139,-78.971127,36.074139",
     "geom:latitude":36.074139,
     "geom:longitude":-78.971127,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"457ae89a664b0ac8910172da90d28613",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":370660847
         }
     ],
     "wof:id":370660847,
-    "wof:lastmodified":1466654680,
+    "wof:lastmodified":1491905443,
     "wof:name":"R Stauffenberg Acct",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

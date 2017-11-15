@@ -2,9 +2,14 @@
   "id": 387715793,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 Jackson St Durham NC 27701",
+    "addr:housenumber":"605",
+    "addr:postcode":"27701",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.909929,35.995425,-78.909929,35.995425",
     "geom:latitude":35.995425,
     "geom:longitude":-78.909929,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"628689175730ee596991bac12a828654",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387715793,
-    "wof:lastmodified":1466657373,
+    "wof:lastmodified":1491906391,
     "wof:name":"Distinctive Properties",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

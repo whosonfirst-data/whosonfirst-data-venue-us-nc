@@ -2,9 +2,14 @@
   "id": 303113203,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 W Jones St Raleigh NC 27603",
+    "addr:housenumber":"300",
+    "addr:postcode":"27603",
+    "addr:street":"W Jones St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.644892,35.782742,-78.644892,35.782742",
     "geom:latitude":35.782742,
     "geom:longitude":-78.644892,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c647e3157191834abb4cc2f94c3d89e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303113203,
-    "wof:lastmodified":1466644903,
+    "wof:lastmodified":1491913521,
     "wof:name":"Wilmington Star News Inc",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

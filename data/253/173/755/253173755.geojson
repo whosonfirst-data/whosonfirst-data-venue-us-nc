@@ -2,9 +2,14 @@
   "id": 253173755,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Cessna Rd Charlotte NC 28208",
+    "addr:housenumber":"3300",
+    "addr:postcode":"28208",
+    "addr:street":"Cessna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.932496,35.195504,-80.932496,35.195504",
     "geom:latitude":35.195504,
     "geom:longitude":-80.932496,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291,
-        85814609
+        85814609,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +49,28 @@
     "wof:geomhash":"3bc411b205be5c22153c1a9e65b66f70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85814609,
+            "region_id":85688773,
+            "venue_id":253173755
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":253173755
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":-1,
-            "neighbourhood_id":85814609,
-            "region_id":85688773,
-            "venue_id":253173755
         }
     ],
     "wof:id":253173755,
-    "wof:lastmodified":1466644850,
+    "wof:lastmodified":1491904111,
     "wof:name":"Palmyra Marble & Granite",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

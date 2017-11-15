@@ -2,9 +2,14 @@
   "id": 353505009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 W Chapel Hill St Durham NC 27701",
+    "addr:housenumber":"1101",
+    "addr:postcode":"27701",
+    "addr:street":"W Chapel Hill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.917446,35.996725,-78.917446,35.996725",
     "geom:latitude":35.996725,
     "geom:longitude":-78.917446,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -48,7 +54,7 @@
     "wof:geomhash":"5a51ab69117325e57e3c950aa2bd033b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":353505009,
-    "wof:lastmodified":1466648213,
+    "wof:lastmodified":1491913852,
     "wof:name":"Durham Coo-Op Grocery",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

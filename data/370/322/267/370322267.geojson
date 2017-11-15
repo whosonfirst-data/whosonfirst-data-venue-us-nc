@@ -2,9 +2,14 @@
   "id": 370322267,
   "type": "Feature",
   "properties": {
+    "addr:full":"4800 Sirus Ln Charlotte NC 28208",
+    "addr:housenumber":"4800",
+    "addr:postcode":"28208",
+    "addr:street":"Sirus Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.940298,35.194865,-80.940298,35.194865",
     "geom:latitude":35.194865,
     "geom:longitude":-80.940298,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        85814609,
+        85850977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"ad3fdecf1cea17cdac1e68e3f9ea028a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85814609,
+            "region_id":85688773,
+            "venue_id":370322267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85850977,
             "region_id":85688773,
             "venue_id":370322267
         }
     ],
     "wof:id":370322267,
-    "wof:lastmodified":1466650290,
+    "wof:lastmodified":1491920177,
     "wof:name":"Ots Astracon LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

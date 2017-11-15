@@ -2,9 +2,14 @@
   "id": 253728357,
   "type": "Feature",
   "properties": {
+    "addr:full":"9801 John Price Rd Charlotte NC 28273",
+    "addr:housenumber":"9801",
+    "addr:postcode":"28273",
+    "addr:street":"John Price Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.952952,35.123709,-80.952952,35.123709",
     "geom:latitude":35.123709,
     "geom:longitude":-80.952952,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        420532117,
+        85850975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"72294cbf52a9039b08164cad2449af53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420532117,
+            "region_id":85688773,
+            "venue_id":253728357
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85850975,
             "region_id":85688773,
             "venue_id":253728357
         }
     ],
     "wof:id":253728357,
-    "wof:lastmodified":1466651113,
+    "wof:lastmodified":1491912395,
     "wof:name":"Arrowood Child Development Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 320056999,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 W Main St Durham NC 27701",
+    "addr:housenumber":"1101",
+    "addr:postcode":"27701",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.912556,36.002091,-78.912556,36.002091",
     "geom:latitude":36.002091,
     "geom:longitude":-78.912556,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"88c910d5bf73dc14674b08241882e46a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320056999,
-    "wof:lastmodified":1466646130,
+    "wof:lastmodified":1491906390,
     "wof:name":"Indigo Montessori School",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

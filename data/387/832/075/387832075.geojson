@@ -2,9 +2,14 @@
   "id": 387832075,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 November Dr Durham NC 27712",
+    "addr:housenumber":"521",
+    "addr:postcode":"27712",
+    "addr:street":"November Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.961698,36.06919,-78.961698,36.06919",
     "geom:latitude":36.06919,
     "geom:longitude":-78.961698,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"e2386b8225b7ba1e5c2f906214a7acde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":387832075
         }
     ],
     "wof:id":387832075,
-    "wof:lastmodified":1466657837,
+    "wof:lastmodified":1491905443,
     "wof:name":"Michael Volow",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

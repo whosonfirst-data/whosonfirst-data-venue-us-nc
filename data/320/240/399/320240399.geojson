@@ -2,9 +2,14 @@
   "id": 320240399,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 E Park Ave Charlotte NC 28203",
+    "addr:housenumber":"301",
+    "addr:postcode":"28203",
+    "addr:street":"E Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.853281,35.211937,-80.853281,35.211937",
     "geom:latitude":35.211937,
     "geom:longitude":-80.853281,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d772dd45301cb6f8ca1d83585902d06c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320240399,
-    "wof:lastmodified":1466648658,
+    "wof:lastmodified":1491908370,
     "wof:name":"Homeroom Inc",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

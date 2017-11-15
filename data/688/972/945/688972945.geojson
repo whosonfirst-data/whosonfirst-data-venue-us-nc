@@ -2,9 +2,14 @@
   "id": 688972945,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 S West St Raleigh NC 27603",
+    "addr:housenumber":"2",
+    "addr:postcode":"west;27603",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.645955,35.779837,-78.645955,35.779837",
     "geom:latitude":35.779837,
     "geom:longitude":-78.645955,
@@ -33,7 +38,8 @@
         85633793,
         85980569,
         102087821,
-        85873475
+        85873475,
+        85873457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +57,21 @@
             "neighbourhood_id":85873475,
             "region_id":85688773,
             "venue_id":688972945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":85873457,
+            "region_id":85688773,
+            "venue_id":688972945
         }
     ],
     "wof:id":688972945,
-    "wof:lastmodified":1466653716,
+    "wof:lastmodified":1491913535,
     "wof:name":"Flex",
-    "wof:parent_id":85873475,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

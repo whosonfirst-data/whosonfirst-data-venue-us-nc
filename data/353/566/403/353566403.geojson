@@ -2,9 +2,14 @@
   "id": 353566403,
   "type": "Feature",
   "properties": {
+    "addr:full":"8124 S Tryon St Charlotte NC 28273",
+    "addr:housenumber":"8124",
+    "addr:postcode":"28273",
+    "addr:street":"S Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.930612,35.142537,-80.930612,35.142537",
     "geom:latitude":35.142537,
     "geom:longitude":-80.930612,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c92170f8f99c1ca04dfd1f80511b57a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353566403,
-    "wof:lastmodified":1466648977,
+    "wof:lastmodified":1491914698,
     "wof:name":"Bellacinos Pizza & Grinders",
     "wof:parent_id":85839499,
     "wof:placetype":"venue",

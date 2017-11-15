@@ -2,9 +2,14 @@
   "id": 387804683,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Mist Lake Dr Durham NC 27704",
+    "addr:housenumber":"1600",
+    "addr:postcode":"27704",
+    "addr:street":"Mist Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.858015,36.023291,-78.858015,36.023291",
     "geom:latitude":36.023291,
     "geom:longitude":-78.858015,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85827667,
+        85807037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,27 @@
     "wof:geomhash":"44ffe5aa0cc9d6e0ed3245e24eca95cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85827667,
+            "region_id":85688773,
+            "venue_id":387804683
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85807037,
             "region_id":85688773,
             "venue_id":387804683
         }
     ],
     "wof:id":387804683,
-    "wof:lastmodified":1466657872,
+    "wof:lastmodified":1491927372,
     "wof:name":"Water Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 353500757,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 E 9th St Charlotte NC 28202",
+    "addr:housenumber":"401",
+    "addr:postcode":"28202",
+    "addr:street":"E 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.834178,35.228061,-80.834178,35.228061",
     "geom:latitude":35.228061,
     "geom:longitude":-80.834178,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ea9cbc7253150b47705df00ef0ca384b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353500757,
-    "wof:lastmodified":1466648163,
+    "wof:lastmodified":1491900477,
     "wof:name":"Carolina Computer Access Ctr",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 386946997,
   "type": "Feature",
   "properties": {
+    "addr:full":"631 N Brevard St Charlotte NC 28202",
+    "addr:housenumber":"631",
+    "addr:postcode":"28202",
+    "addr:street":"N Brevard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.833786,35.229,-80.833786,35.229",
     "geom:latitude":35.229,
     "geom:longitude":-80.833786,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e02c0cf35765ab35150d6d0a814f7a03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":386946997,
-    "wof:lastmodified":1466649621,
+    "wof:lastmodified":1491900476,
     "wof:name":"Society For A Second",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",

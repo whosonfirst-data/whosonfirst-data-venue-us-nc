@@ -2,9 +2,14 @@
   "id": 270444471,
   "type": "Feature",
   "properties": {
+    "addr:full":"8945 Camden Creek Ln Charlotte NC 28273",
+    "addr:housenumber":"8945",
+    "addr:postcode":"28273",
+    "addr:street":"Camden Creek Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.93942,35.137948,-80.93942,35.137948",
     "geom:latitude":35.137948,
     "geom:longitude":-80.93942,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"32834f623a79234b799b747350518917",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270444471,
-    "wof:lastmodified":1466648706,
+    "wof:lastmodified":1491912370,
     "wof:name":"Comer Inc",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203088291,
   "type": "Feature",
   "properties": {
+    "addr:full":"6500 Creekstone Pl Charlotte NC 28213",
+    "addr:housenumber":"6500",
+    "addr:postcode":"28213",
+    "addr:street":"Creekstone Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.753096,35.28066,-80.753096,35.28066",
     "geom:latitude":35.28066,
     "geom:longitude":-80.753096,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a3add3024e0e05653f2caa82e0bbaa67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":203088291,
-    "wof:lastmodified":1466654736,
+    "wof:lastmodified":1491893386,
     "wof:name":"704EVENTS.COM",
     "wof:parent_id":85804005,
     "wof:placetype":"venue",

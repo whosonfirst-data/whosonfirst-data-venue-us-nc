@@ -2,9 +2,14 @@
   "id": 287196481,
   "type": "Feature",
   "properties": {
+    "addr:full":"5640 Southampton Rd Charlotte NC 28217",
+    "addr:housenumber":"5640",
+    "addr:postcode":"28217",
+    "addr:street":"Southampton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.901531,35.167254,-80.901531,35.167254",
     "geom:latitude":35.167254,
     "geom:longitude":-80.901531,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"2f7e75a35f763ec8b6e371d192b391a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
             "venue_id":287196481
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -62,9 +68,9 @@
         }
     ],
     "wof:id":287196481,
-    "wof:lastmodified":1466646036,
+    "wof:lastmodified":1491904130,
     "wof:name":"Mrs Horton Little Angels",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

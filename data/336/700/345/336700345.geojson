@@ -2,9 +2,14 @@
   "id": 336700345,
   "type": "Feature",
   "properties": {
+    "addr:full":"11410 Larix Dr Charlotte NC 28273",
+    "addr:housenumber":"",
+    "addr:postcode":"11410;28273",
+    "addr:street":"Larix Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.966503,35.148278,-80.966503,35.148278",
     "geom:latitude":35.148278,
     "geom:longitude":-80.966503,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291,
-        85839587
+        85839587,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +49,28 @@
     "wof:geomhash":"cc5fd76b70d7a6b8df103068c4a944d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85839587,
+            "region_id":85688773,
+            "venue_id":336700345
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":336700345
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":-1,
-            "neighbourhood_id":85839587,
-            "region_id":85688773,
-            "venue_id":336700345
         }
     ],
     "wof:id":336700345,
-    "wof:lastmodified":1466647367,
+    "wof:lastmodified":1491904149,
     "wof:name":"Secure Consulting Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

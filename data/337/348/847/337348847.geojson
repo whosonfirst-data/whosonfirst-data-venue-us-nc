@@ -2,9 +2,14 @@
   "id": 337348847,
   "type": "Feature",
   "properties": {
+    "addr:full":"3421 Laurenhurst Ln Charlotte NC 28270",
+    "addr:housenumber":"3421",
+    "addr:postcode":"28270",
+    "addr:street":"Laurenhurst Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.731796,35.080173,-80.731796,35.080173",
     "geom:latitude":35.080173,
     "geom:longitude":-80.731796,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6401d23a5172a3b9910bbb583b967639",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -53,7 +59,7 @@
             "venue_id":337348847
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":337348847,
-    "wof:lastmodified":1466646573,
+    "wof:lastmodified":1491934536,
     "wof:name":"Rivers Edge",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

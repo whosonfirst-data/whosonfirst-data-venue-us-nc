@@ -2,9 +2,14 @@
   "id": 672649417,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Hawthorne Ln Charlotte NC 28204",
+    "addr:housenumber":"200",
+    "addr:postcode":"28204",
+    "addr:street":"Hawthorne Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.82649,35.212167,-80.82649,35.212167",
     "geom:latitude":35.212167,
     "geom:longitude":-80.82649,
@@ -40,7 +45,8 @@
         85633793,
         85981333,
         102080981,
-        85817775
+        85817775,
+        85810633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,12 +64,21 @@
             "neighbourhood_id":85817775,
             "region_id":85688773,
             "venue_id":672649417
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85810633,
+            "region_id":85688773,
+            "venue_id":672649417
         }
     ],
     "wof:id":672649417,
-    "wof:lastmodified":1466661448,
+    "wof:lastmodified":1491926300,
     "wof:name":"Presbyterian Healthcare Speech",
-    "wof:parent_id":85817775,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371167705,
   "type": "Feature",
   "properties": {
+    "addr:full":"5025 Paschall Dr Durham NC 27705",
+    "addr:housenumber":"5025",
+    "addr:postcode":"27705",
+    "addr:street":"Paschall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.001384,36.025824,-79.001384,36.025824",
     "geom:latitude":36.025824,
     "geom:longitude":-79.001384,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85855655
+        85855655,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"27c4f5e2625db6318add8ce6036b6a56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85855655,
             "region_id":85688773,
             "venue_id":371167705
         }
     ],
     "wof:id":371167705,
-    "wof:lastmodified":1466650942,
+    "wof:lastmodified":1491924753,
     "wof:name":"Orange Glass Co",
     "wof:parent_id":85855655,
     "wof:placetype":"venue",

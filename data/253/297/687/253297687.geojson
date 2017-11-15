@@ -2,9 +2,14 @@
   "id": 253297687,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 S Buchanan Blvd Durham NC 27701",
+    "addr:housenumber":"715",
+    "addr:postcode":"27701",
+    "addr:street":"S Buchanan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.91507,35.994241,-78.91507,35.994241",
     "geom:latitude":35.994241,
     "geom:longitude":-78.91507,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"76e3821def0e2dc240975e5b447d2d7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253297687,
-    "wof:lastmodified":1466646019,
+    "wof:lastmodified":1491913855,
     "wof:name":"Dominisha Hair Styling",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

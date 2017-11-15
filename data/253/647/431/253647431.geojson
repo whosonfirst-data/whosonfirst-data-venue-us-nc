@@ -2,9 +2,14 @@
   "id": 253647431,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 W Club Blvd Durham NC 27705",
+    "addr:housenumber":"1515",
+    "addr:postcode":"27705",
+    "addr:street":"W Club Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.916615,36.016979,-78.916615,36.016979",
     "geom:latitude":36.016979,
     "geom:longitude":-78.916615,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b856ae6207019195ff17daff0d39a44f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253647431,
-    "wof:lastmodified":1466650118,
+    "wof:lastmodified":1491930901,
     "wof:name":"Mount Olive AME Zion",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

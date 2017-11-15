@@ -2,9 +2,14 @@
   "id": 253134181,
   "type": "Feature",
   "properties": {
+    "addr:full":"1936 Park Rd Charlotte NC 28203",
+    "addr:housenumber":"1936",
+    "addr:postcode":"28203",
+    "addr:street":"Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.85195,35.203859,-80.85195,35.203859",
     "geom:latitude":35.203859,
     "geom:longitude":-80.85195,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f37bd5ac2795e0c2bc897a5214ef9179",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253134181,
-    "wof:lastmodified":1466644398,
+    "wof:lastmodified":1491908366,
     "wof:name":"Discount Bonding Inc",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320025835,
   "type": "Feature",
   "properties": {
+    "addr:full":"2727 Hillsborough Rd Durham NC 27705",
+    "addr:housenumber":"2727",
+    "addr:postcode":"27705",
+    "addr:street":"Hillsborough Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.931456,36.012643,-78.931456,36.012643",
     "geom:latitude":36.012643,
     "geom:longitude":-78.931456,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"5da32ec3618b3d94ab896c7fcec12bc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320025835,
-    "wof:lastmodified":1466645704,
+    "wof:lastmodified":1491901823,
     "wof:name":"St Francis Animal Hospital",
     "wof:parent_id":85877171,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 220105527,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Pressley Rd Charlotte NC 28217",
+    "addr:housenumber":"801",
+    "addr:postcode":"28217",
+    "addr:street":"Pressley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.894109,35.191098,-80.894109,35.191098",
     "geom:latitude":35.191098,
     "geom:longitude":-80.894109,
@@ -32,10 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420560205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,28 @@
     "wof:geomhash":"7611d1ba156afcb7cc02e5244509273d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":220105527
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420560205,
+            "region_id":85688773,
+            "venue_id":220105527
         }
     ],
     "wof:id":220105527,
-    "wof:lastmodified":1466644059,
+    "wof:lastmodified":1491904067,
     "wof:name":"Instile Stone Corp",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

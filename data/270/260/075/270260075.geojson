@@ -2,9 +2,14 @@
   "id": 270260075,
   "type": "Feature",
   "properties": {
+    "addr:full":"3915 Rivermont Rd Durham NC 27712",
+    "addr:housenumber":"3915",
+    "addr:postcode":"27712",
+    "addr:street":"Rivermont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.966756,36.05893,-78.966756,36.05893",
     "geom:latitude":36.05893,
     "geom:longitude":-78.966756,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"cad1561c503f70ee1a4d152f6c6a932b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":270260075
         }
     ],
     "wof:id":270260075,
-    "wof:lastmodified":1466646338,
+    "wof:lastmodified":1491905448,
     "wof:name":"White Oak Artworks",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

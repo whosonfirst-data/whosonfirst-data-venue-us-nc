@@ -2,9 +2,14 @@
   "id": 370999487,
   "type": "Feature",
   "properties": {
+    "addr:full":"4501 Wedgewood Dr Charlotte NC 28210",
+    "addr:housenumber":"4501",
+    "addr:postcode":"28210",
+    "addr:street":"Wedgewood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.863796,35.158966,-80.863796,35.158966",
     "geom:latitude":35.158966,
     "geom:longitude":-80.863796,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        85813241,
+        85834943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"24c39a003d3f2eaac67bf3afb817ca11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85813241,
+            "region_id":85688773,
+            "venue_id":370999487
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85834943,
             "region_id":85688773,
             "venue_id":370999487
         }
     ],
     "wof:id":370999487,
-    "wof:lastmodified":1466657293,
+    "wof:lastmodified":1491924585,
     "wof:name":"Maximus Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

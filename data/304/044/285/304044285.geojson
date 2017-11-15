@@ -2,9 +2,14 @@
   "id": 304044285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1313 Hudson Ave Durham NC 27705",
+    "addr:housenumber":"1313",
+    "addr:postcode":"27705",
+    "addr:street":"Hudson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.913496,36.024149,-78.913496,36.024149",
     "geom:latitude":36.024149,
     "geom:longitude":-78.913496,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1cb5871e16c6039ee58f145a70f68d3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":304044285,
-    "wof:lastmodified":1466644787,
+    "wof:lastmodified":1491930920,
     "wof:name":"PAR Construction Co",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

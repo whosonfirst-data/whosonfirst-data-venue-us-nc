@@ -2,9 +2,14 @@
   "id": 354358415,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 East Blvd Charlotte NC 28203",
+    "addr:housenumber":"417",
+    "addr:postcode":"28203",
+    "addr:street":"East Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.854366,35.209359,-80.854366,35.209359",
     "geom:latitude":35.209359,
     "geom:longitude":-80.854366,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"f3b836cde1e86bedf60b58a23d566715",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":354358415,
-    "wof:lastmodified":1466651690,
+    "wof:lastmodified":1491908372,
     "wof:name":"Midland Mutual Life Insurance",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

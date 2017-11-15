@@ -2,9 +2,14 @@
   "id": 253214291,
   "type": "Feature",
   "properties": {
+    "addr:full":"4740 Dwight Evans Rd Charlotte NC 28217",
+    "addr:housenumber":"4740",
+    "addr:postcode":"28217",
+    "addr:street":"Dwight Evans Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.898958,35.190078,-80.898958,35.190078",
     "geom:latitude":35.190078,
     "geom:longitude":-80.898958,
@@ -31,10 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420560205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,28 @@
     "wof:geomhash":"bd0030ae4ccf65364a8675c57b3a87b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":253214291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420560205,
+            "region_id":85688773,
+            "venue_id":253214291
         }
     ],
     "wof:id":253214291,
-    "wof:lastmodified":1466645224,
+    "wof:lastmodified":1491904063,
     "wof:name":"Pregel USA Warehouse",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

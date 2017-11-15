@@ -2,9 +2,14 @@
   "id": 219712011,
   "type": "Feature",
   "properties": {
+    "addr:full":"6205 Lookout Loop Raleigh NC 27612",
+    "addr:housenumber":"6205",
+    "addr:postcode":"27612",
+    "addr:street":"Lookout Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.661704,35.862416,-78.661704,35.862416",
     "geom:latitude":35.862416,
     "geom:longitude":-78.661704,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d42c728302b6e84f25c8e0d4fb22c47a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219712011,
-    "wof:lastmodified":1466646445,
+    "wof:lastmodified":1491896413,
     "wof:name":"Aquarian Subjects",
     "wof:parent_id":85807097,
     "wof:placetype":"venue",

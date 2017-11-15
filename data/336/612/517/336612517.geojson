@@ -2,9 +2,14 @@
   "id": 336612517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1514 Camden Rd Charlotte NC 28203",
+    "addr:housenumber":"1514",
+    "addr:postcode":"28203",
+    "addr:street":"Camden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.856905,35.214924,-80.856905,35.214924",
     "geom:latitude":35.214924,
     "geom:longitude":-80.856905,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"14dc4bbd04e34cc5337aa7152a2b9870",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336612517,
-    "wof:lastmodified":1466646020,
+    "wof:lastmodified":1491909067,
     "wof:name":"Living Room",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219238945,
   "type": "Feature",
   "properties": {
+    "addr:full":"326 W Lane St Raleigh NC 27603",
+    "addr:housenumber":"326",
+    "addr:postcode":"27603",
+    "addr:street":"W Lane",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.644405,35.784127,-78.644405,35.784127",
     "geom:latitude":35.784127,
     "geom:longitude":-78.644405,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -44,7 +50,7 @@
     "wof:geomhash":"13ae16eb43ab0afd9264ab95fe92af86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":219238945,
-    "wof:lastmodified":1466655572,
+    "wof:lastmodified":1491913518,
     "wof:name":"O'Rourke Brothers Distributing",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202895939,
   "type": "Feature",
   "properties": {
+    "addr:full":"6921 Buttermere Pl Charlotte NC 28213",
+    "addr:housenumber":"6921",
+    "addr:postcode":"28213",
+    "addr:street":"Buttermere Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.746037,35.274855,-80.746037,35.274855",
     "geom:latitude":35.274855,
     "geom:longitude":-80.746037,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"13693e6b4451d3674cc81fd666a59d3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202895939,
-    "wof:lastmodified":1466644911,
+    "wof:lastmodified":1491893392,
     "wof:name":"Discovery Inspections",
     "wof:parent_id":85804005,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186591957,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 Gloria Ave Durham NC 27701",
+    "addr:housenumber":"1015",
+    "addr:postcode":"27701",
+    "addr:street":"Gloria Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.910833,36.003358,-78.910833,36.003358",
     "geom:latitude":36.003358,
     "geom:longitude":-78.910833,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4f0f41472f4e039dd081f99368e14fe2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186591957,
-    "wof:lastmodified":1466654855,
+    "wof:lastmodified":1491906392,
     "wof:name":"Orami Productions Inc",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

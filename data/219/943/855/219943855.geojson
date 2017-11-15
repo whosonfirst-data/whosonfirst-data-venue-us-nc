@@ -2,9 +2,14 @@
   "id": 219943855,
   "type": "Feature",
   "properties": {
+    "addr:full":"7511 E Independence Blvd Charlotte NC 28227",
+    "addr:housenumber":"7511",
+    "addr:postcode":"28227",
+    "addr:street":"E Independence Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.738061,35.161822,-80.738061,35.161822",
     "geom:latitude":35.161822,
     "geom:longitude":-80.738061,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"5f44537c78ccdbd05fecf0cf5ce70bf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":219943855,
-    "wof:lastmodified":1466648351,
+    "wof:lastmodified":1491936641,
     "wof:name":"Hertz Rent A Car",
     "wof:parent_id":85891863,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236480315,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Pleasant Plains Rd Matthews NC 28105",
+    "addr:housenumber":"1400",
+    "addr:postcode":"28105",
+    "addr:street":"Pleasant Plains Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.727667,35.100108,-80.727667,35.100108",
     "geom:latitude":35.100108,
     "geom:longitude":-80.727667,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
-        85850301,
-        85811531
+        85811531,
+        85850301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +49,28 @@
     "wof:geomhash":"584dfa4ab4062599d2ccf368275cae84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981339,
-            "neighbourhood_id":85850301,
-            "region_id":85688773,
-            "venue_id":236480315
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
             "neighbourhood_id":85811531,
             "region_id":85688773,
             "venue_id":236480315
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981339,
+            "neighbourhood_id":85850301,
+            "region_id":85688773,
+            "venue_id":236480315
         }
     ],
     "wof:id":236480315,
-    "wof:lastmodified":1466647418,
+    "wof:lastmodified":1491934548,
     "wof:name":"Thepartsdudecom",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

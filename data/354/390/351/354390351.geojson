@@ -2,9 +2,14 @@
   "id": 354390351,
   "type": "Feature",
   "properties": {
+    "addr:full":"1106 W Chapel Hill St Durham NC 27701",
+    "addr:housenumber":"1106",
+    "addr:postcode":"27701",
+    "addr:street":"W Chapel Hill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.917364,35.996804,-78.917364,35.996804",
     "geom:latitude":35.996804,
     "geom:longitude":-78.917364,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"f163d27d789218fcc67c3b039e8cd871",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354390351,
-    "wof:lastmodified":1466652062,
+    "wof:lastmodified":1491913856,
     "wof:name":"Mochikn N Ribs",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

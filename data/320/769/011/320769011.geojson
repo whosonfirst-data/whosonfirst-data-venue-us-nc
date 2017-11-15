@@ -2,9 +2,14 @@
   "id": 320769011,
   "type": "Feature",
   "properties": {
+    "addr:full":"2504 Hillsborough Rd Durham NC 27705",
+    "addr:housenumber":"2504",
+    "addr:postcode":"27705",
+    "addr:street":"Hillsborough Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.927334,36.01051,-78.927334,36.01051",
     "geom:latitude":36.01051,
     "geom:longitude":-78.927334,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85877189,
+        85877171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"fc6cb6e97e7f310ac959c1ecf684ac41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877189,
+            "region_id":85688773,
+            "venue_id":320769011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85877171,
             "region_id":85688773,
             "venue_id":320769011
         }
     ],
     "wof:id":320769011,
-    "wof:lastmodified":1466656291,
+    "wof:lastmodified":1491901823,
     "wof:name":"Durham Tire & Auto Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

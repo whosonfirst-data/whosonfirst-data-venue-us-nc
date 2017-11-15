@@ -2,9 +2,14 @@
   "id": 270379235,
   "type": "Feature",
   "properties": {
+    "addr:full":"1008 Dade St Charlotte NC 28205",
+    "addr:housenumber":"1008",
+    "addr:postcode":"28205",
+    "addr:street":"Dade St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.792372,35.243935,-80.792372,35.243935",
     "geom:latitude":35.243935,
     "geom:longitude":-80.792372,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"774b220590fa84cfc3a05c0df59dc471",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270379235,
-    "wof:lastmodified":1466647874,
+    "wof:lastmodified":1491906668,
     "wof:name":"E Smith Computers",
     "wof:parent_id":85837459,
     "wof:placetype":"venue",

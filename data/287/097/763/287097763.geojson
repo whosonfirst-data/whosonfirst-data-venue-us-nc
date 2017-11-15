@@ -2,9 +2,14 @@
   "id": 287097763,
   "type": "Feature",
   "properties": {
+    "addr:full":"1836 Center Park Dr Charlotte NC 28217",
+    "addr:housenumber":"1836",
+    "addr:postcode":"28217",
+    "addr:street":"Center Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.927786,35.174336,-80.927786,35.174336",
     "geom:latitude":35.174336,
     "geom:longitude":-80.927786,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -40,7 +46,7 @@
     "wof:geomhash":"743ad69ac9ecf90929dc21cd72d18dfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -50,9 +56,9 @@
         }
     ],
     "wof:id":287097763,
-    "wof:lastmodified":1466644660,
+    "wof:lastmodified":1491904131,
     "wof:name":"Multipoint Ocean Shipping Inc",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

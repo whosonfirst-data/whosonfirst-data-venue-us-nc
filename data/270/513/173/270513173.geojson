@@ -2,9 +2,14 @@
   "id": 270513173,
   "type": "Feature",
   "properties": {
+    "addr:full":"6940 E Independence Blvd Charlotte NC 28227",
+    "addr:housenumber":"6940",
+    "addr:postcode":"28227",
+    "addr:street":"E Independence Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.741293,35.164831,-80.741293,35.164831",
     "geom:latitude":35.164831,
     "geom:longitude":-80.741293,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c77ee5b621d6379a79dee0b787107958",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270513173,
-    "wof:lastmodified":1466649633,
+    "wof:lastmodified":1491936643,
     "wof:name":"Land Rover Charlotte",
     "wof:parent_id":85891863,
     "wof:placetype":"venue",

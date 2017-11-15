@@ -2,9 +2,14 @@
   "id": 354417411,
   "type": "Feature",
   "properties": {
+    "addr:full":"2199 Kannapolis Hwy Concord NC 28027",
+    "addr:housenumber":"2199",
+    "addr:postcode":"28027",
+    "addr:street":"Kannapolis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.613646,35.445036,-80.613646,35.445036",
     "geom:latitude":35.445036,
     "geom:longitude":-80.613646,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980229,
         102087733,
@@ -51,7 +57,7 @@
     "wof:geomhash":"d60dde8eb2abe0336b2b0af6c5656ac7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087733,
             "locality_id":85980229,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":354417411,
-    "wof:lastmodified":1466652362,
+    "wof:lastmodified":1491915794,
     "wof:name":"Universal Automotive Service",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",

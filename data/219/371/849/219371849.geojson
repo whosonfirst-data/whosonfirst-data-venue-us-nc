@@ -2,9 +2,14 @@
   "id": 219371849,
   "type": "Feature",
   "properties": {
+    "addr:full":"10720 Sikes Pl Charlotte NC 28277",
+    "addr:housenumber":"10720",
+    "addr:postcode":"28277",
+    "addr:street":"Sikes Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.768408,35.062251,-80.768408,35.062251",
     "geom:latitude":35.062251,
     "geom:longitude":-80.768408,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"67ecadfcbbf9a0a2ee34b054e9324f90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":219371849,
-    "wof:lastmodified":1466643889,
+    "wof:lastmodified":1491897269,
     "wof:name":"Broadstreet Mortgage Co",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

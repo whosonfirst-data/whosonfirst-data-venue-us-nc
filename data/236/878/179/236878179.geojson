@@ -2,9 +2,14 @@
   "id": 236878179,
   "type": "Feature",
   "properties": {
+    "addr:full":"8653 Crown Crescent Ct Charlotte NC 28227",
+    "addr:housenumber":"8653",
+    "addr:postcode":"28227",
+    "addr:street":"Crown Crescent Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.729693,35.142071,-80.729693,35.142071",
     "geom:latitude":35.142071,
     "geom:longitude":-80.729693,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -46,7 +52,7 @@
     "wof:geomhash":"2c2bf5c67b06d4a978d9eaab625fee20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":236878179,
-    "wof:lastmodified":1466651096,
+    "wof:lastmodified":1491899979,
     "wof:name":"King Dan Plbg Htg Arcnditiong",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

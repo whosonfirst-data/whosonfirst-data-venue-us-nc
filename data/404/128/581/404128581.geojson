@@ -2,9 +2,14 @@
   "id": 404128581,
   "type": "Feature",
   "properties": {
+    "addr:full":"2608 Briar Ridge Dr Charlotte NC 28270",
+    "addr:housenumber":"2608",
+    "addr:postcode":"28270",
+    "addr:street":"Briar Ridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.735428,35.097137,-80.735428,35.097137",
     "geom:latitude":35.097137,
     "geom:longitude":-80.735428,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -41,7 +47,7 @@
     "wof:geomhash":"a70bde917fbbe7115450a9c45ac0e574",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -50,7 +56,7 @@
             "venue_id":404128581
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -60,9 +66,9 @@
         }
     ],
     "wof:id":404128581,
-    "wof:lastmodified":1466652913,
+    "wof:lastmodified":1491934555,
     "wof:name":"Darren Young McCombs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

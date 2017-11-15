@@ -2,9 +2,14 @@
   "id": 287236607,
   "type": "Feature",
   "properties": {
+    "addr:full":"11616 Wilmar Blvd Charlotte NC 28273",
+    "addr:housenumber":"11616",
+    "addr:postcode":"28273",
+    "addr:street":"Wilmar Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.932347,35.116921,-80.932347,35.116921",
     "geom:latitude":35.116921,
     "geom:longitude":-80.932347,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"38f0966ea04e81dfbe79a93c0568c441",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287236607,
-    "wof:lastmodified":1466646606,
+    "wof:lastmodified":1491912363,
     "wof:name":"Livingston & Haven Sales",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

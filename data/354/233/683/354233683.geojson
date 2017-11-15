@@ -2,9 +2,14 @@
   "id": 354233683,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 Wilkinson Blvd Charlotte NC 28208",
+    "addr:housenumber":"3700",
+    "addr:postcode":"28208",
+    "addr:street":"Wilkinson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.902752,35.22491,-80.902752,35.22491",
     "geom:latitude":35.22491,
     "geom:longitude":-80.902752,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
+        420559867,
         85882291
     ],
     "wof:breaches":[],
@@ -43,7 +50,16 @@
     "wof:geomhash":"f4b92473117d6d08fd45197c564c7cac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559867,
+            "region_id":85688773,
+            "venue_id":354233683
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,9 +69,9 @@
         }
     ],
     "wof:id":354233683,
-    "wof:lastmodified":1466650257,
+    "wof:lastmodified":1491904087,
     "wof:name":"Poor Boy Tires & Auto Repair",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

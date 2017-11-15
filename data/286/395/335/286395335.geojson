@@ -2,9 +2,14 @@
   "id": 286395335,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 S Buchanan Blvd Durham NC 27701",
+    "addr:housenumber":"508",
+    "addr:postcode":"27701",
+    "addr:street":"S Buchanan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.914931,35.997397,-78.914931,35.997397",
     "geom:latitude":35.997397,
     "geom:longitude":-78.914931,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"6c3c07570f2114c20806a6c9167d7f01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286395335,
-    "wof:lastmodified":1466644960,
+    "wof:lastmodified":1491913856,
     "wof:name":"Oacc",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

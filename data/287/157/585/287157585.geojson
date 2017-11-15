@@ -2,9 +2,14 @@
   "id": 287157585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1821 Westinghouse Blvd Charlotte NC 28273",
+    "addr:housenumber":"1821",
+    "addr:postcode":"28273",
+    "addr:street":"Westinghouse Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.93675,35.127068,-80.93675,35.127068",
     "geom:latitude":35.127068,
     "geom:longitude":-80.93675,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -48,7 +54,7 @@
     "wof:geomhash":"270c286da663c73c01a665cb3a040adc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":287157585,
-    "wof:lastmodified":1466645490,
+    "wof:lastmodified":1491912383,
     "wof:name":"Universal Products Inc",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

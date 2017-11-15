@@ -2,9 +2,14 @@
   "id": 370620235,
   "type": "Feature",
   "properties": {
+    "addr:full":"4115 Rose Lake Dr Charlotte NC 28217",
+    "addr:housenumber":"4115",
+    "addr:postcode":"28217",
+    "addr:street":"Rose Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.928024,35.179995,-80.928024,35.179995",
     "geom:latitude":35.179995,
     "geom:longitude":-80.928024,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85817833,
-        85882291
+        85882291,
+        85817833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +46,28 @@
     "wof:geomhash":"0661511223335b5f44a44a9dec7c5e96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "neighbourhood_id":85817833,
-            "region_id":85688773,
-            "venue_id":370620235
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":370620235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85817833,
+            "region_id":85688773,
+            "venue_id":370620235
         }
     ],
     "wof:id":370620235,
-    "wof:lastmodified":1466654137,
+    "wof:lastmodified":1491904117,
     "wof:name":"Mary Pamelas Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

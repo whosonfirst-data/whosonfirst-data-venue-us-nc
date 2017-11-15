@@ -2,9 +2,14 @@
   "id": 253276073,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 Marlowe Ave Charlotte NC 28208",
+    "addr:housenumber":"2900",
+    "addr:postcode":"28208",
+    "addr:street":"Marlowe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.890183,35.228408,-80.890183,35.228408",
     "geom:latitude":35.228408,
     "geom:longitude":-80.890183,
@@ -30,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,28 @@
     "wof:geomhash":"b4e39ab637fef4973234ab93a544a53f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":253276073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559865,
+            "region_id":85688773,
+            "venue_id":253276073
         }
     ],
     "wof:id":253276073,
-    "wof:lastmodified":1466645792,
+    "wof:lastmodified":1491904078,
     "wof:name":"Wade Sales",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 253080119,
   "type": "Feature",
   "properties": {
+    "addr:full":"1306 Broad St Durham NC 27705",
+    "addr:housenumber":"1306",
+    "addr:postcode":"27705",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.918867,36.020672,-78.918867,36.020672",
     "geom:latitude":36.020672,
     "geom:longitude":-78.918867,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"3e2385f6ea390d1eff7ad26d3a235afe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":253080119,
-    "wof:lastmodified":1466643886,
+    "wof:lastmodified":1491930918,
     "wof:name":"Cgs General Contractors",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

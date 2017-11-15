@@ -2,14 +2,20 @@
   "id": 387214505,
   "type": "Feature",
   "properties": {
+    "addr:full":"3240 Wilkinson Blvd Charlotte NC 28208",
+    "addr:housenumber":"3240",
+    "addr:postcode":"28208",
+    "addr:street":"Wilkinson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.893979,35.224466,-80.893979,35.224466",
     "geom:latitude":35.224466,
     "geom:longitude":-80.893979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3240 Wilkinson Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -26,32 +32,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559865
     ],
+    "wof:brand_id":1125151201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2egSFZpS1dXGBI9VzzmSfD_35.224466_-80.893979@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f9c15b549e800f01a9f43742c32ec97",
+    "wof:geomhash":"e7eacc7474b17f56478b5d818135372f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":387214505
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559865,
+            "region_id":85688773,
+            "venue_id":387214505
         }
     ],
     "wof:id":387214505,
-    "wof:lastmodified":1466652690,
+    "wof:lastmodified":1510613194,
     "wof:name":"Woodforest National Bank",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

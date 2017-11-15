@@ -2,14 +2,20 @@
   "id": 336775765,
   "type": "Feature",
   "properties": {
+    "addr:full":"1812 Lyndhurst Ave Charlotte NC 28203",
+    "addr:housenumber":"1812",
+    "addr:postcode":"28203",
+    "addr:street":"Lyndhurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.855289,35.208365,-80.855289,35.208365",
     "geom:latitude":35.208365,
     "geom:longitude":-80.855289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1812 Lyndhurst Ave",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -26,20 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
         85867041
     ],
+    "wof:brand_id":1125152429,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Tv9pWMVPJ0hwSUxu246oM_35.208365_-80.855289@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a62fdac022aaf01a156b82ba3f01d69",
+    "wof:geomhash":"47fc3d531570089d78aa02d867ce7a45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":336775765,
-    "wof:lastmodified":1466648512,
+    "wof:lastmodified":1510693824,
     "wof:name":"Sterling Optical",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

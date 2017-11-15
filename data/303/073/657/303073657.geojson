@@ -2,9 +2,14 @@
   "id": 303073657,
   "type": "Feature",
   "properties": {
+    "addr:full":"8633 Monroe Rd Charlotte NC 28212",
+    "addr:housenumber":"8633",
+    "addr:postcode":"28212",
+    "addr:street":"Monroe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.746773,35.15372,-80.746773,35.15372",
     "geom:latitude":35.15372,
     "geom:longitude":-80.746773,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -47,7 +53,7 @@
     "wof:geomhash":"5c5d345b6de2240bda355cff3fc75be5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":303073657,
-    "wof:lastmodified":1466644307,
+    "wof:lastmodified":1491936667,
     "wof:name":"Maids Home Svcs S Charlotte",
     "wof:parent_id":85891863,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 202396093,
   "type": "Feature",
   "properties": {
+    "addr:full":"954 Spring Meadow Dr Durham NC 27713",
+    "addr:housenumber":"954",
+    "addr:postcode":"27713",
+    "addr:street":"Spring Meadow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.921323,35.938294,-78.921323,35.938294",
     "geom:latitude":35.938294,
     "geom:longitude":-78.921323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"954 Spring Meadow Dr",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
         85877179
     ],
+    "wof:brand_id":1125152863,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_362P9ZDdn1YT5tF8tB6ihS_35.938294_-78.921323@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"7609b719c0970b942ff8a448f14be801",
+    "wof:geomhash":"c8059272dca9608b26b616a67ba0e593",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":202396093,
-    "wof:lastmodified":1466654193,
+    "wof:lastmodified":1510613356,
     "wof:name":"D R Horton Inc",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219887759,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Mahone St Durham NC 27713",
+    "addr:housenumber":"400",
+    "addr:postcode":"27713",
+    "addr:street":"Mahone St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.926444,35.917983,-78.926444,35.917983",
     "geom:latitude":35.917983,
     "geom:longitude":-78.926444,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"646552b3a1737dd2994777728109bd8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219887759,
-    "wof:lastmodified":1466647888,
+    "wof:lastmodified":1491917417,
     "wof:name":"Infomarts LLC",
     "wof:parent_id":85877203,
     "wof:placetype":"venue",

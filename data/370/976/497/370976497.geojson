@@ -2,9 +2,14 @@
   "id": 370976497,
   "type": "Feature",
   "properties": {
+    "addr:full":"2104 Weyland Ave Charlotte NC 28208",
+    "addr:housenumber":"2104",
+    "addr:postcode":"28208",
+    "addr:street":"Weyland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.888592,35.226368,-80.888592,35.226368",
     "geom:latitude":35.226368,
     "geom:longitude":-80.888592,
@@ -26,10 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,28 @@
     "wof:geomhash":"58dc74fa098af04c63ba650a25c32914",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":370976497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559865,
+            "region_id":85688773,
+            "venue_id":370976497
         }
     ],
     "wof:id":370976497,
-    "wof:lastmodified":1466657243,
+    "wof:lastmodified":1491904126,
     "wof:name":"Whatcha Like Barber",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 202443161,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 E Arrowood Rd Charlotte NC 28217",
+    "addr:housenumber":"809",
+    "addr:postcode":"28217",
+    "addr:street":"E Arrowood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.878119,35.13777,-80.878119,35.13777",
     "geom:latitude":35.13777,
     "geom:longitude":-80.878119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"809 E Arrowood Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
         85824507
     ],
+    "wof:brand_id":1125156613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77RuvUvwwM4d1g3e4LXDBK_35.137770_-80.878119@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"758ffb8cfd183c945128213f4bf0e1b9",
+    "wof:geomhash":"2479c96a4cd520b719e82c8775362ad4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":202443161,
-    "wof:lastmodified":1466654521,
+    "wof:lastmodified":1510693222,
     "wof:name":"Nail Trix",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

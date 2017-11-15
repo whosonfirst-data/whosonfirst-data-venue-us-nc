@@ -2,9 +2,14 @@
   "id": 236381475,
   "type": "Feature",
   "properties": {
+    "addr:full":"1615 Deergreen Ln Charlotte NC 28262",
+    "addr:housenumber":"1615",
+    "addr:postcode":"28262",
+    "addr:street":"Deergreen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.712392,35.316914,-80.712392,35.316914",
     "geom:latitude":35.316914,
     "geom:longitude":-80.712392,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6595a50e139c8e9fff1aaf1bdefe0370",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236381475,
-    "wof:lastmodified":1466646567,
+    "wof:lastmodified":1491911027,
     "wof:name":"Resi Comm",
     "wof:parent_id":85871243,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320232611,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 Pratt St Durham NC 27705",
+    "addr:housenumber":"2400",
+    "addr:postcode":"27705",
+    "addr:street":"Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.93724,36.010653,-78.93724,36.010653",
     "geom:latitude":36.010653,
     "geom:longitude":-78.93724,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85877141,
+        85877171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"b8ff77346a0a445e520b42f41ae25ea6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877141,
+            "region_id":85688773,
+            "venue_id":320232611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85877171,
             "region_id":85688773,
             "venue_id":320232611
         }
     ],
     "wof:id":320232611,
-    "wof:lastmodified":1466648551,
+    "wof:lastmodified":1491901821,
     "wof:name":"Duke University Medical Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 320250441,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Forge Rd Durham NC 27713",
+    "addr:housenumber":"800",
+    "addr:postcode":"27713",
+    "addr:street":"Forge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.920084,35.9103,-78.920084,35.9103",
     "geom:latitude":35.9103,
     "geom:longitude":-78.920084,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -49,7 +55,7 @@
     "wof:geomhash":"0a188407e45e241425416313cd16444e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":320250441,
-    "wof:lastmodified":1466648806,
+    "wof:lastmodified":1491917417,
     "wof:name":"Abbott R C Fencing & Welding",
     "wof:parent_id":85877203,
     "wof:placetype":"venue",

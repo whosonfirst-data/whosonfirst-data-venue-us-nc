@@ -2,9 +2,14 @@
   "id": 672217157,
   "type": "Feature",
   "properties": {
+    "addr:full":"3230 Piper Ln Charlotte NC 28208",
+    "addr:housenumber":"3230",
+    "addr:postcode":"28208",
+    "addr:street":"Piper Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.930439,35.194479,-80.930439,35.194479",
     "geom:latitude":35.194479,
     "geom:longitude":-80.930439,
@@ -35,8 +40,8 @@
         85633793,
         85981333,
         102080981,
-        85882291,
-        85814609
+        85814609,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +56,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":85882291,
+            "neighbourhood_id":85814609,
             "region_id":85688773,
             "venue_id":672217157
         },
@@ -60,15 +65,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":85814609,
+            "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":672217157
         }
     ],
     "wof:id":672217157,
-    "wof:lastmodified":1466656126,
+    "wof:lastmodified":1491904122,
     "wof:name":"Safe Air Systems Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

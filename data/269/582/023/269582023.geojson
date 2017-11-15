@@ -2,9 +2,14 @@
   "id": 269582023,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 N Buchanan Blvd Durham NC 27701",
+    "addr:housenumber":"312",
+    "addr:postcode":"27701",
+    "addr:street":"N Buchanan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.912325,36.004851,-78.912325,36.004851",
     "geom:latitude":36.004851,
     "geom:longitude":-78.912325,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ad6ee9df462559cfd88feffeee865c89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269582023,
-    "wof:lastmodified":1466644371,
+    "wof:lastmodified":1491906390,
     "wof:name":"Sound Pure",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 672221095,
   "type": "Feature",
   "properties": {
+    "addr:full":"3141 Piper Ln Charlotte NC 28208",
+    "addr:housenumber":"3141",
+    "addr:postcode":"28208",
+    "addr:street":"Piper Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.927643,35.194662,-80.927643,35.194662",
     "geom:latitude":35.194662,
     "geom:longitude":-80.927643,
@@ -33,8 +38,8 @@
         85633793,
         85981333,
         102080981,
-        85882291,
-        420559457
+        420559457,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +54,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":85882291,
+            "neighbourhood_id":420559457,
             "region_id":85688773,
             "venue_id":672221095
         },
@@ -58,15 +63,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":420559457,
+            "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":672221095
         }
     ],
     "wof:id":672221095,
-    "wof:lastmodified":1466656304,
+    "wof:lastmodified":1491904122,
     "wof:name":"Judy's Hair Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

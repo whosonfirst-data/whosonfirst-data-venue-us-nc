@@ -2,9 +2,14 @@
   "id": 320731337,
   "type": "Feature",
   "properties": {
+    "addr:full":"8825 Mont Carmel Ln Charlotte NC 28217",
+    "addr:housenumber":"8825",
+    "addr:postcode":"28217",
+    "addr:street":"Mont Carmel Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.888371,35.137051,-80.888371,35.137051",
     "geom:latitude":35.137051,
     "geom:longitude":-80.888371,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"d52c8bb2ee90a61c62338ee0ad4bec2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320731337,
-    "wof:lastmodified":1466655697,
+    "wof:lastmodified":1491926261,
     "wof:name":"Arrowood Villas",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

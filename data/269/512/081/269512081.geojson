@@ -2,9 +2,14 @@
   "id": 269512081,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 W Bland St Charlotte NC 28203",
+    "addr:housenumber":"314",
+    "addr:postcode":"28203",
+    "addr:street":"W Bland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.858556,35.220198,-80.858556,35.220198",
     "geom:latitude":35.220198,
     "geom:longitude":-80.858556,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5779b12e84115dce27ea166012fa209c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269512081,
-    "wof:lastmodified":1466643553,
+    "wof:lastmodified":1491909073,
     "wof:name":"Wepak Corp",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

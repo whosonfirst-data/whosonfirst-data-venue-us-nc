@@ -2,9 +2,14 @@
   "id": 303077811,
   "type": "Feature",
   "properties": {
+    "addr:full":"227 W Martin St Raleigh NC 27601",
+    "addr:housenumber":"227",
+    "addr:postcode":"27601",
+    "addr:street":"W Martin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.643111,35.776974,-78.643111,35.776974",
     "geom:latitude":35.776974,
     "geom:longitude":-78.643111,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -44,7 +50,7 @@
     "wof:geomhash":"7b1bd5eed0aec6264ee30a535d15afbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303077811,
-    "wof:lastmodified":1466644363,
+    "wof:lastmodified":1491939131,
     "wof:name":"Taylor Trucking LLC",
     "wof:parent_id":85873475,
     "wof:placetype":"venue",

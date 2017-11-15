@@ -2,9 +2,14 @@
   "id": 387428965,
   "type": "Feature",
   "properties": {
+    "addr:full":"8717 Douglas Dr Charlotte NC 28217",
+    "addr:housenumber":"8717",
+    "addr:postcode":"28217",
+    "addr:street":"Douglas Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.951296,35.179843,-80.951296,35.179843",
     "geom:latitude":35.179843,
     "geom:longitude":-80.951296,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"de68b4e6574f095ff732f85d7521fa6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":387428965,
-    "wof:lastmodified":1466655489,
+    "wof:lastmodified":1491920178,
     "wof:name":"Cycletrend Inc",
     "wof:parent_id":85850977,
     "wof:placetype":"venue",

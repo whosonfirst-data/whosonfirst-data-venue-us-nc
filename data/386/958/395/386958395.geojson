@@ -2,9 +2,14 @@
   "id": 386958395,
   "type": "Feature",
   "properties": {
+    "addr:full":"511 East Blvd Charlotte NC 28203",
+    "addr:housenumber":"511",
+    "addr:postcode":"28203",
+    "addr:street":"East Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.85317,35.208456,-80.85317,35.208456",
     "geom:latitude":35.208456,
     "geom:longitude":-80.85317,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"f2a3edcecd02078502e26828c457b9d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":386958395,
-    "wof:lastmodified":1466649772,
+    "wof:lastmodified":1491908396,
     "wof:name":"Raftelis Financial Consulting",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

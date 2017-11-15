@@ -2,9 +2,14 @@
   "id": 287220931,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Silverleaf Rd Charlotte NC 28217",
+    "addr:housenumber":"500",
+    "addr:postcode":"28217",
+    "addr:street":"Silverleaf Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.884744,35.144769,-80.884744,35.144769",
     "geom:latitude":35.144769,
     "geom:longitude":-80.884744,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"098b9af8717c0c8e32c9532f7ff2b172",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287220931,
-    "wof:lastmodified":1466646374,
+    "wof:lastmodified":1491926252,
     "wof:name":"Beef Stu Foods",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

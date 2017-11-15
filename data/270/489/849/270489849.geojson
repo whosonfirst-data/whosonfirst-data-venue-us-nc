@@ -2,9 +2,14 @@
   "id": 270489849,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 West Blvd Charlotte NC 28208",
+    "addr:housenumber":"2200",
+    "addr:postcode":"28208",
+    "addr:street":"West Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.898676,35.211544,-80.898676,35.211544",
     "geom:latitude":35.211544,
     "geom:longitude":-80.898676,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85841905,
-        85882291
+        85882291,
+        85841905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +46,28 @@
     "wof:geomhash":"24177c3b88a03064d594e4f4be4fc436",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "neighbourhood_id":85841905,
-            "region_id":85688773,
-            "venue_id":270489849
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":270489849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85841905,
+            "region_id":85688773,
+            "venue_id":270489849
         }
     ],
     "wof:id":270489849,
-    "wof:lastmodified":1466649309,
+    "wof:lastmodified":1491904089,
     "wof:name":"Ann's West Boulevard Child",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

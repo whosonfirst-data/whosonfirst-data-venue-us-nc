@@ -2,9 +2,14 @@
   "id": 269610703,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Guess Rd Durham NC 27705",
+    "addr:housenumber":"2101",
+    "addr:postcode":"27705",
+    "addr:street":"Guess Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.919905,36.024277,-78.919905,36.024277",
     "geom:latitude":36.024277,
     "geom:longitude":-78.919905,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85877151,
+        85877195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"264ebf70f6b1bcbae2971136b2e620bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877151,
+            "region_id":85688773,
+            "venue_id":269610703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85877195,
             "region_id":85688773,
             "venue_id":269610703
         }
     ],
     "wof:id":269610703,
-    "wof:lastmodified":1466644724,
+    "wof:lastmodified":1491930892,
     "wof:name":"Community National Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

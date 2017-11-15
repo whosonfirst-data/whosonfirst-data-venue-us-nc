@@ -2,9 +2,14 @@
   "id": 303502493,
   "type": "Feature",
   "properties": {
+    "addr:full":"5934 South Blvd Charlotte NC 28217",
+    "addr:housenumber":"5934",
+    "addr:postcode":"28217",
+    "addr:street":"South Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.876367,35.154534,-80.876367,35.154534",
     "geom:latitude":35.154534,
     "geom:longitude":-80.876367,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3a755ff6c2cdee61a5e8a1c7bbea7d61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303502493,
-    "wof:lastmodified":1466650550,
+    "wof:lastmodified":1491924581,
     "wof:name":"Mundo Cellular",
     "wof:parent_id":85834943,
     "wof:placetype":"venue",

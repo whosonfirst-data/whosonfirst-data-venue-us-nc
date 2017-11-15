@@ -2,9 +2,14 @@
   "id": 286425097,
   "type": "Feature",
   "properties": {
+    "addr:full":"2609 N Duke St Durham NC 27704",
+    "addr:housenumber":"2609",
+    "addr:postcode":"27704",
+    "addr:street":"N Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.905524,36.030536,-78.905524,36.030536",
     "geom:latitude":36.030536,
     "geom:longitude":-78.905524,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85877187,
+        85807037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,27 @@
     "wof:geomhash":"3d156d7c4aa9fc84e6b13f6c379ebb76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877187,
+            "region_id":85688773,
+            "venue_id":286425097
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85807037,
             "region_id":85688773,
             "venue_id":286425097
         }
     ],
     "wof:id":286425097,
-    "wof:lastmodified":1466645351,
+    "wof:lastmodified":1491927342,
     "wof:name":"Proactive Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

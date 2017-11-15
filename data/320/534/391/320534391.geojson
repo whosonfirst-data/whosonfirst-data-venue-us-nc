@@ -2,9 +2,14 @@
   "id": 320534391,
   "type": "Feature",
   "properties": {
+    "addr:full":"9930 Monroe Rd Matthews NC 28105",
+    "addr:housenumber":"9930",
+    "addr:postcode":"28105",
+    "addr:street":"Monroe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.737844,35.136143,-80.737844,35.136143",
     "geom:latitude":35.136143,
     "geom:longitude":-80.737844,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"67186bafd5d9a0cf7be768092baa9925",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320534391,
-    "wof:lastmodified":1466652863,
+    "wof:lastmodified":1491899960,
     "wof:name":"Christopher M Vann Pa",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

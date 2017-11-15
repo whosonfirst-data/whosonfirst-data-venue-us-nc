@@ -2,9 +2,14 @@
   "id": 303551171,
   "type": "Feature",
   "properties": {
+    "addr:full":"1910 Atkins Dr Raleigh NC 27610",
+    "addr:housenumber":"1910",
+    "addr:postcode":"27610",
+    "addr:street":"Atkins Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.606406,35.753763,-78.606406,35.753763",
     "geom:latitude":35.753763,
     "geom:longitude":-78.606406,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
+        420533297,
         85850267
     ],
     "wof:breaches":[],
@@ -42,7 +49,16 @@
     "wof:geomhash":"e89f6b8e9d78404550889d762ba72ff8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":420533297,
+            "region_id":85688773,
+            "venue_id":303551171
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,9 +68,9 @@
         }
     ],
     "wof:id":303551171,
-    "wof:lastmodified":1466651256,
+    "wof:lastmodified":1491928893,
     "wof:name":"Grandview Entertainment",
-    "wof:parent_id":85850267,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

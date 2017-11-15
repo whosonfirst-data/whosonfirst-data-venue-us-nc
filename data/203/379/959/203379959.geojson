@@ -2,9 +2,14 @@
   "id": 203379959,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 Anderson St Charlotte NC 28205",
+    "addr:housenumber":"624",
+    "addr:postcode":"28205",
+    "addr:street":"Anderson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.795493,35.24858,-80.795493,35.24858",
     "geom:latitude":35.24858,
     "geom:longitude":-80.795493,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"14dde9e6fd21d62405b73abd71b6d8e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":203379959,
-    "wof:lastmodified":1466643837,
+    "wof:lastmodified":1491906667,
     "wof:name":"Reservoir-Life Intl Ministry",
     "wof:parent_id":85837459,
     "wof:placetype":"venue",

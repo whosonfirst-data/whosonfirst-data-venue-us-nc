@@ -2,9 +2,14 @@
   "id": 286969081,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 William Vickers Ave Durham NC 27701",
+    "addr:housenumber":"613",
+    "addr:postcode":"27701",
+    "addr:street":"William Vickers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.911733,35.995687,-78.911733,35.995687",
     "geom:latitude":35.995687,
     "geom:longitude":-78.911733,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ce8fe27e12ee0d7110d36ed96542b024",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286969081,
-    "wof:lastmodified":1466652791,
+    "wof:lastmodified":1491906393,
     "wof:name":"Christian Prep Academy",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

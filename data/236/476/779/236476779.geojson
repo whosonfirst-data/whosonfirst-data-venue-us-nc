@@ -2,9 +2,14 @@
   "id": 236476779,
   "type": "Feature",
   "properties": {
+    "addr:full":"5117 Masota Rd Raleigh NC 27612",
+    "addr:housenumber":"5117",
+    "addr:postcode":"27612",
+    "addr:street":"Masota Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.724607,35.856306,-78.724607,35.856306",
     "geom:latitude":35.856306,
     "geom:longitude":-78.724607,
@@ -32,32 +37,16 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZxmJ96k3GmpuEkK6GMRyT_35.856306_-78.724607@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"64e66d55a5db83f080b29f90cdec063e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":236476779
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":236476779,
-    "wof:lastmodified":1466647387,
+    "wof:lastmodified":1491889955,
     "wof:name":"Fran Atlantic Intl Inc",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

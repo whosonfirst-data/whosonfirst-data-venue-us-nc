@@ -2,9 +2,14 @@
   "id": 319834529,
   "type": "Feature",
   "properties": {
+    "addr:full":"929 S Saunders St Raleigh NC 27603",
+    "addr:housenumber":"929",
+    "addr:postcode":"27603",
+    "addr:street":"S Saunders St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.648344,35.76942,-78.648344,35.76942",
     "geom:latitude":35.76942,
     "geom:longitude":-78.648344,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ab389724e8fdaf1f8b73016a36d40bee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":319834529,
-    "wof:lastmodified":1466645085,
+    "wof:lastmodified":1491902258,
     "wof:name":"Pro Tow",
     "wof:parent_id":85854379,
     "wof:placetype":"venue",

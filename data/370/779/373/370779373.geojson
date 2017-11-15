@@ -2,9 +2,14 @@
   "id": 370779373,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 E Kingston Ave Charlotte NC 28203",
+    "addr:housenumber":"225",
+    "addr:postcode":"28203",
+    "addr:street":"E Kingston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.855639,35.212119,-80.855639,35.212119",
     "geom:latitude":35.212119,
     "geom:longitude":-80.855639,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"55b7d310e8606e04b58a8f4b93b8a282",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370779373,
-    "wof:lastmodified":1466656393,
+    "wof:lastmodified":1491908393,
     "wof:name":"B&W Painting",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

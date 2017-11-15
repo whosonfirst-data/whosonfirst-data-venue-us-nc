@@ -2,9 +2,14 @@
   "id": 236517173,
   "type": "Feature",
   "properties": {
+    "addr:full":"12310 Summer Breeze Ct Charlotte NC 28277",
+    "addr:housenumber":"12310",
+    "addr:postcode":"28277",
+    "addr:street":"Summer Breeze Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.769597,35.041155,-80.769597,35.041155",
     "geom:latitude":35.041155,
     "geom:longitude":-80.769597,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"972bff6857b2298728a87fec1ffaf042",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236517173,
-    "wof:lastmodified":1466647756,
+    "wof:lastmodified":1491897263,
     "wof:name":"Toll Brothers",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

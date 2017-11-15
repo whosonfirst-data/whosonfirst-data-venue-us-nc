@@ -2,9 +2,14 @@
   "id": 303999445,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Hillsborough St Raleigh NC 27603",
+    "addr:housenumber":"225",
+    "addr:postcode":"27603",
+    "addr:street":"Hillsborough St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.642965,35.780438,-78.642965,35.780438",
     "geom:latitude":35.780438,
     "geom:longitude":-78.642965,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d2a74b8194334783893db300f6433f73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303999445,
-    "wof:lastmodified":1466656841,
+    "wof:lastmodified":1491913522,
     "wof:name":"Wake County Democratic Party",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

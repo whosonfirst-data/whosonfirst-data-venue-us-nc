@@ -2,9 +2,14 @@
   "id": 253149627,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 Leon St Durham NC 27704",
+    "addr:housenumber":"707",
+    "addr:postcode":"27704",
+    "addr:street":"Leon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.903715,36.025485,-78.903715,36.025485",
     "geom:latitude":36.025485,
     "geom:longitude":-78.903715,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0f8feb3a88dbfde721735b4f8cbb67ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253149627,
-    "wof:lastmodified":1466644571,
+    "wof:lastmodified":1491930916,
     "wof:name":"La Rumba",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

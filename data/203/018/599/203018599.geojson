@@ -2,9 +2,14 @@
   "id": 203018599,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Westover Dr Chapel Hill NC 27545",
+    "addr:housenumber":"106",
+    "addr:postcode":"27545",
+    "addr:street":"Westover Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.528432,35.793227,-78.528432,35.793227",
     "geom:latitude":35.793227,
     "geom:longitude":-78.528432,
@@ -29,31 +34,16 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        102087821,
-        85892055
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08toCqIFjinr9ESBrPa9O1_35.793227_-78.528432@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"46c34c07314182d6e71f7fbe76c5d535",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":-1,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":203018599
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":203018599,
-    "wof:lastmodified":1466654263,
+    "wof:lastmodified":1491888711,
     "wof:name":"Chapel Hill Communities Inc",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

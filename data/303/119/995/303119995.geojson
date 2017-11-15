@@ -2,9 +2,14 @@
   "id": 303119995,
   "type": "Feature",
   "properties": {
+    "addr:full":"5801 Farmwell Rd Raleigh NC 27610",
+    "addr:housenumber":"5801",
+    "addr:postcode":"27610",
+    "addr:street":"Farmwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.528365,35.796654,-78.528365,35.796654",
     "geom:latitude":35.796654,
     "geom:longitude":-78.528365,
@@ -24,31 +29,16 @@
     "sg:postcode":"27610",
     "sg:province":"NC",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        102087821,
-        85892055
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oNUAXv3zE9xSI39mS7gv1_35.796654_-78.528365@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"b2dfbe2f3263568a6dcfedf2d60689f1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":-1,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":303119995
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":303119995,
-    "wof:lastmodified":1466645015,
+    "wof:lastmodified":1491888713,
     "wof:name":"Kgd Inc",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

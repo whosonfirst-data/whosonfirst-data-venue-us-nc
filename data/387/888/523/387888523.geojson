@@ -2,9 +2,14 @@
   "id": 387888523,
   "type": "Feature",
   "properties": {
+    "addr:full":"2410 Creekside Cove Durham NC 27712",
+    "addr:housenumber":"2410",
+    "addr:postcode":"27712",
+    "addr:street":"Creekside Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.959798,36.07434,-78.959798,36.07434",
     "geom:latitude":36.07434,
     "geom:longitude":-78.959798,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"cedbd590a7b680d0b40153d4bac443e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":387888523
         }
     ],
     "wof:id":387888523,
-    "wof:lastmodified":1466657957,
+    "wof:lastmodified":1491905443,
     "wof:name":"Crowning Touch",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

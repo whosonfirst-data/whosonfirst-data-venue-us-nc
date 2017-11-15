@@ -2,9 +2,14 @@
   "id": 386936349,
   "type": "Feature",
   "properties": {
+    "addr:full":"5115 N Tryon St Charlotte NC 28213",
+    "addr:housenumber":"5115",
+    "addr:postcode":"28213",
+    "addr:street":"N Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.777503,35.259601,-80.777503,35.259601",
     "geom:latitude":35.259601,
     "geom:longitude":-80.777503,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4ff6b3320aaa5152db04727f1895584a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":386936349,
-    "wof:lastmodified":1466649475,
+    "wof:lastmodified":1491921959,
     "wof:name":"Carolina Foods For Healthy",
     "wof:parent_id":85818497,
     "wof:placetype":"venue",

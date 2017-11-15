@@ -2,9 +2,14 @@
   "id": 320605645,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 International Airport Dr Charlotte NC 28208",
+    "addr:housenumber":"3300",
+    "addr:postcode":"28208",
+    "addr:street":"International Airport Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.937984,35.195432,-80.937984,35.195432",
     "geom:latitude":35.195432,
     "geom:longitude":-80.937984,
@@ -30,11 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291,
-        85814609
+        85814609,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +50,28 @@
     "wof:geomhash":"9c0e6cb7157f541dd29bdb4100495893",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85814609,
+            "region_id":85688773,
+            "venue_id":320605645
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":320605645
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":-1,
-            "neighbourhood_id":85814609,
-            "region_id":85688773,
-            "venue_id":320605645
         }
     ],
     "wof:id":320605645,
-    "wof:lastmodified":1466653914,
+    "wof:lastmodified":1491904086,
     "wof:name":"Wolters Motors & Drives",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

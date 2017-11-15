@@ -2,9 +2,14 @@
   "id": 403806973,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Demaree Ln Matthews NC 28105",
+    "addr:housenumber":"202",
+    "addr:postcode":"28105",
+    "addr:street":"Demaree Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.732255,35.110269,-80.732255,35.110269",
     "geom:latitude":35.110269,
     "geom:longitude":-80.732255,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -40,7 +46,7 @@
     "wof:geomhash":"03a906a3a61c325c3a2b99f278daf748",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -49,7 +55,7 @@
             "venue_id":403806973
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -59,9 +65,9 @@
         }
     ],
     "wof:id":403806973,
-    "wof:lastmodified":1466651667,
+    "wof:lastmodified":1491934551,
     "wof:name":"William T Harding Rev III",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

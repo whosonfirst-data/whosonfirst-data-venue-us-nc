@@ -2,9 +2,14 @@
   "id": 371148249,
   "type": "Feature",
   "properties": {
+    "addr:full":"2504 Plantation Center Dr Matthews NC 28105",
+    "addr:housenumber":"2504",
+    "addr:postcode":"28105",
+    "addr:street":"Plantation Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.733015,35.085485,-80.733015,35.085485",
     "geom:latitude":35.085485,
     "geom:longitude":-80.733015,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"0c4544de127fa07f521a8b49405d157a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -53,7 +59,7 @@
             "venue_id":371148249
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":371148249,
-    "wof:lastmodified":1466650685,
+    "wof:lastmodified":1491934546,
     "wof:name":"Bruno Kaldre DDS PA",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

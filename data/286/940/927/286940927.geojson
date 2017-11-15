@@ -2,9 +2,14 @@
   "id": 286940927,
   "type": "Feature",
   "properties": {
+    "addr:full":"2615 Westerly Hills Dr Charlotte NC 28208",
+    "addr:housenumber":"2615",
+    "addr:postcode":"28208",
+    "addr:street":"Westerly Hills Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.897794,35.224621,-80.897794,35.224621",
     "geom:latitude":35.224621,
     "geom:longitude":-80.897794,
@@ -26,10 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,28 @@
     "wof:geomhash":"8ceec89cd96050e5329757846f522740",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":286940927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559865,
+            "region_id":85688773,
+            "venue_id":286940927
         }
     ],
     "wof:id":286940927,
-    "wof:lastmodified":1466652385,
+    "wof:lastmodified":1491904074,
     "wof:name":"W H Gill & Assoc",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

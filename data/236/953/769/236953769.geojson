@@ -2,9 +2,14 @@
   "id": 236953769,
   "type": "Feature",
   "properties": {
+    "addr:full":"2125 Norwich Pl Charlotte NC 28208",
+    "addr:housenumber":"2125",
+    "addr:postcode":"28208",
+    "addr:street":"Norwich Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.892564,35.211143,-80.892564,35.211143",
     "geom:latitude":35.211143,
     "geom:longitude":-80.892564,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,28 @@
     "wof:geomhash":"e7bf0f00635e2f3364f10067fca6435e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":236953769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559865,
+            "region_id":85688773,
+            "venue_id":236953769
         }
     ],
     "wof:id":236953769,
-    "wof:lastmodified":1466651765,
+    "wof:lastmodified":1491904146,
     "wof:name":"B Yn Child Development Center",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

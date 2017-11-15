@@ -2,9 +2,14 @@
   "id": 354179549,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 W Morgan St Raleigh NC 27603",
+    "addr:housenumber":"705",
+    "addr:postcode":"27603",
+    "addr:street":"W Morgan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.649952,35.779876,-78.649952,35.779876",
     "geom:latitude":35.779876,
     "geom:longitude":-78.649952,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -43,7 +49,7 @@
     "wof:geomhash":"99f871fe20cb80f3baf8dccdafb07a87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":354179549,
-    "wof:lastmodified":1466649647,
+    "wof:lastmodified":1491913532,
     "wof:name":"Francesconi Communcations",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

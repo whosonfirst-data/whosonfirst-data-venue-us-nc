@@ -2,9 +2,14 @@
   "id": 269883109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 Guess Rd Durham NC 27701",
+    "addr:housenumber":"1620",
+    "addr:postcode":"27701",
+    "addr:street":"Guess Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.913428,36.019192,-78.913428,36.019192",
     "geom:latitude":36.019192,
     "geom:longitude":-78.913428,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"7f1ad5ec5e5c63405f1e7901409c7ddb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":269883109,
-    "wof:lastmodified":1466647895,
+    "wof:lastmodified":1491930893,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303736395,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 Elizabeth Ave Charlotte NC 28204",
+    "addr:housenumber":"1421",
+    "addr:postcode":"28204",
+    "addr:street":"Elizabeth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.828023,35.214978,-80.828023,35.214978",
     "geom:latitude":35.214978,
     "geom:longitude":-80.828023,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"aa2edaacd4c10e7c2742e1bd3cb46495",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303736395,
-    "wof:lastmodified":1466653949,
+    "wof:lastmodified":1491926326,
     "wof:name":"Baha Properties LLC",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

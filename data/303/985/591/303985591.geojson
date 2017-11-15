@@ -2,9 +2,14 @@
   "id": 303985591,
   "type": "Feature",
   "properties": {
+    "addr:full":"3410 Wilkinson Blvd Charlotte NC 28208",
+    "addr:housenumber":"3410",
+    "addr:postcode":"28208",
+    "addr:street":"Wilkinson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.897383,35.224546,-80.897383,35.224546",
     "geom:latitude":35.224546,
     "geom:longitude":-80.897383,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,28 @@
     "wof:geomhash":"a33aae0b4ed48b5bfcfe10348e43d1e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":303985591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559865,
+            "region_id":85688773,
+            "venue_id":303985591
         }
     ],
     "wof:id":303985591,
-    "wof:lastmodified":1466656729,
+    "wof:lastmodified":1491904149,
     "wof:name":"Mountain Top Blessing & Dlvrnc",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

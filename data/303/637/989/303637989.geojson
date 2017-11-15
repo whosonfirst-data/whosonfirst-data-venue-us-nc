@@ -2,9 +2,14 @@
   "id": 303637989,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 Sharview Cir Charlotte NC 28217",
+    "addr:housenumber":"811",
+    "addr:postcode":"28217",
+    "addr:street":"Sharview Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.896622,35.160838,-80.896622,35.160838",
     "geom:latitude":35.160838,
     "geom:longitude":-80.896622,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"98ca0476bc884db0558325504c6346f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303637989,
-    "wof:lastmodified":1466652524,
+    "wof:lastmodified":1491933346,
     "wof:name":"Infinity Connections",
     "wof:parent_id":85891897,
     "wof:placetype":"venue",

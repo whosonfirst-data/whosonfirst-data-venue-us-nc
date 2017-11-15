@@ -2,9 +2,14 @@
   "id": 303907629,
   "type": "Feature",
   "properties": {
+    "addr:full":"2618 Camellia Dr Durham NC 27705",
+    "addr:housenumber":"2618",
+    "addr:postcode":"27705",
+    "addr:street":"Camellia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.931954,36.047436,-78.931954,36.047436",
     "geom:latitude":36.047436,
     "geom:longitude":-78.931954,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a44147468207c2e6bad14ae376e33bed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303907629,
-    "wof:lastmodified":1466656274,
+    "wof:lastmodified":1491913497,
     "wof:name":"Camellia Books",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

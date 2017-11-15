@@ -2,9 +2,14 @@
   "id": 320379263,
   "type": "Feature",
   "properties": {
+    "addr:full":"1612 Camden Rd Charlotte NC 28203",
+    "addr:housenumber":"1612",
+    "addr:postcode":"28203",
+    "addr:street":"Camden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.857885,35.21385,-80.857885,35.21385",
     "geom:latitude":35.21385,
     "geom:longitude":-80.857885,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4550e0497b81af3d6aa97373538a626b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320379263,
-    "wof:lastmodified":1466650612,
+    "wof:lastmodified":1491909068,
     "wof:name":"Chicken Coup",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

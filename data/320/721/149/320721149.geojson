@@ -2,9 +2,14 @@
   "id": 320721149,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Pinestraw Way Durham NC 27713",
+    "addr:housenumber":"3",
+    "addr:postcode":"27713",
+    "addr:street":"Pinestraw Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.916549,35.918492,-78.916549,35.918492",
     "geom:latitude":35.918492,
     "geom:longitude":-78.916549,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"cf17593fc9dd97e3584fd4b2901ed2d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320721149,
-    "wof:lastmodified":1466655559,
+    "wof:lastmodified":1491917419,
     "wof:name":"Auburn Trace",
     "wof:parent_id":85877203,
     "wof:placetype":"venue",

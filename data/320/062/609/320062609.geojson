@@ -2,9 +2,14 @@
   "id": 320062609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 Camellia Dr Durham NC 27705",
+    "addr:housenumber":"2610",
+    "addr:postcode":"27705",
+    "addr:street":"Camellia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.931845,36.04779,-78.931845,36.04779",
     "geom:latitude":36.04779,
     "geom:longitude":-78.931845,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"7b8a46e7caa5d2b0e1c0ca6138bc0ab2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320062609,
-    "wof:lastmodified":1466646198,
+    "wof:lastmodified":1491913498,
     "wof:name":"Crystal Village",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

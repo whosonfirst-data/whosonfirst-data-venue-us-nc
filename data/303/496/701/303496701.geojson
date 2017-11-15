@@ -2,9 +2,14 @@
   "id": 303496701,
   "type": "Feature",
   "properties": {
+    "addr:full":"1436 Rock Quarry Rd Raleigh NC 27610",
+    "addr:housenumber":"1436",
+    "addr:postcode":"27610",
+    "addr:street":"Rock Quarry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.613875,35.760996,-78.613875,35.760996",
     "geom:latitude":35.760996,
     "geom:longitude":-78.613875,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
-        85850267
+        85850267,
+        420559361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,28 @@
     "wof:geomhash":"11f309ed8b7f7ad94b403b6061e66c05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
             "neighbourhood_id":85850267,
             "region_id":85688773,
             "venue_id":303496701
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":420559361,
+            "region_id":85688773,
+            "venue_id":303496701
         }
     ],
     "wof:id":303496701,
-    "wof:lastmodified":1466650470,
+    "wof:lastmodified":1491928892,
     "wof:name":"Linda's Mexican Store",
-    "wof:parent_id":85850267,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

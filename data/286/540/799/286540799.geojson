@@ -2,9 +2,14 @@
   "id": 286540799,
   "type": "Feature",
   "properties": {
+    "addr:full":"9200 Stockport Pl Charlotte NC 28273",
+    "addr:housenumber":"9200",
+    "addr:postcode":"28273",
+    "addr:street":"Stockport Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.951505,35.135539,-80.951505,35.135539",
     "geom:latitude":35.135539,
     "geom:longitude":-80.951505,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"a0aa2a3c8569771ee912233f01d44080",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":286540799,
-    "wof:lastmodified":1466646912,
+    "wof:lastmodified":1491912374,
     "wof:name":"King Machine Charlotte",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

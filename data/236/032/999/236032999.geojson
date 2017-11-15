@@ -2,9 +2,14 @@
   "id": 236032999,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 S Mint St Charlotte NC 28203",
+    "addr:housenumber":"1300",
+    "addr:postcode":"28203",
+    "addr:street":"S Mint St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.857782,35.220974,-80.857782,35.220974",
     "geom:latitude":35.220974,
     "geom:longitude":-80.857782,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"7ff6c01c621f7b8c9dbdb0090e546989",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":236032999,
-    "wof:lastmodified":1466643526,
+    "wof:lastmodified":1491909076,
     "wof:name":"Esd",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

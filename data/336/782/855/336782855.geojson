@@ -2,9 +2,14 @@
   "id": 336782855,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Bradwyck Ct Matthews NC 28105",
+    "addr:housenumber":"301",
+    "addr:postcode":"28105",
+    "addr:street":"Bradwyck Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.742561,35.121749,-80.742561,35.121749",
     "geom:latitude":35.121749,
     "geom:longitude":-80.742561,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e459ed64078cef22909c67f5e282b1a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336782855,
-    "wof:lastmodified":1466648626,
+    "wof:lastmodified":1491899975,
     "wof:name":"Al Guthrie CPA",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320277441,
   "type": "Feature",
   "properties": {
+    "addr:full":"3220 Weddington Rd Matthews NC 28105",
+    "addr:housenumber":"3220",
+    "addr:postcode":"28105",
+    "addr:street":"Weddington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.730673,35.08169,-80.730673,35.08169",
     "geom:latitude":35.08169,
     "geom:longitude":-80.730673,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c8fde9aa6d40209e659181f7ace2f839",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -51,7 +57,7 @@
             "venue_id":320277441
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -61,9 +67,9 @@
         }
     ],
     "wof:id":320277441,
-    "wof:lastmodified":1466649171,
+    "wof:lastmodified":1491934564,
     "wof:name":"Bank Of America",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

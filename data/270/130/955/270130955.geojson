@@ -2,9 +2,14 @@
   "id": 270130955,
   "type": "Feature",
   "properties": {
+    "addr:full":"1830 S Tryon St Charlotte NC 28203",
+    "addr:housenumber":"1830",
+    "addr:postcode":"28203",
+    "addr:street":"S Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.863089,35.213633,-80.863089,35.213633",
     "geom:latitude":35.213633,
     "geom:longitude":-80.863089,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"64a7613ff2e25101f93e39f76e532f88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270130955,
-    "wof:lastmodified":1466644720,
+    "wof:lastmodified":1491909076,
     "wof:name":"A 24 Hour Towing Svc",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219795799,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Tennyson Pl Durham NC 27704",
+    "addr:housenumber":"8",
+    "addr:postcode":"27704",
+    "addr:street":"Tennyson Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.908468,36.027252,-78.908468,36.027252",
     "geom:latitude":36.027252,
     "geom:longitude":-78.908468,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"29ed5e7d3f8f87baaa1a526836e473a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":219795799,
-    "wof:lastmodified":1466647145,
+    "wof:lastmodified":1491930914,
     "wof:name":"Quality Safety Shoes",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

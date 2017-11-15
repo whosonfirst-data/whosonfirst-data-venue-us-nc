@@ -2,9 +2,14 @@
   "id": 203391541,
   "type": "Feature",
   "properties": {
+    "addr:full":"807 Pressley Rd Charlotte NC 28217",
+    "addr:housenumber":"807",
+    "addr:postcode":"28217",
+    "addr:street":"Pressley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.894017,35.191051,-80.894017,35.191051",
     "geom:latitude":35.191051,
     "geom:longitude":-80.894017,
@@ -31,10 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420560205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,28 @@
     "wof:geomhash":"9dc52c89ee8c39fdae04873bd623e142",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":203391541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420560205,
+            "region_id":85688773,
+            "venue_id":203391541
         }
     ],
     "wof:id":203391541,
-    "wof:lastmodified":1466643919,
+    "wof:lastmodified":1491904117,
     "wof:name":"Office At Home Warehouse",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 253714687,
   "type": "Feature",
   "properties": {
+    "addr:full":"8009 Steele Creek Rd Charlotte NC 28217",
+    "addr:housenumber":"8009",
+    "addr:postcode":"28217",
+    "addr:street":"Steele Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.958456,35.175097,-80.958456,35.175097",
     "geom:latitude":35.175097,
     "geom:longitude":-80.958456,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4f5a861aa565ce4b49866f43177c88bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253714687,
-    "wof:lastmodified":1466650928,
+    "wof:lastmodified":1491920175,
     "wof:name":"100 Extreme Cleaning Service",
     "wof:parent_id":85850977,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337341725,
   "type": "Feature",
   "properties": {
+    "addr:full":"1317 Edgewater Dr Charlotte NC 28210",
+    "addr:housenumber":"1317",
+    "addr:postcode":"28210",
+    "addr:street":"Edgewater Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.876058,35.14289,-80.876058,35.14289",
     "geom:latitude":35.14289,
     "geom:longitude":-80.876058,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"904560801efa8802830bf58ac4ce8cf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":337341725,
-    "wof:lastmodified":1466646517,
+    "wof:lastmodified":1491924573,
     "wof:name":"Billiards Eclipse",
     "wof:parent_id":85834943,
     "wof:placetype":"venue",

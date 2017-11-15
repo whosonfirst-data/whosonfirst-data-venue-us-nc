@@ -2,9 +2,14 @@
   "id": 320187955,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Cambridge Beltway Dr Charlotte NC 28273",
+    "addr:housenumber":"2101",
+    "addr:postcode":"28273",
+    "addr:street":"Cambridge Beltway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.935989,35.13679,-80.935989,35.13679",
     "geom:latitude":35.13679,
     "geom:longitude":-80.935989,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"70b7e65d0c9d21fa4c31324206dc26bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320187955,
-    "wof:lastmodified":1466647923,
+    "wof:lastmodified":1491912369,
     "wof:name":"Industrial Automation",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

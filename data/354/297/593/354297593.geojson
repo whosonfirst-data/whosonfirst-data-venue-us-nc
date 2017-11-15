@@ -2,9 +2,14 @@
   "id": 354297593,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 Charing Cross Dr Matthews NC 28105",
+    "addr:housenumber":"317",
+    "addr:postcode":"28105",
+    "addr:street":"Charing Cross Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.737712,35.120202,-80.737712,35.120202",
     "geom:latitude":35.120202,
     "geom:longitude":-80.737712,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8c330a098c49a4d4f8ea10f46e01142c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354297593,
-    "wof:lastmodified":1466650991,
+    "wof:lastmodified":1491899954,
     "wof:name":"Silk Florals & Gifts",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

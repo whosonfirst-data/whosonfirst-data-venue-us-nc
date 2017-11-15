@@ -2,9 +2,14 @@
   "id": 270257227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1134 Commercial Ave Charlotte NC 28205",
+    "addr:housenumber":"1134",
+    "addr:postcode":"28205",
+    "addr:street":"Commercial Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.783543,35.246338,-80.783543,35.246338",
     "geom:latitude":35.246338,
     "geom:longitude":-80.783543,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1a81f900ff0b5197ce712f2f960684a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270257227,
-    "wof:lastmodified":1466646302,
+    "wof:lastmodified":1491906657,
     "wof:name":"True Way Church Of God",
     "wof:parent_id":85837459,
     "wof:placetype":"venue",

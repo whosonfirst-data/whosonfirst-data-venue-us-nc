@@ -2,9 +2,14 @@
   "id": 387141997,
   "type": "Feature",
   "properties": {
+    "addr:full":"4813 Kilkenny Pl Raleigh NC 27612",
+    "addr:housenumber":"4813",
+    "addr:postcode":"27612",
+    "addr:street":"Kilkenny Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.709458,35.849356,-78.709458,35.849356",
     "geom:latitude":35.849356,
     "geom:longitude":-78.709458,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4bedf3a5c8b3816c21285b65e322c314",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":387141997,
-    "wof:lastmodified":1466651698,
+    "wof:lastmodified":1491922757,
     "wof:name":"James John",
     "wof:parent_id":85821697,
     "wof:placetype":"venue",

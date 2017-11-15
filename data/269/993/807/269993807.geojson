@@ -2,9 +2,14 @@
   "id": 269993807,
   "type": "Feature",
   "properties": {
+    "addr:full":"5435 Farmbrook Dr Charlotte NC 28210",
+    "addr:housenumber":"5435",
+    "addr:postcode":"28210",
+    "addr:street":"Farmbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.862831,35.158303,-80.862831,35.158303",
     "geom:latitude":35.158303,
     "geom:longitude":-80.862831,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"eb78792ec1d2e07f3ec23d6162b95112",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":269993807,
-    "wof:lastmodified":1466649245,
+    "wof:lastmodified":1491924575,
     "wof:name":"Chevron Phillips Chem Co LLC",
     "wof:parent_id":85834943,
     "wof:placetype":"venue",

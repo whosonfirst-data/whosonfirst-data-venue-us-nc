@@ -2,9 +2,14 @@
   "id": 370514517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1326 Carp Dr Raleigh NC 27610",
+    "addr:housenumber":"1326",
+    "addr:postcode":"27610",
+    "addr:street":"Carp Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.54626,35.798369,-78.54626,35.798369",
     "geom:latitude":35.798369,
     "geom:longitude":-78.54626,
@@ -28,31 +33,16 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        102087821,
-        85892055
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FEiO4jhSfrgq8dfiTY7Us_35.798369_-78.546260@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"032bb249db06a4c1ab52aa4e44ded818",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":-1,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":370514517
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":370514517,
-    "wof:lastmodified":1466652748,
+    "wof:lastmodified":1491888710,
     "wof:name":"Andrew's Service",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

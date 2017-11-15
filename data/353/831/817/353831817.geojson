@@ -2,9 +2,14 @@
   "id": 353831817,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 S Buchanan Blvd Durham NC 27701",
+    "addr:housenumber":"502",
+    "addr:postcode":"27701",
+    "addr:street":"S Buchanan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.914951,35.997326,-78.914951,35.997326",
     "geom:latitude":35.997326,
     "geom:longitude":-78.914951,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"6582609450ff3e3cf3839cc3e4b4bf31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353831817,
-    "wof:lastmodified":1466652126,
+    "wof:lastmodified":1491913855,
     "wof:name":"Carteret Mortgage Corp",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

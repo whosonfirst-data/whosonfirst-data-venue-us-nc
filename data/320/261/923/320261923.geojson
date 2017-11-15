@@ -2,9 +2,14 @@
   "id": 320261923,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 W Tremont Ave Charlotte NC 28203",
+    "addr:housenumber":"1001",
+    "addr:postcode":"28203",
+    "addr:street":"W Tremont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.873054,35.212962,-80.873054,35.212962",
     "geom:latitude":35.212962,
     "geom:longitude":-80.873054,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"33bf829523efd012800a7043e4446dc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320261923,
-    "wof:lastmodified":1466648961,
+    "wof:lastmodified":1491909086,
     "wof:name":"Tabernacle - God Apostalic Chr",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

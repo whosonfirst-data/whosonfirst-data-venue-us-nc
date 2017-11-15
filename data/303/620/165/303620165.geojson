@@ -2,9 +2,14 @@
   "id": 303620165,
   "type": "Feature",
   "properties": {
+    "addr:full":"612 W Hargett St Raleigh NC 27603",
+    "addr:housenumber":"612",
+    "addr:postcode":"27603",
+    "addr:street":"W Hargett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.649194,35.778674,-78.649194,35.778674",
     "geom:latitude":35.778674,
     "geom:longitude":-78.649194,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -43,7 +49,7 @@
     "wof:geomhash":"2f412a80031da2c49229270192bdf933",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303620165,
-    "wof:lastmodified":1466652257,
+    "wof:lastmodified":1491913523,
     "wof:name":"Stone Accents Inc",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202585533,
   "type": "Feature",
   "properties": {
+    "addr:full":"5210 N Tryon St Charlotte NC 28213",
+    "addr:housenumber":"5210",
+    "addr:postcode":"28213",
+    "addr:street":"N Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.778524,35.258877,-80.778524,35.258877",
     "geom:latitude":35.258877,
     "geom:longitude":-80.778524,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"6fc19fc229ef6342c94f112e7a0f2d75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202585533,
-    "wof:lastmodified":1466655450,
+    "wof:lastmodified":1491921960,
     "wof:name":"F Gaylon Young Ins 3224",
     "wof:parent_id":85818497,
     "wof:placetype":"venue",

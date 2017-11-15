@@ -2,9 +2,14 @@
   "id": 353673259,
   "type": "Feature",
   "properties": {
+    "addr:full":"5502 Durham-Chapel Hill Blvd Durham NC 27707",
+    "addr:housenumber":"5502",
+    "addr:postcode":"27707",
+    "addr:street":"Durham-Chapel Hill Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.997584,35.951634,-78.997584,35.951634",
     "geom:latitude":35.951634,
     "geom:longitude":-78.997584,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e2f3c4ba69a80d55a24f03cee9536748",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353673259,
-    "wof:lastmodified":1466650275,
+    "wof:lastmodified":1491926810,
     "wof:name":"Colonial Storage Ctr",
     "wof:parent_id":85877177,
     "wof:placetype":"venue",

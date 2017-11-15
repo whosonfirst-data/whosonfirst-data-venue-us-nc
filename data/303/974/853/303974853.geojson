@@ -2,9 +2,14 @@
   "id": 303974853,
   "type": "Feature",
   "properties": {
+    "addr:full":"908 W Main St Durham NC 27701",
+    "addr:housenumber":"908",
+    "addr:postcode":"27701",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.910112,36.000634,-78.910112,36.000634",
     "geom:latitude":36.000634,
     "geom:longitude":-78.910112,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6197221b179f59f44076978664fd8b72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303974853,
-    "wof:lastmodified":1466656869,
+    "wof:lastmodified":1491906394,
     "wof:name":"Savory Fare Inc",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

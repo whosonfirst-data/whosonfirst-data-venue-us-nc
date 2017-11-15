@@ -2,9 +2,14 @@
   "id": 303341083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1819 Lyndhurst Ave Charlotte NC 28203",
+    "addr:housenumber":"1819",
+    "addr:postcode":"28203",
+    "addr:street":"Lyndhurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.855124,35.208324,-80.855124,35.208324",
     "geom:latitude":35.208324,
     "geom:longitude":-80.855124,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"299e6c0f335a6da41f9fcfcb2972e688",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303341083,
-    "wof:lastmodified":1466648220,
+    "wof:lastmodified":1491908362,
     "wof:name":"Brittain Jan Med LPC Ncc",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

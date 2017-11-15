@@ -2,9 +2,14 @@
   "id": 304034597,
   "type": "Feature",
   "properties": {
+    "addr:full":"7910 Crescent Executive Dr Charlotte NC 28217",
+    "addr:housenumber":"7910",
+    "addr:postcode":"28217",
+    "addr:street":"Crescent Executive Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.918149,35.143016,-80.918149,35.143016",
     "geom:latitude":35.143016,
     "geom:longitude":-80.918149,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"40760db9026443e0828db97b6392afa1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":304034597,
-    "wof:lastmodified":1466644655,
+    "wof:lastmodified":1491933350,
     "wof:name":"Carl Walker Inc",
     "wof:parent_id":85891897,
     "wof:placetype":"venue",

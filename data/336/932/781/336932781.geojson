@@ -2,9 +2,14 @@
   "id": 336932781,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 W Jones St Raleigh NC 27603",
+    "addr:housenumber":"617",
+    "addr:postcode":"27603",
+    "addr:street":"W Jones St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.648882,35.782785,-78.648882,35.782785",
     "geom:latitude":35.782785,
     "geom:longitude":-78.648882,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7f61762119bca92d8f708d6bd8054268",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336932781,
-    "wof:lastmodified":1466650917,
+    "wof:lastmodified":1491913521,
     "wof:name":"Grafstein & Walczyk",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

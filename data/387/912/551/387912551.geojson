@@ -2,14 +2,20 @@
   "id": 387912551,
   "type": "Feature",
   "properties": {
+    "addr:full":"1229 Greenwood Cliff Charlotte NC 28204",
+    "addr:housenumber":"1229",
+    "addr:postcode":"28204",
+    "addr:street":"Greenwood Cliff",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.839927,35.212031,-80.839927,35.212031",
     "geom:latitude":35.212031,
     "geom:longitude":-80.839927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1229 Greenwood Cliff",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
         85810633
     ],
+    "wof:brand_id":1125153835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZBT5OEqDWE8ZwiKa2YIBk_35.212031_-80.839927@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"3aed6eb9788acbd970877dbdec4ba0e6",
+    "wof:geomhash":"36be1fe701dd6dbc7e07cfe813dbe12a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":387912551,
-    "wof:lastmodified":1466657993,
+    "wof:lastmodified":1510696917,
     "wof:name":"American Heart Association",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253312685,
   "type": "Feature",
   "properties": {
+    "addr:full":"413 Kenwood Ct Raleigh NC 27609",
+    "addr:housenumber":"413",
+    "addr:postcode":"27609",
+    "addr:street":"Kenwood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.634558,35.851195,-78.634558,35.851195",
     "geom:latitude":35.851195,
     "geom:longitude":-78.634558,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a3cdccf99ead24eb3836cfb3af6bb1ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253312685,
-    "wof:lastmodified":1466646176,
+    "wof:lastmodified":1491898720,
     "wof:name":"Maureen Mc Nelis PHD",
     "wof:parent_id":85838291,
     "wof:placetype":"venue",

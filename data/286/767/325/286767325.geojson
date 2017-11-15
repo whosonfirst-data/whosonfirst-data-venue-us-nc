@@ -2,9 +2,14 @@
   "id": 286767325,
   "type": "Feature",
   "properties": {
+    "addr:full":"2531 Pruitt St Charlotte NC 28208",
+    "addr:housenumber":"2531",
+    "addr:postcode":"28208",
+    "addr:street":"Pruitt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.898641,35.225587,-80.898641,35.225587",
     "geom:latitude":35.225587,
     "geom:longitude":-80.898641,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,28 @@
     "wof:geomhash":"80d4df36f667d398f7778b3672b55f75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":286767325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559865,
+            "region_id":85688773,
+            "venue_id":286767325
         }
     ],
     "wof:id":286767325,
-    "wof:lastmodified":1466650013,
+    "wof:lastmodified":1491904054,
     "wof:name":"Warlock Ltd Inc",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

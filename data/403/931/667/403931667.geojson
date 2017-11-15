@@ -2,9 +2,14 @@
   "id": 403931667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1127 Farmfield Ln Charlotte NC 28213",
+    "addr:housenumber":"1127",
+    "addr:postcode":"28213",
+    "addr:street":"Farmfield Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.744584,35.272326,-80.744584,35.272326",
     "geom:latitude":35.272326,
     "geom:longitude":-80.744584,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a262833db63a860f1148c78092474e1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403931667,
-    "wof:lastmodified":1466653311,
+    "wof:lastmodified":1491893389,
     "wof:name":"Carolina Rockshop Unlimited LL",
     "wof:parent_id":85804005,
     "wof:placetype":"venue",

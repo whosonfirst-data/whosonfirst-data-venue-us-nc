@@ -2,9 +2,14 @@
   "id": 387762997,
   "type": "Feature",
   "properties": {
+    "addr:full":"2544 Plantation Center Dr Matthews NC 28105",
+    "addr:housenumber":"2544",
+    "addr:postcode":"28105",
+    "addr:street":"Plantation Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.732346,35.085871,-80.732346,35.085871",
     "geom:latitude":35.085871,
     "geom:longitude":-80.732346,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"e32ecec65b88fe2634782ca277361c30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -53,7 +59,7 @@
             "venue_id":387762997
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":387762997,
-    "wof:lastmodified":1466657389,
+    "wof:lastmodified":1491934565,
     "wof:name":"Engineering Consulting Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

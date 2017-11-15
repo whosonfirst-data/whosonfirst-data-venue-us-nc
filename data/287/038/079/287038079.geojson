@@ -2,9 +2,14 @@
   "id": 287038079,
   "type": "Feature",
   "properties": {
+    "addr:full":"5208 Old Chapel Hill Rd Durham NC 27707",
+    "addr:housenumber":"5208",
+    "addr:postcode":"27707",
+    "addr:street":"Old Chapel Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.988809,35.944166,-78.988809,35.944166",
     "geom:latitude":35.944166,
     "geom:longitude":-78.988809,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -48,7 +54,7 @@
     "wof:geomhash":"2339b9ebde65d289ad5e7cfe0c529641",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":287038079,
-    "wof:lastmodified":1466643767,
+    "wof:lastmodified":1491926815,
     "wof:name":"Gnome Nest Nursery",
     "wof:parent_id":85877177,
     "wof:placetype":"venue",

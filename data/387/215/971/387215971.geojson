@@ -2,9 +2,14 @@
   "id": 387215971,
   "type": "Feature",
   "properties": {
+    "addr:full":"5304 Emerson Dr Raleigh NC 27609",
+    "addr:housenumber":"5304",
+    "addr:postcode":"27609",
+    "addr:street":"Emerson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.637369,35.84918,-78.637369,35.84918",
     "geom:latitude":35.84918,
     "geom:longitude":-78.637369,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8470386f9af034c390fe801001620113",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387215971,
-    "wof:lastmodified":1466652716,
+    "wof:lastmodified":1491898714,
     "wof:name":"Horner International Company",
     "wof:parent_id":85838291,
     "wof:placetype":"venue",

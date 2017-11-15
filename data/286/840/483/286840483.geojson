@@ -2,9 +2,14 @@
   "id": 286840483,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 Durham-Chapel Hill Blvd Durham NC 27707",
+    "addr:housenumber":"",
+    "addr:postcode":"5400;27707",
+    "addr:street":"Durham-Chapel Hill Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.995634,35.952383,-78.995634,35.952383",
     "geom:latitude":35.952383,
     "geom:longitude":-78.995634,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"14c60cb1ae58c0867713bb09aa9ae085",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286840483,
-    "wof:lastmodified":1466651012,
+    "wof:lastmodified":1491926813,
     "wof:name":"University Pre-Owned Superstor",
     "wof:parent_id":85877177,
     "wof:placetype":"venue",

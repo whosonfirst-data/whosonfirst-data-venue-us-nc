@@ -2,9 +2,14 @@
   "id": 404171413,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 Lamond Ave Durham NC 27701",
+    "addr:housenumber":"1005",
+    "addr:postcode":"27701",
+    "addr:street":"Lamond Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.91112,36.002206,-78.91112,36.002206",
     "geom:latitude":36.002206,
     "geom:longitude":-78.91112,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"5f939b05bb555bae2dd550d9ccc9bae6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":404171413,
-    "wof:lastmodified":1466653460,
+    "wof:lastmodified":1491906390,
     "wof:name":"Catalyst Bioscience Inc",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320318795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Rowemont Dr Durham NC 27705",
+    "addr:housenumber":"1401",
+    "addr:postcode":"27705",
+    "addr:street":"Rowemont Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.918877,36.044646,-78.918877,36.044646",
     "geom:latitude":36.044646,
     "geom:longitude":-78.918877,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"cbe32f2b223c66cd84bb83d3da24fa7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320318795,
-    "wof:lastmodified":1466649746,
+    "wof:lastmodified":1491913499,
     "wof:name":"G P S Professional Health",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

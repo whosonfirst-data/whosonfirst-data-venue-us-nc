@@ -2,9 +2,14 @@
   "id": 337592321,
   "type": "Feature",
   "properties": {
+    "addr:full":"2108 Dartmouth Dr Durham NC 27705",
+    "addr:housenumber":"2108",
+    "addr:postcode":"27705",
+    "addr:street":"Dartmouth Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.933938,36.034576,-78.933938,36.034576",
     "geom:latitude":36.034576,
     "geom:longitude":-78.933938,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"64bb9302e4ed06a2507fdd22231c296b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337592321,
-    "wof:lastmodified":1466647835,
+    "wof:lastmodified":1491913504,
     "wof:name":"Rodney Aulbert Builder",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

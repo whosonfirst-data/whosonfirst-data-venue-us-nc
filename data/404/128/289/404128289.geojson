@@ -2,9 +2,14 @@
   "id": 404128289,
   "type": "Feature",
   "properties": {
+    "addr:full":"8001 Waterford Lakes Dr Charlotte NC 28210",
+    "addr:housenumber":"8001",
+    "addr:postcode":"28210",
+    "addr:street":"Waterford Lakes Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.875703,35.125572,-80.875703,35.125572",
     "geom:latitude":35.125572,
     "geom:longitude":-80.875703,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a1bc2f0c0c3d41a284e39ce0385654de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":404128289,
-    "wof:lastmodified":1466652909,
+    "wof:lastmodified":1491926255,
     "wof:name":"Blackstone Group",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

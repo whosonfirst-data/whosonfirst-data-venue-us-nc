@@ -2,9 +2,14 @@
   "id": 286664519,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 S Duke St Durham NC 27701",
+    "addr:housenumber":"112",
+    "addr:postcode":"27701",
+    "addr:street":"S Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.908773,35.998611,-78.908773,35.998611",
     "geom:latitude":35.998611,
     "geom:longitude":-78.908773,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"9df5d1e80ff46bffa69e028a8a126583",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":286664519,
-    "wof:lastmodified":1466648625,
+    "wof:lastmodified":1491906390,
     "wof:name":"Fowler's Fine Food & Wine Str",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

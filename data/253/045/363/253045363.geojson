@@ -2,9 +2,14 @@
   "id": 253045363,
   "type": "Feature",
   "properties": {
+    "addr:full":"2818 Olde Whitehall Rd Charlotte NC 28273",
+    "addr:housenumber":"2818",
+    "addr:postcode":"28273",
+    "addr:street":"Olde Whitehall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.929842,35.155461,-80.929842,35.155461",
     "geom:latitude":35.155461,
     "geom:longitude":-80.929842,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4a9d2255e64269a08ba51110e6a90373",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":253045363,
-    "wof:lastmodified":1466643583,
+    "wof:lastmodified":1491914694,
     "wof:name":"J&J Holdings of Carolinas LLC",
     "wof:parent_id":85839499,
     "wof:placetype":"venue",

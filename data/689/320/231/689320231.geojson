@@ -2,9 +2,14 @@
   "id": 689320231,
   "type": "Feature",
   "properties": {
+    "addr:full":"1305 Ashley Creek Dr Matthews NC 28105",
+    "addr:housenumber":"1305",
+    "addr:postcode":"28105",
+    "addr:street":"Ashley Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.720593,35.099827,-80.720593,35.099827",
     "geom:latitude":35.099827,
     "geom:longitude":-80.720593,
@@ -33,8 +38,8 @@
         85633793,
         85981339,
         102080981,
-        85850301,
-        85811531
+        85811531,
+        85850301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +54,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
-            "neighbourhood_id":85850301,
+            "neighbourhood_id":85811531,
             "region_id":85688773,
             "venue_id":689320231
         },
@@ -58,15 +63,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
-            "neighbourhood_id":85811531,
+            "neighbourhood_id":85850301,
             "region_id":85688773,
             "venue_id":689320231
         }
     ],
     "wof:id":689320231,
-    "wof:lastmodified":1466659369,
+    "wof:lastmodified":1491934554,
     "wof:name":"Oak Hill Robinson Choir",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

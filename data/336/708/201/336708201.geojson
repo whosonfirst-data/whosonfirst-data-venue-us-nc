@@ -2,9 +2,14 @@
   "id": 336708201,
   "type": "Feature",
   "properties": {
+    "addr:full":"5204 Country Trl Raleigh NC 27613",
+    "addr:housenumber":"5204",
+    "addr:postcode":"27613",
+    "addr:street":"Country Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.722712,35.887002,-78.722712,35.887002",
     "geom:latitude":35.887002,
     "geom:longitude":-78.722712,
@@ -27,31 +32,16 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        102087821,
-        85892129
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79MhlYDaN7K8X3fe0HDA4n_35.887002_-78.722712@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"8a24c900ccd2e38de65d1d4b8face91e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":-1,
-            "neighbourhood_id":85892129,
-            "region_id":85688773,
-            "venue_id":336708201
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":336708201,
-    "wof:lastmodified":1466647476,
+    "wof:lastmodified":1491938222,
     "wof:name":"Mediaporte Inc",
     "wof:parent_id":85892129,
     "wof:placetype":"venue",

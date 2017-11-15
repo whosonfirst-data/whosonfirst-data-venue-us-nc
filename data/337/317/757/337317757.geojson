@@ -2,9 +2,14 @@
   "id": 337317757,
   "type": "Feature",
   "properties": {
+    "addr:full":"8625 Winter Oaks Ln Charlotte NC 28210",
+    "addr:housenumber":"8625",
+    "addr:postcode":"28210",
+    "addr:street":"Winter Oaks Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.876545,35.118881,-80.876545,35.118881",
     "geom:latitude":35.118881,
     "geom:longitude":-80.876545,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3725c6d9fee461f4c4f9d0952041324c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":337317757,
-    "wof:lastmodified":1466646318,
+    "wof:lastmodified":1491926253,
     "wof:name":"Winterwood At Sharon Apts",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

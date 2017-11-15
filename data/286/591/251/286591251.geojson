@@ -2,9 +2,14 @@
   "id": 286591251,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Maywood Ave Raleigh NC 27603",
+    "addr:housenumber":"305",
+    "addr:postcode":"27603",
+    "addr:street":"Maywood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.651576,35.760726,-78.651576,35.760726",
     "geom:latitude":35.760726,
     "geom:longitude":-78.651576,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -43,7 +49,7 @@
     "wof:geomhash":"5be68e2007ff41b747529c757abeb8b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286591251,
-    "wof:lastmodified":1466647607,
+    "wof:lastmodified":1491902262,
     "wof:name":"A Auto-Unlock 25",
     "wof:parent_id":85854379,
     "wof:placetype":"venue",

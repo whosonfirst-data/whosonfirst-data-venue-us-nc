@@ -2,9 +2,14 @@
   "id": 387463181,
   "type": "Feature",
   "properties": {
+    "addr:full":"921 Ruby St Durham NC 27704",
+    "addr:housenumber":"921",
+    "addr:postcode":"27704",
+    "addr:street":"Ruby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.907355,36.022855,-78.907355,36.022855",
     "geom:latitude":36.022855,
     "geom:longitude":-78.907355,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ea689208628ebe4d0fcaac51285183d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387463181,
-    "wof:lastmodified":1466655887,
+    "wof:lastmodified":1491930900,
     "wof:name":"C N I 57",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

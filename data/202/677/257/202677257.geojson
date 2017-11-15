@@ -2,9 +2,14 @@
   "id": 202677257,
   "type": "Feature",
   "properties": {
+    "addr:full":"7123 Beverly Springs Dr Charlotte NC 28270",
+    "addr:housenumber":"7123",
+    "addr:postcode":"28270",
+    "addr:street":"Beverly Springs Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.771317,35.110904,-80.771317,35.110904",
     "geom:latitude":35.110904,
     "geom:longitude":-80.771317,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"6439d35373712c7dbe3a72130c0fb5a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202677257,
-    "wof:lastmodified":1466643252,
+    "wof:lastmodified":1491907438,
     "wof:name":"Happy Days Pet & Errand Svc",
     "wof:parent_id":85847167,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 235943795,
   "type": "Feature",
   "properties": {
+    "addr:full":"2530 Plantation Center Dr Matthews NC 28105",
+    "addr:housenumber":"2530",
+    "addr:postcode":"28105",
+    "addr:street":"Plantation Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.732607,35.085763,-80.732607,35.085763",
     "geom:latitude":35.085763,
     "geom:longitude":-80.732607,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -51,7 +57,7 @@
     "wof:geomhash":"4ccdd4d9742d273e0a46a8e75a5097a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -60,7 +66,7 @@
             "venue_id":235943795
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -70,9 +76,9 @@
         }
     ],
     "wof:id":235943795,
-    "wof:lastmodified":1466643316,
+    "wof:lastmodified":1491934559,
     "wof:name":"Kaleida Systems Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

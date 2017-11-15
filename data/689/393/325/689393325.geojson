@@ -2,9 +2,14 @@
   "id": 689393325,
   "type": "Feature",
   "properties": {
+    "addr:full":"7300 Glenwood Ave Raleigh NC 27612",
+    "addr:housenumber":"7300",
+    "addr:postcode":"27612",
+    "addr:street":"Glenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.713428,35.863642,-78.713428,35.863642",
     "geom:latitude":35.863642,
     "geom:longitude":-78.713428,
@@ -23,14 +28,7 @@
         "marketer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        102191575,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nlNThnEUmuj474f0H7CqO_35.863642_-78.713428@1294165850"
@@ -38,19 +36,9 @@
     "wof:country":"US",
     "wof:created":1461749357,
     "wof:geomhash":"35dea353b585ecbec5895ca52d010878",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":689393325
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689393325,
-    "wof:lastmodified":1466661212,
+    "wof:lastmodified":1491889951,
     "wof:name":"North Carolina Petroleum Mrktr",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

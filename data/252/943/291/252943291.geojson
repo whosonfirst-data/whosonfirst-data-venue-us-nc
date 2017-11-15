@@ -2,9 +2,14 @@
   "id": 252943291,
   "type": "Feature",
   "properties": {
+    "addr:full":"1107 Fuller St Raleigh NC 27603",
+    "addr:housenumber":"1107",
+    "addr:postcode":"27603",
+    "addr:street":"Fuller St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.650443,35.764657,-78.650443,35.764657",
     "geom:latitude":35.764657,
     "geom:longitude":-78.650443,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -44,7 +50,7 @@
     "wof:geomhash":"d3179db3a133d5ab5c8509d887261060",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":252943291,
-    "wof:lastmodified":1466645350,
+    "wof:lastmodified":1491902263,
     "wof:name":"Sub-Surface Construction Co",
     "wof:parent_id":85854379,
     "wof:placetype":"venue",

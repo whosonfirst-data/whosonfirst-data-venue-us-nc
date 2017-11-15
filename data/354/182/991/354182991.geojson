@@ -2,9 +2,14 @@
   "id": 354182991,
   "type": "Feature",
   "properties": {
+    "addr:full":"1919 W Club Blvd Durham NC 27705",
+    "addr:housenumber":"1919",
+    "addr:postcode":"27705",
+    "addr:street":"W Club Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.922224,36.017218,-78.922224,36.017218",
     "geom:latitude":36.017218,
     "geom:longitude":-78.922224,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"baeed5333085e38efd4ea7a23dc5a22e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354182991,
-    "wof:lastmodified":1466649684,
+    "wof:lastmodified":1491930895,
     "wof:name":"STS",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

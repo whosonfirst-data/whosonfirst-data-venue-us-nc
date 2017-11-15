@@ -2,9 +2,14 @@
   "id": 387628031,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Hamlin Rd Durham NC 27704",
+    "addr:housenumber":"1800",
+    "addr:postcode":"27704",
+    "addr:street":"Hamlin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.835482,36.06623,-78.835482,36.06623",
     "geom:latitude":36.06623,
     "geom:longitude":-78.835482,
@@ -25,8 +30,12 @@
     "sg:province":"NC",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688773,
         85633793,
-        85688773
+        85980565,
+        102080909,
+        85877167,
+        85807037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,18 +45,26 @@
     "wof:geomhash":"f2c6a20f562d65f5b3242bf3d052cf39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85877167,
+            "region_id":85688773,
+            "venue_id":387628031
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85807037,
             "region_id":85688773,
             "venue_id":387628031
         }
     ],
     "wof:id":387628031,
-    "wof:lastmodified":1466657169,
+    "wof:lastmodified":1491927366,
     "wof:name":"B & B Top Soil Mine",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

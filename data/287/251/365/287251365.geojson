@@ -2,9 +2,14 @@
   "id": 287251365,
   "type": "Feature",
   "properties": {
+    "addr:full":"4729 Stockholm Ct Charlotte NC 28273",
+    "addr:housenumber":"4729",
+    "addr:postcode":"28273",
+    "addr:street":"Stockholm Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.882314,35.128275,-80.882314,35.128275",
     "geom:latitude":35.128275,
     "geom:longitude":-80.882314,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"47a7fafae53fe6e1d47c53a0fb3d2963",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287251365,
-    "wof:lastmodified":1466646804,
+    "wof:lastmodified":1491926247,
     "wof:name":"Vooner Vacuum Pumps Inc",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

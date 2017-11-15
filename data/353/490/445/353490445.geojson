@@ -2,9 +2,14 @@
   "id": 353490445,
   "type": "Feature",
   "properties": {
+    "addr:full":"11912 Royal Lytham Ct Charlotte NC 28277",
+    "addr:housenumber":"11912",
+    "addr:postcode":"28277",
+    "addr:street":"Royal Lytham Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.773266,35.043969,-80.773266,35.043969",
     "geom:latitude":35.043969,
     "geom:longitude":-80.773266,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"1e0965addb6f5fc214d318c2d2565b04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353490445,
-    "wof:lastmodified":1466648044,
+    "wof:lastmodified":1491897244,
     "wof:name":"Ann Cline's Paintings",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

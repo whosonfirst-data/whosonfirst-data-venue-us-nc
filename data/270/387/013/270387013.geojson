@@ -2,9 +2,14 @@
   "id": 270387013,
   "type": "Feature",
   "properties": {
+    "addr:full":"4408 Hulon Dr Durham NC 27705",
+    "addr:housenumber":"4408",
+    "addr:postcode":"27705",
+    "addr:street":"Hulon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.989578,35.966606,-78.989578,35.966606",
     "geom:latitude":35.966606,
     "geom:longitude":-78.989578,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"9944f764d8ee54570933d81554cb7a05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":270387013,
-    "wof:lastmodified":1466647973,
+    "wof:lastmodified":1491926810,
     "wof:name":"Joe Heitman",
     "wof:parent_id":85877177,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236775369,
   "type": "Feature",
   "properties": {
+    "addr:full":"227 Country Club Dr Durham NC 27712",
+    "addr:housenumber":"227",
+    "addr:postcode":"27712",
+    "addr:street":"Country Club Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.969763,36.073889,-78.969763,36.073889",
     "geom:latitude":36.073889,
     "geom:longitude":-78.969763,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"9d8bbc9cf4eaa7a0a518f2596b63aaff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":236775369
         }
     ],
     "wof:id":236775369,
-    "wof:lastmodified":1466650196,
+    "wof:lastmodified":1491905448,
     "wof:name":"Charles D Browning Inc",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

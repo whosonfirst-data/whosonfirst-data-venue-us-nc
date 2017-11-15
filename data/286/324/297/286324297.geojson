@@ -2,9 +2,14 @@
   "id": 286324297,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 E Millbrook Rd Raleigh NC 27609",
+    "addr:housenumber":"308",
+    "addr:postcode":"27609",
+    "addr:street":"E Millbrook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.637706,35.854997,-78.637706,35.854997",
     "geom:latitude":35.854997,
     "geom:longitude":-78.637706,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
-        102087821
+        102087821,
+        420533637,
+        85838291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"a63a5148440473929a52d008c6bfe223",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420533637,
+            "region_id":85688773,
+            "venue_id":286324297
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":85838291,
             "region_id":85688773,
             "venue_id":286324297
         }
     ],
     "wof:id":286324297,
-    "wof:lastmodified":1466644048,
+    "wof:lastmodified":1491898720,
     "wof:name":"Countrywide Funding",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

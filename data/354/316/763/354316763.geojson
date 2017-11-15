@@ -2,9 +2,14 @@
   "id": 354316763,
   "type": "Feature",
   "properties": {
+    "addr:full":"1006 Leon St Durham NC 27704",
+    "addr:housenumber":"1006",
+    "addr:postcode":"27704",
+    "addr:street":"Leon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.909746,36.02559,-78.909746,36.02559",
     "geom:latitude":36.02559,
     "geom:longitude":-78.909746,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -45,7 +51,7 @@
     "wof:geomhash":"1d7d71556f2d86b0d909728cd4349a79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":354316763,
-    "wof:lastmodified":1466651217,
+    "wof:lastmodified":1491930897,
     "wof:name":"Asbes-TEC Inc",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

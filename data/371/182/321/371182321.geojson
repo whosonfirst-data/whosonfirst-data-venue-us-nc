@@ -2,9 +2,14 @@
   "id": 371182321,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Yorkfield Ct Durham NC 27713",
+    "addr:housenumber":"29",
+    "addr:postcode":"27713",
+    "addr:street":"Yorkfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.895326,35.937301,-78.895326,35.937301",
     "geom:latitude":35.937301,
     "geom:longitude":-78.895326,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"560c1ad759e4363cb322306a8892ca19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":371182321,
-    "wof:lastmodified":1466651133,
+    "wof:lastmodified":1491916642,
     "wof:name":"Orelia Education Group Inc",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

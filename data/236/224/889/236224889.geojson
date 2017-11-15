@@ -2,9 +2,14 @@
   "id": 236224889,
   "type": "Feature",
   "properties": {
+    "addr:full":"318 Continental Dr Durham NC 27712",
+    "addr:housenumber":"318",
+    "addr:postcode":"27712",
+    "addr:street":"Continental Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.96481,36.071338,-78.96481,36.071338",
     "geom:latitude":36.071338,
     "geom:longitude":-78.96481,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"ec903cd2691787f6789713a529153517",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":236224889
         }
     ],
     "wof:id":236224889,
-    "wof:lastmodified":1466645231,
+    "wof:lastmodified":1491905445,
     "wof:name":"Vaughan Construction",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

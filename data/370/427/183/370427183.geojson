@@ -2,9 +2,14 @@
   "id": 370427183,
   "type": "Feature",
   "properties": {
+    "addr:full":"1802 Haverford St Durham NC 27705",
+    "addr:housenumber":"1802",
+    "addr:postcode":"27705",
+    "addr:street":"Haverford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.913775,36.024625,-78.913775,36.024625",
     "geom:latitude":36.024625,
     "geom:longitude":-78.913775,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c633a7b9b14d4f8e66d962e6077c58d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370427183,
-    "wof:lastmodified":1466651632,
+    "wof:lastmodified":1491930905,
     "wof:name":"Carpenter Brothers",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

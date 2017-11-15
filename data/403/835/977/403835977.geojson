@@ -2,9 +2,14 @@
   "id": 403835977,
   "type": "Feature",
   "properties": {
+    "addr:full":"3012 Mannington Dr Charlotte NC 28270",
+    "addr:housenumber":"3012",
+    "addr:postcode":"28270",
+    "addr:street":"Mannington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.734174,35.078547,-80.734174,35.078547",
     "geom:latitude":35.078547,
     "geom:longitude":-80.734174,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -41,7 +47,7 @@
     "wof:geomhash":"0e75ade3bb50b58f082fd7ba78b79aaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -50,7 +56,7 @@
             "venue_id":403835977
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -60,9 +66,9 @@
         }
     ],
     "wof:id":403835977,
-    "wof:lastmodified":1466652080,
+    "wof:lastmodified":1491934552,
     "wof:name":"Quilting Keepsakes",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

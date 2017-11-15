@@ -2,9 +2,14 @@
   "id": 319932689,
   "type": "Feature",
   "properties": {
+    "addr:full":"968 Bromley Rd Charlotte NC 28207",
+    "addr:housenumber":"968",
+    "addr:postcode":"28207",
+    "addr:street":"Bromley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.83273,35.204665,-80.83273,35.204665",
     "geom:latitude":35.204665,
     "geom:longitude":-80.83273,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"5f05774f393345fdef0e2adbf8db320c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":319932689,
-    "wof:lastmodified":1466646511,
+    "wof:lastmodified":1491926316,
     "wof:name":"Family Firm Resources",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

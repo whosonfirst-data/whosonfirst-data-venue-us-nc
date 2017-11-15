@@ -2,9 +2,14 @@
   "id": 303934651,
   "type": "Feature",
   "properties": {
+    "addr:full":"2002 Dartmouth Dr Durham NC 27705",
+    "addr:housenumber":"2002",
+    "addr:postcode":"27705",
+    "addr:street":"Dartmouth Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.933874,36.03614,-78.933874,36.03614",
     "geom:latitude":36.03614,
     "geom:longitude":-78.933874,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"26f152e857b02327b36d965a04fd5a1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303934651,
-    "wof:lastmodified":1466656493,
+    "wof:lastmodified":1491913500,
     "wof:name":"Montgomery Builders Inc",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

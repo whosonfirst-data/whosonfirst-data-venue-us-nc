@@ -2,9 +2,14 @@
   "id": 186505817,
   "type": "Feature",
   "properties": {
+    "addr:full":"6416 Rea Rd Charlotte NC 28277",
+    "addr:housenumber":"6416",
+    "addr:postcode":"28277",
+    "addr:street":"Rea Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.816647,35.079089,-80.816647,35.079089",
     "geom:latitude":35.079089,
     "geom:longitude":-80.816647,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"7b58204fb06eb7fe0b9626d467d08495",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":186505817,
-    "wof:lastmodified":1466654411,
+    "wof:lastmodified":1491936692,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85882287,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370382885,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Brookside Pl Durham NC 27705",
+    "addr:housenumber":"21",
+    "addr:postcode":"27705",
+    "addr:street":"Brookside Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.950881,36.040341,-78.950881,36.040341",
     "geom:latitude":36.040341,
     "geom:longitude":-78.950881,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"cafe7828a036a38c12a792d1ca8d08f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370382885,
-    "wof:lastmodified":1466651043,
+    "wof:lastmodified":1491913502,
     "wof:name":"Hewitt Management Services",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

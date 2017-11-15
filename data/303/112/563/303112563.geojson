@@ -2,9 +2,14 @@
   "id": 303112563,
   "type": "Feature",
   "properties": {
+    "addr:full":"2206 Wilshire Dr Durham NC 27707",
+    "addr:housenumber":"2206",
+    "addr:postcode":"27707",
+    "addr:street":"Wilshire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.914267,35.973909,-78.914267,35.973909",
     "geom:latitude":35.973909,
     "geom:longitude":-78.914267,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"9dc0cc835d2ce17c81576767e5605ff0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303112563,
-    "wof:lastmodified":1466644890,
+    "wof:lastmodified":1491924329,
     "wof:name":"Grinning Beagle Production",
     "wof:parent_id":85877175,
     "wof:placetype":"venue",

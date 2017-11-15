@@ -2,9 +2,14 @@
   "id": 370462917,
   "type": "Feature",
   "properties": {
+    "addr:full":"11524 Wilmar Blvd Charlotte NC 28273",
+    "addr:housenumber":"11524",
+    "addr:postcode":"28273",
+    "addr:street":"Wilmar Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.933061,35.115697,-80.933061,35.115697",
     "geom:latitude":35.115697,
     "geom:longitude":-80.933061,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f480ac8aa499619d0eb983fc5f191c35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370462917,
-    "wof:lastmodified":1466652081,
+    "wof:lastmodified":1491912375,
     "wof:name":"Jacobsen Textron",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

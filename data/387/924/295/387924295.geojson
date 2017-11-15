@@ -2,9 +2,14 @@
   "id": 387924295,
   "type": "Feature",
   "properties": {
+    "addr:full":"5113 Masota Rd Raleigh NC 27612",
+    "addr:housenumber":"5113",
+    "addr:postcode":"27612",
+    "addr:street":"Masota Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.724531,35.856361,-78.724531,35.856361",
     "geom:latitude":35.856361,
     "geom:longitude":-78.724531,
@@ -29,32 +34,16 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23MLIBb74XzR2lihruLTsL_35.856361_-78.724531@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"1e38d5115435b0c52ae31d59fb8e142c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":387924295
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":387924295,
-    "wof:lastmodified":1466658002,
+    "wof:lastmodified":1491889956,
     "wof:name":"Thermotron Industries",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

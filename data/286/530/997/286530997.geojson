@@ -2,9 +2,14 @@
   "id": 286530997,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Continental Dr Durham NC 27712",
+    "addr:housenumber":"103",
+    "addr:postcode":"27712",
+    "addr:street":"Continental Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.962253,36.076142,-78.962253,36.076142",
     "geom:latitude":36.076142,
     "geom:longitude":-78.962253,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"0e3413012f29481c621ca1e9d1ca16ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":286530997
         }
     ],
     "wof:id":286530997,
-    "wof:lastmodified":1466646774,
+    "wof:lastmodified":1491905446,
     "wof:name":"Homecrafter Inc",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

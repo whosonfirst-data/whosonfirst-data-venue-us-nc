@@ -2,9 +2,14 @@
   "id": 353792065,
   "type": "Feature",
   "properties": {
+    "addr:full":"11728 Merriweather Dr Charlotte NC 28273",
+    "addr:housenumber":"11728",
+    "addr:postcode":"28273",
+    "addr:street":"Merriweather Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.958821,35.136613,-80.958821,35.136613",
     "geom:latitude":35.136613,
     "geom:longitude":-80.958821,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"e8031779777828348416ca79d043621b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353792065,
-    "wof:lastmodified":1466651678,
+    "wof:lastmodified":1491912377,
     "wof:name":"Cornwell & Sons",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

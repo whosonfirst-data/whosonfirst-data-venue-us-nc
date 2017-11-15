@@ -2,9 +2,14 @@
   "id": 269707791,
   "type": "Feature",
   "properties": {
+    "addr:full":"3407 Balfour W Durham NC 27713",
+    "addr:housenumber":"3407",
+    "addr:postcode":"27713",
+    "addr:street":"Balfour W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.897073,35.934123,-78.897073,35.934123",
     "geom:latitude":35.934123,
     "geom:longitude":-78.897073,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"6f29909ecba08393ed0be5fe08229464",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":269707791,
-    "wof:lastmodified":1466645876,
+    "wof:lastmodified":1491916642,
     "wof:name":"Comfort Zone Petsitting",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

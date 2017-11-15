@@ -2,9 +2,14 @@
   "id": 303606421,
   "type": "Feature",
   "properties": {
+    "addr:full":"9640 S Tryon St Charlotte NC 28273",
+    "addr:housenumber":"9640",
+    "addr:postcode":"28273",
+    "addr:street":"S Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.942065,35.129142,-80.942065,35.129142",
     "geom:latitude":35.129142,
     "geom:longitude":-80.942065,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8d9dd9af9a7405f4bc8563f64046fd97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303606421,
-    "wof:lastmodified":1466652044,
+    "wof:lastmodified":1491912361,
     "wof:name":"Manhattan Deli & Grille",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336955301,
   "type": "Feature",
   "properties": {
+    "addr:full":"706 Trent Dr Durham NC 27705",
+    "addr:housenumber":"706",
+    "addr:postcode":"27705",
+    "addr:street":"Trent Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.930131,36.011638,-78.930131,36.011638",
     "geom:latitude":36.011638,
     "geom:longitude":-78.930131,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -50,7 +56,7 @@
     "wof:geomhash":"bb79ae351d4a24daa2a75acf3e72abf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":336955301,
-    "wof:lastmodified":1466651248,
+    "wof:lastmodified":1491901822,
     "wof:name":"Southern Photo Print & Sup Co",
     "wof:parent_id":85877171,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286338819,
   "type": "Feature",
   "properties": {
+    "addr:full":"717 S Torrence St Charlotte NC 28204",
+    "addr:housenumber":"717",
+    "addr:postcode":"28204",
+    "addr:street":"S Torrence St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.835566,35.207961,-80.835566,35.207961",
     "geom:latitude":35.207961,
     "geom:longitude":-80.835566,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"6ed02d3216bc8c64a47facfddba29198",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286338819,
-    "wof:lastmodified":1466644240,
+    "wof:lastmodified":1491926312,
     "wof:name":"Russell J Angelo Aia",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

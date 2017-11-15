@@ -2,9 +2,14 @@
   "id": 370257173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 Sandlin Pl Raleigh NC 27606",
+    "addr:housenumber":"1010",
+    "addr:postcode":"27606",
+    "addr:street":"Sandlin Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.704045,35.783617,-78.704045,35.783617",
     "geom:latitude":35.783617,
     "geom:longitude":-78.704045,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -44,7 +50,7 @@
     "wof:geomhash":"bd714c0ecf2dac6c1019fa243c30a3d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":370257173,
-    "wof:lastmodified":1466649491,
+    "wof:lastmodified":1491893803,
     "wof:name":"Stanley Auto Brokerage",
     "wof:parent_id":85892127,
     "wof:placetype":"venue",

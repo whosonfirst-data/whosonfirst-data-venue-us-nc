@@ -2,9 +2,14 @@
   "id": 371074085,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 Thornfield Rd Charlotte NC 28217",
+    "addr:housenumber":"2124",
+    "addr:postcode":"28217",
+    "addr:street":"Thornfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.921543,35.151517,-80.921543,35.151517",
     "geom:latitude":35.151517,
     "geom:longitude":-80.921543,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9e0570a68b21ed86b06802c05a296ac8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":371074085,
-    "wof:lastmodified":1466649755,
+    "wof:lastmodified":1491933348,
     "wof:name":"Chosen Word Publishing",
     "wof:parent_id":85891897,
     "wof:placetype":"venue",

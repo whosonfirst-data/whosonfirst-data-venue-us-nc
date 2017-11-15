@@ -2,9 +2,14 @@
   "id": 404155711,
   "type": "Feature",
   "properties": {
+    "addr:full":"4900 Waterford Point Dr Raleigh NC 27612",
+    "addr:housenumber":"4900",
+    "addr:postcode":"27612",
+    "addr:street":"Waterford Point Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.715331,35.859494,-78.715331,35.859494",
     "geom:latitude":35.859494,
     "geom:longitude":-78.715331,
@@ -24,32 +29,16 @@
     "sg:postcode":"27612",
     "sg:province":"NC",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65UiZ2YxmQVYZU2zb2pbZF_35.859494_-78.715331@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"0976421b2ebfe6a278d2c5927a5748d8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":404155711
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":404155711,
-    "wof:lastmodified":1466653257,
+    "wof:lastmodified":1491889955,
     "wof:name":"Absolute Phytness LLC",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

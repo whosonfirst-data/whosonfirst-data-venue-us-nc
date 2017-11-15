@@ -2,9 +2,14 @@
   "id": 203143539,
   "type": "Feature",
   "properties": {
+    "addr:full":"9926 Woody Ridge Rd Charlotte NC 28273",
+    "addr:housenumber":"9926",
+    "addr:postcode":"28273",
+    "addr:street":"Woody Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.902294,35.124232,-80.902294,35.124232",
     "geom:latitude":35.124232,
     "geom:longitude":-80.902294,
@@ -31,10 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        420559111,
+        85882291,
+        85858217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,37 @@
     "wof:geomhash":"be511f088fa5421d8d3f47757bcd3066",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559111,
+            "region_id":85688773,
+            "venue_id":203143539
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":203143539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85858217,
+            "region_id":85688773,
+            "venue_id":203143539
         }
     ],
     "wof:id":203143539,
-    "wof:lastmodified":1466654991,
+    "wof:lastmodified":1491904060,
     "wof:name":"Sho Off Lawn Care",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

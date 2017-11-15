@@ -2,9 +2,14 @@
   "id": 236702429,
   "type": "Feature",
   "properties": {
+    "addr:full":"424 November Dr Durham NC 27712",
+    "addr:housenumber":"424",
+    "addr:postcode":"27712",
+    "addr:street":"November Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.962016,36.07124,-78.962016,36.07124",
     "geom:latitude":36.07124,
     "geom:longitude":-78.962016,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"c5bea11b240281897f0a825f561a3c1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":236702429
         }
     ],
     "wof:id":236702429,
-    "wof:lastmodified":1466649497,
+    "wof:lastmodified":1491905445,
     "wof:name":"Shaklee",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

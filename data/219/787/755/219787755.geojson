@@ -2,9 +2,14 @@
   "id": 219787755,
   "type": "Feature",
   "properties": {
+    "addr:full":"233 Country Club Dr Durham NC 27712",
+    "addr:housenumber":"233",
+    "addr:postcode":"27712",
+    "addr:street":"Country Club Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.969547,36.073801,-78.969547,36.073801",
     "geom:latitude":36.073801,
     "geom:longitude":-78.969547,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"a78ac41e3d7ab119048c4994e626db90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":219787755
         }
     ],
     "wof:id":219787755,
-    "wof:lastmodified":1466647083,
+    "wof:lastmodified":1491905447,
     "wof:name":"Computer Moms",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

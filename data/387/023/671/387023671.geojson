@@ -2,9 +2,14 @@
   "id": 387023671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1608 Nightshade Pl Matthews NC 28105",
+    "addr:housenumber":"1608",
+    "addr:postcode":"28105",
+    "addr:street":"Nightshade Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.728386,35.095714,-80.728386,35.095714",
     "geom:latitude":35.095714,
     "geom:longitude":-80.728386,
@@ -30,11 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
-        85850301,
-        85811531
+        85811531,
+        85850301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +50,28 @@
     "wof:geomhash":"4ac9917e8fe8b325984fe7630575b59e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981339,
-            "neighbourhood_id":85850301,
-            "region_id":85688773,
-            "venue_id":387023671
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
             "neighbourhood_id":85811531,
             "region_id":85688773,
             "venue_id":387023671
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981339,
+            "neighbourhood_id":85850301,
+            "region_id":85688773,
+            "venue_id":387023671
         }
     ],
     "wof:id":387023671,
-    "wof:lastmodified":1466650179,
+    "wof:lastmodified":1491934565,
     "wof:name":"Oracle",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 219610781,
   "type": "Feature",
   "properties": {
+    "addr:full":"2713 Carriage Crossing Dr Matthews NC 28105",
+    "addr:housenumber":"2713",
+    "addr:postcode":"28105",
+    "addr:street":"Carriage Crossing Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.717656,35.089856,-80.717656,35.089856",
     "geom:latitude":35.089856,
     "geom:longitude":-80.717656,
@@ -30,11 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
-        85850301,
-        85811531
+        85811531,
+        85850301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +50,28 @@
     "wof:geomhash":"770b4454a0fd70c2fc67ab4e3bdceb93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981339,
-            "neighbourhood_id":85850301,
-            "region_id":85688773,
-            "venue_id":219610781
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
             "neighbourhood_id":85811531,
             "region_id":85688773,
             "venue_id":219610781
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981339,
+            "neighbourhood_id":85850301,
+            "region_id":85688773,
+            "venue_id":219610781
         }
     ],
     "wof:id":219610781,
-    "wof:lastmodified":1466645660,
+    "wof:lastmodified":1491934547,
     "wof:name":"Cruise One Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370333961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1905 Abbott St Charlotte NC 28203",
+    "addr:housenumber":"1905",
+    "addr:postcode":"28203",
+    "addr:street":"Abbott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.863294,35.211857,-80.863294,35.211857",
     "geom:latitude":35.211857,
     "geom:longitude":-80.863294,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6be236a0774f59dd2950f28a32c03fe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370333961,
-    "wof:lastmodified":1466650435,
+    "wof:lastmodified":1491909071,
     "wof:name":"David M Sidbury Inc",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

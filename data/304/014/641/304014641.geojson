@@ -2,14 +2,20 @@
   "id": 304014641,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Baxter St Charlotte NC 28204",
+    "addr:housenumber":"1300",
+    "addr:postcode":"28204",
+    "addr:street":"Baxter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.834141,35.210457,-80.834141,35.210457",
     "geom:latitude":35.210457,
     "geom:longitude":-80.834141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 Baxter St",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
         85810633
     ],
+    "wof:brand_id":1125154277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ywfrLlNiXGIfn8tujw0BJ_35.210457_-80.834141@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d12b88a1cfa6fc1f15a2d3466f3aae5",
+    "wof:geomhash":"79095c284c5ceca8b5078b6ed0bd3f45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":304014641,
-    "wof:lastmodified":1466644373,
+    "wof:lastmodified":1510695876,
     "wof:name":"Area Agency On Aging",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

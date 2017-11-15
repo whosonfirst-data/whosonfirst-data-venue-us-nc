@@ -2,9 +2,14 @@
   "id": 320187719,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Scarborough Ln Matthews NC 28105",
+    "addr:housenumber":"401",
+    "addr:postcode":"28105",
+    "addr:street":"Scarborough Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.734811,35.123405,-80.734811,35.123405",
     "geom:latitude":35.123405,
     "geom:longitude":-80.734811,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a990d45464d2b38b642f66407d11224c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320187719,
-    "wof:lastmodified":1466647921,
+    "wof:lastmodified":1491899980,
     "wof:name":"Gobble Lowry Associates Inc",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

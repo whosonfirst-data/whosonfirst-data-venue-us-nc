@@ -2,9 +2,14 @@
   "id": 236462217,
   "type": "Feature",
   "properties": {
+    "addr:full":"4020 Westchase Blvd Raleigh NC 27607",
+    "addr:housenumber":"4020",
+    "addr:postcode":"27607",
+    "addr:street":"Westchase Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.709264,35.802138,-78.709264,35.802138",
     "geom:latitude":35.802138,
     "geom:longitude":-78.709264,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -45,7 +51,7 @@
     "wof:geomhash":"2777f00d717452a7bd5dde15e4c3fe9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":236462217,
-    "wof:lastmodified":1466647262,
+    "wof:lastmodified":1491924138,
     "wof:name":"Medaphis Physician Services",
     "wof:parent_id":85892137,
     "wof:placetype":"venue",

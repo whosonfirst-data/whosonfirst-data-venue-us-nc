@@ -2,9 +2,14 @@
   "id": 236850715,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 E 36th St Charlotte NC 28205",
+    "addr:housenumber":"407",
+    "addr:postcode":"28205",
+    "addr:street":"E 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.804981,35.248274,-80.804981,35.248274",
     "geom:latitude":35.248274,
     "geom:longitude":-80.804981,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d79d9839878addc94650ce8a8a92373e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236850715,
-    "wof:lastmodified":1466650839,
+    "wof:lastmodified":1491906669,
     "wof:name":"B & M Financial Group",
     "wof:parent_id":85837459,
     "wof:placetype":"venue",

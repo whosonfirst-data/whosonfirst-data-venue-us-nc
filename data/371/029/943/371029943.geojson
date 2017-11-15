@@ -2,9 +2,14 @@
   "id": 371029943,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Glenwood Ave Raleigh NC 27603",
+    "addr:housenumber":"17",
+    "addr:postcode":"27603",
+    "addr:street":"Glenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.647595,35.781724,-78.647595,35.781724",
     "geom:latitude":35.781724,
     "geom:longitude":-78.647595,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ab4764872a9c6ba81436bdee42956c1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":371029943,
-    "wof:lastmodified":1466649210,
+    "wof:lastmodified":1491913528,
     "wof:name":"Commercial Banking Consultants",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

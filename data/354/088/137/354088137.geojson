@@ -2,9 +2,14 @@
   "id": 354088137,
   "type": "Feature",
   "properties": {
+    "addr:full":"2422 Celosia Dr Charlotte NC 28262",
+    "addr:housenumber":"2422",
+    "addr:postcode":"28262",
+    "addr:street":"Celosia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.710874,35.320207,-80.710874,35.320207",
     "geom:latitude":35.320207,
     "geom:longitude":-80.710874,
@@ -29,10 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85816993,
         85871243
     ],
     "wof:breaches":[],
@@ -43,16 +48,7 @@
     "wof:geomhash":"aac712e1cff8ea2c0d11a4e53c1d1599",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "neighbourhood_id":85816993,
-            "region_id":85688773,
-            "venue_id":354088137
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -62,9 +58,9 @@
         }
     ],
     "wof:id":354088137,
-    "wof:lastmodified":1466648589,
+    "wof:lastmodified":1491911023,
     "wof:name":"Neals Wheels Equipment Rentals",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

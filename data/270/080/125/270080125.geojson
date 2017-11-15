@@ -2,9 +2,14 @@
   "id": 270080125,
   "type": "Feature",
   "properties": {
+    "addr:full":"5655 N Tryon St Charlotte NC 28213",
+    "addr:housenumber":"5655",
+    "addr:postcode":"28213",
+    "addr:street":"N Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.773819,35.261813,-80.773819,35.261813",
     "geom:latitude":35.261813,
     "geom:longitude":-80.773819,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"fc615c6307c06b3d6f84cd53b3d77d4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270080125,
-    "wof:lastmodified":1466644141,
+    "wof:lastmodified":1491921962,
     "wof:name":"Zeb Best Laundry",
     "wof:parent_id":85818497,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 270117235,
   "type": "Feature",
   "properties": {
+    "addr:full":"426 Anderson St Durham NC 27705",
+    "addr:housenumber":"426",
+    "addr:postcode":"27705",
+    "addr:street":"Anderson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.930168,36.002328,-78.930168,36.002328",
     "geom:latitude":36.002328,
     "geom:longitude":-78.930168,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d7bed616eb1973402758d0374bfe4833",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270117235,
-    "wof:lastmodified":1466644560,
+    "wof:lastmodified":1491901823,
     "wof:name":"Terrace Cafe",
     "wof:parent_id":85877171,
     "wof:placetype":"venue",

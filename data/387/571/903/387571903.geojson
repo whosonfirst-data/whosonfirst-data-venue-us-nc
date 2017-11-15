@@ -2,9 +2,14 @@
   "id": 387571903,
   "type": "Feature",
   "properties": {
+    "addr:full":"7407 Shiras Ct Charlotte NC 28273",
+    "addr:housenumber":"7407",
+    "addr:postcode":"28273",
+    "addr:street":"Shiras Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.925676,35.152442,-80.925676,35.152442",
     "geom:latitude":35.152442,
     "geom:longitude":-80.925676,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"bb5d20a428250dd3039cee223f96a970",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387571903,
-    "wof:lastmodified":1466656512,
+    "wof:lastmodified":1491914698,
     "wof:name":"Kidspiration",
     "wof:parent_id":85839499,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354418661,
   "type": "Feature",
   "properties": {
+    "addr:full":"11100 Monroe Rd Matthews NC 28105",
+    "addr:housenumber":"11100",
+    "addr:postcode":"28105",
+    "addr:street":"Monroe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.729644,35.124921,-80.729644,35.124921",
     "geom:latitude":35.124921,
     "geom:longitude":-80.729644,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a1f5661570c781f0fbcc94fcaf906e1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":354418661,
-    "wof:lastmodified":1466652378,
+    "wof:lastmodified":1491899958,
     "wof:name":"Quick Print",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

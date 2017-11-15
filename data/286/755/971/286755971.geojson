@@ -2,9 +2,14 @@
   "id": 286755971,
   "type": "Feature",
   "properties": {
+    "addr:full":"1317 Country Club Dr Durham NC 27712",
+    "addr:housenumber":"1317",
+    "addr:postcode":"27712",
+    "addr:street":"Country Club Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.974537,36.075421,-78.974537,36.075421",
     "geom:latitude":36.075421,
     "geom:longitude":-78.974537,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"17d60ca7bc15c3c1cb3257d7ab111cac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":286755971
         }
     ],
     "wof:id":286755971,
-    "wof:lastmodified":1466649853,
+    "wof:lastmodified":1491905446,
     "wof:name":"Rantos Maintenance Svc",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

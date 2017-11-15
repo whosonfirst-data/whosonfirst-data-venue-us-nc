@@ -2,9 +2,14 @@
   "id": 287271753,
   "type": "Feature",
   "properties": {
+    "addr:full":"2639 Umstead Rd Durham NC 27712",
+    "addr:housenumber":"2639",
+    "addr:postcode":"27712",
+    "addr:street":"Umstead Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.967174,36.075693,-78.967174,36.075693",
     "geom:latitude":36.075693,
     "geom:longitude":-78.967174,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"69dfc0bd23e896d28b03d0ce2a8fd0e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":287271753
         }
     ],
     "wof:id":287271753,
-    "wof:lastmodified":1466647082,
+    "wof:lastmodified":1491905448,
     "wof:name":"Richardson & Assoc Consulting",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

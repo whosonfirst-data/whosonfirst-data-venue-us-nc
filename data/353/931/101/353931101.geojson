@@ -2,9 +2,14 @@
   "id": 353931101,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 E Cornwallis Rd Durham NC 27713",
+    "addr:housenumber":"1701",
+    "addr:postcode":"27713",
+    "addr:street":"E Cornwallis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.896234,35.939178,-78.896234,35.939178",
     "geom:latitude":35.939178,
     "geom:longitude":-78.896234,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8d8aedc23988ff9c6d61a5335f926a92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353931101,
-    "wof:lastmodified":1466653277,
+    "wof:lastmodified":1491916638,
     "wof:name":"Archon Residential",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

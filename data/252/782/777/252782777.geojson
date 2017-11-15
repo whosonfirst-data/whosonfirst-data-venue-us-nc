@@ -2,9 +2,14 @@
   "id": 252782777,
   "type": "Feature",
   "properties": {
+    "addr:full":"424 S McDowell St Raleigh NC 27601",
+    "addr:housenumber":"424",
+    "addr:postcode":"27601",
+    "addr:street":"S Mcdowell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.642052,35.775359,-78.642052,35.775359",
     "geom:latitude":35.775359,
     "geom:longitude":-78.642052,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -43,7 +49,7 @@
     "wof:geomhash":"22d80dc6d13ebd4531f63b03d82acb46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":252782777,
-    "wof:lastmodified":1466643897,
+    "wof:lastmodified":1491939131,
     "wof:name":"King's",
     "wof:parent_id":85873475,
     "wof:placetype":"venue",

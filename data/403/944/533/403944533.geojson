@@ -2,9 +2,14 @@
   "id": 403944533,
   "type": "Feature",
   "properties": {
+    "addr:full":"4608 Lake Wheeler Rd Raleigh NC 27603",
+    "addr:housenumber":"4608",
+    "addr:postcode":"27603",
+    "addr:street":"Lake Wheeler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.684292,35.723546,-78.684292,35.723546",
     "geom:latitude":35.723546,
     "geom:longitude":-78.684292,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102087821,
-        85892105
+        85892105,
+        102087821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"dda718681c5c1eebfbfd040ed17f6540",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087821,
-            "locality_id":-1,
             "neighbourhood_id":85892105,
             "region_id":85688773,
             "venue_id":403944533
         }
     ],
     "wof:id":403944533,
-    "wof:lastmodified":1466653476,
+    "wof:lastmodified":1491896442,
     "wof:name":"Jacobsen Contracting Inc",
     "wof:parent_id":85892105,
     "wof:placetype":"venue",

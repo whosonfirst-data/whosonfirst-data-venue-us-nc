@@ -2,9 +2,14 @@
   "id": 387804775,
   "type": "Feature",
   "properties": {
+    "addr:full":"4735 Dwight Evans Rd Charlotte NC 28217",
+    "addr:housenumber":"4735",
+    "addr:postcode":"28217",
+    "addr:street":"Dwight Evans Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.899084,35.190202,-80.899084,35.190202",
     "geom:latitude":35.190202,
     "geom:longitude":-80.899084,
@@ -37,10 +42,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420560205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +57,28 @@
     "wof:geomhash":"d467e3085b0aec8d9409bf3f0b6a825b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":387804775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420560205,
+            "region_id":85688773,
+            "venue_id":387804775
         }
     ],
     "wof:id":387804775,
-    "wof:lastmodified":1466657872,
+    "wof:lastmodified":1491904060,
     "wof:name":"Carolina Fulfillment Center",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354250043,
   "type": "Feature",
   "properties": {
+    "addr:full":"3647 Guess Rd Durham NC 27705",
+    "addr:housenumber":"3647",
+    "addr:postcode":"27705",
+    "addr:street":"Guess Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.929446,36.047937,-78.929446,36.047937",
     "geom:latitude":36.047937,
     "geom:longitude":-78.929446,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2d519f25672bf5a57d53191e6ab6537c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354250043,
-    "wof:lastmodified":1466650431,
+    "wof:lastmodified":1491913500,
     "wof:name":"Sincerely Yours Salon",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

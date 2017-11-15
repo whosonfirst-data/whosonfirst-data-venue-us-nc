@@ -2,9 +2,14 @@
   "id": 303512527,
   "type": "Feature",
   "properties": {
+    "addr:full":"5967 Dixon Dr Raleigh NC 27609",
+    "addr:housenumber":"5967",
+    "addr:postcode":"27609",
+    "addr:street":"Dixon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.649773,35.861418,-78.649773,35.861418",
     "geom:latitude":35.861418,
     "geom:longitude":-78.649773,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e0799b089edfa6e666d87646d92e67f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303512527,
-    "wof:lastmodified":1466650695,
+    "wof:lastmodified":1491906001,
     "wof:name":"Beards Stump Removl",
     "wof:parent_id":85838213,
     "wof:placetype":"venue",

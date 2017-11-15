@@ -2,9 +2,14 @@
   "id": 253147929,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Glenwood Ave Raleigh NC 27603",
+    "addr:housenumber":"311",
+    "addr:postcode":"27603",
+    "addr:street":"Glenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.64741,35.784837,-78.64741,35.784837",
     "geom:latitude":35.784837,
     "geom:longitude":-78.64741,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"34ee1ced537961c7c75c5556946a655a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253147929,
-    "wof:lastmodified":1466644547,
+    "wof:lastmodified":1491913518,
     "wof:name":"Interim Cafe",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

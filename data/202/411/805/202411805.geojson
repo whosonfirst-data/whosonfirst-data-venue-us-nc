@@ -2,9 +2,14 @@
   "id": 202411805,
   "type": "Feature",
   "properties": {
+    "addr:full":"3132 Graymont Dr Charlotte NC 28217",
+    "addr:housenumber":"3132",
+    "addr:postcode":"28217",
+    "addr:street":"Graymont Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.883424,35.204856,-80.883424,35.204856",
     "geom:latitude":35.204856,
     "geom:longitude":-80.883424,
@@ -30,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420532193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,28 @@
     "wof:geomhash":"5407b1eb409bc668eff2ca9873d854a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":202411805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420532193,
+            "region_id":85688773,
+            "venue_id":202411805
         }
     ],
     "wof:id":202411805,
-    "wof:lastmodified":1466654282,
+    "wof:lastmodified":1491904114,
     "wof:name":"Dorsey's Concrete Finishing Co",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 353692963,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Lydias Way Durham NC 27713",
+    "addr:housenumber":"900",
+    "addr:postcode":"27713",
+    "addr:street":"Lydias Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.925857,35.917266,-78.925857,35.917266",
     "geom:latitude":35.917266,
     "geom:longitude":-78.925857,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5002403580b19885d0c4fdb8456acfba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353692963,
-    "wof:lastmodified":1466650515,
+    "wof:lastmodified":1491917417,
     "wof:name":"Virtualfunhouse Co Inc",
     "wof:parent_id":85877203,
     "wof:placetype":"venue",

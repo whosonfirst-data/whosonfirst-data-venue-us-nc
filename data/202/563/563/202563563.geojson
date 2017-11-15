@@ -2,9 +2,14 @@
   "id": 202563563,
   "type": "Feature",
   "properties": {
+    "addr:full":"1315 Starbrook Dr Charlotte NC 28210",
+    "addr:housenumber":"1315",
+    "addr:postcode":"28210",
+    "addr:street":"Starbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.874798,35.137708,-80.874798,35.137708",
     "geom:latitude":35.137708,
     "geom:longitude":-80.874798,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8f614014005f698ff8b22f09288977f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202563563,
-    "wof:lastmodified":1466655356,
+    "wof:lastmodified":1491926248,
     "wof:name":"Kickback Printing",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

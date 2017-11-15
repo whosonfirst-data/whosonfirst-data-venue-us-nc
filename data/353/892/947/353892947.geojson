@@ -2,9 +2,14 @@
   "id": 353892947,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Sidbrook Ct Durham NC 27704",
+    "addr:housenumber":"5",
+    "addr:postcode":"27704",
+    "addr:street":"Sidbrook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.920696,36.054367,-78.920696,36.054367",
     "geom:latitude":36.054367,
     "geom:longitude":-78.920696,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4ffae0a8b76111ebbe535904c526751e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353892947,
-    "wof:lastmodified":1466652827,
+    "wof:lastmodified":1491913504,
     "wof:name":"C C's Creative Works",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

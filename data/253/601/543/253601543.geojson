@@ -2,9 +2,14 @@
   "id": 253601543,
   "type": "Feature",
   "properties": {
+    "addr:full":"226 Hillsborough St Raleigh NC 27603",
+    "addr:housenumber":"226",
+    "addr:postcode":"27603",
+    "addr:street":"Hillsborough St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.642932,35.780586,-78.642932,35.780586",
     "geom:latitude":35.780586,
     "geom:longitude":-78.642932,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -44,7 +50,7 @@
     "wof:geomhash":"043a01f0e87941e9cc6a8101781a865d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":253601543,
-    "wof:lastmodified":1466649602,
+    "wof:lastmodified":1491913511,
     "wof:name":"Cathlic Socl Mnstrs The Diocse",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253324473,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 Kinsey St Raleigh NC 27603",
+    "addr:housenumber":"303",
+    "addr:postcode":"27603",
+    "addr:street":"Kinsey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.64975,35.77683,-78.64975,35.77683",
     "geom:latitude":35.77683,
     "geom:longitude":-78.64975,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -50,7 +56,7 @@
     "wof:geomhash":"0b0ef5b8f16cb9bdf349cf90dd855e78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":253324473,
-    "wof:lastmodified":1466646291,
+    "wof:lastmodified":1491939117,
     "wof:name":"Antfarm Studios",
     "wof:parent_id":85873475,
     "wof:placetype":"venue",

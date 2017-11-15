@@ -2,9 +2,14 @@
   "id": 203309279,
   "type": "Feature",
   "properties": {
+    "addr:full":"1315 Horton Rd Durham NC 27704",
+    "addr:housenumber":"1315",
+    "addr:postcode":"27704",
+    "addr:street":"Horton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.923126,36.057461,-78.923126,36.057461",
     "geom:latitude":36.057461,
     "geom:longitude":-78.923126,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"12b605232db8e5116cfe5103627c7791",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":203309279,
-    "wof:lastmodified":1466643307,
+    "wof:lastmodified":1491913501,
     "wof:name":"Horton Road Original Free Chrc",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

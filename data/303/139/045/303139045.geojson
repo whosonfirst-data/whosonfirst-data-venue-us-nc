@@ -2,9 +2,14 @@
   "id": 303139045,
   "type": "Feature",
   "properties": {
+    "addr:full":"6407 South Blvd Charlotte NC 28217",
+    "addr:housenumber":"6407",
+    "addr:postcode":"28217",
+    "addr:street":"South Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.876312,35.149319,-80.876312,35.149319",
     "geom:latitude":35.149319,
     "geom:longitude":-80.876312,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2e39764be6b944f263b0825a767f07d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303139045,
-    "wof:lastmodified":1466645304,
+    "wof:lastmodified":1491924574,
     "wof:name":"K & B Santa Marta Co",
     "wof:parent_id":85834943,
     "wof:placetype":"venue",

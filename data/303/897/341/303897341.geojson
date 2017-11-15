@@ -2,9 +2,14 @@
   "id": 303897341,
   "type": "Feature",
   "properties": {
+    "addr:full":"3326 Wilkinson Blvd Charlotte NC 28208",
+    "addr:housenumber":"3326",
+    "addr:postcode":"28208",
+    "addr:street":"Wilkinson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.892705,35.224409,-80.892705,35.224409",
     "geom:latitude":35.224409,
     "geom:longitude":-80.892705,
@@ -26,10 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,28 @@
     "wof:geomhash":"a896300f05b51a290b14f675996d4708",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":303897341
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559865,
+            "region_id":85688773,
+            "venue_id":303897341
         }
     ],
     "wof:id":303897341,
-    "wof:lastmodified":1466655992,
+    "wof:lastmodified":1491904144,
     "wof:name":"Habitat Re-Store",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

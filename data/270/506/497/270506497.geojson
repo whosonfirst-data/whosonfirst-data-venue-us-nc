@@ -2,9 +2,14 @@
   "id": 270506497,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 W Worthington Ave Charlotte NC 28203",
+    "addr:housenumber":"211",
+    "addr:postcode":"28203",
+    "addr:street":"W Worthington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.862421,35.212792,-80.862421,35.212792",
     "geom:latitude":35.212792,
     "geom:longitude":-80.862421,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0332d7189e92c98e4d37a8e46cceb5ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":270506497,
-    "wof:lastmodified":1466649534,
+    "wof:lastmodified":1491909069,
     "wof:name":"Concept Building & Restoration",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

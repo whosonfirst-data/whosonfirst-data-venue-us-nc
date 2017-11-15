@@ -2,9 +2,14 @@
   "id": 236875447,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 S Graham St Charlotte NC 28203",
+    "addr:housenumber":"1108",
+    "addr:postcode":"28203",
+    "addr:street":"S Graham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.85708,35.222857,-80.85708,35.222857",
     "geom:latitude":35.222857,
     "geom:longitude":-80.85708,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -50,7 +56,7 @@
     "wof:geomhash":"4bcd8bfe49895974fd4abc5ffa280d19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":236875447,
-    "wof:lastmodified":1466651069,
+    "wof:lastmodified":1491909066,
     "wof:name":"Walls Welding and Fabrication",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 269554561,
   "type": "Feature",
   "properties": {
+    "addr:full":"3732 Roxboro Rd Durham NC 27704",
+    "addr:housenumber":"3732",
+    "addr:postcode":"27704",
+    "addr:street":"Roxboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.899411,36.040118,-78.899411,36.040118",
     "geom:latitude":36.040118,
     "geom:longitude":-78.899411,
@@ -27,9 +32,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85877187,
+        85807037
     ],
     "wof:brand_id":420575653,
     "wof:breaches":[],
@@ -40,19 +48,27 @@
     "wof:geomhash":"38c7e3abf2c4428bcbad5e8b82f1bf8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877187,
+            "region_id":85688773,
+            "venue_id":269554561
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85807037,
             "region_id":85688773,
             "venue_id":269554561
         }
     ],
     "wof:id":269554561,
-    "wof:lastmodified":1466644026,
+    "wof:lastmodified":1491927344,
     "wof:name":"RBC Centura Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

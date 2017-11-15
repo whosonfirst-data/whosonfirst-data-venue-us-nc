@@ -2,9 +2,14 @@
   "id": 269793905,
   "type": "Feature",
   "properties": {
+    "addr:full":"5224 Providence Country Club Dr Charlotte NC 28277",
+    "addr:housenumber":"5224",
+    "addr:postcode":"28277",
+    "addr:street":"Providence Country Club Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.770333,35.047472,-80.770333,35.047472",
     "geom:latitude":35.047472,
     "geom:longitude":-80.770333,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"ac4227f0c7001d0a7aa48d178bce0fc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":269793905,
-    "wof:lastmodified":1466646884,
+    "wof:lastmodified":1491897260,
     "wof:name":"Portland Foods",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253199577,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 West Blvd Charlotte NC 28203",
+    "addr:housenumber":"205",
+    "addr:postcode":"28203",
+    "addr:street":"West Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.861838,35.213891,-80.861838,35.213891",
     "geom:latitude":35.213891,
     "geom:longitude":-80.861838,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9b675e0e4470e8a61fd0713a142e6c08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253199577,
-    "wof:lastmodified":1466645095,
+    "wof:lastmodified":1491909074,
     "wof:name":"Marvin's New & Used Work Unfrm",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

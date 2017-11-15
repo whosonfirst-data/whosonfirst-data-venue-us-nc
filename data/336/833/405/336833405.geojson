@@ -2,9 +2,14 @@
   "id": 336833405,
   "type": "Feature",
   "properties": {
+    "addr:full":"5416 Durham-Chapel Hill Blvd Durham NC 27707",
+    "addr:housenumber":"5416",
+    "addr:postcode":"27707",
+    "addr:street":"Durham-Chapel Hill Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.99544,35.952577,-78.99544,35.952577",
     "geom:latitude":35.952577,
     "geom:longitude":-78.99544,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"816ad7c7d5cfb2aa48196694d0141b0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336833405,
-    "wof:lastmodified":1466649382,
+    "wof:lastmodified":1491926815,
     "wof:name":"James P Hood Construction",
     "wof:parent_id":85877177,
     "wof:placetype":"venue",

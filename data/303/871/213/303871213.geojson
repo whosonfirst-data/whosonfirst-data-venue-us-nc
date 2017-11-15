@@ -2,9 +2,14 @@
   "id": 303871213,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 W Chapel Hill St Durham NC 27701",
+    "addr:housenumber":"1108",
+    "addr:postcode":"27701",
+    "addr:street":"W Chapel Hill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.917335,35.996805,-78.917335,35.996805",
     "geom:latitude":35.996805,
     "geom:longitude":-78.917335,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4758eb9efce835a1b2df1c18d5979489",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303871213,
-    "wof:lastmodified":1466655877,
+    "wof:lastmodified":1491913852,
     "wof:name":"University Market",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 689440181,
   "type": "Feature",
   "properties": {
+    "addr:full":"7925 Vinings Oak Ln # 538 Matthews NC 28105",
+    "addr:housenumber":"7925",
+    "addr:postcode":"28105",
+    "addr:street":"Vinings Oak Ln # 538",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.713659,35.102919,-80.713659,35.102919",
     "geom:latitude":35.102919,
     "geom:longitude":-80.713659,
@@ -42,8 +47,8 @@
         85633793,
         85981339,
         102080981,
-        85850301,
-        85811531
+        85811531,
+        85850301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +63,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
-            "neighbourhood_id":85850301,
+            "neighbourhood_id":85811531,
             "region_id":85688773,
             "venue_id":689440181
         },
@@ -67,15 +72,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
-            "neighbourhood_id":85811531,
+            "neighbourhood_id":85850301,
             "region_id":85688773,
             "venue_id":689440181
         }
     ],
     "wof:id":689440181,
-    "wof:lastmodified":1466662755,
+    "wof:lastmodified":1491934564,
     "wof:name":"Loyalty Nursing Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

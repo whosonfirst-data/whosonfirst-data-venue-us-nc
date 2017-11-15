@@ -2,9 +2,14 @@
   "id": 203377123,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 N Boylan Ave Raleigh NC 27603",
+    "addr:housenumber":"301",
+    "addr:postcode":"27603",
+    "addr:street":"N Boylan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.648975,35.784978,-78.648975,35.784978",
     "geom:latitude":35.784978,
     "geom:longitude":-78.648975,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -43,7 +49,7 @@
     "wof:geomhash":"8cb774a0baf3d6d21566d4389847273d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":203377123,
-    "wof:lastmodified":1466643817,
+    "wof:lastmodified":1491913527,
     "wof:name":"Personally Fit Individualized",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

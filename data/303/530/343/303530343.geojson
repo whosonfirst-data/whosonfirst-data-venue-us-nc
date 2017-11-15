@@ -2,9 +2,14 @@
   "id": 303530343,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Superior Ct Durham NC 27713",
+    "addr:housenumber":"4",
+    "addr:postcode":"27713",
+    "addr:street":"Superior Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.922834,35.920155,-78.922834,35.920155",
     "geom:latitude":35.920155,
     "geom:longitude":-78.922834,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c22c212b90192e1611e02212cf12a99f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303530343,
-    "wof:lastmodified":1466650944,
+    "wof:lastmodified":1491917417,
     "wof:name":"Big Blue Tree Svc",
     "wof:parent_id":85877203,
     "wof:placetype":"venue",

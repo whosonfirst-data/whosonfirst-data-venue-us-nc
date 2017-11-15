@@ -2,9 +2,14 @@
   "id": 236958483,
   "type": "Feature",
   "properties": {
+    "addr:full":"12401 Softwood Ct Charlotte NC 28273",
+    "addr:housenumber":"12401",
+    "addr:postcode":"28273",
+    "addr:street":"Softwood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.948631,35.140482,-80.948631,35.140482",
     "geom:latitude":35.140482,
     "geom:longitude":-80.948631,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c64113019277041dc1548c1a1b75a4a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":236958483,
-    "wof:lastmodified":1466651806,
+    "wof:lastmodified":1491912367,
     "wof:name":"Witmore Services",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320471409,
   "type": "Feature",
   "properties": {
+    "addr:full":"4821 Edgerton Ct Raleigh NC 27612",
+    "addr:housenumber":"4821",
+    "addr:postcode":"27612",
+    "addr:street":"Edgerton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.713717,35.860728,-78.713717,35.860728",
     "geom:latitude":35.860728,
     "geom:longitude":-78.713717,
@@ -24,32 +29,16 @@
     "sg:postcode":"27612",
     "sg:province":"NC",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PBh1X0i78eAFviOZJKzvh_35.860728_-78.713717@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"b981d916c784c97fbd1cb20e3f33564c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":320471409
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":320471409,
-    "wof:lastmodified":1466651950,
+    "wof:lastmodified":1491889953,
     "wof:name":"Thelens Carpet Cleaning",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

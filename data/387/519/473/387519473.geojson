@@ -2,9 +2,14 @@
   "id": 387519473,
   "type": "Feature",
   "properties": {
+    "addr:full":"4911 Sarah Hall Ln Charlotte NC 28270",
+    "addr:housenumber":"4911",
+    "addr:postcode":"28270",
+    "addr:street":"Sarah Hall Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.769389,35.071013,-80.769389,35.071013",
     "geom:latitude":35.071013,
     "geom:longitude":-80.769389,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"04be04d68a928a6518ee906568a741ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387519473,
-    "wof:lastmodified":1466656529,
+    "wof:lastmodified":1491897262,
     "wof:name":"Brown Hound Inc",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

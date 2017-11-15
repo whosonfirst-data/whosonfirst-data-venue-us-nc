@@ -2,9 +2,14 @@
   "id": 387196439,
   "type": "Feature",
   "properties": {
+    "addr:full":"713 Epworth Pl Durham NC 27707",
+    "addr:housenumber":"713",
+    "addr:postcode":"27707",
+    "addr:street":"Epworth Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.983659,35.95413,-78.983659,35.95413",
     "geom:latitude":35.95413,
     "geom:longitude":-78.983659,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"8a946085ab5a6c73d53c3295b0bfaf10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387196439,
-    "wof:lastmodified":1466652447,
+    "wof:lastmodified":1491926814,
     "wof:name":"Burch Brothers Carpet Clnng",
     "wof:parent_id":85877177,
     "wof:placetype":"venue",

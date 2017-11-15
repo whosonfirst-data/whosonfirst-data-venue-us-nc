@@ -2,9 +2,14 @@
   "id": 269864925,
   "type": "Feature",
   "properties": {
+    "addr:full":"1916 Spanish Bay Ct Raleigh NC 27604",
+    "addr:housenumber":"1916",
+    "addr:postcode":"27604",
+    "addr:street":"Spanish Bay Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.546453,35.810153,-78.546453,35.810153",
     "geom:latitude":35.810153,
     "geom:longitude":-78.546453,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7c63c9287c2e20feb59dbbb932082732",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269864925,
-    "wof:lastmodified":1466647672,
+    "wof:lastmodified":1491935409,
     "wof:name":"Tri Flo Pressure Cleaning Inc",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",

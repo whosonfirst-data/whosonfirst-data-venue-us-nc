@@ -2,9 +2,14 @@
   "id": 303851103,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Remount Rd Charlotte NC 28203",
+    "addr:housenumber":"900",
+    "addr:postcode":"28203",
+    "addr:street":"Remount Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.876517,35.213363,-80.876517,35.213363",
     "geom:latitude":35.213363,
     "geom:longitude":-80.876517,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        85891893,
+        85858067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"24830c25baa63962193249cca9232b7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85891893,
+            "region_id":85688773,
+            "venue_id":303851103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85858067,
             "region_id":85688773,
             "venue_id":303851103
         }
     ],
     "wof:id":303851103,
-    "wof:lastmodified":1466655602,
+    "wof:lastmodified":1491909066,
     "wof:name":"Artistic Images",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

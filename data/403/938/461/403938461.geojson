@@ -2,9 +2,14 @@
   "id": 403938461,
   "type": "Feature",
   "properties": {
+    "addr:full":"2710 Overbrook Dr Raleigh NC 27608",
+    "addr:housenumber":"2710",
+    "addr:postcode":"27608",
+    "addr:street":"Overbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.635796,35.819602,-78.635796,35.819602",
     "geom:latitude":35.819602,
     "geom:longitude":-78.635796,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"82b3921e3bc1b6ed3dad8dee672ffd59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403938461,
-    "wof:lastmodified":1466653400,
+    "wof:lastmodified":1491910498,
     "wof:name":"Our Lady of Lourdes",
     "wof:parent_id":85892047,
     "wof:placetype":"venue",

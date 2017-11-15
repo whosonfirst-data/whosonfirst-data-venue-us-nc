@@ -2,9 +2,14 @@
   "id": 219991957,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 Trent Dr Durham NC 27705",
+    "addr:housenumber":"608",
+    "addr:postcode":"27705",
+    "addr:street":"Trent Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.931039,36.010986,-78.931039,36.010986",
     "geom:latitude":36.010986,
     "geom:longitude":-78.931039,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7d54ca98089eb99eef6f8633c7b454d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219991957,
-    "wof:lastmodified":1466648779,
+    "wof:lastmodified":1491901820,
     "wof:name":"Hair By Tiffany",
     "wof:parent_id":85877171,
     "wof:placetype":"venue",

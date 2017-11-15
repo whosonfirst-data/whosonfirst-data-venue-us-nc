@@ -2,9 +2,14 @@
   "id": 320093995,
   "type": "Feature",
   "properties": {
+    "addr:full":"1507 W Pettigrew St Durham NC 27705",
+    "addr:housenumber":"1507",
+    "addr:postcode":"27705",
+    "addr:street":"W Pettigrew St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.921516,36.005814,-78.921516,36.005814",
     "geom:latitude":36.005814,
     "geom:longitude":-78.921516,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"f400df61969385a5958d605481fd42e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320093995,
-    "wof:lastmodified":1466646624,
+    "wof:lastmodified":1491913852,
     "wof:name":"Fresenius Usa Inc",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

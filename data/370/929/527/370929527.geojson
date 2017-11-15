@@ -2,9 +2,14 @@
   "id": 370929527,
   "type": "Feature",
   "properties": {
+    "addr:full":"8509 Crown Crescent Ct Charlotte NC 28227",
+    "addr:housenumber":"8509",
+    "addr:postcode":"28227",
+    "addr:street":"Crown Crescent Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.730287,35.141727,-80.730287,35.141727",
     "geom:latitude":35.141727,
     "geom:longitude":-80.730287,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -47,7 +53,7 @@
     "wof:geomhash":"9f7d624cd75ea35df7ad0adf654cac2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":370929527,
-    "wof:lastmodified":1466657073,
+    "wof:lastmodified":1491899975,
     "wof:name":"Compass Creer MGT Slutions LLC",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

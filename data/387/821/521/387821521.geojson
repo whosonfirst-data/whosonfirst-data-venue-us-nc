@@ -2,9 +2,14 @@
   "id": 387821521,
   "type": "Feature",
   "properties": {
+    "addr:full":"1911 Associates Ln Charlotte NC 28217",
+    "addr:housenumber":"",
+    "addr:postcode":"28217",
+    "addr:street":"Associates Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.930491,35.176522,-80.930491,35.176522",
     "geom:latitude":35.176522,
     "geom:longitude":-80.930491,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d4f827a1c3e35db80ce44297370e6e59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,9 +58,9 @@
         }
     ],
     "wof:id":387821521,
-    "wof:lastmodified":1466657885,
+    "wof:lastmodified":1491904096,
     "wof:name":"Iff Sales",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

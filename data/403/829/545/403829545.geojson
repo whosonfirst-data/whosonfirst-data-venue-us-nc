@@ -2,9 +2,14 @@
   "id": 403829545,
   "type": "Feature",
   "properties": {
+    "addr:full":"7224 Deloach Ct Charlotte NC 28270",
+    "addr:housenumber":"7224",
+    "addr:postcode":"28270",
+    "addr:street":"Deloach Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.771765,35.1091,-80.771765,35.1091",
     "geom:latitude":35.1091,
     "geom:longitude":-80.771765,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"311b08f4b186532b2e364fb3094fc366",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403829545,
-    "wof:lastmodified":1466651983,
+    "wof:lastmodified":1491907438,
     "wof:name":"Shucks Etc Inc",
     "wof:parent_id":85847167,
     "wof:placetype":"venue",

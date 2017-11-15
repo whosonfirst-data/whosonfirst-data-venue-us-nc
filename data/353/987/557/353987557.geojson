@@ -2,9 +2,14 @@
   "id": 353987557,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Windcrest Rd Durham NC 27713",
+    "addr:housenumber":"720",
+    "addr:postcode":"27713",
+    "addr:street":"Windcrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.922055,35.913233,-78.922055,35.913233",
     "geom:latitude":35.913233,
     "geom:longitude":-78.922055,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"914479d4dd417ec6fc8d27fe3d9425b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353987557,
-    "wof:lastmodified":1466653974,
+    "wof:lastmodified":1491917418,
     "wof:name":"Linian Homes Inc",
     "wof:parent_id":85877203,
     "wof:placetype":"venue",

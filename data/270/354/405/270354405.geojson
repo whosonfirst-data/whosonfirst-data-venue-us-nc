@@ -2,9 +2,14 @@
   "id": 270354405,
   "type": "Feature",
   "properties": {
+    "addr:full":"1903 Guess Rd Durham NC 27705",
+    "addr:housenumber":"1903",
+    "addr:postcode":"27705",
+    "addr:street":"Guess Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.917665,36.022394,-78.917665,36.022394",
     "geom:latitude":36.022394,
     "geom:longitude":-78.917665,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"1867ee174a3007469b1fa092916c7f1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270354405,
-    "wof:lastmodified":1466647561,
+    "wof:lastmodified":1491930900,
     "wof:name":"Ellis Insurance",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

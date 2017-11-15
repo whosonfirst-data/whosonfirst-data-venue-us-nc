@@ -2,9 +2,14 @@
   "id": 270029825,
   "type": "Feature",
   "properties": {
+    "addr:full":"3808 Guess Rd Durham NC 27705",
+    "addr:housenumber":"3808",
+    "addr:postcode":"27705",
+    "addr:street":"Guess Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.928917,36.05928,-78.928917,36.05928",
     "geom:latitude":36.05928,
     "geom:longitude":-78.928917,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"f3b21fda0245fe334b725bb82041ce5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":270029825,
-    "wof:lastmodified":1466643538,
+    "wof:lastmodified":1491913499,
     "wof:name":"American General Finance Inc",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

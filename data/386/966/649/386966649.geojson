@@ -2,9 +2,14 @@
   "id": 386966649,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 Milburnie Rd Knightdale NC 27545",
+    "addr:housenumber":"309",
+    "addr:postcode":"27545",
+    "addr:street":"Milburnie Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.532248,35.793685,-78.532248,35.793685",
     "geom:latitude":35.793685,
     "geom:longitude":-78.532248,
@@ -27,31 +32,16 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        102087821,
-        85892055
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AcWcci8Q9h1IhmEDVwunQ_35.793685_-78.532248@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"3baeca1b83b63b16988f03525ee6ad52",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":-1,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":386966649
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":386966649,
-    "wof:lastmodified":1466649883,
+    "wof:lastmodified":1491888715,
     "wof:name":"E&K Landscaping",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

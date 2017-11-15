@@ -2,9 +2,14 @@
   "id": 236764697,
   "type": "Feature",
   "properties": {
+    "addr:full":"2721 Old Steele Creek Rd Charlotte NC 28208",
+    "addr:housenumber":"2721",
+    "addr:postcode":"28208",
+    "addr:street":"Old Steele Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.906171,35.213818,-80.906171,35.213818",
     "geom:latitude":35.213818,
     "geom:longitude":-80.906171,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85841905,
-        85882291
+        85882291,
+        85841905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +49,28 @@
     "wof:geomhash":"7011dde9df3379e10ae986a9371c758c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "neighbourhood_id":85841905,
-            "region_id":85688773,
-            "venue_id":236764697
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":236764697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85841905,
+            "region_id":85688773,
+            "venue_id":236764697
         }
     ],
     "wof:id":236764697,
-    "wof:lastmodified":1466650094,
+    "wof:lastmodified":1491904146,
     "wof:name":"Cheers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

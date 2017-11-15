@@ -2,9 +2,14 @@
   "id": 269766895,
   "type": "Feature",
   "properties": {
+    "addr:full":"818 E 37th St Charlotte NC 28205",
+    "addr:housenumber":"818",
+    "addr:postcode":"28205",
+    "addr:street":"E 37Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.800227,35.245695,-80.800227,35.245695",
     "geom:latitude":35.245695,
     "geom:longitude":-80.800227,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4f9a8c8adf23ff476e904eab1c9cf0cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":269766895,
-    "wof:lastmodified":1466646559,
+    "wof:lastmodified":1491906658,
     "wof:name":"Marinack Carpentry Inc",
     "wof:parent_id":85837459,
     "wof:placetype":"venue",

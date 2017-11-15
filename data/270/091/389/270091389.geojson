@@ -2,9 +2,14 @@
   "id": 270091389,
   "type": "Feature",
   "properties": {
+    "addr:full":"3310 Elizabeth Glen Dr Charlotte NC 28270",
+    "addr:housenumber":"3310",
+    "addr:postcode":"28270",
+    "addr:street":"Elizabeth Glen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.731643,35.077937,-80.731643,35.077937",
     "geom:latitude":35.077937,
     "geom:longitude":-80.731643,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -47,7 +53,7 @@
     "wof:geomhash":"cb45ae23cb3bed632f005e44d1fc78f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -56,7 +62,7 @@
             "venue_id":270091389
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -66,9 +72,9 @@
         }
     ],
     "wof:id":270091389,
-    "wof:lastmodified":1466644267,
+    "wof:lastmodified":1491934539,
     "wof:name":"Independent Pool & Fence Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

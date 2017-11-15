@@ -2,9 +2,14 @@
   "id": 203088737,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Wilkinson Blvd Charlotte NC 28208",
+    "addr:housenumber":"3000",
+    "addr:postcode":"28208",
+    "addr:street":"Wilkinson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.89007,35.224316,-80.89007,35.224316",
     "geom:latitude":35.224316,
     "geom:longitude":-80.89007,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559865
     ],
     "wof:brand_id":420574063,
     "wof:breaches":[],
@@ -43,19 +50,28 @@
     "wof:geomhash":"732485061eed545a84012dd1d8f630c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":203088737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559865,
+            "region_id":85688773,
+            "venue_id":203088737
         }
     ],
     "wof:id":203088737,
-    "wof:lastmodified":1466654741,
+    "wof:lastmodified":1491904061,
     "wof:name":"Texaco",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

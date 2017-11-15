@@ -2,9 +2,14 @@
   "id": 202383625,
   "type": "Feature",
   "properties": {
+    "addr:full":"4016 Leah Ln Durham NC 27712",
+    "addr:housenumber":"4016",
+    "addr:postcode":"27712",
+    "addr:street":"Leah Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.952357,36.06064,-78.952357,36.06064",
     "geom:latitude":36.06064,
     "geom:longitude":-78.952357,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"91f570e5c8ae6902ddc1bceddd636edd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":202383625
         }
     ],
     "wof:id":202383625,
-    "wof:lastmodified":1466652402,
+    "wof:lastmodified":1491905447,
     "wof:name":"Garrard Plumbing Co",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

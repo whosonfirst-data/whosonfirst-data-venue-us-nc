@@ -2,9 +2,14 @@
   "id": 287117427,
   "type": "Feature",
   "properties": {
+    "addr:full":"3941 McMillan St Charlotte NC 28205",
+    "addr:housenumber":"3941",
+    "addr:postcode":"28205",
+    "addr:street":"Mcmillan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.788111,35.245444,-80.788111,35.245444",
     "geom:latitude":35.245444,
     "geom:longitude":-80.788111,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a99052a38171b7511fcf54be33181872",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":287117427,
-    "wof:lastmodified":1466644939,
+    "wof:lastmodified":1491906662,
     "wof:name":"William Lawn Svc",
     "wof:parent_id":85837459,
     "wof:placetype":"venue",

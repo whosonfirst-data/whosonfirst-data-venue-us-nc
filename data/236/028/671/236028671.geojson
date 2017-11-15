@@ -2,9 +2,14 @@
   "id": 236028671,
   "type": "Feature",
   "properties": {
+    "addr:full":"2408 Stadium Dr Durham NC 27704",
+    "addr:housenumber":"2408",
+    "addr:postcode":"27704",
+    "addr:street":"Stadium Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.919541,36.053053,-78.919541,36.053053",
     "geom:latitude":36.053053,
     "geom:longitude":-78.919541,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"813c4d2aac628ec578902197de11b1d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236028671,
-    "wof:lastmodified":1466643491,
+    "wof:lastmodified":1491913499,
     "wof:name":"Wallstone Enterprises",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

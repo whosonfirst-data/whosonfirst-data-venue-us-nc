@@ -2,9 +2,14 @@
   "id": 370170505,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 Emerywood Dr Charlotte NC 28210",
+    "addr:housenumber":"1421",
+    "addr:postcode":"28210",
+    "addr:street":"Emerywood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.876061,35.156851,-80.876061,35.156851",
     "geom:latitude":35.156851,
     "geom:longitude":-80.876061,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5f4d5f324f89e71963fd297e22cdc5b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370170505,
-    "wof:lastmodified":1466648389,
+    "wof:lastmodified":1491924579,
     "wof:name":"House of Flowers",
     "wof:parent_id":85834943,
     "wof:placetype":"venue",

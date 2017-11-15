@@ -2,9 +2,14 @@
   "id": 303809519,
   "type": "Feature",
   "properties": {
+    "addr:full":"2929 Patten Hill Dr Matthews NC 28105",
+    "addr:housenumber":"2929",
+    "addr:postcode":"28105",
+    "addr:street":"Patten Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.724961,35.094669,-80.724961,35.094669",
     "geom:latitude":35.094669,
     "geom:longitude":-80.724961,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -40,7 +46,7 @@
     "wof:geomhash":"5ab4588ad8f98fed3c2c6fc157bde4f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -49,7 +55,7 @@
             "venue_id":303809519
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -59,9 +65,9 @@
         }
     ],
     "wof:id":303809519,
-    "wof:lastmodified":1466655003,
+    "wof:lastmodified":1491934545,
     "wof:name":"Lpa Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

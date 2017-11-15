@@ -2,9 +2,14 @@
   "id": 269834343,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 S Dawson St Raleigh NC 27601",
+    "addr:housenumber":"417",
+    "addr:postcode":"27601",
+    "addr:street":"S Dawson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.643551,35.775523,-78.643551,35.775523",
     "geom:latitude":35.775523,
     "geom:longitude":-78.643551,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3d717cec5abdc648b67af23286fa9828",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269834343,
-    "wof:lastmodified":1466647331,
+    "wof:lastmodified":1491939122,
     "wof:name":"Kurt Eichenberger Archt AIA",
     "wof:parent_id":85873475,
     "wof:placetype":"venue",

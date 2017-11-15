@@ -2,9 +2,14 @@
   "id": 219929233,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 Swift Ave Durham NC 27705",
+    "addr:housenumber":"412",
+    "addr:postcode":"27705",
+    "addr:street":"Swift Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.922604,36.001255,-78.922604,36.001255",
     "geom:latitude":36.001255,
     "geom:longitude":-78.922604,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"caaae6bf8b5859885d3e52498370327d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219929233,
-    "wof:lastmodified":1466648232,
+    "wof:lastmodified":1491913853,
     "wof:name":"Asor Publications",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370916861,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 Lex Dr Charlotte NC 28262",
+    "addr:housenumber":"602",
+    "addr:postcode":"28262",
+    "addr:street":"Lex Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.728899,35.314573,-80.728899,35.314573",
     "geom:latitude":35.314573,
     "geom:longitude":-80.728899,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8afaa37d11ac30fbf34e27e9b8cfd9b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370916861,
-    "wof:lastmodified":1466657158,
+    "wof:lastmodified":1491911028,
     "wof:name":"Buy Design Wear",
     "wof:parent_id":85871243,
     "wof:placetype":"venue",

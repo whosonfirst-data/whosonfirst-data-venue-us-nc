@@ -2,9 +2,14 @@
   "id": 673152973,
   "type": "Feature",
   "properties": {
+    "addr:full":"10303 Illoria Dr Charlotte NC 28273",
+    "addr:housenumber":"10303",
+    "addr:postcode":"28273",
+    "addr:street":"Illoria Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.966827,35.149179,-80.966827,35.149179",
     "geom:latitude":35.149179,
     "geom:longitude":-80.966827,
@@ -30,8 +35,8 @@
         85633793,
         85981333,
         102080981,
-        85882291,
-        85839587
+        85839587,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,22 +51,24 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":85882291,
+            "neighbourhood_id":85839587,
             "region_id":85688773,
             "venue_id":673152973
         },
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
-            "neighbourhood_id":85839587,
+            "locality_id":85981333,
+            "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":673152973
         }
     ],
     "wof:id":673152973,
-    "wof:lastmodified":1466656617,
+    "wof:lastmodified":1491904070,
     "wof:name":"Branch Out Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

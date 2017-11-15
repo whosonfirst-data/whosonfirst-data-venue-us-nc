@@ -2,9 +2,14 @@
   "id": 672511349,
   "type": "Feature",
   "properties": {
+    "addr:full":"6014 Duraleigh Rd Raleigh NC 27612",
+    "addr:housenumber":"6014",
+    "addr:postcode":"27612",
+    "addr:street":"Duraleigh Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.712044,35.862349,-78.712044,35.862349",
     "geom:latitude":35.862349,
     "geom:longitude":-78.712044,
@@ -27,14 +32,7 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        102191575,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UPjQKQjA3h9yr7nBSOvP9_35.862349_-78.712044@1294165850"
@@ -42,19 +40,9 @@
     "wof:country":"US",
     "wof:created":1461720653,
     "wof:geomhash":"a8ff9594f393a687e6f31afa4fccf477",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":672511349
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672511349,
-    "wof:lastmodified":1466659526,
+    "wof:lastmodified":1491889957,
     "wof:name":"Printworks Inc Supply",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

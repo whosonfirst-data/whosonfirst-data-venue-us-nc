@@ -2,9 +2,14 @@
   "id": 404011693,
   "type": "Feature",
   "properties": {
+    "addr:full":"4822 Industry Ln Durham NC 27713",
+    "addr:housenumber":"4822",
+    "addr:postcode":"27713",
+    "addr:street":"Industry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.904846,35.936823,-78.904846,35.936823",
     "geom:latitude":35.936823,
     "geom:longitude":-78.904846,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"f37dca54f8069de866f2ec82658595a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":404011693,
-    "wof:lastmodified":1466651452,
+    "wof:lastmodified":1491916645,
     "wof:name":"Air Products",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

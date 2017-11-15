@@ -2,9 +2,14 @@
   "id": 403760617,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Faye St Charlotte NC 28208",
+    "addr:housenumber":"3000",
+    "addr:postcode":"28208",
+    "addr:street":"Faye St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.917216,35.209931,-80.917216,35.209931",
     "geom:latitude":35.209931,
     "geom:longitude":-80.917216,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
+        420559457,
         85882291
     ],
     "wof:breaches":[],
@@ -42,7 +49,16 @@
     "wof:geomhash":"b971a59532603e4c776e8dee8a1230c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559457,
+            "region_id":85688773,
+            "venue_id":403760617
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,9 +68,9 @@
         }
     ],
     "wof:id":403760617,
-    "wof:lastmodified":1466651076,
+    "wof:lastmodified":1491904060,
     "wof:name":"Hedges & Highways Church",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

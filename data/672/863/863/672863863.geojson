@@ -2,9 +2,14 @@
   "id": 672863863,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Cooper Rd Raleigh NC 27610",
+    "addr:housenumber":"801",
+    "addr:postcode":"27610",
+    "addr:street":"Cooper Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.587508,35.763738,-78.587508,35.763738",
     "geom:latitude":35.763738,
     "geom:longitude":-78.587508,
@@ -30,7 +35,7 @@
         85633793,
         85980569,
         102087821,
-        420532927
+        85848333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":420532927,
+            "neighbourhood_id":85848333,
             "region_id":85688773,
             "venue_id":672863863
         }
     ],
     "wof:id":672863863,
-    "wof:lastmodified":1466663449,
+    "wof:lastmodified":1491885977,
     "wof:name":"Arcadis G & M North Carolina",
-    "wof:parent_id":420532927,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

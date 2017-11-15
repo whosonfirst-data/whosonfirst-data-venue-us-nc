@@ -2,9 +2,14 @@
   "id": 303998851,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Ontario Ct Durham NC 27713",
+    "addr:housenumber":"6",
+    "addr:postcode":"27713",
+    "addr:street":"Ontario Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.922129,35.920975,-78.922129,35.920975",
     "geom:latitude":35.920975,
     "geom:longitude":-78.922129,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"acd4f781dd485a3c7eda6179a1318397",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303998851,
-    "wof:lastmodified":1466656838,
+    "wof:lastmodified":1491917419,
     "wof:name":"Knowledge Management Solutions",
     "wof:parent_id":85877203,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353567435,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 Peppertree St Durham NC 27705",
+    "addr:housenumber":"2001",
+    "addr:postcode":"27705",
+    "addr:street":"Peppertree St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.929345,36.05439,-78.929345,36.05439",
     "geom:latitude":36.05439,
     "geom:longitude":-78.929345,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"971a87dc437a97b409e4c381a515a4e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353567435,
-    "wof:lastmodified":1466648992,
+    "wof:lastmodified":1491913497,
     "wof:name":"DCS Grafix",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

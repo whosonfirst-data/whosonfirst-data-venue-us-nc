@@ -2,9 +2,14 @@
   "id": 219530455,
   "type": "Feature",
   "properties": {
+    "addr:full":"7704 England St Charlotte NC 28273",
+    "addr:housenumber":"7704",
+    "addr:postcode":"28273",
+    "addr:street":"England St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.880615,35.133482,-80.880615,35.133482",
     "geom:latitude":35.133482,
     "geom:longitude":-80.880615,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"f47ddcd6b9494bd776931cda216b40b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":219530455,
-    "wof:lastmodified":1466645101,
+    "wof:lastmodified":1491926245,
     "wof:name":"Lee Community Development Ctr",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

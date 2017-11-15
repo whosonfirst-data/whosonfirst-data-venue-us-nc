@@ -2,9 +2,14 @@
   "id": 387853383,
   "type": "Feature",
   "properties": {
+    "addr:full":"5638 Londonderry Rd Charlotte NC 28210",
+    "addr:housenumber":"5638",
+    "addr:postcode":"28210",
+    "addr:street":"Londonderry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.872334,35.157436,-80.872334,35.157436",
     "geom:latitude":35.157436,
     "geom:longitude":-80.872334,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        85813241,
+        85834943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"cec8fa1c2e8cad68c6927d2c0dee46d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85813241,
+            "region_id":85688773,
+            "venue_id":387853383
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85834943,
             "region_id":85688773,
             "venue_id":387853383
         }
     ],
     "wof:id":387853383,
-    "wof:lastmodified":1466657869,
+    "wof:lastmodified":1491924579,
     "wof:name":"Cmg Accounting S",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

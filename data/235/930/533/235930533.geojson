@@ -2,9 +2,14 @@
   "id": 235930533,
   "type": "Feature",
   "properties": {
+    "addr:full":"1115 Iredell St Durham NC 27705",
+    "addr:housenumber":"1115",
+    "addr:postcode":"27705",
+    "addr:street":"Iredell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.920441,36.016965,-78.920441,36.016965",
     "geom:latitude":36.016965,
     "geom:longitude":-78.920441,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"218c0c6604fb773963403e20ddda1a3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":235930533,
-    "wof:lastmodified":1466643225,
+    "wof:lastmodified":1491930908,
     "wof:name":"Peace Fire Galleries",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

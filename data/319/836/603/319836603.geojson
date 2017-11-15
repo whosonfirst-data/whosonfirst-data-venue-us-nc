@@ -2,9 +2,14 @@
   "id": 319836603,
   "type": "Feature",
   "properties": {
+    "addr:full":"717 S Kings Dr Charlotte NC 28204",
+    "addr:housenumber":"717",
+    "addr:postcode":"28204",
+    "addr:street":"S Kings Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.836001,35.210161,-80.836001,35.210161",
     "geom:latitude":35.210161,
     "geom:longitude":-80.836001,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6143fdc398f58ffb7f252944e91a4f7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":319836603,
-    "wof:lastmodified":1466645114,
+    "wof:lastmodified":1491926332,
     "wof:name":"Interstate All Batteries Ctr",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

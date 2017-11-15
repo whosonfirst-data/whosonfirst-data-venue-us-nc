@@ -2,9 +2,14 @@
   "id": 303430751,
   "type": "Feature",
   "properties": {
+    "addr:full":"1028 Clare Ct Cary NC 27511",
+    "addr:housenumber":"1028",
+    "addr:postcode":"27511",
+    "addr:street":"Clare Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.649524,35.867307,-78.649524,35.867307",
     "geom:latitude":35.867307,
     "geom:longitude":-78.649524,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -45,7 +51,7 @@
     "wof:geomhash":"40ef2c9ffb66d8020eedb3010dec3edc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":303430751,
-    "wof:lastmodified":1466649512,
+    "wof:lastmodified":1491906006,
     "wof:name":"Blue Ribbon Show Svc Inc",
     "wof:parent_id":85838213,
     "wof:placetype":"venue",

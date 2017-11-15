@@ -2,9 +2,14 @@
   "id": 220038407,
   "type": "Feature",
   "properties": {
+    "addr:full":"2635 Camellia Dr Durham NC 27705",
+    "addr:housenumber":"2635",
+    "addr:postcode":"27705",
+    "addr:street":"Camellia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.931212,36.048928,-78.931212,36.048928",
     "geom:latitude":36.048928,
     "geom:longitude":-78.931212,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8ece5d4588d8247a4c352fbcd776b9d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":220038407,
-    "wof:lastmodified":1466643519,
+    "wof:lastmodified":1491913503,
     "wof:name":"Community Soulutions LLC",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

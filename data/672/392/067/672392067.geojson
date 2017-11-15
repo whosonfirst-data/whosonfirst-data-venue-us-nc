@@ -2,9 +2,14 @@
   "id": 672392067,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 N Tryon St Charlotte NC 28213",
+    "addr:housenumber":"4600",
+    "addr:postcode":"28213",
+    "addr:street":"N Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.787549,35.258241,-80.787549,35.258241",
     "geom:latitude":35.258241,
     "geom:longitude":-80.787549,
@@ -43,7 +48,8 @@
         85633793,
         85981333,
         102080981,
-        420532327
+        420532327,
+        85818497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,12 +67,21 @@
             "neighbourhood_id":420532327,
             "region_id":85688773,
             "venue_id":672392067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85818497,
+            "region_id":85688773,
+            "venue_id":672392067
         }
     ],
     "wof:id":672392067,
-    "wof:lastmodified":1466658853,
+    "wof:lastmodified":1491921961,
     "wof:name":"Lions Services Inc",
-    "wof:parent_id":420532327,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

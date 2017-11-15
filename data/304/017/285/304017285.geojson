@@ -2,9 +2,14 @@
   "id": 304017285,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 Claremont Rd Raleigh NC 27608",
+    "addr:housenumber":"2800",
+    "addr:postcode":"27608",
+    "addr:street":"Claremont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.637068,35.820578,-78.637068,35.820578",
     "geom:latitude":35.820578,
     "geom:longitude":-78.637068,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6ef89f556dd2175105127cec34b9ba30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":304017285,
-    "wof:lastmodified":1466644405,
+    "wof:lastmodified":1491910500,
     "wof:name":"Bond Tec Roofing",
     "wof:parent_id":85892047,
     "wof:placetype":"venue",

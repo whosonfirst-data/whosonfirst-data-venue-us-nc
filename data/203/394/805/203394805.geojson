@@ -2,9 +2,14 @@
   "id": 203394805,
   "type": "Feature",
   "properties": {
+    "addr:full":"3209 Yorktown Ave Durham NC 27713",
+    "addr:housenumber":"3209",
+    "addr:postcode":"27713",
+    "addr:street":"Yorktown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.893368,35.936401,-78.893368,35.936401",
     "geom:latitude":35.936401,
     "geom:longitude":-78.893368,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1a07a32a3c62593f8e687238fd8d307d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":203394805,
-    "wof:lastmodified":1466643948,
+    "wof:lastmodified":1491916638,
     "wof:name":"Sigma One Corp Inc",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286347775,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 Lorain Ave Durham NC 27704",
+    "addr:housenumber":"910",
+    "addr:postcode":"27704",
+    "addr:street":"Lorain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.907436,36.027496,-78.907436,36.027496",
     "geom:latitude":36.027496,
     "geom:longitude":-78.907436,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"30b9cf47de8f15e50da4613f97314d43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286347775,
-    "wof:lastmodified":1466644349,
+    "wof:lastmodified":1491930919,
     "wof:name":"Turning Heads Hair Studio",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

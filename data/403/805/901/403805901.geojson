@@ -2,9 +2,14 @@
   "id": 403805901,
   "type": "Feature",
   "properties": {
+    "addr:full":"10015 Garth Wood Rd Charlotte NC 28273",
+    "addr:housenumber":"10015",
+    "addr:postcode":"28273",
+    "addr:street":"Garth Wood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.900828,35.12594,-80.900828,35.12594",
     "geom:latitude":35.12594,
     "geom:longitude":-80.900828,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
+        420559111,
         85882291
     ],
     "wof:breaches":[],
@@ -39,7 +46,16 @@
     "wof:geomhash":"29a182f414c0dd96c934bfe569e1f7f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559111,
+            "region_id":85688773,
+            "venue_id":403805901
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,9 +65,9 @@
         }
     ],
     "wof:id":403805901,
-    "wof:lastmodified":1466651656,
+    "wof:lastmodified":1491904130,
     "wof:name":"Douglas J Millsaps Realty LLC",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

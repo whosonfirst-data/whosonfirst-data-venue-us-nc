@@ -2,9 +2,14 @@
   "id": 336949801,
   "type": "Feature",
   "properties": {
+    "addr:full":"5721 Deblyn Ave Raleigh NC 27612",
+    "addr:housenumber":"5721",
+    "addr:postcode":"27612",
+    "addr:street":"Deblyn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.698622,35.855688,-78.698622,35.855688",
     "geom:latitude":35.855688,
     "geom:longitude":-78.698622,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
-        102087821
+        102087821,
+        420532869,
+        85821697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"432a8fc2a291e8f821a33010d7cc2157",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420532869,
+            "region_id":85688773,
+            "venue_id":336949801
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":85821697,
             "region_id":85688773,
             "venue_id":336949801
         }
     ],
     "wof:id":336949801,
-    "wof:lastmodified":1466651166,
+    "wof:lastmodified":1491922761,
     "wof:name":"Real Estate Referrals Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

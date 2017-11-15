@@ -2,9 +2,14 @@
   "id": 252810631,
   "type": "Feature",
   "properties": {
+    "addr:full":"905 W Main St Durham NC 27701",
+    "addr:housenumber":"905",
+    "addr:postcode":"27701",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.910235,36.000539,-78.910235,36.000539",
     "geom:latitude":36.000539,
     "geom:longitude":-78.910235,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"34dd51d4e43943f6da17594508a8097e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":252810631,
-    "wof:lastmodified":1466644132,
+    "wof:lastmodified":1491906395,
     "wof:name":"Duke University Press",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

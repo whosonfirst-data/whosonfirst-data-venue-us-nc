@@ -2,9 +2,14 @@
   "id": 303672979,
   "type": "Feature",
   "properties": {
+    "addr:full":"5114 Troon Ln Durham NC 27712",
+    "addr:housenumber":"5114",
+    "addr:postcode":"27712",
+    "addr:street":"Troon Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.967732,36.077866,-78.967732,36.077866",
     "geom:latitude":36.077866,
     "geom:longitude":-78.967732,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"4c2185102cc015352c3a998a6032c3da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":303672979
         }
     ],
     "wof:id":303672979,
-    "wof:lastmodified":1466653020,
+    "wof:lastmodified":1491905445,
     "wof:name":"All Season's Lawn Care",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

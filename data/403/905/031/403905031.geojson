@@ -2,9 +2,14 @@
   "id": 403905031,
   "type": "Feature",
   "properties": {
+    "addr:full":"1008 W Chapel Hill St Durham NC 27701",
+    "addr:housenumber":"1008",
+    "addr:postcode":"27701",
+    "addr:street":"W Chapel Hill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.91568,35.996874,-78.91568,35.996874",
     "geom:latitude":35.996874,
     "geom:longitude":-78.91568,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ab763995509a336bd9f43a455a967e93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403905031,
-    "wof:lastmodified":1466652966,
+    "wof:lastmodified":1491913853,
     "wof:name":"T Hoff Import Parts",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

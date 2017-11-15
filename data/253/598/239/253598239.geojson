@@ -2,9 +2,14 @@
   "id": 253598239,
   "type": "Feature",
   "properties": {
+    "addr:full":"2944 Claremont Rd Raleigh NC 27608",
+    "addr:housenumber":"2944",
+    "addr:postcode":"27608",
+    "addr:street":"Claremont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.636068,35.822198,-78.636068,35.822198",
     "geom:latitude":35.822198,
     "geom:longitude":-78.636068,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -43,7 +49,7 @@
     "wof:geomhash":"71c475b6400108c7b2a82719f177bd75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":253598239,
-    "wof:lastmodified":1466649556,
+    "wof:lastmodified":1491910499,
     "wof:name":"Leadership Strategies",
     "wof:parent_id":85892047,
     "wof:placetype":"venue",

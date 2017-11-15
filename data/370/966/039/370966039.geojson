@@ -2,9 +2,14 @@
   "id": 370966039,
   "type": "Feature",
   "properties": {
+    "addr:full":"1326 Brittle Creek Dr Matthews NC 28105",
+    "addr:housenumber":"1326",
+    "addr:postcode":"28105",
+    "addr:street":"Brittle Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.735734,35.102261,-80.735734,35.102261",
     "geom:latitude":35.102261,
     "geom:longitude":-80.735734,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"75f18a2a9e99be629fe895e4a4c67979",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -54,7 +60,7 @@
             "venue_id":370966039
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -64,9 +70,9 @@
         }
     ],
     "wof:id":370966039,
-    "wof:lastmodified":1466657186,
+    "wof:lastmodified":1491934543,
     "wof:name":"R Simon's Lawn Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

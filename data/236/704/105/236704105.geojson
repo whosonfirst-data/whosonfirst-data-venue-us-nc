@@ -2,9 +2,14 @@
   "id": 236704105,
   "type": "Feature",
   "properties": {
+    "addr:full":"5220 N Tryon St Charlotte NC 28213",
+    "addr:housenumber":"5220",
+    "addr:postcode":"28213",
+    "addr:street":"N Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.7787,35.258823,-80.7787,35.258823",
     "geom:latitude":35.258823,
     "geom:longitude":-80.7787,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"70c969714fae49d0d6611feacd81becf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":236704105,
-    "wof:lastmodified":1466649514,
+    "wof:lastmodified":1491921967,
     "wof:name":"Big Time Toyz",
     "wof:parent_id":85818497,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336776203,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Winecoff School Rd Concord NC 28027",
+    "addr:housenumber":"300",
+    "addr:postcode":"28027",
+    "addr:street":"School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.617085,35.448557,-80.617085,35.448557",
     "geom:latitude":35.448557,
     "geom:longitude":-80.617085,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980229,
         102087733,
@@ -44,7 +50,7 @@
     "wof:geomhash":"700697023a450463a17f075368fab036",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087733,
             "locality_id":85980229,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336776203,
-    "wof:lastmodified":1466648519,
+    "wof:lastmodified":1491915795,
     "wof:name":"Spectrum Sales Corp",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 689279737,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Sampson St Raleigh NC 27609",
+    "addr:housenumber":"205",
+    "addr:postcode":"27609",
+    "addr:street":"Sampson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.646711,35.842506,-78.646711,35.842506",
     "geom:latitude":35.842506,
     "geom:longitude":-78.646711,
@@ -27,7 +32,15 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688773,
+        102191575,
+        85633793,
+        85980569,
+        102087821,
+        85807295,
+        420534265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MXrPWWGKKtGXNTL190OvV_35.842506_-78.646711@1294165850"
@@ -35,11 +48,30 @@
     "wof:country":"US",
     "wof:created":1461744851,
     "wof:geomhash":"c53394b6db331a21d6eaf196346434cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":85807295,
+            "region_id":85688773,
+            "venue_id":689279737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":420534265,
+            "region_id":85688773,
+            "venue_id":689279737
+        }
+    ],
     "wof:id":689279737,
-    "wof:lastmodified":1466658610,
+    "wof:lastmodified":1491908399,
     "wof:name":"Everett E Dodd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

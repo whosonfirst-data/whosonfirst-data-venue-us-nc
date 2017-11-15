@@ -2,9 +2,14 @@
   "id": 387572431,
   "type": "Feature",
   "properties": {
+    "addr:full":"3812 Booker Ave Durham NC 27713",
+    "addr:housenumber":"3812",
+    "addr:postcode":"27713",
+    "addr:street":"Booker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.90504,35.949745,-78.90504,35.949745",
     "geom:latitude":35.949745,
     "geom:longitude":-78.90504,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"54d4d7641bf5762d180ff07281d04394",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387572431,
-    "wof:lastmodified":1466656664,
+    "wof:lastmodified":1491916644,
     "wof:name":"Houses Leisure World",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

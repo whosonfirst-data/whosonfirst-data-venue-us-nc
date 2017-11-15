@@ -2,9 +2,14 @@
   "id": 370949807,
   "type": "Feature",
   "properties": {
+    "addr:full":"8661 Monroe Rd Charlotte NC 28212",
+    "addr:housenumber":"8661",
+    "addr:postcode":"28212",
+    "addr:street":"Monroe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.746939,35.154038,-80.746939,35.154038",
     "geom:latitude":35.154038,
     "geom:longitude":-80.746939,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c0b66a1f323a905414ea4bba4a1629bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370949807,
-    "wof:lastmodified":1466657128,
+    "wof:lastmodified":1491936658,
     "wof:name":"Contech Systems Inc",
     "wof:parent_id":85891863,
     "wof:placetype":"venue",

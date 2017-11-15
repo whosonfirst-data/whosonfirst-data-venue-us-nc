@@ -2,9 +2,14 @@
   "id": 220194527,
   "type": "Feature",
   "properties": {
+    "addr:full":"5610 Ballantyne Commons Pkwy Charlotte NC 28277",
+    "addr:housenumber":"5610",
+    "addr:postcode":"28277",
+    "addr:street":"Ballantyne Commons Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.779533,35.063792,-80.779533,35.063792",
     "geom:latitude":35.063792,
     "geom:longitude":-80.779533,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"7d20d54e37c3a66a2acebf19188a89ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":220194527,
-    "wof:lastmodified":1466644752,
+    "wof:lastmodified":1491897271,
     "wof:name":"Cire Computer Production",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

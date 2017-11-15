@@ -2,9 +2,14 @@
   "id": 270334169,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Tinsbury Pl Durham NC 27713",
+    "addr:housenumber":"23",
+    "addr:postcode":"27713",
+    "addr:street":"Tinsbury Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.921045,35.934269,-78.921045,35.934269",
     "geom:latitude":35.934269,
     "geom:longitude":-78.921045,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"eaacfefda6c0cfdfbde74941d9181e60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":270334169,
-    "wof:lastmodified":1466647294,
+    "wof:lastmodified":1491916648,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

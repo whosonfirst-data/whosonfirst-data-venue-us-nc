@@ -2,9 +2,14 @@
   "id": 336873491,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 W Jones St Raleigh NC 27603",
+    "addr:housenumber":"707",
+    "addr:postcode":"27603",
+    "addr:street":"W Jones St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.650609,35.782846,-78.650609,35.782846",
     "geom:latitude":35.782846,
     "geom:longitude":-78.650609,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -40,7 +46,7 @@
     "wof:geomhash":"fc0b1bfb189519c5729c835b97b37ac5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":336873491,
-    "wof:lastmodified":1466650019,
+    "wof:lastmodified":1491913521,
     "wof:name":"Meals On Wheels Of Wake County",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

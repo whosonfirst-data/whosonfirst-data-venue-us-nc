@@ -2,9 +2,14 @@
   "id": 319833681,
   "type": "Feature",
   "properties": {
+    "addr:full":"7301 South Blvd Charlotte NC 28273",
+    "addr:housenumber":"7301",
+    "addr:postcode":"28273",
+    "addr:street":"South Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.875284,35.133076,-80.875284,35.133076",
     "geom:latitude":35.133076,
     "geom:longitude":-80.875284,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"af4194a6140394347442be22937e28e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":319833681,
-    "wof:lastmodified":1466645070,
+    "wof:lastmodified":1491926259,
     "wof:name":"Queen City Lincoln-Mercury Inc",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

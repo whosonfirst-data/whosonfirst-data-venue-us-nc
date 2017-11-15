@@ -2,9 +2,14 @@
   "id": 236245283,
   "type": "Feature",
   "properties": {
+    "addr:full":"3026 Rosebriar Dr Durham NC 27705",
+    "addr:housenumber":"3026",
+    "addr:postcode":"27705",
+    "addr:street":"Rosebriar Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.937989,36.062077,-78.937989,36.062077",
     "geom:latitude":36.062077,
     "geom:longitude":-78.937989,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -49,7 +55,7 @@
     "wof:geomhash":"123a6e9bf44e62adce03ad7596b0f2dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":236245283,
-    "wof:lastmodified":1466645426,
+    "wof:lastmodified":1491913495,
     "wof:name":"Clean Septic Tank Service",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

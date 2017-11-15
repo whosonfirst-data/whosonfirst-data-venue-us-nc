@@ -2,9 +2,14 @@
   "id": 253428107,
   "type": "Feature",
   "properties": {
+    "addr:full":"6201 N Tryon St Charlotte NC 28213",
+    "addr:housenumber":"6201",
+    "addr:postcode":"28213",
+    "addr:street":"N Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.767195,35.272965,-80.767195,35.272965",
     "geom:latitude":35.272965,
     "geom:longitude":-80.767195,
@@ -31,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        420532303,
+        85804005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,28 @@
     "wof:geomhash":"4773183108f355f5ebbaf94d6706849f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420532303,
+            "region_id":85688773,
+            "venue_id":253428107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85804005,
             "region_id":85688773,
             "venue_id":253428107
         }
     ],
     "wof:id":253428107,
-    "wof:lastmodified":1466647476,
+    "wof:lastmodified":1491893394,
     "wof:name":"Atm USA LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

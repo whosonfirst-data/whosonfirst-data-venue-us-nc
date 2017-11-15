@@ -2,9 +2,14 @@
   "id": 219375563,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Cedar Hill Dr Durham NC 27713",
+    "addr:housenumber":"17",
+    "addr:postcode":"27713",
+    "addr:street":"Cedar Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.92496,35.923936,-78.92496,35.923936",
     "geom:latitude":35.923936,
     "geom:longitude":-78.92496,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2dd43dd29e53dfc774ebbcbddd0fb779",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219375563,
-    "wof:lastmodified":1466643930,
+    "wof:lastmodified":1491916649,
     "wof:name":"J & D Landscaping Not A Corp",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

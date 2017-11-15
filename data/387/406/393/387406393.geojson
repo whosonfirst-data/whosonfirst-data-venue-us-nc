@@ -2,9 +2,14 @@
   "id": 387406393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1031 Spruce St Charlotte NC 28203",
+    "addr:housenumber":"1031",
+    "addr:postcode":"28203",
+    "addr:street":"Spruce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.86708,35.220853,-80.86708,35.220853",
     "geom:latitude":35.220853,
     "geom:longitude":-80.86708,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"80bdcfc34f88b01fe8e8b720f158df74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":387406393,
-    "wof:lastmodified":1466655197,
+    "wof:lastmodified":1491909073,
     "wof:name":"Bill Parker's Plumbing & Rpr",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

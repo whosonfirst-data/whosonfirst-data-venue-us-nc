@@ -2,9 +2,14 @@
   "id": 320753235,
   "type": "Feature",
   "properties": {
+    "addr:full":"2416 Creekside Cove Durham NC 27712",
+    "addr:housenumber":"2416",
+    "addr:postcode":"27712",
+    "addr:street":"Creekside Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.960186,36.074335,-78.960186,36.074335",
     "geom:latitude":36.074335,
     "geom:longitude":-78.960186,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"5636c602914d92805285a93bd52786b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":320753235
         }
     ],
     "wof:id":320753235,
-    "wof:lastmodified":1466656075,
+    "wof:lastmodified":1491905444,
     "wof:name":"Brunis Tole Painting Center",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

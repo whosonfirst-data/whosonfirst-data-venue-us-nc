@@ -2,9 +2,14 @@
   "id": 336839271,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Northbrook Dr Raleigh NC 27609",
+    "addr:housenumber":"211",
+    "addr:postcode":"27609",
+    "addr:street":"Northbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.645493,35.844003,-78.645493,35.844003",
     "geom:latitude":35.844003,
     "geom:longitude":-78.645493,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -39,7 +45,7 @@
     "wof:geomhash":"45315910ec6c31e2b68040f28ed10ded",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336839271,
-    "wof:lastmodified":1466649475,
+    "wof:lastmodified":1491908398,
     "wof:name":"Dkc Ventures LLC",
     "wof:parent_id":85807295,
     "wof:placetype":"venue",

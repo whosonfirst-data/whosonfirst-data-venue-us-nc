@@ -2,9 +2,14 @@
   "id": 403969087,
   "type": "Feature",
   "properties": {
+    "addr:full":"1011 Herrin Ave Charlotte NC 28205",
+    "addr:housenumber":"1011",
+    "addr:postcode":"28205",
+    "addr:street":"Herrin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.796946,35.243158,-80.796946,35.243158",
     "geom:latitude":35.243158,
     "geom:longitude":-80.796946,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"f1ac6afa8a54a7c11789a5cf0c301d33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":403969087,
-    "wof:lastmodified":1466653797,
+    "wof:lastmodified":1491906663,
     "wof:name":"SWL Carpet Cleaning",
     "wof:parent_id":85837459,
     "wof:placetype":"venue",

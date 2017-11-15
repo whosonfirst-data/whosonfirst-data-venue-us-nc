@@ -2,9 +2,14 @@
   "id": 203110477,
   "type": "Feature",
   "properties": {
+    "addr:full":"10710 Nations Ford Rd Charlotte NC 28273",
+    "addr:housenumber":"10710",
+    "addr:postcode":"28273",
+    "addr:street":"Nations Ford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.908659,35.116483,-80.908659,35.116483",
     "geom:latitude":35.116483,
     "geom:longitude":-80.908659,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
+        420559111,
         85882291
     ],
     "wof:breaches":[],
@@ -42,7 +49,16 @@
     "wof:geomhash":"4fcf366823d5addf919a52a27e05f322",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559111,
+            "region_id":85688773,
+            "venue_id":203110477
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,9 +68,9 @@
         }
     ],
     "wof:id":203110477,
-    "wof:lastmodified":1466654843,
+    "wof:lastmodified":1491904053,
     "wof:name":"Pamela M Pearson",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

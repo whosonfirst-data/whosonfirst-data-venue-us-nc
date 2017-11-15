@@ -2,9 +2,14 @@
   "id": 370960719,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 S Mint St Charlotte NC 28203",
+    "addr:housenumber":"1100",
+    "addr:postcode":"28203",
+    "addr:street":"S Mint St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.85627,35.22203,-80.85627,35.22203",
     "geom:latitude":35.22203,
     "geom:longitude":-80.85627,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        85882263,
+        85858067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"601a1e7aeb3ad6a061a69aeda265e953",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85882263,
+            "region_id":85688773,
+            "venue_id":370960719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85858067,
             "region_id":85688773,
             "venue_id":370960719
         }
     ],
     "wof:id":370960719,
-    "wof:lastmodified":1466657039,
+    "wof:lastmodified":1491909071,
     "wof:name":"Enterpro",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

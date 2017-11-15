@@ -2,9 +2,14 @@
   "id": 387941959,
   "type": "Feature",
   "properties": {
+    "addr:full":"5751 Airport Dr Charlotte NC 28208",
+    "addr:housenumber":"5751",
+    "addr:postcode":"28208",
+    "addr:street":"Airport Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.928637,35.206782,-80.928637,35.206782",
     "geom:latitude":35.206782,
     "geom:longitude":-80.928637,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
+        420559457,
         85882291
     ],
     "wof:breaches":[],
@@ -42,7 +49,16 @@
     "wof:geomhash":"6b1ab769b1514e887477c873971823e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559457,
+            "region_id":85688773,
+            "venue_id":387941959
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,9 +68,9 @@
         }
     ],
     "wof:id":387941959,
-    "wof:lastmodified":1466658044,
+    "wof:lastmodified":1491904057,
     "wof:name":"Stonewall Jackson Homes Apts",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

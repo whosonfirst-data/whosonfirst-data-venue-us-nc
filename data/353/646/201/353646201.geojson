@@ -2,9 +2,14 @@
   "id": 353646201,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 Croasdaile Farm Pkwy Durham NC 27705",
+    "addr:housenumber":"2600",
+    "addr:postcode":"27705",
+    "addr:street":"Croasdaile Farm Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.94255,36.045427,-78.94255,36.045427",
     "geom:latitude":36.045427,
     "geom:longitude":-78.94255,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"615267fed8dadef7c2682c104ea35401",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353646201,
-    "wof:lastmodified":1466649954,
+    "wof:lastmodified":1491913497,
     "wof:name":"United Methodist Retire Hm Inc",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

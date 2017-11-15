@@ -2,9 +2,14 @@
   "id": 286586527,
   "type": "Feature",
   "properties": {
+    "addr:full":"6826 South Blvd Charlotte NC 28217",
+    "addr:housenumber":"6826",
+    "addr:postcode":"28217",
+    "addr:street":"South Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.876606,35.141774,-80.876606,35.141774",
     "geom:latitude":35.141774,
     "geom:longitude":-80.876606,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"ad87a84da004cddcb3136239045c84c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286586527,
-    "wof:lastmodified":1466647541,
+    "wof:lastmodified":1491924583,
     "wof:name":"Brake Xperts",
     "wof:parent_id":85834943,
     "wof:placetype":"venue",

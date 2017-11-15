@@ -2,9 +2,14 @@
   "id": 370501413,
   "type": "Feature",
   "properties": {
+    "addr:full":"928 Rocky River Rd W Charlotte NC 28213",
+    "addr:housenumber":"928",
+    "addr:postcode":"28213",
+    "addr:street":"Rocky River Rd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.745966,35.283254,-80.745966,35.283254",
     "geom:latitude":35.283254,
     "geom:longitude":-80.745966,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5ce2c3845483cb6230942e2cd03bc85f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370501413,
-    "wof:lastmodified":1466652571,
+    "wof:lastmodified":1491893384,
     "wof:name":"Park Properties Group Inc",
     "wof:parent_id":85804005,
     "wof:placetype":"venue",

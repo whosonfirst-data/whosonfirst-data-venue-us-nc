@@ -2,9 +2,14 @@
   "id": 387923547,
   "type": "Feature",
   "properties": {
+    "addr:full":"3420 Watkins Rd Durham NC 27707",
+    "addr:housenumber":"3420",
+    "addr:postcode":"27707",
+    "addr:street":"Watkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.992288,35.952806,-78.992288,35.952806",
     "geom:latitude":35.952806,
     "geom:longitude":-78.992288,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"85e3de95a1c5fe88e5ee58ea1a26a4bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387923547,
-    "wof:lastmodified":1466658010,
+    "wof:lastmodified":1491926812,
     "wof:name":"ATMUSA",
     "wof:parent_id":85877177,
     "wof:placetype":"venue",

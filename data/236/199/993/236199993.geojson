@@ -2,9 +2,14 @@
   "id": 236199993,
   "type": "Feature",
   "properties": {
+    "addr:full":"7208 E Independence Blvd Charlotte NC 28227",
+    "addr:housenumber":"7208",
+    "addr:postcode":"28227",
+    "addr:street":"E Independence Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.740377,35.16347,-80.740377,35.16347",
     "geom:latitude":35.16347,
     "geom:longitude":-80.740377,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"52de4a2cf98610091693d1dccd8c9dad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236199993,
-    "wof:lastmodified":1466645022,
+    "wof:lastmodified":1491936657,
     "wof:name":"Genpass LLC",
     "wof:parent_id":85891863,
     "wof:placetype":"venue",

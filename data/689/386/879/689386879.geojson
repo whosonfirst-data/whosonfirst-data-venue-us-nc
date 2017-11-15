@@ -2,9 +2,14 @@
   "id": 689386879,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Mist Lake Dr Durham NC 27704",
+    "addr:housenumber":"1600",
+    "addr:postcode":"27704",
+    "addr:street":"Mist Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.858015,36.023291,-78.858015,36.023291",
     "geom:latitude":36.023291,
     "geom:longitude":-78.858015,
@@ -35,7 +40,8 @@
         85633793,
         85980565,
         102080909,
-        85827667
+        85827667,
+        85807037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,20 @@
             "neighbourhood_id":85827667,
             "region_id":85688773,
             "venue_id":689386879
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85807037,
+            "region_id":85688773,
+            "venue_id":689386879
         }
     ],
     "wof:id":689386879,
-    "wof:lastmodified":1466661351,
+    "wof:lastmodified":1491927340,
     "wof:name":"Plant Engineering & Maint",
-    "wof:parent_id":85827667,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

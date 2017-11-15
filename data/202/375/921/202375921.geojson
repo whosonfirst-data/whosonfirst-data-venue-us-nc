@@ -2,9 +2,14 @@
   "id": 202375921,
   "type": "Feature",
   "properties": {
+    "addr:full":"6221 Round Hill Rd Charlotte NC 28211",
+    "addr:housenumber":"6221",
+    "addr:postcode":"28211",
+    "addr:street":"Round Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.752387,35.150503,-80.752387,35.150503",
     "geom:latitude":35.150503,
     "geom:longitude":-80.752387,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"552ccd0a2dcb5cd0889a9eb76e0ad65d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202375921,
-    "wof:lastmodified":1466649875,
+    "wof:lastmodified":1491936644,
     "wof:name":"Jewels B Come U",
     "wof:parent_id":85891863,
     "wof:placetype":"venue",

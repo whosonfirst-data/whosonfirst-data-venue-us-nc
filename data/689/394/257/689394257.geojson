@@ -2,9 +2,14 @@
   "id": 689394257,
   "type": "Feature",
   "properties": {
+    "addr:full":"13930 Dingess Rd Charlotte NC 28273",
+    "addr:housenumber":"13930",
+    "addr:postcode":"28273",
+    "addr:street":"Dingess Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.960496,35.147921,-80.960496,35.147921",
     "geom:latitude":35.147921,
     "geom:longitude":-80.960496,
@@ -33,8 +38,8 @@
         85633793,
         85981333,
         102080981,
-        85882291,
-        85891873
+        85891873,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +54,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":85882291,
+            "neighbourhood_id":85891873,
             "region_id":85688773,
             "venue_id":689394257
         },
@@ -58,15 +63,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":85891873,
+            "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":689394257
         }
     ],
     "wof:id":689394257,
-    "wof:lastmodified":1466661055,
+    "wof:lastmodified":1491904135,
     "wof:name":"Jrs Travel Planning",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

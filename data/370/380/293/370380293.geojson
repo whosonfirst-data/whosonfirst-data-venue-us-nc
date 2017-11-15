@@ -2,9 +2,14 @@
   "id": 370380293,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Indigo Creek Trl Durham NC 27712",
+    "addr:housenumber":"1",
+    "addr:postcode":"27712",
+    "addr:street":"Indigo Creek Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.948574,36.074902,-78.948574,36.074902",
     "geom:latitude":36.074902,
     "geom:longitude":-78.948574,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"42d2982b7c6f4f65de37d34566a06203",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":370380293
         }
     ],
     "wof:id":370380293,
-    "wof:lastmodified":1466651011,
+    "wof:lastmodified":1491905447,
     "wof:name":"Eno Commons",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

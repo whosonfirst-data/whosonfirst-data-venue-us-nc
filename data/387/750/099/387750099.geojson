@@ -2,9 +2,14 @@
   "id": 387750099,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 Weeping Willow Ln Matthews NC 28105",
+    "addr:housenumber":"1120",
+    "addr:postcode":"28105",
+    "addr:street":"Weeping Willow Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.712822,35.098768,-80.712822,35.098768",
     "geom:latitude":35.098768,
     "geom:longitude":-80.712822,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
-        85850301,
-        85811531
+        85811531,
+        85850301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +49,28 @@
     "wof:geomhash":"bc0490572fe28a7865b6a80dc6156335",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981339,
-            "neighbourhood_id":85850301,
-            "region_id":85688773,
-            "venue_id":387750099
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
             "neighbourhood_id":85811531,
             "region_id":85688773,
             "venue_id":387750099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981339,
+            "neighbourhood_id":85850301,
+            "region_id":85688773,
+            "venue_id":387750099
         }
     ],
     "wof:id":387750099,
-    "wof:lastmodified":1466657584,
+    "wof:lastmodified":1491934556,
     "wof:name":"Mundi Media LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

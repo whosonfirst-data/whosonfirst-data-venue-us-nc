@@ -2,9 +2,14 @@
   "id": 303901733,
   "type": "Feature",
   "properties": {
+    "addr:full":"916 Lamond Ave Durham NC 27701",
+    "addr:housenumber":"916",
+    "addr:postcode":"27701",
+    "addr:street":"Lamond Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.909084,36.002352,-78.909084,36.002352",
     "geom:latitude":36.002352,
     "geom:longitude":-78.909084,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"59de78c916272a75aeb2f9312cb01c6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303901733,
-    "wof:lastmodified":1466656007,
+    "wof:lastmodified":1491906387,
     "wof:name":"Trinity Community Church",
     "wof:parent_id":85877131,
     "wof:placetype":"venue",

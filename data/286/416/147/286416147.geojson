@@ -2,9 +2,14 @@
   "id": 286416147,
   "type": "Feature",
   "properties": {
+    "addr:full":"8531 Crown Crescent Ct Charlotte NC 28227",
+    "addr:housenumber":"8531",
+    "addr:postcode":"28227",
+    "addr:street":"Crown Crescent Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.730596,35.141502,-80.730596,35.141502",
     "geom:latitude":35.141502,
     "geom:longitude":-80.730596,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"95f05eb2face4ad3fb50d0ed49e1a321",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286416147,
-    "wof:lastmodified":1466645234,
+    "wof:lastmodified":1491899983,
     "wof:name":"Elite Mortgage Processing Inc",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

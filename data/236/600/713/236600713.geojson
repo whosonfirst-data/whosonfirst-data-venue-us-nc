@@ -2,9 +2,14 @@
   "id": 236600713,
   "type": "Feature",
   "properties": {
+    "addr:full":"9405 D Ducks Ln Charlotte NC 28273",
+    "addr:housenumber":"9405 d",
+    "addr:postcode":"28273",
+    "addr:street":"Ducks Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.947503,35.133145,-80.947503,35.133145",
     "geom:latitude":35.133145,
     "geom:longitude":-80.947503,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b676603988c35a2829117a5b101ccdbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236600713,
-    "wof:lastmodified":1466648529,
+    "wof:lastmodified":1491912360,
     "wof:name":"Robuild Limited",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

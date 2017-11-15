@@ -2,9 +2,14 @@
   "id": 270418301,
   "type": "Feature",
   "properties": {
+    "addr:full":"906 W Maynard Ave Durham NC 27704",
+    "addr:housenumber":"906",
+    "addr:postcode":"27704",
+    "addr:street":"W Maynard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.906501,36.026641,-78.906501,36.026641",
     "geom:latitude":36.026641,
     "geom:longitude":-78.906501,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"25853eab1380b0027c4335d15a82cfc1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270418301,
-    "wof:lastmodified":1466648361,
+    "wof:lastmodified":1491930900,
     "wof:name":"Samuel C Hodges Jr Assoc",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

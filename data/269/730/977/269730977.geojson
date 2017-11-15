@@ -2,9 +2,14 @@
   "id": 269730977,
   "type": "Feature",
   "properties": {
+    "addr:full":"12101 Taragate Dr Charlotte NC 28273",
+    "addr:housenumber":"12101",
+    "addr:postcode":"28273",
+    "addr:street":"Taragate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.954344,35.141783,-80.954344,35.141783",
     "geom:latitude":35.141783,
     "geom:longitude":-80.954344,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291,
-        85891873
+        85891873,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +49,28 @@
     "wof:geomhash":"eb4bc03908af7e111274817a705922a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "neighbourhood_id":85882291,
-            "region_id":85688773,
-            "venue_id":269730977
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85891873,
             "region_id":85688773,
             "venue_id":269730977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85882291,
+            "region_id":85688773,
+            "venue_id":269730977
         }
     ],
     "wof:id":269730977,
-    "wof:lastmodified":1466646148,
+    "wof:lastmodified":1491904100,
     "wof:name":"Herrin Vending Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

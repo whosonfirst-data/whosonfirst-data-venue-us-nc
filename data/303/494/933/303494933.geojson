@@ -2,9 +2,14 @@
   "id": 303494933,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 Wyldewood Rd Durham NC 27704",
+    "addr:housenumber":"1120",
+    "addr:postcode":"27704",
+    "addr:street":"Wyldewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.916714,36.053071,-78.916714,36.053071",
     "geom:latitude":36.053071,
     "geom:longitude":-78.916714,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5928abef94f10d2909651f2e1493ef49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303494933,
-    "wof:lastmodified":1466650446,
+    "wof:lastmodified":1491913497,
     "wof:name":"Expressions Dance Troupe",
     "wof:parent_id":85851613,
     "wof:placetype":"venue",

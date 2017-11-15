@@ -2,9 +2,14 @@
   "id": 336677487,
   "type": "Feature",
   "properties": {
+    "addr:full":"1339 Baxter St Charlotte NC 28204",
+    "addr:housenumber":"1339",
+    "addr:postcode":"28204",
+    "addr:street":"Baxter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.834312,35.210645,-80.834312,35.210645",
     "geom:latitude":35.210645,
     "geom:longitude":-80.834312,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"f6630a0eced619937ed68431de4556e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336677487,
-    "wof:lastmodified":1466647036,
+    "wof:lastmodified":1491926305,
     "wof:name":"Carolina Surgical & Medical",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320834217,
   "type": "Feature",
   "properties": {
+    "addr:full":"424 S Dawson St Raleigh NC 27601",
+    "addr:housenumber":"424",
+    "addr:postcode":"27601",
+    "addr:street":"S Dawson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.643709,35.775421,-78.643709,35.775421",
     "geom:latitude":35.775421,
     "geom:longitude":-78.643709,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -43,7 +49,7 @@
     "wof:geomhash":"45c30eeb14099aa26ea0ac33c7b5e966",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320834217,
-    "wof:lastmodified":1466656848,
+    "wof:lastmodified":1491939120,
     "wof:name":"Anderson Art & Restoration",
     "wof:parent_id":85873475,
     "wof:placetype":"venue",

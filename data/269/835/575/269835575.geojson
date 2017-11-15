@@ -2,9 +2,14 @@
   "id": 269835575,
   "type": "Feature",
   "properties": {
+    "addr:full":"764 Saint George Rd Raleigh NC 27610",
+    "addr:housenumber":"764",
+    "addr:postcode":"27610",
+    "addr:street":"Saint George Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.588852,35.765012,-78.588852,35.765012",
     "geom:latitude":35.765012,
     "geom:longitude":-78.588852,
@@ -26,7 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
+        85980569,
         102087821,
         85848333
     ],
@@ -38,17 +45,17 @@
     "wof:geomhash":"2ca9535ba31ea65194a7002dc53592f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
-            "locality_id":-1,
+            "locality_id":85980569,
             "neighbourhood_id":85848333,
             "region_id":85688773,
             "venue_id":269835575
         }
     ],
     "wof:id":269835575,
-    "wof:lastmodified":1466647343,
+    "wof:lastmodified":1491885980,
     "wof:name":"Bs Personal Touch",
     "wof:parent_id":85848333,
     "wof:placetype":"venue",

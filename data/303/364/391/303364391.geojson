@@ -2,9 +2,14 @@
   "id": 303364391,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 Overstream Ln Matthews NC 28105",
+    "addr:housenumber":"1113",
+    "addr:postcode":"28105",
+    "addr:street":"Overstream Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.713464,35.077109,-80.713464,35.077109",
     "geom:latitude":35.077109,
     "geom:longitude":-80.713464,
@@ -26,10 +31,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
-        85850301
+        85850301,
+        85981363,
+        102080895,
+        420532837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +48,28 @@
     "wof:geomhash":"f2129e0a00ed6fd3c527ba33ef33e235",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
             "neighbourhood_id":85850301,
             "region_id":85688773,
             "venue_id":303364391
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080895,
+            "locality_id":85981363,
+            "neighbourhood_id":420532837,
+            "region_id":85688773,
+            "venue_id":303364391
         }
     ],
     "wof:id":303364391,
-    "wof:lastmodified":1466648562,
+    "wof:lastmodified":1491934545,
     "wof:name":"Wilson Sporting Goods Co (del)",
-    "wof:parent_id":85850301,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

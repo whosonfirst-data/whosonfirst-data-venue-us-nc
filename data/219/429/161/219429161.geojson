@@ -2,9 +2,14 @@
   "id": 219429161,
   "type": "Feature",
   "properties": {
+    "addr:full":"419 Sandy Ave Charlotte NC 28213",
+    "addr:housenumber":"419",
+    "addr:postcode":"28213",
+    "addr:street":"Sandy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.758232,35.28089,-80.758232,35.28089",
     "geom:latitude":35.28089,
     "geom:longitude":-80.758232,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4ea42aafba61cb329e15f3aa664612fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219429161,
-    "wof:lastmodified":1466644345,
+    "wof:lastmodified":1491893392,
     "wof:name":"Irlanda Janitorial Cleaning",
     "wof:parent_id":85804005,
     "wof:placetype":"venue",

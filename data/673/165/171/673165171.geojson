@@ -2,9 +2,14 @@
   "id": 673165171,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Beach Pointe Ave Raleigh NC 27604",
+    "addr:housenumber":"1001",
+    "addr:postcode":"27604",
+    "addr:street":"Beach Pointe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.538423,35.796863,-78.538423,35.796863",
     "geom:latitude":35.796863,
     "geom:longitude":-78.538423,
@@ -28,12 +33,7 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85892055,
-        102087821
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ty8oMWiIEjGOHZEhjbTe0_35.796863_-78.538423@1294165850"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1461735120,
     "wof:geomhash":"4fe1ff3a312f77f4e18c7563ab9725ed",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087821,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":673165171
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":673165171,
-    "wof:lastmodified":1466656938,
+    "wof:lastmodified":1491888709,
     "wof:name":"Beachwood Park Apartments",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

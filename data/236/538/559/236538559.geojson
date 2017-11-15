@@ -2,9 +2,14 @@
   "id": 236538559,
   "type": "Feature",
   "properties": {
+    "addr:full":"2805 Haven Rd Raleigh NC 27610",
+    "addr:housenumber":"2805",
+    "addr:postcode":"27610",
+    "addr:street":"Haven Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.587477,35.776582,-78.587477,35.776582",
     "geom:latitude":35.776582,
     "geom:longitude":-78.587477,
@@ -30,7 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
+        85980569,
         102087821,
         85848333
     ],
@@ -42,17 +49,17 @@
     "wof:geomhash":"3ccb97dc1d2cff9fa94f7bbe12a60139",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
-            "locality_id":-1,
+            "locality_id":85980569,
             "neighbourhood_id":85848333,
             "region_id":85688773,
             "venue_id":236538559
         }
     ],
     "wof:id":236538559,
-    "wof:lastmodified":1466647968,
+    "wof:lastmodified":1491885978,
     "wof:name":"Morales Construction",
     "wof:parent_id":85848333,
     "wof:placetype":"venue",

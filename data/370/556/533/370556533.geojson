@@ -2,9 +2,14 @@
   "id": 370556533,
   "type": "Feature",
   "properties": {
+    "addr:full":"512 East Blvd Charlotte NC 28203",
+    "addr:housenumber":"512",
+    "addr:postcode":"28203",
+    "addr:street":"East Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.853291,35.208363,-80.853291,35.208363",
     "geom:latitude":35.208363,
     "geom:longitude":-80.853291,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c35f7680a7bc2cfdccbf7854ce03a4c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370556533,
-    "wof:lastmodified":1466653311,
+    "wof:lastmodified":1491908390,
     "wof:name":"1 Team 4 You",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203153899,
   "type": "Feature",
   "properties": {
+    "addr:full":"2901 Yorkmont Rd Charlotte NC 28208",
+    "addr:housenumber":"2901",
+    "addr:postcode":"28208",
+    "addr:street":"Yorkmont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.930311,35.190923,-80.930311,35.190923",
     "geom:latitude":35.190923,
     "geom:longitude":-80.930311,
@@ -26,10 +31,15 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        420559457,
+        85814609,
+        85882291,
+        85850977,
+        85817833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +49,55 @@
     "wof:geomhash":"e5dd1a635efe4880f069e43078a56c99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559457,
+            "region_id":85688773,
+            "venue_id":203153899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85814609,
+            "region_id":85688773,
+            "venue_id":203153899
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":203153899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85850977,
+            "region_id":85688773,
+            "venue_id":203153899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85817833,
+            "region_id":85688773,
+            "venue_id":203153899
         }
     ],
     "wof:id":203153899,
-    "wof:lastmodified":1466655035,
+    "wof:lastmodified":1491904093,
     "wof:name":"Sans Mart",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

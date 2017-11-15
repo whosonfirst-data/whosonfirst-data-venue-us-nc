@@ -2,9 +2,14 @@
   "id": 303283489,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 W Davie St Raleigh NC 27601",
+    "addr:housenumber":"321",
+    "addr:postcode":"27601",
+    "addr:street":"W Davie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.643721,35.77567,-78.643721,35.77567",
     "geom:latitude":35.77567,
     "geom:longitude":-78.643721,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -39,7 +45,7 @@
     "wof:geomhash":"77d129f5edc25b0a2548b9173c94f6ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303283489,
-    "wof:lastmodified":1466647437,
+    "wof:lastmodified":1491939121,
     "wof:name":"Antiques & Imports",
     "wof:parent_id":85873475,
     "wof:placetype":"venue",

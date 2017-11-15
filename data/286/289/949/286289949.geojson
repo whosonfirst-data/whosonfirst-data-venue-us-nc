@@ -2,9 +2,14 @@
   "id": 286289949,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Roxboro Rd Durham NC 27704",
+    "addr:housenumber":"2301",
+    "addr:postcode":"27704",
+    "addr:street":"Roxboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.889899,36.021518,-78.889899,36.021518",
     "geom:latitude":36.021518,
     "geom:longitude":-78.889899,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85877169,
+        85807037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,27 @@
     "wof:geomhash":"0d1ff5f987dee8b7de1d038477ff1f9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877169,
+            "region_id":85688773,
+            "venue_id":286289949
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85807037,
             "region_id":85688773,
             "venue_id":286289949
         }
     ],
     "wof:id":286289949,
-    "wof:lastmodified":1466643599,
+    "wof:lastmodified":1491927345,
     "wof:name":"Taqueria LA Poblana",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 303738555,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 Torrey Pine Ln Durham NC 27713",
+    "addr:housenumber":"5100",
+    "addr:postcode":"27713",
+    "addr:street":"Torrey Pine Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.929277,35.91675,-78.929277,35.91675",
     "geom:latitude":35.91675,
     "geom:longitude":-78.929277,
@@ -33,9 +38,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85858607,
+        85877203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,28 @@
     "wof:geomhash":"09589427553e41c2deced0b41f5f0bf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85858607,
+            "region_id":85688773,
+            "venue_id":303738555
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85877203,
             "region_id":85688773,
             "venue_id":303738555
         }
     ],
     "wof:id":303738555,
-    "wof:lastmodified":1466653976,
+    "wof:lastmodified":1491917419,
     "wof:name":"Wilmingtonsoftwarecom",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

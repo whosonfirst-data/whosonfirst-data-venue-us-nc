@@ -2,9 +2,14 @@
   "id": 286510673,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 N College St Charlotte NC 28202",
+    "addr:housenumber":"300",
+    "addr:postcode":"28202",
+    "addr:street":"N College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.8387,35.228584,-80.8387,35.228584",
     "geom:latitude":35.228584,
     "geom:longitude":-80.8387,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"399bc2fd8d3441aeb3b226f75e431110",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":286510673,
-    "wof:lastmodified":1466646487,
+    "wof:lastmodified":1491900477,
     "wof:name":"Bar Charlotte",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 319834573,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 E Sugar Creek Rd Charlotte NC 28213",
+    "addr:housenumber":"600",
+    "addr:postcode":"28213",
+    "addr:street":"E Sugar Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.791124,35.251456,-80.791124,35.251456",
     "geom:latitude":35.251456,
     "geom:longitude":-80.791124,
@@ -30,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        420532327,
+        85837459,
+        420532233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,37 @@
     "wof:geomhash":"a7c6cb85e3c9291a7608e8f032b087e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420532327,
+            "region_id":85688773,
+            "venue_id":319834573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85837459,
+            "region_id":85688773,
+            "venue_id":319834573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420532233,
             "region_id":85688773,
             "venue_id":319834573
         }
     ],
     "wof:id":319834573,
-    "wof:lastmodified":1466645085,
+    "wof:lastmodified":1491906665,
     "wof:name":"Bradco Supply Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

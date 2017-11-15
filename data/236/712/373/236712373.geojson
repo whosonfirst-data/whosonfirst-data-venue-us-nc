@@ -2,9 +2,14 @@
   "id": 236712373,
   "type": "Feature",
   "properties": {
+    "addr:full":"1920 Rock Quarry Rd Raleigh NC 27610",
+    "addr:housenumber":"1920",
+    "addr:postcode":"27610",
+    "addr:street":"Rock Quarry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.612626,35.753941,-78.612626,35.753941",
     "geom:latitude":35.753941,
     "geom:longitude":-78.612626,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
+        420533297,
         85850267
     ],
     "wof:breaches":[],
@@ -39,7 +46,16 @@
     "wof:geomhash":"d00a5a6d178d6cfb9862f75537d835ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":420533297,
+            "region_id":85688773,
+            "venue_id":236712373
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,9 +65,9 @@
         }
     ],
     "wof:id":236712373,
-    "wof:lastmodified":1466649602,
+    "wof:lastmodified":1491928888,
     "wof:name":"Han-Dee Hugo's",
-    "wof:parent_id":85850267,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

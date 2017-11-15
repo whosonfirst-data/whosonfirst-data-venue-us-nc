@@ -2,9 +2,14 @@
   "id": 319818961,
   "type": "Feature",
   "properties": {
+    "addr:full":"9100 S Tryon St Charlotte NC 28273",
+    "addr:housenumber":"9100",
+    "addr:postcode":"28273",
+    "addr:street":"S Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.94061,35.132239,-80.94061,35.132239",
     "geom:latitude":35.132239,
     "geom:longitude":-80.94061,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"529a22218c4e6ba973ff57ecd7b9215e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":319818961,
-    "wof:lastmodified":1466644850,
+    "wof:lastmodified":1491912370,
     "wof:name":"Nationwide Money Svc",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

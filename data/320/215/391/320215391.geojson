@@ -2,9 +2,14 @@
   "id": 320215391,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 Quiet Woods Pl Durham NC 27712",
+    "addr:housenumber":"813",
+    "addr:postcode":"27712",
+    "addr:street":"Quiet Woods Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.978259,36.071937,-78.978259,36.071937",
     "geom:latitude":36.071937,
     "geom:longitude":-78.978259,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"ef6a7dbb175170ccbb758e292a240c41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":320215391
         }
     ],
     "wof:id":320215391,
-    "wof:lastmodified":1466648299,
+    "wof:lastmodified":1491905444,
     "wof:name":"Towns At Country Club Heights",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

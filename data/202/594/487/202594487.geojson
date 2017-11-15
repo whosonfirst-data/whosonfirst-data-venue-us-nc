@@ -2,9 +2,14 @@
   "id": 202594487,
   "type": "Feature",
   "properties": {
+    "addr:full":"3940 Bristol Dr Charlotte NC 28208",
+    "addr:housenumber":"3940",
+    "addr:postcode":"28208",
+    "addr:street":"Bristol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.901562,35.23062,-80.901562,35.23062",
     "geom:latitude":35.23062,
     "geom:longitude":-80.901562,
@@ -26,10 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420559867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,28 @@
     "wof:geomhash":"c588814b14e0f2c7e64bb5a14ca770e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":202594487
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559867,
+            "region_id":85688773,
+            "venue_id":202594487
         }
     ],
     "wof:id":202594487,
-    "wof:lastmodified":1466655481,
+    "wof:lastmodified":1491904078,
     "wof:name":"Tonis Professional Drain Clea",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

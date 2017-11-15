@@ -2,9 +2,14 @@
   "id": 320197513,
   "type": "Feature",
   "properties": {
+    "addr:full":"3232 Oak Lake Blvd Charlotte NC 28208",
+    "addr:housenumber":"3232",
+    "addr:postcode":"28208",
+    "addr:street":"Oak Lake Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.926721,35.192403,-80.926721,35.192403",
     "geom:latitude":35.192403,
     "geom:longitude":-80.926721,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
+        420559457,
         85882291
     ],
     "wof:breaches":[],
@@ -43,7 +50,16 @@
     "wof:geomhash":"bf2b8ddddbf136c7d6924be00fbfd067",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559457,
+            "region_id":85688773,
+            "venue_id":320197513
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,9 +69,9 @@
         }
     ],
     "wof:id":320197513,
-    "wof:lastmodified":1466648060,
+    "wof:lastmodified":1491904086,
     "wof:name":"Charley Co",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

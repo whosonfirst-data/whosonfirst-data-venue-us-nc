@@ -2,9 +2,14 @@
   "id": 320756629,
   "type": "Feature",
   "properties": {
+    "addr:full":"8038 S Tryon St Charlotte NC 28273",
+    "addr:housenumber":"8038",
+    "addr:postcode":"28273",
+    "addr:street":"S Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.928984,35.143826,-80.928984,35.143826",
     "geom:latitude":35.143826,
     "geom:longitude":-80.928984,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"f60a1f97d1a25f8ebf9e4c9e1409e70d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320756629,
-    "wof:lastmodified":1466655963,
+    "wof:lastmodified":1491914696,
     "wof:name":"Whitehall Commons",
     "wof:parent_id":85839499,
     "wof:placetype":"venue",

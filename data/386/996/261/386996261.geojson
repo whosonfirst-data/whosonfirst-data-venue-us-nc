@@ -2,9 +2,14 @@
   "id": 386996261,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 Umstead Rd Durham NC 27712",
+    "addr:housenumber":"2020",
+    "addr:postcode":"27712",
+    "addr:street":"Umstead Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.950325,36.076879,-78.950325,36.076879",
     "geom:latitude":36.076879,
     "geom:longitude":-78.950325,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"56720de147df3f54e00403b39f8ef5c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":386996261
         }
     ],
     "wof:id":386996261,
-    "wof:lastmodified":1466650267,
+    "wof:lastmodified":1491905447,
     "wof:name":"Jdt Properties",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

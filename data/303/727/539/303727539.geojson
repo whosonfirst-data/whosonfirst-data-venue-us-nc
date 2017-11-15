@@ -2,9 +2,14 @@
   "id": 303727539,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 Willard Pl Raleigh NC 27603",
+    "addr:housenumber":"608",
+    "addr:postcode":"27603",
+    "addr:street":"Willard Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.64904,35.782051,-78.64904,35.782051",
     "geom:latitude":35.782051,
     "geom:longitude":-78.64904,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3fc53392bd77b49eb633273acb7b34ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303727539,
-    "wof:lastmodified":1466653814,
+    "wof:lastmodified":1491913533,
     "wof:name":"Joshua M Brown",
     "wof:parent_id":85873457,
     "wof:placetype":"venue",

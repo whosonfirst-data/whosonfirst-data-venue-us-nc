@@ -2,9 +2,14 @@
   "id": 252950271,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 Cranmoore Ct Raleigh NC 27604",
+    "addr:housenumber":"1212",
+    "addr:postcode":"27604",
+    "addr:street":"Cranmoore Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.533608,35.807608,-78.533608,35.807608",
     "geom:latitude":35.807608,
     "geom:longitude":-78.533608,
@@ -28,31 +33,16 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        102087821,
-        85892055
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o9Dg5dbOORHZVe3brA05l_35.807608_-78.533608@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"f123dc060f518eb2e3728915b0ebbc4f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":-1,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":252950271
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":252950271,
-    "wof:lastmodified":1466645412,
+    "wof:lastmodified":1491888713,
     "wof:name":"J Sisters Cleaning Service",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

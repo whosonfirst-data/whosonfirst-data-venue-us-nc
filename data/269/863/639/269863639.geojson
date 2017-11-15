@@ -2,9 +2,14 @@
   "id": 269863639,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 S Stream Blvd Charlotte NC 28217",
+    "addr:housenumber":"4100",
+    "addr:postcode":"28217",
+    "addr:street":"S Stream Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.91944,35.183899,-80.91944,35.183899",
     "geom:latitude":35.183899,
     "geom:longitude":-80.91944,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85817833,
-        85882291
+        85882291,
+        85817833
     ],
     "wof:brand_id":420575849,
     "wof:breaches":[],
@@ -44,28 +50,28 @@
     "wof:geomhash":"87a2eafa55d8cb94b91ba5a0bb2f635d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "neighbourhood_id":85817833,
-            "region_id":85688773,
-            "venue_id":269863639
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":269863639
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85817833,
+            "region_id":85688773,
+            "venue_id":269863639
         }
     ],
     "wof:id":269863639,
-    "wof:lastmodified":1466647657,
+    "wof:lastmodified":1491904058,
     "wof:name":"BellSouth",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

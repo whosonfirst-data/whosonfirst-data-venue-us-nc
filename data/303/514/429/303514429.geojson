@@ -2,9 +2,14 @@
   "id": 303514429,
   "type": "Feature",
   "properties": {
+    "addr:full":"1815 S State St Raleigh NC 27610",
+    "addr:housenumber":"1815",
+    "addr:postcode":"27610",
+    "addr:street":"S State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.621834,35.75479,-78.621834,35.75479",
     "geom:latitude":35.75479,
     "geom:longitude":-78.621834,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
+        420559361,
         85850267
     ],
     "wof:breaches":[],
@@ -43,7 +50,16 @@
     "wof:geomhash":"46be3c463c4ab707564bb95bd4b938e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":420559361,
+            "region_id":85688773,
+            "venue_id":303514429
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,9 +69,9 @@
         }
     ],
     "wof:id":303514429,
-    "wof:lastmodified":1466650726,
+    "wof:lastmodified":1491928889,
     "wof:name":"Vistar Auto Glass",
-    "wof:parent_id":85850267,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

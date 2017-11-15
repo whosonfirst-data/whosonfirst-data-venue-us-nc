@@ -2,9 +2,14 @@
   "id": 403745255,
   "type": "Feature",
   "properties": {
+    "addr:full":"724 Richmond St Raleigh NC 27609",
+    "addr:housenumber":"724",
+    "addr:postcode":"27609",
+    "addr:street":"Richmond St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.654359,35.840969,-78.654359,35.840969",
     "geom:latitude":35.840969,
     "geom:longitude":-78.654359,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -39,7 +45,7 @@
     "wof:geomhash":"052e4d328a4d4eb220d44431b18005df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":403745255,
-    "wof:lastmodified":1466650878,
+    "wof:lastmodified":1491908398,
     "wof:name":"Metrics & Marketing",
     "wof:parent_id":85807295,
     "wof:placetype":"venue",

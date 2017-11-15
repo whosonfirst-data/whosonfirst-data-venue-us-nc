@@ -2,9 +2,14 @@
   "id": 387656601,
   "type": "Feature",
   "properties": {
+    "addr:full":"4920 Biltmore Forest Dr Matthews NC 28105",
+    "addr:housenumber":"4920",
+    "addr:postcode":"28105",
+    "addr:street":"Biltmore Forest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.708817,35.087935,-80.708817,35.087935",
     "geom:latitude":35.087935,
     "geom:longitude":-80.708817,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"223f8035609194af82fc10b315f14e88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -52,7 +58,7 @@
             "venue_id":387656601
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -62,9 +68,9 @@
         }
     ],
     "wof:id":387656601,
-    "wof:lastmodified":1466656996,
+    "wof:lastmodified":1491934553,
     "wof:name":"Strategic Business Advisors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

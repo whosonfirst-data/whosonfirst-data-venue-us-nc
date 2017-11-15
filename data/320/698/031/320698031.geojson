@@ -2,9 +2,14 @@
   "id": 320698031,
   "type": "Feature",
   "properties": {
+    "addr:full":"1716 Brooksvale St Charlotte NC 28208",
+    "addr:housenumber":"1716",
+    "addr:postcode":"28208",
+    "addr:street":"Brooksvale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.921544,35.208405,-80.921544,35.208405",
     "geom:latitude":35.208405,
     "geom:longitude":-80.921544,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
+        420559457,
         85882291
     ],
     "wof:breaches":[],
@@ -43,7 +50,16 @@
     "wof:geomhash":"9b6468d400b7301b93c8ff0d8bb15364",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559457,
+            "region_id":85688773,
+            "venue_id":320698031
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,9 +69,9 @@
         }
     ],
     "wof:id":320698031,
-    "wof:lastmodified":1466655234,
+    "wof:lastmodified":1491904063,
     "wof:name":"Ymca Comm Dev",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

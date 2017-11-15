@@ -2,9 +2,14 @@
   "id": 303190779,
   "type": "Feature",
   "properties": {
+    "addr:full":"1810 Washington St Durham NC 27701",
+    "addr:housenumber":"1810",
+    "addr:postcode":"27701",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.900362,36.018443,-78.900362,36.018443",
     "geom:latitude":36.018443,
     "geom:longitude":-78.900362,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -52,7 +58,7 @@
     "wof:geomhash":"cae45fd493823e8a49d0de1122bb4222",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":303190779,
-    "wof:lastmodified":1466646084,
+    "wof:lastmodified":1491930910,
     "wof:name":"John A Lloyd & Associates",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

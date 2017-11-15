@@ -2,9 +2,14 @@
   "id": 689429453,
   "type": "Feature",
   "properties": {
+    "addr:full":"1633 Old Milburnie Rd Raleigh NC 27604",
+    "addr:housenumber":"1633",
+    "addr:postcode":"27604",
+    "addr:street":"Old Milburnie Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.52723,35.809449,-78.52723,35.809449",
     "geom:latitude":35.809449,
     "geom:longitude":-78.52723,
@@ -28,12 +33,7 @@
         "grading"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85892055,
-        102087821
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5inhCBu4GcfYkZ4olJNdKE_35.809449_-78.527230@1303262557"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1461750785,
     "wof:geomhash":"d5fb75c1a0f65cc53426c187d93e8ea7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087821,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":689429453
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689429453,
-    "wof:lastmodified":1466662473,
+    "wof:lastmodified":1491888710,
     "wof:name":"Adcock Contracting",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

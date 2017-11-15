@@ -2,9 +2,14 @@
   "id": 219496189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1813 Watlington Dr Charlotte NC 28270",
+    "addr:housenumber":"1813",
+    "addr:postcode":"28270",
+    "addr:street":"Watlington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.738315,35.100725,-80.738315,35.100725",
     "geom:latitude":35.100725,
     "geom:longitude":-80.738315,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -41,7 +47,7 @@
     "wof:geomhash":"ea72923e6b495d8757e6a1bf53c7b909",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -50,7 +56,7 @@
             "venue_id":219496189
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -60,9 +66,9 @@
         }
     ],
     "wof:id":219496189,
-    "wof:lastmodified":1466644867,
+    "wof:lastmodified":1491934544,
     "wof:name":"Sutton Insurance Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

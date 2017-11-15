@@ -2,9 +2,14 @@
   "id": 303846127,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Cline St Concord NC 28027",
+    "addr:housenumber":"123",
+    "addr:postcode":"28027",
+    "addr:street":"Cline St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.619073,35.455044,-80.619073,35.455044",
     "geom:latitude":35.455044,
     "geom:longitude":-80.619073,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980229,
         102087733,
@@ -39,7 +45,7 @@
     "wof:geomhash":"10a52e2b2b99b7be77c46549f65fa11e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087733,
             "locality_id":85980229,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303846127,
-    "wof:lastmodified":1466655530,
+    "wof:lastmodified":1491915796,
     "wof:name":"Edman On Call",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",

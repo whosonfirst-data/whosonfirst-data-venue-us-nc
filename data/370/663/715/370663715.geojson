@@ -2,9 +2,14 @@
   "id": 370663715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 Broad St Durham NC 27705",
+    "addr:housenumber":"1410",
+    "addr:postcode":"27705",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.918722,36.023116,-78.918722,36.023116",
     "geom:latitude":36.023116,
     "geom:longitude":-78.918722,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"3c80e09329be6210de8c93b200451bb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370663715,
-    "wof:lastmodified":1466654720,
+    "wof:lastmodified":1491930920,
     "wof:name":"Classcal Acpncture Prcttioners",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

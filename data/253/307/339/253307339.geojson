@@ -2,9 +2,14 @@
   "id": 253307339,
   "type": "Feature",
   "properties": {
+    "addr:full":"924 Bluestone Rd Durham NC 27713",
+    "addr:housenumber":"924",
+    "addr:postcode":"27713",
+    "addr:street":"Bluestone Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.906166,35.916843,-78.906166,35.916843",
     "geom:latitude":35.916843,
     "geom:longitude":-78.906166,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f65be1f609befded65a2fc9072850aa9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253307339,
-    "wof:lastmodified":1466646123,
+    "wof:lastmodified":1491916648,
     "wof:name":"Angel Land Child Care Cente R",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

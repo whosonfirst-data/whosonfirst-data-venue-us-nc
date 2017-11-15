@@ -2,9 +2,14 @@
   "id": 304045131,
   "type": "Feature",
   "properties": {
+    "addr:full":"847 Cloverleaf Plz Kannapolis NC 28083",
+    "addr:housenumber":"847",
+    "addr:postcode":"28083",
+    "addr:street":"Cloverleaf Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.609657,35.450782,-80.609657,35.450782",
     "geom:latitude":35.450782,
     "geom:longitude":-80.609657,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980229,
         102087733,
@@ -43,7 +49,7 @@
     "wof:geomhash":"937741380f6b35c49f41d41fd8b02bbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087733,
             "locality_id":85980229,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":304045131,
-    "wof:lastmodified":1466644802,
+    "wof:lastmodified":1491915801,
     "wof:name":"Lean Machines",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",

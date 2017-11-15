@@ -2,9 +2,14 @@
   "id": 252996787,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 Kidd Rd Raleigh NC 27610",
+    "addr:housenumber":"2800",
+    "addr:postcode":"27610",
+    "addr:street":"Kidd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.584902,35.778615,-78.584902,35.778615",
     "geom:latitude":35.778615,
     "geom:longitude":-78.584902,
@@ -26,7 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
+        85980569,
         102087821,
         85848333
     ],
@@ -38,17 +45,17 @@
     "wof:geomhash":"85107e92c8ec4c808190433fa4e3bcce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
-            "locality_id":-1,
+            "locality_id":85980569,
             "neighbourhood_id":85848333,
             "region_id":85688773,
             "venue_id":252996787
         }
     ],
     "wof:id":252996787,
-    "wof:lastmodified":1466645841,
+    "wof:lastmodified":1491885978,
     "wof:name":"Community Lving Concepts of NC",
     "wof:parent_id":85848333,
     "wof:placetype":"venue",

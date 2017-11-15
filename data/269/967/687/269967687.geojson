@@ -2,9 +2,14 @@
   "id": 269967687,
   "type": "Feature",
   "properties": {
+    "addr:full":"9920 Newell Hickory Grove Rd Charlotte NC 28213",
+    "addr:housenumber":"9920",
+    "addr:postcode":"28213",
+    "addr:street":"Newell Hickory Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.740513,35.271995,-80.740513,35.271995",
     "geom:latitude":35.271995,
     "geom:longitude":-80.740513,
@@ -36,9 +41,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        85804005,
+        85811747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +56,28 @@
     "wof:geomhash":"7936fc92e53464e084bce14d6c639f09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85804005,
+            "region_id":85688773,
+            "venue_id":269967687
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85811747,
             "region_id":85688773,
             "venue_id":269967687
         }
     ],
     "wof:id":269967687,
-    "wof:lastmodified":1466648957,
+    "wof:lastmodified":1491893391,
     "wof:name":"University Church of Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

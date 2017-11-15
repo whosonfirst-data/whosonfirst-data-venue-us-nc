@@ -2,9 +2,14 @@
   "id": 203037349,
   "type": "Feature",
   "properties": {
+    "addr:full":"6308 Lakeland Dr Raleigh NC 27612",
+    "addr:housenumber":"6308",
+    "addr:postcode":"27612",
+    "addr:street":"Lakeland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.661959,35.862791,-78.661959,35.862791",
     "geom:latitude":35.862791,
     "geom:longitude":-78.661959,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
-        102087821
+        102087821,
+        420534367,
+        85807097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"1e8901550c11cdb4d24bdc26d9194eb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420534367,
+            "region_id":85688773,
+            "venue_id":203037349
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":85807097,
             "region_id":85688773,
             "venue_id":203037349
         }
     ],
     "wof:id":203037349,
-    "wof:lastmodified":1466654422,
+    "wof:lastmodified":1491896416,
     "wof:name":"Dinley & Johnson",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

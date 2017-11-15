@@ -2,9 +2,14 @@
   "id": 303124415,
   "type": "Feature",
   "properties": {
+    "addr:full":"950 Cloverleaf Plz Kannapolis NC 28083",
+    "addr:housenumber":"950",
+    "addr:postcode":"28083",
+    "addr:street":"Cloverleaf Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.607149,35.451455,-80.607149,35.451455",
     "geom:latitude":35.451455,
     "geom:longitude":-80.607149,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980229,
         102087733,
@@ -39,7 +45,7 @@
     "wof:geomhash":"f680118d6b84d3a641fc4121f1387d82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087733,
             "locality_id":85980229,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303124415,
-    "wof:lastmodified":1466645086,
+    "wof:lastmodified":1491915786,
     "wof:name":"Real Fashions",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",

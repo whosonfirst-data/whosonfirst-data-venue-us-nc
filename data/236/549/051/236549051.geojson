@@ -2,9 +2,14 @@
   "id": 236549051,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 N Myers St Charlotte NC 28202",
+    "addr:housenumber":"125",
+    "addr:postcode":"28202",
+    "addr:street":"N Myers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.835208,35.221898,-80.835208,35.221898",
     "geom:latitude":35.221898,
     "geom:longitude":-80.835208,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"02f6c8684313f965681c570a73089abf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236549051,
-    "wof:lastmodified":1466648063,
+    "wof:lastmodified":1491900487,
     "wof:name":"Palmettonet Inc",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",

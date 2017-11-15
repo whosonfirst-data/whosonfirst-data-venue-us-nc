@@ -2,9 +2,14 @@
   "id": 304037873,
   "type": "Feature",
   "properties": {
+    "addr:full":"2061 Lennox Square Rd Charlotte NC 28210",
+    "addr:housenumber":"2061",
+    "addr:postcode":"28210",
+    "addr:street":"Lennox Square Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.872671,35.126446,-80.872671,35.126446",
     "geom:latitude":35.126446,
     "geom:longitude":-80.872671,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"aaf9111d1bead1dd4b21869c0736d04e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":304037873,
-    "wof:lastmodified":1466644703,
+    "wof:lastmodified":1491926260,
     "wof:name":"Made In Japan",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

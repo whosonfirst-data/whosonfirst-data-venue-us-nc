@@ -2,9 +2,14 @@
   "id": 252838069,
   "type": "Feature",
   "properties": {
+    "addr:full":"517 Cook Rd Durham NC 27713",
+    "addr:housenumber":"517",
+    "addr:postcode":"27713",
+    "addr:street":"Cook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.915332,35.950392,-78.915332,35.950392",
     "geom:latitude":35.950392,
     "geom:longitude":-78.915332,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8a9d6cdf2838b8e10a1a49c109f69c8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":252838069,
-    "wof:lastmodified":1466644372,
+    "wof:lastmodified":1491916641,
     "wof:name":"Long's Memorial AME Zion Chu",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

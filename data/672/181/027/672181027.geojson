@@ -2,9 +2,14 @@
   "id": 672181027,
   "type": "Feature",
   "properties": {
+    "addr:full":"2309 E Geer St Durham NC 27704",
+    "addr:housenumber":"2309",
+    "addr:postcode":"27704",
+    "addr:street":"E Geer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.841247,36.026824,-78.841247,36.026824",
     "geom:latitude":36.026824,
     "geom:longitude":-78.841247,
@@ -28,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688773,
         85633793,
+        420531449,
+        85688773,
         85980565,
         102080909,
         85807037
@@ -44,6 +50,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420531449,
+            "venue_id":672181027
+        },
+        {
+            "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
             "neighbourhood_id":85807037,
@@ -52,9 +63,9 @@
         }
     ],
     "wof:id":672181027,
-    "wof:lastmodified":1466653923,
+    "wof:lastmodified":1491927354,
     "wof:name":"Gorman Puritan Club",
-    "wof:parent_id":85807037,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 286870255,
   "type": "Feature",
   "properties": {
+    "addr:full":"3800 Pleasant Plains Rd Matthews NC 28104",
+    "addr:housenumber":"3800",
+    "addr:postcode":"28104",
+    "addr:street":"Pleasant Plains Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.699837,35.084035,-80.699837,35.084035",
     "geom:latitude":35.084035,
     "geom:longitude":-80.699837,
@@ -29,10 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
-        85850301
+        85850301,
+        85981363,
+        102080895,
+        420532837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,28 @@
     "wof:geomhash":"c9d13340e9a39c1be5a4d3c75cbdd414",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
             "neighbourhood_id":85850301,
             "region_id":85688773,
             "venue_id":286870255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080895,
+            "locality_id":85981363,
+            "neighbourhood_id":420532837,
+            "region_id":85688773,
+            "venue_id":286870255
         }
     ],
     "wof:id":286870255,
-    "wof:lastmodified":1466651422,
+    "wof:lastmodified":1491934556,
     "wof:name":"Freeman Center Inc",
-    "wof:parent_id":85850301,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

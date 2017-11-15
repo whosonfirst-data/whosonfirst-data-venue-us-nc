@@ -2,9 +2,14 @@
   "id": 286397741,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 Davidson Hwy Concord NC 28027",
+    "addr:housenumber":"232",
+    "addr:postcode":"28027",
+    "addr:street":"Davidson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.616024,35.430366,-80.616024,35.430366",
     "geom:latitude":35.430366,
     "geom:longitude":-80.616024,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980229,
         102087733,
@@ -42,7 +48,7 @@
     "wof:geomhash":"de4cb29be94d6fd8c17e034680d639df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087733,
             "locality_id":85980229,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286397741,
-    "wof:lastmodified":1466644990,
+    "wof:lastmodified":1491915800,
     "wof:name":"Forestry Dept",
     "wof:parent_id":85812151,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354172423,
   "type": "Feature",
   "properties": {
+    "addr:full":"6909 Glenwood Ave Raleigh NC 27612",
+    "addr:housenumber":"6909",
+    "addr:postcode":"27612",
+    "addr:street":"Glenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.71282,35.863044,-78.71282,35.863044",
     "geom:latitude":35.863044,
     "geom:longitude":-78.71282,
@@ -34,32 +39,16 @@
     ],
     "sg:website":"www.cavinsinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZFdb8JvQSpLNowulJFMPx_35.863044_-78.712820@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"a3d47bde11490b9df6ecd2fb3237d12e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":354172423
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":354172423,
-    "wof:lastmodified":1466649562,
+    "wof:lastmodified":1491889952,
     "wof:name":"Cavin's Inc",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

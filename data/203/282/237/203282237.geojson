@@ -2,9 +2,14 @@
   "id": 203282237,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Queens Rd Charlotte NC 28207",
+    "addr:housenumber":"500",
+    "addr:postcode":"28207",
+    "addr:street":"Queens Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.827996,35.206572,-80.827996,35.206572",
     "geom:latitude":35.206572,
     "geom:longitude":-80.827996,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        85811911,
+        85810633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"744f5d6055787df6d1b6c7a7a7bbf6f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85811911,
+            "region_id":85688773,
+            "venue_id":203282237
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85810633,
             "region_id":85688773,
             "venue_id":203282237
         }
     ],
     "wof:id":203282237,
-    "wof:lastmodified":1466655765,
+    "wof:lastmodified":1491926331,
     "wof:name":"Warner York Interiors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

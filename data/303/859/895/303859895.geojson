@@ -2,9 +2,14 @@
   "id": 303859895,
   "type": "Feature",
   "properties": {
+    "addr:full":"13607 S Point Blvd Charlotte NC 28273",
+    "addr:housenumber":"13607",
+    "addr:postcode":"28273",
+    "addr:street":"S Point Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.957615,35.112171,-80.957615,35.112171",
     "geom:latitude":35.112171,
     "geom:longitude":-80.957615,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"10a2a2c84784b7a3bf45a4ffa7156473",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303859895,
-    "wof:lastmodified":1466655735,
+    "wof:lastmodified":1491912359,
     "wof:name":"Methods Machine Company",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 386927381,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 E Arrowood Rd Charlotte NC 28217",
+    "addr:housenumber":"900",
+    "addr:postcode":"28217",
+    "addr:street":"E Arrowood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.87668,35.137713,-80.87668,35.137713",
     "geom:latitude":35.137713,
     "geom:longitude":-80.87668,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"4f4f88d23ed03dd41827552dd4a18e5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":386927381,
-    "wof:lastmodified":1466649351,
+    "wof:lastmodified":1491926254,
     "wof:name":"ACE Cash Express",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

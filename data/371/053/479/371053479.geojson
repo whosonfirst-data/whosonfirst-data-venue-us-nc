@@ -2,9 +2,14 @@
   "id": 371053479,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 Lillington Ave Charlotte NC 28204",
+    "addr:housenumber":"320",
+    "addr:postcode":"28204",
+    "addr:street":"Lillington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.829334,35.210541,-80.829334,35.210541",
     "geom:latitude":35.210541,
     "geom:longitude":-80.829334,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"60db604c89b3575b48ac9d3d0a52fb5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":371053479,
-    "wof:lastmodified":1466649497,
+    "wof:lastmodified":1491926333,
     "wof:name":"Center For Speech Excellence",
     "wof:parent_id":85810633,
     "wof:placetype":"venue",

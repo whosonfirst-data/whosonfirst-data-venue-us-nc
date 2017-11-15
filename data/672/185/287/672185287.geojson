@@ -2,9 +2,14 @@
   "id": 672185287,
   "type": "Feature",
   "properties": {
+    "addr:full":"1602 Moonstone Dr Matthews NC 28105",
+    "addr:housenumber":"1602",
+    "addr:postcode":"28105",
+    "addr:street":"Moonstone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.726943,35.097632,-80.726943,35.097632",
     "geom:latitude":35.097632,
     "geom:longitude":-80.726943,
@@ -33,8 +38,8 @@
         85633793,
         85981339,
         102080981,
-        85850301,
-        85811531
+        85811531,
+        85850301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +54,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
-            "neighbourhood_id":85850301,
+            "neighbourhood_id":85811531,
             "region_id":85688773,
             "venue_id":672185287
         },
@@ -58,15 +63,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
-            "neighbourhood_id":85811531,
+            "neighbourhood_id":85850301,
             "region_id":85688773,
             "venue_id":672185287
         }
     ],
     "wof:id":672185287,
-    "wof:lastmodified":1466654205,
+    "wof:lastmodified":1491934567,
     "wof:name":"Vinny Guido Painting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

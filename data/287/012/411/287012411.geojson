@@ -2,9 +2,14 @@
   "id": 287012411,
   "type": "Feature",
   "properties": {
+    "addr:full":"3117 Ross Ave Charlotte NC 28208",
+    "addr:housenumber":"3117",
+    "addr:postcode":"28208",
+    "addr:street":"Ross Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.896822,35.2063,-80.896822,35.2063",
     "geom:latitude":35.2063,
     "geom:longitude":-80.896822,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420532193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,28 @@
     "wof:geomhash":"3388d202ed9653b0c87d3825d6b38ae6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":287012411
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420532193,
+            "region_id":85688773,
+            "venue_id":287012411
         }
     ],
     "wof:id":287012411,
-    "wof:lastmodified":1466643397,
+    "wof:lastmodified":1491904148,
     "wof:name":"World Class Janitorial Service",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

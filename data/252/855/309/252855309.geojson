@@ -2,9 +2,14 @@
   "id": 252855309,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 N Davidson St Charlotte NC 28202",
+    "addr:housenumber":"624",
+    "addr:postcode":"28202",
+    "addr:street":"N Davidson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.83195,35.227114,-80.83195,35.227114",
     "geom:latitude":35.227114,
     "geom:longitude":-80.83195,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"69bda58c7eab4ac4b2ae4d11dc7d3fa3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":252855309,
-    "wof:lastmodified":1466644521,
+    "wof:lastmodified":1491900471,
     "wof:name":"Vibration Cellular & Paging",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",

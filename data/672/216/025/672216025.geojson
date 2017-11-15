@@ -2,9 +2,14 @@
   "id": 672216025,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 E 35th St Charlotte NC 28205",
+    "addr:housenumber":"800",
+    "addr:postcode":"28205",
+    "addr:street":"E 35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.80278,35.24437,-80.80278,35.24437",
     "geom:latitude":35.24437,
     "geom:longitude":-80.80278,
@@ -30,7 +35,8 @@
         85633793,
         85981333,
         102080981,
-        85837459
+        85837459,
+        85871245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,21 @@
             "neighbourhood_id":85837459,
             "region_id":85688773,
             "venue_id":672216025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85871245,
+            "region_id":85688773,
+            "venue_id":672216025
         }
     ],
     "wof:id":672216025,
-    "wof:lastmodified":1466656117,
+    "wof:lastmodified":1491906662,
     "wof:name":"Southside Seafood",
-    "wof:parent_id":85837459,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

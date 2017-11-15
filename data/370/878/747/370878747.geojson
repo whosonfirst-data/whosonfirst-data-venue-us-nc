@@ -2,9 +2,14 @@
   "id": 370878747,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 Hanson Rd Durham NC 27713",
+    "addr:housenumber":"725",
+    "addr:postcode":"27713",
+    "addr:street":"Hanson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.908771,35.938354,-78.908771,35.938354",
     "geom:latitude":35.938354,
     "geom:longitude":-78.908771,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"eecc21af2790870677aadbacbad41aca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370878747,
-    "wof:lastmodified":1466656583,
+    "wof:lastmodified":1491916637,
     "wof:name":"Choice Care Family Care Home",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

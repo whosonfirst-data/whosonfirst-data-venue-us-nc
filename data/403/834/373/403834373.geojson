@@ -2,9 +2,14 @@
   "id": 403834373,
   "type": "Feature",
   "properties": {
+    "addr:full":"2204 Erwin Rd Durham NC 27705",
+    "addr:housenumber":"2204",
+    "addr:postcode":"27705",
+    "addr:street":"Erwin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.934866,36.008027,-78.934866,36.008027",
     "geom:latitude":36.008027,
     "geom:longitude":-78.934866,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"9f002c9c30d94f1f97c5f9a85413aecf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":403834373,
-    "wof:lastmodified":1466652054,
+    "wof:lastmodified":1491901821,
     "wof:name":"American Inst Afghnstan Stdies",
     "wof:parent_id":85877171,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337358449,
   "type": "Feature",
   "properties": {
+    "addr:full":"6026 Dovefield Rd Charlotte NC 28277",
+    "addr:housenumber":"6026",
+    "addr:postcode":"28277",
+    "addr:street":"Dovefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.785415,35.067123,-80.785415,35.067123",
     "geom:latitude":35.067123,
     "geom:longitude":-80.785415,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"46acbde79724016d134c4a5592edd048",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337358449,
-    "wof:lastmodified":1466646641,
+    "wof:lastmodified":1491897251,
     "wof:name":"Witco Corp",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

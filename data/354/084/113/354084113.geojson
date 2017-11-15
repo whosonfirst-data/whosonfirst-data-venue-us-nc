@@ -2,14 +2,20 @@
   "id": 354084113,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Yorkmont Rd Charlotte NC 28208",
+    "addr:housenumber":"",
+    "addr:postcode":"3100;28208",
+    "addr:street":"Yorkmont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.933317,35.193883,-80.933317,35.193883",
     "geom:latitude":35.193883,
     "geom:longitude":-80.933317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3100 Yorkmont Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -32,20 +38,42 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
+        420559457,
+        85814609,
         85882291
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gwbj0OA3wVwRype1yTYwi_35.193883_-80.933317@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a214e2b2aeb51ebd425b92df1bde97d",
+    "wof:geomhash":"0ef1acd1952df6953590b4f472cacd96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420559457,
+            "region_id":85688773,
+            "venue_id":354084113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85814609,
+            "region_id":85688773,
+            "venue_id":354084113
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,9 +83,9 @@
         }
     ],
     "wof:id":354084113,
-    "wof:lastmodified":1466648546,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

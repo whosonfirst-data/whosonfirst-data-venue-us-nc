@@ -2,9 +2,14 @@
   "id": 303082635,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 W Chapel Hill St Durham NC 27701",
+    "addr:housenumber":"901",
+    "addr:postcode":"27701",
+    "addr:street":"W Chapel Hill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.915033,35.996845,-78.915033,35.996845",
     "geom:latitude":35.996845,
     "geom:longitude":-78.915033,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -42,7 +48,7 @@
     "wof:geomhash":"01850fc0f810f258c26410107a936382",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303082635,
-    "wof:lastmodified":1466644436,
+    "wof:lastmodified":1491913855,
     "wof:name":"Pless Pless & Stephens",
     "wof:parent_id":85877133,
     "wof:placetype":"venue",

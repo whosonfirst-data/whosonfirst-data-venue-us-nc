@@ -2,9 +2,14 @@
   "id": 320208217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 Hawkins St Charlotte NC 28203",
+    "addr:housenumber":"1817",
+    "addr:postcode":"28203",
+    "addr:street":"Hawkins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.860698,35.212304,-80.860698,35.212304",
     "geom:latitude":35.212304,
     "geom:longitude":-80.860698,
@@ -40,6 +45,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -53,7 +59,7 @@
     "wof:geomhash":"b90864337504accc11c984307e36ff34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":320208217,
-    "wof:lastmodified":1466648205,
+    "wof:lastmodified":1491909085,
     "wof:name":"Crazy Jane's",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

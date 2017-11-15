@@ -2,9 +2,14 @@
   "id": 303262159,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 E Club Blvd Durham NC 27704",
+    "addr:housenumber":"1500",
+    "addr:postcode":"27704",
+    "addr:street":"E Club Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.864981,36.02806,-78.864981,36.02806",
     "geom:latitude":36.02806,
     "geom:longitude":-78.864981,
@@ -33,7 +38,10 @@
         85688773,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85807037,
+        102191575,
+        85877169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,27 @@
     "wof:geomhash":"6cd6dbf24f33b29fb9b6af0f79adc486",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85807037,
+            "region_id":85688773,
+            "venue_id":303262159
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85877169,
             "region_id":85688773,
             "venue_id":303262159
         }
     ],
     "wof:id":303262159,
-    "wof:lastmodified":1466647132,
+    "wof:lastmodified":1491927374,
     "wof:name":"Truck Express Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

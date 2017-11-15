@@ -2,9 +2,14 @@
   "id": 219945535,
   "type": "Feature",
   "properties": {
+    "addr:full":"1034 Hamlin Rd Durham NC 27704",
+    "addr:housenumber":"1034",
+    "addr:postcode":"27704",
+    "addr:street":"Hamlin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.871532,36.04994,-78.871532,36.04994",
     "geom:latitude":36.04994,
     "geom:longitude":-78.871532,
@@ -28,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688773,
         85633793,
-        85688773
+        85980565,
+        102080909,
+        85877167,
+        85807037
     ],
     "wof:brand_id":420574339,
     "wof:breaches":[],
@@ -40,18 +49,26 @@
     "wof:geomhash":"b848e17842abdb0f566fb12b5306d956",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85877167,
+            "region_id":85688773,
+            "venue_id":219945535
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85807037,
             "region_id":85688773,
             "venue_id":219945535
         }
     ],
     "wof:id":219945535,
-    "wof:lastmodified":1466648367,
+    "wof:lastmodified":1491927369,
     "wof:name":"First Assembly Of God",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 353667409,
   "type": "Feature",
   "properties": {
+    "addr:full":"416 Dorothea Dr Raleigh NC 27601",
+    "addr:housenumber":"416",
+    "addr:postcode":"27601",
+    "addr:street":"Dorothea Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.647351,35.771225,-78.647351,35.771225",
     "geom:latitude":35.771225,
     "geom:longitude":-78.647351,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -39,7 +45,7 @@
     "wof:geomhash":"73a9c367187240ea59a39f504c616a95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353667409,
-    "wof:lastmodified":1466650208,
+    "wof:lastmodified":1491902258,
     "wof:name":"Community Learning Ctr",
     "wof:parent_id":85854379,
     "wof:placetype":"venue",

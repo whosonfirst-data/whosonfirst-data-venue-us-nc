@@ -2,9 +2,14 @@
   "id": 303242809,
   "type": "Feature",
   "properties": {
+    "addr:full":"5820 Old Concord Rd Charlotte NC 28213",
+    "addr:housenumber":"5820",
+    "addr:postcode":"28213",
+    "addr:street":"Old Concord Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.767068,35.262697,-80.767068,35.262697",
     "geom:latitude":35.262697,
     "geom:longitude":-80.767068,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"243452e82b0284545367cb171d451f15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303242809,
-    "wof:lastmodified":1466646841,
+    "wof:lastmodified":1491921956,
     "wof:name":"Ranger Wholesale Foods",
     "wof:parent_id":85818497,
     "wof:placetype":"venue",

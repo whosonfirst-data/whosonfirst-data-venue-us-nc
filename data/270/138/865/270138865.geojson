@@ -2,9 +2,14 @@
   "id": 270138865,
   "type": "Feature",
   "properties": {
+    "addr:full":"7101 Glenwood Ave Raleigh NC 27612",
+    "addr:housenumber":"7101",
+    "addr:postcode":"27612",
+    "addr:street":"Glenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.715661,35.865012,-78.715661,35.865012",
     "geom:latitude":35.865012,
     "geom:longitude":-78.715661,
@@ -29,32 +34,16 @@
     ],
     "sg:website":"www.compusa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HCwycqSpI9O045zczfjSM_35.865012_-78.715661@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"47d3577da1ff7a756909d40883f9279e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":270138865
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":270138865,
-    "wof:lastmodified":1466644832,
+    "wof:lastmodified":1491889957,
     "wof:name":"Compusa",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

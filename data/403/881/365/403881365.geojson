@@ -2,9 +2,14 @@
   "id": 403881365,
   "type": "Feature",
   "properties": {
+    "addr:full":"532 Harrogate Rd Matthews NC 28105",
+    "addr:housenumber":"532",
+    "addr:postcode":"28105",
+    "addr:street":"Harrogate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.747104,35.125816,-80.747104,35.125816",
     "geom:latitude":35.125816,
     "geom:longitude":-80.747104,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f04323ab20a16b29f88e0b927f0f2c3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403881365,
-    "wof:lastmodified":1466652673,
+    "wof:lastmodified":1491899955,
     "wof:name":"Won-Door Corp",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

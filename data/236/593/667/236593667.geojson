@@ -2,9 +2,14 @@
   "id": 236593667,
   "type": "Feature",
   "properties": {
+    "addr:full":"5649 South Blvd Charlotte NC 28217",
+    "addr:housenumber":"5649",
+    "addr:postcode":"28217",
+    "addr:street":"South Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.876167,35.157053,-80.876167,35.157053",
     "geom:latitude":35.157053,
     "geom:longitude":-80.876167,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"79a8defaf8d9320820af6b3e7682d7c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236593667,
-    "wof:lastmodified":1466648477,
+    "wof:lastmodified":1491924592,
     "wof:name":"Computer Clinic",
     "wof:parent_id":85834943,
     "wof:placetype":"venue",

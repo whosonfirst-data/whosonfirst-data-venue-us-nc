@@ -2,9 +2,14 @@
   "id": 672712255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Pressley Rd Charlotte NC 28217",
+    "addr:housenumber":"1101",
+    "addr:postcode":"28217",
+    "addr:street":"Pressley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.89477,35.194924,-80.89477,35.194924",
     "geom:latitude":35.194924,
     "geom:longitude":-80.89477,
@@ -34,7 +39,8 @@
         85981333,
         102080981,
         85882291,
-        420532193
+        420532193,
+        420560205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,12 +67,21 @@
             "neighbourhood_id":420532193,
             "region_id":85688773,
             "venue_id":672712255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420560205,
+            "region_id":85688773,
+            "venue_id":672712255
         }
     ],
     "wof:id":672712255,
-    "wof:lastmodified":1466662163,
+    "wof:lastmodified":1491904102,
     "wof:name":"Patco Foods Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

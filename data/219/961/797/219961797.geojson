@@ -2,9 +2,14 @@
   "id": 219961797,
   "type": "Feature",
   "properties": {
+    "addr:full":"1927 S Tryon St Charlotte NC 28203",
+    "addr:housenumber":"1927",
+    "addr:postcode":"28203",
+    "addr:street":"S Tryon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.86375,35.213197,-80.86375,35.213197",
     "geom:latitude":35.213197,
     "geom:longitude":-80.86375,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"db1dfe182723ec35a37fa981378f95af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":219961797,
-    "wof:lastmodified":1466648506,
+    "wof:lastmodified":1491909086,
     "wof:name":"Hughes Supply Inc",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

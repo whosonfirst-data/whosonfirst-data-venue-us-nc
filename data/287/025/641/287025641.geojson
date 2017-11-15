@@ -2,9 +2,14 @@
   "id": 287025641,
   "type": "Feature",
   "properties": {
+    "addr:full":"1435 Camargo Ln Raleigh NC 27604",
+    "addr:housenumber":"1435",
+    "addr:postcode":"27604",
+    "addr:street":"Camargo Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.537883,35.808163,-78.537883,35.808163",
     "geom:latitude":35.808163,
     "geom:longitude":-78.537883,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"feeb254b013c2cf79852aa6a17c8e5cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287025641,
-    "wof:lastmodified":1466643592,
+    "wof:lastmodified":1491935412,
     "wof:name":"Delta Air Lines Inc",
     "wof:parent_id":85892111,
     "wof:placetype":"venue",

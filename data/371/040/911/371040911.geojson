@@ -2,9 +2,14 @@
   "id": 371040911,
   "type": "Feature",
   "properties": {
+    "addr:full":"7421 Watercrest Rd Charlotte NC 28210",
+    "addr:housenumber":"7421",
+    "addr:postcode":"28210",
+    "addr:street":"Watercrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.866075,35.130417,-80.866075,35.130417",
     "geom:latitude":35.130417,
     "geom:longitude":-80.866075,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d742be9ffb6896fa6e1dc4aef4cfcd7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":371040911,
-    "wof:lastmodified":1466649344,
+    "wof:lastmodified":1491926252,
     "wof:name":"James Massman Rls",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

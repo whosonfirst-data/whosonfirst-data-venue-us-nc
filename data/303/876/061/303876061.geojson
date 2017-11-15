@@ -2,9 +2,14 @@
   "id": 303876061,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Manley St Charlotte NC 28216",
+    "addr:housenumber":"207",
+    "addr:postcode":"28216",
+    "addr:street":"Manley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.884593,35.27043,-80.884593,35.27043",
     "geom:latitude":35.27043,
     "geom:longitude":-80.884593,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"8b940acfa45df9090d20d4934ea16a00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303876061,
-    "wof:lastmodified":1466655973,
+    "wof:lastmodified":1491938848,
     "wof:name":"Circle R Trenching Co Inc",
     "wof:parent_id":85842049,
     "wof:placetype":"venue",

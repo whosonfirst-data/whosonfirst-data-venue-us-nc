@@ -2,9 +2,14 @@
   "id": 236463393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1516 Camden Rd Charlotte NC 28203",
+    "addr:housenumber":"1516",
+    "addr:postcode":"28203",
+    "addr:street":"Camden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.856887,35.214951,-80.856887,35.214951",
     "geom:latitude":35.214951,
     "geom:longitude":-80.856887,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3f0d6441afd9a2e4bfe2a7f939649ebf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236463393,
-    "wof:lastmodified":1466647276,
+    "wof:lastmodified":1491909086,
     "wof:name":"Padgett Chip Photography",
     "wof:parent_id":85858067,
     "wof:placetype":"venue",

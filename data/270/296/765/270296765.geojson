@@ -2,9 +2,14 @@
   "id": 270296765,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 E Trade St Charlotte NC 28202",
+    "addr:housenumber":"725",
+    "addr:postcode":"28202",
+    "addr:street":"E Trade St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.836224,35.221495,-80.836224,35.221495",
     "geom:latitude":35.221495,
     "geom:longitude":-80.836224,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5da056b6b8914b4de8faf5ea1700b03e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270296765,
-    "wof:lastmodified":1466646823,
+    "wof:lastmodified":1491900483,
     "wof:name":"Norman Butler",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",

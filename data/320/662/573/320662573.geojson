@@ -2,9 +2,14 @@
   "id": 320662573,
   "type": "Feature",
   "properties": {
+    "addr:full":"917 W Murray Ave Durham NC 27704",
+    "addr:housenumber":"917",
+    "addr:postcode":"27704",
+    "addr:street":"W Murray Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.906726,36.028819,-78.906726,36.028819",
     "geom:latitude":36.028819,
     "geom:longitude":-78.906726,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"40237fd3fc6588b8689838b3bdba98ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320662573,
-    "wof:lastmodified":1466654731,
+    "wof:lastmodified":1491930910,
     "wof:name":"Extra Touch Homes Inc",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

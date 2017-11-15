@@ -2,9 +2,14 @@
   "id": 270056769,
   "type": "Feature",
   "properties": {
+    "addr:full":"8500 Monroe Rd Charlotte NC 28212",
+    "addr:housenumber":"8500",
+    "addr:postcode":"28212",
+    "addr:street":"Monroe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.7461,35.152152,-80.7461,35.152152",
     "geom:latitude":35.152152,
     "geom:longitude":-80.7461,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a912e238b69b832145a9d38fa35ff26e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270056769,
-    "wof:lastmodified":1466643860,
+    "wof:lastmodified":1491936639,
     "wof:name":"Treva Mason LLC",
     "wof:parent_id":85891863,
     "wof:placetype":"venue",

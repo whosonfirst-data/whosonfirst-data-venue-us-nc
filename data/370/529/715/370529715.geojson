@@ -2,9 +2,14 @@
   "id": 370529715,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Park Pl Durham NC 27712",
+    "addr:housenumber":"4",
+    "addr:postcode":"27712",
+    "addr:street":"Park Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.956997,36.065529,-78.956997,36.065529",
     "geom:latitude":36.065529,
     "geom:longitude":-78.956997,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688773,
         85633793,
-        102080909,
-        85832817
+        85832817,
+        102080909
     ],
     "wof:brand_id":420574053,
     "wof:breaches":[],
@@ -39,17 +44,15 @@
     "wof:geomhash":"35dbeffa44a1ff4a7d250d608e4d4cd4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080909,
-            "locality_id":-1,
             "neighbourhood_id":85832817,
             "region_id":85688773,
             "venue_id":370529715
         }
     ],
     "wof:id":370529715,
-    "wof:lastmodified":1466652947,
+    "wof:lastmodified":1491905443,
     "wof:name":"Wachovia Bank",
     "wof:parent_id":85832817,
     "wof:placetype":"venue",

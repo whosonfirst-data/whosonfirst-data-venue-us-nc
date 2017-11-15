@@ -2,9 +2,14 @@
   "id": 387012805,
   "type": "Feature",
   "properties": {
+    "addr:full":"5809 Providence Country Club Dr Charlotte NC 28277",
+    "addr:housenumber":"5809",
+    "addr:postcode":"28277",
+    "addr:street":"Providence Country Club Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.776795,35.044237,-80.776795,35.044237",
     "geom:latitude":35.044237,
     "geom:longitude":-80.776795,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f006c0ccb516fc79fc0b51cebe0e1813",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387012805,
-    "wof:lastmodified":1466650039,
+    "wof:lastmodified":1491897253,
     "wof:name":"Mattson & Mattson",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 287309719,
   "type": "Feature",
   "properties": {
+    "addr:full":"3629 N Davidson St Charlotte NC 28205",
+    "addr:housenumber":"3629",
+    "addr:postcode":"28205",
+    "addr:street":"N Davidson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.796715,35.249934,-80.796715,35.249934",
     "geom:latitude":35.249934,
     "geom:longitude":-80.796715,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"396c9f6225f7439280a3b4ef18a6a195",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":287309719,
-    "wof:lastmodified":1466647579,
+    "wof:lastmodified":1491906668,
     "wof:name":"Duo-Fast Carolinas Inc",
     "wof:parent_id":85837459,
     "wof:placetype":"venue",

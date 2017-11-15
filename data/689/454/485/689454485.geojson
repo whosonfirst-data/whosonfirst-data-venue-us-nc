@@ -2,9 +2,14 @@
   "id": 689454485,
   "type": "Feature",
   "properties": {
+    "addr:full":"10345 Nations Ford Rd Charlotte NC 28273",
+    "addr:housenumber":"10345",
+    "addr:postcode":"28273",
+    "addr:street":"Nations Ford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.904089,35.119086,-80.904089,35.119086",
     "geom:latitude":35.119086,
     "geom:longitude":-80.904089,
@@ -30,8 +35,8 @@
         85633793,
         85981333,
         102080981,
-        85882291,
-        420559111
+        420559111,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +51,7 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":85882291,
+            "neighbourhood_id":420559111,
             "region_id":85688773,
             "venue_id":689454485
         },
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":420559111,
+            "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":689454485
         }
     ],
     "wof:id":689454485,
-    "wof:lastmodified":1466663238,
+    "wof:lastmodified":1491904092,
     "wof:name":"Charlotte United Futbol Club Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

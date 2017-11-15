@@ -2,9 +2,14 @@
   "id": 253747851,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Esherwood Ln Charlotte NC 28270",
+    "addr:housenumber":"4321",
+    "addr:postcode":"28270",
+    "addr:street":"Esherwood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.765001,35.071835,-80.765001,35.071835",
     "geom:latitude":35.071835,
     "geom:longitude":-80.765001,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"8f5ae1070554e8b3ae1656d752b04e16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":253747851,
-    "wof:lastmodified":1466651340,
+    "wof:lastmodified":1491897270,
     "wof:name":"Edel Grass America",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387430609,
   "type": "Feature",
   "properties": {
+    "addr:full":"726 E Hebron St Charlotte NC 28273",
+    "addr:housenumber":"726",
+    "addr:postcode":"28273",
+    "addr:street":"E Hebron St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.880361,35.125482,-80.880361,35.125482",
     "geom:latitude":35.125482,
     "geom:longitude":-80.880361,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"242ac22c4bb7a33af8c0f22282102f6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387430609,
-    "wof:lastmodified":1466655513,
+    "wof:lastmodified":1491926243,
     "wof:name":"Interstate Kitchen & Bath Inc",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

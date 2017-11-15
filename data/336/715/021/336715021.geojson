@@ -2,9 +2,14 @@
   "id": 336715021,
   "type": "Feature",
   "properties": {
+    "addr:full":"9116 Dixie River Rd Charlotte NC 28278",
+    "addr:housenumber":"9116",
+    "addr:postcode":"28278",
+    "addr:street":"Dixie River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.974875,35.202373,-80.974875,35.202373",
     "geom:latitude":35.202373,
     "geom:longitude":-80.974875,
@@ -33,10 +38,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
+        85981333,
         102080981,
         85805887,
-        85981333,
         85850977
     ],
     "wof:breaches":[],
@@ -47,16 +53,16 @@
     "wof:geomhash":"9458b0ac0e7d2cf02dc507d295a7fa2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
-            "locality_id":-1,
+            "locality_id":85981333,
             "neighbourhood_id":85805887,
             "region_id":85688773,
             "venue_id":336715021
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -66,9 +72,9 @@
         }
     ],
     "wof:id":336715021,
-    "wof:lastmodified":1466647581,
+    "wof:lastmodified":1491920176,
     "wof:name":"Westmoreland Mike Detailing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

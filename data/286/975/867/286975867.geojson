@@ -2,9 +2,14 @@
   "id": 286975867,
   "type": "Feature",
   "properties": {
+    "addr:full":"432 Crescent Ct Raleigh NC 27609",
+    "addr:housenumber":"432",
+    "addr:postcode":"27609",
+    "addr:street":"Crescent Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.63112,35.852479,-78.63112,35.852479",
     "geom:latitude":35.852479,
     "geom:longitude":-78.63112,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -44,7 +50,7 @@
     "wof:geomhash":"51e52f99add9b0393b02bf56c082dfe7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":286975867,
-    "wof:lastmodified":1466652886,
+    "wof:lastmodified":1491898715,
     "wof:name":"Above Beyond Hot A Balloon Co",
     "wof:parent_id":85838291,
     "wof:placetype":"venue",

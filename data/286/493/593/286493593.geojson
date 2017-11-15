@@ -2,9 +2,14 @@
   "id": 286493593,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 E Millbrook Rd Raleigh NC 27609",
+    "addr:housenumber":"317",
+    "addr:postcode":"27609",
+    "addr:street":"E Millbrook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.63644,35.854241,-78.63644,35.854241",
     "geom:latitude":35.854241,
     "geom:longitude":-78.63644,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -43,7 +49,7 @@
     "wof:geomhash":"7c8b7cac4a3692167daa57bb8d10549c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286493593,
-    "wof:lastmodified":1466646254,
+    "wof:lastmodified":1491898715,
     "wof:name":"Millbrook Powerwash & Cnstr",
     "wof:parent_id":85838291,
     "wof:placetype":"venue",

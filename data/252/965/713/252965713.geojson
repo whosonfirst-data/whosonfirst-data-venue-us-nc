@@ -2,9 +2,14 @@
   "id": 252965713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 9th St Durham NC 27705",
+    "addr:housenumber":"1001",
+    "addr:postcode":"27705",
+    "addr:street":"9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.921684,36.015462,-78.921684,36.015462",
     "geom:latitude":36.015462,
     "geom:longitude":-78.921684,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85877189,
+        85877195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"0e414ee8e1d94dfcb7a78a31e6085643",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877189,
+            "region_id":85688773,
+            "venue_id":252965713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85877195,
             "region_id":85688773,
             "venue_id":252965713
         }
     ],
     "wof:id":252965713,
-    "wof:lastmodified":1466645539,
+    "wof:lastmodified":1491930894,
     "wof:name":"Durham Fire Station 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

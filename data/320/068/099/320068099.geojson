@@ -2,9 +2,14 @@
   "id": 320068099,
   "type": "Feature",
   "properties": {
+    "addr:full":"2014 Guess Rd Durham NC 27705",
+    "addr:housenumber":"2014",
+    "addr:postcode":"27705",
+    "addr:street":"Guess Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.9186,36.023306,-78.9186,36.023306",
     "geom:latitude":36.023306,
     "geom:longitude":-78.9186,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -44,7 +50,7 @@
     "wof:geomhash":"0ab086798625100352f5df819481b5d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320068099,
-    "wof:lastmodified":1466646266,
+    "wof:lastmodified":1491930895,
     "wof:name":"Ace Cash Express",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

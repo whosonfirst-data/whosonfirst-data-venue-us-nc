@@ -2,9 +2,14 @@
   "id": 219156279,
   "type": "Feature",
   "properties": {
+    "addr:full":"4710 Sweden Rd Charlotte NC 28273",
+    "addr:housenumber":"4710",
+    "addr:postcode":"28273",
+    "addr:street":"Sweden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.880606,35.129417,-80.880606,35.129417",
     "geom:latitude":35.129417,
     "geom:longitude":-80.880606,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -40,7 +46,7 @@
     "wof:geomhash":"8e1df2ddb317a23b1bed17cab8dc21fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":219156279,
-    "wof:lastmodified":1466655123,
+    "wof:lastmodified":1491926239,
     "wof:name":"Reagents Inc",
     "wof:parent_id":85824507,
     "wof:placetype":"venue",

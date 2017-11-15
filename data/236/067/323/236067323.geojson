@@ -2,9 +2,14 @@
   "id": 236067323,
   "type": "Feature",
   "properties": {
+    "addr:full":"6501 Old Pineville Rd Charlotte NC 28217",
+    "addr:housenumber":"6501",
+    "addr:postcode":"28217",
+    "addr:street":"Old Pineville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.878526,35.149254,-80.878526,35.149254",
     "geom:latitude":35.149254,
     "geom:longitude":-80.878526,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"069d763a0c5896b4df430adbdab68a1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":236067323,
-    "wof:lastmodified":1466643824,
+    "wof:lastmodified":1491924585,
     "wof:name":"HEED Financial Corp",
     "wof:parent_id":85834943,
     "wof:placetype":"venue",

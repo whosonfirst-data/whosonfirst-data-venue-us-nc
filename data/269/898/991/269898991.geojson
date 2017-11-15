@@ -2,9 +2,14 @@
   "id": 269898991,
   "type": "Feature",
   "properties": {
+    "addr:full":"6120 Duraleigh Rd Raleigh NC 27612",
+    "addr:housenumber":"",
+    "addr:postcode":"6120;27612",
+    "addr:street":"Duraleigh Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.712544,35.860855,-78.712544,35.860855",
     "geom:latitude":35.860855,
     "geom:longitude":-78.712544,
@@ -34,32 +39,16 @@
     ],
     "sg:website":"www.tirekingdom.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85980569,
-        102087821,
-        85847761
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rWaS7aRfzAzVCeeSoJXC0_35.860855_-78.712544@1294165850"
     },
     "wof:country":"US",
     "wof:geomhash":"d109fddaa09fe071987941b22b532b12",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087821,
-            "locality_id":85980569,
-            "neighbourhood_id":85847761,
-            "region_id":85688773,
-            "venue_id":269898991
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":269898991,
-    "wof:lastmodified":1466648095,
+    "wof:lastmodified":1491889955,
     "wof:name":"Merchant's Tire & Auto Ctr",
     "wof:parent_id":85847761,
     "wof:placetype":"venue",

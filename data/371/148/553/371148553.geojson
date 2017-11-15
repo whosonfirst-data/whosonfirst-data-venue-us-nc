@@ -2,9 +2,14 @@
   "id": 371148553,
   "type": "Feature",
   "properties": {
+    "addr:full":"13301 Crescent Springs Dr Charlotte NC 28273",
+    "addr:housenumber":"13301",
+    "addr:postcode":"28273",
+    "addr:street":"Crescent Springs Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.954634,35.11642,-80.954634,35.11642",
     "geom:latitude":35.11642,
     "geom:longitude":-80.954634,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d5c79252951f04b0cc11aa460fa8da1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":371148553,
-    "wof:lastmodified":1466650690,
+    "wof:lastmodified":1491912376,
     "wof:name":"Arch",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",

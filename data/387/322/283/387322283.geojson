@@ -2,9 +2,14 @@
   "id": 387322283,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 E 5th St Charlotte NC 28202",
+    "addr:housenumber":"601",
+    "addr:postcode":"28202",
+    "addr:street":"E 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.835917,35.22291,-80.835917,35.22291",
     "geom:latitude":35.22291,
     "geom:longitude":-80.835917,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -43,7 +49,7 @@
     "wof:geomhash":"1c6a5f5a376ac25a9081a166af141e6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":387322283,
-    "wof:lastmodified":1466654102,
+    "wof:lastmodified":1491900479,
     "wof:name":"Childrens Law Center",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320086961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1429 Broad St Durham NC 27705",
+    "addr:housenumber":"1429",
+    "addr:postcode":"27705",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.918893,36.022645,-78.918893,36.022645",
     "geom:latitude":36.022645,
     "geom:longitude":-78.918893,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"feac1c3e8365129faf180fbc745f605d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320086961,
-    "wof:lastmodified":1466646528,
+    "wof:lastmodified":1491930900,
     "wof:name":"New Prspctves Consulting Group",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

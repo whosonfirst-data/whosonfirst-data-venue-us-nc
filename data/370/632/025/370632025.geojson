@@ -2,9 +2,14 @@
   "id": 370632025,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 N Alexander St Charlotte NC 28202",
+    "addr:housenumber":"440",
+    "addr:postcode":"28202",
+    "addr:street":"N Alexander St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.832867,35.224952,-80.832867,35.224952",
     "geom:latitude":35.224952,
     "geom:longitude":-80.832867,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"f144e1bbe81cd9b7b26ada08d97198c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":370632025,
-    "wof:lastmodified":1466654294,
+    "wof:lastmodified":1491900469,
     "wof:name":"A & D Htg & Air Conditioning",
     "wof:parent_id":85871235,
     "wof:placetype":"venue",

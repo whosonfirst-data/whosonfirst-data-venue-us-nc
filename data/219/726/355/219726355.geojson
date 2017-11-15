@@ -2,9 +2,14 @@
   "id": 219726355,
   "type": "Feature",
   "properties": {
+    "addr:full":"4625 Beam Rd Charlotte NC 28217",
+    "addr:housenumber":"4625",
+    "addr:postcode":"28217",
+    "addr:street":"Beam Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.931179,35.188449,-80.931179,35.188449",
     "geom:latitude":35.188449,
     "geom:longitude":-80.931179,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a3dbfb6396e9e34830856e578bff0b88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -53,7 +59,7 @@
             "venue_id":219726355
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":219726355,
-    "wof:lastmodified":1466646565,
+    "wof:lastmodified":1491904111,
     "wof:name":"Carpender Kristopher M M",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

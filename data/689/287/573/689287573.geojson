@@ -2,9 +2,14 @@
   "id": 689287573,
   "type": "Feature",
   "properties": {
+    "addr:full":"8224 Green Lantern St Raleigh NC 27613",
+    "addr:housenumber":"8224",
+    "addr:postcode":"27613",
+    "addr:street":"Green Lantern",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.728084,35.87584,-78.728084,35.87584",
     "geom:latitude":35.87584,
     "geom:longitude":-78.728084,
@@ -28,12 +33,7 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85892129,
-        102087821
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1F3AiDl1LMBvqqjOW0OQm3_35.875840_-78.728084@1294165850"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1461745169,
     "wof:geomhash":"e562a23273fe94e3b7afb651fc80c882",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087821,
-            "neighbourhood_id":85892129,
-            "region_id":85688773,
-            "venue_id":689287573
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689287573,
-    "wof:lastmodified":1466658641,
+    "wof:lastmodified":1491938223,
     "wof:name":"Dunhill Trace Apartments",
     "wof:parent_id":85892129,
     "wof:placetype":"venue",

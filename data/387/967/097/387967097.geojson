@@ -2,9 +2,14 @@
   "id": 387967097,
   "type": "Feature",
   "properties": {
+    "addr:full":"1036 S Saunders St Raleigh NC 27603",
+    "addr:housenumber":"1036",
+    "addr:postcode":"27603",
+    "addr:street":"S Saunders St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.64909,35.762954,-78.64909,35.762954",
     "geom:latitude":35.762954,
     "geom:longitude":-78.64909,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4e57e203f7552f5a6e94dd3ba88290a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387967097,
-    "wof:lastmodified":1466657994,
+    "wof:lastmodified":1491902262,
     "wof:name":"Campbell Auto Service",
     "wof:parent_id":85854379,
     "wof:placetype":"venue",

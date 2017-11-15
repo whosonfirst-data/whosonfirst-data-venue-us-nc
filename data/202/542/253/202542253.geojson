@@ -2,14 +2,20 @@
   "id": 202542253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 Pressley Rd Charlotte NC 28217",
+    "addr:housenumber":"1020",
+    "addr:postcode":"28217",
+    "addr:street":"Pressley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.894615,35.192125,-80.894615,35.192125",
     "geom:latitude":35.192125,
     "geom:longitude":-80.894615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1020 Pressley Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -30,32 +36,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420560205
     ],
+    "wof:brand_id":1125156125,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D9qYic578ylDdBtFrdTxo_35.192125_-80.894615@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"06275cb1338c7ab9f065e4459fbbcba7",
+    "wof:geomhash":"b3d3017cfdab9ca51edcfa61fefaa414",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":202542253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420560205,
+            "region_id":85688773,
+            "venue_id":202542253
         }
     ],
     "wof:id":202542253,
-    "wof:lastmodified":1466655272,
+    "wof:lastmodified":1510613400,
     "wof:name":"Rinker Materials Corporation",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

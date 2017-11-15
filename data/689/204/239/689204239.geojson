@@ -2,9 +2,14 @@
   "id": 689204239,
   "type": "Feature",
   "properties": {
+    "addr:full":"1204 Cranmoore Ct Raleigh NC 27604",
+    "addr:housenumber":"1204",
+    "addr:postcode":"27604",
+    "addr:street":"Cranmoore Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.533649,35.807596,-78.533649,35.807596",
     "geom:latitude":35.807596,
     "geom:longitude":-78.533649,
@@ -27,12 +32,7 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85892055,
-        102087821
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Kfy8p6iL1O4O6Cp05Cukm_35.807596_-78.533649@1294165850"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1461742134,
     "wof:geomhash":"cd2bd21e4cde5c6ad23854a2d3aa5b18",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087821,
-            "neighbourhood_id":85892055,
-            "region_id":85688773,
-            "venue_id":689204239
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689204239,
-    "wof:lastmodified":1466658216,
+    "wof:lastmodified":1491888710,
     "wof:name":"Aventis",
     "wof:parent_id":85892055,
     "wof:placetype":"venue",

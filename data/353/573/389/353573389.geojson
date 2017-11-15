@@ -2,9 +2,14 @@
   "id": 353573389,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Oak Dr Durham NC 27707",
+    "addr:housenumber":"19",
+    "addr:postcode":"27707",
+    "addr:street":"Oak Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.916692,35.979435,-78.916692,35.979435",
     "geom:latitude":35.979435,
     "geom:longitude":-78.916692,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -43,7 +49,7 @@
     "wof:geomhash":"aae5652dc1c21b8af3692e476e4052bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353573389,
-    "wof:lastmodified":1466649070,
+    "wof:lastmodified":1491924330,
     "wof:name":"Oak Drive Video Productions",
     "wof:parent_id":85877175,
     "wof:placetype":"venue",

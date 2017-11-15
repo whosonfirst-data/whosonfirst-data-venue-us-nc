@@ -2,9 +2,14 @@
   "id": 203314967,
   "type": "Feature",
   "properties": {
+    "addr:full":"4910 Fayetteville Rd Durham NC 27713",
+    "addr:housenumber":"4910",
+    "addr:postcode":"27713",
+    "addr:street":"Fayetteville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.916707,35.931952,-78.916707,35.931952",
     "geom:latitude":35.931952,
     "geom:longitude":-78.916707,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -47,7 +53,7 @@
     "wof:geomhash":"052c6e8867c48dab345ffc0c26b7c639",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":203314967,
-    "wof:lastmodified":1466643349,
+    "wof:lastmodified":1491916640,
     "wof:name":"Miracle-Ear",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

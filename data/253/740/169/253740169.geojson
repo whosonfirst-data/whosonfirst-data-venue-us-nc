@@ -2,9 +2,14 @@
   "id": 253740169,
   "type": "Feature",
   "properties": {
+    "addr:full":"1530 N Gregson St Durham NC 27701",
+    "addr:housenumber":"1530",
+    "addr:postcode":"27701",
+    "addr:street":"N Gregson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.908215,36.017044,-78.908215,36.017044",
     "geom:latitude":36.017044,
     "geom:longitude":-78.908215,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -40,7 +46,7 @@
     "wof:geomhash":"e16b5672dc5f5b9a2c5c6dac729c6ed2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":253740169,
-    "wof:lastmodified":1466651255,
+    "wof:lastmodified":1491930922,
     "wof:name":"B B & T",
     "wof:parent_id":85877195,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320330339,
   "type": "Feature",
   "properties": {
+    "addr:full":"7920 Vinings Oak Ln Matthews NC 28105",
+    "addr:housenumber":"7920",
+    "addr:postcode":"28105",
+    "addr:street":"Vinings Oak Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.712594,35.103962,-80.712594,35.103962",
     "geom:latitude":35.103962,
     "geom:longitude":-80.712594,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -45,7 +51,7 @@
     "wof:geomhash":"19551eb13ca2c7c42a170898a126c831",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -54,7 +60,7 @@
             "venue_id":320330339
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -64,9 +70,9 @@
         }
     ],
     "wof:id":320330339,
-    "wof:lastmodified":1466649925,
+    "wof:lastmodified":1491934543,
     "wof:name":"ADP",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

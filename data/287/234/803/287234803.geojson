@@ -2,9 +2,14 @@
   "id": 287234803,
   "type": "Feature",
   "properties": {
+    "addr:full":"328 Rensselaer Ave Charlotte NC 28203",
+    "addr:housenumber":"328",
+    "addr:postcode":"28203",
+    "addr:street":"Rensselaer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.853722,35.213881,-80.853722,35.213881",
     "geom:latitude":35.213881,
     "geom:longitude":-80.853722,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ba53de25541002912b36e8a21a3b931c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287234803,
-    "wof:lastmodified":1466646573,
+    "wof:lastmodified":1491908387,
     "wof:name":"Candace Parker Lmbt",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320503587,
   "type": "Feature",
   "properties": {
+    "addr:full":"14030 Dingess Rd Charlotte NC 28273",
+    "addr:housenumber":"14030",
+    "addr:postcode":"28273",
+    "addr:street":"Dingess Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.957147,35.148796,-80.957147,35.148796",
     "geom:latitude":35.148796,
     "geom:longitude":-80.957147,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291,
-        85891873
+        85891873,
+        85882291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +46,28 @@
     "wof:geomhash":"33c0bf9214879677294fff8d3c1b7b85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "neighbourhood_id":85882291,
-            "region_id":85688773,
-            "venue_id":320503587
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85891873,
             "region_id":85688773,
             "venue_id":320503587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85882291,
+            "region_id":85688773,
+            "venue_id":320503587
         }
     ],
     "wof:id":320503587,
-    "wof:lastmodified":1466652415,
+    "wof:lastmodified":1491904119,
     "wof:name":"Infinite Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

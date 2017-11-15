@@ -2,9 +2,14 @@
   "id": 387067297,
   "type": "Feature",
   "properties": {
+    "addr:full":"6501 South Blvd Charlotte NC 28217",
+    "addr:housenumber":"6501",
+    "addr:postcode":"28217",
+    "addr:street":"South Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.876483,35.143847,-80.876483,35.143847",
     "geom:latitude":35.143847,
     "geom:longitude":-80.876483,
@@ -31,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
-        102080981
+        102080981,
+        420532213,
+        85834943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,28 @@
     "wof:geomhash":"271eefa537be508d58bc82da456a4572",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420532213,
+            "region_id":85688773,
+            "venue_id":387067297
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85834943,
             "region_id":85688773,
             "venue_id":387067297
         }
     ],
     "wof:id":387067297,
-    "wof:lastmodified":1466650731,
+    "wof:lastmodified":1491924590,
     "wof:name":"Harrelson Suzuki",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

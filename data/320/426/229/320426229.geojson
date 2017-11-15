@@ -2,14 +2,20 @@
   "id": 320426229,
   "type": "Feature",
   "properties": {
+    "addr:full":"10700 Sikes Pl Charlotte NC 28277",
+    "addr:housenumber":"",
+    "addr:postcode":"10700;28277",
+    "addr:street":"Sikes Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.768476,35.062022,-80.768476,35.062022",
     "geom:latitude":35.062022,
     "geom:longitude":-80.768476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10700 Sikes Pl",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -26,20 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
         85843231
     ],
+    "wof:brand_id":1125153933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rThR2ReERrfBBvoWgqfed_35.062022_-80.768476@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"cce0eb8c88917def08975358df1c5041",
+    "wof:geomhash":"a41f73d9206cc50977d96e8cc3fa21d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":320426229,
-    "wof:lastmodified":1466651301,
+    "wof:lastmodified":1510697740,
     "wof:name":"CNA Insurance",
     "wof:parent_id":85843231,
     "wof:placetype":"venue",

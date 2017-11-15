@@ -2,9 +2,14 @@
   "id": 303051605,
   "type": "Feature",
   "properties": {
+    "addr:full":"5011 Fayetteville Rd Durham NC 27713",
+    "addr:housenumber":"5011",
+    "addr:postcode":"27713",
+    "addr:street":"Fayetteville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.915322,35.932721,-78.915322,35.932721",
     "geom:latitude":35.932721,
     "geom:longitude":-78.915322,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
         102080909,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ad240867c0d764db6c2fca098d727b50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303051605,
-    "wof:lastmodified":1466643976,
+    "wof:lastmodified":1491916644,
     "wof:name":"Berea Baptist Church",
     "wof:parent_id":85877179,
     "wof:placetype":"venue",

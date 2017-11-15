@@ -2,9 +2,14 @@
   "id": 303971655,
   "type": "Feature",
   "properties": {
+    "addr:full":"3025 Providence Hills Dr Matthews NC 28105",
+    "addr:housenumber":"3025",
+    "addr:postcode":"28105",
+    "addr:street":"Providence Hills Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.715614,35.077109,-80.715614,35.077109",
     "geom:latitude":35.077109,
     "geom:longitude":-80.715614,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d85a2df53a0a31fd00f8431d60ccebaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303971655,
-    "wof:lastmodified":1466656654,
+    "wof:lastmodified":1491934554,
     "wof:name":"Exel Direct",
     "wof:parent_id":85850301,
     "wof:placetype":"venue",

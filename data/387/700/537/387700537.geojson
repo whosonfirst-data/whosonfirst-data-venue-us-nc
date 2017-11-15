@@ -2,14 +2,20 @@
   "id": 387700537,
   "type": "Feature",
   "properties": {
+    "addr:full":"655 Pressley Rd Charlotte NC 28217",
+    "addr:housenumber":"655",
+    "addr:postcode":"28217",
+    "addr:street":"Pressley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.892466,35.188687,-80.892466,35.188687",
     "geom:latitude":35.188687,
     "geom:longitude":-80.892466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"655 Pressley Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -30,32 +36,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85882291
+        85882291,
+        420560205
     ],
+    "wof:brand_id":1125157677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O2geYJ1DfydHWRd1n8lrO_35.188687_-80.892466@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"596c6335a7b2a55c49e42fed4bc29ed3",
+    "wof:geomhash":"e539db5cb1e9f28ec7934efa170a4a5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
             "neighbourhood_id":85882291,
             "region_id":85688773,
             "venue_id":387700537
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":420560205,
+            "region_id":85688773,
+            "venue_id":387700537
         }
     ],
     "wof:id":387700537,
-    "wof:lastmodified":1466657336,
+    "wof:lastmodified":1510695835,
     "wof:name":"Mighty Auto Parts",
-    "wof:parent_id":85882291,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

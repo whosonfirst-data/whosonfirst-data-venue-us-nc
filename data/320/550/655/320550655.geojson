@@ -2,9 +2,14 @@
   "id": 320550655,
   "type": "Feature",
   "properties": {
+    "addr:full":"9535 Sardis Glen Dr Matthews NC 28105",
+    "addr:housenumber":"9535",
+    "addr:postcode":"28105",
+    "addr:street":"Sardis Glen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.744612,35.121862,-80.744612,35.121862",
     "geom:latitude":35.121862,
     "geom:longitude":-80.744612,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981339,
         102080981,
@@ -39,7 +45,7 @@
     "wof:geomhash":"67ecd7a3c226781218df63792c7ec64d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981339,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320550655,
-    "wof:lastmodified":1466653097,
+    "wof:lastmodified":1491899960,
     "wof:name":"M M & A LLC",
     "wof:parent_id":85847171,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 689382379,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 Harbour Towne Dr Raleigh NC 27604",
+    "addr:housenumber":"4801",
+    "addr:postcode":"27604",
+    "addr:street":"Harbour Towne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.554694,35.803999,-78.554694,35.803999",
     "geom:latitude":35.803999,
     "geom:longitude":-78.554694,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
-        85892055,
-        102087821
+        85980569,
+        102087821,
+        420533943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,19 @@
     "wof:geomhash":"231a477fcdfaa5e28a25720fe9d81742",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
-            "neighbourhood_id":85892055,
+            "locality_id":85980569,
+            "neighbourhood_id":420533943,
             "region_id":85688773,
             "venue_id":689382379
         }
     ],
     "wof:id":689382379,
-    "wof:lastmodified":1466661145,
+    "wof:lastmodified":1491888710,
     "wof:name":"Hedingham Golf Club",
-    "wof:parent_id":85892055,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

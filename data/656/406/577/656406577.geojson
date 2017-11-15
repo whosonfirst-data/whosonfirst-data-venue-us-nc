@@ -2,9 +2,14 @@
   "id": 656406577,
   "type": "Feature",
   "properties": {
+    "addr:full":"7600 Pinecrest Rd Raleigh NC 27613",
+    "addr:housenumber":"7600",
+    "addr:postcode":"27613",
+    "addr:street":"Pinecrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.727356,35.882511,-78.727356,35.882511",
     "geom:latitude":35.882511,
     "geom:longitude":-78.727356,
@@ -27,12 +32,7 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85892129,
-        102087821
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F2Z3EBpTata84CqbrqEck_35.882511_-78.727356@1294165850"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1461712141,
     "wof:geomhash":"c25507435df7bf656046d4b5b01809db",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087821,
-            "neighbourhood_id":85892129,
-            "region_id":85688773,
-            "venue_id":656406577
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":656406577,
-    "wof:lastmodified":1466655643,
+    "wof:lastmodified":1491938222,
     "wof:name":"D&J Logging Inc",
     "wof:parent_id":85892129,
     "wof:placetype":"venue",

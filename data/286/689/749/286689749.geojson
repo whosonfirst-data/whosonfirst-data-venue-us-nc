@@ -2,9 +2,14 @@
   "id": 286689749,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Hillsborough Rd Durham NC 27705",
+    "addr:housenumber":"3000",
+    "addr:postcode":"27705",
+    "addr:street":"Hillsborough Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.936154,36.015708,-78.936154,36.015708",
     "geom:latitude":36.015708,
     "geom:longitude":-78.936154,
@@ -30,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980565,
-        102080909
+        102080909,
+        85877141,
+        85877171,
+        85877201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,37 @@
     "wof:geomhash":"58008659be7aea66043f7fe14a9eec75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080909,
             "locality_id":85980565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877141,
+            "region_id":85688773,
+            "venue_id":286689749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85877171,
+            "region_id":85688773,
+            "venue_id":286689749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":85877201,
             "region_id":85688773,
             "venue_id":286689749
         }
     ],
     "wof:id":286689749,
-    "wof:lastmodified":1466648952,
+    "wof:lastmodified":1491901822,
     "wof:name":"Strawbridge Studios Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

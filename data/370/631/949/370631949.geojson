@@ -2,9 +2,14 @@
   "id": 370631949,
   "type": "Feature",
   "properties": {
+    "addr:full":"5971 Dixon Dr Raleigh NC 27609",
+    "addr:housenumber":"5971",
+    "addr:postcode":"27609",
+    "addr:street":"Dixon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.64974,35.861366,-78.64974,35.861366",
     "geom:latitude":35.861366,
     "geom:longitude":-78.64974,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85980569,
         102087821,
@@ -42,7 +48,7 @@
     "wof:geomhash":"cc01123888a1795049861ee7699bf3b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087821,
             "locality_id":85980569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370631949,
-    "wof:lastmodified":1466654293,
+    "wof:lastmodified":1491906001,
     "wof:name":"Pirrera & Assoc",
     "wof:parent_id":85838213,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353575271,
   "type": "Feature",
   "properties": {
+    "addr:full":"2320 Oak Leigh Dr Charlotte NC 28262",
+    "addr:housenumber":"2320",
+    "addr:postcode":"28262",
+    "addr:street":"Oak Leigh Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.710385,35.321283,-80.710385,35.321283",
     "geom:latitude":35.321283,
     "geom:longitude":-80.710385,
@@ -29,10 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
-        85816993,
         85871243
     ],
     "wof:breaches":[],
@@ -43,16 +48,7 @@
     "wof:geomhash":"7114d9ddd8f5eb6a13ed109f470e66fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "neighbourhood_id":85816993,
-            "region_id":85688773,
-            "venue_id":353575271
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -62,9 +58,9 @@
         }
     ],
     "wof:id":353575271,
-    "wof:lastmodified":1466649095,
+    "wof:lastmodified":1491911016,
     "wof:name":"Pharr Better Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],

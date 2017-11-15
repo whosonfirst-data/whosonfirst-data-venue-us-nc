@@ -2,9 +2,14 @@
   "id": 386997045,
   "type": "Feature",
   "properties": {
+    "addr:full":"13935 S Point Blvd Charlotte NC 28273",
+    "addr:housenumber":"13935",
+    "addr:postcode":"28273",
+    "addr:street":"S Point Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.957326,35.10716,-80.957326,35.10716",
     "geom:latitude":35.10716,
     "geom:longitude":-80.957326,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688773,
+        102191575,
         85633793,
         85981333,
         102080981,
@@ -47,7 +53,7 @@
     "wof:geomhash":"8cf54a92a1e4fbf7f892a4485392c63c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080981,
             "locality_id":85981333,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":386997045,
-    "wof:lastmodified":1466650278,
+    "wof:lastmodified":1491912372,
     "wof:name":"Plastic Fabrication & Forming",
     "wof:parent_id":85850975,
     "wof:placetype":"venue",
