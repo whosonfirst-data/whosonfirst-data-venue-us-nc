@@ -7,13 +7,16 @@
     "addr:postcode":"27560",
     "addr:street":"Copley Pkwy Ste 110",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.821404,35.863098,-78.821404,35.863098",
     "geom:latitude":35.863098,
     "geom:longitude":-78.821404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Copley Pkwy Ste 110",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461750700,
-    "wof:geomhash":"b4c430c9cf3580729cdb2a1d187d22be",
+    "wof:geomhash":"47a9c2c94b202489ac8fef9cfdc98741",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +58,17 @@
         }
     ],
     "wof:id":689427319,
-    "wof:lastmodified":1472633397,
+    "wof:lastmodified":1510942556,
     "wof:name":"Kelly Services",
     "wof:parent_id":85857059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        689427701
+    ],
+    "wof:supersedes":[
+        673073185
+    ],
     "wof:tags":[]
 },
   "bbox": [

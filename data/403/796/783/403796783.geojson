@@ -7,13 +7,16 @@
     "addr:postcode":"27514",
     "addr:street":"Weaver Dairy Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.055736,35.963934,-79.055736,35.963934",
     "geom:latitude":35.963934,
     "geom:longitude":-79.055736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1129 Weaver Dairy Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1uLGHwNIq1PzRB9eDPJIfD_35.963934_-79.055736@1294165850"
     },
     "wof:country":"US",
-    "wof:geomhash":"3348d2922c11033a32087c76cb94b9c9",
+    "wof:geomhash":"4cdac10586b1d3a981185e92f9b226fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +55,18 @@
         }
     ],
     "wof:id":403796783,
-    "wof:lastmodified":1472632329,
+    "wof:lastmodified":1510942514,
     "wof:name":"Oscars Q & Bar",
     "wof:parent_id":85838755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        689423507,
+        689423093
+    ],
+    "wof:supersedes":[
+        403744895
+    ],
     "wof:tags":[]
 },
   "bbox": [

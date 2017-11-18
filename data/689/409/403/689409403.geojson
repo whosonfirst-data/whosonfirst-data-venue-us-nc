@@ -7,6 +7,7 @@
     "addr:postcode":"28277",
     "addr:street":"Providence Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.779148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8040 Providence Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -68,12 +69,14 @@
         }
     ],
     "wof:id":689409403,
-    "wof:lastmodified":1510875052,
+    "wof:lastmodified":1510943088,
     "wof:name":"Manhattan Bagel",
     "wof:parent_id":420532187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        689455275
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

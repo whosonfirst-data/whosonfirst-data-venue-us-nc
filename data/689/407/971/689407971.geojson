@@ -7,6 +7,7 @@
     "addr:postcode":"28203",
     "addr:street":"South Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.854584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1501 South Blvd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -66,12 +67,14 @@
         }
     ],
     "wof:id":689407971,
-    "wof:lastmodified":1510874530,
+    "wof:lastmodified":1510941981,
     "wof:name":"Einstein Bros",
     "wof:parent_id":85867041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        689442699
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wrap",

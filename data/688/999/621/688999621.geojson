@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.937349,36.009046,-78.937349,36.009046",
     "geom:latitude":36.009046,
     "geom:longitude":-78.937349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"508 Fulton St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":467224175,
         "sg:id":"SG_6w5YRX9ByXUzQInvXVRmCL_36.009046_-78.937349@1294165850"
     },
     "wof:country":"US",
     "wof:created":1461737261,
-    "wof:geomhash":"a0f4bb7bf18858a63fefc06e7de9886e",
+    "wof:geomhash":"0020812a06a0b4bc404516d9e7ab4706",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,15 @@
         }
     ],
     "wof:id":688999621,
-    "wof:lastmodified":1472633001,
+    "wof:lastmodified":1510943844,
     "wof:name":"Durham V A Medical Center",
     "wof:parent_id":85877141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        253425535
+    ],
     "wof:tags":[
         "affairs",
         "hospital",

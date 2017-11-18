@@ -7,13 +7,16 @@
     "addr:postcode":"27514",
     "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.055365,35.93146,-79.055365,35.93146",
     "geom:latitude":35.93146,
     "geom:longitude":-79.055365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"940 Airport Rd",
     "sg:city":"Chapel Hill",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461748934,
-    "wof:geomhash":"eb0f81607679fce537e5488a187296d0",
+    "wof:geomhash":"51db8bc4d4e493c14ec39f19e2e84be6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":689382487,
-    "wof:lastmodified":1472633324,
+    "wof:lastmodified":1510944013,
     "wof:name":"Chapel Hill Internal Medicine",
     "wof:parent_id":85851931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        689423423
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

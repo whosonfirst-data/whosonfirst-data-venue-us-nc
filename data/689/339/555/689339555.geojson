@@ -7,13 +7,16 @@
     "addr:postcode":"27704",
     "addr:street":"N Duke St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.905729,36.050094,-78.905729,36.050094",
     "geom:latitude":36.050094,
     "geom:longitude":-78.905729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3600 N Duke St",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461747252,
-    "wof:geomhash":"827e40468863610cf584e99d8714819f",
+    "wof:geomhash":"ae37b2192a85edced23a87b6726dbff9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":689339555,
-    "wof:lastmodified":1472633249,
+    "wof:lastmodified":1510944140,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85877187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nc",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        689404997
+    ],
+    "wof:supersedes":[
+        656383871
+    ],
     "wof:tags":[
         "pizza"
     ]
